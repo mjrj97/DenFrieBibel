@@ -1,0 +1,14 @@
+{
+    "books" : [
+        {
+          "name": "Ruths bog",
+          "abbreviation": "ruth",
+          "chapters": 4
+        },
+        {
+          "name": "Jobs bog",
+          "abbreviation": "job",
+          "chapters": 42
+        }
+    ]
+}
