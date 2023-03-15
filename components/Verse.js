@@ -37,7 +37,7 @@ function Verse(props) {
     return (
         <span className='verseLine'>
             {props.verseNumber ? <strong id={props.verseNumber} className='verseNumber ignore'>v{props.verseNumber}</strong> : <></>}
-            &nbsp;{text}
+            {text}&nbsp;
         </span>
     )
 }

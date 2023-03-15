@@ -33,10 +33,11 @@ const Index = () => {
   return (
     <>
       <Head>
-        <title>Den frie bibel</title>
+        <title>Den Frie Bibel</title>
         <link rel="icon" href="/icon.png" />
       </Head>
       <BookDropdown bookChanged={setCurrentBook} chapterChanged={setCurrentChapter} books={books}/>
+      <div className='my-4'/>
       <BibleText text={text}/>
     </>
   )

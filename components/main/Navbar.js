@@ -8,8 +8,8 @@ const Navbar = () => {
             <div className='row p-2 pt-4'>
                 <Link className="col-3 nav-link" href="/">Læs i bibelen</Link>
                 <Link className="col-3 nav-link" href="/settings">Læseoplevelse</Link>
-                <Link className="col-3 nav-link" href="/">Om os</Link>
-                <Link className="col-3 nav-link" href="/">Kontakt os</Link>
+                <Link className="col-3 nav-link" href="/about">Om os</Link>
+                <Link className="col-3 nav-link" href="/contact">Kontakt os</Link>
             </div>
         </div>
     )

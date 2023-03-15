@@ -16,9 +16,9 @@ const App = ({ Component, pageProps }) => {
       <Body>
         <Component {...pageProps} />
       </Body>
-      <Footer>
+      {/*<Footer>
         <p>Den frie bibel</p>
-      </Footer>
+      </Footer>*/}
     </div>
   );
 }

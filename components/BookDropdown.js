@@ -57,8 +57,8 @@ function BookDropdown(props) {
             <div className="container px-0 mx-0 mb-2">
                 <div className='arrow-container'>
                     <div className='d-flex justify-content-between'>
-                        <a className='arrow arrow-left ignore' href='#/' onClick={subtractChapter}>←</a>
-                        <a className='arrow arrow-right ignore' href='#/' onClick={addChapter}>→</a>
+                        <a className={'btn btn-light arrow arrow-left ignore' + (currentChapter == 1 ? ' disabled' : '')} href='javascript:;' onClick={subtractChapter}>←</a>
+                        <a className={'btn btn-light arrow arrow-right ignore' + (currentChapter == currentBook.chapters ? ' disabled' : '')} href='javascript:;' onClick={addChapter}>→</a>
                     </div>
                 </div>
                 <div className="row">
