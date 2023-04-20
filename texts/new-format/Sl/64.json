@@ -1,0 +1,152 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 64,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen.Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Gud, hør mig når jeg klager,beskyt mit liv mod frygt for fjenden.",
+      "number": 2
+    },
+    {
+      "text": "Skjul mig for de ondes fortrolige råd,for larmen fra dem som begår synd.",
+      "number": 3
+    },
+    {
+      "text": "De som har skærpet deres tunge som et sværd,har spændt deres pil, nemlig et bittert ord,",
+      "number": 4
+    },
+    {
+      "text": "for i skjul at skyde den uskyldige;pludselig skyder de ham og frygter ikke.",
+      "number": 5
+    },
+    {
+      "text": "De fastsætter for sig selv en ond plan,de taler om at skjule fælder,de sagde: >>Hvem kan se dem?<<",
+      "number": 6
+    },
+    {
+      "text": "De udtænker ugerninger:>>Vi er færdige med en udtænkt plan.<<Ja, et menneskes inderste og dets hjerte er uudgrundeligt.",
+      "number": 7
+    },
+    {
+      "text": "Men Gud vil skyde en pil imod dem,pludselig har de sår.",
+      "number": 8
+    },
+    {
+      "text": "Og de vil bringe sig selv til fald ved deres tunge,alle som ser dem, skal ryste på hovedet.",
+      "number": 9
+    },
+    {
+      "text": "Og alle mennesker skal frygteog forkynde Guds gerningog give agt på hans handling.",
+      "number": 10
+    },
+    {
+      "text": "Den retfærdige skal glæde sig i JHVHog søge tilflugt hos ham,og alle oprigtige af hjertet skal prise sig lykkelige.",
+      "number": 11
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Klage",
+      "verse": 2
+    },
+    {
+      "text": "Guds retfærdige dom",
+      "verse": 8
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Ordret: >>hør min røst i min klage.<<",
+      "type": "T",
+      "verse": 2,
+      "position": 28
+    },
+    {
+      "text": "Ordret: >>beskyt mit liv fra fjendefrygt<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 65
+    },
+    {
+      "text": "Den præcise betydning af ordet *rigšāʰ* er usikker og omdiskuteret. Roden *rgš* betyder formodentlig: >>være i urolig, larmende bevægelse<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 48
+    },
+    {
+      "text": "Det hebraiske ord *dāvār* kan betyde både >>ord<< (v.4) og >>plan<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 39
+    },
+    {
+      "text": "Normalt betyder verbet *spr* i pi’el: >>fortælle<<. Hvis det er meningen, er det udtryk for overmod at man informerer fjenden. Oftest oversætter man her: >>tale om/aftale<<. Nogle fortolkere foreslår tekstrettelse til verbet *ḥpr*: >>grave<<. >>De graver for at skjule fælder<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 47
+    },
+    {
+      "text": "Undertiden retter oversættere *lāmô* (>>dem<<) til *lānû*: >>os<<",
+      "type": "T",
+      "verse": 6,
+      "position": 98
+    },
+    {
+      "text": "Ofte rettes *tamnû* (>>vi er færdige<<) til: *tammû*: >>de er færdige<< eller: *ṭamᵊnû*: >>de har skjult<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 38
+    },
+    {
+      "text": ">>med<< står ikke udtrykkeligt i den hebraiske tekst, men må være underforstået i sammenhængen, hvis teksten/oversættelsen i øvrigt er rigtig.",
+      "type": "T",
+      "verse": 7,
+      "position": 42
+    },
+    {
+      "text": "Alle oversættelser af dette vers må tages med forbehold.",
+      "type": "E",
+      "verse": 7,
+      "position": 61
+    },
+    {
+      "text": "Det er omdiskuteret, om verberne i v.8-10 skal oversættes ved fortid eller fremtid. Wayyiqtol skal normalt oversættes ved fortid, men kan også opfattes som profetisk tillidsfuldhed.",
+      "type": "E",
+      "verse": 8,
+      "position": 17
+    },
+    {
+      "text": "Accenterne i den hebraiske tekst lader >>pludselig<< høre til første halvvers hvor det giver god mening. Men rytmisk passer det bedre til andet halvvers.",
+      "type": "E",
+      "verse": 8,
+      "position": 43
+    },
+    {
+      "text": "Ordret: >>og de vil bringe den til fald over dem selv, deres tunge<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 51
+    },
+    {
+      "text": "Andre oversætter: >>skal flygte<<. Der er tale om to forskellige verber.",
+      "type": "T",
+      "verse": 9,
+      "position": 91
+    }
+  ]
+}

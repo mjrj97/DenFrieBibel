@@ -1,0 +1,82 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 126,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Valfartssang.Da JHVH vendte Zions fangenskab,da var vi som drømmende,",
+      "number": 1
+    },
+    {
+      "text": "da fyldtes vor mund med latterog vor tunge med jubel.Da sagde man blandt folkene:>>JHVH har gjort store ting mod dem.<<",
+      "number": 2
+    },
+    {
+      "text": "JHVH har gjort store ting mod os;vi blev glade.",
+      "number": 3
+    },
+    {
+      "text": "Vend vor lod, JHVHv,som Sydlandets vandløb!",
+      "number": 4
+    },
+    {
+      "text": "De som sår med tårer,skal høste med jubel.",
+      "number": 5
+    },
+    {
+      "text": "Man går under bestandig grådbærende sæden der sås;man skal komme hjem med jubel,bærende sine neg.",
+      "number": 6
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Da JHVH vendte Zions fangenskab",
+      "verse": 2
+    },
+    {
+      "text": "Bøn om at frelserværket føres til ende",
+      "verse": 4
+    },
+    {
+      "text": "Tillid og trøst",
+      "verse": 5
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Betydningen af ordet: *šîvat* (status constructus af: *šîvāʰ*: >>fangenskab<<), der kun forekommer dette ene sted i GT, er usikker. Ofte antager man at det er skrivefejl for: *šᵊvît*: >>fangenskab<<. Der er dog intet i vejen for at der kan have været to ord med næsten samme betydning; vi kender blot ikke betydningsnuancerne. Men man retter som regel til: *šᵊvût*, der formodentlig betyder: >>lod<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 45
+    },
+    {
+      "text": "Kan også oversættes: >>hedningerne<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 81
+    },
+    {
+      "text": "Konsonantteksten har: *šᵊvûtēnû*: >>vor skæbne<<, mens vokaliseringen forudsætter: *šᵊvîtēnû*: >>vort fangenskab<<, jf. note til v.1.",
+      "type": "E",
+      "verse": 4,
+      "position": 13
+    },
+    {
+      "text": "De fyldes i regntiden efter tørken.",
+      "type": "T",
+      "verse": 4,
+      "position": 43
+    }
+  ]
+}

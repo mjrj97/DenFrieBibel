@@ -1,0 +1,62 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 125,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Valfartssang.De som stoler på JHVH,er som Zions bjerg,der ikke rokkes, der består til evig tid.",
+      "number": 1
+    },
+    {
+      "text": "Jerusalem – der er bjerge omkring den,og JHVH er omkring sit folkfra nu af og til evig tid.",
+      "number": 2
+    },
+    {
+      "text": "For uretfærdighedens scepter skal ikke hvileover de retfærdiges arvelodfor at de retfærdige ikke skal rækkederes hænder til uretfærdighed.",
+      "number": 3
+    },
+    {
+      "text": "Gør vel, JHVHv, mod de godeog mod dem der er oprigtige i deres hjerter.",
+      "number": 4
+    },
+    {
+      "text": "Men dem som slår ind på deres krogede veje,skal JHVH lade fare bort med dem som begår synd.Fred over Israel!",
+      "number": 5
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Tillid til JHVHs omsorg",
+      "verse": 2
+    },
+    {
+      "text": "Bøn",
+      "verse": 4
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Ordret: >>omkring hende<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 38
+    },
+    {
+      "text": "Kan også oversættes: >>ugudelighedens<<",
+      "type": "T",
+      "verse": 3,
+      "position": 20
+    }
+  ]
+}

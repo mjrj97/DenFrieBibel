@@ -1,0 +1,124 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 32,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Af David. Maskil.Salig er den, hvis overtrædelse er forladt,hvis synd er skjult.",
+      "number": 1
+    },
+    {
+      "text": "Saligt er det menneske som JHVH ikke tilregner skyld,og i hvis ånd der ikke er svig.",
+      "number": 2
+    },
+    {
+      "text": "Da jeg tav, sygnede mine knogler henunder min stønnen hele dagen.",
+      "number": 3
+    },
+    {
+      "text": "For dag og nat lå din hånd tungt på mig,min livskraft svandt heni sommerens tørke. Sela",
+      "number": 4
+    },
+    {
+      "text": "Jeg bekendte min synd for digog skjulte ikke min skyld,jeg sagde: >>Jeg vil aflægge tilståelse for mine overtrædelser for JHVH<<,og du forlod mig min syndeskyld. Sela",
+      "number": 5
+    },
+    {
+      "text": "Derfor skal hver from bede til digden stund, du findes.Selv en flod af store vande -til ham skal de ikke nå.",
+      "number": 6
+    },
+    {
+      "text": "Du er mit skjul,du bevarer mig for trængsel,med udfrielsens jubel omgiver du mig. Sela",
+      "number": 7
+    },
+    {
+      "text": ">>Jeg vil undervise dig og lære dig den vej som du skal gå,jeg vil råde dig, idet mit øje er rettet mod dig.<<",
+      "number": 8
+    },
+    {
+      "text": "Vær ikke som hest, som muldyr, uden indsigt,hvis prydelse er tømme og bidsel, hvormed man kan tvinge demnår de ikke vil komme nær til dig.",
+      "number": 9
+    },
+    {
+      "text": "Mange smerter er der til den ugudelige,men den, som stoler på JHVH,omgiver han med nåde.",
+      "number": 10
+    },
+    {
+      "text": "Glæd jer i JHVH, og fryd jer, I retfærdige!og I skal juble, alle I som er oprigtige af hjertet!",
+      "number": 11
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Lykken i tilgivelsen",
+      "verse": 2
+    },
+    {
+      "text": "Lidelse på grund af ubodfærdighed",
+      "verse": 3
+    },
+    {
+      "text": "Syndsbekendelse",
+      "verse": 5
+    },
+    {
+      "text": "Opmuntring til at søge hjælp hos Gud",
+      "verse": 6
+    },
+    {
+      "text": "Guds nådesord{E: Andre opfatter verset som salmistens belærende ord til menigheden}",
+      "verse": 8
+    },
+    {
+      "text": "Formaning og opmuntring til at stole på JHVH",
+      "verse": 9
+    },
+    {
+      "text": "Afsluttende lovprisning",
+      "verse": 11
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<< Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<",
+      "type": "E",
+      "verse": 1,
+      "position": 17
+    },
+    {
+      "text": "Betydningen af *lāšād* er højst usikker. Det optræder kun her og 4 Mos 11,8, hvor det oversættes >>kage<<. Her måske >>fedt/saft<<, der kan forstås som >>livskraft<<. Ellers må man rette til *lāšōn*: >>tunge<<",
+      "type": "E",
+      "verse": 4,
+      "position": 53
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 87
+    },
+    {
+      "text": "Ordet *raq* er omdiskuteret. Oftest skal det oversættes >>kun<<. Det er usikkert om det skal knyttes til denne eller den foregående linje. Hvis det knyttes til den foregående linje, understreger det at tiden, hvor Gud kan findes, er begrænset",
+      "type": "E",
+      "verse": 6,
+      "position": 59
+    },
+    {
+      "text": "Verbet er plur., så verset kan ikke være umiddelbar forlængelse af det foregående vers",
+      "type": "E",
+      "verse": 9,
+      "position": 3
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 10,
+      "position": 87
+    }
+  ]
+}

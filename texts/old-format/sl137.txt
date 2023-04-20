@@ -1,0 +1,62 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
+
+===Salme 137===
+
+==Nøden i eksilet==
+//0 v1 Ved Babylons floder,{T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.} //4 dér sad vi,//5 og vi græd
+
+//6 når vi mindedes Zion.
+
+//3 v2 I poplerne i landet{T: Ordret: >>i dets midte<<.}
+
+hængte vi vore citere.
+
+//5 v3 For dér krævede
+
+vore fangevogtere{T: Ordret: >>de som holdt os fangne<<.} at vi skulle synge,
+
+//7 og vore plageånder{E: Grundtekstens: *tôlol* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulle være glade:{T: Ordret blot: >>(krævede) glæde<<.}
+
+//6 >>Syng for os
+
+af Zions sange!<<{E: *šîr* (>>sange<<) er egentlig singularis, men må opfattes kollektivt som: >>sange<<.}
+
+//4 v4 Hvordan skulle vi synge JHVHs sang
+
+på fremmed jord?
+
+==Kærlighedserklæring til Jerusalem==
+//2 v5 Hvis jeg glemmer dig,//4 Jerusalem,
+
+//3 gid min højre så må svigte;{E: Ordret: >>må glemme<<. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: >>gid du (Gud) så må glemme min højre<<. Oftest retter man nu verbet *tiškaḥ* (>>må glemme<<) til: *tikḥaš* eller: *tᵊkaḥēš*: >>gid … må skrumpe ind/lammes<<.}
+
+//3 v6 gid min tunge må klæbe til min gane
+
+//5 hvis jeg ikke husker dig,
+
+//4 hvis jeg ikke ophøjer Jerusalem
+
+over min højeste glæde.{T: Ordret: >>over min glædes hoved/tinde<<.}
+
+==Straf over Edom og Babylon==
+//4 v7 JHVHv,//1 husk//3 Edoms sønner
+
+for Jerusalems dag,
+
+//4 da de sagde:
+
+//5 >>Riv ned,//5 riv ned til dens grund.<<{T: Ordret: >>til grunden i den<<.}
+
+//2 v8 Babylons datter,//4 som skal ødelægges!{E: Kan også oversættes: >>du ødelagte<<. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (>>som skal ødelægges/er ødelagt<<) til: *haššādôdāʰ*: >>ødelæggersken/du ødelæggerske<<.}
+
+//3 Lykkelig//4 den som gengælder dig
+
+din gerning//5 som du gjorde mod os.
+
+//3 v9 Lykkelig//4 den som griber//5 og knuser
+
+dine børn mod klippen.

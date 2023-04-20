@@ -1,0 +1,146 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 9,
+  "version": 1615935600000,
+  "verses": [
+    {
+      "text": "Et profetudsagn.JHVHs ord er i Hadraks land;Damaskus er dets hvilested– for JHVHs øjne hviler på menneskehedenog på alle Israels stammer –",
+      "number": 1
+    },
+    {
+      "text": "og også Hamat, som grænser op til det,og Tyrus og Sidon; på trods af deres store visdom.",
+      "number": 2
+    },
+    {
+      "text": "Tyrus byggede sig en fæstning;opdyngede sølv som støvog guld som gadens mudder.",
+      "number": 3
+    },
+    {
+      "text": "Men se, JHVH skal indtage denog smide dens rigdomme i havet.",
+      "number": 4
+    },
+    {
+      "text": "Ashkalon skal se det og blive bange,Gaza skal blive rædselsslagenog ligeså Ekron, for dens håb er blevet til skamme.Gazas konge skal omkomme,Ashkalon skal ikke regeres,",
+      "number": 5
+    },
+    {
+      "text": "og i Ashdod skal en bastard sidde på tronen.Jeg vil udrydde filistrenes hovmod.",
+      "number": 6
+    },
+    {
+      "text": "Jeg vil fjerne blodet fra hans mund;afskyelighederne fra hans tænder.Og han skal efterlades til vores Gud;han skal være som en høvding i Juda,og Ekron som en jebusit.",
+      "number": 7
+    },
+    {
+      "text": "Jeg vil slå lejr foran mit hus;som en fæstning imod dem, der drager i krig.Så skal ingen længere rykke ud imod dem,for nu har jeg set med mine egne øjne.",
+      "number": 8
+    },
+    {
+      "text": "Bryd ud i jubel, Zions datter!Råb af glæde, Jerusalems datter!Se, din konge kommer til dig,han er retfærdig og sejrrig,ydmyg og ridende på et æsel;på en æselhoppes føl.",
+      "number": 9
+    },
+    {
+      "text": "Jeg vil udrydde stridsvognene i Efraim;hestene i Jerusalem;krigsbuen skal udryddes.Han skal forkynde fred til folkeslagene,og hans herredømme skal være fra hav til hav;fra floden indtil jordens ender.",
+      "number": 10
+    },
+    {
+      "text": "Og du, på grund af dit pagtsblodvil jeg slippe dine fanger løsfra en cisterne, hvor der ikke er vand i.",
+      "number": 11
+    },
+    {
+      "text": "Vend tilbage til fæstningen,I fanger som har håb!Også i dag forkynder jeg:jeg vil gengælde dig dobbelt.",
+      "number": 12
+    },
+    {
+      "text": "For jeg spænder Judaog lægger Efraim på buen;jeg opildner dine sønner, Zion,imod dine sønner, Grækenland;jeg bruger dig som en krigers sværd.",
+      "number": 13
+    },
+    {
+      "text": "JHVH vil komme til syne over dem,og hans pil skal fare ud som lynet;den Herre JHVH skal støde i hornetog gå frem i stormene fra syd.",
+      "number": 14
+    },
+    {
+      "text": "Hærskarers JHVHv skal beskytte dem,og de skal æde, nedtrampe slyngesten,drikke og brøle som berusede,og de skal søles til som offerskålen; som alterets hjørner.",
+      "number": 15
+    },
+    {
+      "text": "JHVH deres Gud skal frelse dem på den dagsom sit folks hjord,for de er som ædle sten,der funkler over hans land.",
+      "number": 16
+    },
+    {
+      "text": "For hvor er det godt,og hvor er det skønt!Korn får unge mændog vin unge kvinder til at blomstre.",
+      "number": 17
+    }
+  ],
+  "titles": [
+    {
+      "text": "JHVHs felttog og genoprettelsen af Davidsriget",
+      "verse": 1
+    },
+    {
+      "text": "Kongen kommer",
+      "verse": 9
+    },
+    {
+      "text": "JHVH frelser sit folk",
+      "verse": 11
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Syntaksen er omdiskuteret. Generelt oversættes det enten med >>JHVHs ords profeti over Hadraks land<< (fx den danske oversættelse fra 1871) eller opdeles i overskriften for hele afsnittet >>Et profetudsagn<< og første sætning i afsnittet >>JHVHs ord er i Hadraks land<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 25
+    },
+    {
+      "text": "Verset er vanskeligt at oversætte. Ordret står der >>For JHVHs er menneskets øje<<. Det kan forstås som både en subjektiv genitiv >>Menneskets øje er på JHVH<< eller som en objektiv genitiv >>JHVHs er øjet på mennesket<< eller mere mundret >>JHVHs øje er på mennesket<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 138
+    },
+    {
+      "text": "Eller >>fæstning<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 51
+    },
+    {
+      "text": "En anden mulighed er >>Ashkalon skal ikke bebos<<, fordi det hebraiske *yāšav* både kan betyde >>bo<< eller >>sidde<< (på en trone).",
+      "type": "E",
+      "verse": 5,
+      "position": 168
+    },
+    {
+      "text": "Ordret >>En bastard skal sidde/bo i Ashdod<<. Bastard behøver ikke forstås biologisk, men kan forstås bredere som korrupt, og sammenhængen med vers 5 kunne tyde på, at der er tale om en konge.",
+      "type": "E",
+      "verse": 6,
+      "position": 44
+    },
+    {
+      "text": "Ordret >>dem der drager ud og vender hjem<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 75
+    },
+    {
+      "text": "Ordret >>som af vin<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 101
+    },
+    {
+      "text": "Ordret >>fyldes af<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 121
+    },
+    {
+      "text": "Ordret >>en (konge)krones sten<<.",
+      "type": "T",
+      "verse": 16,
+      "position": 85
+    }
+  ]
+}

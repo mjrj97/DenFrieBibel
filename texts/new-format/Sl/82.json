@@ -1,0 +1,84 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 82,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Salme af Asaf.Gud står i det guddommelige råd,midt iblandt guder vil han holde dom:",
+      "number": 1
+    },
+    {
+      "text": ">>Hvor længe vil I dømme uretfærdigtog løfte de ugudeliges ansigter? Sela",
+      "number": 2
+    },
+    {
+      "text": "Skaf den ringe og den faderløse ret,hjælp den hjælpeløse og den arme til retfærdighed,",
+      "number": 3
+    },
+    {
+      "text": "red den ringe og den fattige,udfri af de ugudeliges hånd!",
+      "number": 4
+    },
+    {
+      "text": "De vidste ikke og forstod ikke,de vandrer omkring i mørke,alle jordens grundvolde vakler.",
+      "number": 5
+    },
+    {
+      "text": "Jeg har sagt: I er guder,og I er alle den Højestes sønner.",
+      "number": 6
+    },
+    {
+      "text": "Men I skal dø som menneske,og som en af fyrsterne skal I falde.<<",
+      "number": 7
+    },
+    {
+      "text": "Rejs dig, Gud, hold dom over jorden,for du har alle folkene til ejendom.",
+      "number": 8
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Indledning",
+      "verse": 2
+    },
+    {
+      "text": "Guds domstale{E: Man kan overveje, om hele stykket v.2-7 er Guds tale, eller om især v.5 er en andens anklagende indlæg eller salmistens klage. Selv om der veksles fra 2. til 3. person, synes det dog stadig at være Gud der taler. Men det vurderes forskelligt.}",
+      "verse": 2
+    },
+    {
+      "text": "Afsluttende bøn",
+      "verse": 8
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: >>guds forsamling/menighed<<, idet der er anvendt det korte *ʔēl* (>>gud<<), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
+      "type": "E",
+      "verse": 1,
+      "position": 46
+    },
+    {
+      "text": "Her er formodentlig tænkt på jordiske dommere. Andre tænker dog på det himmelske råd.",
+      "type": "T",
+      "verse": 1,
+      "position": 64
+    },
+    {
+      "text": "Det er: Begunstige og tage parti for de ugudelige, favorisere dem.",
+      "type": "T",
+      "verse": 2,
+      "position": 68
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 2,
+      "position": 73
+    }
+  ]
+}

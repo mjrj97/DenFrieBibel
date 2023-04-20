@@ -1,0 +1,46 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 123,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Valfartssang.Til dig har jeg løftet mine øjne,du som troner i himlen!",
+      "number": 1
+    },
+    {
+      "text": "Se, som trælles øjneer rettet mod deres herrers hånd,som en trælkvindes øjneer rettet mod hendes frues hånd,sådan er vore øjne rettet mod JHVH, vor Gud,indtil han er os nådig.",
+      "number": 2
+    },
+    {
+      "text": "Vær os nådig, JHVHv, vær os nådig,for vi er voldsomt mættede med foragt!",
+      "number": 3
+    },
+    {
+      "text": "Vor sjæl er overmætaf spotten, de sorgløse,{E: Udtrykket kan måske betyde: >>af spotten, nemlig fra de sorgløse<<. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (>>de sorgløse<<) ser ud til at have læst: *laššaˀᵃnannîm*: >>fra de sorgløse<<.}foragten fra stolte.{E: Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (>>fra stolte<<) skal deles i to ord: *ligᵊʔê yônîm*: >>fra undertrykkeres stolte<< = >>fra stolte blandt undertrykkere<<.}",
+      "number": 4
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "De troendes tillid og forventning",
+      "verse": 2
+    },
+    {
+      "text": "Vær os nådig!",
+      "verse": 3
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    }
+  ]
+}

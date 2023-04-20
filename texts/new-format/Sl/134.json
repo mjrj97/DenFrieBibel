@@ -1,0 +1,66 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 134,
+  "version": 1492725600000,
+  "verses": [
+    {
+      "text": "Valfartssang.Kom, pris JHVH,alle JHVHs tjeneresom står i JHVHs husom natten.",
+      "number": 1
+    },
+    {
+      "text": "Løft jeres hænder mod helligdommen,og pris JHVH!",
+      "number": 2
+    },
+    {
+      "text": "JHVH velsigne dig fra Zion,han som skabte himmel og jord.",
+      "number": 3
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning af Herren",
+      "verse": 2
+    },
+    {
+      "text": "Velsignelse",
+      "verse": 3
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Ordret: >>Se!<<, men sammen med en imperativ angiver det en opfordring eller et foranstillet udråbstegn.",
+      "type": "T",
+      "verse": 1,
+      "position": 17
+    },
+    {
+      "text": "Kan også oversættes: >>velsign<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 22
+    },
+    {
+      "text": "*ballêlôt* ordret: >>om nætterne<<. Det er omdiskuteret hvad pluralis skal betegne her. Nogle oversætter: >>nat efter nat<<, andre: >>i nattevagterne<<, andre: >>i den dybeste nat<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 76
+    },
+    {
+      "text": "Kan også oversættes: >>velsign<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 42
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 46,
+  "version": 1666562400000,
+  "verses": [
+    {
+      "text": "Til korlederen.\n\t\t\tAf Koras sønner.\n\t\tAl-alamot.\n\tEn sang.",
+      "number": 1
+    },
+    {
+      "text": "Gud er for os tilflugt og værn,nærværende\n\t\t\t\tsom en hjælp i trængsler, ja, meget.",
+      "number": 2
+    },
+    {
+      "text": "\t\t\tDerfor vil vi ikke frygte,\n\t\t\t\t\tnår jorden forandres,\n\t\t\t\t\t\tog bjergene vakler midt i havet,",
+      "number": 3
+    },
+    {
+      "text": "\t\t\t\tnår dets vande buldrer\n\t\t\t\t\tog skummer,\n\t\t\t\t\tnår bjergene bæver for dets vælde.\n\t\t\t\t\t\tSela",
+      "number": 4
+    },
+    {
+      "text": "\t\tEn flod,\n\t\t\tdens kanaler glæder Guds by,den Højestes hellige bolig.",
+      "number": 5
+    },
+    {
+      "text": "\t\t\t\tGud er i dens midte,\n\t\t\t\t\t\tden skal ikke rokkes,\n\t\t\t\t\tGud vil hjælpe den\n\t\t\t\t\t\t\t\tnår morgenen bryder frem.",
+      "number": 6
+    },
+    {
+      "text": "\t\t\t\t\t\t\tFolkeslag buldrede,\n\t\t\t\t\t\t\tkongeriger vaklede,\n\t\t\t\t\t\than lod sin røst lyde -\n\t\t\t\t\t\t\tjorden ryster.",
+      "number": 7
+    },
+    {
+      "text": "\tHærskarers JHVHv er med os,\n\t\t\tJakobs Gud er en borg for os.\n\t\t\t\tSela",
+      "number": 8
+    },
+    {
+      "text": "\t\tKom,\n\t\tse JHVHs gerninger,\n\t\t\t\thvorledes han har anrettet forfærdelse på jorden.",
+      "number": 9
+    },
+    {
+      "text": "\t\t\t\t\tHan får krige bragt til ro til jordens ende,\n\t\t\tsønderbryder buen\n\t\t\t\tog hugger spyddet itu,\n\t\t\tafbrænder vogne med ild.",
+      "number": 10
+    },
+    {
+      "text": "\t\t>>Hold inde,\n\t\t\tog du skal vide\n\t\t\t\tat jeg er Gud,\n\t\t\t\t\tophøjet blandt folkene,\n\t\t\t\t\tophøjet på jorden!<<",
+      "number": 11
+    },
+    {
+      "text": "\tHærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,\n\t\tJakobs Gud er en borg for os.\n\t\t\tSela",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Gud er tilflugt mod naturens luner",
+      "verse": 2
+    },
+    {
+      "text": "Gud er tilflugt mod folkeslags angreb",
+      "verse": 5
+    },
+    {
+      "text": "Gud sejrer",
+      "verse": 9
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Betydningen af dette udtryk er ukendt, egtl.: >>efter de unge kvinder/på unge kvinders vis<<. Udtrykket betyder muligvis at salmen skulle synges af sopranerne, eller at den skulle synges på samme melodi som en anden salme, der begyndte med ordet >>alamot<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 48
+    },
+    {
+      "text": "Ordret: >>forefundet<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 41
+    },
+    {
+      "text": "Oversættes ofte: >>skælver, rystes<<, men det ville være eneste sted i GT at verbet har den betydning.",
+      "type": "T",
+      "verse": 3,
+      "position": 56
+    },
+    {
+      "text": "Ordret: >>i havets hjerte<<. Andre oversætter: >>i havets dyb<<. Ordet *yammîm* er egentlig pluralis (>>have<<), men er opfattet som singularis i suffikserne i v. 4. Pluralis er her udtryk for storheden.",
+      "type": "T",
+      "verse": 3,
+      "position": 95
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 94
+    },
+    {
+      "text": "Ordret: >>boliger<<, men pluralis skal formodentlig understrege storheden og helligheden.",
+      "type": "T",
+      "verse": 5,
+      "position": 69
+    },
+    {
+      "text": "Kunne også oversættes: >>hedninger<, men det er der næppe tænkt på her.",
+      "type": "T",
+      "verse": 7,
+      "position": 16
+    },
+    {
+      "text": "Betydningen er usikker. Andre oversætter: >>smelter<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 105
+    },
+    {
+      "text": "I ældre tid uoversat: >>Zebaoth<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 11
+    },
+    {
+      "text": "Oversættes ofte: >>ødelæggelser<<. Denne betydning er dog omdiskuteret og usikker. I givet fald må det forudsættes at >>ødelæggelse<< regnes som grund til >>forfærdelse<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 71
+    },
+    {
+      "text": "Der er utvivlsomt tænkt på >>stridsvogne<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 116
+    }
+  ]
+}

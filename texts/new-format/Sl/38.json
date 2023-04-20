@@ -1,0 +1,154 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 38,
+  "version": 1646002800000,
+  "verses": [
+    {
+      "text": "Salme af David.Le-hazkir.",
+      "number": 1
+    },
+    {
+      "text": "JHVHv, straf mig ikke i din vredeog tugt mig ikke i din harme!",
+      "number": 2
+    },
+    {
+      "text": "For dine pile sidder dybt i mig,og din hånd kommer ned på mig.",
+      "number": 3
+    },
+    {
+      "text": "Der er intet sundt i mit kød på grund af din vrede,der er ingen fred i mine knogler på grund af min synd.",
+      "number": 4
+    },
+    {
+      "text": "For min skyld er vokset mig over hovedet,som en tung byrde der er blevet for tung for mig.",
+      "number": 5
+    },
+    {
+      "text": "Mine sår stank, de væskedepå grund af min tåbelighed.",
+      "number": 6
+    },
+    {
+      "text": "Jeg var kroget, jeg var dybt nedbøjet,hele dagen gik jeg klædt i sørgedragt.",
+      "number": 7
+    },
+    {
+      "text": "For mine lænder er fulde af brændende bylder,og der er intet sundt ved mit kød.",
+      "number": 8
+    },
+    {
+      "text": "Jeg blev lammet og sønderknust, ja meget,jeg skreg ud af mit hjertes uro.",
+      "number": 9
+    },
+    {
+      "text": "Herre, al min længsel ligger foran dig,og mit suk er ikke skjult for dig.",
+      "number": 10
+    },
+    {
+      "text": "Mit hjerte slog heftigt, min kraft forlod mig,og mine øjnes lys - endog det er ikke hos mig.",
+      "number": 11
+    },
+    {
+      "text": "Mine venner og mine frænder holder sig på afstand af min lidelse,og mine nærmeste stod langt borte.",
+      "number": 12
+    },
+    {
+      "text": "Og de som stræber efter mit liv, satte snarer,og de som søger min ulykke, drøftede ødelæggelse,og hele dagen tænkte de på svig.",
+      "number": 13
+    },
+    {
+      "text": "Men jeg er som en døv der ikke kan høre,og som en stum der ikke åbner sin mund.",
+      "number": 14
+    },
+    {
+      "text": "Jeg er som en mand der ikke hører,og som ingen gensvar har i sin mund.",
+      "number": 15
+    },
+    {
+      "text": "For på dig, JHVHv, har jeg ventet,du vil svare, min Herre, min Gud!",
+      "number": 16
+    },
+    {
+      "text": "For jeg sagde: Lad dem ikke glæde sig over mig,de som var hovmodige over for mig da min fod vaklede.",
+      "number": 17
+    },
+    {
+      "text": "For jeg er nær ved at snuble,og min smerte står altid foran mig.",
+      "number": 18
+    },
+    {
+      "text": "For jeg må bekende min skyld,jeg er foruroliget over min synd.",
+      "number": 19
+    },
+    {
+      "text": "Men mine levende fjender er stærke,og talrige er de som hader mig uden grund.",
+      "number": 20
+    },
+    {
+      "text": "Og de som gengælder godt med ondt,de bekriger mig fordi jeg stræber efter det gode.",
+      "number": 21
+    },
+    {
+      "text": "Forlad mig ikke, JHVHv!Min Gud, vær ikke fjernt fra mig!",
+      "number": 22
+    },
+    {
+      "text": "Skynd dig at hjælpe mig,Herre, min frelse!",
+      "number": 23
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Indledende bønneråb",
+      "verse": 2
+    },
+    {
+      "text": "Bøn om tilgivelse og helbredelse",
+      "verse": 3
+    },
+    {
+      "text": "Bøn om tilgivelse og fællesskab",
+      "verse": 12
+    },
+    {
+      "text": "Afsluttende bøn",
+      "verse": 22
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen er uvis; umiddelbart betyder det: >>Til at bringe i erindring<<. Meningen kan være at man med denne bøn kan minde Gud om sine lidelser og om hans nåde. I nogle oversættelser kan man finde oversættelsen >>Til duftofferet<<, idet salmen i eftereksilsk tid (efter 539 f.Kr.) blev bedt sammen med duftofferet (3 Mos 2,2.9.16; 24,7)",
+      "type": "E",
+      "verse": 1,
+      "position": 25
+    },
+    {
+      "text": "Mange retter verbet *wattinḥat* (>>kommer ned på<<) til: *wattixbad*: >>og (din hånd) hviler tungt (på mig)<<",
+      "type": "E",
+      "verse": 3,
+      "position": 62
+    },
+    {
+      "text": "Ordret: >>sjæl<<",
+      "type": "T",
+      "verse": 13,
+      "position": 32
+    },
+    {
+      "text": "De fleste oversættere ændrer *ḥayyîm* (>>levende<<) til *ḥinnām*: >>uden grund<<. Det begrundes dels med parallelismen med næste linje, og dels med at det giver bedre mening i sammenhængen",
+      "type": "T",
+      "verse": 20,
+      "position": 16
+    },
+    {
+      "text": "Ordret: >>gengælder med ondt for godt<<",
+      "type": "T",
+      "verse": 21,
+      "position": 33
+    }
+  ]
+}

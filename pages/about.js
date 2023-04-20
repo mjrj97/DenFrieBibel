@@ -26,7 +26,6 @@ const About = () => {
         <>
             <Head>
                 <title>Om os</title>
-                <link rel="icon" href="/icon.png" />
             </Head>
             <section className='pb-4'>
                 <h2 className='pb-2'>Om os</h2>

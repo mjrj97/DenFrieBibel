@@ -1,0 +1,252 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 72,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Af Salomo.Gud, giv dine domme til kongenog din retfærdighed til kongesønnen.",
+      "number": 1
+    },
+    {
+      "text": "Må han dømme dit folk med retfærdighedog dine hjælpeløse med ret.",
+      "number": 2
+    },
+    {
+      "text": "Må bjergene bære fred for folketog højene retfærdighed.",
+      "number": 3
+    },
+    {
+      "text": "Må han skaffe folkets hjælpeløse ret,frelse den fattiges børnog knuse undertrykkeren.",
+      "number": 4
+    },
+    {
+      "text": "De skal frygte dig så længe solen skinner,og foran månen, fra slægt til slægt.",
+      "number": 5
+    },
+    {
+      "text": "Må han komme ned som regn på en nyslået eng,som regnskyl der væder jorden!",
+      "number": 6
+    },
+    {
+      "text": "Må en retfærdig blomstre i hans dage,og freden være stor, indtil månen ikke er mere!",
+      "number": 7
+    },
+    {
+      "text": "Ja, han skal herske fra hav til hav,og fra floden til jordens ender!",
+      "number": 8
+    },
+    {
+      "text": "Ørkenbeboere skal falde på knæ for hans ansigt,og hans fjender skal slikke støv.",
+      "number": 9
+    },
+    {
+      "text": "Konger fra Tarshish og øer skal bringe gaver!Sabas og Sebas konger skal overbringe tribut.",
+      "number": 10
+    },
+    {
+      "text": "Og alle konger skal kaste sig ned for ham;alle folkeslag skal tjene ham.",
+      "number": 11
+    },
+    {
+      "text": "For han skal redde den fattige som råber om hjælp,og den elendige som ingen hjælper har.",
+      "number": 12
+    },
+    {
+      "text": "Han skal forbarme sig over den svage og fattigeog redde de fattiges liv.",
+      "number": 13
+    },
+    {
+      "text": "Fra undertrykkelse og fra vold  skal han forløse deres liv,og deres blod skal være dyrebart i hans øjne.",
+      "number": 14
+    },
+    {
+      "text": "Må han leve, og man skal give ham af Sabas guldog altid bede for ham,velsigne ham hele dagen.",
+      "number": 15
+    },
+    {
+      "text": "Må der være overflod af korn i landet,på bjerges top skal det bølge,som Libanon skal dets frugt være,og de skal blomstre fra byen som jordens græs!",
+      "number": 16
+    },
+    {
+      "text": "Må hans navn bestå for evigt,må hans navn vokse, så længe solen lyser,og de skal velsigne sig i ham,alle folkeslag skal prise ham salig!",
+      "number": 17
+    },
+    {
+      "text": "Lovet være JHVH Gud, Israels Gud,han som alene gør undere!",
+      "number": 18
+    },
+    {
+      "text": "Og lovet være hans herlige navn i evighed,og må hele jorden fyldes med hans herlighed!Amen, ja, amen!",
+      "number": 19
+    },
+    {
+      "text": "Her er Davids, Isajs søns, bønner bragt til ende.",
+      "number": 20
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Gud give retfærdighed gennem kongen",
+      "verse": 2
+    },
+    {
+      "text": "Gud give kongen herredømme over hele jorden",
+      "verse": 8
+    },
+    {
+      "text": "Kongens ansvar for de nødstedte",
+      "verse": 12
+    },
+    {
+      "text": "Afsluttende bønner",
+      "verse": 15
+    },
+    {
+      "text": "Afsluttende lovprisning",
+      "verse": 18
+    },
+    {
+      "text": "Efterskrift",
+      "verse": 20
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Der er tænkt på love, retsforordninger og retsafgørelser.",
+      "type": "E",
+      "verse": 1,
+      "position": 29
+    },
+    {
+      "text": "Ordret: >>i retfærdighed<< eller: >>ved retfærdighed<<. En del af de gamle oversættelser har ikke præpositionen, og de fleste går ud fra at den ikke skulle stå her.",
+      "type": "T",
+      "verse": 3,
+      "position": 55
+    },
+    {
+      "text": "Meningen må være at et retfærdigt kongedømme fremmer sand gudsfrygt. De fleste oversættere og kommentatorer følger Septuaginta, der i stedet for *yîrāˀûxā* (>>de skal frygte dig<<) forudsætter: *wᵊyāˀᵃrîx*: >>og han skal vare/leve<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 18
+    },
+    {
+      "text": "Ordret: >>med solen<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 42
+    },
+    {
+      "text": "Ordret: >>slægters slægt<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 78
+    },
+    {
+      "text": "Med enkelte håndskrifter og gamle oversættelser retter man ofte *ṣaddîq* (>>en retfærdig<<) til: *ṣedeq*: >>retfærdighed<< der passer som parallel til >>fred<< i næste linje. I den overleverede tekst er >>en retfærdig<< formodentlig modstykke til >>undertrykkeren<< (v.4).",
+      "type": "E",
+      "verse": 7,
+      "position": 15
+    },
+    {
+      "text": "Ud fra parallellen i næste linje formoder man oftest at *ṣiyyîm* (>>ørkenbeboere<<) er fejlskrivning for: *ṣārāʸw*: >>hans modstandere<<. Det er også omdiskuteret om *ṣiyyîm* faktisk kan betyde >>ørkenbeboere<<. Andre steder oversættes det >>ørkendyr<<.",
+      "type": "E",
+      "verse": 9,
+      "position": 12
+    },
+    {
+      "text": "Der er formodentlig tænkt på øerne i Middelhavet.",
+      "type": "E",
+      "verse": 10,
+      "position": 26
+    },
+    {
+      "text": "Ordret: >>bringe tilbage<<, nemlig som svar på en fordring.",
+      "type": "E",
+      "verse": 10,
+      "position": 38
+    },
+    {
+      "text": "Kan også oversættes >>hedninger<<, men det er der ikke lagt vægt på i sammenhængen.",
+      "type": "T",
+      "verse": 11,
+      "position": 56
+    },
+    {
+      "text": "Ordret: >>sjæle<<, der ofte er synonym for >>liv<<.",
+      "type": "T",
+      "verse": 13,
+      "position": 72
+    },
+    {
+      "text": "Ordret >>sjæl<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 59
+    },
+    {
+      "text": "Grundtekstens verbum står i qal yiqtol. De gamle oversættelser har dog oversat det som passiv (hof’al): >>blive givet/modtage<<. Det følges af mange oversættere: >>og modtage af Sabas guld<<.",
+      "type": "E",
+      "verse": 15,
+      "position": 29
+    },
+    {
+      "text": "Kan også oversættes: >>lovprise<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 77
+    },
+    {
+      "text": "Ordet *pissāʰ* forekommer kun her i GT, og der er usikkerhed om betydningen. >>Overflod/fylde<< er dog sandsynlig.",
+      "type": "E",
+      "verse": 16,
+      "position": 20
+    },
+    {
+      "text": "Det må være byens indbyggere.",
+      "type": "T",
+      "verse": 16,
+      "position": 106
+    },
+    {
+      "text": "Ofte rettes *wᵊyāṣîṣû mēʕîr* (>>og de skal blomstre fra byen<<) til: * yāṣîṣ waʕᵃmîrô*: >>dens strå skal blomstre<<.",
+      "type": "E",
+      "verse": 16,
+      "position": 129
+    },
+    {
+      "text": "Ordret: >>foran solen/for solens ansigt<<.",
+      "type": "T",
+      "verse": 17,
+      "position": 70
+    },
+    {
+      "text": "Kan også oversættes: >>velsignet<<.",
+      "type": "T",
+      "verse": 18,
+      "position": 5
+    },
+    {
+      "text": "Kan også oversættes: >>velsignet<<.",
+      "type": "T",
+      "verse": 19,
+      "position": 8
+    },
+    {
+      "text": "Ordret: >>hans herligheds navn<<.",
+      "type": "T",
+      "verse": 19,
+      "position": 31
+    },
+    {
+      "text": "Grundtekstens sætningsbygning er unormal. Ofte retter man verbets passive vokalisering *yimmālēˀ* (>>fyldes<<) til aktiv vokalisering: *yimlāˀ*: >>fylde<<: >>hans herlighed skal fylde hele jorden<<.",
+      "type": "E",
+      "verse": 19,
+      "position": 66
+    }
+  ]
+}

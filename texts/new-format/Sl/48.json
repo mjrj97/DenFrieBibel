@@ -1,0 +1,158 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 48,
+  "version": 1528236000000,
+  "verses": [
+    {
+      "text": "En sang.Salme af Koras sønner.",
+      "number": 1
+    },
+    {
+      "text": "Stor er JHVH og meget værdig til at blive lovpristi vor Guds by,hans hellige bjerg.",
+      "number": 2
+    },
+    {
+      "text": "Det hæver sig smukt,til fryd for hele jorden,Zions bjerg i det yderste nord,en stor konges stad.",
+      "number": 3
+    },
+    {
+      "text": "Gud i dens paladserhar givet sig til kende som en borg.",
+      "number": 4
+    },
+    {
+      "text": "For se, kongerne havde samlet sig,de rykkede frem sammen.",
+      "number": 5
+    },
+    {
+      "text": "De så, straks blev de målløse,de blev forfærdede, de flygtede i angst.",
+      "number": 6
+    },
+    {
+      "text": "Bæven greb dem der,veer som hos en fødende.",
+      "number": 7
+    },
+    {
+      "text": "Med en østenstormsmadrer du Tarshish-skibe.",
+      "number": 8
+    },
+    {
+      "text": "Som vi havde hørt,således så vi deti hærskarers JHVHvs by,i vor Guds by;Gud befæster den til evig tid. Sela",
+      "number": 9
+    },
+    {
+      "text": "Vi har tænkt, Gud, på din nådeinde i dit tempel.",
+      "number": 10
+    },
+    {
+      "text": "Som dit navn er, Gud,sådan er din prisud over jordens ender.Din højre hånd er fuld af retfærdighed.",
+      "number": 11
+    },
+    {
+      "text": "Zions bjerg skal glæde sig,Judas døtre skal jublepå grund af dine domme.",
+      "number": 12
+    },
+    {
+      "text": "Gå omkring Zion, gå rundt om den,tæl dens tårne!",
+      "number": 13
+    },
+    {
+      "text": "Ret jeres hjerte til dens ringmur,gå gennem dens paladser,så I kan fortælle for en senere slægt",
+      "number": 14
+    },
+    {
+      "text": "at denne er Gud,vor Gud, evigt og altid.Han skal føre osud over død.{E: Linjen lades ofte uoversat: *ʕal-mût*. Det begrundes med, at det passer dårligt i sammenhængen. Man foreslår at det kan være en musikalsk anvisning af ukendt betydning. Oversættelsen >>ud over død/trods død<< giver dog god mening i sammenhængen.}",
+      "number": 15
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Den hellige bys herlighed",
+      "verse": 2
+    },
+    {
+      "text": "Gud har bevaret byen",
+      "verse": 5
+    },
+    {
+      "text": "Juda rige priser sin Gud",
+      "verse": 9
+    },
+    {
+      "text": "Menigheden drager ind i templet for at tilbede",
+      "verse": 13
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Mange oversættere vælger at lade >>hans hellige bjerg<< være indledning til v. 3.",
+      "type": "T",
+      "verse": 2,
+      "position": 83
+    },
+    {
+      "text": "Ordret: >>smuk af hævning<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 20
+    },
+    {
+      "text": "Ordret: >>hele jordens fryd<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 45
+    },
+    {
+      "text": "Grundtekstens ord kan i enkelte sammenhænge forstås som: >>citadel<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 19
+    },
+    {
+      "text": "Det er store, stolte handelsskibe.",
+      "type": "T",
+      "verse": 8,
+      "position": 43
+    },
+    {
+      "text": "Tidligere uoversat: >>Zebaoth<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 47
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 9,
+      "position": 107
+    },
+    {
+      "text": ">>Zion<< er fem., der kunne oversættes både her og i de næste linjer: >>hende, hendes<<.",
+      "type": "E",
+      "verse": 13,
+      "position": 33
+    },
+    {
+      "text": "Dvs.: opmærksomhed.",
+      "type": "T",
+      "verse": 14,
+      "position": 16
+    },
+    {
+      "text": "Betydningen af ordet: *passᵊgû* er meget usikker. Blandt forslagene er især: >>betragt, betænk<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 43
+    },
+    {
+      "text": "Grundtekstens ord kan i enkelte sammenhænge forstås som: >>citadel<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 58
+    }
+  ]
+}

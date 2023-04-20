@@ -50,7 +50,6 @@ const Reading = () => {
     <>
       <Head>
           <title>Læseoplevelse</title>
-          <link rel="icon" href="/icon.png"/>
       </Head>
       
       <Checkbox label={"Vis versnumre"} value={settings.showVerseNumber}  onChange={handleVerseNumber}/>

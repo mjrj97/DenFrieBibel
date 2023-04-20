@@ -1,0 +1,102 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 130,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Valfartssang.Fra det dybe råber jeg til dig, JHVHv!",
+      "number": 1
+    },
+    {
+      "text": "Herre, hør på min røst,lad dine ører være opmærksommepå min tryglende røst.",
+      "number": 2
+    },
+    {
+      "text": "Hvis du, JHVHv, vil vogte på skyld,Herre, hvem kan så bestå?",
+      "number": 3
+    },
+    {
+      "text": "Men hos dig er tilgivelsenfor at du må frygtes.",
+      "number": 4
+    },
+    {
+      "text": "Jeg håber på JHVH,min sjæl håber,og jeg venter på hans ord,",
+      "number": 5
+    },
+    {
+      "text": "min sjæl venter på Herrenmere end vægtere på morgenen,vægtere på morgenen.",
+      "number": 6
+    },
+    {
+      "text": "Israel, vent på JHVH,for hos JHVH er nåden,og megen forløsning er hos ham.",
+      "number": 7
+    },
+    {
+      "text": "Og han skal forløse Israelfra al dets skyld.{T: Grundtekstens ord står i pluralis, der understreger vægten af >>skyld<<.}",
+      "number": 8
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Klage",
+      "verse": 2
+    },
+    {
+      "text": "Længselsfuld tillid",
+      "verse": 5
+    },
+    {
+      "text": "Salmistens vidnesbyrd",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: >>råbte jeg til dig<<. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.",
+      "type": "E",
+      "verse": 1,
+      "position": 31
+    },
+    {
+      "text": "Ordret: >>på min tryglens (pluralis) røst<<",
+      "type": "T",
+      "verse": 2,
+      "position": 75
+    },
+    {
+      "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+      "type": "T",
+      "verse": 3,
+      "position": 15
+    },
+    {
+      "text": "Verberne i dette vers står i qatal, jf. note til v.1b.",
+      "type": "E",
+      "verse": 5,
+      "position": 9
+    },
+    {
+      "text": "Der er ikke noget verbum i linjen. Det må enten underforstås fra foregående linje: >>venter<< (som fortsættelsen tyder på), eller linjen kan oversættes: >>min sjæl er vendt til Herren<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 15
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 7,
+      "position": 42
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Første Mosebog",
+    "abbreviation": "1Mos",
+    "chapters": 50
+  },
+  {
+    "name": "Anden Mosebog",
+    "abbreviation": "2Mos",
+    "chapters": 40
+  },
+  {
+    "name": "Tredje Mosebog",
+    "abbreviation": "3Mos",
+    "chapters": 27
+  },
+  {
+    "name": "Fjerde Mosebog",
+    "abbreviation": "4Mos",
+    "chapters": 36
+  },
+  {
+    "name": "Femte Mosebog",
+    "abbreviation": "5Mos",
+    "chapters": 34
+  },
+  {
+    "name": "Josvabogen",
+    "abbreviation": "Jos",
+    "chapters": 24
+  },
+  {
+    "name": "Dommerbogen",
+    "abbreviation": "Dom",
+    "chapters": 21
+  },
+  {
+    "name": "Ruths Bog",
+    "abbreviation": "Ruth",
+    "chapters": 4
+  },
+  {
+    "name": "Første Samuelsbog",
+    "abbreviation": "1Sam",
+    "chapters": 31
+  },
+  {
+    "name": "Anden Samuelsbog",
+    "abbreviation": "2Sam",
+    "chapters": 24
+  },
+  {
+    "name": "Første Kongebog",
+    "abbreviation": "1Kong",
+    "chapters": 22
+  },
+  {
+    "name": "Anden Kongebog",
+    "abbreviation": "2Kong",
+    "chapters": 25
+  },
+  {
+    "name": "Første Krønikebog",
+    "abbreviation": "1Krøn",
+    "chapters": 29
+  },
+  {
+    "name": "Anden Krønikebog",
+    "abbreviation": "2Krøn",
+    "chapters": 36
+  },
+  {
+    "name": "Ezras Bog",
+    "abbreviation": "Ezra",
+    "chapters": 10
+  },
+  {
+    "name": "Nehemias' Bog",
+    "abbreviation": "Neh",
+    "chapters": 13
+  },
+  {
+    "name": "Esters Bog",
+    "abbreviation": "Est",
+    "chapters": 10
+  },
+  {
+    "name": "Jobs Bog",
+    "abbreviation": "Job",
+    "chapters": 42
+  },
+  {
+    "name": "Salmernes Bog",
+    "abbreviation": "Sl",
+    "chapters": 150
+  },
+  {
+    "name": "Ordsprogenes Bog",
+    "abbreviation": "Ordsp",
+    "chapters": 31
+  },
+  {
+    "name": "Prædikerens Bog",
+    "abbreviation": "Præd",
+    "chapters": 12
+  },
+  {
+    "name": "Højsangen",
+    "abbreviation": "Høj",
+    "chapters": 8
+  },
+  {
+    "name": "Esajas' Bog",
+    "abbreviation": "Es",
+    "chapters": 66
+  },
+  {
+    "name": "Jeremias' Bog",
+    "abbreviation": "Jer",
+    "chapters": 52
+  },
+  {
+    "name": "Klagesangene",
+    "abbreviation": "Klages",
+    "chapters": 5
+  },
+  {
+    "name": "Ezekiels Bog",
+    "abbreviation": "Ez",
+    "chapters": 48
+  },
+  {
+    "name": "Daniels Bog",
+    "abbreviation": "Dan",
+    "chapters": 12
+  },
+  {
+    "name": "Hoseas' Bog",
+    "abbreviation": "Hos",
+    "chapters": 14
+  },
+  {
+    "name": "Joels Bog",
+    "abbreviation": "Joel",
+    "chapters": 3
+  },
+  {
+    "name": "Amos' Bog",
+    "abbreviation": "Am",
+    "chapters": 9
+  },
+  {
+    "name": "Obadias' Bog",
+    "abbreviation": "Obad",
+    "chapters": 1
+  },
+  {
+    "name": "Jonas' Bog",
+    "abbreviation": "Jon",
+    "chapters": 4
+  },
+  {
+    "name": "Mikas Bog",
+    "abbreviation": "Mika",
+    "chapters": 7
+  },
+  {
+    "name": "Nahums Bog",
+    "abbreviation": "Nah",
+    "chapters": 3
+  },
+  {
+    "name": "Habakkuks Bog",
+    "abbreviation": "Hab",
+    "chapters": 3
+  },
+  {
+    "name": "Sefanias' Bog",
+    "abbreviation": "Sef",
+    "chapters": 3
+  },
+  {
+    "name": "Haggajs Bog",
+    "abbreviation": "Hag",
+    "chapters": 2
+  },
+  {
+    "name": "Zakarias' Bog",
+    "abbreviation": "Zak",
+    "chapters": 14
+  },
+  {
+    "name": "Malakias' Bog",
+    "abbreviation": "Mal",
+    "chapters": 4
+  },
+  {
+    "name": "Matthæusevangeliet",
+    "abbreviation": "Matt",
+    "chapters": 28
+  },
+  {
+    "name": "Markusevangeliet",
+    "abbreviation": "Mark",
+    "chapters": 16
+  },
+  {
+    "name": "Lukasevangeliet",
+    "abbreviation": "Luk",
+    "chapters": 24
+  },
+  {
+    "name": "Johannesevangeliet",
+    "abbreviation": "Joh",
+    "chapters": 21
+  },
+  {
+    "name": "Apostlenes Gerninger",
+    "abbreviation": "ApG",
+    "chapters": 28
+  },
+  {
+    "name": "Romerbrevet",
+    "abbreviation": "Rom",
+    "chapters": 16
+  },
+  {
+    "name": "Første Korintherbrev",
+    "abbreviation": "1Kor",
+    "chapters": 16
+  },
+  {
+    "name": "Anden Korintherbrev",
+    "abbreviation": "2Kor",
+    "chapters": 13
+  },
+  {
+    "name": "Galaterbrevet",
+    "abbreviation": "Gal",
+    "chapters": 6
+  },
+  {
+    "name": "Efeserbrevet",
+    "abbreviation": "Ef",
+    "chapters": 6
+  },
+  {
+    "name": "Filipperbrevet",
+    "abbreviation": "Fil",
+    "chapters": 4
+  },
+  {
+    "name": "Kolossenserbrevet",
+    "abbreviation": "Kol",
+    "chapters": 4
+  },
+  {
+    "name": "Første Thessalonikerbrev",
+    "abbreviation": "1Thess",
+    "chapters": 5
+  },
+  {
+    "name": "Andet Thessalonikerbrev",
+    "abbreviation": "2Thess",
+    "chapters": 3
+  },
+  {
+    "name": "Første Timotheusbrev",
+    "abbreviation": "1Tim",
+    "chapters": 6
+  },
+  {
+    "name": "Andet Timotheusbrev",
+    "abbreviation": "2Tim",
+    "chapters": 4
+  },
+  {
+    "name": "Titusbrevet",
+    "abbreviation": "Tit",
+    "chapters": 3
+  },
+  {
+    "name": "Hebræerbrevet",
+    "abbreviation": "Hebr",
+    "chapters": 13
+  },
+  {
+    "name": "Jakobs Brev",
+    "abbreviation": "Jak",
+    "chapters": 5
+  },
+  {
+    "name": "Første Petersbrev",
+    "abbreviation": "1Pet",
+    "chapters": 5
+  },
+  {
+    "name": "Andet Petersbrev",
+    "abbreviation": "2Pet",
+    "chapters": 3
+  },
+  {
+    "name": "Første Johannesbrev",
+    "abbreviation": "1Joh",
+    "chapters": 5
+  },
+  {
+    "name": "Andet Johannesbrev",
+    "abbreviation": "2Joh",
+    "chapters": 1
+  },
+  {
+    "name": "Tredje Johannesbrev",
+    "abbreviation": "3Joh",
+    "chapters": 1
+  },
+  {
+    "name": "Judas' Brev",
+    "abbreviation": "Jud",
+    "chapters": 1
+  },
+  {
+    "name": "Johannes' Åbenbaring",
+    "abbreviation": "Åb",
+    "chapters": 22
+  }
+]

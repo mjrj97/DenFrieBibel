@@ -1,0 +1,48 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 131,
+  "version": 1492725600000,
+  "verses": [
+    {
+      "text": "Valfartssang. Af David.JHVHv, mit hjerte var ikke hovmodigt,og mine øjne var ikke stolte,og jeg gik ikke ind i ting der var for storeeller for gådefulde for mig.",
+      "number": 1
+    },
+    {
+      "text": "Tværtimod, jeg har tysset og beroliget min sjæl,som et mæt barn hos sin mor,som det mætte barn er min sjæl i mig.",
+      "number": 2
+    },
+    {
+      "text": "Israel, vent på JHVH,fra nu og til evig tid!",
+      "number": 3
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Barnlig tillid",
+      "verse": 2
+    },
+    {
+      "text": "Vidnesbyrd",
+      "verse": 3
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Grundteksten har blot: *gāmul* (her oversat: >>mæt barn<<). Når verbet: *gml* bruges om børn i GT, betegner det et >>fravænnet<< barn. Verbets grundbetydning er: >>færdig, moden<<. I sammenhængen her bruges det formodentlig om et barn der er >>færdig med at die = mæt barn<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 63
+    }
+  ]
+}

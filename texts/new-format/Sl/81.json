@@ -1,0 +1,164 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 81,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Al-ha-gittit.Af Asaf.",
+      "number": 1
+    },
+    {
+      "text": "Bryd ud i jubel for Gud, vor styrke,råb af fryd for Jakobs Gud!",
+      "number": 2
+    },
+    {
+      "text": "Istem sang og lad pauke lyde,liflige citer sammen med harpe!",
+      "number": 3
+    },
+    {
+      "text": "Stød i horn ved nymånen,ved fuldmånen for vor festdag!",
+      "number": 4
+    },
+    {
+      "text": "For det er bestemmelse i Israel,forordning fra Jakobs Gud.",
+      "number": 5
+    },
+    {
+      "text": "Han gjorde det til et vidnesbyrd i Josef,da han drog ud imod Egyptens land.Jeg hører en tale som jeg ikke kendte:",
+      "number": 6
+    },
+    {
+      "text": ">>Jeg befriede hans skulder for byrde,hans hænder blev befriet for bærekurv.",
+      "number": 7
+    },
+    {
+      "text": "I nøden kaldte du, og jeg udfriede dig,jeg svarede dig i tordenens skjul,jeg prøvede dig ved Meribas vand. Sela",
+      "number": 8
+    },
+    {
+      "text": "Hør, mit folk, så vil jeg formane dig,Israel, gid du ville høre på mig.",
+      "number": 9
+    },
+    {
+      "text": "Der skal ingen fremmed gud være hos dig,og du skal ikke tilbede andre folks gud.",
+      "number": 10
+    },
+    {
+      "text": "Jeg er JHVH din Gud,som førte dig op fra Egyptens land.Luk din mund vidt op, så vil jeg fylde den.",
+      "number": 11
+    },
+    {
+      "text": "Men mit folk hørte ikke på min røst,og Israel ville ikke adlyde mig.",
+      "number": 12
+    },
+    {
+      "text": "Så overgav jeg det til deres hjertes forstokkethed,så de kunne vandre efter deres egne planer.",
+      "number": 13
+    },
+    {
+      "text": "Gid at mit folk ville høre på mig,at Israel ville vandre ad mine veje!",
+      "number": 14
+    },
+    {
+      "text": "Da ville jeg hastigt undertvinge deres fjenderog vende min hånd mod deres modstandere.",
+      "number": 15
+    },
+    {
+      "text": "De som hader JHVH, skal hyklende krybe for det,og deres tid skal vare evigt.",
+      "number": 16
+    },
+    {
+      "text": "Og jeg{T: Den hebraiske tekst har *wayyaˀᵃxîlēhû*: >>og han vil bespise<<. I sammenhængen retter man til: *wāʔaˀᵃxîlēhû*: >>og jeg vil …<<.} vil bespise det med hvedens fedme,ja, jeg vil mætte dig med honning fra en klippe<<.",
+      "number": 17
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Opfordring til lovsang",
+      "verse": 2
+    },
+    {
+      "text": "Formaning til troskab og bod",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+      "type": "T",
+      "verse": 1,
+      "position": 29
+    },
+    {
+      "text": "På hebraisk: * šôfār*. Der er formodentlig tænkt på vædderhorn der blev brugt til at indvarsle højtider og til at kalde til kamp.",
+      "type": "T",
+      "verse": 4,
+      "position": 11
+    },
+    {
+      "text": "Kan også oversættes: >>et pagtsvilkår/en vedtægt<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 32
+    },
+    {
+      "text": "Præpositionen *ʕal* kan også oversættes: >>over<<. Ofte retter man til præpositionen *min*: >>fra<<, men det passer ikke specielt godt med at Gud er subjekt i sætningen. Meningen må enten være at Gud >>drog ud imod Egypten<< for at befri Israel, eller at han >>drog ud<< i spidsen for sit folk >>over<< det slagne >>Egypten<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 60
+    },
+    {
+      "text": "Ordret: >>læbe<<. Det kan også oversættes både som: >>sprog<< og: >>stemme<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 92
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 8,
+      "position": 111
+    },
+    {
+      "text": "Kan også oversættes: >>vidne imod dig<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 33
+    },
+    {
+      "text": "Kan også oversættes: >>let<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 20
+    },
+    {
+      "text": "Nemlig for Guds folk. Kan dog også oversættes: >>for ham<<.",
+      "type": "T",
+      "verse": 16,
+      "position": 47
+    },
+    {
+      "text": "Nemlig Guds folks.",
+      "type": "T",
+      "verse": 16,
+      "position": 55
+    },
+    {
+      "text": "Hele verset er omdiskuteret, koncentreret især omkring de to ord der er sat note ved. Verset oversættes ofte: >>De som hader JHVH, skal hyklende krybe for ham / og deres tid (med underkastelse) skal vare evigt<<. Andre omskriver den sidste sætning: >>og deres tid skal endegyldigt være omme<<. Det er dog vanskeligt at se støtte for >>være omme<< i grundteksten.",
+      "type": "E",
+      "verse": 16,
+      "position": 76
+    }
+  ]
+}

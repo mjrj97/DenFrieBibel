@@ -1,0 +1,98 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 96,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Syng for JHVH en ny sang,syng for JHVH hele jorden!",
+      "number": 1
+    },
+    {
+      "text": "Syng for JHVH, pris hans navn,forkynd fra dag til dag hans frelse!",
+      "number": 2
+    },
+    {
+      "text": "Fortæl om hans herlighed blandt folkene,blandt alle folkeslagene om hans undere.",
+      "number": 3
+    },
+    {
+      "text": "For JHVH er stor og højt lovprist,han er frygtindgydende overfor alle guder.",
+      "number": 4
+    },
+    {
+      "text": "For alle folkeslagenes guder er tomme afguder,men JHVH har skabt himlen.",
+      "number": 5
+    },
+    {
+      "text": "Højhed og pragt er for hans ansigt,magt og herlighed i hans helligdom.",
+      "number": 6
+    },
+    {
+      "text": "Giv JHVH, I folkeslagenes slægter,giv JHVH ære og magt!",
+      "number": 7
+    },
+    {
+      "text": "Giv JHVH hans navns ære,frembær offergaver og kom til hans forgårde!",
+      "number": 8
+    },
+    {
+      "text": "Kast jer ned for JHVH i hellig klædning,skælv for hans ansigt hele jorden!",
+      "number": 9
+    },
+    {
+      "text": "Sig blandt folkene: >>JHVH er konge!<<Ja, jorden er grundfæstet, den skal ikke rokkes.Han skal dømme folkene med retskaffenhed.",
+      "number": 10
+    },
+    {
+      "text": "Himlen skal glæde sig, og jorden skal juble,havet og dets fylde skal larme,",
+      "number": 11
+    },
+    {
+      "text": "mark og alt hvad der er derpå, skal fryde sig,da skal alle skovens træer juble",
+      "number": 12
+    },
+    {
+      "text": "for JHVHs ansigt; for han kommer,for han kommer for at dømme jorden;han skal dømme verden med retfærdighedog folkeslagene med sin sandhed.{T: Kan også oversættes: >>trofasthed<<.}",
+      "number": 13
+    }
+  ],
+  "titles": [
+    {
+      "text": "Opfordring til lovsang",
+      "verse": 1
+    },
+    {
+      "text": "For Gud er stor",
+      "verse": 4
+    },
+    {
+      "text": "Opfordring til tilbedelse",
+      "verse": 7
+    },
+    {
+      "text": "Opfordring til jubel",
+      "verse": 11
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>velsign<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 19
+    },
+    {
+      "text": "Grundteksten har blot et ord, der betegner >>afguder<<, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
+      "type": "T",
+      "verse": 5,
+      "position": 46
+    },
+    {
+      "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat >>smykke, skrud, åbenbaring, tilsynekomst, majestæt<<.",
+      "type": "E",
+      "verse": 9,
+      "position": 40
+    }
+  ]
+}

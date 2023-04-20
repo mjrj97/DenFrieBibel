@@ -1,0 +1,124 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 83,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "En sang. Salme af Asaf.",
+      "number": 1
+    },
+    {
+      "text": "Gud, giv dig ingen ro,vær ikke tavs og hold dig ikke stille, Gud!",
+      "number": 2
+    },
+    {
+      "text": "For se, dine fjender larmer,og de der hader dig, har løftet hoved.",
+      "number": 3
+    },
+    {
+      "text": "Mod dit folk planlægger de listigt anslag,og de rådslår imod dem som skjuler sig hos dig.",
+      "number": 4
+    },
+    {
+      "text": "De har sagt: >>Kom og lad os udslette dem, så de ikke mere er et folk,så Israels navn ikke mere huskes.<<",
+      "number": 5
+    },
+    {
+      "text": "For de har rådslået i hjertet med hinanden,de vil slutte en pagt imod dig:",
+      "number": 6
+    },
+    {
+      "text": "Edoms telte og ismaelitterne,Moab og hagritter,",
+      "number": 7
+    },
+    {
+      "text": "Gebal og Ammon og Amalek,Filistæa sammen med Tyrus’ indbyggere.",
+      "number": 8
+    },
+    {
+      "text": "Assur har også sluttet sig til dem,de er blevet Lots børns støtte. Sela",
+      "number": 9
+    },
+    {
+      "text": "Gør med dem som med Midjan,som med Sisera, som med Jabin ved Kishons bæk,",
+      "number": 10
+    },
+    {
+      "text": "de blev tilintetgjort ved En-Dor,blev til gødning for jorden.",
+      "number": 11
+    },
+    {
+      "text": "Lad det gå dem, deres fyrster, som Oreb og som Ze’eb,og alle deres ledere som Zeba og som Salmunna,",
+      "number": 12
+    },
+    {
+      "text": "som sagde: >>Vi indtagerGuds græsgange.<<",
+      "number": 13
+    },
+    {
+      "text": "Min Gud, lad dem være som en hvirvelvind,som strå for vinden.",
+      "number": 14
+    },
+    {
+      "text": "Som en ild, der antænder en skov,og som en flamme, der antænder bjerge,",
+      "number": 15
+    },
+    {
+      "text": "sådan skal du forfølge med din stormog forfærde dem med din orkan!",
+      "number": 16
+    },
+    {
+      "text": "Fyld deres ansigt med skam,så de søger dit navn, JHVHv!",
+      "number": 17
+    },
+    {
+      "text": "Lad dem beskæmmes og forfærdes for evigt,og lad dem blive til skamme og gå til grunde,",
+      "number": 18
+    },
+    {
+      "text": "så de forstår at du, hvis navn er JHVH, du aleneer den Højeste over hele jorden.",
+      "number": 19
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Klage",
+      "verse": 2
+    },
+    {
+      "text": "Bøn om hjælp",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>arm<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 66
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 9,
+      "position": 71
+    },
+    {
+      "text": "*galgal* betegner noget der kører rundt. >>vognhjul/hvirvelvind<<. Her oversættes det dog ofte: >>kugletidsler<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 41
+    },
+    {
+      "text": "Kan eventuelt oversættes: >>uafbrudt<<.",
+      "type": "T",
+      "verse": 18,
+      "position": 41
+    }
+  ]
+}

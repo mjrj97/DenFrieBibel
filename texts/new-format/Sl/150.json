@@ -1,0 +1,54 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 150,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Halleluja!Lovpris Gud i hans helligdom,lovpris ham i hans vældes himmelhvælving!",
+      "number": 1
+    },
+    {
+      "text": "Lovpris ham for hans mægtige gerninger,lovpris ham i overensstemmelse med hans vældige storhed!",
+      "number": 2
+    },
+    {
+      "text": "Lovpris ham med stød i basun,lovpris ham med harpe og citer,",
+      "number": 3
+    },
+    {
+      "text": "lovpris ham med pauke og dans,lovpris ham med strengespil og fløjte,",
+      "number": 4
+    },
+    {
+      "text": "lovpris ham med klingende cymbler,lovpris ham med rungende cymbler!",
+      "number": 5
+    },
+    {
+      "text": "Alt som har ånde, skal lovprise JHVH!{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}Halleluja!",
+      "number": 6
+    }
+  ],
+  "titles": [
+    {
+      "text": "Jord og himmel skal lovprise Guds storhed",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning med stort orkester",
+      "verse": 3
+    },
+    {
+      "text": "Alle skal lovprise JHVH",
+      "verse": 6
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>hans hellighed<<, men i sammenhængen er der formodentlig tænkt på templet.",
+      "type": "E",
+      "verse": 1,
+      "position": 39
+    }
+  ]
+}

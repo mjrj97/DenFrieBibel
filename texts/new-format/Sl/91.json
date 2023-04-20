@@ -1,0 +1,130 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 91,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Som en der bor i den Højestes skjul,som vil opholde sig i den Almægtiges skygge,",
+      "number": 1
+    },
+    {
+      "text": "siger jeg til JHVH:>>Min tilflugt og min borg,min Gud, som jeg stoler på.<<",
+      "number": 2
+    },
+    {
+      "text": "For han vil befri digfra fuglefængerens snare,fra fordærvende pest.",
+      "number": 3
+    },
+    {
+      "text": "Han skal beskytte dig med sine svingfjer,og du kan søge ly under hans vinger;hans trofasthed er langskjold og værn.",
+      "number": 4
+    },
+    {
+      "text": "Du skal ikke frygte for nattens rædsel,for en pil som flyver om dagen,",
+      "number": 5
+    },
+    {
+      "text": "for pest som breder sig i mørket,for epidemi som hærger om middagen.",
+      "number": 6
+    },
+    {
+      "text": "Om så tusind falder ved din sideog titusind ved din højre hånd -til dig skal det ikke nå.",
+      "number": 7
+    },
+    {
+      "text": "Du skal kun se det med dine øjne,og du skal se de gudløses straf.",
+      "number": 8
+    },
+    {
+      "text": ">>Ja, du, JHVHv, er min tilflugt!<<Den Højeste har du gjort til din bolig,",
+      "number": 9
+    },
+    {
+      "text": "der skal ikke tilstøde dig ondt,og plage skal ikke komme nær til dit telt.",
+      "number": 10
+    },
+    {
+      "text": "For han vil give sine engle befaling om digat de skal beskytte dig på alle dine veje.",
+      "number": 11
+    },
+    {
+      "text": "De skal bære dig på hænderså du ikke støder din fod på nogen sten.",
+      "number": 12
+    },
+    {
+      "text": "På løve og giftslange skal du træde,du skal nedtræde ungløve og drage.",
+      "number": 13
+    },
+    {
+      "text": ">>Fordi han har holdt sig til mig, vil jeg udfri ham,jeg vil beskytte ham, for han kender mit navn.",
+      "number": 14
+    },
+    {
+      "text": "Råber han til mig, vil jeg svare ham,jeg er hos ham i nød,jeg vil redde ham og give ham ære.",
+      "number": 15
+    },
+    {
+      "text": "Jeg vil mætte ham med et langt livog lade ham nyde synet af min frelse.<<",
+      "number": 16
+    }
+  ],
+  "titles": [
+    {
+      "text": "Trygheden hos Gud",
+      "verse": 1
+    },
+    {
+      "text": "Vidnesbyrd om Guds beskærmelse",
+      "verse": 3
+    },
+    {
+      "text": "Guds nådige tilsagn",
+      "verse": 14
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>sidder<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 14
+    },
+    {
+      "text": "Kan også oversættes: >>sandhed<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 92
+    },
+    {
+      "text": "Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: >>værn<< eller >>bolværk<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 115
+    },
+    {
+      "text": "Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som >>tilflugt<< i alle livets situationer (v.2).",
+      "type": "E",
+      "verse": 9,
+      "position": 35
+    },
+    {
+      "text": "Ordret: >>på stenen<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 66
+    },
+    {
+      "text": "Det er omdiskuteret, hvad der præcist er tænkt på her med ordet *tannîn*. I flere sammenhænge er det betegnelse for et søuhyre, men her er der måske – som i 2 Mos 7,9-12 – tænkt på en slange.",
+      "type": "E",
+      "verse": 13,
+      "position": 70
+    },
+    {
+      "text": "Ordret: >>har hængt på mig<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 29
+    }
+  ]
+}

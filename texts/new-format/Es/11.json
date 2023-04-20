@@ -1,0 +1,174 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 11,
+  "version": 1674774000000,
+  "verses": [
+    {
+      "text": "Men der skal spire en kvist frem af Isajs stub,og et skud fra hans rødder skal bære frugt.",
+      "number": 1
+    },
+    {
+      "text": "Og JHVHs Ånd skal hvile over ham,visdoms og indsigts Ånd,råds og styrkes Ånd,den Ånd der giver kundskab og frygt for JHVH.",
+      "number": 2
+    },
+    {
+      "text": "Hans glæde skal være i frygt for JHVH,og han skal ikke dømme efter det hans øjne ser,og ikke fælde dom efter det hans ører hører.",
+      "number": 3
+    },
+    {
+      "text": "Men han skal dømme ringe med retfærdighedog fælde dom med retfærdighed for landets elendige;han skal slå jorden med sin munds stavog dræbe gudløs med sine læbers ånde.",
+      "number": 4
+    },
+    {
+      "text": "Retfærdighed skal være hans hofters bælteog trofastheden hans lænders bælte.",
+      "number": 5
+    },
+    {
+      "text": "Ulv skal bo sammen med lam,og panter ligge sammen med kid;kalv og ungløve og fedekalv skal være sammen,og en lille dreng skal vogte dem.",
+      "number": 6
+    },
+    {
+      "text": "Ko og bjørn skal græsse,deres unger skal ligge sammen,og løve skal æde strå som oksen.",
+      "number": 7
+    },
+    {
+      "text": "Spædbarn skal lege over giftslangens hulog hen over hugormens huleskal fravænnet barn stikke sin hånd.",
+      "number": 8
+    },
+    {
+      "text": "De skal ikke gøre ondt og ikke ødelægge på hele mit hellige bjerg,for landet er fuldt af kundskab om JHVH,som vandene dækker havets bund.",
+      "number": 9
+    },
+    {
+      "text": "Det skal ske på den dagat Isajs rodskud, der står som et banner for folkeslag– til ham skal folkene søge,og hans bolig skal være herlig.",
+      "number": 10
+    },
+    {
+      "text": "Og det skal ske på den dagat Herren igen, for anden gang, skal række sin hånd udfor at løskøbe den rest af sit folksom er tilbage fra Assyrien og Egypten,fra Pathros, Nubien, Elam,Sinear, Hamat og fra havets øer.",
+      "number": 11
+    },
+    {
+      "text": "Og han skal rejse et banner for folkeneog samle Israels fordrevneog bringe Judas spredte sammenfra jordens fire hjørner.",
+      "number": 12
+    },
+    {
+      "text": "Efraims skinsyge skal forsvinde,og Judas fjendskab skal udryddes;Efraim skal ikke være skinsyg på Juda,og Juda skal ikke være fjendtlig mod Efraim.",
+      "number": 13
+    },
+    {
+      "text": "Men de skal flyve ind på filistrenes skuldre imod vest,sammen skal de plyndre østens sønner.Edom og Moab skal blive et bytte for deres hånd,og Ammons sønner skal blive deres undersåtter.",
+      "number": 14
+    },
+    {
+      "text": "JHVH skal lægge band på Egypterhavets vigog svinge sin hånd ud over floden med sin Ånds glød,og han skal splitte den til syv bække,så man kan gå over med sko.",
+      "number": 15
+    },
+    {
+      "text": "Og der skal være en ryddet vej for den rest af hans folkder bliver tilbage fra Assyrien,ligesom der var for Israelden dag det drog op fra Egyptens land.",
+      "number": 16
+    }
+  ],
+  "titles": [
+    {
+      "text": "Isajs rodskud",
+      "verse": 1
+    },
+    {
+      "text": "Profeti om Israels hjemkomst og genrejsning",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "En del oversættere følger Septuaginta, der skal oversættes: >>gro frem<<, der forudsætter disse hebræiske konsonanter: *yfrḥ* i stedet for den masoretiske teksts: *yfrh*",
+      "type": "E",
+      "verse": 1,
+      "position": 90
+    },
+    {
+      "text": "Kan også oversættes: >>jordens<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 82
+    },
+    {
+      "text": "Kan også oversættes: >>landet<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 111
+    },
+    {
+      "text": "En del oversættere går ud fra en fejlskrivning i den hebraiske tekst så der ikke skal stå: *ʔereṣ* (>>jord<<), men: *ʕārēṣ*: >>voldsmand<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 111
+    },
+    {
+      "text": "Mange oversættere følger her bl.a. Septuaginta, der i stedet for *ûmᵊrîʔ* (>>og fedekalv<<) ser ud til at have læst: *yirʕû*: >>skal græsse<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 85
+    },
+    {
+      "text": "Hebraisk: *tirʕeʸnāʰ*. Man går ofte ud fra at der skulle have stået: *titrāʕeʸnāʰ*: >>skal blive venner<<.",
+      "type": "E",
+      "verse": 7,
+      "position": 24
+    },
+    {
+      "text": "Der er formodentlig tænkt på en bestemt giftslange, men det er uvist, hvilken det er.",
+      "type": "T",
+      "verse": 8,
+      "position": 61
+    },
+    {
+      "text": "Kan også oversættes: >>jorden<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 76
+    },
+    {
+      "text": "Ordret blot: >>som vandene dækker havet<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 137
+    },
+    {
+      "text": "Kan også oversættes: >>hedninger<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 99
+    },
+    {
+      "text": "Kan også oversættes: >>hedningerne<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 39
+    },
+    {
+      "text": "I grundteksten er >>fordrevne<< maskulinum, og >>spredte<< er femininum. Dermed understreges det, at løftet gælder både mænd og kvinder.",
+      "type": "E",
+      "verse": 12,
+      "position": 88
+    },
+    {
+      "text": "Ordret: >>fjendtlige<<.",
+      "type": "T",
+      "verse": 13,
+      "position": 51
+    },
+    {
+      "text": "Der er tænkt på filistrenes >>bakker<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 44
+    },
+    {
+      "text": "De gamle oversættelser har tilsyneladende i stedet for: *baʕyām rûḥô* (>>med sin Ånds glød<<) læst: *bᵊʕōṣēm rûḥô*: >>med sin kraftige storm<<.",
+      "type": "E",
+      "verse": 15,
+      "position": 94
+    }
+  ]
+}

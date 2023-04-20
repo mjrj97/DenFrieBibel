@@ -1,0 +1,120 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 42,
+  "version": 1614207600000,
+  "verses": [
+    {
+      "text": "Til korlederen.Maskil af Koras sønner.",
+      "number": 1
+    },
+    {
+      "text": "Ligesom en hjort skriger efter vandløb med vand,sådan skriger min sjæl til dig, o Gud!",
+      "number": 2
+    },
+    {
+      "text": "Min sjæl har tørstet efter Gud,efter den levende Gud.Hvornår skal jeg dog kommeog vise mig for Guds ansigt?",
+      "number": 3
+    },
+    {
+      "text": "Tårer er blevet mit brøddag og nat,idet man hele dagen siger til mig:>>Hvor er din Gud?<<",
+      "number": 4
+    },
+    {
+      "text": "Disse ting vil jeg huskeog udøse min sjæl over mig:At jeg plejede at gå,i skaren plejede jeg at vandre med demtil Guds hus,med jubelråb og taki festskaren.",
+      "number": 5
+    },
+    {
+      "text": "Hvorfor er du nedbøjet, min sjæl,og er i oprør i mig?Vent på Gud, for jeg skal takke ham på nyfor frelsen for hans ansigt.",
+      "number": 6
+    },
+    {
+      "text": "Min Gud, min sjæl er nedbøjet i mig,derfor vil jeg huske på digfra Jordans og Hermons land,fra Miz’ars bjerg.",
+      "number": 7
+    },
+    {
+      "text": "Havdyb råber til havdyb,til dine vandfalds brusen,alle dine brændinger og dine bølgerer gået hen over mig.",
+      "number": 8
+    },
+    {
+      "text": "Om dagen vil JHVH byde sin nådeog om natten sin sang at være hos mig,en bøn til mit livs Gud.",
+      "number": 9
+    },
+    {
+      "text": "Jeg vil sige til Gud, min klippe:>>Hvorfor har du glemt mig?Hvorfor skal jeg gå sørgende,idet en fjende trænger mig?<<",
+      "number": 10
+    },
+    {
+      "text": "Det er som om mine knogler knuses,når mine fjender håner mig,idet de hele dagen siger til mig:>>Hvor er din Gud?<<",
+      "number": 11
+    },
+    {
+      "text": "Hvorfor er du nedbøjet, min sjæl?Og hvorfor er du i oprør i mig?Vent på Gud, for jeg skal takke ham på ny,mit ansigts frelse og min Gud.",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Skilt fra Gud",
+      "verse": 2
+    },
+    {
+      "text": "Langt fra Gud",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 21
+    },
+    {
+      "text": "Vendingen og betydningen af *ʔᵃfîqê-māyim* (>>vandløb<<) er omdiskuteret. Nogle oversættere forstår det som >>rindende vand<<, andre som >>udtørrede vandløb<<. Også forståelsen af præpositionen *ʕal*, der oftest betyder >>på, over<<, men i sjældnere tilfælde betyder >>efter<<, spiller ind. Men da der ikke i sammenhængen er tale om udtørring, synes det nærliggende at forstå hjortens skrig som skrig efter et vandløb hvor der er rindende vand.",
+      "type": "E",
+      "verse": 2,
+      "position": 48
+    },
+    {
+      "text": "Verbet er i den hebraiske tekst vokaliseret som nif’al, hvor det betyder: >>blive set/vise sig<<. Det giver god mening, idet der tænkes på at komme til templet, altså komme frem for Gud (5 Mos 12,12). Nogle få håndskrifter har dog vokaliseret som *qal*, og det følges af mange oversættere: >>og se Guds ansigt<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 90
+    },
+    {
+      "text": "Udøse fortvivlelse over den nuværende tilstand.",
+      "type": "T",
+      "verse": 5,
+      "position": 51
+    },
+    {
+      "text": "Ordret: >>hans ansigts frelse<<. Der er formodentlig tænkt på den frelse der udgår fra Guds ansigt, dvs. fra Guds omsorg og opmærksomhed. Ofte flyttes dog første ord i v. 7, *ʔᵉlōhay*: >>min Gud<< til v. 6, hvor det afsluttende *w* (>>hans<<) knyttes til *ʔᵉlōhay* og oversættes: >>og<<. Linjen lyder så: >>mit ansigts frelse og min Gud<< (jf. v. 12 og 43,5). I denne sammenhæng angiver >>ansigt<< muligvis at Gud er digterens personlige frelser.",
+      "type": "E",
+      "verse": 6,
+      "position": 122
+    },
+    {
+      "text": "Ordret: >>røst<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 50
+    },
+    {
+      "text": "Ordret: >>Ved knusning i mine knogler håner mine fjender mig<<. Men med støtte i en del håndskrifter læser man som regel *kᵊ* (>>som<<) i stedet for *bᵊ* (>>ved<<). De to konsonanter ligner hinanden.",
+      "type": "T",
+      "verse": 11,
+      "position": 34
+    }
+  ]
+}

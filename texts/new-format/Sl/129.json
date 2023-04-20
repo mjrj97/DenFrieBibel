@@ -1,0 +1,80 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 129,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Valfartssang.De bekæmpede mig hårdt fra min ungdom af– sådan skal Israel sige –",
+      "number": 1
+    },
+    {
+      "text": "de bekæmpede mig hårdt fra min ungdom af,og dog kunne de ikke overvinde mig.",
+      "number": 2
+    },
+    {
+      "text": "På min ryg pløjede plovmænd,de trak deres furer lange.",
+      "number": 3
+    },
+    {
+      "text": "JHVH er retfærdig,han huggede de ugudeliges reb over.",
+      "number": 4
+    },
+    {
+      "text": "De skal blive til skamme og vige tilbage,alle de som hader Zion.",
+      "number": 5
+    },
+    {
+      "text": "De skal blive som græs på tagene,som er visnet før man har nået at rykke det op,",
+      "number": 6
+    },
+    {
+      "text": "som høstmanden ikke får fyldt sin hånd med,og heller ikke den som binder neg, sin favn.",
+      "number": 7
+    },
+    {
+      "text": "Og de som går forbi, siger ikke:>>JHVHs velsignelse være med jer!<<Vi velsigner jer i JHVHs navn.",
+      "number": 8
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Gud har bevaret sit folk",
+      "verse": 2
+    },
+    {
+      "text": "Tillid til Guds sejr",
+      "verse": 5
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: >>(plov)furer<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 47
+    },
+    {
+      "text": "Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: >>Lad dem blive til skamme … Lad dem blive som græs …<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 13
+    },
+    {
+      "text": "Andre oversætter: >>før det når at skyde op<<. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (>>som er visnet før man har nået at rykke det op<<) til: *šeqqādim tišdōf*: >>som østenvinden udtørrer<<. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
+      "type": "E",
+      "verse": 6,
+      "position": 80
+    }
+  ]
+}

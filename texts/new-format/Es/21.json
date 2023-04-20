@@ -1,0 +1,176 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 21,
+  "version": 1681336800000,
+  "verses": [
+    {
+      "text": "Udsagn om ørkenen ved havet.Ligesom hvirvelvinde farer forbi i Sydlandet,kommer det fra ørkenen,fra det forfærdelige land.",
+      "number": 1
+    },
+    {
+      "text": "Et hårdt syn er forkyndt mig:Den troløse handler troløst,og voldsmanden øver vold.Drag op, Elam!Belejr, Medien!Ethvert af hendes suk gør jeg ende på.",
+      "number": 2
+    },
+    {
+      "text": "Derfor er mine lænder fulde af krampesmerter,veer er kommet over migsom en fødendes veer;jeg vrider mig så jeg ikke kan høre,jeg er forfærdet så jeg ikke kan se.",
+      "number": 3
+    },
+    {
+      "text": "Mit hjerte er faret vild,gru har overvældet mig,skumringen jeg længtes efter,er blevet gjort til rædsel for mig.",
+      "number": 4
+    },
+    {
+      "text": "Man dækker bordet,man breder tæppet ud,man spiser, man drikker.>>Rejs jer, ledere,salv skjold!<<***",
+      "number": 5
+    },
+    {
+      "text": "For sådan har JHVH sagt til mig:>>Gå, sæt vagtposten ud,som skal melde, hvad han ser!",
+      "number": 6
+    },
+    {
+      "text": "Og ser han en stridsvogn,med et par heste for,æselryttere,kamelryttere,så skal han lytte opmærksomt,meget opmærksomt.<<",
+      "number": 7
+    },
+    {
+      "text": "Og han skal råbe som en løve:>>På vagt, Herre,står jegaltid om dagen,og på min vagtpoststår jeghver nat.<<",
+      "number": 8
+    },
+    {
+      "text": "Og se, da kom deren vogn med en mand,med et par heste for.Han erklærede: >>Faldet,Babylon er faldet,og dens gudebillederer knust til jorden!<<",
+      "number": 9
+    },
+    {
+      "text": "Du, min tærskede,og søn af min tærskeplads!Det jeg har hørt fra Hærskarers HERRE,Israels Gud,har jeg meddelt jer.",
+      "number": 10
+    },
+    {
+      "text": "Udsagn om Duma.Der er en der råber til mig fra Se’ir:>>Vægter, hvad er der tilbage af natten?Vægter, hvad er der tilbage af natten?<<",
+      "number": 11
+    },
+    {
+      "text": "Vægteren siger:>>Der kommer morgen,men også nat.Vil I spørge, så spørg!Vend tilbage, kom!<<",
+      "number": 12
+    },
+    {
+      "text": "Udsagn om dem på steppen.I buskadset, på steppen skal I overnatte,I, dedanitters karavaner!",
+      "number": 13
+    },
+    {
+      "text": "Til en tørstigskal I bringe vand;I der bor i Themas land,gå en flygtning i møde med det brød han har brug for.",
+      "number": 14
+    },
+    {
+      "text": "For de flygtede for sværd,for et draget sværd,og for en spændt bueog for en krigs voldsomhed.",
+      "number": 15
+    },
+    {
+      "text": "For sådan sagde JHVH til mig: >>Indenfor et år, som en daglejers år, skal det være forbi med al Kedars herlighed.",
+      "number": 16
+    },
+    {
+      "text": "Og resttallet af buer som Kedars tapre sønner har tilbage, skal være ringe.<< For JHVH, Israels Gud, har sagt det.",
+      "number": 17
+    }
+  ],
+  "titles": [
+    {
+      "text": "Ord mod Babylonien",
+      "verse": 1
+    },
+    {
+      "text": "Ord mod Edom",
+      "verse": 11
+    },
+    {
+      "text": "Ord mod dem på steppen",
+      "verse": 13
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Dvs. Babylon, v 9",
+      "type": "T",
+      "verse": 1,
+      "position": 27
+    },
+    {
+      "text": "Ordret: >>i Negev<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 73
+    },
+    {
+      "text": "Tidligere oversat: >>vagten holder vagt<<. Der er tale om to ensskrevne verber og deraf afledte substantiver.",
+      "type": "T",
+      "verse": 5,
+      "position": 39
+    },
+    {
+      "text": "Kan også oversættes: >>med et par ryttere<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 46
+    },
+    {
+      "text": "Kan også oversættes: >>vogn trukket af æsel<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 58
+    },
+    {
+      "text": "Kan også oversættes: >>vogn trukket af kamel<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 71
+    },
+    {
+      "text": "Ofte går man ud fra at *ʔaryēʰ* (>>løve<<) må være en skrivefejl for: *harōʔeʰ*: >>udkigsmand<<. Det har dog ingen støtte i manuskripterne.",
+      "type": "E",
+      "verse": 8,
+      "position": 29
+    },
+    {
+      "text": "Kan også oversættes: >>med et par ryttere<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 58
+    },
+    {
+      "text": "Dvs. det mishandlede jødiske folk.",
+      "type": "T",
+      "verse": 10,
+      "position": 17
+    },
+    {
+      "text": "Hærskarers",
+      "type": "N",
+      "verse": 10,
+      "position": 80
+    },
+    {
+      "text": "Dvs. Edom. Jer 49,7",
+      "type": "T",
+      "verse": 11,
+      "position": 15
+    },
+    {
+      "text": "Kan også oversættes: >> i Arabien<<.",
+      "type": "T",
+      "verse": 13,
+      "position": 25
+    },
+    {
+      "text": "Ordret: >>med hans brød<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 110
+    },
+    {
+      "text": "Ordret: >>tunghed<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 93
+    }
+  ]
+}

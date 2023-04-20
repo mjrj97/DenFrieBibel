@@ -1,0 +1,114 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 26,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Af David.Skaf mig ret, JHVHv,for jeg har vandret i min uskyld,og på JHVH har jeg stolet,jeg skal ikke vakle.",
+      "number": 1
+    },
+    {
+      "text": "Prøv mig, JHVHv, og test mig,ransag mine nyrer og mit hjerte.",
+      "number": 2
+    },
+    {
+      "text": "For din nåde har jeg for mine øjne,og jeg har vandret i din sandhed.",
+      "number": 3
+    },
+    {
+      "text": "Jeg har ikke siddet hos løgnagtige mænd,og jeg vil ikke komme hos lumske.",
+      "number": 4
+    },
+    {
+      "text": "Jeg har hadet ugerningsmænds forsamling,og hos ugudelige vil jeg ikke sidde.",
+      "number": 5
+    },
+    {
+      "text": "Jeg vil vaske mine hænder i uskyld,og jeg vil gå omkring dit alter, JHVHv,",
+      "number": 6
+    },
+    {
+      "text": "for at lade taksigelses røst lyde,og for at fortælle om alle dine undere.",
+      "number": 7
+    },
+    {
+      "text": "JHVHv, jeg elsker dit hus’ boog stedet for din herligheds bolig.",
+      "number": 8
+    },
+    {
+      "text": "Riv ikke min sjæl bort med syndere,eller mit liv med blodtørstige folk",
+      "number": 9
+    },
+    {
+      "text": "i hvis hænder der er skændsel,og hvis højre hånd er fuld af bestikkelse.",
+      "number": 10
+    },
+    {
+      "text": "Men jeg vil vandre i min uskyld,forløs mig og vær mig nådig!",
+      "number": 11
+    },
+    {
+      "text": "Min fod har stået på fast grund,i forsamlinger vil jeg prise JHVH.",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Bøn om hjælp",
+      "verse": 2
+    },
+    {
+      "text": "David søger ikke venskab med onde",
+      "verse": 3
+    },
+    {
+      "text": "David længes kun efter at være Gud nær",
+      "verse": 6
+    },
+    {
+      "text": "Ny bøn om hjælp",
+      "verse": 9
+    },
+    {
+      "text": "Vished om Guds hjælp",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>Døm mig<< i betydningen: >>Bedøm mig<< parallelt med vers 2.",
+      "type": "T",
+      "verse": 1,
+      "position": 22
+    },
+    {
+      "text": "Kan også oversættes: >>uden at vakle<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 108
+    },
+    {
+      "text": "Ordret: >>prøv ved at smelte << (som metalsmelteren).",
+      "type": "T",
+      "verse": 2,
+      "position": 35
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 3,
+      "position": 12
+    },
+    {
+      "text": "Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: >>høre<< (>>for at høre lyden af …<<), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).",
+      "type": "E",
+      "verse": 7,
+      "position": 34
+    }
+  ]
+}

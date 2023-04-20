@@ -1,0 +1,96 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 120,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "En valfartssang.Til JHVH i min trængselråbte jeg, og han svarede mig.",
+      "number": 1
+    },
+    {
+      "text": ">>JHVHv, befri min sjæl fra en løgnagtig læbe,fra en svigefuld tunge.<<",
+      "number": 2
+    },
+    {
+      "text": "Hvad giver han dig, og hvad giver han dig yderligere,du svigefulde tunge?",
+      "number": 3
+    },
+    {
+      "text": "Krigerens skarpe pilemed gyvelgrenes glødende kul!",
+      "number": 4
+    },
+    {
+      "text": "Ve mig, for jeg har været fremmed i Meshek,jeg har boet blandt Kedars telte.",
+      "number": 5
+    },
+    {
+      "text": "Længe nok har min sjæl haft sin bolighos ham som hader fred.",
+      "number": 6
+    },
+    {
+      "text": "Jeg er fredsommelig; men når jeg taler,er de for krig.",
+      "number": 7
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Gud hørte og svarede",
+      "verse": 2
+    },
+    {
+      "text": "Klagen",
+      "verse": 2
+    },
+    {
+      "text": "Gud vil ramme den svigefulde tunge",
+      "verse": 3
+    },
+    {
+      "text": "Salmistens trængsel",
+      "verse": 5
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Den første af 15 valfartssange. Meningen med ordet: *maʕᵃlôt* (>>valfart<<) er ganske vist omdiskuteret. Stammen i ordet er verbet: *ʕlt*, der betyder: >>at stige op, at gå op<<.Det er gammel jødisk opfattelse at ordet betegner de 15 trin op til Nikanorporten til tempelpladsen hvorfra levitterne sang. I så fald skal overskriften oversættes: >>Sang på trinene<<.Et andet forslag bygger på at verbet: *ʕlt* ofte betegner vandring til det hellige land. Det er derfor foreslået at salmerne stammer fra israelitternes rejse tilbage til deres land fra det babyloniske eksil. Man kan derfor også finde oversættelsen: >>Sang til rejserne<<.Et tredje forslag, som nu oftest vinder tilslutning, læser verbet: *ʕlt* som betegnelse for opstigning til Jerusalem, der ligger på en bjergtop. Verbet bruges specielt om opstigning til templet, altså om >>valfart<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 16
+    },
+    {
+      "text": "Ordret: >>fra løgns læbe<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 46
+    },
+    {
+      "text": "Ordret: >>fra tunge der er bedrag<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 71
+    },
+    {
+      "text": "Svaret kommer i næste vers. Verset oversættes undertiden: >>Gid han må ramme dig og gøre det yderligere, du svigefulde tunge<<. Det er dog tvivlsomt om: *māʰ* (normalt: >>hvad<<) kan betyde: >>gid<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 73
+    },
+    {
+      "text": "Meshek og Kedar var krigeriske stammer.",
+      "type": "T",
+      "verse": 5,
+      "position": 43
+    },
+    {
+      "text": "Nogle håndskrifter og de gamle oversættelser har pluralis: >>hos dem<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 44
+    }
+  ]
+}

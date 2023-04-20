@@ -5,9 +5,10 @@ import Head from 'next/head'
 // Internal components
 import BibleText from '@/components/BibleText'
 import BookDropdown from '@/components/BookDropdown'
+import CommentContainer from '@/components/CommentContainer'
 
 const Index = () => {
-  const [currentBook, setCurrentBook] = useState("ruth");
+  const [currentBook, setCurrentBook] = useState("Ruth");
   const [currentChapter, setCurrentChapter] = useState(1);
   const [books, setBooks] = useState([]);
   const [text, setText] = useState("");
@@ -25,7 +26,7 @@ const Index = () => {
       response => response.json()
     ).then(
       data => {
-        setBooks(data.books);
+        setBooks(data);
       }
     );
   }, []);
@@ -34,8 +35,8 @@ const Index = () => {
     <>
       <Head>
         <title>Den Frie Bibel</title>
-        <link rel="icon" href="/icon.png" />
       </Head>
+      {/*<CommentContainer/>*/}
       <BookDropdown bookChanged={setCurrentBook} chapterChanged={setCurrentChapter} books={books}/>
       <div className='my-4'/>
       <BibleText text={text}/>

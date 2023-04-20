@@ -1,0 +1,124 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 17,
+  "version": 1681336800000,
+  "verses": [
+    {
+      "text": "Udsagn om Damaskus.Se, Damaskus fjernes fra at være en by,og den skal blive en ruinhob.",
+      "number": 1
+    },
+    {
+      "text": "Aro’ers byer bliver forladt;de skal være til fårehjorde,og de skal lejre sig der,og ingen skræmmer dem.",
+      "number": 2
+    },
+    {
+      "text": "Og fæstning forsvinder fra Efraimog kongedømme fra Damaskusog fra resten af Aram;de skal blive som Israels børns herlighed,siger Hærskarers HERRE.",
+      "number": 3
+    },
+    {
+      "text": "Og det skal ske på den dag:Da skal Jakobs herlighed svinde,og hans køds fedme skal svinde ind.",
+      "number": 4
+    },
+    {
+      "text": "Og det skal gå som når en der høster, samler korn,og hans arm skærer aksene af;og det skal gå som når man samler aksi Refaims Dal.",
+      "number": 5
+    },
+    {
+      "text": "Men der skal blive en efterslæt tilbage dér,som når man slår oliven ned:To-tre bær i trætoppen,fire–fem på dets frugtbare kviste,sådan er JHVHs, Israels Guds, udsagn.",
+      "number": 6
+    },
+    {
+      "text": "På den dag skal mennesket se mod sin skaber, og dets øjne skal se hen til Israels Hellige.",
+      "number": 7
+    },
+    {
+      "text": "Og det skal ikke se hen til altrene, dets hænders værk; og det dets fingre har lavet, skal det ikke se på, hverken Ashera-pælene eller røgelsesaltrene.",
+      "number": 8
+    },
+    {
+      "text": "På den dag skal dets stærke byer blive som de forladte skove og bjergtoppen, som de har forladt på grund af Israels børn, og der skal blive ørken.",
+      "number": 9
+    },
+    {
+      "text": "For du har glemt din frelses Gudog ikke husket på din styrkes klippe;derfor planter du skønheders planterog sætter en fremmeds vinranker.",
+      "number": 10
+    },
+    {
+      "text": "Den dag du planter, sætter du hegn omkring,og om morgenen får du din plantning til at blomstre;men flygtet er høsten på en dag med sygdomog ulægelig smerte.",
+      "number": 11
+    },
+    {
+      "text": "Ve! Der er larm af mange folkeslag!De larmer, som havenes larmen;et bulder af folkefærd!De buldrer som mægtige vandes buldren.",
+      "number": 12
+    },
+    {
+      "text": "Folkeslag buldrer som mange vandes buldren,men han truer detså det flygter langt bort;det jages som avner på bjergene af vindog som en kugletidsel af hvirvelvind.",
+      "number": 13
+    },
+    {
+      "text": "Ved aftenstid – se, der er rædsel!Førend morgen – de er ikke mere!Dette er hvad de der plyndrer os, får,og deres lod, der røver fra os.",
+      "number": 14
+    }
+  ],
+  "titles": [
+    {
+      "text": "Guds dom over Aram og Nordriget",
+      "verse": 1
+    },
+    {
+      "text": "Ord mod Assur",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Hærskarers",
+      "type": "N",
+      "verse": 3,
+      "position": 146
+    },
+    {
+      "text": "Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med >>røgelsesalter<<. Andre foreslår: >>sol-søjler<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 151
+    },
+    {
+      "text": "Hebraisk: *kaʕᵃzûvat haḥōreš wᵊhāʔāmîr*. Mange vælger her at følge Septuaginta der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: >>som hivvitternes og amoritternes byer<<.",
+      "type": "E",
+      "verse": 9,
+      "position": 76
+    },
+    {
+      "text": "I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.",
+      "type": "E",
+      "verse": 10,
+      "position": 97
+    },
+    {
+      "text": "Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: >>dæmning<<. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: >>er flygtet<<.",
+      "type": "E",
+      "verse": 11,
+      "position": 106
+    },
+    {
+      "text": "Denne sætning mangler i mange håndskrifter.",
+      "type": "E",
+      "verse": 13,
+      "position": 43
+    },
+    {
+      "text": "Teksten her og i det følgende står i singularis, så det må henvise til Assur.",
+      "type": "T",
+      "verse": 13,
+      "position": 60
+    },
+    {
+      "text": "Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: >>hjul<<, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.",
+      "type": "T",
+      "verse": 13,
+      "position": 146
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 25,
+  "version": 1681336800000,
+  "verses": [
+    {
+      "text": "HERRE! Du er min Gud,jeg vil ophøje dig, jeg vil prise dit navn,for du har gjort under;planer, der er lagt for længe siden,er trofasthed og sandhed.",
+      "number": 1
+    },
+    {
+      "text": "For du har forvandlet en by til en stendynge,en befæstet stad til en ruinhob,fremmedes palads er ikke længere en by;den skal aldrig mere bygges.",
+      "number": 2
+    },
+    {
+      "text": "Derfor skal et stærkt folk ære dig;voldelige folkeslags stad skal frygte dig.",
+      "number": 3
+    },
+    {
+      "text": "For du var værn for den ringe,værn for den fattige i hans nød,tilflugt fra regnskyl, skygge mod hede;for voldsmænds fnysen er som regnskyl mod en mur.",
+      "number": 4
+    },
+    {
+      "text": "Som hede i et tørt landbetvinger du fremmedes larm;som heden dæmpes af skygge fra en sky,dæmpes tyranners jubelsang.***",
+      "number": 5
+    },
+    {
+      "text": "På dette bjerg skal Hærskarers HERREholde et måltid med fede retterfor alle folkeslageneet måltid med lagret vin,fede, marvfulde retter,lagret, klaret vin.",
+      "number": 6
+    },
+    {
+      "text": "På dette bjerg skal han bortskaffesløret der tildækker, sløret over alle folkene,og det dække som alle folkeslagene er dækket med.",
+      "number": 7
+    },
+    {
+      "text": "Han skal opsluge døden for evigt,og Herren JHVH skal tørre tårer af alle ansigterog fjerne spotten mod sit folk fra hele jorden;for JHVH har talt.",
+      "number": 8
+    },
+    {
+      "text": "På den dag skal man sige:>>Se, dette er vores Gud, som vi håbede påat han skulle frelse os.Denne er HERREN, vi har håbet på,lad os juble og glæde os over hans frelse.<<***",
+      "number": 9
+    },
+    {
+      "text": "For JHVHs hånd skal hvileover dette bjerg;i stedet skal Moab trædes ned,som halm trædes ned i en møddingpøl.",
+      "number": 10
+    },
+    {
+      "text": "Og det skal brede sine hænder ud i den,som den der svømmer, breder sine hænder ud for at svømme;og han skal ydmyge dets overmodsammen med dets hænders dygtighed.",
+      "number": 11
+    },
+    {
+      "text": "Og dine {T: Moabs} mures høje fæstningsværkskal han kaste ned, vælte, jævne med{T: Ordret: >>få til at berøre<<.} jorden,helt ned i støvet.",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "Guds folk priser JHVH",
+      "verse": 1
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Det foreslås ofte at ændre vokaliseringen fra: *qîr* (>>mur<<) til: *qōr*: >>kulde<<, så oversættelsen bliver: >>som et koldt regnskyl<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 150
+    },
+    {
+      "text": "Hærskarers",
+      "type": "N",
+      "verse": 6,
+      "position": 36
+    },
+    {
+      "text": "Kan også oversættes: >>hedningerne<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 115
+    },
+    {
+      "text": "JHVH",
+      "type": "T",
+      "verse": 11,
+      "position": 102
+    },
+    {
+      "text": "Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.",
+      "type": "E",
+      "verse": 11,
+      "position": 161
+    }
+  ]
+}

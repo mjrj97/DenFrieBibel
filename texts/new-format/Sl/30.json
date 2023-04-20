@@ -1,0 +1,138 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 30,
+  "version": 1666562400000,
+  "verses": [
+    {
+      "text": "Salme, en sang ved husets indvielse,\n\taf David.",
+      "number": 1
+    },
+    {
+      "text": "Jeg vil ophøje dig,\n\t\t\tJHVHv,\n\t\tfor du har trukket mig op,\n\t\t\tog du lod ikke mine fjender glæde sig over mig.",
+      "number": 2
+    },
+    {
+      "text": "\tJHVHv, min Gud,\n\t\t\tjeg råbte til dig om hjælp,\n\t\tog du helbredte mig.",
+      "number": 3
+    },
+    {
+      "text": "\tJHVHv,\n\t\tdu løftede min sjæl op fra dødsriget,\n\t\t\t\t\tdu gav mig livet tilbage fra dem\n\t\t\t\t\t\tsom gik ned i graven.",
+      "number": 4
+    },
+    {
+      "text": "\t\t\t\tLovsyng JHVH,\n\t\t\t\t\t\t\tI hans fromme,\n\t\t\t\t\t\tog pris hans hellige navn.",
+      "number": 5
+    },
+    {
+      "text": "\t\t\t\t\tJa, et øjeblik varer hans vrede,\n\t\t\t\t\t\t\thans nåde hele livet.\n\t\t\t\t\t\tOm aftenen gæster gråden os,\n\t\t\t\t\t\t\tmen om morgenen jubel.",
+      "number": 6
+    },
+    {
+      "text": "\t\t\tOg jeg sagde i min tryghed:\n\t\t\t\t>>Jeg skal ikke vakle i evighed<<.",
+      "number": 7
+    },
+    {
+      "text": "\tJHVHv,\n\t\t\t\tved din gunst har du givet mit bjerg styrke.\n\t\t\t\t\tDu skjulte dit ansigt,\n\t\t\t\t\t\tjeg blev forfærdet.",
+      "number": 8
+    },
+    {
+      "text": "\t\t\tTil dig,\n\t\t\t\t\t\t\t\tJHVHv,\n\t\t\t\t\t\t\tvil jeg råbe,\n\t\t\t\t\t\tog Herren vil jeg bønfalde om nåde.",
+      "number": 9
+    },
+    {
+      "text": "\t\t\t\t\tHvilken vinding er der ved mit blod,\n\t\t\t\t\t\t\tved at jeg går ned i graven?\n\t\t\t\t\t\tKan støv takke dig?\n\t\t\t\t\t\t\tKan det forkynde din troskab?",
+      "number": 10
+    },
+    {
+      "text": "\t\t\t\tHør,\n\t\t\t\t\t\t\tJHVHv,\n\t\t\t\t\t\tog vær mig nådig,\n\t\t\t\t\tJHVHv,\n\t\t\t\t\t\tvær min hjælper!",
+      "number": 11
+    },
+    {
+      "text": "\t\tDu har forvandlet min klage til dans for mig,\n\t\tdu har løst min sæk\n\t\t\tog omgjordet mig med glæde,",
+      "number": 12
+    },
+    {
+      "text": "\t\t\t\tfor at min ære{E: Ordret blot >>ære<<. Normalt tilføjer man med Septuaginta >>min<<. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.} må lovsynge dig\n\t\t\t\t\tog ikke tie.\n\tJHVHv, min Gud,\n\t\tfor evigt vil jeg takke dig.",
+      "number": 13
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning for frelse fra døden",
+      "verse": 2
+    },
+    {
+      "text": "Hele menigheden opfordres til at istemme lovsang",
+      "verse": 5
+    },
+    {
+      "text": "Tilbageblik på egen synd og afmagt – og tillid til Gud",
+      "verse": 7
+    },
+    {
+      "text": "Afsluttende lovprisning",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Formodentlig templets.",
+      "type": "T",
+      "verse": 1,
+      "position": 25
+    },
+    {
+      "text": "Som man trækker en spand op fra brøndens dyb.",
+      "type": "T",
+      "verse": 2,
+      "position": 58
+    },
+    {
+      "text": "Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet at der skal oversættes: >>Du lod mig leve, så jeg ikke gik i graven<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 113
+    },
+    {
+      "text": "Ordret nærmere: >>ihukommelse / minde<<. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af >>navn<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 72
+    },
+    {
+      "text": "Ordret: >>Ja, kun et øjeblik i hans vrede, liv i hans nåde<<. Der skal formodentlig underforstås >>står man<< eller lignende.",
+      "type": "T",
+      "verse": 6,
+      "position": 66
+    },
+    {
+      "text": "Ordret: >>vil overnatte<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 90
+    },
+    {
+      "text": "Dvs. mit rige og min kongemagt.",
+      "type": "T",
+      "verse": 8,
+      "position": 48
+    },
+    {
+      "text": "Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.",
+      "type": "E",
+      "verse": 8,
+      "position": 56
+    },
+    {
+      "text": "Dvs. >>sørgedragt<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 69
+    }
+  ]
+}

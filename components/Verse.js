@@ -19,7 +19,7 @@ function Verse(props) {
                     const tooltipID = props.verseNumber + "f" + props.footnotes[j].designation;
                     const footnote = (
                         <span key={i}>
-                            <Tooltip id={tooltipID}/>
+                            <Tooltip id={tooltipID} className='footnote'/>
                             <sup className='ignore'>
                                 [<a href="#/" data-tooltip-id={tooltipID} data-tooltip-content={props.footnotes[j].text}>{props.footnotes[j].designation}</a>]
                             </sup>

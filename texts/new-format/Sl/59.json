@@ -1,0 +1,196 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 59,
+  "version": 1530741600000,
+  "verses": [
+    {
+      "text": "Til korlederen. Al-tashket.Af David. Miktam.Dengang Saul sendte folk, og de overvågede huset for at dræbe ham.",
+      "number": 1
+    },
+    {
+      "text": "Red mig fra mine fjender, min Gud!Beskyt mig mod dem som rejser sig imod mig.",
+      "number": 2
+    },
+    {
+      "text": "Red mig fra dem som begår synd,og frels mig fra mordere!",
+      "number": 3
+    },
+    {
+      "text": "For se, de har lagt baghold for min sjæl,stærke angriber mig,uden min overtrædelse og uden min synd, JHVHv!",
+      "number": 4
+    },
+    {
+      "text": "Uden at der foreligger skyld, stormer de frem og stiller sig op.Vågn op for at møde mig og se!",
+      "number": 5
+    },
+    {
+      "text": "Ja, du, JHVHv Gud, Sebaot, Israels Gud,vågn op for at hjemsøge alle folkeslagene!Vis ingen nåde mod alle de troløse udøvere af synd! Sela",
+      "number": 6
+    },
+    {
+      "text": "De kommer tilbage om aftenen,de hyler som hundeog gennemstrejfer byen.",
+      "number": 7
+    },
+    {
+      "text": "Se, de fråder i deres mund,der er sværd på deres læber,for hvem skulle høre det?",
+      "number": 8
+    },
+    {
+      "text": "Men du, Herre! du ler ad dem, du spotter alle folkeslag.",
+      "number": 9
+    },
+    {
+      "text": "Hvad hans styrke angår, vil jeg give agt på dig,for Gud er min fæstning.",
+      "number": 10
+    },
+    {
+      "text": "Min nådes Gud skal komme mig i møde,Gud skal lade mig se med fryd på mine fjender.",
+      "number": 11
+    },
+    {
+      "text": "Dræb dem ikke, for at mit folk ikke skal glemme det,gør dem hjemløse med din styrke, og styrt dem ned,Herre, vort skjold.",
+      "number": 12
+    },
+    {
+      "text": "Deres læbers ord er deres munds synd,og de skal fanges i deres hovmodog på grund af den forbandelse og løgn som de udsiger.",
+      "number": 13
+    },
+    {
+      "text": "Udryd dem i vrede, udryd dem, så de ikke er mere;og de skal vide at Gud hersker i Jakob,indtil jordens ender. Sela",
+      "number": 14
+    },
+    {
+      "text": "De kommer tilbage om aftenen,de hyler som hundeog gennemstrejfer byen.",
+      "number": 15
+    },
+    {
+      "text": "De vil strejfe om efter føde,hvis de ikke bliver mætte, bliver de natten over.",
+      "number": 16
+    },
+    {
+      "text": "Men jeg vil synge om din styrke,jeg vil jublende om morgenen prise din nåde.For du er blevet en fæstning for migog en tilflugt på min trængsels dag.",
+      "number": 17
+    },
+    {
+      "text": "Min styrke, dig vil jeg lovsynge,for Gud er min fæstning,min nådes Gud.{T: Se note til v. 11.}",
+      "number": 18
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Bøn om frelse fra fjender",
+      "verse": 2
+    },
+    {
+      "text": "Tillidserklæring til Gud",
+      "verse": 9
+    },
+    {
+      "text": "Ny tillidserklæring til Gud",
+      "verse": 17
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: >>fordærv ikke/ødelæg ikke<<. Det kan være begyndelsesordene i en – nu ukendt - salme.",
+      "type": "T",
+      "verse": 1,
+      "position": 27
+    },
+    {
+      "text": "Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<), eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-58; 60) fastholde en alvorlig situation i folkets erindring.",
+      "type": "T",
+      "verse": 1,
+      "position": 44
+    },
+    {
+      "text": "Ordret: >>blodets mænd<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 56
+    },
+    {
+      "text": "I betydningen >>mig<< eller evt. >>mit liv<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 41
+    },
+    {
+      "text": "Oversættes normalt >>hærskarer<< i sammensætningen >>Hærskarers Herre<<. Men her står det markeret som selvstændigt navn for Gud.",
+      "type": "E",
+      "verse": 6,
+      "position": 26
+    },
+    {
+      "text": "Kan også oversættes: >>hedningerne<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 81
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 6,
+      "position": 137
+    },
+    {
+      "text": "Ordret blot: >>for hvem hører<<. Det er enten ment som citat i modstandernes mund, eller som: >>hvem kan holde ud at høre på det?<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 80
+    },
+    {
+      "text": "Kan også oversættes: >>hedninger<<, men det er næppe der, vægten ligger her.",
+      "type": "T",
+      "verse": 9,
+      "position": 56
+    },
+    {
+      "text": "Ordret blot: >>hans styrke<<. Enten må der være tænkt på fjenden, og man må da underforstå >>over for<< eller >>angående<< eller lign., eller også må man rette (det er det almindeligste valg) *ʕuzzô* (>>hans styrke<<) til *ʕuzzî*: >>min styrke<< som tiltale til Gud: >>Min styrke, jeg vil …<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 23
+    },
+    {
+      "text": "Konsonantteksten ordret: >>Min Gud skal komme mig i møde (med) sin nåde<<. Men med støtte bl.a. i masoreternes vokalisering, Septuaginta og sammenhængen retter man ofte til: >>min nådes Gud …<<.",
+      "type": "T",
+      "verse": 11,
+      "position": 3
+    },
+    {
+      "text": "Ordret: >>lad dem flakke om<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 68
+    },
+    {
+      "text": "Undertiden foreslås det at underforstå et >>for<<, så oversættelsen skal lyde: >>For deres munds synd, deres læbers ord, skal de fanges i deres hovmod<<.",
+      "type": "T",
+      "verse": 13,
+      "position": 37
+    },
+    {
+      "text": "Denne linje er formodentlig nærmere bestemmelse til >>de skal vide<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 109
+    },
+    {
+      "text": "På grundlag af Septuaginta foreslår mange en mindre ændring i vokaliseringen: *yālînû* (>>bliver de natten over<<) til *yāllînû*: >>knurrer de<<.",
+      "type": "T",
+      "verse": 16,
+      "position": 78
+    }
+  ]
+}

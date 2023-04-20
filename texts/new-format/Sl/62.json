@@ -1,0 +1,142 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 62,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Til Jedutun.Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Kun for Gud er min sjæl stille,fra ham kommer min frelse.",
+      "number": 2
+    },
+    {
+      "text": "Kun han er min klippe og min frelse,min fæstning; jeg skal ikke rokkes meget.",
+      "number": 3
+    },
+    {
+      "text": "Hvor længe vil I storme ind på en mand- I vil alle myrde -der er som en hældende væg,en væltet mur?",
+      "number": 4
+    },
+    {
+      "text": "De planlægger kun at støde ham ned fra hans højhed,de finder behag i løgn,med deres mund velsigner de,men i deres indre forbander de. Sela",
+      "number": 5
+    },
+    {
+      "text": "Kun for Gud skal du være stille, min sjæl,for fra ham er mit håb.",
+      "number": 6
+    },
+    {
+      "text": "Kun han er min klippe og min frelse,min fæstning; jeg skal ikke rokkes.",
+      "number": 7
+    },
+    {
+      "text": "På Gud beror min frelse og min ære,min sikkerheds klippe, min tilflugt er i Gud.",
+      "number": 8
+    },
+    {
+      "text": "Stol på ham til enhver tid, du folk,udøs jeres hjerte for hans ansigt,Gud er vor tilflugt. Sela",
+      "number": 9
+    },
+    {
+      "text": "Kun et vindpust er mennesker,folk af rang er blændværk;på vægten stiger de til vejrs,de er alle mindre end et vindpust.",
+      "number": 10
+    },
+    {
+      "text": "Stol ikke på undertrykkelse,og sæt ikke tomt håb til røvet bytte!Hvis rigdom vokser, så stol ikke på den!",
+      "number": 11
+    },
+    {
+      "text": "Én gang har Gud talt,to gange, dette har jeg hørt:At styrke tilhører Gud.",
+      "number": 12
+    },
+    {
+      "text": "Og: Hos dig, Herre, er der nåde{N: nåde}.For du vil gengælde et menneske efter hans gerning.",
+      "number": 13
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Tillid til Gud trods fjendernes anslag",
+      "verse": 2
+    },
+    {
+      "text": "Stol på Gud",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Jedutun var efter Davids bestemmelse sammen med Asaf og Heman overhoved for og stamfader til tempelsangerne (1 Krøn 25,1-3; 2 Krøn 5,12; 35,15). Han er formentlig den samme som Etan (1 Krøn 15,19). Overskriften her betyder formodentlig at salmen skal synges af Jedutun og hans tempelsangere.",
+      "type": "E",
+      "verse": 1,
+      "position": 28
+    },
+    {
+      "text": "Ordret: >>Kun til Gud stilhed min sjæl<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 31
+    },
+    {
+      "text": "Det er omdiskuteret om roden i *tᵊhôttû* er *hwt* (>>storme imod<<) eller *htt* (>>overdænge med bebrejdelser<<. Det første er dog sandsynligst.",
+      "type": "E",
+      "verse": 4,
+      "position": 23
+    },
+    {
+      "text": "Ordret: >>De finder kun behag i at planlægge at støde ham ned fra hans højhed<<. Der er flere problemer i verset. Linjen er lang og knudret, og man vælger som regel at lade grundtekstens sidste ord, >>de finder behag i<<, høre til næste linje, der dog så også deles i to (som her). Desuden retter nogle oversættere *miśśᵊʔētô* (>>fra hans højhed<<) til: *maśśuʔôt*: >>fordærv/svig<<: >>De ønsker kun fordærv/svig<< eller >>de finder kun behag i fordærv/svig<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 51
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 5,
+      "position": 138
+    },
+    {
+      "text": "Ordret: >>Adams sønner/menneskes sønner<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 29
+    },
+    {
+      "text": "Ordret: >>mands sønner<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 41
+    },
+    {
+      "text": "Ordret: >>løgn<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 55
+    },
+    {
+      "text": "Ordret: >>i vægtskålene<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 64
+    },
+    {
+      "text": "Ordret: >>ret ikke hjertet dertil<<.",
+      "type": "T",
+      "verse": 11,
+      "position": 105
+    }
+  ]
+}

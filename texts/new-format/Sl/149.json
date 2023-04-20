@@ -1,0 +1,80 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 149,
+  "version": 1493330400000,
+  "verses": [
+    {
+      "text": "Halleluja!Syng for JHVH en ny sang,hans lovsang i de frommes forsamling!",
+      "number": 1
+    },
+    {
+      "text": "Israel skal glæde sig over sin skaber,Zions sønner skal juble over deres konge!",
+      "number": 2
+    },
+    {
+      "text": "De skal lovprise hans navn med dans,til pauke og citer skal de lovsynge ham.",
+      "number": 3
+    },
+    {
+      "text": "For JHVH har velbehag i sit folk,han pryder de ydmyge med frelse.",
+      "number": 4
+    },
+    {
+      "text": "De fromme skal juble i herlighed,de skal synge med jubel på deres lejer.",
+      "number": 5
+    },
+    {
+      "text": "Der er hyldestsang til Gud i deres strubeog tveægget sværd i deres hånd",
+      "number": 6
+    },
+    {
+      "text": "til at udføre hævn over folkene,straf over folkeslagene;",
+      "number": 7
+    },
+    {
+      "text": "til at binde deres konger med lænker,deres fornemme med fodlænker af jern;",
+      "number": 8
+    },
+    {
+      "text": "til at fuldbyrde på dem den dom som står skrevet!Det er en ære for alle hans fromme.Halleluja!",
+      "number": 9
+    }
+  ],
+  "titles": [
+    {
+      "text": "Syng for frelseren!",
+      "verse": 1
+    },
+    {
+      "text": "Syng for dommeren",
+      "verse": 5
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>menighed<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 72
+    },
+    {
+      "text": "Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
+      "type": "E",
+      "verse": 2,
+      "position": 38
+    },
+    {
+      "text": "Mange fortolkere og oversættere finder omtalen af >>leje<< umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (>>på deres lejer<<) til: *ʕal-mišmᵊrôtām*: >>i deres familier<< eller: *ʕal-maʕarᵊxôtām*: >>i deres slagrækker<<. Andre foreslår at opfatte den masoretiske teksts >>leje<< som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
+      "type": "E",
+      "verse": 5,
+      "position": 72
+    },
+    {
+      "text": "Kan også oversættes: >>hedningerne<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 32
+    }
+  ]
+}

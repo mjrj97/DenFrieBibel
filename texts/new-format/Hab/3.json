@@ -1,0 +1,162 @@
+{
+  "book": "Habakkuks Bog",
+  "abbreviation": "Hab",
+  "chapter": 3,
+  "version": 1511218800000,
+  "verses": [
+    {
+      "text": "En bøn af profeten Habakkuk. Al-shigjonot.***",
+      "number": 1
+    },
+    {
+      "text": "JHVHv! Jeg har hørt budskaber om dig.Jeg frygter, JHVHv, din gerning.Kald den til live midt i årene;kundgør du den midt i årene;husk at være barmhjertig i tumulten!",
+      "number": 2
+    },
+    {
+      "text": "Gud kommer fra Teman;den hellige fra Parans bjerg.SelaHans majestæt dækker himlen,og hans pragt fylder jorden.",
+      "number": 3
+    },
+    {
+      "text": "En glans bryder frem som lyset,han har stråler ud fra sin hånd;dér er skjulestedet for hans magt.",
+      "number": 4
+    },
+    {
+      "text": "Foran ham går pesten,og efter ham udgår dræbende sygdom.",
+      "number": 5
+    },
+    {
+      "text": "Han stopper op og måler jorden;han ser op og får folkene til at skælveog de evige bjerge til at briste,de ældgamle høje til at synke; hans evige stier.",
+      "number": 6
+    },
+    {
+      "text": "Jeg ser Kushans telte i trængsler;teltdugene i Midjans land ryster.",
+      "number": 7
+    },
+    {
+      "text": "Er din vrede blusset op mod floderne, JHVHv?Er du vred på floderne og rasende på havet,siden du farer frem på dine heste, på dine sejrrige vogne?",
+      "number": 8
+    },
+    {
+      "text": "Din bue tages frem;du mætter koggeret med pile.SelaDu kløver jorden med floder.",
+      "number": 9
+    },
+    {
+      "text": "Bjerge så dig, de skælvede;vandstrømme styrtede ned.Urdybet hævede sin røst;det opløftede sine hænder mod det høje.",
+      "number": 10
+    },
+    {
+      "text": "Sol og måne stod stille i deres bolig for lyset af dine pile som farer frem,for glansen af lynene fra dit spyd.",
+      "number": 11
+    },
+    {
+      "text": "I harme skrider du frem på jorden,i vrede træder du folkeslagene ned.",
+      "number": 12
+    },
+    {
+      "text": "Du drog ud til dit folks frelse,til din salvedes frelse.Du knuste hovedet af den ugudeliges hus,idet du blottede det fra grundvolden op til halsen.Sela",
+      "number": 13
+    },
+    {
+      "text": "Med hans spyd gennemborede du hovederne på hans krigeresom stormede frem for at jage mig på flugt,jublende som skulle de til at æde staklen i det skjulte.",
+      "number": 14
+    },
+    {
+      "text": "Du drager igennem havet på dine heste,igennem bruset af de mange vande.",
+      "number": 15
+    },
+    {
+      "text": "Jeg har hørt det, og mit indre bævede.Ved røsten dirrede mine læber,mine ben vaklede,og jeg ryster hvor jeg står.Jeg vil vente roligt på at nødens dag rammer det folk som angriber os.",
+      "number": 16
+    },
+    {
+      "text": "For figentræet blomstrer ikke,og der er ingen afgrøde på vinstokkene;oliventræets frugt slår fejl,og markerne giver intet at spise.Fårene er revet bort fra folden,og der er ingen okser i staldene.",
+      "number": 17
+    },
+    {
+      "text": "Men jeg vil juble over JHVH,jeg vil fryde mig over min frelses Gud.",
+      "number": 18
+    },
+    {
+      "text": "Den herre JHVH er min styrke,og han giver mig fødder som hjortenesog lader mig skride frem over mine høje.***Til korlederen. Til strengespil.",
+      "number": 19
+    }
+  ],
+  "titles": [
+    {
+      "text": "Habakkuks sang",
+      "verse": 1
+    },
+    {
+      "text": "Håb",
+      "verse": 16
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af Al-shigjonot er ukendt.",
+      "type": "E",
+      "verse": 1,
+      "position": 42
+    },
+    {
+      "text": "Eller >>vrede<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 164
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 3,
+      "position": 54
+    },
+    {
+      "text": "Ordret >>horn<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 46
+    },
+    {
+      "text": "En del oversættelser har >>får jorden til at ryste<< eller lignende. Men *madad* oversættes normalt med >>måle<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 31
+    },
+    {
+      "text": "Der er muligvis tænkt på himmellegemernes evige kredsløb.",
+      "type": "E",
+      "verse": 6,
+      "position": 151
+    },
+    {
+      "text": "Ordret >>din bue blotlægges<<.",
+      "type": "E",
+      "verse": 9,
+      "position": 19
+    },
+    {
+      "text": "Den midterste del af verset er meget vanskelig, og der er forslået en lang række forskellige oversættelser.",
+      "type": "E",
+      "verse": 9,
+      "position": 47
+    },
+    {
+      "text": "Ordret >>stav<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 13
+    },
+    {
+      "text": "Ordret: >>sprede mig<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 98
+    },
+    {
+      "text": "Ordret >>der kom svaghed i mine knogler<<.",
+      "type": "E",
+      "verse": 16,
+      "position": 85
+    }
+  ]
+}

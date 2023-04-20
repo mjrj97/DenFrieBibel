@@ -1,0 +1,104 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 20,
+  "version": 1475704800000,
+  "verses": [
+    {
+      "text": "Til korlederen. Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Må JHVH svare dig på nødens dag!Må Jakobs Guds navn ophøje dig!",
+      "number": 2
+    },
+    {
+      "text": "Må han sende dig hjælp fra helligdommenog støtte dig fra Zion!",
+      "number": 3
+    },
+    {
+      "text": "Må han huske alle dine afgrødeofreog finde velbehag i dit brændoffer! Sela",
+      "number": 4
+    },
+    {
+      "text": "Må han give dig efter dit hjerteog opfylde alle dine planer!",
+      "number": 5
+    },
+    {
+      "text": "Så vil vi juble over din frelseog løfte banner i vor Guds navn;må JHVH opfylde alle dine bønner!",
+      "number": 6
+    },
+    {
+      "text": "Nu ved jeg at JHVH frelser sin salvede,han vil svare ham fra sin hellige himmelmed sin højre hånds frelsende, vældige gerninger.",
+      "number": 7
+    },
+    {
+      "text": "Nogle stoler på vogne og nogle på heste,men vi, vi stoler på JHVH vor Guds navn.",
+      "number": 8
+    },
+    {
+      "text": "De styrter og falder,men vi, vi rejser os og holder os oprejste.",
+      "number": 9
+    },
+    {
+      "text": "JHVHv, frels kongen!{E: I grundteksten står den skillende accent under versets andet ord så der egentlig skal oversættes: >>JHVHv, frels!/(Måtte) kongen svare os, den dag vi råber!<< Både indhold og rytme taler dog for, at accenten skal stå under tredje ord som forudsat her.}Svar os den dag vi råber!",
+      "number": 10
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Guds folk beder for sin konge",
+      "verse": 2
+    },
+    {
+      "text": "Vished om at Gud hører og svarer",
+      "verse": 7
+    },
+    {
+      "text": "Afsluttende bøn",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Ordret: >>erklære for fedt<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 51
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 74
+    },
+    {
+      "text": "Verset kunne også oversættes som en del af bønnen: >>Må vi juble over din frelse og i vor Guds navn løfte banner!<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 63
+    },
+    {
+      "text": "Ordret: >>nogle på vogne og nogle på heste<<. Verbet >>stole på<< må suppleres fra andet halvvers.",
+      "type": "T",
+      "verse": 8,
+      "position": 40
+    },
+    {
+      "text": "Versets verber i perfektiv kunne oversættes ved fortid, men de skal udtrykke det der er Israels erfaring, og som derfor gælder både nutid og fremtid.",
+      "type": "T",
+      "verse": 9,
+      "position": 21
+    }
+  ]
+}

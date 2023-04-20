@@ -1,0 +1,60 @@
+{
+  "book": "Femte Mosebog",
+  "abbreviation": "5Mos",
+  "chapter": 18,
+  "version": 1614294000000,
+  "verses": [
+    {
+      "text": "Når du kommer til det land som JHVH din Gud giver dig, skal du ikke tage ved lære og gøre disse folks afskyeligheder.",
+      "number": 9
+    },
+    {
+      "text": "Der må ikke findes nogen hos dig som lader sin søn eller datter gå gennem ilden eller som beskæftiger sig med spådomme, er sandsiger eller tager varsler eller øver trolddom,",
+      "number": 10
+    },
+    {
+      "text": "eller fremsiger besværgelser eller rådspørger dødes ånder og spiritistiske medier eller rådfører sig med døde.",
+      "number": 11
+    },
+    {
+      "text": "For enhver som gør disse ting, er en afskyelighed for JHVH, og på grund af disse afskyeligheder fordriver JHVH din Gud dem fra dit ansigt.",
+      "number": 12
+    },
+    {
+      "text": "Du skal være fuldkommen for JHVH din Gud.",
+      "number": 13
+    },
+    {
+      "text": "For disse folk som du skal fordrive, de hører på dem der driver trolddom og spådomme; men dig har JHVH din Gud ikke tilladt noget sådant.",
+      "number": 14
+    },
+    {
+      "text": "JHVH din Gud vil oprejse dig en profet af din midte, af dine brødre, en som mig; ham skal I høre på.",
+      "number": 15
+    }
+  ],
+  "titles": [
+    {
+      "text": "Israelitterne må ikke følge hedningernes afgudsdyrkelse",
+      "verse": 1
+    },
+    {
+      "text": "Gud vil sende dem en stor profet",
+      "verse": 15
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Det hebraiske *ʕim* skal i de fleste sammenhænge oversættes: >>med/sammen med<<, i nogle tilfælde dog: >>ligesom<<, i enkelte tilfælde: >>som<<.",
+      "type": "E",
+      "verse": 13,
+      "position": 27
+    },
+    {
+      "text": "Traditionelt oversat: >>hedninger<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 14
+    }
+  ]
+}

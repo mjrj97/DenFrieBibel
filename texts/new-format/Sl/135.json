@@ -1,0 +1,164 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 135,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Halleluja!Lovpris JHVHs navn,lovpris, I JHVHs tjenere",
+      "number": 1
+    },
+    {
+      "text": "som står i JHVHs hus,i vor Guds hus’ forgårde.",
+      "number": 2
+    },
+    {
+      "text": "Lovpris JHVH, for JHVH er god,lovsyng hans navn, for det er herligt.",
+      "number": 3
+    },
+    {
+      "text": "For JHVH har udvalgt sig Jakob,Israel til sin ejendom.",
+      "number": 4
+    },
+    {
+      "text": "Ja, jeg ved at JHVH er stor,og at vor Herre er større end alle guder.",
+      "number": 5
+    },
+    {
+      "text": "Alt hvad JHVH ønsker,gør han i himlen og på jorden, i havene og alle dyb.",
+      "number": 6
+    },
+    {
+      "text": "Han lader skyer stige op fra jordens ende,han skabte lyn sammen med regnen,han lader storm fare ud fra sine forrådskamre.",
+      "number": 7
+    },
+    {
+      "text": "Han er den som dræbte Egyptens førstefødte,både mennesker og dyr;",
+      "number": 8
+    },
+    {
+      "text": "han sendte tegn og undere i din midte, Egypten,mod Farao og mod alle hans tjenere.",
+      "number": 9
+    },
+    {
+      "text": "Han er den som slog mange folkeslagog dræbte mægtige konger:",
+      "number": 10
+    },
+    {
+      "text": "Sihon, amoritternes konge,og Og, Bashans konge,og alle Kana’ans kongedømmer,",
+      "number": 11
+    },
+    {
+      "text": "og han gav deres land som arvelod,som arvelod til sit folk Israel.",
+      "number": 12
+    },
+    {
+      "text": "JHVHv, dit navn bliver til evig tid,JHVHv, dit minde består i slægt efter slægt.",
+      "number": 13
+    },
+    {
+      "text": "For JHVH vil skaffe sit folk ret,og han vil forbarme sig over sine tjenere.",
+      "number": 14
+    },
+    {
+      "text": "Folkenes gudebilleder er sølv og guld,menneskehænders værk.",
+      "number": 15
+    },
+    {
+      "text": "De har mund, men de kan ikke tale,de har øjne, men de kan ikke se,",
+      "number": 16
+    },
+    {
+      "text": "de har ører, men de kan ikke lytte,der er heller ingen åndedræt i deres mund.",
+      "number": 17
+    },
+    {
+      "text": "Som de er, skal de som har lavet dem, blive,enhver som stoler på dem.",
+      "number": 18
+    },
+    {
+      "text": "Israels hus, pris JHVH,Arons hus, pris JHVH,",
+      "number": 19
+    },
+    {
+      "text": "Levis hus, pris JHVH,I som frygter JHVH, pris JHVH!",
+      "number": 20
+    },
+    {
+      "text": "Priset være JHVH fra Zion,han som bor i Jerusalem!Halleluja!{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 136.}",
+      "number": 21
+    }
+  ],
+  "titles": [
+    {
+      "text": "Opfordring til lovprisning",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning af skaberen",
+      "verse": 5
+    },
+    {
+      "text": "Lovprisning af frelseren",
+      "verse": 8
+    },
+    {
+      "text": "Afgudernes afmagt",
+      "verse": 15
+    },
+    {
+      "text": "Opfordring til at prise JHVH",
+      "verse": 19
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*. Det er egentlig også det der står her, men her oversættes det normalt.",
+      "type": "T",
+      "verse": 3,
+      "position": 13
+    },
+    {
+      "text": "Guds navn står her i kortformen: *yāh*. Se note til v. 3",
+      "type": "T",
+      "verse": 4,
+      "position": 8
+    },
+    {
+      "text": "Ordret: >>fra mennesker til dyr<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 65
+    },
+    {
+      "text": "Ordet *zēxer* (>>minde<<) bruges ofte i GT synonymt med >>navn<< når det er brugt om Gud. Tidligere oversat: >>ihukommelse<<.",
+      "type": "E",
+      "verse": 13,
+      "position": 52
+    },
+    {
+      "text": "Grundbetydningen af verbet *dyn* (>>skaffe ret<<) er egentlig: >>dømme<<, men det hebraiske ord har videre betydning end det danske, dels i retning af at >>lede<< (Israels dommere var egentlig folkets ledere), dels i retning af at forsvare mod uret og undertrykkelse. I sammenhængen er det det sidste der er tale om, kort udtrykt: >>skaffe ret<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 33
+    },
+    {
+      "text": "Kan også oversættes: >>Hedningernes<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 8
+    },
+    {
+      "text": "Kan også oversættes: >>velsign<<.",
+      "type": "T",
+      "verse": 19,
+      "position": 17
+    },
+    {
+      "text": "I grundteksten har >>Levi<< bestemt artikel. Det er muligt, at det skal opfattes som kollektiv betegnelse og oversættes: >>levitternes<<.",
+      "type": "E",
+      "verse": 20,
+      "position": 5
+    }
+  ]
+}

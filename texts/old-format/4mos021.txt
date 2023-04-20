@@ -1,0 +1,82 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 29.04.2022>!!
+
+===Fjerde Mosebog, kapitel 21===
+
+==Arads konge slår Israel. De beder til Gud og overvinder ham.==
+
+v1 Da kana’anæeren, Arads konge, som boede i Sydlandet, hørte at Israel kom ad Atarim-vejen, gik han i kamp mod Israel og førte nogle af dem bort i fangenskab.
+v2 Da aflagde Israel et løfte til JHVH og sagde: >>Hvis du giver dette folk i min magt, vil jeg lægge band over deres byer.<<
+v3 JHVH hørte Israels røst og overgav kana’anæerne til dem, og man bandlyste dem og deres byer og gav stedet navnet Horma.
+
+==Israelitterne beklager sig atter og bliver bidt af slanger. De som ser hen til bronzeslangen, bliver raske.==
+//0 v4 Så rejste de af sted fra bjerget Hor i retning af Sivhavet
+//2 for at drage uden om Edoms land.
+//1 På vejen tabte folket tålmodigheden,{E: Vendingen *wattiqṣar nefeš-hāʕām* betyder helt ordret >>folkets sjæl blev forkortet<< og er mere end bare lidt utilfredshed. Måske rammer begrebet >>sjæl<< her en betydning i retning af >>at tabe/miste besindelsen.<< Vendingen bruges om Guds utålmodighed med Israel i Dom 10,16.}
+//1 v5 og folket talte imod Gud og imod Moses {E: Præpositionen i *dabbēr bᵊ* >>meddele i<< har også betydning >>imod<< i 4 Mos 12,1.}
+//2 >>Hvorfor førte I os ud af Egypten
+//4 for at dø i ørkenen?
+//3 For her er ingen brød
+//5 og ingen vand,
+//4 og vi afskyr{E: Vendingen *wᵊnafšēnû qāṣāʰ bᵊ* >>vores sjæl føler afsky over<< bruger igen *nefeš* >>sjæl<< i en allusion til v 5.} den elendige mad.<<
+//1 v6 Da sendte HERREN giftige slanger ind blandt folket,
+//2 og de bed folket,
+//3 og en mængde af Israels folk{T: Den hebraiske tekst har ordret >>en mængde af folket fra Israel.<< } døde.
+//1 v7 Så kom folket til Moses,
+//2 og sagde:
+//3 >>Vi har syndet,
+//5 for vi har talt imod HERREN og imod dig.
+//4 Bed til HERREN
+//5 at han vil fjerne slangerne fra os.<<
+//1 Da bad Moses for folket,
+//2 v8 og HERREN sagde til Moses:
+//3 >>Lav en giftslange
+//5 og sæt den på en stang.
+//4 Der skal ske det at enhver som er blevet bidt
+//5 og ser på den,
+//6 skal forblive i live.<<
+//1 v9 Så lavede Moses en bronzeslange
+//2 og satte den på en stang,
+//3 og så skete der det
+//4 at når en slange havde bidt nogen,
+//5 og han så hen på bronzeslangen,
+//6 da forblev han i live.
+
+//0
+
+==Beskrivelse af flere af israelitternes rejser.==
+
+v10 Israelitterne brød op derfra, og de slog lejr i Obot.
+v11 De brød op fra Obot og slog lejr ved Ijje-ha-Abarim i ørkenen øst for Moab.
+v12 Derfra brød de op og slog lejr i Zered-dalen.
+v13 Derfra brød de op og slog lejr på denne side af Arnon, som går gennem ørkenen, og som går ud fra amoritternes land, for Arnon var grænsen mellem Moab og amoritterne.
+v14 Derfor omtales  i Bogen om JHVHs Krige Vaheb i Sufa,  Arnons flodlejer,
+v15 og skråningerne op til bosættelsen ved Ar, der markerer grænsen ind til Moab.
+v16 Derfra rejste de til Be’er. Det er den brønd som JHVH talte om til Moses: >>Saml folket, og jeg vil give dem vand.<<
+v17 Da sang Israel denne sang: >>Kom op, brønd! Syng om den.
+v18 Brønden som er gravet af stammelederne, kastet af de ædle blandt folket, med kongespir og herskerstave!<< Fra ørkenen rejste de til Mattana,
+v19 og fra Mattana til Nahaliel, fra Nahaliel til Bamot
+v20 og fra Bamot til den dal som er i Moabs land, mod Pisgas tinde, der skuer ud over ørkenen.
+
+==Sihon vil ikke lade israelitterne rejse gennem sit rige og besejres af dem.==
+
+v21 Israel sendte bud til Sihon, amoritternes konge, og lod sige:
+v22 >>Lad mig rejse gennem dit land, vi vil ikke bøje ind på nogen mark eller gennem nogen vingård, vi vil ikke drikke vand af nogen brønd, vi vil drage ad Kongevejen, indtil vi er kommet igennem dit landområde.<<
+v23 Sihon ville ikke give Israel lov til at gå gennem sit landområde, men Sihon samlede hele sit folk og drog ud mod Israel i ørkenen og kom til Jasa. Og han kæmpede mod Israel.
+v24 Men Israel slog ham med sværd{T: Teksten har ordret >>slå med sværdets æg<<. Denne vending bruges her i den generelle betydning af >>hugge ned i (voldsom) kamp<< eller >>besejre i et (blodigt) slag.<<} og indtog hans land som ejendom, fra Arnon til Jabbok, men kun til ammonitternes land, for ammonitternes grænse var befæstet.
+v25 Så indtog Israel alle disse byer, og Israel tog bolig i alle amoritternes byer, i Heshbon og alle dens tilhørende byer.
+v26 For Heshbon var amoritterkongen Sihons by, og han havde kæmpet mod moabitternes forrige konge og havde taget alt hans land fra ham lige til Arnon.
+v27 Derfor synger skjaldene: >>Kom til Heshbon! Sihons by skal bygges og grundfæstes.
+v28 For der er gået en ild ud af Heshbon, en flamme af Sihons by, den har fortæret Ar i Moab, opslugt Arnons høje.
+v29 Ve dig, Moab! Du Kemoshs folk er fortabt! Han har gjort sine sønner til flygtninge og sine døtre til fanger for Sihon, amoritternes konge.
+v30 Og vi har skudt dem ned. Heshbon er tabt, helt til Dibon, og vi har lagt dem øde indtil Nofa, som når til Medeba.<<
+v31 Så tog Israel bolig i amoritternes land.
+v32 Moses sendte folk for at udspionere Jazer, og de indtog dens tilhørende byer, og han fordrev de amoritter som var der.
+
+==Og, kongen af Bashan, overvindes på lignende måde.==
+
+v33 De vendte sig og drog op ad vejen til Bashan. Da drog Og, kongen af Bashan, ud imod dem med hele sit folk til Edre’i for at kæmpe mod dem.
+v34 JHVH sagde til Moses: >>Frygt ikke for ham, for jeg har givet ham i din magt, og hele hans folk og hans land, og du skal gøre ved ham som du gjorde ved amoritterkongen Sihon, som boede i Heshbon.<<
+v35 De slog ham og hans sønner og hele hans folk så at man ikke lod nogen blive tilbage, og de indtog hans land som ejendom.

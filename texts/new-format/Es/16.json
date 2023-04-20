@@ -1,0 +1,109 @@
+{
+  "book": "Esajas’ Bog",
+  "abbreviation": "Es",
+  "chapter": 16,
+  "version": 1674774000000,
+  "verses": [
+    {
+      "text": "Send landets hersker vædderlamfra Sela gennem ørkenentil Sions datters bjerg.",
+      "number": 1
+    },
+    {
+      "text": "Og det skal ske at som en flaksende fuglder er jaget op fra reden,sådan skal Moabs døtre væreved Arnons vadesteder.",
+      "number": 2
+    },
+    {
+      "text": ">>Giv et råd!Træf en beslutning!Gør din skygge som natved højlys dag.Skjul fordrevne,forråd ikke en der flakker om!",
+      "number": 3
+    },
+    {
+      "text": "Lad Moabs fordrevne få husly hos dig,vær et skjul for dem mod en ødelægger.<<Når undertrykkeren er borte,ødelæggelsen får ende,og han som trådte under fode, er forsvundetfra landet,",
+      "number": 4
+    },
+    {
+      "text": "da rejses i nåden en trone,og på den skal sidde med sandhed i Davids telten, som dømmer og stræber efter retog fremmer retfærdighed.",
+      "number": 5
+    },
+    {
+      "text": "Vi har hørt om Moabs hovmod– meget hovmodig –om dets stolthed og dets hovmod og dets overmod,dets urigtige pralerier.",
+      "number": 6
+    },
+    {
+      "text": "Derfor skal Moab jamre over Moab,enhver skal jamre;over Kir-Haresets rosinkagerskal I sukke, aldeles modfaldne.",
+      "number": 7
+    },
+    {
+      "text": "For Heshbons marker er visnede,Sibmas vinstok– folkenes herrerhar knust dens ædle druer,som nåede til Jazer,spredte sig i ørkenen;dens ranker bredte sig ud,gik ud over havet.",
+      "number": 8
+    },
+    {
+      "text": "Derfor vil jeg græde med Jazers grådover Sibmas vinstok,jeg vil væde dig med mine tårer,Heshbon og El’ale,for over din frugthøst og over din kornhøstfaldt jubelråbet.",
+      "number": 9
+    },
+    {
+      "text": "Glæde og fryd er forsvundetfra frugthaven,og i vingårdene bliver der ikke jublet,ikke råbt af fryd;persetræderen træder ikke druer i persekarrene,jubelråb har jeg bragt til ophør.",
+      "number": 10
+    },
+    {
+      "text": "Derfor bruser mit inderste over Moab som en citer,og mit indre over Kir-Heres.",
+      "number": 11
+    },
+    {
+      "text": "Og det sker når Moab møder op,når det udmatter sig på offerhøjenog kommer til sin helligdom for at bede,så kan det intet.",
+      "number": 12
+    },
+    {
+      "text": "Dette er det ord, som JHVH tidligere har talt mod Moab;",
+      "number": 13
+    },
+    {
+      "text": "men nu har JHVH talt og sagt: >>Om tre år, som en daglejers år, skal Moabs herlighed med hele den store folkemængde blive forhånet, og resten vil være ganske få, ikke mange.<<",
+      "number": 14
+    }
+  ],
+  "titles": [],
+  "footnotes": [
+    {
+      "text": "Ordret: >>ved middagens midte<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 69
+    },
+    {
+      "text": "På hebraisk samme ord som >>flaksende<< i vers 2.",
+      "type": "T",
+      "verse": 3,
+      "position": 115
+    },
+    {
+      "text": "Den masoretiske tekst lyder egentlig: >>Lad mine fordrevne få husly hos dig, Moab<<. Med de gamle oversættelser går man oftest ud fra, at *niddāḥay* (>>mine fordrevne<<) skal vokaliseres: *niddᵊḥêy* og mod masoreternes accent forbindes med Moab (>>(Moabs) fordrevne<<).",
+      "type": "E",
+      "verse": 4,
+      "position": 19
+    },
+    {
+      "text": "Verbet er i pluralis, men subjektet er singularis.",
+      "type": "T",
+      "verse": 4,
+      "position": 170
+    },
+    {
+      "text": "Kan også oversættes: >>fra jorden<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 181
+    },
+    {
+      "text": "Man foreslår undertiden at rette: *ˀᵃšîšê* (>>rosinkager<<) til: *ˀanšê*: >>mænd<<, jf. Jer 48,31. Her er der dog ingen vaklen i håndskrifterne. Rosinkager blev brugt i hedensk kult og som vigtig næring på rejser.",
+      "type": "E",
+      "verse": 7,
+      "position": 79
+    },
+    {
+      "text": "Oversættelsen er usikker. Det skyldes især forståelsen af: *hêdād* (>>jubelråb<<) der undertiden her foreslås oversat: >>krigsråb<< eller i hvert fald opfattes som en fjendtlig hærs råb.",
+      "type": "E",
+      "verse": 9,
+      "position": 166
+    }
+  ]
+}

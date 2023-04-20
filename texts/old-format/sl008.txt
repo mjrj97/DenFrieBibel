@@ -1,0 +1,55 @@
+!!<Modenhed: Færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
+
+===Salme 8===
+
+==Overskrift==
+
+//0 v1 Til korlederen{E: *lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder >>lede, dirigere<<.}; //2 al-ha-gittit{T: Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.}; //1 en salme af David. 
+
+==David lovpriser skaberens herlighed==
+
+//0 v2 JHVHv, vor Herre!
+
+//3 Hvor herligt er dit navn over hele jorden,
+
+//3 du som udbreder{E: *tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* >>giv!<<, men i sammenhængen kan det opfattes som kortform for infinitiven.} din majestæt over himlene!
+
+//2 v3 Af spædes og diendes mund har du grundlagt et værn{E: *ʕōz* betyder oftest >>magt, styrke<<, men dernæst også >>fæstning, bolværk<<. Endelig kan det betyde >>hæder, lovprisning, lovsang<<, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på >>værn<<.} mod dine modstandere{T: *lᵊmaʕan* betyder ordret >>for … skyld<<, men oversættes her ofte >>mod<<.}
+
+//3 for at standse fjenden og den som vil hævne sig.
+
+==I særdeleshed prises Guds godhed mod mennesket, som han satte til hersker over jorden==
+
+//1 v4 Når jeg ser din himmel, dine fingres gerninger,
+
+//3 månen og stjernerne, //4 som du anbragte,
+
+//2 v5 hvad er da et menneske //4 at du husker på det;
+
+//3 et menneskebarn //4 at du tager dig af det?
+
+//6 v6 Du har gjort det kun lidt ringere end Gud{T: Oversættes oftest >>englene<< (således LXX), jf. Hebr 2,7.};
+
+//7 du kronede det med ære og herlighed.
+
+//5 v7 Du gør det til hersker over dine hænders gerninger;
+
+//6 du har lagt alting under dets fødder:
+
+//7 v8 Får og okser, dem alle sammen,
+
+//8 ja, også markens dyr,
+
+//7 v9 fuglene under himlen //9 og fiskene i havet,
+
+//8 det som færdes ad havets stier.
+
+==Lovprisning==
+
+//0 v10 JHVHv, vor Herre!
+
+//1 Hvor herligt er dit navn over hele jorden!

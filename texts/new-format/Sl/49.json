@@ -1,0 +1,208 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 49,
+  "version": 1528236000000,
+  "verses": [
+    {
+      "text": "Til korlederen.Af Koras sønner. En salme.",
+      "number": 1
+    },
+    {
+      "text": "Hør dette, alle folkeslag,lyt, alle verdens indbyggere,",
+      "number": 2
+    },
+    {
+      "text": "både menneskesønner og herresønner,rige og fattige sammen!",
+      "number": 3
+    },
+    {
+      "text": "Min mund taler dyb visdom,og mit hjertes tanke taler dyb indsigt.",
+      "number": 4
+    },
+    {
+      "text": "Jeg vil bøje mit øre til ordsprog,jeg vil åbne min gådetale til strengespil.",
+      "number": 5
+    },
+    {
+      "text": "Hvorfor skulle jeg frygte i onde dage,når mine efterstræberes ondskab omgiver mig,",
+      "number": 6
+    },
+    {
+      "text": "de som stoler på deres formueog roser sig af deres store rigdom?",
+      "number": 7
+    },
+    {
+      "text": "En mand kan på ingen måde løskøbe en bror,han kan ikke give Gud løsepenge for ham",
+      "number": 8
+    },
+    {
+      "text": "- og løsesummen for deres sjæl er højog man må opgive det for evigt -",
+      "number": 9
+    },
+    {
+      "text": "så han skulle kunne leve videre i evigheduden at se graven.",
+      "number": 10
+    },
+    {
+      "text": "For man vil se at vise dør,tåbe og uforstandig omkommer sammen,og de efterlader deres formue til andre.",
+      "number": 11
+    },
+    {
+      "text": "Deres inderste tanker er dette: deres huse skal stå for evigt,deres boliger slægt efter slægt,de har udråbt deres navne over jordlodder.",
+      "number": 12
+    },
+    {
+      "text": "Dog kan et menneske med anseelse ikke bestå,han bliver som kvæget der går til grunde.",
+      "number": 13
+    },
+    {
+      "text": "Sådan går det dem som har tiltro til sig selv,og dem der efter dem finder behag i deres mund. Sela",
+      "number": 14
+    },
+    {
+      "text": "Som får fører man dem til dødsriget,døden skal vogte dem,og de retskafne skal herske over dem om morgenen,deres skikkelse undergives dødsrigets hensygnen,så de ikke får nogen bolig.",
+      "number": 15
+    },
+    {
+      "text": "Men Gud vil løskøbe min sjæl fra dødsrigets magt,for han tager mig til sig. Sela",
+      "number": 16
+    },
+    {
+      "text": "Frygt ikke, når en mand bliver rig,når hans hus’ velstand bliver stor,",
+      "number": 17
+    },
+    {
+      "text": "for alt det skal han ikke tage med sig når han dør,hans velstand skal ikke stige ned efter ham.",
+      "number": 18
+    },
+    {
+      "text": "Selv om han velsigner sin sjæl mens han lever,- og man priser dig fordi du handler godt mod dig selv –",
+      "number": 19
+    },
+    {
+      "text": "så skal du dog gå til hans fædres slægt,i evighed skal de ikke se lys.",
+      "number": 20
+    },
+    {
+      "text": "Et menneske med anseelse, men som ikke har indsigt,han er blevet som kvæget der går til grunde.",
+      "number": 21
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Opfordring til at lytte til salmistens vidnesbyrd",
+      "verse": 2
+    },
+    {
+      "text": "Rigdom sikrer ikke mod døden",
+      "verse": 6
+    },
+    {
+      "text": "Tillid til rigdom og tillid til Gud",
+      "verse": 14
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Dvs.: Både lav og høj.",
+      "type": "T",
+      "verse": 3,
+      "position": 35
+    },
+    {
+      "text": "Grundteksten har >>visdom<< i pluralis, der angiver det intensive, altså: >>dyb<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 26
+    },
+    {
+      "text": ">>taler<< er underforstået fra forrige linje.",
+      "type": "T",
+      "verse": 4,
+      "position": 52
+    },
+    {
+      "text": "Kan også oversættes: >>billedtale, visdomsord<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 34
+    },
+    {
+      "text": "Det er omdiskuteret, om grundtekstens *ʕāqēv* kan betyde: >>en der efterstræber<<. I andre sammenhænge betyder det: >>hæl<<. Men den der griber efter næstens >>hæl<<, >>efterstræber<< ham netop. En del fortolkere ændrer vokaliseringen af *ʕᵃqēvay* til *ʕoqᵊvay*: >>de der bedrager mig<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 61
+    },
+    {
+      "text": "*ʔāḥ* (>>bror<<) står i grundteksten som versets første ord. Det er usædvanligt at objektet står først. Mange retter derfor til: *ʔax*: >>dog<<. Det fordrer dog også en rettelse af vokaliseringen af verbet til nif’al: *yifdeʰ* til: *yippādeʰ*: >>Dog kan ingen mand på nogen måde købe sig fri.<<",
+      "type": "E",
+      "verse": 8,
+      "position": 42
+    },
+    {
+      "text": "Septuaginta har >>hans sjæl<<, der kunne være rigtig.",
+      "type": "T",
+      "verse": 9,
+      "position": 25
+    },
+    {
+      "text": "Grundtekstens *baʕar* betyder: >>kvæg<<. Det bruges her som betegnelse for et dyrisk menneske, et menneske uden ånd.",
+      "type": "T",
+      "verse": 11,
+      "position": 46
+    },
+    {
+      "text": "Ordret: >>deres indre<<. De fleste fortolkere retter dog – med de gamle oversættelser - *qirbām* (>>deres indre<<) til: *qivrām*: >>deres grav<<, dvs.: >>deres grav bliver deres huse for evigt<<.",
+      "type": "E",
+      "verse": 12,
+      "position": 21
+    },
+    {
+      "text": "Ordret: >>overnatte<<, her i betydningen: være indlogeret i denne verden.",
+      "type": "T",
+      "verse": 13,
+      "position": 44
+    },
+    {
+      "text": "*ʔaḥᵃrêhem* (>>efter dem<<) kan evt. angive det der kommer bagefter, altså: >>deres ende<<. Mange vælger dog at rette til: *ʔaḥᵃrîtām*: >>deres ende<<, altså: >>og sådan er deres ende, som finder behag i deres mund<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 93
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 14,
+      "position": 98
+    },
+    {
+      "text": "Andre oversætter: >>De styrer mod dødsriget som får<<, men oversættelsen af hele verset er usikker.",
+      "type": "T",
+      "verse": 15,
+      "position": 36
+    },
+    {
+      "text": "Kan også oversættes: >>og på dem<< (dvs.: deres grave) >>skal de retskafne træde om morgen<<.",
+      "type": "E",
+      "verse": 15,
+      "position": 106
+    },
+    {
+      "text": "Mange vælger at rette *tāvôʔ* (>>du skal gå<<) til *tāvôʔ*: >>han skal gå<<. Meningen med den overleverede tekst må være at den rige, selvglade, skal gå til den gudløses fædre.",
+      "type": "T",
+      "verse": 20,
+      "position": 10
+    }
+  ]
+}

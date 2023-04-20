@@ -1,0 +1,158 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 115,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Ikke os, JHVHv, ikke os,men dit navn skal du give ærefor din nådes, for din sandheds skyld.",
+      "number": 1
+    },
+    {
+      "text": "Hvorfor skal folkene sige:>>Hvor er nu deres Gud?<<",
+      "number": 2
+    },
+    {
+      "text": "Men vores Gud er i himlen,han gør alt hvad han ønsker.",
+      "number": 3
+    },
+    {
+      "text": "Deres gudebilleder er sølv og guld,menneskehænders værk.",
+      "number": 4
+    },
+    {
+      "text": "De har mund, men kan ikke tale,de har øjne, men kan ikke se,",
+      "number": 5
+    },
+    {
+      "text": "de har ører, men kan ikke høre,de har næse, men kan ikke lugte.",
+      "number": 6
+    },
+    {
+      "text": "Deres hænder – dem kan de ikke føle med,deres fødder - dem kan de ikke gå på,de kan ikke frembringe lyd med deres strube.",
+      "number": 7
+    },
+    {
+      "text": "Ligesom de er, bliver også de der har lavet dem,enhver som stoler på dem.",
+      "number": 8
+    },
+    {
+      "text": "Israel, stol på JHVH!Han er deres hjælper og deres skjold.",
+      "number": 9
+    },
+    {
+      "text": "Arons Hus, stol på JHVH!Han er deres hjælper og deres skjold.",
+      "number": 10
+    },
+    {
+      "text": "I, som frygter JHVH, stoler på JHVH!Han er deres hjælper og deres skjold.",
+      "number": 11
+    },
+    {
+      "text": "JHVH har husket os, han vil velsigne,han vil velsigne Israels hus,han vil velsigne Arons hus,",
+      "number": 12
+    },
+    {
+      "text": "han vil velsigne dem som frygter JHVH,de små med de store.",
+      "number": 13
+    },
+    {
+      "text": "Må JHVH gøre jer talrige,jer og jeres børn!",
+      "number": 14
+    },
+    {
+      "text": "Velsignede være I af JHVH,som har skabt himmel og jord.",
+      "number": 15
+    },
+    {
+      "text": "Himlen er JHVHs himmel,men jorden gav han menneskene.",
+      "number": 16
+    },
+    {
+      "text": "De døde lovpriser ikke JHVH,heller ikke de som gik ned i stilheden.",
+      "number": 17
+    },
+    {
+      "text": "Men vi, vi vil prise JHVHfra nu og til evig tid.Halleluja!{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 116.}",
+      "number": 18
+    }
+  ],
+  "titles": [
+    {
+      "text": "Menighedens klage",
+      "verse": 1
+    },
+    {
+      "text": "Afgudernes afmagt",
+      "verse": 3
+    },
+    {
+      "text": "Formaning til at stole på JHVH",
+      "verse": 9
+    },
+    {
+      "text": "JHVH velsigner",
+      "verse": 12
+    },
+    {
+      "text": "Menighedens lovprisning",
+      "verse": 16
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 1,
+      "position": 66
+    },
+    {
+      "text": "Kan også oversættes: >>troskab<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 84
+    },
+    {
+      "text": "Kan også oversættes: >>hedningerne<<. Her kan det give god mening.",
+      "type": "T",
+      "verse": 2,
+      "position": 20
+    },
+    {
+      "text": "Qatal skal normalt oversættes: >>han har gjort<<, men vægten ligger her på Guds aktivitet som modsætning til afgudernes passivitet og afmagt.",
+      "type": "E",
+      "verse": 3,
+      "position": 33
+    },
+    {
+      "text": "Kan også oversættes: >>Gid de der har lavet dem, må blive som dem<< (således Septuaginta). I sammenhængen synes salmen dog at udtrykke vished om at det vil ske.",
+      "type": "E",
+      "verse": 8,
+      "position": 48
+    },
+    {
+      "text": "Oversættes ofte: >>hjælp<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 41
+    },
+    {
+      "text": "Verberne i denne og de følgende tre linjer kan også oversættes som jussiv: >>han velsigne<<, men qatal i foregående linje (>>har husket<<) indicerer nærmere overbevist fremtid.",
+      "type": "E",
+      "verse": 12,
+      "position": 53
+    },
+    {
+      "text": "Ordret: >>Adams/menneskets børn<<.",
+      "type": "T",
+      "verse": 16,
+      "position": 53
+    },
+    {
+      "text": "På hebraisk: *lōˀ yᵊhalᵊlû-yāh*: >>de lovpriser ikke<< - i modsætning til menighedens evige halleluja. Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+      "type": "E",
+      "verse": 17,
+      "position": 28
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 76,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Med strengespil.Salme af Asaf. En sang.",
+      "number": 1
+    },
+    {
+      "text": "I Juda er Gud kendt,i Israel er hans navn stort,",
+      "number": 2
+    },
+    {
+      "text": "hans hytte blev sat i Salem, og hans bolig på Zion.",
+      "number": 3
+    },
+    {
+      "text": "Dér knuste han brændende pile,skjold og sværd og krig. Sela",
+      "number": 4
+    },
+    {
+      "text": "Glansfuld er du,og mægtigere end bjerge, hvor rovet er.",
+      "number": 5
+    },
+    {
+      "text": "De standhaftige blev udplyndrede,de slumrede i deres søvn,og ingen af stridsmændene kunne løfte deres hænder.",
+      "number": 6
+    },
+    {
+      "text": "For din trussel, Jakobs Gud,er både vognkæmpere og heste faldet i den dybe søvn.",
+      "number": 7
+    },
+    {
+      "text": "Du, ja, du er frygtindgydende,og hvem kan bestå for dit ansigt, så snart du bliver vred?",
+      "number": 8
+    },
+    {
+      "text": "Fra himlen forkyndte du dom;jorden frygtede og blev stille,",
+      "number": 9
+    },
+    {
+      "text": "da Gud rejste sig til domfor at frelse alle jordens ydmyge. Sela",
+      "number": 10
+    },
+    {
+      "text": "For menneskets vrede skal prise dig,resten af vredesudbrud binder du om dig.",
+      "number": 11
+    },
+    {
+      "text": "Aflæg løfter og indfri dem til JHVH, jeres Gud,alle som omgiver ham, skal bringe gaver til den frygtindgydende.",
+      "number": 12
+    },
+    {
+      "text": "Han kuer fyrsternes ånd,{E: *rûₐḥ* (>>ånd<<) har ganske bred betydning, bl.a.: >>ånd, vind, ånde, hovmod, sind, livsprincip, mod, vrede<<. Især de to sidstnævnte kan overvejes her.}frygtindgydende er han for jordens konger.",
+      "number": 13
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Den mægtige Gud på Zion",
+      "verse": 2
+    },
+    {
+      "text": "Gud sejrer",
+      "verse": 5
+    },
+    {
+      "text": "Tilbed den almægtige Gud",
+      "verse": 11
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Ordret: >>buens lyn/brand<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 30
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 59
+    },
+    {
+      "text": "Oftest formoder man at konsonanterne er byttet om så der ikke skal stå: *nāʔôr* (>>glansfuld/lysende<<), men: *nôrāʔ*: >>frygtelig/frygtindgydende<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 9
+    },
+    {
+      "text": "Meningen må være at Gud, der troner på Zion, er mægtigere end alle stormagter. Præpositionen *min* (>>mere end<<) kan dog også oversættes: >>fra<<, så linjen lyder: >>mægtig fra bjerge, hvor rovet er<<. I så fald er meningen at Gud kommer med >>rov<< fra de >>bjerge<<, hvor fjenderne er blevet besejret. I stedet for: *ṭeref* (>>rov<<) vælger mange oversættere at følge bl.a. Septuaginta, der må have læst: *ʕad*: >>evige (bjerge)<<. Andre foreslår: *qedem*: >>urtids(bjerge)<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 55
+    },
+    {
+      "text": "ordret: >>tapre af hjerte<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 15
+    },
+    {
+      "text": "Ordret: >>fandt<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 95
+    },
+    {
+      "text": "Ordret: >>gruppe af (krigs)vogne<<. I sammenhængen er der dog tænkt på krigerne på vognene.",
+      "type": "T",
+      "verse": 7,
+      "position": 47
+    },
+    {
+      "text": "Kan med lige så god ret oversættes: >>landets<<. Det er dog samme ord som i v.9.",
+      "type": "T",
+      "verse": 10,
+      "position": 51
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 10,
+      "position": 64
+    },
+    {
+      "text": "Rettelseforslagene til dette vers er mange. Konsonantteksten kan stort set beholdes på to måder: 1. *ʔādām* (>>menneskets<<) vokaliseres: *ʔᵉdōm*: >>Edom<<; *ḥēmōt* (>>vredesudbrud<<) vokaliseres: *ḥᵃmāt*: >>Hamat<<; og med Septuaginta rettes sidste ord: *taḥgōr* (>>binder du om dig<<) til: *tᵉḥāgexā*: >>skal fejre dig<<. Oversættelsen lyder da: >>Ja, det vrede Edom skal prise dig, Hamats rest skal fejre dig<<. Henvisningerne til Edom og Hamat er dog ikke indlysende i salmen. – 2: *tôdekkā* (>>skal prise dig<<) skal vokaliseres: *tādôx*: >>du slår itu<<; og verbet *ḥgr* (>>binde om sig<<) forstås ved hjælp af et beslægtet arabisk ord som: >>kue/undertvinge<<. Oversættelsen lyder da: >>Ja, du sønderbryder menneskets vrede, kuer den vrede som er til rest<<. Dette er måske den bedste forståelse af verset.Der findes en række mere vidtgående rettelsesforslag.",
+      "type": "E",
+      "verse": 11,
+      "position": 76
+    },
+    {
+      "text": "Grundteksten har: *lammôrāˀ*: >>til frygten<<. Man vælger som regel at følge bl.a. Septuaginta, der har læst: *lannôrāˀ*: >>til den frygtindgydende<<.",
+      "type": "E",
+      "verse": 12,
+      "position": 111
+    }
+  ]
+}

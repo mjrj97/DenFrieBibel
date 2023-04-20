@@ -1,0 +1,112 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 111,
+  "version": 1499983200000,
+  "verses": [
+    {
+      "text": "Halleluja!Jeg vil takke JHVH af hele mit hjertei oprigtiges kreds og menighed.",
+      "number": 1
+    },
+    {
+      "text": "JHVHs gerninger er store,værd at udforske for alle som glæder sig over dem.",
+      "number": 2
+    },
+    {
+      "text": "Hans værk er højhed og pragt,og hans retfærdighed består til evig tid.",
+      "number": 3
+    },
+    {
+      "text": "Han har frembragt et minde for sine undere,nådig og barmhjertig er JHVH.",
+      "number": 4
+    },
+    {
+      "text": "Han gav føde til dem som frygter ham,han husker for evigt sin pagt.",
+      "number": 5
+    },
+    {
+      "text": "Han forkyndte sine gerningers kraft for sit folk,nemlig at han ville give dem folkenes arvelod.",
+      "number": 6
+    },
+    {
+      "text": "Hans hænders gerninger er sandhed og ret,alle hans forordninger er til at stole på,",
+      "number": 7
+    },
+    {
+      "text": "urokkelige for altid og evigt,til at blive holdt i sandhed og redeligt.",
+      "number": 8
+    },
+    {
+      "text": "Han sendte sit folk forløsning,han fastsatte sin pagt for evigt.Hans navn er helligt og frygtindgydende.",
+      "number": 9
+    },
+    {
+      "text": "Frygt for JHVH er visdoms begyndelse,god indsigt har alle som handler efter dem;{T: Det er en henvisning til >>forordninger<< i v.7.}hans pris består for altid.",
+      "number": 10
+    }
+  ],
+  "titles": [
+    {
+      "text": "Jeg vil takke JHVH",
+      "verse": 1
+    },
+    {
+      "text": "Begrundelse for lovsangen",
+      "verse": 2
+    },
+    {
+      "text": "Sand visdom",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "*dᵊrûšîm* er participium passiv der må opfattes gerundivisk (>>værd at udforske/som bør udforskes<<). Andre oversætter dog: >>søgt/erfaret<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 41
+    },
+    {
+      "text": "Ordret: >>gjort<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 17
+    },
+    {
+      "text": "Linjen kan også oversættes: >>Han har fastsat en proklamation af sine undere<<. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.",
+      "type": "E",
+      "verse": 4,
+      "position": 43
+    },
+    {
+      "text": "Kan også oversættes: >>da han gav<<. Den sandsynlige mening er dog at linjen skal gengive indholdet i den forkyndelse der blev nævnt i foregående linje.",
+      "type": "E",
+      "verse": 6,
+      "position": 73
+    },
+    {
+      "text": "Kan også oversættes: >>hedningernes<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 86
+    },
+    {
+      "text": "Kan også oversættes: >>trofasthed<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 33
+    },
+    {
+      "text": "Participiet: *ʕᵃśûyim* må her opfattes gerundivisk. Andre oversætter dog: >>de er givet/fastlagt<<.",
+      "type": "E",
+      "verse": 8,
+      "position": 48
+    },
+    {
+      "text": "Ofte retter man dog vokaliseringen af: *yāšār* (>>redelig<<) til: *yōšer*: >>redelighed/oprigtighed<<.",
+      "type": "E",
+      "verse": 8,
+      "position": 71
+    }
+  ]
+}

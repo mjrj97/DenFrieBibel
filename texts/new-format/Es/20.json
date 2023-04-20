@@ -1,0 +1,46 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 20,
+  "version": 1681336800000,
+  "verses": [
+    {
+      "text": "Det år, da en hærchef kom til Ashdod, da Sargon, Assyrien konge, sendte ham, og belejrede Asdod og indtog den,",
+      "number": 1
+    },
+    {
+      "text": "på den tid talte JHVH igennem Esajas, Amos’ søn, og sagde: >>Gå hen og løs sækken af dine lænder, og tag skoen af dine fødder!<< Det gjorde han og gik nøgen og barfodet.",
+      "number": 2
+    },
+    {
+      "text": "Så sagde JHVH: >>Ligesom min tjener Esajas har gået nøgen og barfodet i tre år som tegn og varsel mod Egypten og mod Nubien,",
+      "number": 3
+    },
+    {
+      "text": "sådan skal Assyriens konge føre fangerne fra Egypten og de bortførte fra Nubien, både unge og gamle, nøgne og barfodede, med blottet bagdel, til skam for Egypten.<<",
+      "number": 4
+    },
+    {
+      "text": "Og de skal blive bestyrtede og skamfulde over Nubien, deres håb, og over Egypten, deres stolthed.",
+      "number": 5
+    },
+    {
+      "text": "Og den der bor på denne kyst{T: Dvs. i Juda}, skal sige på den dag: >>Se, sådan er det gået vort håb, som vi flygtede til for at få hjælp til at blive reddet fra Assyriens konge; og vi, hvordan skal vi undslippe?<<",
+      "number": 6
+    }
+  ],
+  "titles": [
+    {
+      "text": "Billedhandling om Egyptens og Nubiens nederlag",
+      "verse": 1
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Dvs. jøderne; Es 11,16",
+      "type": "T",
+      "verse": 5,
+      "position": 5
+    }
+  ]
+}

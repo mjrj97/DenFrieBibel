@@ -1,0 +1,144 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 34,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Af David.Dengang han spillede vanvittig over for Abimelek som fordrev ham, så han drog bort.",
+      "number": 1
+    },
+    {
+      "text": "Jeg vil prise JHVH til hver en tid,hans lovsang skal altid være i min mund.",
+      "number": 2
+    },
+    {
+      "text": "Over JHVH skal min sjæl rose sig,de ydmyge skal høre det og glæde sig.",
+      "number": 3
+    },
+    {
+      "text": "Ophøj JHVH sammen med mig,og lad os sammen forherlige hans navn.",
+      "number": 4
+    },
+    {
+      "text": "Jeg søgte JHVH, og han svarede migog befriede mig for al min frygt.",
+      "number": 5
+    },
+    {
+      "text": "De så på ham og strålede af glæde,og deres ansigter skal ikke blive skamfulde.",
+      "number": 6
+    },
+    {
+      "text": "Denne hjælpeløse råbte, og JHVH hørteog frelste ham af alle hans trængsler.",
+      "number": 7
+    },
+    {
+      "text": "JHVHs engel lejrer sigomkring dem der frygter ham, og udfrier dem.",
+      "number": 8
+    },
+    {
+      "text": "Smag og se, at JHVH er god;salig den mand der søger tilflugt hos ham.",
+      "number": 9
+    },
+    {
+      "text": "Frygt JHVH, I hans hellige,for de der frygter ham, mangler intet.",
+      "number": 10
+    },
+    {
+      "text": "Unge løver lider nød og sulter,men de der søger JHVH, skal ikke mangle noget godt.",
+      "number": 11
+    },
+    {
+      "text": "Kom, børn! Hør på mig,jeg vil lære jer frygt for JHVH.",
+      "number": 12
+    },
+    {
+      "text": "Hvem er den mand som er glad for livet,som elsker dage hvor han ser lykke?",
+      "number": 13
+    },
+    {
+      "text": "Bevar din tunge fra ondtog dine læber fra at tale svig.",
+      "number": 14
+    },
+    {
+      "text": "Hold dig fra ondt, og gør godt,søg fred, og jag efter den!",
+      "number": 15
+    },
+    {
+      "text": "JHVHs øjne er vendt til retfærdigeog hans ører til deres råb om hjælp.",
+      "number": 16
+    },
+    {
+      "text": "JHVHs ansigt er vendt imod dem der gør ondt,for at udslette deres minde fra jorden.",
+      "number": 17
+    },
+    {
+      "text": "De skreg, og JHVH hørte,og fra alle deres trængsler befriede han dem.",
+      "number": 18
+    },
+    {
+      "text": "Nær er JHVH hos dem hvis hjerte er sønderbrudt,og dem hvis ånd er sønderknust, vil han frelse.",
+      "number": 19
+    },
+    {
+      "text": "Mange lidelser rammer en retfærdig,men af dem alle vil JHVH udfri ham.",
+      "number": 20
+    },
+    {
+      "text": "Han beskytter alle hans knogler,ikke en af dem skal blive sønderbrudt.",
+      "number": 21
+    },
+    {
+      "text": "Ulykke skal dræbe den gudløse,og de der hader en retfærdig, skal bøde.",
+      "number": 22
+    },
+    {
+      "text": "JHVH forløser sine tjeneres sjæl,og alle de der søger tilflugt hos ham, skal ikke bøde.",
+      "number": 23
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Indledende lovprisning",
+      "verse": 2
+    },
+    {
+      "text": "Taksigelse for bønhørelse",
+      "verse": 5
+    },
+    {
+      "text": "Belærende del: Jeg vil lære jer at frygte JHVH",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>forstillede sin forstand<<",
+      "type": "T",
+      "verse": 1,
+      "position": 39
+    },
+    {
+      "text": "Sætningen er vanskelig. Der mangler et subjekt, der må underforstås: >>de/man<<. Ellers skal *hibbîṭû* (>>de så<<)og *nāhārû* (>>strålede af glæde<<) vokaliseres som imperativer: *habbîṭû* og *nᵊhārû*: >>Se hen til ham og strål af glæde<<. Det kræver dog også rettelse i næste linje, hvor *ûfnêhem* (>>og deres ansigt<<) skal rettes til *ûfnêkem*: >>jeres ansigter<<",
+      "type": "E",
+      "verse": 6,
+      "position": 34
+    },
+    {
+      "text": "Andre oversætter: >>Her er en hjælpeløs, der råbte<<",
+      "type": "T",
+      "verse": 7,
+      "position": 23
+    },
+    {
+      "text": "Som regel supplerer man med >>retfærdige<< (med støtte i gamle oversættelser). Andre foreslår at bytte om på v. 16 og v. 17, men dermed brydes salmens alfabetiske orden (se note til salmens nummer). Man skal dog ikke helt afskrive den mulighed at det faktisk er dem >>som gør ondt<< (v. 17), der >>skreg<< i smerte og angst, da >>trængsler<< ramte dem – og JHVH hørte og befriede",
+      "type": "E",
+      "verse": 18,
+      "position": 2
+    }
+  ]
+}

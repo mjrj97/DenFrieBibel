@@ -1,0 +1,160 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 9,
+  "version": 1486335600000,
+  "verses": [
+    {
+      "text": "Til korlederen. Al-muth-labben. Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Jeg vil takke JHVH af hele mit hjerte,jeg vil fortælle om alle dine underfulde gerninger.",
+      "number": 2
+    },
+    {
+      "text": "Jeg vil glæde mig og fryde mig over dig,jeg vil lovsynge dit navn, du Højeste!",
+      "number": 3
+    },
+    {
+      "text": "Når mine fjender kommer tilbage,vil de snuble og gå til grunde for dit ansigt.",
+      "number": 4
+    },
+    {
+      "text": "For du har påtaget dig min retssag og min ret,du har sat dig på tronen, retfærdige dommer.",
+      "number": 5
+    },
+    {
+      "text": "Du truede folkene, du tilintetgjorde den ugudelige,du udslettede deres navn for evigt og altid.",
+      "number": 6
+    },
+    {
+      "text": "Fjenderne, de er tilintetgjort, de er ruiner i evighed,byerne har du lagt øde, deres minde er udslettet.",
+      "number": 7
+    },
+    {
+      "text": "Men JHVH skal trone for evigt,han har rejst sin trone til dom.",
+      "number": 8
+    },
+    {
+      "text": "Han skal dømme verden med retfærdighed,han skal fælde redelig dom over folkene.",
+      "number": 9
+    },
+    {
+      "text": "Og må JHVH være en borg for den undertrykte,en borg i trængselstider!",
+      "number": 10
+    },
+    {
+      "text": "De skal stole på dig, de der kender dit navn,for du har ikke svigtet dem der søger dig, JHVHv!",
+      "number": 11
+    },
+    {
+      "text": "Lovsyng JHVH, der bor på Zion,forkynd blandt folkene om hans gerninger!",
+      "number": 12
+    },
+    {
+      "text": "For han som hævner blod, husker dem,han har ikke glemt de elendiges skrig.",
+      "number": 13
+    },
+    {
+      "text": "Vær mig nådig, JHVHv, se min plage fra dem der hader mig,du som løfter mig op fra dødens porte,",
+      "number": 14
+    },
+    {
+      "text": "for at jeg kan fortælle al din pris i Zions datters porte.Jeg skal juble over din frelse!",
+      "number": 15
+    },
+    {
+      "text": "Folkene faldt selv i den grav de gravede,i det net de skjulte, blev deres fod fanget.",
+      "number": 16
+    },
+    {
+      "text": "JHVH har givet sig til kende, han har holdt dom,ved sine hænders gerning fanger han den ugudelige. Higgajon. Sela",
+      "number": 17
+    },
+    {
+      "text": "De ugudelige skal vende tilbage til dødsriget,alle folkeslag der glemmer Gud.",
+      "number": 18
+    },
+    {
+      "text": "For en fattig glemmes ikke for evigt,de hjælpeløses håb er ikke for altid tilintetgjort.",
+      "number": 19
+    },
+    {
+      "text": "Rejs dig, JHVHv, lad ikke et menneske blive mægtigt,lad folkene dømmes for dit ansigt!",
+      "number": 20
+    },
+    {
+      "text": "Sæt, JHVHv! skræk i dem,lad folkene kende at de er mennesker. Sela",
+      "number": 21
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Tak for frelse fra fjenderne",
+      "verse": 2
+    },
+    {
+      "text": "JHVH er en retfærdig og nådig dommer",
+      "verse": 8
+    },
+    {
+      "text": "Lovprisning",
+      "verse": 12
+    },
+    {
+      "text": "Bøn",
+      "verse": 14
+    },
+    {
+      "text": "Gud dømmer retfærdigt",
+      "verse": 16
+    },
+    {
+      "text": "Bøn om frelse",
+      "verse": 18
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum, der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 14
+    },
+    {
+      "text": "Musikalsk anvisning af ukendt betydning. Ordret: >>Efter død for sønnen<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 30
+    },
+    {
+      "text": "Man ændrer ofte vokaliseringen af *nôqēš* (>>fanger<<) til *nôqaš* (>>fanges<<) så oversættelsen bliver: >>den ugudelige fanges ved sine hænders gerning<<.",
+      "type": "E",
+      "verse": 17,
+      "position": 97
+    },
+    {
+      "text": "Musikudtryk med ukendt betydning, måske dog strengespil, jf. Sl 92,4.",
+      "type": "T",
+      "verse": 17,
+      "position": 108
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 17,
+      "position": 114
+    },
+    {
+      "text": "Hebraisk: >>sheol<<.",
+      "type": "T",
+      "verse": 18,
+      "position": 45
+    }
+  ]
+}

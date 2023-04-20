@@ -1,0 +1,104 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 52,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen.Maskil af David.",
+      "number": 1
+    },
+    {
+      "text": "Dengang edomiten Do’eg kom og fortalte Saul: David er kommet til Akimeleks hus.",
+      "number": 2
+    },
+    {
+      "text": "Hvorfor roser du dig af ondskab, du stærke?Guds nåde varer hele dagen.",
+      "number": 3
+    },
+    {
+      "text": "Du planlægger ondskab, din tunge ersom en hvæsset ragekniv,du som begår svig!",
+      "number": 4
+    },
+    {
+      "text": "Du elskede ondt frem for godt,løgn frem for retfærdig tale. Sela",
+      "number": 5
+    },
+    {
+      "text": "Du elskede alle fordærvelige ord,du svigefulde tunge!",
+      "number": 6
+    },
+    {
+      "text": "Dog, Gud skal ødelægge dig for evigt,han skal snuppe dig op og udrydde dig af teltet,rykke dig op med rode fra de levendes land. Sela",
+      "number": 7
+    },
+    {
+      "text": "Og de retfærdige skal se det og frygte,og de skal le ad ham:",
+      "number": 8
+    },
+    {
+      "text": "Se den mand, der ikke gør Gud til sit værn,men forlader sig på sin store rigdom,føler sig stærk ved sin ondskab!",
+      "number": 9
+    },
+    {
+      "text": "Men jeg er som et grønt oliventræ i Guds hus,jeg har forladt mig på Guds nådefor evigt og altid.",
+      "number": 10
+    },
+    {
+      "text": "Jeg vil takke dig for evigtfor at du gjorde det.Og jeg vil håbe på dit navn- for det er godt –i nærvær af dine fromme.",
+      "number": 11
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Profetiske trusselsord",
+      "verse": 3
+    },
+    {
+      "text": "Afsluttende vidnesbyrd og tak",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<< idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 21
+    },
+    {
+      "text": "Ordret: >>fortalte Saul og sagde til ham:<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 44
+    },
+    {
+      "text": "Der kunne også oversættes: >>du helt<< der må opfattes ironisk spottende.",
+      "type": "T",
+      "verse": 3,
+      "position": 43
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 5,
+      "position": 64
+    },
+    {
+      "text": "Strengt taget står >>telt<< uden artikel. Der kan enten være tænkt på Guds >>telt<< (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: >>dit telt<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 85
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 133,
+  "version": 1492725600000,
+  "verses": [
+    {
+      "text": "Valfartssang. Af David.Se, hvor godt og hvor herligt det er,når brødre også opholder sig sammen.",
+      "number": 1
+    },
+    {
+      "text": "Det er som den gode olie på hovedet,der flyder ned over skægget,Arons skæg,der bølger ned over hans dragts halsåbning.",
+      "number": 2
+    },
+    {
+      "text": "Det er som Hermons dug, der falderover Zions bjerge.For dér har JHVH fastsat at velsignelsen skal være,livet til evig tid.",
+      "number": 3
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Brødrenes fællesskab",
+      "verse": 2
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Verbet: *yšv* kan både betyde: >>sidde<< og: >>bo<<. Begge oversættelser er mulige her.",
+      "type": "T",
+      "verse": 1,
+      "position": 88
+    },
+    {
+      "text": "Det er henvisning til >>Arons skæg<<, ikke til >>olie<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 78
+    },
+    {
+      "text": "*peʰ* betyder egentlig blot: >>mund, munding, åbning<<; det kan også oversættes: >>søm, rand<<, men her opfattes det traditionelt som: >>halsåbning<<. En del oversættere sletter i øvrigt både denne og den foregående linje (>>Arons skæg<<) som senere randbemærkning.",
+      "type": "E",
+      "verse": 2,
+      "position": 118
+    }
+  ]
+}

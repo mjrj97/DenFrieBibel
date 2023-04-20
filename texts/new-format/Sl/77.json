@@ -1,0 +1,180 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 77,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Efter Jedutun.Salme af Asaf.",
+      "number": 1
+    },
+    {
+      "text": "Jeg retter mit råb til Gud, og jeg vil skrige;jeg retter mit råb til Gud for at han skal høre på mig!",
+      "number": 2
+    },
+    {
+      "text": "På min trængsels dag søgte jeg Herren,min hånd var om natten rakt ud og blev ikke træt,min sjæl lod sig ikke trøste.",
+      "number": 3
+    },
+    {
+      "text": "Jeg vil huske på Gud og sukke,jeg vil tænke efter, og min ånd fortvivler. Sela",
+      "number": 4
+    },
+    {
+      "text": "Du holdt mine øjenlåg åbne,jeg er blevet foruroliget, men jeg taler ikke.",
+      "number": 5
+    },
+    {
+      "text": "Jeg tænkte over fortids dage,over længst svundne år.",
+      "number": 6
+    },
+    {
+      "text": "Jeg vil huske mit strengespil om natten,med mit hjerte vil jeg tænke efter, og min ånd skal granske.",
+      "number": 7
+    },
+    {
+      "text": "Vil da Herren forkaste i al evighedog ikke vedblive at være nådig?",
+      "number": 8
+    },
+    {
+      "text": "Er hans nåde til ende for evigt?Er hans ord ophørt med at lyde fra slægt til slægt?",
+      "number": 9
+    },
+    {
+      "text": "Har Gud glemt at være nådig?Eller har han i vrede lukket af for sin barmhjertighed? Sela",
+      "number": 10
+    },
+    {
+      "text": "Da sagde jeg: >>Dette er min smerte:At den Højestes højre hånd har ændret sig<<.",
+      "number": 11
+    },
+    {
+      "text": "Jeg vil huske JHVHs gerninger,for lad mig huske dine undere fra fortids dage.",
+      "number": 12
+    },
+    {
+      "text": "Og jeg vil grunde over al din handlen,og jeg vil tale om dine gerninger.",
+      "number": 13
+    },
+    {
+      "text": "Gud, din vej er i hellighed,hvilken gud er så stor som Gud?",
+      "number": 14
+    },
+    {
+      "text": "Du er den Gud som gør undere,du har vist din styrke blandt folkene.",
+      "number": 15
+    },
+    {
+      "text": "Du genløste dit folk med din arm,Jakobs og Josefs børn. Sela",
+      "number": 16
+    },
+    {
+      "text": "Vandene så dig, Gud,vandene så dig, de bævede,ja, de store dyb skælvede.",
+      "number": 17
+    },
+    {
+      "text": "De tykke skyer øste vand ud,skymasserne afgav drøn,ja, dine pile fløj omkring.",
+      "number": 18
+    },
+    {
+      "text": "Din tordens drøn lød i hvirvelvinden,lynene oplyste verden,jorden skælvede og rystede.",
+      "number": 19
+    },
+    {
+      "text": "Din vej gik i havetog dine stier i de store vande,men dine fodspor var ikke at se.",
+      "number": 20
+    },
+    {
+      "text": "Du førte dit folk som hjordenved Moses’ og Arons hånd.",
+      "number": 21
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Klage",
+      "verse": 2
+    },
+    {
+      "text": "Meditation og lovsang",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Jedutun var efter Davids bestemmelse sammen med Asaf og Heman overhoved for og stamfader til tempelsangerne (1 Krøn 25,1-3; 2 Krøn 5,12; 35,15). Han er formentlig den samme som Etan (1 Krøn 15,19). Overskriften her betyder formodentlig at salmen skal synges af Jedutun og hans tempelsangere",
+      "type": "E",
+      "verse": 1,
+      "position": 31
+    },
+    {
+      "text": "Grundteksten har ikke noget verbum i denne sætning, men det er underforstået med præpositionen *ʔel* (>>(hen/op) til<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 10
+    },
+    {
+      "text": "Det sjældne verbum **ngr* betyder i nif’al ellers: >>hældes ud/flyde ud<<. Her er der måske to udtryk der er smeltet sammen: >>at brede hænderne ud<< og >>at tårerne flyder ud<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 68
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 78
+    },
+    {
+      "text": ">>Jeg vil huske<< trækkes af mange oversættere og fortolkere tilbage til anden linje i v.6. Samtidig følger mange bl.a. Septuaginta, der i stedet for *nᵊgînātî* (>>mit strengespil<<) har læst *hāgîtî*: >>jeg har grundet/grunder<<.",
+      "type": "E",
+      "verse": 7,
+      "position": 13
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 9,
+      "position": 12
+    },
+    {
+      "text": "Konsonantteksten har forudsat *ʔazkîr* (hif’il): >>jeg vil forkynde/nævne<<, mens vokaliseringen forudsætter: *ʔezkôr* (qal): >>jeg vil huske<<",
+      "type": "E",
+      "verse": 12,
+      "position": 13
+    },
+    {
+      "text": "Grundteksten har blot kortformen >>Jah<< for >>Jahve<<, der findes en del steder i poetiske tekster.",
+      "type": "T",
+      "verse": 12,
+      "position": 19
+    },
+    {
+      "text": "Ordret: >>med en arm<<, men de gamle oversættelser har: >>med din arm<<.",
+      "type": "T",
+      "verse": 16,
+      "position": 33
+    },
+    {
+      "text": "*baggalgal* ordret: >>med/i vognhjulet/i hvirvelvinden<<. Udtrykket er omdiskuteret. *galgal* betegner noget, der kører rundt. >>Hvirvelvind<< kan evt. forstås som en voldsom storm. Andre retter *baggalgal* til: *kᵊgalgal*: >>som vognhjul<<.",
+      "type": "E",
+      "verse": 19,
+      "position": 37
+    },
+    {
+      "text": "Konsonantteksten har pluralis, vokaliseringen har singularis.",
+      "type": "E",
+      "verse": 20,
+      "position": 32
+    }
+  ]
+}

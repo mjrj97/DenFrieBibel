@@ -1,0 +1,162 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 84,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Al-ha-gittit.Af Koras sønner. En salme.",
+      "number": 1
+    },
+    {
+      "text": "Hvor elskelige er dine boliger,Hærskarers JHVHv!",
+      "number": 2
+    },
+    {
+      "text": "Min sjæl længtes, ja, var ved at gå til af længselefter JHVHs forgårde,mit hjerte og mit kød skal jublende priseden levende Gud.",
+      "number": 3
+    },
+    {
+      "text": "Selv fuglen har fundet et boog svalen en rede til sig,hvor den har lagt sine unger:Dine altre, Hærskarers JHVHv,min konge og min Gud!",
+      "number": 4
+    },
+    {
+      "text": "Salige er de som bor i dit hus,til stadighed skal de prise dig. Sela",
+      "number": 5
+    },
+    {
+      "text": "Saligt er det menneske, hvis styrke er i dig,på hvis hjerte det ligger at drage på valfart.",
+      "number": 6
+    },
+    {
+      "text": "Når de drager igennem Baka-dalen,gør de den til et kildevæld,ja, tidligregnen skal hylle den i velsignelser.",
+      "number": 7
+    },
+    {
+      "text": "De skal gå frem fra kraft til kraft,de skal se hen til Gud på Zion.",
+      "number": 8
+    },
+    {
+      "text": "JHVHv, Gud Sebaot, hør min bøn,lyt, Jakobs Gud. Sela",
+      "number": 9
+    },
+    {
+      "text": "Se til vort skjold, Gud,se på din salvedes ansigt.",
+      "number": 10
+    },
+    {
+      "text": "Sandelig, én dag i dine forgårde er bedreend tusind som jeg har valgt.At befinde sig ved tærsklen til min Guds huser bedre end at bo i ugudeliges telte.",
+      "number": 11
+    },
+    {
+      "text": "For JHVH Gud er sol og skjold,JHVH giver nåde og ære,intet godt nægter han demsom vandrer i oprigtighed.",
+      "number": 12
+    },
+    {
+      "text": "Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} JHVHv,saligt er det menneske som stoler på dig!",
+      "number": 13
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Længsel efter templet",
+      "verse": 2
+    },
+    {
+      "text": "Pilgrimmenes lykke",
+      "verse": 6
+    },
+    {
+      "text": "Bøn for kongen",
+      "verse": 9
+    },
+    {
+      "text": "Gud og hans tempel er livets kilde",
+      "verse": 11
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+      "type": "T",
+      "verse": 1,
+      "position": 29
+    },
+    {
+      "text": "I ældre tid uoversat: >>Zebaoth<<",
+      "type": "T",
+      "verse": 2,
+      "position": 41
+    },
+    {
+      "text": "Ordret: >>hentæredes<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 50
+    },
+    {
+      "text": "Oversættes ofte: >>råber efter<<. Det vil dog være eneste gang at dette adskillige gange forekommende verbum optræder i pi’el i den betydning i GT.",
+      "type": "T",
+      "verse": 3,
+      "position": 112
+    },
+    {
+      "text": "Undertiden oversat: >>spurven<<",
+      "type": "T",
+      "verse": 4,
+      "position": 11
+    },
+    {
+      "text": "I ældre tid uoversat: >>Zebaoth<<",
+      "type": "T",
+      "verse": 4,
+      "position": 105
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 5,
+      "position": 68
+    },
+    {
+      "text": "Ordret: >>i/på hvis hjerte der er veje<<. Både Septuaginta og sammenhængen støtter at der med >>veje<< er tænkt på valfart. Der er forskellige forslag til rettelser, bl.a. at rette: *mᵊsillôt* (>>veje<<) til: *kislôt*: >>tillid<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 91
+    },
+    {
+      "text": "Det er efterårets første, lette regn efter sommerens tørke. Oversættes derfor også: >>efterårsregnen<<",
+      "type": "T",
+      "verse": 7,
+      "position": 77
+    },
+    {
+      "text": "Den masoretiske tekst lyder ordret oversat: >>han skal vise sig for Gud på Zion<<. Subjektet kan evt. opfattes kollektivt (>>de<<) eller upersonligt (>>man<<). Sætningen kan måske (let omskrevet) oversættes: >>indtil enhver viser sig for Gud på Zion<<. Ofte går man dog ud fra (som forudsat her) at verbet ikke skal være *yērāʔeʰ* (>>han skal/vil vise sig<<), men: *yirʔû*: >>de skal se<<, som i forbindelse med præpositionen *ʔel* (>>hen til<<) er udtryk for at man ser hen til én med håb.",
+      "type": "E",
+      "verse": 8,
+      "position": 46
+    },
+    {
+      "text": "Ordet betyder: >>hærskarer<<. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: >>Hærskarers Herre<<). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
+      "type": "E",
+      "verse": 9,
+      "position": 18
+    },
+    {
+      "text": "Ofte foreslås det i stedet for *bāḥartî* (>>som jeg har valgt<<) at rette til: *bᵊḥedrî*: >>i mit kammer<< = hjemme. Men rettelsen forekommer vilkårlig.",
+      "type": "E",
+      "verse": 11,
+      "position": 70
+    }
+  ]
+}

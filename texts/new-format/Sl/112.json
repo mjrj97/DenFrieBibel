@@ -1,0 +1,88 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 112,
+  "version": 1499983200000,
+  "verses": [
+    {
+      "text": "Halleluja!Salig den mand som frygter JHVH,som glæder sig meget ved hans bud.",
+      "number": 1
+    },
+    {
+      "text": "Hans afkom skal blive mægtigt i landet;de oprigtiges slægt skal velsignes.",
+      "number": 2
+    },
+    {
+      "text": "Velstand og rigdom er i hans hus,og hans retfærdighed består for altid.",
+      "number": 3
+    },
+    {
+      "text": "Der er brudt et lys frem i mørket for de oprigtige,for den som er nådig og barmhjertig og retfærdig.",
+      "number": 4
+    },
+    {
+      "text": "Godt for den mand som er barmhjertig og låner ud,som tager sig af sine sager med retfærdighed.",
+      "number": 5
+    },
+    {
+      "text": "Han skal aldrig i evighed rokkes,en retfærdig skal være til evigt minde.",
+      "number": 6
+    },
+    {
+      "text": "Han skal ikke frygte ondt budskab,hans hjerte er fast, han har tillid til JHVH.",
+      "number": 7
+    },
+    {
+      "text": "Hans hjerte er urokkeligt, han skal ikke frygte,indtil han kan se med glæde på sine modstandere.",
+      "number": 8
+    },
+    {
+      "text": "Han strør ud, han giver til de fattige,hans retfærdighed består for altid,hans horn skal være ophøjet med ære.",
+      "number": 9
+    },
+    {
+      "text": "Den ugudelige skal se det og græmmes,han skal skære tænder og forgå.Ugudeliges begær bliver til intet.",
+      "number": 10
+    }
+  ],
+  "titles": [
+    {
+      "text": "Den, der frygter JHVH, velsignes",
+      "verse": 1
+    },
+    {
+      "text": "Den retfærdige skal ikke rokkes",
+      "verse": 5
+    },
+    {
+      "text": "Den ugudeliges endeligt",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Oversættes nu ofte: >>lykkelig<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Ordret: >>sæd<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 10
+    },
+    {
+      "text": "Kan også oversættes: >>på jorden<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 39
+    },
+    {
+      "text": "Linjen er omdiskuteret. Den består egentlig kun af ordene: >>nådig og barmhjertig og retfærdig<<. Det er ord der normalt i salmerne er knyttet til Gud, men i sammenhængen er der tale om den oprigtige. Derfor er dette den mest brugte oversættelse af linjen, selv om >>de oprigtige<< i foregående linje er pluralis, og i denne linje er der brugt singularis. Det kan dog overvejes om denne linje er en beskrivelse af det >>lys<< (og dermed af Gud) der >>er brudt frem<<. I enkelte håndskrifter – støttet af den syriske oversættelse – mangler det sidste *wᵊ* (>>og<<), så sætningen må oversættes: >>nådig og barmhjertig er en retfærdig<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 100
+    }
+  ]
+}

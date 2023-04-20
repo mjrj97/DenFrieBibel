@@ -1,0 +1,136 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 132,
+  "version": 1492725600000,
+  "verses": [
+    {
+      "text": "Valfartssang.Husk, JHVHv, på Davidfor al hans møje",
+      "number": 1
+    },
+    {
+      "text": "da han aflagde den ed til JHVH,gav Jakobs Mægtige det løfte:",
+      "number": 2
+    },
+    {
+      "text": ">>Jeg vil aldrig gå ind i min teltbolig,jeg vil aldrig stige op på mit sengeleje,",
+      "number": 3
+    },
+    {
+      "text": "jeg vil aldrig give søvn til mine øjne,hvile til mine øjenlåg,",
+      "number": 4
+    },
+    {
+      "text": "før jeg har fundet et sted til JHVH,en bolig til Jakobs Mægtige.<<",
+      "number": 5
+    },
+    {
+      "text": "Se, vi hørte om den i Efrata,vi fandt den paa Ja’ars mark.",
+      "number": 6
+    },
+    {
+      "text": "Lad os gå til hans bolig,lad os kaste os ned for hans fødders skammel.",
+      "number": 7
+    },
+    {
+      "text": "Rejs dig, JHVHv, til dit hvilested,du og din magtfulde ark!",
+      "number": 8
+    },
+    {
+      "text": "Dine præster skal iklæde sig retfærdighedog dine fromme skal juble.",
+      "number": 9
+    },
+    {
+      "text": "For Davids, din tjeners, skyldmå du ikke afvise din salvedes ansigt!",
+      "number": 10
+    },
+    {
+      "text": "JHVH svor Daviden troværdig ed, som han ikke går fra:>>Af dit livs frugtvil jeg sætte en på din trone.",
+      "number": 11
+    },
+    {
+      "text": "Hvis dine sønner holder min pagtog mine vedtægter, som jeg vil lære dem,så skal også deres børn for evigtsidde på din trone.<<",
+      "number": 12
+    },
+    {
+      "text": "For JHVH har udvalgt Zion,han har ønsket det som sin bopæl:",
+      "number": 13
+    },
+    {
+      "text": ">>Det er mit hvilested for evigt,her vil jeg bo, for jeg har ønsket det.",
+      "number": 14
+    },
+    {
+      "text": "Dets føde vil jeg velsigne rigeligt,jeg vil mætte dets fattige med brød,",
+      "number": 15
+    },
+    {
+      "text": "og jeg vil klæde dets præster i frelse,og dets hellige skal juble højt.",
+      "number": 16
+    },
+    {
+      "text": "Dér vil jeg lade et horn vokse frem for David,jeg har sørget for en lampe for min salvede.",
+      "number": 17
+    },
+    {
+      "text": "Hans fjender vil jeg klæde i skam,men på ham skal hans krone stråle.<<",
+      "number": 18
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Bøn om Guds trofaste nærvær i templet",
+      "verse": 2
+    },
+    {
+      "text": "Guds løfte til David",
+      "verse": 11
+    },
+    {
+      "text": "Guds løfter over Zion",
+      "verse": 13
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Grundtekstens ord er i pluralis der skal understrege storheden og skønheden",
+      "type": "T",
+      "verse": 5,
+      "position": 44
+    },
+    {
+      "text": "At pagtens ark var på Ja’ars mark.",
+      "type": "T",
+      "verse": 6,
+      "position": 29
+    },
+    {
+      "text": "Formodentlig et poetisk udtryk for Kirjat-Jearim, 1 Sam 5,1-7,2.",
+      "type": "T",
+      "verse": 6,
+      "position": 58
+    },
+    {
+      "text": "Ordret: >>din magts/majestæts ark<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 59
+    },
+    {
+      "text": "Ordret: >>en sandhed/troværdighed<<",
+      "type": "T",
+      "verse": 11,
+      "position": 31
+    }
+  ]
+}

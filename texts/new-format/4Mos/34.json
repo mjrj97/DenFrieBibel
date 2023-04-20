@@ -1,0 +1,154 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 34,
+  "version": 1500328800000,
+  "verses": [
+    {
+      "text": "JHVH sagde til Moses:",
+      "number": 1
+    },
+    {
+      "text": ">>Byd israelitterne og sig til dem: >Når I kommer til Kana’an, da skal det være det land som skal være jer til arv, nemlig Kana’ans land efter dets grænser.",
+      "number": 2
+    },
+    {
+      "text": "På sydsiden skal I have Sins ørken til Edom, og jeres grænse mod syd skal mod øst gå fra enden af Salthavet.",
+      "number": 3
+    },
+    {
+      "text": "Jeres landegrænse skal gå syd om Akrabbim-passet og videre til Sin og den skal være syd for Kadesh-Barnea. Så skal den gå ud til Hasar-Addar og videre over til Asmon.",
+      "number": 4
+    },
+    {
+      "text": "Grænsen skal gå om fra Asmon til Egyptens bæk og skal ende ved havet.",
+      "number": 5
+    },
+    {
+      "text": "Angående landegrænsen mod vest, skal Det Store Hav være jeres grænse. Det skal være jeres landegrænse mod vest.",
+      "number": 6
+    },
+    {
+      "text": "Dette skal være jeres landegrænse mod nord: I skal lægge jeres grænse fra Det Store Hav til bjerget Hor.",
+      "number": 7
+    },
+    {
+      "text": "Fra bjerget Hor skal I føre grænsen hen mod Lebo-Hamat, og grænsen skal ende ved Sedad.",
+      "number": 8
+    },
+    {
+      "text": "Landegrænsen skal gå ud til Zifron, og den skal ende ved Hasar-Enan. Dette skal være jeres landegrænse mod nord.",
+      "number": 9
+    },
+    {
+      "text": "I skal måle jeres landegrænse mod øst fra Hasar-Enan til Shefam.",
+      "number": 10
+    },
+    {
+      "text": "Landegrænsen skal gå ned fra Shefam til Ribla øst for Ajin, og landegrænsen skal gå ned og røre siden af Kinnerets Hav mod øst.",
+      "number": 11
+    },
+    {
+      "text": "Landegrænsen skal gå ned til Jordan, og den skal ende ved Salthavet. Dette skal være jeres lands grænser hele vejen rundt.<<<",
+      "number": 12
+    },
+    {
+      "text": "Moses befalede israelitterne: >>Dette er det land som I skal tage i arv ved lodkastning, og som JHVH befalede at give de ni stammer og den halve stamme,",
+      "number": 13
+    },
+    {
+      "text": "for rubenitternes stamme efter deres fædrenehuse og gaditternes stamme efter deres fædrenehuse, de har fået, og Manasses halve stamme, de har fået deres arv.",
+      "number": 14
+    },
+    {
+      "text": "De to stammer og den halve stamme, de har fået deres arv på denne side af Jordan lige over for Jeriko mod øst.<<",
+      "number": 15
+    },
+    {
+      "text": "JHVH sagde til Moses:",
+      "number": 16
+    },
+    {
+      "text": ">>Dette er navnene på de mænd som skal dele landet til arv mellem jer: Præsten Eleazar og Josva, Nuns søn.",
+      "number": 17
+    },
+    {
+      "text": "Og I skal tage en leder fra hver stamme til at dele landet til arv.",
+      "number": 18
+    },
+    {
+      "text": "Dette er navnene på mændene: Af Judas stamme Kaleb, Jefunnes søn,",
+      "number": 19
+    },
+    {
+      "text": "af simeonitternes stamme Samuel, Ammihuds søn,",
+      "number": 20
+    },
+    {
+      "text": "af Benjamins stamme Elidad, Kisions søn,",
+      "number": 21
+    },
+    {
+      "text": "af danitternes stamme, en leder, Bukki, Joglis søn,",
+      "number": 22
+    },
+    {
+      "text": "af Josefs børn, af manassitternes stamme, en leder, Hanniel, Efods søn,",
+      "number": 23
+    },
+    {
+      "text": "af efraimitternes stamme, en leder, Kemuel, Siftans søn,",
+      "number": 24
+    },
+    {
+      "text": "af zebulonitternes stamme, en leder, Elisafan, Parnaks søn,",
+      "number": 25
+    },
+    {
+      "text": "af issakaritternes stamme, en leder, Paltiel, Azzans søn,",
+      "number": 26
+    },
+    {
+      "text": "af asheritternes stamme, en leder, Akihud, Shelomis søn,",
+      "number": 27
+    },
+    {
+      "text": "af naftalitternes stamme, en leder, Pdael, Ammihuds søn.<<",
+      "number": 28
+    },
+    {
+      "text": "Det var disse mænd som JHVH bød at dele arven mellem israelitterne i Kana’an.",
+      "number": 29
+    }
+  ],
+  "titles": [
+    {
+      "text": "JHVH belærer Moses om Kana’ans landemærker og grænser.",
+      "verse": 1
+    },
+    {
+      "text": "JHVH udnævner tolv mænd som skal dele landet ud blandt israelitterne.",
+      "verse": 16
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Dvs. Det Døde Hav.",
+      "type": "T",
+      "verse": 3,
+      "position": 108
+    },
+    {
+      "text": "Dvs. Middelhavet.",
+      "type": "T",
+      "verse": 5,
+      "position": 69
+    },
+    {
+      "text": "Som ellers kaldes Genesaret. Luk 5,1 flg. 5 Mos 3,17.",
+      "type": "T",
+      "verse": 11,
+      "position": 118
+    }
+  ]
+}

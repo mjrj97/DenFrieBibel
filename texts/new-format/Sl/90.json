@@ -1,0 +1,132 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 90,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Bøn af Moses, Guds mand.Herre, du har været bolig for osi slægt efter slægt.",
+      "number": 1
+    },
+    {
+      "text": "Før bjergene fødtes,før du frembragte jorden og verden,fra evighed til evighed er du Gud.",
+      "number": 2
+    },
+    {
+      "text": "Du lader mennesket vende tilbage til støv,du siger: >>Vend tilbage, I menneskebørn!<<",
+      "number": 3
+    },
+    {
+      "text": "For tusind år er i dine øjnesom dagen i går, når den går forbi,og som en nattevagt.",
+      "number": 4
+    },
+    {
+      "text": "Du skyllede dem bort, de bliver som en søvn,om morgenen er de som græs der skyder friske skud.",
+      "number": 5
+    },
+    {
+      "text": "Om morgenen blomstrer det og sætter friske skud,om aftenen visner det og tørrer ind.",
+      "number": 6
+    },
+    {
+      "text": "Jo, vi er fortæret af din vrede,og vi er forfærdet ved din harme.",
+      "number": 7
+    },
+    {
+      "text": "Du har stillet vore synder for dine øjne,vor skjulte synd for dit ansigts lys.",
+      "number": 8
+    },
+    {
+      "text": "For alle vore dage er svundet bort i din vrede,vi har henlevet vore år som et suk.",
+      "number": 9
+    },
+    {
+      "text": "Vore leveår, i dem er der halvfjerds år,og hvis der er stærk livskraft, firs år,og deres stolthed er møje og besvær,for det er hastigt forbi, så flyver vi bort.",
+      "number": 10
+    },
+    {
+      "text": "Hvem kender styrken i din vredeog ud fra frygten for dig din harme?",
+      "number": 11
+    },
+    {
+      "text": "Lær os at tælle vore dage sådan,at vi får visdom i hjertet.",
+      "number": 12
+    },
+    {
+      "text": "Vend om, JHVHv, hvor længe?Og hav medlidenhed med dine tjenere.",
+      "number": 13
+    },
+    {
+      "text": "Mæt os om morgenen med din nåde,så vil vi juble og glæde os alle vore dage.",
+      "number": 14
+    },
+    {
+      "text": "Glæd os lige så mange dage som du har ydmyget os,de år som vi har set ulykke.",
+      "number": 15
+    },
+    {
+      "text": "Lad din gerning blive synlig for dine tjenereog din herlighed over deres børn.",
+      "number": 16
+    },
+    {
+      "text": "Og Herren, vor Guds godhed være over os,og styrk vore hænders gerning for os,ja, styrk vore hænders gerning!",
+      "number": 17
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Guds evighed og menneskets forgængelighed",
+      "verse": 2
+    },
+    {
+      "text": "Menneskets syndighed og Guds vrede",
+      "verse": 7
+    },
+    {
+      "text": "Bøn om nåde",
+      "verse": 13
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "I stedet for: *wattᵊḥôlēl* (>>du frembragte<<) har bl.a. Septuaginta læst passivform, 3. person: *wattᵊḥôl-l*: >>(før jorden og verden) blev frembragt<<",
+      "type": "E",
+      "verse": 2,
+      "position": 37
+    },
+    {
+      "text": "Det ord der er brugt (*ʔᵉnôš*), bruges når der tales om mennesket som et svagt, skrøbeligt væsen.",
+      "type": "T",
+      "verse": 3,
+      "position": 18
+    },
+    {
+      "text": "Mange retter: *yaʕᵃvōr* (>>den går forbi<<) til: *ʕāvar*: >>den er forbi<<. Meningen med den overleverede tekst kan være: >>som dagen i går, når den passerer forbi i tankerne<<. Det sker i et glimt.",
+      "type": "E",
+      "verse": 4,
+      "position": 63
+    },
+    {
+      "text": "Oversættelsen er omdiskuteret. Verbet: *ḥlf* betegner i qal oftest at noget forgår (>>om morgenen er de som græs der forgår<<), men her og i næste vers forudsætter man som regel betydningen: >>gro/sætte friske skud<<, der ellers især er knyttet til hif’il.",
+      "type": "E",
+      "verse": 5,
+      "position": 94
+    },
+    {
+      "text": "Ordret: >>vore års dage<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 11
+    },
+    {
+      "text": "Sætningen er omdiskuteret. Ordret blot: >>og som din frygt din harme<< eller: >>og i overensstemmelse med din frygt din harme <<. Med >>din frygt<< er der ment: >>frygten for dig<<.",
+      "type": "E",
+      "verse": 11,
+      "position": 67
+    }
+  ]
+}

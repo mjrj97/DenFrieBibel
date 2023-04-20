@@ -1,0 +1,126 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 31,
+  "version": 1616022000000,
+  "verses": [
+    {
+      "text": "JHVH talte til Moses og sagde:",
+      "number": 1
+    },
+    {
+      "text": ">>Se, jeg har  kaldet Besal’el ved navn, han er søn af Uri, søn af Hur, fra Juda stamme,",
+      "number": 2
+    },
+    {
+      "text": "og jeg har fyldt ham med Guds Ånd, med visdom, med forstand, med viden og evne til al slags håndværk,",
+      "number": 3
+    },
+    {
+      "text": "til at lave kunstnerisk design, til at arbejde i guld, sølv og bronze,",
+      "number": 4
+    },
+    {
+      "text": "til at skære sten, til at indfatte, til at udskære træ, til at udføre al slags arbejde.",
+      "number": 5
+    },
+    {
+      "text": "Og jeg, se, jeg har givet ham Oholiab, Akisamaks søn fra Dans stamme, og i hvert menneske med kunstnerisk færdighed har jeg givet visdom, så de kan lave alt det, som jeg har befalet dig:",
+      "number": 6
+    },
+    {
+      "text": "Forsamlingsteltet, Vidnesbyrdets ark, sonedækket som er på den, alle redskaber i teltet,",
+      "number": 7
+    },
+    {
+      "text": "bordet og dets redskaber, lysestagen af purt guld og alle dens redskaber, røgelsesalteret,",
+      "number": 8
+    },
+    {
+      "text": "brændofferalteret og alle dets redskaber, bækkenet og dets sokkel,",
+      "number": 9
+    },
+    {
+      "text": "de vævede klæder, de hellige klæder til Aron, præsten, og hans sønners klæder til at gøre præstetjeneste i,",
+      "number": 10
+    },
+    {
+      "text": "salvningsolien og den vellugtende røgelse til helligdommen; sådan som jeg har befalet dig, skal de lave det<<.",
+      "number": 11
+    },
+    {
+      "text": "JHVH talte til Moses og sagde:",
+      "number": 12
+    },
+    {
+      "text": ">>Og du – tal til Israels børn og sig: >Men I skal holde mine sabbatter, for den er et tegn mellem mig og jer gennem jeres slægtled, så I ved at jeg er JHVH som helliger jer.",
+      "number": 13
+    },
+    {
+      "text": "I skal holde sabbatten, for den er hellig for jer; den der vanhelliger den, skal bestemt dræbes, for enhver som udfører arbejde på den, den sjæl skal udryddes fra sit folks midte.",
+      "number": 14
+    },
+    {
+      "text": "I seks dage skal der udføres arbejde, men på den syvende dag er der fuldstændig sabbatshvile, hellig for JHVH. Enhver som udfører arbejde på sabbatsdagen, skal bestemt dræbes.",
+      "number": 15
+    },
+    {
+      "text": "Israels børn skal overholde sabbatten, så de højtideligholder sabbatten i deres slægtled, en evig pagt.",
+      "number": 16
+    },
+    {
+      "text": "Mellem mig og Israels børn er den et evigt tegn; for på seks dage skabte JHVH himlen og jorden, men på den syvende dag hvilede han og rekreerede sig.<<<",
+      "number": 17
+    },
+    {
+      "text": "Og  da han var færdig med at tale med Moses på Sinajs bjerg, gav han ham Vidnesbyrdets to tavler, stentavler beskrevne med Guds finger.",
+      "number": 18
+    }
+  ],
+  "titles": [
+    {
+      "text": "Håndværkerne til arbejdet på helligdommen",
+      "verse": 1
+    },
+    {
+      "text": "Forordning om sabbatten",
+      "verse": 12
+    },
+    {
+      "text": "Moses får lovens tavler",
+      "verse": 18
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>tænke tanker<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 31
+    },
+    {
+      "text": "Ordret: >>I hvert vist hjertes hjerte<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 115
+    },
+    {
+      "text": "Ordret blot: >>den rene/pure lysestage<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 49
+    },
+    {
+      "text": "Oversættelsen af: *bigdê haśśᵊrād* er usikker og omdiskuteret. Det oversættes ofte: >>tjenestedragter<<, men de egentlige tjenestedragter omtales umiddelbart efter. Ordene bruges også i 35,19; 39,1.41; alle tre steder med tilføjelsen: >>til tjenesten i helligdommen<<. Ordet: *śᵊrād* betyder formodentlig: >>flettet/vævet<<. ",
+      "type": "T",
+      "verse": 10,
+      "position": 17
+    },
+    {
+      "text": "Den hebraiske tekst har verbet *mwt* (>>dø<<) to gange: Først som infinitiv absolutus og derefter som yiqtol hof’al. Det er en almindelig måde i hebraisk til forstærkelse af verbet, her gengivet med: >>bestemt<<. I hof’al skal det oversættes: >>dræbes<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 96
+    }
+  ]
+}

@@ -13,7 +13,8 @@ function BookDropdown(props) {
     useEffect(()=>{
         if (books !== undefined && books.length > 0)
         {
-            setCurrentBook( books[0] );
+            setCurrentBook( books[7] );
+            console.log(books[7]);
         }
         else
         {
@@ -53,20 +54,20 @@ function BookDropdown(props) {
 
     return (
         // Sticky top: https://stackoverflow.com/questions/28340054/bootstrap-keep-div-fixed-after-scrolling-to-it
-        <div className="sticky-top">
+        <div className="sticky-top sticky-dropdown">
             <div className="container px-0 mx-0 mb-2">
                 <div className='arrow-container'>
                     <div className='d-flex justify-content-between'>
-                        <a className={'btn btn-light arrow arrow-left ignore' + (currentChapter == 1 ? ' disabled' : '')} href='javascript:;' onClick={subtractChapter}>←</a>
-                        <a className={'btn btn-light arrow arrow-right ignore' + (currentChapter == currentBook.chapters ? ' disabled' : '')} href='javascript:;' onClick={addChapter}>→</a>
+                        <a className={'btn btn-light arrow arrow-left ignore' + (currentChapter == 1 ? ' disabled' : '')} href='#' onClick={subtractChapter}>←</a>
+                        <a className={'btn btn-light arrow arrow-right ignore' + (currentChapter == currentBook.chapters ? ' disabled' : '')} href='#' onClick={addChapter}>→</a>
                     </div>
                 </div>
-                <div className="row">
+                <div className="row select-container">
                     <div className='col-8'>
                         <select className="form-select form-select-lg ignore" onChange={(e) => { onBookChange(e.target.value) }} name="books" id="books">
                             {
                                 (Array.isArray(books)) ? (books.map((book, i) => 
-                                    <option key={i} value={i}>{book.name}</option>
+                                    <option key={i} value={i} selected={currentBook.abbreviation == book.abbreviation}>{book.name}</option>
                                 )) : ""
                             }
                         </select>

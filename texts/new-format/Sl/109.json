@@ -1,0 +1,264 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 109,
+  "version": 1499983200000,
+  "verses": [
+    {
+      "text": "Til korlederen.Af David. Salme.Min lovsangs Gud, vær ikke tavs,",
+      "number": 1
+    },
+    {
+      "text": "for den gudløses mund og bedragets mund har de åbnet imod mig,de har talt med mig med løgnens tunge,",
+      "number": 2
+    },
+    {
+      "text": "og de har omringet mig med hadefulde ordog har bekæmpet mig uden årsag.",
+      "number": 3
+    },
+    {
+      "text": "Til gengæld for min kærlighed anklager de mig,men jeg er i bøn.",
+      "number": 4
+    },
+    {
+      "text": "De gengældte mig med ondt for godt,og med had til gengæld for min kærlighed:For det første taler at ordene ikke tydeligt er markeret som citat, og det har været dansk oversættelsestradition.For det andet taler at modstanderne omtales i flertal i klageversene v. 1-5.20-31, mens det er en enkelt der forbandes i v. 6-19. Videre forudsættes modstandernes forbandelse i v. 28, ligesom salmistens tillidsfulde tro på at Gud vil stå ved hans side (v. 31), synes at være modsætning til modstandernes ord om at en anklage skal stå ved hans side (v. 6).En tredje mulighed er dog at kun v. 6-15 er modstandernes forbandelse, mens v. 16-19 er salmistens bøn.}==",
+      "number": 5
+    },
+    {
+      "text": ">>Sæt en ugudelig op imod ham,og lad en anklager stå ved hans højre side!",
+      "number": 6
+    },
+    {
+      "text": "Når han bliver dømt, vil han gå ud som skyldig,og hans bøn skal blive til synd!",
+      "number": 7
+    },
+    {
+      "text": "Hans dage skal blive få,en anden skal tage hans embede.",
+      "number": 8
+    },
+    {
+      "text": "Hans børn skal blive faderløseog hans hustru enke.",
+      "number": 9
+    },
+    {
+      "text": "Og hans børn skal strejfe om og tigge,de bliver krævet ud af deres ruiner.",
+      "number": 10
+    },
+    {
+      "text": "En långiver skal kaste garn ud efter alt det han ejer,og fremmede skal røve frugten af hans arbejde.",
+      "number": 11
+    },
+    {
+      "text": "Der skal ikke være nogen som fortsat viser nåde imod ham,og der skal ikke være nogen der forbarmer sig over hans faderløse!",
+      "number": 12
+    },
+    {
+      "text": "Hans efterkommere skal udryddes,deres navn skal udslettes i næste generation!",
+      "number": 13
+    },
+    {
+      "text": "Hans fædres skyld skal huskes hos JHVH,og hans moders synd skal ikke slettes!",
+      "number": 14
+    },
+    {
+      "text": "De skal altid være nærværende for JHVH,og han skal udrydde mindet om dem fra jorden.",
+      "number": 15
+    },
+    {
+      "text": "Det sker fordi han ikke huskede at vise nåde,men forfulgte en hjælpeløs og fattig mandog en som var modløs i hjertet, for at dræbe.",
+      "number": 16
+    },
+    {
+      "text": "Han elskede forbandelse,og den skal komme over ham,han havde ikke lyst til velsignelse,og den skal være langt fra ham.",
+      "number": 17
+    },
+    {
+      "text": "Han iførte sig forbandelse som sin dragt,og den skal komme ind i hans indre som vandog som olie i hans knogler.",
+      "number": 18
+    },
+    {
+      "text": "Den skal for ham være som en klædning han hyller sig i,og som et bælte han altid binder om sig.<<",
+      "number": 19
+    },
+    {
+      "text": "Dette skal være lønnen fra JHVH til dem som anklager mig,og dem som taler ondt imod min sjæl!",
+      "number": 20
+    },
+    {
+      "text": "Men du, JHVHv, Herre, handl med mig for dit navns skyld,for din nåde er god - red mig!",
+      "number": 21
+    },
+    {
+      "text": "For jeg er hjælpeløs og fattig,og mit hjerte er gennemboret i mit indre.",
+      "number": 22
+    },
+    {
+      "text": "Jeg svandt bort som en skygge når den strækker sig,jeg er rystet af som en græshoppe.",
+      "number": 23
+    },
+    {
+      "text": "Mine knæ vaklede på grund af faste,og mit kød er skrumpet ind, uden fedt.",
+      "number": 24
+    },
+    {
+      "text": "Og jeg, jeg er blevet til spot for dem,de ser mig, de ryster på deres hoved.",
+      "number": 25
+    },
+    {
+      "text": "Hjælp mig, JHVHv, min Gud,frels mig efter din nåde,",
+      "number": 26
+    },
+    {
+      "text": "så de erkender at dette er din hånd,du, JHVHv, du har gjort det.",
+      "number": 27
+    },
+    {
+      "text": "Forbander de, så velsigner du.De rejste sig, de blev til skamme,men din tjener glæder sig.",
+      "number": 28
+    },
+    {
+      "text": "Lad mine anklagere klæde sig i skændselog iklæde sig deres skam som kappe.",
+      "number": 29
+    },
+    {
+      "text": "Jeg vil takke JHVH meget med min mund,og blandt mange vil jeg lovprise ham,",
+      "number": 30
+    },
+    {
+      "text": "for han står ved en fattigs højre sidefor at frelse fra dem som dømmer hans sjæl.",
+      "number": 31
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Klage",
+      "verse": 2
+    },
+    {
+      "text": "Fjendernes forbandelse{E: Det er omdiskuteret om v. 6-19 er en central del af salmistens egen bøn eller et citat af modstandernes forbandelse af salmisten, som han beder Gud vende mod dem sel",
+      "verse": 6
+    },
+    {
+      "text": "Klage og bøn",
+      "verse": 20
+    },
+    {
+      "text": "Vished og løfte om taksigelse",
+      "verse": 30
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Mange oversættere vælger at ændre vokaliseringen af *rāšāʕ* (>>gudløs<<, substantiv) til: *rešaʕ*: (>>gudløs<<, adjektiv): >>en gudløs mund<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 16
+    },
+    {
+      "text": "Oversættes undertiden: >>om<<, men præpositionen *ʔēt* (>>med<<) kan næppe betyde >>om<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 77
+    },
+    {
+      "text": "Ordret: >>men jeg er bøn<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 63
+    },
+    {
+      "text": "Hvis v. 6-19 opfattes som salmistens bøn (se noten ovenfor), må linjen oversættes: >>Hjemsøg ham for hans gudløshed<<. Det vil dog normalt forudsætte at verbet *fqd* (>>hjemsøge<<) skulle stå i qal; her står det i hif’il. Og vokaliseringen af: *rāšoʕ* (>>ugudelig<<) må rettes til: *rešaʕ*: >>gudløshed<<. Denne oversættelse er absolut mulig.",
+      "type": "E",
+      "verse": 6,
+      "position": 30
+    },
+    {
+      "text": "Kan også oversættes: >>Satan<<.",
+      "type": "T",
+      "verse": 6,
+      "position": 48
+    },
+    {
+      "text": "Kan også oversættes: >>ugudelig<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 47
+    },
+    {
+      "text": "Meningen kan være at selv salmistens bøn fordrejes så den kan bruges som anklage.",
+      "type": "E",
+      "verse": 7,
+      "position": 79
+    },
+    {
+      "text": "Den masoretiske tekst har højst usædvanligt vokaliseret verbet som pu’al: *doršû* (>>bliver fordret<<). Som regel går man ud fra at det skulle have været vokaliseret som qal: *dārᵊšû*: >>de skal søge<<. Andre følger Septuaginta, der har læst ordet som: *jᵊgoršû*: >>de skal fordrives<<.",
+      "type": "E",
+      "verse": 10,
+      "position": 54
+    },
+    {
+      "text": "Kan også oversættes: >>troskab<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 47
+    },
+    {
+      "text": "Det er henvisning til fædres skyld og moders synd (v.14).",
+      "type": "T",
+      "verse": 15,
+      "position": 2
+    },
+    {
+      "text": "Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>og den kom<<. Sammenhængen tyder dog på at det (med Septuaginta) skal vokaliseres som jussiv: >>og den skal komme<< (*wattᵊvôʔēhû* i stedet for: *ûtᵊvôʔēhû*).",
+      "type": "E",
+      "verse": 17,
+      "position": 41
+    },
+    {
+      "text": "Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>den var langt fra<<. Sammenhængen tyder dog på at det (med Septuaginta) skal vokaliseres som jussiv: >>og den skal være langt fra<< (*wᵊtirḥaq* i stedet for: *wattirḥaq*).",
+      "type": "E",
+      "verse": 17,
+      "position": 113
+    },
+    {
+      "text": "Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>den kom<<. Sammenhængen tyder dog på at det skal vokaliseres som jussiv: >>og den skal komme<< (*wᵊtāvōˀ* i stedet for: *wattāvōˀ*).",
+      "type": "E",
+      "verse": 18,
+      "position": 58
+    },
+    {
+      "text": "Den masoretiske tekst har: *ḥālal* (>>er gennemboret<<, af verbet *ḥll*). Ofte følger oversættere Septuginta og den syriske oversættelse, der forudsætter vokaliseringen: *ḥôlal*: >>skælver<< (polal af verbet *ḥyl*)",
+      "type": "E",
+      "verse": 22,
+      "position": 59
+    },
+    {
+      "text": "Dvs.: >>min krop<<.",
+      "type": "T",
+      "verse": 24,
+      "position": 45
+    },
+    {
+      "text": "Kan også oversættes: >>trofasthed<<.",
+      "type": "T",
+      "verse": 26,
+      "position": 51
+    },
+    {
+      "text": "Linjen består i grundteksten blot af to ord: *qāmû wayyēvōšû*. De kan evt. oversættes: >>Hvis de rejser sig, så lad dem blive til skamme<<. Verberne i qatal og wayyiqtol skal dog normalt oversættes ved fortid. Ofte følger oversættere Septuaginta, der forudsætter: *qāmay yēvōšû*: >>Lad mine modstandere blive til skamme<<.",
+      "type": "E",
+      "verse": 28,
+      "position": 64
+    }
+  ]
+}

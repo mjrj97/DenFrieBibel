@@ -1,0 +1,200 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 103,
+  "version": 1499983200000,
+  "verses": [
+    {
+      "text": "Af David.Min sjæl, pris JHVH,og hele mit indre skal prise hans hellige navn!",
+      "number": 1
+    },
+    {
+      "text": "Min sjæl, pris JHVH,og glem ikke alle hans velgerninger,",
+      "number": 2
+    },
+    {
+      "text": "ham som tilgiver dig al din skyld,ham som helbreder alle dine sygdomme,",
+      "number": 3
+    },
+    {
+      "text": "ham som udløser dit liv fra graven,ham som kroner dig med nåde og barmhjertighed,",
+      "number": 4
+    },
+    {
+      "text": "ham som mætter dit liv med det gode,så din ungdom bliver ny igen som ørnen.",
+      "number": 5
+    },
+    {
+      "text": "JHVH udøver retfærdighedog ret for alle undertrykte.",
+      "number": 6
+    },
+    {
+      "text": "Han kundgjorde Moses sine vejeog Israels børn sine gerninger.",
+      "number": 7
+    },
+    {
+      "text": "JHVH er barmhjertig og nådig,sen til vrede og rig på nåde",
+      "number": 8
+    },
+    {
+      "text": "Han vil ikke gå i rette for evigtog ikke vredes for altid.",
+      "number": 9
+    },
+    {
+      "text": "Han har ikke handlet mod os efter vore synderog ikke lønnet os efter vor skyld.",
+      "number": 10
+    },
+    {
+      "text": "For så høj som himlen er over jorden,så mægtig har hans nåde været over dem som frygter ham.",
+      "number": 11
+    },
+    {
+      "text": "Så langt som øst er fra vest,har han fjernet vore overtrædelser fra os.",
+      "number": 12
+    },
+    {
+      "text": "Som en far forbarmer sig over sine børn,har JHVH forbarmet sig over dem som frygter ham.",
+      "number": 13
+    },
+    {
+      "text": "For han ved at vi er skabt,han husker på at vi er støv.",
+      "number": 14
+    },
+    {
+      "text": "Et menneske – som græs er dets dage,som markens blomst blomstrer det.",
+      "number": 15
+    },
+    {
+      "text": "Når en vind farer over det, er det ikke mere,og dets sted kender det ikke længere.",
+      "number": 16
+    },
+    {
+      "text": "Men JHVHs nåde er fra evighed og til evighed over dem som frygter ham,og hans retfærdighed er med børns børn,",
+      "number": 17
+    },
+    {
+      "text": "med dem som holder hans pagt,og med dem som husker hans befalinger for at gøre derefter.",
+      "number": 18
+    },
+    {
+      "text": "JHVH har rejst sin trone i himlen,og hans kongerige behersker Altet.",
+      "number": 19
+    },
+    {
+      "text": "Pris JHVH, I hans engle,I stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
+      "number": 20
+    },
+    {
+      "text": "Pris JHVH, alle hans hærskarer,I hans tjenere som udfører hans vilje!",
+      "number": 21
+    },
+    {
+      "text": "Pris JHVH, alle hans værkerpå alle steder i hans kongerige.Min sjæl, pris JHVH!",
+      "number": 22
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Min sjæl, pris JHVH!",
+      "verse": 2
+    },
+    {
+      "text": "Guds nåde igennem tiderne",
+      "verse": 6
+    },
+    {
+      "text": "Pris JHVH, alle hans skaberværker",
+      "verse": 19
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+      "type": "E",
+      "verse": 1,
+      "position": 23
+    },
+    {
+      "text": "Ordene: >>skal prise<< er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
+      "type": "E",
+      "verse": 1,
+      "position": 57
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 4,
+      "position": 62
+    },
+    {
+      "text": "Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver der byttes om.",
+      "type": "E",
+      "verse": 5,
+      "position": 22
+    },
+    {
+      "text": "Grundtekstens ord kan også betyde: >>gribben<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 75
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 8,
+      "position": 57
+    },
+    {
+      "text": "Ordret: >>opgang<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 16
+    },
+    {
+      "text": "Ordret: >>nedgang<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 29
+    },
+    {
+      "text": "Ordret: >>som en fars forbarmen sig<<",
+      "type": "T",
+      "verse": 13,
+      "position": 24
+    },
+    {
+      "text": "Ordret: >>kender vor skabning/skabthed/formethed<<. Det tilsvarende verbum (*yṣr*) betyder: >>forme, modellere<<. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.",
+      "type": "T",
+      "verse": 14,
+      "position": 27
+    },
+    {
+      "text": "Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.",
+      "type": "T",
+      "verse": 15,
+      "position": 11
+    },
+    {
+      "text": "På hebraisk er både >>menneske, græs<< og >>blomst<< maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da >>menneske<< er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.",
+      "type": "E",
+      "verse": 16,
+      "position": 27
+    },
+    {
+      "text": "Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+      "type": "E",
+      "verse": 20,
+      "position": 4
+    },
+    {
+      "text": "Ordret: >>hans ords røst<<.",
+      "type": "T",
+      "verse": 20,
+      "position": 92
+    }
+  ]
+}

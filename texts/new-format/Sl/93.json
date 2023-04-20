@@ -1,0 +1,64 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 93,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "JHVH er konge!Han har klædt sig i højhed,JHVH har klædt sig, har rustet sig med styrke.Ja, jorden er grundfæstet, den skal ikke rokkes.",
+      "number": 1
+    },
+    {
+      "text": "Din trone står fast fra ældgammel tid,fra evighed er du.",
+      "number": 2
+    },
+    {
+      "text": "Strømme løftede, JHVHv,strømme løftede deres røst,strømme løfter deres drøn.",
+      "number": 3
+    },
+    {
+      "text": "Fremfor vældige vandes buldren,majestætiske havets brændinger,er JHVH majestætisk i det Høje.",
+      "number": 4
+    },
+    {
+      "text": "Dine vidnesbyrd er meget pålidelige,hellighed sømmer sig for dit hus,JHVHv, i evighed. {T: Ordret: >>i dages udstrækning<<.}",
+      "number": 5
+    }
+  ],
+  "titles": [
+    {
+      "text": "Guds kongedømme er evigt",
+      "verse": 1
+    },
+    {
+      "text": "JHVH er kosmisk konge",
+      "verse": 3
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>omgjordet sig<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 75
+    },
+    {
+      "text": "Egentlig om bølgers (voldsomme) brusen.",
+      "type": "T",
+      "verse": 3,
+      "position": 76
+    },
+    {
+      "text": "Ordret: >>røst<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 31
+    },
+    {
+      "text": "Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (>>majestætiske/mægtige/herlige<<) skal lægges til, om det er foregående linjes >>vande<< eller denne linjes >>brændinger<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 43
+    }
+  ]
+}

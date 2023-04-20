@@ -1,0 +1,126 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 40,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Til korlederen.Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Jeg har håbet fast på JHVH,og han bøjede sig til mig og hørte mit skrig om hjælp.",
+      "number": 2
+    },
+    {
+      "text": "Og han trak mig op af undergangens grav,af det skidne dynd,og han satte mine fødder på en klippe,han gjorde mine skridt faste.",
+      "number": 3
+    },
+    {
+      "text": "Og han lagde en ny sang i min mund,en lovsang til vor Gud.Mange skal se og frygte,og de skal stole på JHVH.",
+      "number": 4
+    },
+    {
+      "text": "Salig den mand som har sat sin tillid til JHVHog ikke vender sig til hovmodigeog til dem som er viklet ind i løgn.",
+      "number": 5
+    },
+    {
+      "text": "Store ting har du gjort, du,JHVHv, min Gud, dine undereog dine tanker for os –ingen kan sammenlignes med dig.Lad mig forkynde og tale:>>De er flere, end man kan tælle<<.",
+      "number": 6
+    },
+    {
+      "text": "Slagtoffer og afgrødeoffer har du ikke lyst til,- du har gravet ører til mig -brændoffer og syndoffer har du ikke fordret.",
+      "number": 7
+    },
+    {
+      "text": "Da sagde jeg: >>Se, jeg er kommet.I bogrullen er der skrevet om mig.",
+      "number": 8
+    },
+    {
+      "text": "Jeg har lyst til at gøre din vilje, min Gud,og din lov er midt i mit indre.<<",
+      "number": 9
+    },
+    {
+      "text": "Jeg har forkyndt godt budskab om retfærdighedi en stor forsamling,se, jeg vil ikke lukke mine læber,JHVHv, det ved du.",
+      "number": 10
+    },
+    {
+      "text": "Jeg har ikke skjult din retfærdighedinde i mit hjerte,jeg har talt om din trofasthed og din frelse,jeg har ikke fortiet din nåde og din sandhedfor en stor forsamling.",
+      "number": 11
+    },
+    {
+      "text": "Du, JHVH! vil ikke holde din barmhjertighed tilbage fra mig,din nåde og din sandhed vil altid beskytte mig.",
+      "number": 12
+    },
+    {
+      "text": "For ulykker har omspændt mig,så der intet tal er derpå,mine synder har indhentet mig,så jeg ikke kan se;de er flere end hårene på mit hoved,og mit hjerte har forladt mig.",
+      "number": 13
+    },
+    {
+      "text": "Vær nådig, JHVHv, og red mig,JHVHv, skynd dig til hjælp for mig.",
+      "number": 14
+    },
+    {
+      "text": "Lad alle dem blive til skam og spotsom efterstræber min sjæl for at udrydde den,lad dem vige tilbage og blive til skamme,de som vil mig ondt.",
+      "number": 15
+    },
+    {
+      "text": "Lad dem forfærdes som løn for deres skændsel,de som siger til mig: >>Ha, ha!<<",
+      "number": 16
+    },
+    {
+      "text": "Lad dem frydes og glædes i dig,alle som søger dig;de skal altid sige: >>JHVH viser sin storhed!<<de som elsker din frelse.",
+      "number": 17
+    },
+    {
+      "text": "Selv om jeg er hjælpeløs og fattig,vil Herren tænke på mig.Min hjælper og befrier er du;min Gud! tøv ikke!",
+      "number": 18
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning og taksigelse",
+      "verse": 2
+    },
+    {
+      "text": "Klage og bøn",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Andre oversætter: >>brusende<<",
+      "type": "T",
+      "verse": 3,
+      "position": 34
+    },
+    {
+      "text": "De to verber i korhortativ kunne også oversættes: >>hvis jeg ville forkynde og tale, så er de flere …<<",
+      "type": "E",
+      "verse": 6,
+      "position": 134
+    },
+    {
+      "text": "Sætningen er dunkel. Men meningen kan være, at Gud har givet den lydhørhed han ønsker frem for ofre",
+      "type": "T",
+      "verse": 7,
+      "position": 76
+    },
+    {
+      "text": "lov",
+      "type": "N",
+      "verse": 9,
+      "position": 54
+    }
+  ]
+}

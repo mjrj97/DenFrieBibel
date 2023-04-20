@@ -1,0 +1,65 @@
+{
+  "book": "Ordsprogenes Bog",
+  "abbreviation": "Ordsp",
+  "chapter": 3,
+  "version": 1646002800000,
+  "verses": [
+    {
+      "text": "Hold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
+      "number": 27
+    },
+    {
+      "text": "Sig ikke til din næste: >>Gå bort og kom igen, og i morgen vil jeg give,<< når du dog har det.",
+      "number": 28
+    },
+    {
+      "text": "Udtænk ikke ondt mod din næste når han bor trygt hos dig.",
+      "number": 29
+    },
+    {
+      "text": "Anklag ikke et menneske uden grund når han ikke har gjort dig ondt.",
+      "number": 30
+    },
+    {
+      "text": "Misund ikke en voldsmand, og vælg ikke nogen af alle hans veje!",
+      "number": 31
+    },
+    {
+      "text": "For den falske mand er en vederstyggelighed for HERREN, men han har fortrolig omgang med de oprigtige.",
+      "number": 32
+    },
+    {
+      "text": "HERRENS forbandelse er over den ugudeliges hus, men han velsigner de retfærdiges bolig.",
+      "number": 33
+    },
+    {
+      "text": "Mens han vil spotte spotterne, vil han vise de ydmyge gunst.",
+      "number": 34
+    },
+    {
+      "text": "De vise skal arve ære, men skam ophøjer tåber.{E: Den hebraiske formulering er omdiskuteret. Ofte oversættes: >>men tåberne ophøjer skam<<, men grundtekstens verbum står i singularis, hvorved >>skam<< må være subjekt.}",
+      "number": 35
+    }
+  ],
+  "titles": [],
+  "footnotes": [
+    {
+      "text": "Ordret: >>fra dens herre/ejer<<, altså: >>fra dem som den tilkommer<<.",
+      "type": "T",
+      "verse": 27,
+      "position": 60
+    },
+    {
+      "text": "Ordret: >>magt<<.",
+      "type": "T",
+      "verse": 27,
+      "position": 87
+    },
+    {
+      "text": "Den hebraiske konsonanttekst skal oversættes: >>de undertrykte<<, men vokaliseringen forudsætter: >>de ydmyge<<.",
+      "type": "E",
+      "verse": 34,
+      "position": 53
+    }
+  ]
+}

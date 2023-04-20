@@ -1,0 +1,102 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 29,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Salme af David.Giv JHVH, I Guds sønner,giv JHVH ære og styrke!",
+      "number": 1
+    },
+    {
+      "text": "Giv JHVH hans navns ære,kast jer ned for JHVH i hellig klædning.",
+      "number": 2
+    },
+    {
+      "text": "Herrens røst er over vandene.Ærens Gud får det til at tordne,JHVH er over de vældige vande.",
+      "number": 3
+    },
+    {
+      "text": "JHVHs røst er med kraft,JHVHs røst er med herlighed.",
+      "number": 4
+    },
+    {
+      "text": "JHVHs røst splintrer cedertræer,og JHVH smadrer Libanons cedre.",
+      "number": 5
+    },
+    {
+      "text": "Og han får dem til at springe som en kalv,Libanon og Sirjon som vildoksers kalv.",
+      "number": 6
+    },
+    {
+      "text": "JHVHs røst slår ned med ildsluer.",
+      "number": 7
+    },
+    {
+      "text": "JHVHs røst får ørken til at skælve,JHVH får Kadesh’ ørken til at skælve.",
+      "number": 8
+    },
+    {
+      "text": "JHVHs røst får hinder til at fødeog afbarker skove.Men i hans tempel siger de alle: >>Ære!<<",
+      "number": 9
+    },
+    {
+      "text": "JHVH har taget sæde over vandfloden,og JHVH troner som konge i evighed.",
+      "number": 10
+    },
+    {
+      "text": "JHVH skal give sit folk styrke,JHVH skal velsigne sit folk med fred.",
+      "number": 11
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Ære være Gud!",
+      "verse": 2
+    },
+    {
+      "text": "Åbenbaringen af JHVHs magt og herlighed",
+      "verse": 3
+    },
+    {
+      "text": "Afsluttende lovprisning",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: >>gudssønner<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 39
+    },
+    {
+      "text": "Ordet *ʕōz* kan også oversættes >>lovprisning / hæder<<. I sammenhængen er det dog vigtigt at understrege Guds magt.",
+      "type": "E",
+      "verse": 1,
+      "position": 62
+    },
+    {
+      "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat >>smykke, skrud, åbenbaring, tilsynekomst, majestæt<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 64
+    },
+    {
+      "text": "Af hensyn til parallelismen slettes ofte bogstavet *m* (>>dem<<) i *yarqîdēm* (>>og får dem til at springe<<), og den skillende accent flyttes hen under >>Libanon<<, så sætningen lyder: >>Og han får Libanon til at springe som en kalv<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 42
+    },
+    {
+      "text": "Dvs. Hermon.",
+      "type": "T",
+      "verse": 6,
+      "position": 59
+    }
+  ]
+}

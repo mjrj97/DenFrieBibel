@@ -1,0 +1,162 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 140,
+  "version": 1492725600000,
+  "verses": [
+    {
+      "text": "Til korlederen.Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Red mig, JHVHv, fra onde mennesker,bevar mig for voldsmænd",
+      "number": 2
+    },
+    {
+      "text": "som har udtænkt ondt i hjertet,hver dag ansporer de til krig.",
+      "number": 3
+    },
+    {
+      "text": "De har skærpet deres tunge som en slange,der er slangegift under deres læber. Sela",
+      "number": 4
+    },
+    {
+      "text": "Vogt mig, JHVHv, mod synderes hænder,bevar mig for voldsmændsom har tænkt at bringe mine skridt til fald.",
+      "number": 5
+    },
+    {
+      "text": "De hovmodige har skjult en fælde for migog ondskabsfulde har udspændt net langs stien,de har lagt snarer for mig. Sela",
+      "number": 6
+    },
+    {
+      "text": "Jeg har sagt til JHVH: >>Du er min Gud,lyt, JHVHv, til min tryglende røst..",
+      "number": 7
+    },
+    {
+      "text": "JHVHv, Herre, min frelses styrke,du har skærmet mit hoved på kampens dag.",
+      "number": 8
+    },
+    {
+      "text": "Opfyld ikke, JHVHv, en ugudeligs begæringer,lad ikke hans onde anslag lykkes, de vil vise sig overlegne.<< Sela",
+      "number": 9
+    },
+    {
+      "text": "De som omgiver mig, deres hovedskal den fortræd deres læber voldte, komme til at tildække.",
+      "number": 10
+    },
+    {
+      "text": "Der skal rystes kul over dem, han skal lade dem falde i ilden,i vandfyldte gruber så de ikke kan rejse sig igen.",
+      "number": 11
+    },
+    {
+      "text": "En mand der bagtaler, skal ikke bestå i landet,en voldsmand - ulykke skal jage ham med stød.",
+      "number": 12
+    },
+    {
+      "text": "Jeg ved at JHVH vil føre den hjælpeløses sag,de fattiges ret.",
+      "number": 13
+    },
+    {
+      "text": "Retfærdige skal sandelig takke dit navn,oprigtige skal bo{T: Kan også oversættes: >>sidde<<.} for dit ansigt.",
+      "number": 14
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Klage og bøn om hjælp",
+      "verse": 2
+    },
+    {
+      "text": "Bøn om tilintetgørelse af de onde",
+      "verse": 10
+    },
+    {
+      "text": "Tillid til Guds omsorg og retfærdighed",
+      "verse": 13
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Grundteksten har her og i næste linje singularis, men det må opfattes som kollektive betegnelser, hvilket også støttes af verberne i pluralis i v. 3.",
+      "type": "T",
+      "verse": 2,
+      "position": 35
+    },
+    {
+      "text": "Den masoretiske tekst har vokaliseret: *yāgûrû* (af verbet *gwr*): >>de angriber<<. Det foreslås undertiden at det kan betyde: >>de rotter sig sammen<<, men det er usikkert. Som regel retter man vokaliseringen til: *yᵊgārû*: >>de ansporer/ægger<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 48
+    },
+    {
+      "text": "Det er usikkert hvilken slange der er ment med grundtekstens ord (*ʕaxšûv*). Men formodentlig en bestemt giftslange. I jødisk tradition er der dog tænkt på en giftig edderkop.",
+      "type": "T",
+      "verse": 4,
+      "position": 58
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 82
+    },
+    {
+      "text": "Kan også oversættes: >>ugudeliges<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 29
+    },
+    {
+      "text": "Den masoretiske tekst har: *waḥᵃvālîm*: >>og snore<<. Oversættelsen må i givet fald lyde: >>og med snore spændt net ud langs stien<<. Men sprogligt er det ikke oplagt. Man retter derfor oftest nu vokaliseringen til: *wᵊḥōvlîm*: >>og ondskabsfulde<< eller med indgreb i konsonantteksten: *mᵊḥabbᵊlîm*: >>de der ødelægger<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 56
+    },
+    {
+      "text": "Ordret: >>til min tryglens (pluralis) røst<<",
+      "type": "T",
+      "verse": 7,
+      "position": 74
+    },
+    {
+      "text": "Masoreterne har ikke – som oftest – vokaliseret JHVH som: >>Herre<< (*ʔᵃdōnāʸ*), men som >>Gud<< (*ʔᵊlōhîm*).",
+      "type": "E",
+      "verse": 8,
+      "position": 6
+    },
+    {
+      "text": "Den sidste sætning, der i grundteksten blot består af ét ord (*yārûmû*, ordret blot: >>de løfter sig<<), er omdiskuteret. De fleste fortolkere og oversættere går ud fra at >>Sela<< fejlagtigt er blevet anbragt efter *yārûmû*, der egentlig skulle høre til v. 10, hvor det så skal vokaliseres som hif’il: *yārîmû*: >>de (der omgiver mig) løfter (hovedet)<<. V. 10 kan dog så også opfattes konditionalt: >>Hvis de der omgiver mig, løfter hovedet, så lad deres læbers fortræd tildække dem<<.",
+      "type": "E",
+      "verse": 9,
+      "position": 106
+    },
+    {
+      "text": "Se note til v. 9.",
+      "type": "E",
+      "verse": 10,
+      "position": 90
+    },
+    {
+      "text": "Ordret: >>en tunges mand<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 21
+    },
+    {
+      "text": "Kan også oversættes: >>på jorden<<",
+      "type": "T",
+      "verse": 12,
+      "position": 47
+    }
+  ]
+}

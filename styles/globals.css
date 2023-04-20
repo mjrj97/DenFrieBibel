@@ -4,6 +4,7 @@
   --thirty: #ffffff;
   --ten: #3b413c;
   --accent: #3b413c;
+  --link: blue
 }
 
 .primary {
@@ -42,9 +43,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.sticky-top{
+.sticky-dropdown {
   margin-top:-2rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+
+  padding-left: 2rem;
+  padding-right: 2rem;
   padding-top:2rem !important;
+  
   background-color: var(--thirty);
 }
 
@@ -154,4 +161,123 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   width: auto;
   vertical-align: middle;
+}
+
+.select-container {
+  position: relative;
+  z-index: 99;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 30% !important;
+}
+
+.footnote {
+  background-color: black !important;
+  opacity: 100% !important;
+}
+
+.sticky-comment {
+  margin-top:-2rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top:2rem !important;
+  z-index: 999999 !important;
+}
+
+.comment-container {
+  position:absolute;
+  width: 65%;
+  height: 60vh;
+
+  top: 6rem;
+  left: 105%;
+
+  border: #dee2e6;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.comment {
+  width: 100%;
+
+  border: #dee2e6;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.comment-profile-picture {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+
+.thirty {
+  background-color: var(--thirty);
+}
+
+.navigtaion-title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 4rem;
+  color: var(--ten);
+}
+
+.navigation-button {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1rem;
+  font-weight: bold;
+
+  color: var(--ten);
+  text-decoration: none;
+}
+
+.account-container {
+  display: table;
+  position: absolute;
+  padding-top: auto;
+  padding-bottom: auto;
+  right: 3rem;
+  top: 2rem;
+  height: 3rem;
+}
+
+.account-image {
+  display: inline-block;
+  border-radius: 100%;
+  width: 3rem;
+  height: 3rem;
+  background-color: #aaaaaa;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  object-fit: cover;
+  margin-left: 1rem;
+}
+
+.account-button {
+  padding-left: 1rem;
+  display: table-cell;
+  vertical-align: middle;
+  border-width: 0;
+  background-color: inherit;
+  color: var(--link);
+  text-decoration: underline;
+  height: 100%;
+}
+
+.test {
+  height: 100%;
+}
+
+a {
+  color: var(--link);
+}
+
+.no-underline {
+  text-decoration: none;
 }

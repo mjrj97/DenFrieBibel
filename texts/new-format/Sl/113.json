@@ -1,0 +1,96 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 113,
+  "version": 1499983200000,
+  "verses": [
+    {
+      "text": "Halleluja!Lovpris, I JHVHs tjenere,lovpris JHVHs navn!",
+      "number": 1
+    },
+    {
+      "text": "JHVHs navn være prisetfra nu og til evig tid!",
+      "number": 2
+    },
+    {
+      "text": "Fra solens opgang til dens nedganger JHVHs navn højlovet.",
+      "number": 3
+    },
+    {
+      "text": "JHVH er ophøjet over alle folk,hans herlighed over himlen.",
+      "number": 4
+    },
+    {
+      "text": "Hvem er som JHVH, vor Gud –han som troner højt oppe,",
+      "number": 5
+    },
+    {
+      "text": "han som ser dybt ned –i himlen og på jorden?",
+      "number": 6
+    },
+    {
+      "text": "Han som rejser en ringe op af støvet,som ophøjer en fattig af skarnet",
+      "number": 7
+    },
+    {
+      "text": "for at lade ham sidde blandt fornemme,blandt sit folks fornemme.",
+      "number": 8
+    },
+    {
+      "text": "Han som lader en ufrugtbar bo{E: Participiet: *môšîvî* (>>lader bo<<) kan også oversættes: >>lader sidde<<. I dette vers skal det dog understrege kvindens position som husets frue.} i husetsom en glad mor til sønnerne.Halleluja.{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 114.}",
+      "number": 9
+    }
+  ],
+  "titles": [
+    {
+      "text": "Lovpris JHVHs navn!",
+      "verse": 1
+    },
+    {
+      "text": "JHVH er ophøjet",
+      "verse": 4
+    },
+    {
+      "text": "Herren bøjer sig frelsende ned",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>velsignet<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 22
+    },
+    {
+      "text": "Dvs.: Øst.",
+      "type": "T",
+      "verse": 3,
+      "position": 17
+    },
+    {
+      "text": "Dvs.: Vest.",
+      "type": "T",
+      "verse": 3,
+      "position": 34
+    },
+    {
+      "text": "En del oversættere vælger – for forståelsens skyld – at flytte denne linje op mellem v.5a og 5b.",
+      "type": "T",
+      "verse": 6,
+      "position": 44
+    },
+    {
+      "text": "Den masoretiske tekst har: *lᵊhôšîvî*: >>for at lade mig sidde<<. Som regel følger man her Septuaginta og den syriske oversættelse, der forudsætter: *lᵊhôšîvô*: >>for at lade ham sidde<<.",
+      "type": "E",
+      "verse": 8,
+      "position": 21
+    },
+    {
+      "text": "Kan også oversættes: >>fyrster<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 38
+    }
+  ]
+}

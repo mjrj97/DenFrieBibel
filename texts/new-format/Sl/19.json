@@ -1,0 +1,124 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 19,
+  "version": 1631570400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Himlen fortæller om Guds herlighed,hvælvingen forkynder hans hænders værk.",
+      "number": 2
+    },
+    {
+      "text": "Dag lader tale sprudle frem til dag, og nat kundgør viden til nat.",
+      "number": 3
+    },
+    {
+      "text": "Der er ingen tale og ingen ord uden at deres røst høres.",
+      "number": 4
+    },
+    {
+      "text": "Deres røst når ud over hele jordenog deres ord til verdens ende.Han satte et telt for solen på himlen,",
+      "number": 5
+    },
+    {
+      "text": "og den går som en brudgom ud af sit kammer,den glæder sig som en helt over at løbe sin bane.",
+      "number": 6
+    },
+    {
+      "text": "Fra himlens ene ende er dens udgang,og dens omløb når den anden ende,ja, intet er skjult for dens glød.",
+      "number": 7
+    },
+    {
+      "text": "JHVHs lov er fuldkommen,den styrker sjælen.JHVHs vidnesbyrd er pålideligt,det giver den enfoldige visdom.",
+      "number": 8
+    },
+    {
+      "text": "JHVHs bestemmelser er rette,de glæder hjertet.JHVHs befaling er pur,det giver øjnene lys.",
+      "number": 9
+    },
+    {
+      "text": "Frygt for JHVH er ren,den består til evig tid,JHVHs domme er sandhed,de er alle retfærdige.",
+      "number": 10
+    },
+    {
+      "text": "De er mere kostbare end guld,ja, end lutret guld i mængde,og sødere end honningog flydende bikage.",
+      "number": 11
+    },
+    {
+      "text": "Også din tjener lader sig advare af dem,der er stor løn ved at holde dem.",
+      "number": 12
+    },
+    {
+      "text": "Uforsætlige synder – hvem lægger mærke til dem?Rens mig for skjulte synder!",
+      "number": 13
+    },
+    {
+      "text": "Hold også din tjener borte fra hovmodigeså de ikke skal herske over mig.Da bliver jeg udadleligog uden skyld i grov overtrædelse.",
+      "number": 14
+    },
+    {
+      "text": "Lad min munds ord og mit hjertes tanker være til behag for dit ansigt,JHVHv, min klippe og min genløser!",
+      "number": 15
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Universets vidnesbyrd om og lovprisning af Guds storhed",
+      "verse": 2
+    },
+    {
+      "text": "Lovprisning af JHVHs lov",
+      "verse": 8
+    },
+    {
+      "text": "Personlig afslutning og bøn",
+      "verse": 12
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Grundteksten har: *qawwām*: >>deres rettesnor<<. Det er vanskeligt at se mening med det, især ud fra parallellen >>ord<< i næste linje. Man følger derfor oftest Septuaginta og læser *qôlām*: >>deres røst<<, jf. citatet i Rom 10,18.",
+      "type": "E",
+      "verse": 5,
+      "position": 10
+    },
+    {
+      "text": "Grundteksten har: *bāhem*: >>i/på dem<<. Det henviser formodentlig til >>himlen<< der på hebraisk er et flertalsord. Det kan overvejes om pronominerne i v. 4-5 (>>deres<<) alle henviser til >>himlen<< (v. 2), og de kunne da oversættes >>dens<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 102
+    },
+    {
+      "text": "Lov",
+      "type": "N",
+      "verse": 8,
+      "position": 9
+    },
+    {
+      "text": "Ordret: >>den bringer sjælen tilbage<<.",
+      "type": "T",
+      "verse": 8,
+      "position": 43
+    },
+    {
+      "text": "Grundtekstens *yirʔāh*: >>frygt<<, synes at bryde rytmen i versene, idet >>frygt<< næppe kan være synonym for >>lov<<. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. >>Frygt<< for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud >>til evig tid<<. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: >>ord<<.",
+      "type": "E",
+      "verse": 10,
+      "position": 14
+    }
+  ]
+}

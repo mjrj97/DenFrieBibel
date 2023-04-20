@@ -1,0 +1,182 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 45,
+  "version": 1527199200000,
+  "verses": [
+    {
+      "text": "Til korlederen.Al-shoshannim.  Af Koras sønner.Maskil.En kærlighedssang.",
+      "number": 1
+    },
+    {
+      "text": "Mit hjerte strømmer over med god tale,jeg siger: Mine værker er til kongen,min tunge er en hurtigskrivers pen.",
+      "number": 2
+    },
+    {
+      "text": "Du er den allersmukkeste blandt menneskenes sønner,ynde er udgydt på dine læber,derfor har Gud velsignet dig til evig tid.",
+      "number": 3
+    },
+    {
+      "text": "Bind dit sværd om hoften, du helt,i din majestæt og din herlighed,",
+      "number": 4
+    },
+    {
+      "text": "og hav fremgang i din herlighed,drag frem for sandheds skyld, og ydmyghed med retfærdighed,og din højre hånd skal lære dig frygtelige gerninger.",
+      "number": 5
+    },
+    {
+      "text": "Dine pile er hvæssede,folk skal falde under digi hjertet af kongens fjender.",
+      "number": 6
+    },
+    {
+      "text": "Din trone, gud, står evigt og altid,dit kongescepter er retskaffenheds scepter.",
+      "number": 7
+    },
+    {
+      "text": "Du har elsket retfærdighed og hadet ugudelighed,derfor har Gud, din Gud, salvet digmed glædens olie frem for dine medbrødre.",
+      "number": 8
+    },
+    {
+      "text": "Alle dine klæder er myrra og aloe og kassia,fra elfenbenspaladser fryder strengespil dig.",
+      "number": 9
+    },
+    {
+      "text": "Kongedøtre er blandt dine dyrebare,ægtefællen står ved din højre hånd i Ofir-guld.",
+      "number": 10
+    },
+    {
+      "text": "Hør, datter, og se til og bøj dit øreog glem dit folk og din fars hus!",
+      "number": 11
+    },
+    {
+      "text": "Så skal kongen begære din skønhed,for han er din herre,og du skal kaste dig ned for ham.",
+      "number": 12
+    },
+    {
+      "text": "Og Tyrus' datter,med gave søger et folks rigmænd din gunst.",
+      "number": 13
+    },
+    {
+      "text": "En kongedatter er lutter pragt i det indre,hendes dragt er tilvirket med guld.",
+      "number": 14
+    },
+    {
+      "text": "I farvestrålende klæder føres til kongenjomfruerne, hendes veninder, efter hende,de føres til dig.",
+      "number": 15
+    },
+    {
+      "text": "De føres frem med glæde og jubel,de kommer ind i kongens palads.",
+      "number": 16
+    },
+    {
+      "text": "Dine sønner skal være i dine fædres sted,du skal sætte dem til fyrster i hele landet.",
+      "number": 17
+    },
+    {
+      "text": "Jeg vil lade dit navn blive husket i slægt efter slægt,derfor skal folk prise dig evigt og altid.",
+      "number": 18
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Indledning",
+      "verse": 2
+    },
+    {
+      "text": "Lovprisning af brudgommen og hans kongedømme",
+      "verse": 3
+    },
+    {
+      "text": "Lovprisning af bruden",
+      "verse": 10
+    },
+    {
+      "text": "Afsluttende ord til brudgommen",
+      "verse": 17
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for >>lilje<< (evt. >>efter liljerne<<).",
+      "type": "E",
+      "verse": 1,
+      "position": 29
+    },
+    {
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 54
+    },
+    {
+      "text": "Det hebraiske ord *yofyāfîtā* er besynderligt ved tilsyneladende at være sammensat af to ord: *yofî* (>>skønhed<<)og *yāfîtā* (>>du er skøn, smuk<<). Det er helt ualmindeligt i bibelsk hebraisk, men det må regnes til digterisk frihed at danne et så enestående men kraftfuldt ord som der faktisk er tale om her.",
+      "type": "E",
+      "verse": 3,
+      "position": 24
+    },
+    {
+      "text": "Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (>>og din herlighed<<). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif'il af verbet *drk*: >>spænd (buen)<<.",
+      "type": "E",
+      "verse": 5,
+      "position": 32
+    },
+    {
+      "text": "Ordret: >>for sandhed og ydmyghed retfærdighed<<. Mange vælger at flytte >>og<<: >>for sandhed, ydmyghed og retfærdighed<<. Andre retter *wᵊʕanwāʰ*(>>og ydmyghed<<) til *wᵊjaʕan*: >>og for (retfærdigheds) skyld<<. Vokaliseringen af *wᵊʕanwāʰ* er dog uregelmæssig og antyder måske at det skal forbindes nært til >>retfærdighed<<. Derved understreges kongens ansvar som den svages forsvarer.",
+      "type": "E",
+      "verse": 5,
+      "position": 91
+    },
+    {
+      "text": "Teksten er omdiskuteret. >>i hjertet<< må her opfattes som: >>midt blandt<<, medmindre man vil flytte den midterste linje ned som sidste linje i verset og underforstå et >>sidder<<: >>Dine hvæssede pile sidder i hjertet på kongens fjender, folk skal falde under dig<<.",
+      "type": "E",
+      "verse": 6,
+      "position": 56
+    },
+    {
+      "text": "Det er enestående i GT at kongen tiltales >>gud<< (måske bortset fra Es 9,5-6). Kongen betragtes her som Guds repræsentant og – netop fordi han er indsat af Gud – som ét med Gud.",
+      "type": "E",
+      "verse": 7,
+      "position": 15
+    },
+    {
+      "text": "Dvs.: de dufter af >>myrra og …<<",
+      "type": "T",
+      "verse": 9,
+      "position": 44
+    },
+    {
+      "text": "Meningen kan være at fornemme er samlet blandt brudepigerne eller gæsterne (>>dyrebare<<) nu hvor den unge dronning træder hen til kongen. Der kunne også oversættes >>dine elskede<<, men i sammenhængen er der næppe tænkt på at kongen har mange kongedøtre i sit harem. Mange oversættere følger et forslag om at ændre *bᵊyiqqᵊrôteʸxā* (>>blandt dine dyrebare<<) til: *liqrāʔtᵊxā*: >>(går) dig i møde<<, ligesom man ofte vælger at ændre *bᵊnôt mᵊlāxîm* (>>kongedøtre<<) til: *bat-melex*: >>kongedatter<<, så sætningen lyder: >>En kongedatter går dig i møde<<. Det giver god mening, men er i virkeligheden ret vilkårligt.",
+      "type": "E",
+      "verse": 10,
+      "position": 35
+    },
+    {
+      "text": "Ordret: >>vil blødgøre dit ansigt<<. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (>>datter<<) til *bᵊnôt-* (>>døtre<<), flytte adskillelsen mellem linjerne og underforstå et >>kommer til dig<<: >>Tyrus' døtre kommer til dig med gave, et folks rigmænd søger din gunst<<.",
+      "type": "E",
+      "verse": 13,
+      "position": 59
+    },
+    {
+      "text": "Ordret: >>al pragt en kongedatter i det indre/indadtil<<. Der er intet verbum som derfor må underforstås, enten >>er<< eller >>(I al sin pragt) træder (en kongedatter) ind<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 43
+    },
+    {
+      "text": "Oversættes undertiden: >>over hele jorden<<, men præpositionen *bᵊ* betyder: >>i<<.",
+      "type": "T",
+      "verse": 17,
+      "position": 85
+    }
+  ]
+}

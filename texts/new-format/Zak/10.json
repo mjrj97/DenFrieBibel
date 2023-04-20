@@ -1,0 +1,98 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 10,
+  "version": 1472594400000,
+  "verses": [
+    {
+      "text": "Bed JHVH om regn på tidspunktet for den sene regn.JHVH laver lyn;han giver dem regnskylog enhver korn på marken.",
+      "number": 1
+    },
+    {
+      "text": "For husguderne taler fordærv;spåmændene ser falske syner.De tyder uduelige drømme;med tomhed trøster de.Derfor er de i nød,for der er ingen hyrde.",
+      "number": 2
+    },
+    {
+      "text": "Imod hyrderne er min vrede opflammet;bukkene vil jeg hjemsøge.For Hærskarers JHVHv har besøgt sin hjord, Judas hus,og gjort dem til sin prægtige hest i krigen.",
+      "number": 3
+    },
+    {
+      "text": "Derfra skal hjørnesten og teltpløk udgå,krigsbuen og enhver hersker.",
+      "number": 4
+    },
+    {
+      "text": "De skal være som krigere,der tramper i gadens mudder i krigen.De skal kæmpe,for JHVH vil være med dem.De som rider på heste, skal blive til skamme.",
+      "number": 5
+    },
+    {
+      "text": "Jeg vil styrke Judas hus;Josefs hus vil jeg frelse.Jeg vil føre dem hjem,for jeg har forbarmet mig over dem,og det skal blive, som om jeg ikke havde afvist dem.For jeg er JHVH deres Gud;jeg vil bønhøre dem.",
+      "number": 6
+    },
+    {
+      "text": "Efraim skal blive som en kriger;deres hjerte skal juble som beruset.Deres børn skal se det og juble;deres hjerte skal råbe af fryd over JHVH.",
+      "number": 7
+    },
+    {
+      "text": "Jeg vil fløjte ad dem og samle dem,for jeg har løskøbt dem.De skal blive talrige,ligesom de var talrige.",
+      "number": 8
+    },
+    {
+      "text": "Jeg vil så dem blandt folkeslagene;i det fjerne skal de huske på mig.De og deres børn skal leve,og de skal vende hjem.",
+      "number": 9
+    },
+    {
+      "text": "Jeg vil føre dem tilbage fra Egyptens land;fra Assyrien vil jeg samle dem.Jeg vil føre dem til Gileads og Libanons land;der skal ikke være plads nok til dem.",
+      "number": 10
+    },
+    {
+      "text": "Han skal gå igennem trængselshavet;slå bølgerne i havet;alle Nilens strømme udtørres.Assyriens hovmod skal undertrykkes;Egyptens scepter skal fjernes.",
+      "number": 11
+    },
+    {
+      "text": "Jeg vil styrke dem i JHVH;i hans navn skal de vandre,siger JHVH.",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "Søg tilflugt hos JHVH i stedet for afguderne",
+      "verse": 1
+    },
+    {
+      "text": "JHVH vil føre Israel hjem",
+      "verse": 3
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Det hebraiske ord *fāqad* bruges både om >>hjemsøge<< og >>besøge<< i dette vers. Ordet kan altså både være negativt og positivt.",
+      "type": "E",
+      "verse": 3,
+      "position": 93
+    },
+    {
+      "text": "Ordret >>som af vin<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 68
+    },
+    {
+      "text": "Ordret: >>sønner<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 78
+    },
+    {
+      "text": "En anden mulighed er at oversætte sætningen med >>de skal give deres børn liv<<, eftersom >>børn<< er markeret som objekt i sætningen.",
+      "type": "E",
+      "verse": 9,
+      "position": 96
+    },
+    {
+      "text": "*yeor* skal ikke nødvendigvis forstås som Nilen, men kan forstås mere generelt om floder. Det er klart, at billedet i første omgang henviser til den første exodus fra Egypten, men i anden omgang udvides billedet til en ny exodus fra både Egypten og Assyrien – begge steder med berømte floder.",
+      "type": "E",
+      "verse": 11,
+      "position": 67
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 75,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Al-tashket.Salme af Asaf. En sang.",
+      "number": 1
+    },
+    {
+      "text": "Vi takker dig, Gud, vi takker,og dit navn er nært, dine undere fortæller om det.",
+      "number": 2
+    },
+    {
+      "text": ">>Når jeg griber den fastsatte tid,vil jeg dømme retfærdigt,",
+      "number": 3
+    },
+    {
+      "text": "Lad jorden og alle dens beboere ryste,jeg har dog selv sat dens søjler på plads<<. Sela",
+      "number": 4
+    },
+    {
+      "text": "Jeg sagde til de overmodige: >>Vær ikke overmodige!<<Og til de ugudelige: >>Løft ikke horn!",
+      "number": 5
+    },
+    {
+      "text": "Løft ikke jeres horn mod det høje,tal ikke frækt med knejsende nakke!<<",
+      "number": 6
+    },
+    {
+      "text": "For ikke fra øst eller fra vest,og heller ikke fra ørken er der ophøjelse.",
+      "number": 7
+    },
+    {
+      "text": "For Gud er den som dømmer,han fornedrer den ene og ophøjer den anden.",
+      "number": 8
+    },
+    {
+      "text": "For der er et bæger i JHVHs håndmed skummende vin, fuldt af krydderier,og han skænker ud deraf,selv dets bundfald må de slubre i sig og drikke, alle jordens ugudelige.",
+      "number": 9
+    },
+    {
+      "text": "Men jeg vil forkynde for evigt,jeg vil lovsynge Jakobs Gud.",
+      "number": 10
+    },
+    {
+      "text": "Og jeg vil hugge alle de ugudeliges horn af,en retfærdigs horn skal ophøjes.",
+      "number": 11
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Tak",
+      "verse": 2
+    },
+    {
+      "text": "Guds tale",
+      "verse": 3
+    },
+    {
+      "text": "Kaldet til omvendelse{E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men >>Sela<< (v.4) markerer oftest afrunding af et afsnit.}",
+      "verse": 5
+    },
+    {
+      "text": "Lovprisning",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: >>fordærv ikke/ødelæg ikke<<. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+      "type": "E",
+      "verse": 1,
+      "position": 27
+    },
+    {
+      "text": "I stedet for: *wᵊqārôv šᵊmexā* (>>og dit navn er nært<<) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: >>og den der påkalder dit navn, (fortæller om dine undere)<<. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: >>og vi påkalder dit navn<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 50
+    },
+    {
+      "text": "Kan også oversættes: >>de/man fortæller om dine undere<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 80
+    },
+    {
+      "text": "Kan også oversættes: >>Når<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 3
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 4,
+      "position": 87
+    },
+    {
+      "text": "Formodentlig er der især tænkt på gudløse.",
+      "type": "T",
+      "verse": 5,
+      "position": 28
+    },
+    {
+      "text": ">>ikke<< står ikke her i grundteksten, men dækkes af >>ikke<< i første linje i dette dobbelte udsagn.",
+      "type": "T",
+      "verse": 6,
+      "position": 42
+    },
+    {
+      "text": "Ordret: >>opgang<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 16
+    },
+    {
+      "text": "Ordret: >>undergang<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 32
+    },
+    {
+      "text": "Grundteksten har: >>fra ørkenens bjerge<<, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (>>bjerge<<) opfattes så bedre som infinitiv hif’il af verbet *rwm*: >>ophøje/ophøjelse<<.",
+      "type": "E",
+      "verse": 7,
+      "position": 74
+    }
+  ]
+}

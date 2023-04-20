@@ -1,0 +1,84 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 28,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Af David.Til dig, JHVHv, vil jeg råbe,min klippe, vend dig ikke tavs bort fra migså du tier over for mig,og jeg bliver som dem, der stiger ned i graven.",
+      "number": 1
+    },
+    {
+      "text": "Hør min tryglende røst,når jeg råber til dig om hjælp,når jeg løfter mine hændertil din helligdoms inderste rum.",
+      "number": 2
+    },
+    {
+      "text": "Riv mig ikke bort sammen med ugudeligeog med dem der begår synd,dem der taler fred med deres næste,skønt der er ondt i deres hjerte.",
+      "number": 3
+    },
+    {
+      "text": "Giv dem efter deres gerningog efter deres handlingers ondskab,giv dem efter deres hænders værk,gengæld dem deres handling.",
+      "number": 4
+    },
+    {
+      "text": "For de giver ikke agt på JHVHs gerninger,og heller ikke på hans hænders værk,han skal rive dem ned og ikke bygge dem op.",
+      "number": 5
+    },
+    {
+      "text": "Lovet være JHVH,for han har hørt min tryglende røst.",
+      "number": 6
+    },
+    {
+      "text": "JHVH er min styrke og mit skjold,på ham har mit hjerte stolet,og jeg blev hjulpet så mit hjerte jublede,og med min sang vil jeg takke ham.",
+      "number": 7
+    },
+    {
+      "text": "JHVH er styrke for sit folk,og han er en frelsende borg for sin salvede.",
+      "number": 8
+    },
+    {
+      "text": "Frels dit folk,og velsign din arv,og vogt dem og bær dem til evig tid.",
+      "number": 9
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Bøn om hjælp",
+      "verse": 2
+    },
+    {
+      "text": "Lovprisning og tak",
+      "verse": 6
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Dvs.: Ignorer mig ikke!",
+      "type": "T",
+      "verse": 1,
+      "position": 81
+    },
+    {
+      "text": "Telthelligdommens (senere: templets) Allerhelligste.",
+      "type": "T",
+      "verse": 2,
+      "position": 112
+    },
+    {
+      "text": "Ordret: >>ud af min sang<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 119
+    },
+    {
+      "text": "Den masoretiske tekst har *lāmô*: >>for dem<<. Rettelsen til *lᵊʕammô* (>>for sit folk<<) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.",
+      "type": "E",
+      "verse": 8,
+      "position": 28
+    }
+  ]
+}

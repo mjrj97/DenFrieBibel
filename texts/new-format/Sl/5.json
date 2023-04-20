@@ -1,0 +1,146 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 5,
+  "version": 1486335600000,
+  "verses": [
+    {
+      "text": "Til korlederen. Til fløjtespil. En Salme af David.",
+      "number": 1
+    },
+    {
+      "text": "Lyt til mine ord, JHVHv,læg mærke til min stønnen!",
+      "number": 2
+    },
+    {
+      "text": "Hør mit råb om hjælp,min konge og min Gud!For til dig beder jeg.",
+      "number": 3
+    },
+    {
+      "text": "JHVHv! Hør min røst om morgenen!Om morgenen fremlægger jeg min bøn for dig - og spejder.",
+      "number": 4
+    },
+    {
+      "text": "For du er ikke en Gud, der holder af ondskab,ondt kan ikke bo hos dig.",
+      "number": 5
+    },
+    {
+      "text": "De overmodige kan ikke træde frem for dine øjne!du hader alle dem der begår synd.",
+      "number": 6
+    },
+    {
+      "text": "Du udrydder dem der taler løgn.JHVH afskyr morderen og bedrageren.",
+      "number": 7
+    },
+    {
+      "text": "Men jeg kan ved din store nåde komme til dit hus,jeg vil i ærefrygt bøje mig i bøn vendt mod dit hellige tempeli ærefrygt for dig.",
+      "number": 8
+    },
+    {
+      "text": "JHVHv! led mig ved din retfærdighed for mine fjenders skyld,udjævn din vej foran mig!",
+      "number": 9
+    },
+    {
+      "text": "For i deres mund er intet sandt,deres indre er fordærv,deres strube er en åben grav,de gør deres tunge glat.",
+      "number": 10
+    },
+    {
+      "text": "Lad dem bøde for det, Gud!så de falder på grund af deres planer,driv dem væk for deres mange synders skyld,for de trodser dig.",
+      "number": 11
+    },
+    {
+      "text": "Men alle der søger tilflugt hos dig, skal glæde sig,til evig tid skal de juble,og du skal beskytte dem,og de der elsker dit navn,skal fryde sig i dig.",
+      "number": 12
+    },
+    {
+      "text": "For du velsigner en retfærdig, Herre!Du dækker ham med velbehag som med et skjold.",
+      "number": 13
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Bøn om bønhørelse",
+      "verse": 2
+    },
+    {
+      "text": "De onde kan ikke bestå for Gud, men David stoler på Guds nåde imod ham",
+      "verse": 5
+    },
+    {
+      "text": "David beder for sig og for alle troende imod fjendernes ondskab",
+      "verse": 9
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 14
+    },
+    {
+      "text": "Lidt usikkert. Det kan evt. være en melodiangivelse.",
+      "type": "T",
+      "verse": 1,
+      "position": 30
+    },
+    {
+      "text": "Verbet bruges i GT om at tilberede ofre, men kan i andre sammenhænge betyde >>fremlægge<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 54
+    },
+    {
+      "text": "Formodentlig er der tænkt på gudløse.",
+      "type": "T",
+      "verse": 6,
+      "position": 13
+    },
+    {
+      "text": "Ordret: >>blodets mand<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 51
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 8,
+      "position": 30
+    },
+    {
+      "text": "Der er formodentlig tænkt på templets Allerhelligste, hvor pagtens ark stod. Kun ypperstepræsten måtte træde derind, og kun én dag om året. David stod i forgården.",
+      "type": "E",
+      "verse": 8,
+      "position": 111
+    },
+    {
+      "text": "*lᵊmaʕan* betyder ordret >>for … skyld<<, men oversættes her ofte >>mod<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 60
+    },
+    {
+      "text": "Ordret: >>for mit ansigt<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 85
+    },
+    {
+      "text": "Modstandernes ønske er at føre bort fra Gud, i fordærv.",
+      "type": "T",
+      "verse": 10,
+      "position": 54
+    },
+    {
+      "text": "Meningen kan enten være at de falder i egne fælder, eller at deres planer mislykkes.",
+      "type": "T",
+      "verse": 11,
+      "position": 63
+    }
+  ]
+}

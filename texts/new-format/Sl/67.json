@@ -1,0 +1,96 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 67,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Til korlederen. Med strengespil.En salme. En sang.",
+      "number": 1
+    },
+    {
+      "text": "Gud være os nådig og velsigne os,han lade sit ansigt lyse hos os, Sela",
+      "number": 2
+    },
+    {
+      "text": "så man kan kende din vej på jorden,din frelse blandt alle folkeslag!",
+      "number": 3
+    },
+    {
+      "text": "Folkene skal prise dig, Gud,alle folk skal prise dig.",
+      "number": 4
+    },
+    {
+      "text": "Folkeslag skal glæde sig og juble,for du dømmer folkene retfærdigt,og du leder folkeslag på jorden. Sela",
+      "number": 5
+    },
+    {
+      "text": "Folkene skal prise dig, Gud,alle folk skal prise dig.",
+      "number": 6
+    },
+    {
+      "text": "Landet har givet sin afgrøde.Gud, vor Gud, velsigne os.",
+      "number": 7
+    },
+    {
+      "text": "Gud velsigne os,og alle jordens ender skal frygte ham.",
+      "number": 8
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Velsign!",
+      "verse": 2
+    },
+    {
+      "text": "Alle skal prise Gud",
+      "verse": 4
+    },
+    {
+      "text": "Gud har velsignet – velsign igen!",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "Den hebraiske tekst har her ikke præpositionen *ʔel* (>>over/hen imod<<, 4 Mos 6,25), men: *ʔēt*: >>hos/med<<.",
+      "type": "E",
+      "verse": 2,
+      "position": 61
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 2,
+      "position": 70
+    },
+    {
+      "text": "Kan også oversættes: >>hedninger<<, men det er næppe det der er lagt vægt på her.",
+      "type": "T",
+      "verse": 3,
+      "position": 68
+    },
+    {
+      "text": "Det er omdiskuteret om der her skal oversættes >>landet<< eller >>jorden<<. Sidstnævnte bruges dog ikke om agerjord.",
+      "type": "T",
+      "verse": 7,
+      "position": 6
+    },
+    {
+      "text": "*yᵊvārēx* kan opfattes som enten jussiv (her, som i v.2) eller som yiqtol: >>vil velsigne<<. Begge oversættelser giver god mening.",
+      "type": "T",
+      "verse": 7,
+      "position": 51
+    }
+  ]
+}

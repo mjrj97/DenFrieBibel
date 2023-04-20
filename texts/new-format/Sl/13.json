@@ -1,0 +1,60 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 13,
+  "version": 1666562400000,
+  "verses": [
+    {
+      "text": "Til korlederen.\n\tSalme af David.",
+      "number": 1
+    },
+    {
+      "text": "Hvor længe,\n\t\t\t\t\tJHVHv,\n\t\t\t\tvil du evigt glemme mig?\n\t\t\tHvor længe vil du skjule dit ansigt for mig?",
+      "number": 2
+    },
+    {
+      "text": "\t\t\t\tHvor længe skal jeg have bekymringer i min sjæl,\n\t\t\t\t\t\tdagligt have sorg i mit hjerte?\n\t\t\t\t\tHvor længe skal min fjende triumfere over mig?",
+      "number": 3
+    },
+    {
+      "text": "\t\tSe til mig,\n\t\t\tsvar mig,\n\t\t\t\tJHVHv min Gud!\n\t\tGiv mine øjne lys\n\t\t\t\t\tså jeg ikke sover ind i døden,",
+      "number": 4
+    },
+    {
+      "text": "\t\t\t\tså ikke min fjende skal sige:\n\t\t\t\t\t\t>>Jeg vandt over ham<<,\n\t\t\t\t\tmin modstander juble over\n\t\t\t\t\t\tat jeg snubler.",
+      "number": 5
+    },
+    {
+      "text": "\t\t\tMen jeg stoler på din nåde{N: nåde},\n\t\t\t\tmit hjerte skal juble over din frelse.\n\tJeg vil synge for JHVH,\n\t\tfor han har gjort vel imod mig.",
+      "number": 6
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Hvor længe?",
+      "verse": 2
+    },
+    {
+      "text": "Klagende bøn",
+      "verse": 4
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 15
+    },
+    {
+      "text": "*ʕēṣôt* betyder normalt >>planer<<. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: >>smerter<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 40
+    }
+  ]
+}

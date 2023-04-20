@@ -1,0 +1,62 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 15,
+  "version": 1475704800000,
+  "verses": [
+    {
+      "text": "Salme af David.JHVHv, hvem kan nyde gæstevenskab i dit telt?Hvem kan bo på dit hellige bjerg?",
+      "number": 1
+    },
+    {
+      "text": "Den som vandrer retskaffent,og som øver retfærdighedog taler sandhed i sit hjerte;",
+      "number": 2
+    },
+    {
+      "text": "den som ikke løber omkring og bagtaler med sin tunge,ikke gør sin næste ondtog ikke bringer skam over sin nærmeste;",
+      "number": 3
+    },
+    {
+      "text": "den som foragter den forkastede,og som ærer dem der frygter JHVH,den som ikke bryder hvad han har svoret, selvom det skader ham;",
+      "number": 4
+    },
+    {
+      "text": "den som ikke låner sine penge ud mod renter{T: Det hebraiske ord dækker både >>renter<< og >>åger<<.}og ikke tager imod bestikkelse i sager mod en uskyldig.Den der gør disse ting, skal ikke rokkes i evighed.",
+      "number": 5
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Hvem kan komme til Gud?",
+      "verse": 2
+    },
+    {
+      "text": "Svar til selvprøvelse",
+      "verse": 2
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Den, der blev modtaget som >>gæst<< hos orientaleren, fik tilsagt venskab og beskyttelse. Gæsten kunne vide sig helt under værtens beskyttelse og omsorg.",
+      "type": "E",
+      "verse": 1,
+      "position": 48
+    },
+    {
+      "text": "Ordret >>den i hvis øjne den forkastede er foragtet.",
+      "type": "T",
+      "verse": 4,
+      "position": 32
+    },
+    {
+      "text": "Linjen er på kun 4 ord på hebraisk, og oversættelsen er usikker. Ordret: >>som sværger at skade og ændrer det ikke<<. Meningen er formodentlig at skønt en ed viser sig at have andre (skadelige) konsekvenser end den sværgende forudså, holder han den alligevel. Andre vil forstå *lᵊ* (>>at<<) separativt: >>Han sværger ikke at skade og svigter det ikke<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 128
+    }
+  ]
+}

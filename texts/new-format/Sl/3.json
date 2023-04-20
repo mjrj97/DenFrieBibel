@@ -1,0 +1,100 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 3,
+  "version": 1486335600000,
+  "verses": [
+    {
+      "text": "En salme af David, da han flygtede for sin søn Absalom.",
+      "number": 1
+    },
+    {
+      "text": "JHVHv! hvor er mine fjender mange;mange rejser sig imod mig!",
+      "number": 2
+    },
+    {
+      "text": "Mange siger om mig:Der er ingen frelse for ham hos Gud. Sela",
+      "number": 3
+    },
+    {
+      "text": "Men du, JHVHv! er et skjold for mig,min ære,den der løfter mit hoved.",
+      "number": 4
+    },
+    {
+      "text": "Jeg råber højt til JHVH,og han svarer mig fra sit hellige bjerg. Sela",
+      "number": 5
+    },
+    {
+      "text": "Jeg lagde mig og sov;jeg vågnede, for JHVH støtter mig.",
+      "number": 6
+    },
+    {
+      "text": "Jeg vil ikke frygte for en skare på ti tusindder har rejst sig imod mig fra alle sider.",
+      "number": 7
+    },
+    {
+      "text": "Rejs dig, JHVHv! frels mig, min Gud!For du har slået alle mine fjender på kinden;de ugudeliges tænder har du knust.",
+      "number": 8
+    },
+    {
+      "text": "Hos JHVH er frelsen.Lad din velsignelse være over dit folk!{E: Ordret blot: >>Over dit folk din velsignelse<<. Sætningen opfattes oftest som et velsignelsesønske, men den kan også oversættes: >>Din velsignelse er over dit folk!<<} Sela",
+      "number": 9
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Davids nød",
+      "verse": 2
+    },
+    {
+      "text": "Davids håb og tillid",
+      "verse": 4
+    },
+    {
+      "text": "David beder om hjælp og nåde",
+      "verse": 8
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>for sin søn Absaloms ansigt<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 55
+    },
+    {
+      "text": "Ordret: >>om min sjæl<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 19
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 3,
+      "position": 60
+    },
+    {
+      "text": "Med det bibelske ord *kᵊvôdî* er der ikke så meget tænkt på herlighed og højagtelse som på menneskeværd. Dvs. Gud er den der giver mig værdi som menneske. Grundbetydningen af roden *kbd* er >>tyngde<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 44
+    },
+    {
+      "text": "Ordret: >>Min stemme – jeg råber til JHVH<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 24
+    },
+    {
+      "text": "Ordet *ʕām* (>>folk/skare<<) kan her være brugt om både Absaloms tilhængere og om hans og fjendtlige folks soldater.",
+      "type": "T",
+      "verse": 7,
+      "position": 45
+    }
+  ]
+}

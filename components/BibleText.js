@@ -45,14 +45,14 @@ function BibleText (props) {
 
     if (verses !== undefined) {
         for (let i = 0; i < verses.length; i++) {
-            let verse = verses[i];
-            let title = subtitles.find(({verse}) => verse === "" + (i+1));
+            let currentVerse = verses[i];
+            let title = subtitles.find(({verse}) => verse === currentVerse.number);
 
             if (title !== undefined) {
                 lines.push({type: "subtitle", text: title.text});
             }
 
-            lines.push({type: "verse", text: verse}); 
+            lines.push({type: "verse", content: { text: currentVerse.text.replace(/JHVH/g, settings.godsName), number: currentVerse.number }}); 
         }
     }
 
@@ -64,8 +64,6 @@ function BibleText (props) {
     }
 
     //https://stackoverflow.com/questions/6582233/hash-in-anchor-tags
-    let verseNumber = 0;
-    
     let bibleText = (
         (lines.length !== 0) ? (
             lines.map((line, i) => {
@@ -75,18 +73,17 @@ function BibleText (props) {
                     case "error":
                         return (<Error key={i}>{line.text}</Error>);
                     case "verse":
-                        verseNumber++;
-                        
+                        let verse = line.content;
                         let footnotesInVerse = [];
 
                         if (settings.showFootnotes) {
                             for (let j = 0; j < footnotes.length; j++) {
-                                if (footnotes[j].verse === verseNumber)
+                                if (footnotes[j].verse === verse.number)
                                     footnotesInVerse.push(footnotes[j]);
                             }
                         }
 
-                        return (<Verse key={i} verseNumber={settings.showVerseNumber ? verseNumber : undefined} footnotes={footnotesInVerse} text={line.text.replace(/HERREN/g, settings.godsName)}/>);
+                        return (<Verse key={i} verseNumber={settings.showVerseNumber ? verse.number : undefined} footnotes={footnotesInVerse} text={verse.text}/>);
                     default:
                         return (<p>{line.text}</p>)
                 }
@@ -107,7 +104,6 @@ function BibleText (props) {
                 </div>
             )}
         </div>
-        
     )
 }
 

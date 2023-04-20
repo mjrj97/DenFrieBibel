@@ -1,0 +1,86 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 101,
+  "version": 1616454000000,
+  "verses": [
+    {
+      "text": "Af David. En salme.Om nåde og ret vil jeg synge,dig, JHVHv, vil jeg lovsynge.",
+      "number": 1
+    },
+    {
+      "text": "Jeg vil indprente mig en fuldkommen vej –hvornår vil du komme til mig?Jeg vil vandre i mit hjertes oprigtighedi mit hus.",
+      "number": 2
+    },
+    {
+      "text": "Jeg vil ikke sætte migen nederdrægtig sag for øje;jeg har hadet at begå overtrædelser,det skal ikke hænge ved mig.",
+      "number": 3
+    },
+    {
+      "text": "Et falsk hjerte skal vige fra mig,en ond vil jeg ikke vide af.",
+      "number": 4
+    },
+    {
+      "text": "Den som i hemmelighed bagtaler sin næste,ham vil jeg udslette.Den som har stolte øjne og hovmodigt hjerte,ham vil jeg ikke tåle.",
+      "number": 5
+    },
+    {
+      "text": "Mine øjne skal hvile på de trofaste i landetfor at de skal bo hos mig.Den som vandrer ad fuldkommen vej,han skal tjene mig.",
+      "number": 6
+    },
+    {
+      "text": "I mit hus skal ingen bosom handler bedragerisk.Den som taler løgn, skal ikke beståfor mine øjne.",
+      "number": 7
+    },
+    {
+      "text": "Hver morgen vil jeg udslette{T: Kan også oversættes: >>bringe til tavshed<<, jf. v.5.}alle landets ugudeligefor at udrydde fra JHVHs byalle dem som begår synd.",
+      "number": 8
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Kongen lover renhed i sit personlige liv",
+      "verse": 2
+    },
+    {
+      "text": "Kongen lover retfærdighed og oprigtighed i forhold til sit folk",
+      "verse": 4
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 1,
+      "position": 26
+    },
+    {
+      "text": "Ordene: >>for øje<< hører i grundteksten til foregående linje.",
+      "type": "T",
+      "verse": 3,
+      "position": 50
+    },
+    {
+      "text": "Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (>>at begå<<) forudsætter: *ʕōśê*: >>dem der begår<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 71
+    },
+    {
+      "text": "Kan også oversættes: >>bringe til tavshed<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 62
+    },
+    {
+      "text": "Ordret: >>bedrag<<.",
+      "type": "T",
+      "verse": 7,
+      "position": 47
+    }
+  ]
+}

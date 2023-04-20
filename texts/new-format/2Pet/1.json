@@ -1,0 +1,29 @@
+{
+  "book": "Peters Andet Brev",
+  "abbreviation": "2Pet",
+  "chapter": 1,
+  "version": 1643065200000,
+  "verses": [
+    {
+      "text": "For vi har ikke fulgt kløgtigt opdigtede fabler da vi forkyndte vor Herres Jesu Kristi magt og komme for jer, men vi har været øjenvidner til hans majestæt,",
+      "number": 16
+    },
+    {
+      "text": "for han fik ære og herlighed af Gud Fader da denne røst lød til ham fra den majestætiske herlighed: >>Denne er min søn, den elskede, i hvem jeg har velbehag.<<",
+      "number": 17
+    },
+    {
+      "text": "Og vi hørte denne røst lyde fra himlen da vi var med ham på det hellige bjerg.",
+      "number": 18
+    }
+  ],
+  "titles": [],
+  "footnotes": [
+    {
+      "text": "Ordret: >>en sådan<<.",
+      "type": "T",
+      "verse": 17,
+      "position": 50
+    }
+  ]
+}

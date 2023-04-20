@@ -1,0 +1,84 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 2,
+  "version": 1666562400000,
+  "verses": [
+    {
+      "text": "Hvorfor er folkeslagene i oprør,\n\t\t\t\t\t\tog hvorfor udtænker folkene tomhed?",
+      "number": 1
+    },
+    {
+      "text": "\t\t\t\t\tJordens konger rejser sig;\n\t\t\t\t\t\tfyrsterne rådslår sammenimod JHVH og imod hans salvede:",
+      "number": 2
+    },
+    {
+      "text": "\t\t\t\t\t\t\t>>Lad os sønderrive deres lænker\n\t\t\t\t\t\t\t\tog kaste deres reb af os!<<",
+      "number": 3
+    },
+    {
+      "text": "\t\t\t\t\tHan som troner i Himlen,\n\t\t\t\tler;\n\t\t\t\t\t\tJHVH spotter dem.",
+      "number": 4
+    },
+    {
+      "text": "\t\t\t\t\tSå vil han tale til dem i sin vrede;\n\t\t\t\t\t\t\tforfærde dem ved sin harme:",
+      "number": 5
+    },
+    {
+      "text": "\t\t\t\t\t\t>>Jeg har dog indsat min kongeover Zion, mit hellige bjerg.<<",
+      "number": 6
+    },
+    {
+      "text": "\t\t\tJeg vil forkynde JHVHs dekret.\n\t\t\t\tHan sagde til mig:\n\t\t\t\t\t>>Du er min søn;\n\t\t\t\t\t\t\tjeg har født dig i dag.",
+      "number": 7
+    },
+    {
+      "text": "\t\t\t\t\t\tBed mig om det,\n\t\t\t\t\t\t\tså vil jeg give dig folkene som din arv;\n\t\t\t\t\t\t\t\t\tjordens yderste ender som din ejendom.",
+      "number": 8
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tDu skal knuse dem med et jernscepter;\n\t\t\t\t\t\t\t\t\tsom en pottemagers lertøj skal du smadre dem.<<",
+      "number": 9
+    },
+    {
+      "text": "\t\tOg nu,\n\t\t\t\tI konger,\n\t\t\tvær kloge!\n\t\t\tLad jer belære,\n\t\t\t\tI jordens dommere!",
+      "number": 10
+    },
+    {
+      "text": "\t\t\tTjen JHVH med frygt;\n\t\t\t\tfryd jer med bæven!",
+      "number": 11
+    },
+    {
+      "text": "\t\t\tKys sønnen{E: Oftest flyttes nu ordene *naššᵊqû-var* (>>kys sønnen<<) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.}\n\t\t\t\tså han ikke bliver vred\n\t\t\t\t\t\tog I omkommer på vejen;\n\t\t\t\t\tfor hans vrede optændes hastigt.\n\tSalig enhver\n\t\tsom søger tilflugt hos ham!",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "David profeterer om Messias' rige. Mennesker gør oprør imod JHVH og hans salvede, men det er forgæves og til deres egen ulykke",
+      "verse": 1
+    },
+    {
+      "text": "Guds salvede konge skal regere",
+      "verse": 7
+    },
+    {
+      "text": "Derfor formaner David til omvendelse og lydighed",
+      "verse": 10
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "*gôyim* oversættes ofte >>hedninger<< (også 1871), men parallellen viser at det her må opfattes bredere.",
+      "type": "T",
+      "verse": 1,
+      "position": 23
+    },
+    {
+      "text": "*lāmmāʰ* (>>hvorfor<<) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.",
+      "type": "T",
+      "verse": 1,
+      "position": 49
+    }
+  ]
+}

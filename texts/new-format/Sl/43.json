@@ -1,0 +1,54 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 43,
+  "version": 1614207600000,
+  "verses": [
+    {
+      "text": "Skaf mig ret, Gud!og før min sag imod et folk uden mildhed,red mig fra en bedragerisk og uretfærdig mand!",
+      "number": 1
+    },
+    {
+      "text": "For du, min tilflugts Gud,hvorfor har du forkastet mig?Hvorfor skal jeg gå omkring og sørge,idet en fjende trænger mig?",
+      "number": 2
+    },
+    {
+      "text": "Send dit lys og din sandhedså de kan lede mig,de må bringe mig til dit hellige bjergog til dine boliger.",
+      "number": 3
+    },
+    {
+      "text": "Så kommer jeg til Guds alter,til min glædes og jubels Gud,og vil takke dig med citer,Gud, min Gud!",
+      "number": 4
+    },
+    {
+      "text": "Hvorfor er du nedbøjet, min sjæl?Og hvorfor er du i oprør i mig?Vent på Gud, for jeg skal takke ham på ny,mit ansigts frelse og min Gud.",
+      "number": 5
+    }
+  ],
+  "titles": [
+    {
+      "text": "Bøn om at måtte komme til Gud igen",
+      "verse": 1
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan også oversættes: >>døm mig<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Ordret: >>fæstnings<<.",
+      "type": "T",
+      "verse": 2,
+      "position": 21
+    },
+    {
+      "text": "Der er formodentlig tænkt på templet, hvor pluralis skal understrege storheden, rigdommen og helligheden i Guds tempel.",
+      "type": "T",
+      "verse": 3,
+      "position": 104
+    }
+  ]
+}

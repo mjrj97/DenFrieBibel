@@ -1,0 +1,166 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 33,
+  "version": 1457218800000,
+  "verses": [
+    {
+      "text": "Bryd ud i jubel, I retfærdige i Herren!For de retskafne er det passende med lovsang.",
+      "number": 1
+    },
+    {
+      "text": "Pris JHVH med citer,spil for ham på tistrenget harpe.",
+      "number": 2
+    },
+    {
+      "text": "Syng ham en ny sang,spil lifligt på strengene til jubelråb.",
+      "number": 3
+    },
+    {
+      "text": "For JHVHs ord er retskaffent,og al hans gerning er trofast.",
+      "number": 4
+    },
+    {
+      "text": "Han elsker retfærdighed og ret,JHVHs nåde opfylder jorden.",
+      "number": 5
+    },
+    {
+      "text": "Ved JHVHs ord blev himlen skabt,og ved hans munds ånde hele dens hær.",
+      "number": 6
+    },
+    {
+      "text": "Han samler havets vand som en vold,han lægger urdybene i forrådskamre.",
+      "number": 7
+    },
+    {
+      "text": "Hele jorden skal frygte JHVH,alle verdens indbyggere skal skælve for ham!",
+      "number": 8
+    },
+    {
+      "text": "For han talte, og det skete,han befalede, og det stod der.",
+      "number": 9
+    },
+    {
+      "text": "JHVH gjorde folkenes råd til intet,han hindrede folkeslagenes tanker.",
+      "number": 10
+    },
+    {
+      "text": "JHVHs råd består til evig tid,hans hjertes tanker i generation efter generation.",
+      "number": 11
+    },
+    {
+      "text": "Saligt er det folk, hvis Gud JHVH er,folket som han udvalgte sig til ejendom.",
+      "number": 12
+    },
+    {
+      "text": "Fra himlen skuede JHVH ned,han betragtede alle menneskenes børn.",
+      "number": 13
+    },
+    {
+      "text": "Fra stedet, hvor han troner, så hantil alle jordens beboere.",
+      "number": 14
+    },
+    {
+      "text": "Han er den som alene danner deres hjerte,som giver agt på alle deres gerninger.",
+      "number": 15
+    },
+    {
+      "text": "Ingen konge frelses ved en stor hær,en helt reddes ikke ved stor kraft.",
+      "number": 16
+    },
+    {
+      "text": "Hesten er et falsk håb som hjælper,ja, ved sin store styrke kan den ikke redde.",
+      "number": 17
+    },
+    {
+      "text": "Se, JHVHs øje er vendt til dem som frygter ham,til dem som tålmodigt venter på hans nåde,",
+      "number": 18
+    },
+    {
+      "text": "for at fri deres sjæl fra dødog holde dem i live under hungersnøden.",
+      "number": 19
+    },
+    {
+      "text": "Vor sjæl ventede på JHVH,han er vor hjælp og vort skjold.",
+      "number": 20
+    },
+    {
+      "text": "Ja, over ham skal vort hjerte glæde sig,for vi har stolet på hans hellige navn.",
+      "number": 21
+    },
+    {
+      "text": "Lad din nåde, JHVHv, være over os,sådan som vi har ventet på dig!",
+      "number": 22
+    }
+  ],
+  "titles": [
+    {
+      "text": "Opfordring til lovsang",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning af JHVHs ords skabende og frelsende magt",
+      "verse": 4
+    },
+    {
+      "text": "Lovprisning af JHVHs råd",
+      "verse": 10
+    },
+    {
+      "text": "Lovprisning af JHVHs alvidenhed",
+      "verse": 13
+    },
+    {
+      "text": "Lovprisning af JHVHs omsorgsfulde magt",
+      "verse": 16
+    },
+    {
+      "text": "Afsluttende bekendelse til JHVH som skaber og frelser",
+      "verse": 20
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Kan evt. også oversættes: >>Bryd ud i jubel for JHVH, I retfærdige<<",
+      "type": "T",
+      "verse": 1,
+      "position": 39
+    },
+    {
+      "text": "*šāmayim* (>>himmel<<) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også >>deres hær<< i næste linje)",
+      "type": "E",
+      "verse": 6,
+      "position": 25
+    },
+    {
+      "text": "Ofte retter man vokaliseringen af *kannēd* (>>som en vold<<) til *kannōd* = *kannō ʔd*: >>som (i) en lædersæk<<. Som teksten står, kan den ses som henvisning til 2 Mos 15,8",
+      "type": "E",
+      "verse": 7,
+      "position": 35
+    },
+    {
+      "text": "Kan også oversættes >>hedningernes<<",
+      "type": "T",
+      "verse": 10,
+      "position": 20
+    },
+    {
+      "text": "Kan også oversættes: >>hvor han bor<<",
+      "type": "T",
+      "verse": 14,
+      "position": 28
+    },
+    {
+      "text": "Meningen med ordet *yaḥad* (>>alene<<)er usikker. Oftest betyder det >>sammen<<, men det giver næppe mening her. Det kan evt. betyde >>alle<<, men det taler sætningsbygningen imod. En mulighed er at forstå det som >>individuelt<<; det kræver dog en anden vokalisering (*yāḥid*)",
+      "type": "E",
+      "verse": 15,
+      "position": 20
+    },
+    {
+      "text": "Der er tænkt på krig",
+      "type": "T",
+      "verse": 17,
+      "position": 35
+    }
+  ]
+}

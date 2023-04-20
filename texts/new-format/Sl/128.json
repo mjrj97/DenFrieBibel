@@ -1,0 +1,66 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 128,
+  "version": 1504476000000,
+  "verses": [
+    {
+      "text": "Valfartssang.Lykkelig hver den som frygter JHVH,som går på hans veje!",
+      "number": 1
+    },
+    {
+      "text": "Frugten af dine hænders arbejde skal du rigtig nok spise,lykkelig er du, og det skal gå dig vel.",
+      "number": 2
+    },
+    {
+      "text": "Din hustru er som en frugtbar vinstoki dit hus’ indre,dine sønner er som oliventræers skudomkring dit bord.",
+      "number": 3
+    },
+    {
+      "text": "Ja, se sådan velsignes den mandsom frygter JHVH.",
+      "number": 4
+    },
+    {
+      "text": "JHVH velsigne dig fra Zionså du ser Jerusalems lykkealle dit livs dage,",
+      "number": 5
+    },
+    {
+      "text": "og så du ser dine sønners sønner!Fred over Israel!",
+      "number": 6
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Den gudfrygtiges lykke",
+      "verse": 2
+    },
+    {
+      "text": "JHVH velsigne dig",
+      "verse": 5
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Se note til Sl 120,1.",
+      "type": "E",
+      "verse": 1,
+      "position": 13
+    },
+    {
+      "text": "Kan også oversættes: >>salig<<.",
+      "type": "T",
+      "verse": 1,
+      "position": 21
+    },
+    {
+      "text": "Ordret: >>aflæggere/stiklinger af oliventræer<<.",
+      "type": "T",
+      "verse": 3,
+      "position": 90
+    }
+  ]
+}

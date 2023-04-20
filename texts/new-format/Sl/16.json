@@ -1,0 +1,118 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 16,
+  "version": 1475704800000,
+  "verses": [
+    {
+      "text": "Miktam af DavidBevar mig, Gud, for jeg søger tilflugt hos dig.",
+      "number": 1
+    },
+    {
+      "text": "Jeg sagde til JHVH: >>Du er min Herre,jeg har intet gode ud over dig.",
+      "number": 2
+    },
+    {
+      "text": "De hellige, de som er i landet,og de ædle har jeg alt mit velbehag i<<.",
+      "number": 3
+    },
+    {
+      "text": "Mangfoldige bliver deres smerter, som bejler til en anden.Jeg vil ikke udgyde deres drikofre af blodog ikke bringe deres navne over mine læber.",
+      "number": 4
+    },
+    {
+      "text": "JHVHv, min tilmålte del og mit bæger,du sikrer min lod.",
+      "number": 5
+    },
+    {
+      "text": "Målesnorene faldt for mig på skønne steder,ja, en dejlig arv tilfaldt mig.",
+      "number": 6
+    },
+    {
+      "text": "Jeg vil prise JHVH, som gav mig råd,ja, mine nyrer vejleder mig om natten.",
+      "number": 7
+    },
+    {
+      "text": "Jeg har altid JHVH for øje,for han er ved min højre side;jeg skal ikke vakle.",
+      "number": 8
+    },
+    {
+      "text": "Derfor glæder mit hjerte sig, og min ære jubler,ja, mit kød skal bo i tryghed.",
+      "number": 9
+    },
+    {
+      "text": "For du vil ikke overlade min sjæl til dødsriget,du vil ikke lade din hellige se graven.",
+      "number": 10
+    },
+    {
+      "text": "Du vil lære mig livets vej,der er fuldendt glæde for dit ansigt,der er altid skønne ting i din højre hånd.",
+      "number": 11
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Tilflugt hos Gud",
+      "verse": 2
+    },
+    {
+      "text": "Glæden ved at høre til hos Gud",
+      "verse": 2
+    },
+    {
+      "text": "Tillid til JHVH",
+      "verse": 7
+    },
+    {
+      "text": "Tryghed over for døden",
+      "verse": 9
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<, eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 56-60) fastholde en alvorlig situation i folkets erindring.",
+      "type": "T",
+      "verse": 1,
+      "position": 6
+    },
+    {
+      "text": "Ordret: >>Du sagde<<. I så fald må man underforstå >>min sjæl<< eller lade v. 2-4a være rettet til en anden person (fem.!). Man vokaliserer oftest som 1. pers. Teksten i v. 2-4 er i det hele taget usikker og til dels uigennemskuelig.",
+      "type": "E",
+      "verse": 2,
+      "position": 3
+    },
+    {
+      "text": "Underforstået >>en anden gud<<. Mange retter vokaliseringen af *māhārû* (>>betale brudesum, bejle<<) til: *mihᵃrû*: >>løbe efter<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 58
+    },
+    {
+      "text": "Betyder også >>velsigne<<.",
+      "type": "E",
+      "verse": 7,
+      "position": 13
+    },
+    {
+      "text": "Grundtekstens >>min ære jubler<< skal sandsynligvis forstås som >>min sjæl jubler<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 48
+    },
+    {
+      "text": "Hebraisk: *šᵊʔôl*.",
+      "type": "E",
+      "verse": 10,
+      "position": 48
+    },
+    {
+      "text": "Tidligere oversat: >>forrådnelse<<, i nogen grad med støtte i LXX.",
+      "type": "E",
+      "verse": 10,
+      "position": 87
+    }
+  ]
+}

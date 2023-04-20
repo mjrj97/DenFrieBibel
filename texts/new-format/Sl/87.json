@@ -1,0 +1,106 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 87,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "Af Koras sønner. En salme. En sang.Hans grundlagte by er på hellige bjerge.",
+      "number": 1
+    },
+    {
+      "text": "JHVH elsker Zions portefrem for alle Jakobs boliger.",
+      "number": 2
+    },
+    {
+      "text": "Herlige ting er sagt om dig,du Guds by! Sela",
+      "number": 3
+    },
+    {
+      "text": "Jeg vil nævne Rahab og Babylon blandt dem som kender mig,og også Filistæa og Tyrus samt Kush:>>Denne, han er født dér.<<",
+      "number": 4
+    },
+    {
+      "text": "Men om Zion skal der siges: >>Hver og en er født i hende,og han, den Højeste, skal befæste hende.<<",
+      "number": 5
+    },
+    {
+      "text": "JHVH skal tælle, når han skriver folkene op:>>Denne er født dér.<< Sela",
+      "number": 6
+    },
+    {
+      "text": "Og dansende synger de:{E: Ordret blot: >>Og syngende som dansende<<. Meningen er enten, at de danser mens de synger, eller at de synger med samme glæde og jubel som dansende udstråler, eller at både syngende og dansende udtrykker det der ligger i den følgende sætning.}>>Alle mine kilder er i dig.<<",
+      "number": 7
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "Lovprisning af Zion",
+      "verse": 2
+    },
+    {
+      "text": "Zion – et bedehus for alle folk",
+      "verse": 4
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>Hans grundlæggelse på hellige bjerge<<. Der er flere rettelsesforslag (som dog næppe er nødvendige), enklest dog at rette: *yᵊsûdātô* (>>hans grundlæggelse<<) til: *yāsôd ʕîrô*: >>han har grundlagt sin by<<.",
+      "type": "E",
+      "verse": 1,
+      "position": 75
+    },
+    {
+      "text": "Præpositionen *bᵊ* kan betyde både >>om<< og >>i<<, og begge betydninger giver mening her. Men betydningen >>om<< er den almindeligste i forbindelse med verbet *dbr* (>>sige<<.",
+      "type": "E",
+      "verse": 3,
+      "position": 23
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 3,
+      "position": 44
+    },
+    {
+      "text": "Dermed menes Egypten. Sl 89,10-11; Es 30,7; 51,9-10.",
+      "type": "T",
+      "verse": 4,
+      "position": 19
+    },
+    {
+      "text": "Ordret: >>se<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 64
+    },
+    {
+      "text": "Det er Nubien, tidligere ofte oversat Etiopien.",
+      "type": "T",
+      "verse": 4,
+      "position": 93
+    },
+    {
+      "text": "Det er hvert af de nævnte folk.",
+      "type": "T",
+      "verse": 4,
+      "position": 101
+    },
+    {
+      "text": "Ordret: >>mand og mand<<",
+      "type": "T",
+      "verse": 5,
+      "position": 40
+    },
+    {
+      "text": "Det er henvisning til >>Zion<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 57
+    }
+  ]
+}

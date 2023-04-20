@@ -1,0 +1,72 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 23,
+  "version": 1466114400000,
+  "verses": [
+    {
+      "text": "En salme af David.JHVH er min hyrde,\n\t\t\tjeg skal intet mangle.",
+      "number": 1
+    },
+    {
+      "text": "\t\tHan lader mig ligge i grønne græsgange;\n\t\t\than leder mig til hvilens vande.",
+      "number": 2
+    },
+    {
+      "text": "\t\t\t\t\tHan giver min sjæl nye kræfter;\n\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
+      "number": 3
+    },
+    {
+      "text": "\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens dal,\n\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\n\t\t\t\t\t\t\tfor du er med mig;\n\t\t\t\t\t\t\t\t\tdin kæp og din stav,\n\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
+      "number": 4
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tDu dækker bord for migfor øjnene af mine fjender;\n\t\t\t\t\t\t\t\t\t\tdu har salvet mit hoved med olie,\n\t\t\t\t\t\t\t\t\tmit bæger flyder over.",
+      "number": 5
+    },
+    {
+      "text": "\tKun godhed og nåde{N: nåde} skal følge migalle mine livsdage,\n\t\tog jeg skal blive{E: *wᵊšavtî* betyder: >>og jeg skal vende tilbage<<. Det passer dårligt til den følgende præposition *bᵊ* (>>i<<). Man vokaliserer ofte * wᵊšivtî*: >>og min boen<< eller *wᵊyāšavtî*: >>og jeg skal bo<<.} i JHVHs hushele livet{T: Egentlig: >>i dages udstrækning<<, dvs. >>alle dage, hele livet<<.}.",
+      "number": 6
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt",
+      "verse": 2
+    },
+    {
+      "text": "Trøst og glæde i JHVH, som er den gæstfrie vært",
+      "verse": 5
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.",
+      "type": "E",
+      "verse": 2,
+      "position": 76
+    },
+    {
+      "text": "Stier der fører til målet for Guds trofaste retfærdigheds skyld.",
+      "type": "E",
+      "verse": 3,
+      "position": 77
+    },
+    {
+      "text": "*ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwet* (>>død<<). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 45
+    },
+    {
+      "text": "Ordret: >>over for<<",
+      "type": "T",
+      "verse": 5,
+      "position": 43
+    }
+  ]
+}

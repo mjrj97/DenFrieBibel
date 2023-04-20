@@ -1,0 +1,98 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 24,
+  "version": 1466114400000,
+  "verses": [
+    {
+      "text": "En salme af David.JHVHs er jorden og dens fylde,verden og dens beboere.",
+      "number": 1
+    },
+    {
+      "text": "For han grundlagde den på havene;gjorde den fast på strømmene.",
+      "number": 2
+    },
+    {
+      "text": "Hvem kan gå op på JHVHs bjerg?Hvem kan stå på hans hellige sted?",
+      "number": 3
+    },
+    {
+      "text": "Den som har uskyldige hænder og et rent hjerte;den som ikke har rettet sin sjæl mod falskhedog ikke har svoret bedragerisk.",
+      "number": 4
+    },
+    {
+      "text": "Han skal få velsignelse fra JHVH;retfærdighed fra sin frelses Gud.",
+      "number": 5
+    },
+    {
+      "text": "Dette er den slægt som spørger efter ham,de som søger dit ansigt, Jakobs Gud. Sela",
+      "number": 6
+    },
+    {
+      "text": "Løft, I porte, jeres hoveder;løft jer, I ældgamle døre,så ærens konge kan drage ind!",
+      "number": 7
+    },
+    {
+      "text": "Hvem er denne ærens konge?JHVH, stærk og mægtig,JHVH, mægtig i krig.",
+      "number": 8
+    },
+    {
+      "text": "Løft, I porte, jeres hoveder;løft jer, I ældgamle døre,så ærens konge kan drage ind!",
+      "number": 9
+    },
+    {
+      "text": "Hvem er han, den ærens konge?Hærskarers {T: I ældre tid oversat: >>Zebaoth<<.} JHVHv,han er ærens konge! Sela",
+      "number": 10
+    }
+  ],
+  "titles": [
+    {
+      "text": "Overskrift",
+      "verse": 1
+    },
+    {
+      "text": "David lovpriser JHVH, som er herre over alle ting",
+      "verse": 2
+    },
+    {
+      "text": "Betingelsen for at et menneske kan træde ind i Guds tempel",
+      "verse": 3
+    },
+    {
+      "text": "JHVH holder sejrrigt indtog i helligdommen",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Der er især tænkt på det dyrkede land",
+      "type": "T",
+      "verse": 1,
+      "position": 54
+    },
+    {
+      "text": "I det gammeltestamentlige verdensbillede (kosmologi) opfattede man jorden som fastgjort på søjler over det store underjordiske urhav eller strømmene, som det også kan kaldes.",
+      "type": "T",
+      "verse": 2,
+      "position": 61
+    },
+    {
+      "text": "Oversættelsen er usikker, for ordet >>Gud<< mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: >>de som søger dit ansigt, er Jakob<<. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)",
+      "type": "E",
+      "verse": 6,
+      "position": 76
+    },
+    {
+      "text": "Sela",
+      "type": "N",
+      "verse": 6,
+      "position": 82
+    },
+    {
+      "text": "Grundteksten har: >>og løft (dem), I ældgamle døre<<. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.",
+      "type": "E",
+      "verse": 9,
+      "position": 33
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 2,
+  "version": 1641942000000,
+  "verses": [
+    {
+      "text": "Den tredje dag var der bryllup i Kana i Galilæa; og Jesu mor var med.",
+      "number": 1
+    },
+    {
+      "text": "Også Jesus og hans disciple var budt med til brylluppet.",
+      "number": 2
+    },
+    {
+      "text": "Da nu vinen slap op, siger Jesu mor til ham: >>De har ikke mere vin.<<",
+      "number": 3
+    },
+    {
+      "text": "Men Jesus siger til hende: >>Hvad vil du mig, kvinde? Endnu er min time ikke kommet.<<",
+      "number": 4
+    },
+    {
+      "text": "Hans mor siger til tjenerne: >>Hvad som helst han siger til jer, det skal I gøre.<<",
+      "number": 5
+    },
+    {
+      "text": "Men efter jødernes renselsesskik var der sat seks vandkar af sten frem, de rummede hver to til tre spande.",
+      "number": 6
+    },
+    {
+      "text": "Jesus siger til dem: >>Fyld vandkarrene med vand.<< Og de fyldte dem helt op.",
+      "number": 7
+    },
+    {
+      "text": "Så siger han til dem: >>Øs nu op og bring det til skafferen.<< Og de bar det til ham.",
+      "number": 8
+    },
+    {
+      "text": "Men da skafferen smagte vandet som var blevet til vin, og ikke vidste hvorfra det kom, men tjenerne som havde øst vandet op, vidste det, kalder skafferen på brudgommen",
+      "number": 9
+    },
+    {
+      "text": "og siger til ham: >>Ethvert menneske sætter først den gode vin frem, og når folk er blevet fulde, da den ringere; du har gemt den gode vin indtil nu.<<",
+      "number": 10
+    },
+    {
+      "text": "Denne begyndelse på tegnene gjorde Jesus i Kana i Galilæa, og han åbenbarede sin herlighed; og hans disciple troede på ham.",
+      "number": 11
+    }
+  ],
+  "titles": [],
+  "footnotes": [
+    {
+      "text": "Ordret: >>Hvad (er der) mellem mig og dig?>>",
+      "type": "T",
+      "verse": 4,
+      "position": 45
+    }
+  ]
+}

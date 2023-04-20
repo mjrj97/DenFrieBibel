@@ -1,0 +1,72 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 114,
+  "version": 1499983200000,
+  "verses": [
+    {
+      "text": "Da Israel drog ud af Egypten,Jakobs hus fra et folk, som havde et uforståeligt sprog,",
+      "number": 1
+    },
+    {
+      "text": "da blev Juda til hans helligdom,Israel til hans herredømme.",
+      "number": 2
+    },
+    {
+      "text": "Havet så og flygtede,Jordan vendte om og løb baglæns,",
+      "number": 3
+    },
+    {
+      "text": "bjergene sprang som væddere,høje som kid og lam.",
+      "number": 4
+    },
+    {
+      "text": "Hvad er der med dig, du hav, siden du flygtede,du, Jordan, siden du vendte om og løb baglæns,",
+      "number": 5
+    },
+    {
+      "text": "I bjerge, siden I hoppede som væddere,I høje, som kid og lam?",
+      "number": 6
+    },
+    {
+      "text": "Skælv, du jord, for Herrens ansigt,for Jakobs Guds ansigt,",
+      "number": 7
+    },
+    {
+      "text": "ham som forvandler klippen til en vanddam,flint til et kildevæld!",
+      "number": 8
+    }
+  ],
+  "titles": [
+    {
+      "text": "Folkets genfødelse ved udgangen fra Egypten",
+      "verse": 1
+    },
+    {
+      "text": "Guds undere",
+      "verse": 3
+    },
+    {
+      "text": "Hvorfor?",
+      "verse": 5
+    },
+    {
+      "text": "Herren er den mægtige",
+      "verse": 7
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Grundtekstens: *mamšlôtāʸw* (>>herredømme<<) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
+      "type": "T",
+      "verse": 2,
+      "position": 59
+    },
+    {
+      "text": "Ordret: >>som småkvægs afkom<<.",
+      "type": "T",
+      "verse": 4,
+      "position": 48
+    }
+  ]
+}

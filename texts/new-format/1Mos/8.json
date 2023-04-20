@@ -1,0 +1,29 @@
+{
+  "book": "Første Mosebog",
+  "abbreviation": "1Mos",
+  "chapter": 8,
+  "version": 1630360800000,
+  "verses": [
+    {
+      "text": "Noa byggede et alter for JHVH og tog af alt det rene kvæg og alle de rene fugle og ofrede brændoffer på alteret.",
+      "number": 20
+    },
+    {
+      "text": "Og JHVH nød den behagelige duft; da sagde JHVH i sit hjerte: >>Herefter vil jeg aldrig mere forbande jorden for menneskets skyld, for menneskets hjertes tanker er onde fra ungdommen af; og jeg vil aldrig mere dræbe alt hvad der lever, sådan som jeg har gjort.",
+      "number": 21
+    },
+    {
+      "text": "Så længe jorden står, skal såning og høst og kulde og hede og sommer og vinter og dag og nat ikke ophøre.<<",
+      "number": 22
+    }
+  ],
+  "titles": [],
+  "footnotes": [
+    {
+      "text": "Ordret: >>ikke endnu en gang fortsætte med at …<<",
+      "type": "T",
+      "verse": 21,
+      "position": 86
+    }
+  ]
+}

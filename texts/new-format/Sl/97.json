@@ -1,0 +1,96 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 97,
+  "version": 1666562400000,
+  "verses": [
+    {
+      "text": "JHVH er konge!\n\t\t\tJorden skal juble,\n\t\t\t\tmange øer skal glæde sig!",
+      "number": 1
+    },
+    {
+      "text": "\t\tSky og uvejrsmørke er omkring ham,\n\t\t\t\t\tretfærdighed og ret er hans trones grundvold.",
+      "number": 2
+    },
+    {
+      "text": "\t\t\t\tIld går foran ham\n\t\t\t\t\tog brænder hans fjender rundt omkring.",
+      "number": 3
+    },
+    {
+      "text": "\t\t\tHans lyn oplyste verden,\n\t\t\t\t\t\tjorden så det og bævede.",
+      "number": 4
+    },
+    {
+      "text": "\t\t\t\tBjergene smeltede som voks foran JHVH,foran hele jordens Herre.",
+      "number": 5
+    },
+    {
+      "text": "\t\t\t\t\tHimlen forkyndte hans retfærdighed,\n\t\t\t\t\t\tog alle folkene så hans herlighed.",
+      "number": 6
+    },
+    {
+      "text": "Ydmyges skal alle de som dyrker et gudebillede,\n\t\t\tde som roser sig af tomme afguder.\n\t\tKast jer ned for ham, alle guder!",
+      "number": 7
+    },
+    {
+      "text": "Zion hørte det og blev glad,\n\t\tog Judas døtre frydede sig\n\t\t\tover dine domme,\n\t\t\t\tJHVHv!",
+      "number": 8
+    },
+    {
+      "text": "\tFor du,\n\t\t\t\tJHVHv,\n\t\t\ter den Højeste over hele jorden,\n\t\tu er højt ophøjet over alle guder.",
+      "number": 9
+    },
+    {
+      "text": "I, som elsker JHVH,\n\t\tskal hade det onde;\n\t\t\t\than beskytter sine frommes liv,\n\t\t\than vil redde dem fra de ugudeliges hånd.",
+      "number": 10
+    },
+    {
+      "text": "\t\t\t\tLys er sået for den retfærdige\n\t\t\t\t\tog glæde for dem med oprigtigt hjerte.",
+      "number": 11
+    },
+    {
+      "text": "\tGlæd jer,\n\t\t\t\tI retfærdige,\n\t\t\ti JHVH,\n\t\tog tak hans hellige navn!{E: Ordret: >>minde/ihukommelse<<. Men når der er tale om Gud, står det oftest som synonym for hans navn.}",
+      "number": 12
+    }
+  ],
+  "titles": [
+    {
+      "text": "Lovprisende indledning",
+      "verse": 1
+    },
+    {
+      "text": "Gud har vist sin dømmende og frelsende magt",
+      "verse": 4
+    },
+    {
+      "text": "Guds dom og frelse",
+      "verse": 8
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Ordret: >>foran hans ansigt<<",
+      "type": "T",
+      "verse": 3,
+      "position": 21
+    },
+    {
+      "text": "Ordret: >>foran JHVHs ansigt<<. Tilsvarende i næste linje.",
+      "type": "T",
+      "verse": 5,
+      "position": 42
+    },
+    {
+      "text": "Kan også oversættes: >>sjæle<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 77
+    },
+    {
+      "text": "Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: >>er strålet frem<< i stedet for: *zāruₐʕ* (>>er sået<<).",
+      "type": "E",
+      "verse": 11,
+      "position": 15
+    }
+  ]
+}

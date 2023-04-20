@@ -1,0 +1,66 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 99,
+  "version": 1500242400000,
+  "verses": [
+    {
+      "text": "JHVH er konge! Folkeslagene skælver.Han troner over keruber, jorden ryster.",
+      "number": 1
+    },
+    {
+      "text": "JHVH på Zion er stor,og han er ophøjet over alle folkeslagene.",
+      "number": 2
+    },
+    {
+      "text": "De skal prise dit navn som stort og frygtindgydende.Hellig er han!",
+      "number": 3
+    },
+    {
+      "text": "Og en kong med magt, der elsker ret,har du grundfæstet i retskaffenhed,ret og retfærdighed i Jakobhar du skabt.",
+      "number": 4
+    },
+    {
+      "text": "Ophøj JHVH, vor Gud,og kast jer ned for hans fødders fodskammel.Hellig er han!",
+      "number": 5
+    },
+    {
+      "text": "Moses og Aron, som var blandt hans præster,og Samuel, som var blandt dem som påkaldte hans navn -når de råbte til JHVH, svarede han dem.",
+      "number": 6
+    },
+    {
+      "text": "Han talte til dem i skysøjlen,de bevarede hans vidnesbyrdog den lov som han gav dem.",
+      "number": 7
+    },
+    {
+      "text": "JHVH, vor Gud, du svarede dem,du var for dem en tilgivende Gud,men hævnende for deres gerninger.",
+      "number": 8
+    },
+    {
+      "text": "Ophøj JHVH, vor Gud,og kast jer ned for hans hellige bjerg,for hellig er JHVH, vor Gud!",
+      "number": 9
+    }
+  ],
+  "titles": [
+    {
+      "text": "JHVH er den hellige verdenshersker",
+      "verse": 1
+    },
+    {
+      "text": "Hellig som retfærdighedens garant",
+      "verse": 4
+    },
+    {
+      "text": "Hellig i tugt og nåde",
+      "verse": 6
+    }
+  ],
+  "footnotes": [
+    {
+      "text": "Formuleringen er speciel og omdiskuteret. Der er foreslået flere rettelser. Mindst indgribende er at læse substantivet: *ʕōz* (>>magt<<) som adjektiv: *ʕaz*: >>mægtig<< og opfatte hele verset som rettet til Gud, så der oversættes: >>Og mægtige konge, som elsker ret, du har grundfæstet retskaffenhed<<. Normalt skal adjektivet dog stå efter substantivet, så det forudsættes at versets to første ord bytter plads: *wᵊʕōz melex* (egentlig: >>Og konges magt<<) til: *ûmelex ʕaz* (>>og mægtige konge<<). Andre retter *wᵊʕōz melex* til: *wᵊʕaz mālax*: >>Og en stærk er konge. (Han elsker ret. Du har befæstet retskaffenhed)<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 20
+    }
+  ]
+}
