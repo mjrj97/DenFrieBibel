@@ -52,7 +52,7 @@ function BibleText (props) {
                 lines.push({type: "subtitle", text: title.text});
             }
 
-            lines.push({type: "verse", content: { text: currentVerse.text.replace(/JHVH/g, settings.godsName), number: currentVerse.number }}); 
+            lines.push({type: "verse", content: { text: currentVerse.text, number: currentVerse.number }}); 
         }
     }
 
@@ -83,7 +83,7 @@ function BibleText (props) {
                             }
                         }
 
-                        return (<Verse key={i} verseNumber={settings.showVerseNumber ? verse.number : undefined} footnotes={footnotesInVerse} text={verse.text}/>);
+                        return (<Verse key={i} verseNumber={settings.showVerseNumber ? verse.number : undefined} footnotes={footnotesInVerse} verseText={verse.text}/>);
                     default:
                         return (<p>{line.text}</p>)
                 }

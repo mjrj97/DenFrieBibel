@@ -3,43 +3,51 @@ import React from 'react'
 import 'react-tooltip/dist/react-tooltip.css'
 import { Tooltip } from 'react-tooltip'
 
-function Verse(props) {
-    let text;
+function Verse({ verseNumber, verseText, footnotes}) {
+    const parts = [];
 
-    if (props.footnotes.length > 0) {
-        text = [];
-        const words = props.text.split(' ');
+    if (footnotes.length > 0) {
 
-        for (let i = 0; i < words.length; i++) {
-            text.push((i !== 0 ? " " : "") + words[i]);
+        for (let i = 0; i < footnotes.length; i++) {
+            let start = i == 0 ? 0 : footnotes[i-1].position;
+            let end = footnotes[i].position;
 
-            for (let j = 0; j < props.footnotes.length; j++) {
-                if (props.footnotes[j].word === i + 1)
-                {
-                    const tooltipID = props.verseNumber + "f" + props.footnotes[j].designation;
-                    const footnote = (
-                        <span key={i}>
-                            <Tooltip id={tooltipID} className='footnote'/>
-                            <sup className='ignore'>
-                                [<a href="#/" data-tooltip-id={tooltipID} data-tooltip-content={props.footnotes[j].text}>{props.footnotes[j].designation}</a>]
-                            </sup>
-                        </span>
-                    );
-                    text.push(footnote);
-                }
-            }
+            let slice = FormatText(verseText.slice(start, end));
+
+            parts.push(<span key={i + "p" + verseNumber}>{slice}</span>);
+
+            const tooltipID = verseNumber + "f" + footnotes[i].designation;
+            const tooltipText = FormatText(footnotes[i].text);
+            const footnote = (
+                <span key={i}>
+                    <Tooltip id={tooltipID} className='footnote'/>
+                    <sup className='ignore'>
+                        [<a href="#/" data-tooltip-id={tooltipID} data-tooltip-content={tooltipText}>{footnotes[i].designation}</a>]
+                    </sup>
+                </span>
+            );
+
+            parts.push(footnote);
         }
+
+        let slice = FormatText(verseText.slice(footnotes[footnotes.length - 1].position, verseText.length) + "\n");
+        parts.push(<span key={footnotes.length + "p" + verseNumber}>{slice}</span>);
     }
     else {
-        text = props.text;
+        const text = FormatText(verseText + "\n");
+        parts.push(<span key={footnotes.length + "p" + verseNumber}>{text}</span>);
     }
     
     return (
         <span className='verseLine'>
-            {props.verseNumber ? <strong id={props.verseNumber} className='verseNumber ignore'>v{props.verseNumber}</strong> : <></>}
-            {text}&nbsp;
+            {verseNumber ? <strong id={verseNumber} className='verseNumber ignore'>v{verseNumber}</strong> : <></>}
+            {parts}&nbsp;
         </span>
     )
+}
+
+function FormatText(text) {
+    return text.replace(/>>/g, '»').replace(/<</g, '«');
 }
 
 export default Verse

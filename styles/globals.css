@@ -121,6 +121,7 @@ h1, h2, h3, h4, h5, h6 {
 .verseLine {
   line-height: 2em;
   font-size: 1rem;
+  /* white-space: pre-wrap; */
 }
 
 .error {

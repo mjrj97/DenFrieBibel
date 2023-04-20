@@ -40,8 +40,8 @@ fs.readdir(directoryPath, function (err, files)
 
 async function convertFile(file) 
 {
-	// Convert >> into https://www.compart.com/en/unicode/U+00BB
-	
+	// Missing translation "level" https://github.com/EzerIT/DFB/blob/master/oversigt.inc.php
+
     // Open file stream
     const filePath = path.join(directoryPath, file);
     const fileStream = fs.createReadStream(filePath);

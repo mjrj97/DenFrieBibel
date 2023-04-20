@@ -14,7 +14,6 @@ function BookDropdown(props) {
         if (books !== undefined && books.length > 0)
         {
             setCurrentBook( books[7] );
-            console.log(books[7]);
         }
         else
         {
