@@ -14,6 +14,8 @@ function BibleText (props) {
       }
     );
   
+    const [selected, setSelected] = useState([]);
+
     useEffect(() => {
       const data = localStorage.getItem("settings");
       if (data) {
@@ -63,6 +65,20 @@ function BibleText (props) {
         }
     }
 
+    const onSelectedVerse = (number, state) => {
+        if (state == true) {
+            let array = [...selected];
+            array.push(number);
+            setSelected(array);
+        }
+        else 
+        {
+            let array = [...selected];
+            array = array.filter(item => item !== number);
+            setSelected(array);
+        }
+    }
+
     //https://stackoverflow.com/questions/6582233/hash-in-anchor-tags
     let bibleText = (
         (lines.length !== 0) ? (
@@ -83,7 +99,7 @@ function BibleText (props) {
                             }
                         }
 
-                        return (<Verse key={i} verseNumber={settings.showVerseNumber ? verse.number : undefined} footnotes={footnotesInVerse} verseText={verse.text}/>);
+                        return (<Verse onSelected={onSelectedVerse} key={i} verseNumber={settings.showVerseNumber ? verse.number : undefined} footnotes={footnotesInVerse} verseText={verse.text}/>);
                     default:
                         return (<p>{line.text}</p>)
                 }
@@ -100,6 +116,7 @@ function BibleText (props) {
                 </div>
             ) : (
                 <div>
+                    {selected.map((s) => (<span>{s} </span>))}
                     {bibleText}
                 </div>
             )}

@@ -36,7 +36,7 @@ const Index = () => {
       <Head>
         <title>Den Frie Bibel</title>
       </Head>
-      {/*<CommentContainer/>*/}
+      <CommentContainer/>
       <BookDropdown bookChanged={setCurrentBook} chapterChanged={setCurrentChapter} books={books}/>
       <div className='my-4'/>
       <BibleText text={text}/>

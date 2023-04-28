@@ -1,6 +1,7 @@
 :root {
   --sixty: #DDD0C8;
   --soft-sixty: #DDD0C8;
+  --hard-sixty: #9e9088;
   --thirty: #ffffff;
   --ten: #3b413c;
   --accent: #3b413c;
@@ -109,13 +110,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .verseNumber {
-  background-color: var(--soft-sixty);
+  font-weight: bold;
   color: var(--accent);
 
-  padding: 2px 5px;
+  line-height: 1rem;
+  border-width: 0px;
   border-radius: 5px;
 
+  padding: 5px 5px;
   margin: 0rem 0.5rem 0rem 0rem;
+}
+
+.verseNumber-light {
+  transition: 0.3s;
+  background-color: var(--soft-sixty);
+}
+
+.verseNumber-light:hover {
+  background-color: var(--hard-sixty);
+}
+
+.verseNumber-dark {
+  background-color: var(--hard-sixty);
 }
 
 .verseLine {
@@ -193,22 +209,20 @@ h1, h2, h3, h4, h5, h6 {
 .comment-container {
   position:absolute;
   width: 65%;
-  height: 60vh;
+  max-height: 80vh;
 
   top: 6rem;
   left: 105%;
 
-  border: #dee2e6;
+  border: black;
   border-style: solid;
-  border-width: 1px;
+  border-width: 2px;
+
+  overflow-y: scroll
 }
 
 .comment {
   width: 100%;
-
-  border: #dee2e6;
-  border-style: solid;
-  border-width: 1px;
 }
 
 .comment-profile-picture {
@@ -242,7 +256,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   padding-top: auto;
   padding-bottom: auto;
-  right: 3rem;
+  right: 2rem;
   top: 2rem;
   height: 3rem;
 }
@@ -257,7 +271,6 @@ h1, h2, h3, h4, h5, h6 {
   border-style: solid;
   border-width: 1px;
   object-fit: cover;
-  margin-left: 1rem;
 }
 
 .account-button {

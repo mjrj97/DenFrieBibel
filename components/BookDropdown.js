@@ -54,7 +54,7 @@ function BookDropdown(props) {
     return (
         // Sticky top: https://stackoverflow.com/questions/28340054/bootstrap-keep-div-fixed-after-scrolling-to-it
         <div className="sticky-top sticky-dropdown">
-            <div className="container px-0 mx-0 mb-2">
+            <div className="px-0 mx-0 mb-2">
                 <div className='arrow-container'>
                     <div className='d-flex justify-content-between'>
                         <a className={'btn btn-light arrow arrow-left ignore' + (currentChapter == 1 ? ' disabled' : '')} href='#' onClick={subtractChapter}>←</a>

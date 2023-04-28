@@ -40,7 +40,10 @@ fs.readdir(directoryPath, function (err, files)
 
 async function convertFile(file) 
 {
+    // Footnotes in last verse doesn't work
+    // There should be a line ending at the end of each verse
 	// Missing translation "level" https://github.com/EzerIT/DFB/blob/master/oversigt.inc.php
+    // space between line should become a space in text
 
     // Open file stream
     const filePath = path.join(directoryPath, file);

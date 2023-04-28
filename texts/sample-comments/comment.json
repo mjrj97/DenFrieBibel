@@ -1,0 +1,54 @@
+{
+    "comments": [
+        {
+            "user": {
+                "name": "Martin J. R. Jensen"
+            },
+            "uuid": "a02ea595-c723-47f0-bebc-0eea75429233",
+            "favorites": 20,
+            "date": "25/04/2023",
+            "content": "Dette er en simpel kommentar, hvor jeg kan give min fortolkning af teksten.",
+            "verses" : [
+                1
+            ],
+            "replies": [
+                {
+                    "user": {
+                        "name": "Thor L. Hansen"
+                    },
+                    "date": "26/04/2023",
+                    "content": "Er du nu sikker på det? Ville det ikke give mere mening, hvis det betød det her?"
+                },
+                {
+                    "user": {
+                        "name": "Martin J. R. Jensen"
+                    },
+                    "date": "26/04/2023",
+                    "content": "Her er en besvarelse."
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Thor L. Hansen"
+            },
+            "uuid": "71174680-2e9a-4b05-8d59-ca2f7e196076",
+            "favorites": 52,
+            "date": "28/04/2023",
+            "content": "Dette kapitel har også en særlig forbindelse til dette andet sted i bibelen, hvor der lægges en særlig vægt på et givent symbol.",
+            "verses" : [
+                1, 2, 3
+            ],
+            "replies": [
+                {
+                    "user": {
+                        "name": "Martin J. R. Jensen"
+                    },
+                    "date": "28/04/2023",
+                    "content": "Cool det giver god mening."
+                }
+            ]
+        }
+    ]
+    
+}

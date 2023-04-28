@@ -2,10 +2,11 @@ import React from 'react'
 
 import 'react-tooltip/dist/react-tooltip.css'
 import { Tooltip } from 'react-tooltip'
+import VerseNumber from './VerseNumber';
 
-function Verse({ verseNumber, verseText, footnotes}) {
+function Verse({ verseNumber, verseText, footnotes, onSelected}) {
     const parts = [];
-
+    
     if (footnotes.length > 0) {
 
         for (let i = 0; i < footnotes.length; i++) {
@@ -40,7 +41,7 @@ function Verse({ verseNumber, verseText, footnotes}) {
     
     return (
         <span className='verseLine'>
-            {verseNumber ? <strong id={verseNumber} className='verseNumber ignore'>v{verseNumber}</strong> : <></>}
+            {verseNumber ? <VerseNumber onClick={(e) => onSelected(verseNumber, e)} number={verseNumber}/> : <></>}
             {parts}&nbsp;
         </span>
     )
