@@ -25,7 +25,15 @@ const Register = () => {
         else
         {
             setError({});
-            alert(`Email: ${email}\nPassword: ${password}`);
+
+            const requestOptions = {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ name, email, password })
+            };
+            fetch('http://localhost:3000/api/auth/register', requestOptions)
+                .then(response => response.json())
+                .then(data => setError(data));
         }
     }
 

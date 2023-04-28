@@ -24,6 +24,8 @@ export function RegisterValidation(name, email, password, confirmPassword) {
 
     if (email === "")
         emailError = "Påkrævet";
+    else if (!email.match(containWhiteSpaceRegex))
+        emailError = "E-mailen må ikke have mellemrum";
     else if (!email.match(emailRegex))
         emailError = "E-mailen har ikke det korrekte format";
     else if (email.length > 254)
