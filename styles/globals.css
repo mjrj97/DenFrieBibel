@@ -274,14 +274,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .account-button {
-  padding-left: 1rem;
+  height: 100%;
+  padding-right: 1.5rem;
+  
   display: table-cell;
   vertical-align: middle;
   border-width: 0;
+
   background-color: inherit;
+  color: var(--ten);
+
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.account-button:hover {
   color: var(--link);
-  text-decoration: underline;
-  height: 100%;
 }
 
 .test {

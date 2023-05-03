@@ -1,0 +1,8 @@
+export const connection = require('serverless-mysql')({
+    config: {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    }
+});

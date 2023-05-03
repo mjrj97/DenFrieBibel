@@ -1,12 +1,15 @@
 // Libraries
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import Head from 'next/head'
 import Link from 'next/link'
 
-import { RegisterValidation } from '@/src/Validation';
+import { registerValidation } from '@/src/auth/Validation';
 import TextInput from '@/components/main/form/TextInput';
 
 const Register = () => {
+    const router = useRouter();
+
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
@@ -17,7 +20,7 @@ const Register = () => {
     const handleSubmit = (event) => {
         event.preventDefault();
 
-        let validationError = RegisterValidation(name, email, password, confirmPassword);
+        let validationError = registerValidation(name, email, password, confirmPassword);
 
         if (validationError) {
             setError(validationError);
@@ -32,7 +35,13 @@ const Register = () => {
                 body: JSON.stringify({ name, email, password })
             };
             fetch('http://localhost:3000/api/auth/register', requestOptions)
-                .then(response => response.json())
+                .then(response => { 
+                    if (response.status === 201) {
+                        router.push("/");
+                    }
+                    
+                    return response.json();
+                })
                 .then(data => setError(data));
         }
     }

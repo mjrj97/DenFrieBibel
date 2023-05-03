@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 import Comment from "./Comment"
 
-const CommentContainer = () => {  
+const CommentContainer = ({ selected }) => {  
     const [comments, setComments] = useState([]);
     
     // MISSING
@@ -19,6 +19,7 @@ const CommentContainer = () => {
       }, []);
 
     return (
+        selected.length > 0 ? 
         <div className='sticky-top sticky-comment'>
             <div className="comment-container thirty p-4">
                 {
@@ -42,6 +43,8 @@ const CommentContainer = () => {
                 </form>
             </div>
         </div>
+        :
+        <></>
     )
 }
 

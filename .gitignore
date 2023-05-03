@@ -31,5 +31,5 @@ yarn-error.log*
 # vercel
 .vercel
 
-# configs
-*.config
+# database
+/src/db/connection.js

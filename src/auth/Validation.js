@@ -5,7 +5,7 @@ const containUpperCaseRegex = /(?=.*[A-ZÆØÅ])/;
 const containLowerCaseRegex = /(?=.*[a-zæøå])/;
 const containWhiteSpaceRegex = /^\S+$/;
 
-export function RegisterValidation(name, email, password, confirmPassword) {
+export function registerValidation(name, email, password, confirmPassword) {
     let error;
 
     let nameError = "";
@@ -63,7 +63,7 @@ export function RegisterValidation(name, email, password, confirmPassword) {
     return error;
 }
 
-export function LoginValidation (email, password) {
+export function loginValidation (email, password) {
     let error;
 
     let emailError = "";

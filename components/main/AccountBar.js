@@ -1,16 +1,31 @@
-import React from 'react'
 import Link from 'next/link'
-import { signOut, useSession } from 'next-auth/react'
+import { useEffect, useState } from 'react';
 
 const AccountBar = () => {
-    const {data: session} = useSession();
+    const [user, setUser] = useState();
+
+    useEffect(() => {
+        fetch("/api/auth/authenticate").then(
+            response => response.json()
+        ).then(
+            data => {setUser(data)}
+        );
+    });
+
+    const logout = () => {
+        fetch("/api/auth/logout").then(
+            () => {
+                setUser()
+            }
+        )
+    }
 
     return (
         <div className='account-container'>
-            {session?.user ? 
+            {user ? 
             (<>
-                <button className='account-button' onClick={() => signOut({callbackUrl: "/"})}>Log ud</button>
-                <Link className='account-button' href="/user">{session.user.name}</Link>
+                <button className='account-button' onClick={logout}>Log ud</button>
+                <Link className='account-button' href="/account">{user.name}</Link>
                 <img src='/user.png' className='account-image'/>
             </>) : 
             (<>

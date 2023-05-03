@@ -1,13 +1,15 @@
 // Libraries
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import Head from 'next/head'
 import Link from 'next/link'
-import { signIn } from 'next-auth/react';
 
-import { LoginValidation } from '@/src/Validation';
+import { loginValidation } from '@/src/auth/Validation';
 import TextInput from '@/components/main/form/TextInput';
 
 const Login = () => {
+    const router = useRouter();
+
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const [error, setError] = useState({});
@@ -15,7 +17,7 @@ const Login = () => {
     const handleSubmit = async (event) => {
         event.preventDefault();
 
-        let validationError = LoginValidation(email, password);
+        let validationError = loginValidation(email, password);
 
         if (validationError) {
             setError(validationError);
@@ -24,12 +26,20 @@ const Login = () => {
         {
             setError({});
 
-            const result = await signIn("credentials", {
-                username: email,
-                password,
-                redirect: true,
-                callbackUrl: "/"
-            });
+            const requestOptions = {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email, password })
+            };
+            fetch('http://localhost:3000/api/auth/login', requestOptions)
+                .then(response => { 
+                    if (response.status === 200) {
+                        router.push('/');
+                    }
+
+                    return response.json();
+                })
+                .then(data => setError(data));
         }
     }
 

@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import { SessionProvider } from "next-auth/react";
 import Head from 'next/head'
 
 // Styles
@@ -17,7 +16,7 @@ const App = ({ Component, pageProps: { session, ...pageProps } }) => {
   }, []);
 
   return (
-    <SessionProvider session={session}>
+    <>
       <Head>
           <link rel="icon" href="/icon.png" />
       </Head>
@@ -30,7 +29,7 @@ const App = ({ Component, pageProps: { session, ...pageProps } }) => {
           <Component {...pageProps} />
         </Body>
       </div>
-    </SessionProvider>
+    </>
   );
 }
 

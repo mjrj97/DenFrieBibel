@@ -5,7 +5,7 @@ const handler = (req, res) => {
     let chapter = req.query.chapter;
 
     let text = { errors: [] };
-    let books = JSON.parse(readFileSync('./texts/new-format/books.json'));
+    let books = JSON.parse(readFileSync('./texts/new-format/books.json')).books;
 
     let result;
 
