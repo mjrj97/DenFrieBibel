@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 6,
   "version": 1644274800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Vær barmhjertige, ligesom jeres Far er barmhjertig.",
+      "text": "\fVær barmhjertige, ligesom jeres Far er barmhjertig.",
       "number": 36
     },
     {

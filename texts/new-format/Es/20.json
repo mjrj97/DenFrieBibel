@@ -3,9 +3,23 @@
   "abbreviation": "Es",
   "chapter": 20,
   "version": 1681336800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Det år, da en hærchef kom til Ashdod, da Sargon, Assyrien konge, sendte ham, og belejrede Asdod og indtog den,",
+      "text": "\fDet år, da en hærchef kom til Ashdod, da Sargon, Assyrien konge, sendte ham, og belejrede Asdod og indtog den,",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Og den der bor på denne kyst{T: Dvs. i Juda}, skal sige på den dag: >>Se, sådan er det gået vort håb, som vi flygtede til for at få hjælp til at blive reddet fra Assyriens konge; og vi, hvordan skal vi undslippe?<<",
+      "text": "Og den der bor på denne kyst, skal sige på den dag: >>Se, sådan er det gået vort håb, som vi flygtede til for at få hjælp til at blive reddet fra Assyriens konge; og vi, hvordan skal vi undslippe?<<",
       "number": 6
     }
   ],
@@ -41,6 +55,12 @@
       "type": "T",
       "verse": 5,
       "position": 5
+    },
+    {
+      "text": "Dvs. i Juda",
+      "type": "T",
+      "verse": 6,
+      "position": 28
     }
   ]
 }

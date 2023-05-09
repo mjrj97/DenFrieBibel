@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 32,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Rubenitterne og gaditterne havde mange kreaturer, et stort antal, og de så Jazers land og Gileads land, og se, det land var et godt sted til husdyravl.",
+      "text": "\fRubenitterne og gaditterne havde mange kreaturer, et stort antal, og de så Jazers land og Gileads land, og se, det land var et godt sted til husdyravl.",
       "number": 1
     },
     {
@@ -25,7 +35,7 @@
       "number": 5
     },
     {
-      "text": "Da sagde Moses til gaditterne og rubenitterne: >>Skal jeres brødre drage i krig, mens I slår jer ned her?",
+      "text": "\fDa sagde Moses til gaditterne og rubenitterne: >>Skal jeres brødre drage i krig, mens I slår jer ned her?",
       "number": 6
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "Da gik de frem til ham og sagde: >>Vi vil blot bygge fårefolde her til vores dyr og byer til vores børn.",
+      "text": "\fDa gik de frem til ham og sagde: >>Vi vil blot bygge fårefolde her til vores dyr og byer til vores børn.",
       "number": 16
     },
     {
@@ -137,7 +147,7 @@
       "number": 33
     },
     {
-      "text": "Så byggede gaditterne Dibon, Atarot, Aro’er",
+      "text": "\fSå byggede gaditterne Dibon, Atarot, Aro’er",
       "number": 34
     },
     {

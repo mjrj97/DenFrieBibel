@@ -3,145 +3,159 @@
   "abbreviation": "Job",
   "chapter": 9,
   "version": 1680213600000,
+  "authors": [
+    {
+      "name": "Lydia Nørrelykke Gad",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da svarede Job\n\t",
+      "text": "\fDa svarede Job",
       "number": 1
     },
     {
-      "text": "\t\t>>Jeg ved sandelig godt\n\t\t\t\t\tat det er sådan.\n\t\t\t\tHvordan kan et menneske have ret over for Gud?",
+      "text": "\f\t\t>>Jeg ved sandelig godt\n\t\t\t\t\tat det er sådan.\f\n\t\t\t\tHvordan kan et menneske have ret over for Gud?",
       "number": 2
     },
     {
-      "text": "\t\t\t\t\t\tHvis man har lyst\n\t\t\t\t\t\t\t\t\ttil at føre sag imod ham\n\t\t\t\t\t\t\t\tvil man ikke kunne svare ham én ud af tusind gange.",
+      "text": "\f\t\t\t\t\t\tHvis man har lyst\n\t\t\t\t\t\t\t\t\ttil at føre sag imod ham\f\n\t\t\t\t\t\t\t\tvil man ikke kunne svare ham én ud af tusind gange.",
       "number": 3
     },
     {
-      "text": "\t\t\t\t\t\t\tHan er vis af hjertet og mægtig i styrke,\n\t\t\t\t\t\t\t\thvem kan trodse ham\n\t\t\t\t\t\t\t\t\tog forblive uskadt?",
+      "text": "\f\t\t\t\t\t\t\tHan er vis af hjertet og mægtig i styrke,\f\n\t\t\t\t\t\t\t\thvem kan trodse ham\n\t\t\t\t\t\t\t\t\tog forblive uskadt?",
       "number": 4
     },
     {
-      "text": "\t\t\t\t\tHan er den som flytter bjerge\n\t\t\t\t\t\tuden at de bemærker det,\n\t\t\t\t\t\t\tidet han vælter dem i sin vrede.",
+      "text": "\f\t\t\t\t\tHan er den som flytter bjerge\n\t\t\t\t\t\tuden at de bemærker det,\f\n\t\t\t\t\t\t\tidet han vælter dem i sin vrede.",
       "number": 5
     },
     {
-      "text": "\t\t\t\t\tHan får jorden til at ryste i sine grundvolde,\n\t\t\t\t\t\tog dens søjler skælver.",
+      "text": "\f\t\t\t\t\tHan får jorden til at ryste i sine grundvolde,\f\n\t\t\t\t\t\tog dens søjler skælver.",
       "number": 6
     },
     {
-      "text": "\t\t\t\t\tHan taler til solen,\n\t\t\t\t\t\t\t\tog den står ikke op,\n\t\t\t\t\t\t\tog for stjernerne sætter han segl.",
+      "text": "\f\t\t\t\t\tHan taler til solen,\n\t\t\t\t\t\t\t\tog den står ikke op,\f\n\t\t\t\t\t\t\tog for stjernerne sætter han segl.",
       "number": 7
     },
     {
-      "text": "\t\t\t\t\t\tHan alene spænder himlen ud,\n\t\t\t\t\t\t\tog han træder på havets bølger.",
+      "text": "\f\t\t\t\t\t\tHan alene spænder himlen ud,\f\n\t\t\t\t\t\t\tog han træder på havets bølger.",
       "number": 8
     },
     {
-      "text": "\t\t\t\t\t\tHan skaber Løven, Orion og Syvstjernen og sydhimlens stjernebilleder.",
+      "text": "\f\t\t\t\t\t\tHan skaber Løven, Orion og Syvstjernen og sydhimlens stjernebilleder.",
       "number": 9
     },
     {
-      "text": "\t\t\t\t\t\tHan gør store ting som ingen kan udforske,\n\t\t\t\t\t\t\tforunderlige ting der ikke er tal på.",
+      "text": "\f\t\t\t\t\t\tHan gør store ting som ingen kan udforske,\f\n\t\t\t\t\t\t\tforunderlige ting der ikke er tal på.",
       "number": 10
     },
     {
-      "text": "\t\t\tSe, han går forbi mig,\n\t\t\t\t\tog jeg ser det ikke,\n\t\t\t\than farer forbi,\n\t\t\t\t\tmen jeg bemærker ham ikke.",
+      "text": "\f\t\t\tSe, han går forbi mig,\n\t\t\t\t\tog jeg ser det ikke,\f\n\t\t\t\than farer forbi,\n\t\t\t\t\tmen jeg bemærker ham ikke.",
       "number": 11
     },
     {
-      "text": "\t\t\tSe, han griber fat,\n\t\t\t\t\thvem kan hindre ham?\n\t\t\t\t\t\tHvem kan sige til ham:\n\t\t\t\t\t\t\t>Hvad er det du gør?<",
+      "text": "\f\t\t\tSe, han griber fat,\n\t\t\t\t\thvem kan hindre ham?\f\n\t\t\t\t\t\tHvem kan sige til ham:\n\t\t\t\t\t\t\t>Hvad er det du gør?<",
       "number": 12
     },
     {
-      "text": "\t\t\t\tGud holder ikke sin vrede tilbage,\n\t\t\t\t\t\t\tunder ham må Rahabs hjælpere bøje sig.",
+      "text": "\f\t\t\t\tGud holder ikke sin vrede tilbage,\f\n\t\t\t\t\t\t\tunder ham må Rahabs hjælpere bøje sig.",
       "number": 13
     },
     {
-      "text": "\t\t\t\t\t\t\t\tHvor meget mindre kan jeg svare ham,\n\t\t\t\t\t\t\t\t\t\tvælge mine ord over for ham.",
+      "text": "\f\t\t\t\t\t\t\t\tHvor meget mindre kan jeg svare ham,\f\n\t\t\t\t\t\t\t\t\t\tvælge mine ord over for ham.",
       "number": 14
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tFor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tselvom jeg har ret,\n\t\t\t\t\t\t\t\t\t\t\t\t\tvil jeg ikke kunne svare ham,\n\t\t\t\t\t\t\t\t\t\t\tmen må bede min dommer om nåde.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tFor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tselvom jeg har ret,\n\t\t\t\t\t\t\t\t\t\t\t\t\tvil jeg ikke kunne svare ham,\f\n\t\t\t\t\t\t\t\t\t\t\tmen må bede min dommer om nåde.",
       "number": 15
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tSelvom jeg råbte til ham,\n\t\t\t\t\t\t\t\t\t\t\tog han svarede mig,\n\t\t\t\t\t\t\t\t\t\tville jeg ikke kunne tro\n\t\t\t\t\t\t\t\t\t\t\t\tat han lagde øre til min røst.",
+      "text": "\f\t\t\t\t\t\t\t\t\tSelvom jeg råbte til ham,\n\t\t\t\t\t\t\t\t\t\t\tog han svarede mig,\f\n\t\t\t\t\t\t\t\t\t\tville jeg ikke kunne tro\n\t\t\t\t\t\t\t\t\t\t\t\tat han lagde øre til min røst.",
       "number": 16
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHan knuser mig i stormen\n\t\t\t\t\t\t\t\t\t\t\t\t\tog giver mig talrige sår uden grund.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tHan knuser mig i stormen\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog giver mig talrige sår uden grund.",
       "number": 17
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tHan tillader mig ikke\n\t\t\t\t\t\t\t\t\t\t\t\t\tat trække vejret,\n\t\t\t\t\t\t\t\t\t\t\t\tmen mætter mig med bitre erfaringer.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tHan tillader mig ikke\n\t\t\t\t\t\t\t\t\t\t\t\t\tat trække vejret,\f\n\t\t\t\t\t\t\t\t\t\t\t\tmen mætter mig med bitre erfaringer.",
       "number": 18
     },
     {
-      "text": "\t\t\t\t\t\tHvis det drejer sig om magt,\n\t\t\t\t\t\t\t\t\tom styrke, siger han: >Se her!<\n\t\t\t\t\t\t\t\tmen når det drejer sig om retten:\n\t\t\t\t\t\t\t\t\t>Hvem vil stævne mig?<",
+      "text": "\f\t\t\t\t\t\tHvis det drejer sig om magt,\n\t\t\t\t\t\t\t\t\tom styrke, siger han: >Se her!<\f\n\t\t\t\t\t\t\t\tmen når det drejer sig om retten:\n\t\t\t\t\t\t\t\t\t>Hvem vil stævne mig?<",
       "number": 19
     },
     {
-      "text": "\t\t\t\t\t\t\tSelv om jeg har ret,\n\t\t\t\t\t\t\t\t\tvil min mund dømme mig skyldig.\n\t\t\t\t\t\t\t\tJeg er uden skyld,\n\t\t\t\t\t\t\t\t\tmen han dømmer mig skyldig.",
+      "text": "\f\t\t\t\t\t\t\tSelv om jeg har ret,\n\t\t\t\t\t\t\t\t\tvil min mund dømme mig skyldig.\f\n\t\t\t\t\t\t\t\tJeg er uden skyld,\n\t\t\t\t\t\t\t\t\tmen han dømmer mig skyldig.",
       "number": 20
     },
     {
-      "text": "\t\t\t\t\tJeg er uden skyld,\n\t\t\t\t\t\t\t\tjeg kender ikke mig selv,\n\t\t\t\t\t\t\t\t\tjeg ønsker ikke at leve længere!",
+      "text": "\f\t\t\t\t\tJeg er uden skyld,\f\n\t\t\t\t\t\t\t\tjeg kender ikke mig selv,\f\n\t\t\t\t\t\t\t\t\tjeg ønsker ikke at leve længere!",
       "number": 21
     },
     {
-      "text": "\t\t\t\t\t\t\tDet kommer ud på ét,\n\t\t\t\t\t\t\t\tderfor siger jeg:\n\t\t\t\t\t\t\t\t\t\t\t>Uskyldig eller skyldig, han er den, der udsletter.<",
+      "text": "\f\t\t\t\t\t\t\tDet kommer ud på ét,\n\t\t\t\t\t\t\t\tderfor siger jeg:\f\n\t\t\t\t\t\t\t\t\t\t\t>Uskyldig eller skyldig, han er den, der udsletter.<",
       "number": 22
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tNår en plage pludselig bringer død\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tspotter han de uskyldige med fortvivlelse.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tNår en plage pludselig bringer død\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tspotter han de uskyldige med fortvivlelse.",
       "number": 23
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tJorden lægges i ugudeliges hænder,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\than tildækker dens dommeres ansigt.\n\t\t\t\t\t\t\t\t\t\t\t\tHvis ikke det er ham\n\t\t\t\t\t\t\t\t\t\t\t\t\thvem er det så?",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tJorden lægges i ugudeliges hænder,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\than tildækker dens dommeres ansigt.\f\n\t\t\t\t\t\t\t\t\t\t\t\tHvis ikke det er ham\n\t\t\t\t\t\t\t\t\t\t\t\t\thvem er det så?",
       "number": 24
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tMine dage er hurtigere end en løber,\n\t\t\t\t\t\t\t\t\t\t\tde flygter bort\n\t\t\t\t\t\t\t\t\t\t\t\tuden at have set noget godt.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\tMine dage er hurtigere end en løber,\f\n\t\t\t\t\t\t\t\t\t\t\tde flygter bort\n\t\t\t\t\t\t\t\t\t\t\t\tuden at have set noget godt.",
       "number": 25
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tDe farer afsted som sivbåde,\n\t\t\t\t\t\t\t\t\t\t\t\tsom en ørn\n\t\t\t\t\t\t\t\t\t\t\t\t\tder styrter ned over sit bytte.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tDe farer afsted som sivbåde,\f\n\t\t\t\t\t\t\t\t\t\t\t\tsom en ørn\n\t\t\t\t\t\t\t\t\t\t\t\t\tder styrter ned over sit bytte.",
       "number": 26
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tNår jeg siger:\n\t\t\t\t\t\t\t\t\t\t\t>Lad mig glemme min klage,\n\t\t\t\t\t\t\t\t\t\t\tlad mig glatte mit ansigt,\n\t\t\t\t\t\t\t\t\t\t\t\tlad mig være glad<,",
+      "text": "\f\t\t\t\t\t\t\t\t\tNår jeg siger:\n\t\t\t\t\t\t\t\t\t\t\t>Lad mig glemme min klage,\f\n\t\t\t\t\t\t\t\t\t\t\tlad mig glatte mit ansigt,\n\t\t\t\t\t\t\t\t\t\t\t\tlad mig være glad<,",
       "number": 27
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tmå jeg frygte mine lidelser.\n\t\t\t\t\t\t\t\t\t\t\tJeg ved\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tat du ikke frikender mig.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\tmå jeg frygte mine lidelser.\f\n\t\t\t\t\t\t\t\t\t\t\tJeg ved\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tat du ikke frikender mig.",
       "number": 28
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tJeg er skyldig,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\thvorfor skal jeg så slide forgæves?",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tJeg er skyldig,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\thvorfor skal jeg så slide forgæves?",
       "number": 29
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tOm jeg så vaskede mig med sne\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog rensede mine hænder i lud,",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tOm jeg så vaskede mig med sne\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog rensede mine hænder i lud,",
       "number": 30
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tville du alligevel dyppe mig i en grøft,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tså mine klæder ville væmmes ved mig.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tville du alligevel dyppe mig i en grøft,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tså mine klæder ville væmmes ved mig.",
       "number": 31
     },
     {
-      "text": "\t\t\t\t\t\tFor han er ikke et menneske som jeg\n\t\t\t\t\t\t\t\tat jeg kan svare ham,\n\t\t\t\t\t\t\t\t\tat vi kan gå sammen for retten.",
+      "text": "\f\t\t\t\t\t\tFor han er ikke et menneske som jeg\n\t\t\t\t\t\t\t\tat jeg kan svare ham,\f\n\t\t\t\t\t\t\t\t\tat vi kan gå sammen for retten.",
       "number": 32
     },
     {
-      "text": "\t\t\t\t\t\t\tDer er ikke nogen voldgiftsmand mellem os\n\t\t\t\t\t\t\t\t\t\tsom kan lægge sin hånd på os begge.",
+      "text": "\f\t\t\t\t\t\t\tDer er ikke nogen voldgiftsmand mellem os\f\n\t\t\t\t\t\t\t\t\t\tsom kan lægge sin hånd på os begge.",
       "number": 33
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tVille han blot fjerne sin kæp fra mig\n\t\t\t\t\t\t\t\t\t\tog hans rædsel ikke overvælde mig!",
+      "text": "\f\t\t\t\t\t\t\t\t\tVille han blot fjerne sin kæp fra mig\f\n\t\t\t\t\t\t\t\t\t\tog hans rædsel ikke overvælde mig!",
       "number": 34
     },
     {
-      "text": "\t\t\t\t\t\t\t\tLad mig tale\n\t\t\t\t\t\t\t\t\t\tog ikke frygte ham,\n\t\t\t\t\t\t\t\t\tfor sådan er jeg ikke.<<",
+      "text": "\f\t\t\t\t\t\t\t\tLad mig tale\n\t\t\t\t\t\t\t\t\t\tog ikke frygte ham,\f\n\t\t\t\t\t\t\t\t\tfor sådan er jeg ikke.<<",
       "number": 35
     }
   ],
@@ -160,109 +174,109 @@
       "text": "yyiṣdaq* kan også oversættes >>være retfærdig<<.",
       "type": "T",
       "verse": 2,
-      "position": 84
+      "position": 86
     },
     {
       "text": "Ordret: >>fra sit sted<<.",
       "type": "T",
       "verse": 6,
-      "position": 51
+      "position": 52
     },
     {
       "text": "Ordret: >>høje steder<<.",
       "type": "T",
       "verse": 8,
-      "position": 73
+      "position": 75
     },
     {
       "text": "Nogle oversætter det med >>Store Bjørn<< idet man ændrer vokaliseringen fra *ʕāš* til *ʕayiš*. I Job 38.32 forekommer det hebraiske ord *ʕayiš*, alligevel oversættes begge ordene ens i de forskellige oversættelser.",
       "type": "E",
       "verse": 9,
-      "position": 23
+      "position": 24
     },
     {
       "text": "Også kaldet >>plejader<< sml. Job 38,31 og Am 5,8.",
       "type": "T",
       "verse": 9,
-      "position": 44
+      "position": 45
     },
     {
       "text": "Ordret: >>sydens kamre<<.",
       "type": "T",
       "verse": 9,
-      "position": 75
+      "position": 76
     },
     {
       "text": "Kan også oversættes >>undere<<.",
       "type": "T",
       "verse": 10,
-      "position": 73
+      "position": 75
     },
     {
       "text": "Sml. Job 5.9, Job citerer Elifaz.",
       "type": "T",
       "verse": 10,
-      "position": 93
+      "position": 95
     },
     {
       "text": "Kan oversættes >>slår<<. Verbet her findes kun i 1 Mos 3,15 og Sl 139.11.",
       "type": "T",
       "verse": 17,
-      "position": 22
+      "position": 23
     },
     {
       "text": "Figurativt om Guds dom sml. Nah 1,3.",
       "type": "T",
       "verse": 17,
-      "position": 36
+      "position": 37
     },
     {
       "text": "Ordret: >>bitre ting<<.",
       "type": "T",
       "verse": 18,
-      "position": 112
+      "position": 114
     },
     {
       "text": ">>Siger han<< er tilføjet.",
       "type": "T",
       "verse": 19,
-      "position": 65
+      "position": 66
     },
     {
       "text": ">>Mig<< betyder her Gud.",
       "type": "T",
       "verse": 19,
-      "position": 149
+      "position": 151
     },
     {
       "text": "Ordret: >>fuldkommen<<.",
       "type": "T",
       "verse": 20,
-      "position": 95
+      "position": 97
     },
     {
       "text": "Ordret: >>fuldkommen<<.",
       "type": "T",
       "verse": 22,
-      "position": 74
+      "position": 76
     },
     {
       "text": "Dvs. giver dommerne bind for øjnene figurativt.",
       "type": "T",
       "verse": 24,
-      "position": 97
+      "position": 99
     },
     {
       "text": "Kan også oversættes: >>i vand fra sne<<.",
       "type": "T",
       "verse": 30,
-      "position": 41
+      "position": 42
     },
     {
       "text": "Dvs. som kan mægle mellem os.",
       "type": "T",
       "verse": 33,
-      "position": 94
+      "position": 96
     }
   ]
 }

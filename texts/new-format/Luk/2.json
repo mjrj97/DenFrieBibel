@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 2,
   "version": 1641855600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men det skete i de dage at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden.",
+      "text": "\fMen det skete i de dage at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden.",
       "number": 1
     },
     {
@@ -61,11 +75,11 @@
       "number": 14
     },
     {
-      "text": "Og da otte dage var gået så han skulle omskæres, fik han navnet Jesus, som han var blevet kaldt af engelen før han blev undfanget i sin mors liv.",
+      "text": "\fOg da otte dage var gået så han skulle omskæres, fik han navnet Jesus, som han var blevet kaldt af engelen før han blev undfanget i sin mors liv.",
       "number": 21
     },
     {
-      "text": "Og se, der var en mand i Jerusalem ved navn Simeon, og denne mand var retfærdig og gudfrygtig og forventede Israels trøst, og Helligånden var over ham.",
+      "text": "\fOg se, der var en mand i Jerusalem ved navn Simeon, og denne mand var retfærdig og gudfrygtig og forventede Israels trøst, og Helligånden var over ham.",
       "number": 25
     },
     {
@@ -121,7 +135,7 @@
       "number": 38
     },
     {
-      "text": "Da de havde fuldført det hele efter Herrens lov, vendte de tilbage til Galilæa til deres egen by Nazaret.",
+      "text": "\fDa de havde fuldført det hele efter Herrens lov, vendte de tilbage til Galilæa til deres egen by Nazaret.",
       "number": 39
     },
     {
@@ -129,7 +143,7 @@
       "number": 40
     },
     {
-      "text": "Hvert år rejste hans forældre til Jerusalem til påskefesten.",
+      "text": "\fHvert år rejste hans forældre til Jerusalem til påskefesten.",
       "number": 41
     },
     {

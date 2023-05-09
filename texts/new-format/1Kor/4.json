@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 4,
   "version": 1638226800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Sådan skal man betragte os: som Kristi tjenere og forvaltere af Guds hemmeligheder!",
+      "text": "\fSådan skal man betragte os: som Kristi tjenere og forvaltere af Guds hemmeligheder!",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Men, brødre! det her har jeg brugt om mig selv og Apollos for jeres skyld, for at I af vores eksempel kan lære dette: >>ikke ud over, hvad der står skrevet<<, for at ikke nogen af jer på grund af én skal blive opblæst imod en anden.",
+      "text": "\fMen, brødre! det her har jeg brugt om mig selv og Apollos for jeres skyld, for at I af vores eksempel kan lære dette: >>ikke ud over, hvad der står skrevet<<, for at ikke nogen af jer på grund af én skal blive opblæst imod en anden.",
       "number": 6
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Det er ikke for at gøre jer skamfulde, jeg skriver dette her; men jeg formaner jer som mine elskede børn.",
+      "text": "\fDet er ikke for at gøre jer skamfulde, jeg skriver dette her; men jeg formaner jer som mine elskede børn.",
       "number": 14
     },
     {

@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 33,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Ve dig, du ødelægger, du, der ikke selv er blevet ødelagt! og du røver, der ikke selv er blevet et rov! Når du er holdt op med at ødelægge, skal du ødelægges, når du er færdig med at røve, skal du selv blive et rov.",
+      "text": "\fVe dig, du ødelægger, du, der ikke selv er blevet ødelagt! og du røver, der ikke selv er blevet et rov! Når du er holdt op med at ødelægge, skal du ødelægges, når du er færdig med at røve, skal du selv blive et rov.",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Se, deres helte skriger derude; fredens budbringere græder bittert.",
+      "text": "\fSe, deres helte skriger derude; fredens budbringere græder bittert.",
       "number": 7
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Syndere i Zion er forskrækkede, bæven har grebet de vanhellige: >>Hvem af os kan bo ved en fortærende ild? Hvem af os kan bo ved evigheds bål?<<",
+      "text": "\fSyndere i Zion er forskrækkede, bæven har grebet de vanhellige: >>Hvem af os kan bo ved en fortærende ild? Hvem af os kan bo ved evigheds bål?<<",
       "number": 14
     },
     {

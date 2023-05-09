@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 64,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Som ild antænder kviste, som ild får vand til at koge, sådan må du lade dine fjender kende dit navn, så hedningerne ryster for dit ansigt.",
+      "text": "\fSom ild antænder kviste, som ild får vand til at koge, sådan må du lade dine fjender kende dit navn, så hedningerne ryster for dit ansigt.",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "Men vi blev alle sammen som de urene og al vores retfærdighed som beskidt tøj; og vi faldt alle sammen, faldt af som et blad, og vores misgerning blæste os væk som en storm.",
+      "text": "\fMen vi blev alle sammen som de urene og al vores retfærdighed som beskidt tøj; og vi faldt alle sammen, faldt af som et blad, og vores misgerning blæste os væk som en storm.",
       "number": 5
     },
     {

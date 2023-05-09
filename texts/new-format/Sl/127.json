@@ -3,25 +3,39 @@
   "abbreviation": "Sl",
   "chapter": 127,
   "version": 1492552800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Valfartssang. Af Salomo.Hvis JHVH ikke bygger huset,vil de som bygger på det, have arbejdet forgæves.Hvis JHVH ikke våger over byen,vil vægteren have våget forgæves.",
+      "text": "\fValfartssang. Af Salomo.\fHvis JHVH ikke bygger huset,\fvil de som bygger på det, have arbejdet forgæves.\fHvis JHVH ikke våger over byen,\fvil vægteren have våget forgæves.",
       "number": 1
     },
     {
-      "text": "Det er forgæves for jerat stå tidligt op,at vente længe med at sidde,at spise sliddets brød –så meget giver han den han elsker, mens han sover.",
+      "text": "\fDet er forgæves for jer\fat stå tidligt op,\fat vente længe med at sidde,\fat spise sliddets brød –\fså meget giver han den han elsker, mens han sover.",
       "number": 2
     },
     {
-      "text": "Se, sønner er en gave fra JHVH,moderlivets frugt er en løn.",
+      "text": "\fSe, sønner er en gave fra JHVH,\fmoderlivets frugt er en løn.",
       "number": 3
     },
     {
-      "text": "Som pile i en krigers hånd,sådan er ungdommens sønner.",
+      "text": "\fSom pile i en krigers hånd,\fsådan er ungdommens sønner.",
       "number": 4
     },
     {
-      "text": "Lykkelig{T: Kan også oversættes: >>salig<<. Det er dog næppe relevant her.} den mand som har fyldt sit kogger med dem;de skal ikke blive til skamme,når de taler med fjender i porten.{T: Porten i bymuren var en større bygning, der også fungerede som retssal og byrådssal.}",
+      "text": "\fLykkelig den mand som har fyldt sit kogger med dem;\fde skal ikke blive til skamme,\fnår de taler med fjender i porten.",
       "number": 5
     }
   ],
@@ -44,13 +58,25 @@
       "text": "Se note til Sl 120,1.",
       "type": "E",
       "verse": 1,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Grundtekstens ord bruges især om arvelod, ejendom og jordbesiddelse.",
       "type": "T",
       "verse": 3,
-      "position": 21
+      "position": 22
+    },
+    {
+      "text": "Kan også oversættes: >>salig<<. Det er dog næppe relevant her.",
+      "type": "T",
+      "verse": 5,
+      "position": 9
+    },
+    {
+      "text": "Porten i bymuren var en større bygning, der også fungerede som retssal og byrådssal.",
+      "type": "T",
+      "verse": 5,
+      "position": 118
     }
   ]
 }

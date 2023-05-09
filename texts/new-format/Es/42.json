@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 42,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Se min tjener, som jeg støtter, min udvalgte, som min sjæl har velbehag i; jeg har givet min Ånd over ham, han skal føre retten ud til hedningerne.",
+      "text": "\fSe min tjener, som jeg støtter, min udvalgte, som min sjæl har velbehag i; jeg har givet min Ånd over ham, han skal føre retten ud til hedningerne.",
       "number": 1
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Syng en ny sang for JHVH, hans pris fra jordens ende; I, der tager ud på havet og alt, hvad det rummer, I øer og deres indbyggere!",
+      "text": "\fSyng en ny sang for JHVH, hans pris fra jordens ende; I, der tager ud på havet og alt, hvad det rummer, I øer og deres indbyggere!",
       "number": 10
     },
     {
@@ -73,7 +83,7 @@
       "number": 17
     },
     {
-      "text": "Hør, I døve! og I blinde, luk øjnene op, så I kan se!",
+      "text": "\fHør, I døve! og I blinde, luk øjnene op, så I kan se!",
       "number": 18
     },
     {

@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 60,
   "version": 1641855600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen og Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Rejs dig, bliv lys, for dit lys er kommet, og JHVHs herlighed er stået op over dig.",
+      "text": "\fRejs dig, bliv lys, for dit lys er kommet, og JHVHs herlighed er stået op over dig.",
       "number": 1
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Og børnene af dem, der plagede dig, skal komme og bøje sig for dig, og alle de, der spottede dig, skal kaste sig ned for dine fødder, og de skal kalde dig JHVHs by, Israels Helliges Zion.",
+      "text": "\fOg børnene af dem, der plagede dig, skal komme og bøje sig for dig, og alle de, der spottede dig, skal kaste sig ned for dine fødder, og de skal kalde dig JHVHs by, Israels Helliges Zion.",
       "number": 14
     },
     {
@@ -104,7 +114,7 @@
       "text": "Efter imperativerne kan qatal eventuelt oversættes ved fremtid: >>for dit lys skal komme, og JHVHs herlighed skal stå op over dig!<<",
       "type": "E",
       "verse": 1,
-      "position": 42
+      "position": 43
     },
     {
       "text": "Kan også oversættes: >>vil/skal skjule<<.",

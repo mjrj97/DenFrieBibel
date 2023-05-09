@@ -3,41 +3,55 @@
   "abbreviation": "Sl",
   "chapter": 4,
   "version": 1486335600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Med strengespil. En salme af David.",
+      "text": "\fTil korlederen. Med strengespil. En salme af David.",
       "number": 1
     },
     {
-      "text": "Når jeg råber, så svar mig,min retfærdigheds Gud!I trængslen befriede du mig;vær mig nådig, og hør min bøn!",
+      "text": "\fNår jeg råber, så svar mig,\fmin retfærdigheds Gud!\fI trængslen befriede du mig;\fvær mig nådig, og hør min bøn!",
       "number": 2
     },
     {
-      "text": "I menneskebørn! Hvor længe skal min ære være til skændsel?I elsker tomhed og søger løgn. Sela",
+      "text": "\fI menneskebørn! Hvor længe skal min ære være til skændsel?\fI elsker tomhed og søger løgn. Sela",
       "number": 3
     },
     {
-      "text": "Men I skal vide at JHVH har udvalgt sig en der er from;JHVH hører, når jeg råber til ham.",
+      "text": "\fMen I skal vide at JHVH har udvalgt sig en der er from;\fJHVH hører, når jeg råber til ham.",
       "number": 4
     },
     {
-      "text": "Bliv oprørte, men synd ikke!Tænk efter på jeres leje, og vær stille! Sela",
+      "text": "\fBliv oprørte, men synd ikke!\fTænk efter på jeres leje, og vær stille! Sela",
       "number": 5
     },
     {
-      "text": "Bring retfærdigheds ofre,og stol på JHVH!",
+      "text": "\fBring retfærdigheds ofre,\fog stol på JHVH!",
       "number": 6
     },
     {
-      "text": "Mange siger: Hvem vil lade os opleve godt?Løft over os dit ansigts lys, JHVHv!",
+      "text": "\fMange siger: Hvem vil lade os opleve godt?\fLøft over os dit ansigts lys, JHVHv!",
       "number": 7
     },
     {
-      "text": "Du gav glæde i mit hjerte,større end den de havde da deres korn og deres most var i overflod.",
+      "text": "\fDu gav glæde i mit hjerte,\fstørre end den de havde da deres korn og deres most var i overflod.",
       "number": 8
     },
     {
-      "text": "I fred vil jeg både lægge mig og sove,for du, JHVHv! lader mig bo ene{E: Andre knytter ordet *lᵊvādād* til JHVH: >>for alene du, JHVHv, lader mig bo i tryghed<<.} i tryghed.",
+      "text": "\fI fred vil jeg både lægge mig og sove,\ffor du, JHVHv! lader mig bo ene i tryghed.",
       "number": 9
     }
   ],
@@ -64,67 +78,73 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 14
+      "position": 15
     },
     {
       "text": "Ordret: >>skaffede du rum for mig<<.",
       "type": "T",
       "verse": 2,
-      "position": 76
+      "position": 79
     },
     {
       "text": "Ordret: >>mandssønner<<.",
       "type": "T",
       "verse": 3,
-      "position": 14
+      "position": 15
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 3,
-      "position": 93
+      "position": 95
     },
     {
       "text": "Verbet forekommer kun her og i 2 Mos 8,18; 9,4; 11,7; 33,16, hvor Israels udvælgelse og kald pointeres.",
       "type": "E",
       "verse": 4,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Sætningen er omdiskuteret. Oftest foretager man små tekstrettelser så der kan oversættes: >>JHVH har vist sin underfulde troskab mod mig<<.",
       "type": "E",
       "verse": 4,
-      "position": 54
+      "position": 55
     },
     {
       "text": "Meningen her med verbet *rigzû* (>>bliv oprørte<<, ordret: >>ryst<<) er omdiskuteret. Meningen er enten: >>Bliv vrede, (men synd ikke)<<. I det tilfælde er vreden rettet mod salmisten. Eller: >>Skælv (for Gud) (og synd ikke)<<.",
       "type": "E",
       "verse": 5,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Ordret: >>tal i jeres hjerte<<.",
       "type": "T",
       "verse": 5,
-      "position": 38
+      "position": 40
     },
     {
       "text": "Ofre der bringer retfærdighed fordi de er bragt af et menneske der længes efter Guds retfærdighed.",
       "type": "T",
       "verse": 6,
-      "position": 24
+      "position": 25
     },
     {
       "text": "I betydningen >>lykke<<.",
       "type": "T",
       "verse": 7,
-      "position": 41
+      "position": 42
     },
     {
       "text": "Most er ugæret druesaft.",
       "type": "T",
       "verse": 8,
-      "position": 77
+      "position": 79
+    },
+    {
+      "text": "Andre knytter ordet *lᵊvādād* til JHVH: >>for alene du, JHVHv, lader mig bo i tryghed<<.",
+      "type": "E",
+      "verse": 9,
+      "position": 71
     }
   ]
 }

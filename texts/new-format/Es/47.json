@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 47,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Sig ned og sæt dig i støvet. Du jomfru, Babylons datter! Sæt dig på jorden, her er ingen trone, du kaldæernes datter! For du skal ikke mere opnå, at de kalder dig >>den kælne<< og >>den fine.<<",
+      "text": "\fSig ned og sæt dig i støvet. Du jomfru, Babylons datter! Sæt dig på jorden, her er ingen trone, du kaldæernes datter! For du skal ikke mere opnå, at de kalder dig >>den kælne<< og >>den fine.<<",
       "number": 1
     },
     {
@@ -25,7 +35,7 @@
       "number": 5
     },
     {
-      "text": "Jeg var vred på mit folk, jeg vanhelligede min arv og gav dem i din hånd; du viste dem ikke barmhjertighed, du gjorde dit åg enormt tungt på oldingen.",
+      "text": "\fJeg var vred på mit folk, jeg vanhelligede min arv og gav dem i din hånd; du viste dem ikke barmhjertighed, du gjorde dit åg enormt tungt på oldingen.",
       "number": 6
     },
     {

@@ -3,33 +3,47 @@
   "abbreviation": "Sl",
   "chapter": 14,
   "version": 1504476000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Af David.En tåbe siger i sit hjerte: >>Der er ingen Gud<<.De udfører fordærvelig, afskyelig gerning,der er ingen der gør godt.",
+      "text": "\fTil korlederen. Af David.\fEn tåbe siger i sit hjerte: >>Der er ingen Gud<<.\fDe udfører fordærvelig, afskyelig gerning,\fder er ingen der gør godt.",
       "number": 1
     },
     {
-      "text": "JHVH skuede ned fra himlenpå menneskene,for at se om der var en forstandig,en der søgte Gud.",
+      "text": "\fJHVH skuede ned fra himlen\fpå menneskene,\ffor at se om der var en forstandig,\fen der søgte Gud.",
       "number": 2
     },
     {
-      "text": "De er alle kommet på afveje,alle er fordærvede,ingen gør godt,end ikke en eneste.",
+      "text": "\fDe er alle kommet på afveje,\falle er fordærvede,\fingen gør godt,\fend ikke en eneste.",
       "number": 3
     },
     {
-      "text": "Mon de ikke ved det, alle de der begår synd,de der æder mit folk, som åd de brød?de kaldte ikke på JHVH.",
+      "text": "\fMon de ikke ved det, alle de der begår synd,\fde der æder mit folk, som åd de brød?\fde kaldte ikke på JHVH.",
       "number": 4
     },
     {
-      "text": "Da skal de gribes af stor rædsel,for Gud er med en retfærdigs slægt.",
+      "text": "\fDa skal de gribes af stor rædsel,\ffor Gud er med en retfærdigs slægt.",
       "number": 5
     },
     {
-      "text": "Gør blot den hjælpeløses plan til skamme,for JHVH er dog hans tilflugt.",
+      "text": "\fGør blot den hjælpeløses plan til skamme,\ffor JHVH er dog hans tilflugt.",
       "number": 6
     },
     {
-      "text": "Gid{T: Ordret: >>hvem giver<<, men det er en almindelig ønskeformel.} Israels frelse må komme fra Zion!Når JHVH vender sit folks lod,{E: Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det er afledt af roden * šbh* (>>tage til fange<<), altså: >>fangenskab<<. Nu peges der oftest på roden *šwb* (egtl.: >>vende tilbage<<), her: >>lod<< eller evt. >>ændre forholdene/situationen<<.}skal Jakob juble, Israel skal glæde sig.",
+      "text": "\fGid Israels frelse må komme fra Zion!\fNår JHVH vender sit folks lod,\fskal Jakob juble, Israel skal glæde sig.",
       "number": 7
     }
   ],
@@ -56,19 +70,31 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Ordret: >>Adams børn/menneskes børn<<.",
       "type": "T",
       "verse": 2,
-      "position": 40
+      "position": 42
     },
     {
       "text": "Perfektiv skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det, der vil ske. Ellers skal der oversættes: >>Da var de grebet af stor rædsel<<.",
       "type": "E",
       "verse": 5,
-      "position": 33
+      "position": 34
+    },
+    {
+      "text": "Ordret: >>hvem giver<<, men det er en almindelig ønskeformel.",
+      "type": "T",
+      "verse": 7,
+      "position": 4
+    },
+    {
+      "text": "Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det er afledt af roden * šbh* (>>tage til fange<<), altså: >>fangenskab<<. Nu peges der oftest på roden *šwb* (egtl.: >>vende tilbage<<), her: >>lod<< eller evt. >>ændre forholdene/situationen<<.",
+      "type": "E",
+      "verse": 7,
+      "position": 69
     }
   ]
 }

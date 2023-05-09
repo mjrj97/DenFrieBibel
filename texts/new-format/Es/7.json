@@ -3,9 +3,27 @@
   "abbreviation": "Es",
   "chapter": 7,
   "version": 1668034800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "Dengang Akaz, Jotams søn, Uzzijas sønnesøn, var konge i Juda,\n\t\tdrog Arams konge Resin og Israels konge Peka, Remaljas søn, op mod Jerusalem for at føre krig imod den;\n\t\t\tmen de kunne ikke\n\t\t\t\tbesejre den.",
+      "text": "\fDengang Akaz, Jotams søn, Uzzijas sønnesøn, var konge i Juda,\n\t\tdrog Arams konge Resin og Israels konge Peka, Remaljas søn, op mod Jerusalem for at føre krig imod den;\n\t\t\tmen de kunne ikke\n\t\t\t\tbesejre den.",
       "number": 1
     },
     {
@@ -29,19 +47,19 @@
       "number": 6
     },
     {
-      "text": "\t\t\t\t\t\tså siger Herren JHVH:\n\t\t\t\t\t\t\t>Det skal ikke lykkes\n\t\t\t\t\t\t\t\t\t\tog ikke ske!",
+      "text": "\t\t\t\t\t\tså siger Herren JHVH:\f\n\t\t\t\t\t\t\t>Det skal ikke lykkes\n\t\t\t\t\t\t\t\t\t\tog ikke ske!",
       "number": 7
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tFor Damaskus er Arams hoved,\n\t\t\t\t\t\t\t\t\t\t\t\tog Resin er Damaskus' hoved;\n\t\t\t\t\t\t\t\t\t\t\tendnu femogtres år og så skal Efraim knuses,så det ikke længere er et folk.",
+      "text": "\f\t\t\t\t\t\t\t\t\tFor Damaskus er Arams hoved,\f\n\t\t\t\t\t\t\t\t\t\t\t\tog Resin er Damaskus' hoved;\f\n\t\t\t\t\t\t\t\t\t\t\tendnu femogtres år og så skal Efraim knuses,\fså det ikke længere er et folk.",
       "number": 8
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tOg Samaria er Efraims hoved,\n\t\t\t\t\t\t\t\t\t\t\tog Remaljas søn er Samarias hoved.\n\t\t\t\t\t\t\t\tEr I ikke trofaste,\n\t\t\t\t\t\t\t\t\tvil jeg ikke være trofast mod jer.<<<",
+      "text": "\f\t\t\t\t\t\t\t\t\t\tOg Samaria er Efraims hoved,\f\n\t\t\t\t\t\t\t\t\t\t\tog Remaljas søn er Samarias hoved.\f\n\t\t\t\t\t\t\t\tEr I ikke trofaste,\f\n\t\t\t\t\t\t\t\t\tvil jeg ikke være trofast mod jer.<<<",
       "number": 9
     },
     {
-      "text": "\t\tOg JHVH fortsatte\n\t\t\t\t\tmed at tale til Akaz:",
+      "text": "\f\t\tOg JHVH fortsatte\n\t\t\t\t\tmed at tale til Akaz:",
       "number": 10
     },
     {
@@ -69,35 +87,35 @@
       "number": 16
     },
     {
-      "text": "\t\t\t\t\t\t\t\tOver dig og over dit folk og over din fars hus skal JHVH lade dage komme\n\t\t\t\t\t\t\t\t\t\tder ikke har været siden den dag\n\t\t\t\t\t\t\t\t\t\t\tEfraim faldt fra Juda –\n\t\t\t\t\t\t\t\t\t",
+      "text": "\t\t\t\t\t\t\t\tOver dig og over dit folk og over din fars hus skal JHVH lade dage komme\n\t\t\t\t\t\t\t\t\t\tder ikke har været siden den dag\n\t\t\t\t\t\t\t\t\t\t\tEfraim faldt fra Juda –",
       "number": 17
     },
     {
-      "text": "\t\t\t\t\tPå den dag\n\t\t\t\t\t\t\tskal JHVH fløjte ad fluerne\n\t\t\t\t\t\t\t\t\t\tved enden af Egyptens floder\n\t\t\t\t\t\t\t\t\tog ad bierne\n\t\t\t\t\t\t\t\t\t\ti Assyriens land,",
+      "text": "\f\t\t\t\t\tPå den dag\n\t\t\t\t\t\t\tskal JHVH fløjte ad fluerne\f\n\t\t\t\t\t\t\t\t\t\tved enden af Egyptens floder\f\n\t\t\t\t\t\t\t\t\tog ad bierne\n\t\t\t\t\t\t\t\t\t\ti Assyriens land,",
       "number": 18
     },
     {
-      "text": "\t\t\t\t\t\t\t\tog de skal komme,\n\t\t\t\t\t\t\t\t\tog de skal alle slå sig nedi dalslugterne og klipperevnerne,i alle tornebuskene og ved alle vandingsstederne.***",
+      "text": "\f\t\t\t\t\t\t\t\tog de skal komme,\n\t\t\t\t\t\t\t\t\tog de skal alle slå sig ned\fi dalslugterne og klipperevnerne,\fi alle tornebuskene og ved alle vandingsstederne.\n\n",
       "number": 19
     },
     {
-      "text": "\t\t\t\t\t\tPå den dag skal Herren barbere hovedet og hårene på underkroppen med en barberkniv,som han har lejet på den anden side af floden, hos kongen af Assyrien,\n\t\t\t\t\t\t\tog den skal også helt fjerne skægget.***",
+      "text": "\f\t\t\t\t\t\tPå den dag skal Herren barbere hovedet og hårene på underkroppen med en barberkniv,\fsom han har lejet på den anden side af floden, hos kongen af Assyrien,\f\n\t\t\t\t\t\t\tog den skal også helt fjerne skægget.\n\n",
       "number": 20
     },
     {
-      "text": "\t\t\t\t\tPå den dag\n\t\t\t\t\t\tskal en mand lade en kviekalv og to får leve",
+      "text": "\f\t\t\t\t\tPå den dag\n\t\t\t\t\t\tskal en mand lade en kviekalv og to får leve",
       "number": 21
     },
     {
-      "text": "\t\t\t\t\t\t\t\tfordi de giver så meget\n\t\t\t\t\t\t\t\t\t\tmælk\n\t\t\t\t\t\t\t\t\tat han kan spise tykmælk;\n\t\t\t\t\t\t\t\tfor enhver der bliver tilbage i landet,\n\t\t\t\t\t\t\tskal spise tykmælk og honning.***",
+      "text": "\f\t\t\t\t\t\t\t\tfordi de giver så meget\n\t\t\t\t\t\t\t\t\t\tmælk\n\t\t\t\t\t\t\t\t\tat han kan spise tykmælk;\f\n\t\t\t\t\t\t\t\tfor enhver der bliver tilbage i landet,\n\t\t\t\t\t\t\tskal spise tykmælk og honning.\n\n",
       "number": 22
     },
     {
-      "text": "\t\t\t\t\tPå den dag\n\t\t\t\t\t\tskal hvert sted\n\t\t\t\t\t\t\t\t\t\thvor der var tusind vinstokke\n\t\t\t\t\t\t\t\t\ttil en værdi af tusind sekel sølv,blive til torn og tidsel.",
+      "text": "\f\t\t\t\t\tPå den dag\n\t\t\t\t\t\tskal hvert sted\n\t\t\t\t\t\t\t\t\t\thvor der var tusind vinstokke\f\n\t\t\t\t\t\t\t\t\ttil en værdi af tusind sekel sølv,\fblive til torn og tidsel.",
       "number": 23
     },
     {
-      "text": "\t\t\t\t\t\t\t\tMan skal gå derhen med bue og pil,\n\t\t\t\t\t\t\t\t\tfor hele landet skal blive til torn og tidsel.\n\t\t\t\t\t\t\t25 Og alle bjergene\n\t\t\t\t\t\t\t\t\t\thvor man hakker med hakke,\n\t\t\t\t\t\t\t\t\tskal man ikke gå til af frygt for torne og tidsler.\n\t\t\t\t\t\t\t\tDe skal kun være til at slippe kvæg løs påog til at blive trådt ned af får.",
+      "text": "\f\t\t\t\t\t\t\t\tMan skal gå derhen med bue og pil,\f\n\t\t\t\t\t\t\t\t\tfor hele landet skal blive til torn og tidsel.\f\n\t\t\t\t\t\t\t25 Og alle bjergene\n\t\t\t\t\t\t\t\t\t\thvor man hakker med hakke,\f\n\t\t\t\t\t\t\t\t\tskal man ikke gå til af frygt for torne og tidsler.\f\n\t\t\t\t\t\t\t\tDe skal kun være til at slippe kvæg løs på\fog til at blive trådt ned af får.",
       "number": 24
     }
   ],
@@ -118,7 +136,7 @@
       "text": "Sidste del af vers 9 bygger på et ordspil på *ˀᵃman*, der kan oversættes med troværdig, trofast og bekræfte. Første del af ordspillet er aktivt, dvs. det handler om Efraims trofasthed, mens anden del er passiv, dvs. det handler om en trofasthed mod eller bekræftelse af Efraim, sandsynligvis Guds fortsatte trofasthed mod Efraim.",
       "type": "E",
       "verse": 9,
-      "position": 159
+      "position": 163
     },
     {
       "text": "Immanuel betyder >>Gud med os<<.",
@@ -130,7 +148,7 @@
       "text": "Ordret: >>fødderne<<.",
       "type": "T",
       "verse": 20,
-      "position": 70
+      "position": 71
     }
   ]
 }

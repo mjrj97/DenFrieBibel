@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 24,
   "version": 1496181600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Da Bileam så at det behagede JHVH at velsigne Israel, gik han ikke som de andre gange hen for at søge tegn, men rettede sit ansigt mod ørkenen.",
+      "text": "\fDa Bileam så at det behagede JHVH at velsigne Israel, gik han ikke som de andre gange hen for at søge tegn, men rettede sit ansigt mod ørkenen.",
       "number": 1
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "Han tog til orde og sagde: >>Dette siger Bileam, Beors søn, dette siger den mand hvis øje er tillukket,",
+      "text": "\fHan tog til orde og sagde: >>Dette siger Bileam, Beors søn, dette siger den mand hvis øje er tillukket,",
       "number": 15
     },
     {

@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 13,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Taler jeg med menneskers og engles tunger, men ikke har kærlighed, så er jeg blevet et lydende malm eller en klingende bjælde.",
+      "text": "\fTaler jeg med menneskers og engles tunger, men ikke har kærlighed, så er jeg blevet et lydende malm eller en klingende bjælde.",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "Kærligheden er tålmodig, er velvillig; kærligheden er ikke misundelig; kærligheden praler ikke, er ikke stolt,",
+      "text": "\fKærligheden er tålmodig, er velvillig; kærligheden er ikke misundelig; kærligheden praler ikke, er ikke stolt,",
       "number": 4
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Kærligheden bortfalder aldrig; men enten det er profetiske gaver, de skal forgå, eller tungetale, den skal ophøre, eller kundskab, den skal forgå;",
+      "text": "\fKærligheden bortfalder aldrig; men enten det er profetiske gaver, de skal forgå, eller tungetale, den skal ophøre, eller kundskab, den skal forgå;",
       "number": 8
     },
     {

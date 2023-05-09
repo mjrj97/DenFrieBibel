@@ -3,9 +3,23 @@
   "abbreviation": "Rom",
   "chapter": 15,
   "version": 1637535600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For alt hvad der hidtil er skrevet, er skrevet for at vi skulle lære af det, for at vi kan fastholde håbet ved den udholdenhed og trøst som skrifterne giver.",
+      "text": "\fFor alt hvad der hidtil er skrevet, er skrevet for at vi skulle lære af det, for at vi kan fastholde håbet ved den udholdenhed og trøst som skrifterne giver.",
       "number": 4
     },
     {

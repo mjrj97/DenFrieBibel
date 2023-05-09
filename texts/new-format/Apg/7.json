@@ -3,9 +3,23 @@
   "abbreviation": "Apg",
   "chapter": 7,
   "version": 1639954800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men da de hørte dette, skar det dem i deres hjerter, og de skar tænder imod ham.",
+      "text": "\fMen da de hørte dette, skar det dem i deres hjerter, og de skar tænder imod ham.",
       "number": 54
     },
     {

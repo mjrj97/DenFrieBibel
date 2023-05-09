@@ -3,69 +3,83 @@
   "abbreviation": "Es",
   "chapter": 19,
   "version": 1681336800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Udsagn om Egypten.Se, JHVH rider på en let skyog kommer til Egypten,og Egyptens afguder bæver for ham,og Egyptens hjerte bliver modløst i dets indre.",
+      "text": "\fUdsagn om Egypten.\fSe, JHVH rider på en let sky\fog kommer til Egypten,\fog Egyptens afguder bæver for ham,\fog Egyptens hjerte bliver modløst i dets indre.",
       "number": 1
     },
     {
-      "text": "For jeg vil væbne Egypten imod Egypten,så de kæmper hver mod sin brorog hver mod sin næste,by mod by,kongerige mod kongerige.",
+      "text": "\fFor jeg vil væbne Egypten imod Egypten,\fså de kæmper hver mod sin bror\fog hver mod sin næste,\fby mod by,\fkongerige mod kongerige.",
       "number": 2
     },
     {
-      "text": "Og Egyptens ånd skal gå til grunde i dets indre,og dets planer vil jeg forvirre,så de vender sig til afguderne og til genfærdtil dødemanerne og til sandsigerne.",
+      "text": "\fOg Egyptens ånd skal gå til grunde i dets indre,\fog dets planer vil jeg forvirre,\fså de vender sig til afguderne og til genfærd\ftil dødemanerne og til sandsigerne.",
       "number": 3
     },
     {
-      "text": "Og jeg vil overgive Egyptentil hårde herrers hånd,og en streng konge skal herske over dem,det er Herrens, Hærskarers HERRES, udsagn.***",
+      "text": "\fOg jeg vil overgive Egypten\ftil hårde herrers hånd,\fog en streng konge skal herske over dem,\fdet er Herrens, Hærskarers HERRES, udsagn.\n\n",
       "number": 4
     },
     {
-      "text": "Vand skal svinde bort fra havet,og flod skal udtørres og blive tør,",
+      "text": "\fVand skal svinde bort fra havet,\fog flod skal udtørres og blive tør,",
       "number": 5
     },
     {
-      "text": "og floder skal stinke,lavvandede og tørre skal Egyptens strømme blive,rør og siv skal visne.",
+      "text": "\fog floder skal stinke,\flavvandede og tørre skal Egyptens strømme blive,\frør og siv skal visne.",
       "number": 6
     },
     {
-      "text": "Engene ved Nilen, ved bredden af Nilen,og alle Nilens tilsåede markerskal tørre ud, blæses væk så de ikke findes mere.",
+      "text": "\fEngene ved Nilen, ved bredden af Nilen,og alle Nilens tilsåede marker\fskal tørre ud, blæses væk så de ikke findes mere.",
       "number": 7
     },
     {
-      "text": "Og fiskerne skal klage og sørge,alle der kaster krog i Nilen,breder garn ud over vandet,skal sygne hen.",
+      "text": "\fOg fiskerne skal klage og sørge,\falle der kaster krog i Nilen,\fbreder garn ud over vandet,\fskal sygne hen.",
       "number": 8
     },
     {
-      "text": "Og de der arbejder med hør, skal blive til skamme, de der karter,og de der væver hvidt tøj.",
+      "text": "\fOg de der arbejder med hør, skal blive til skamme, de der karter,\fog de der væver hvidt tøj.",
       "number": 9
     },
     {
-      "text": "Og dets søjler skal være knust,alle de der arbejder for løn, skal være bedrøvede i hjertet.",
+      "text": "\fOg dets søjler skal være knust,\falle de der arbejder for løn, skal være bedrøvede i hjertet.",
       "number": 10
     },
     {
-      "text": "Soans ledere er helt igennem tåber,Faraos vise rådgiveres råd er tåbeligt;hvordan kan I sige til Farao:>>Jeg er søn af vismænd,fortids kongers søn<<?",
+      "text": "\fSoans ledere er helt igennem tåber,\fFaraos vise rådgiveres råd er tåbeligt;\fhvordan kan I sige til Farao:\f>>Jeg er søn af vismænd,\ffortids kongers søn<<?",
       "number": 11
     },
     {
-      "text": "Hvor er da dine vismænd?Lad dem da fortælle dig,og lad dem vide,hvad Hærskarers HERRE har besluttet om Egypten!",
+      "text": "\fHvor er da dine vismænd?\fLad dem da fortælle dig,\fog lad dem vide,\fhvad Hærskarers HERRE har besluttet om Egypten!",
       "number": 12
     },
     {
-      "text": "Soans ledere er blevet tåber,Nofs ledere er blevet bedraget,og Egypten har vildledt sine stammers hjørnesten.",
+      "text": "\fSoans ledere er blevet tåber,\fNofs ledere er blevet bedraget,\fog Egypten har vildledt sine stammers hjørnesten.",
       "number": 13
     },
     {
-      "text": "JHVH har i dets indre blandeten forvirringens ånd,og den har vildledt Egypteni al dets gerning,som en beruset tumler omkring i sit opkast.",
+      "text": "\fJHVH har i dets indre blandet\fen forvirringens ånd,\fog den har vildledt Egypten\fi al dets gerning,\fsom en beruset tumler omkring i sit opkast.",
       "number": 14
     },
     {
-      "text": "Og der skal ikke være nogen gerning for Egypten,som hoved eller hale,palmegren eller siv kan udføre.",
+      "text": "\fOg der skal ikke være nogen gerning for Egypten,\fsom hoved eller hale,\fpalmegren eller siv kan udføre.",
       "number": 15
     },
     {
-      "text": "På den dag skal Egypten være som kvinder, det skal ryste og skælve for Hærskarers HERRES svingende hånd, som svinger over det.",
+      "text": "\fPå den dag skal Egypten være som kvinder, det skal ryste og skælve for Hærskarers HERRES svingende hånd, som svinger over det.",
       "number": 16
     },
     {
@@ -77,7 +91,7 @@
       "number": 18
     },
     {
-      "text": "På den dag skal der være et alter for JHVH midt i Egyptens land og en stenstøtte for JHVH ved dets grænse.",
+      "text": "\fPå den dag skal der være et alter for JHVH midt i Egyptens land og en stenstøtte for JHVH ved dets grænse.",
       "number": 19
     },
     {
@@ -101,7 +115,7 @@
       "number": 24
     },
     {
-      "text": "som Hærskarers HERRE{N: Hærskarers} har velsignet og sagt: >>Velsignet være mit folk Egypten og mine hænders værk Assyrien og min ejendom{E: Det er forskelligt, om det hebraiske *naḥᵃlāʰ* oversættes: >>ejendom<< eller: >>arvelod<<.} Israel!<<",
+      "text": "som Hærskarers HERRE har velsignet og sagt: >>Velsignet være mit folk Egypten og mine hænders værk Assyrien og min ejendom Israel!<<",
       "number": 25
     }
   ],
@@ -116,61 +130,61 @@
       "text": "Kan også oversættes: >>for hans ansigt<<.",
       "type": "T",
       "verse": 1,
-      "position": 102
+      "position": 106
     },
     {
       "text": "Hærskarers",
       "type": "N",
       "verse": 4,
-      "position": 124
+      "position": 128
     },
     {
       "text": "Ordet *ʕārāʰ* findes i Bibelen kun her, og oversættelsen er usikker. Fortolkerne vakler mellem: >>enge/åbne pladser<< og >>sivplanter<<.",
       "type": "E",
       "verse": 7,
-      "position": 6
+      "position": 7
     },
     {
       "text": "Ordet *peʰ* kan også oversættes: >>udløb<<.",
       "type": "E",
       "verse": 7,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Ordet *mizrāʕ* findes i Bibelen kun her. Efter alt at dømme betegner det jord der kan tilsås.",
       "type": "E",
       "verse": 7,
-      "position": 69
+      "position": 70
     },
     {
       "text": "Denhebraiske tekst har adjektiv, femininum (>>kartet<<), mens >>hør<< er maskulinum. Man forudsætter derfor oftest en anden vokalisering, så der læses et substantiv: *śᵊrîqôt* til: *śorqôt*: >>kartende (kvinder)<<. Ordet findes kun denne ene gang i Bibelen.",
       "type": "E",
       "verse": 9,
-      "position": 65
+      "position": 66
     },
     {
       "text": "Der er tænkt på Egyptens ledere. Men ofte følger man Septuatinta, der forudsætter sletning af et *t*: *šātōteʸhā* til: *šōteʸhā*: >>vævere<<.",
       "type": "E",
       "verse": 10,
-      "position": 14
-    },
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 12,
-      "position": 85
-    },
-    {
-      "text": "Egyptens.",
-      "type": "T",
-      "verse": 14,
       "position": 15
     },
     {
       "text": "Hærskarers",
       "type": "N",
+      "verse": 12,
+      "position": 89
+    },
+    {
+      "text": "Egyptens.",
+      "type": "T",
+      "verse": 14,
+      "position": 16
+    },
+    {
+      "text": "Hærskarers",
+      "type": "N",
       "verse": 16,
-      "position": 88
+      "position": 89
     },
     {
       "text": "Hærskarers",
@@ -201,6 +215,18 @@
       "type": "T",
       "verse": 21,
       "position": 102
+    },
+    {
+      "text": "Hærskarers",
+      "type": "N",
+      "verse": 25,
+      "position": 20
+    },
+    {
+      "text": "Det er forskelligt, om det hebraiske *naḥᵃlāʰ* oversættes: >>ejendom<< eller: >>arvelod<<.",
+      "type": "E",
+      "verse": 25,
+      "position": 122
     }
   ]
 }

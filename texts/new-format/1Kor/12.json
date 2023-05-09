@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 12,
   "version": 1646953200000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men hvad de åndelige gaver angår, brødre, vil jeg ikke have at I skal være uvidende.",
+      "text": "\fMen hvad de åndelige gaver angår, brødre, vil jeg ikke have at I skal være uvidende.",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "Der er forskel på nådegaver, men det er den samme Ånd;",
+      "text": "\fDer er forskel på nådegaver, men det er den samme Ånd;",
       "number": 4
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "For ligesom legemet er ét og har mange legemsdele, men alle legemets dele, selvom de er mange, alligevel er ét legeme, sådan også Kristus.",
+      "text": "\fFor ligesom legemet er ét og har mange legemsdele, men alle legemets dele, selvom de er mange, alligevel er ét legeme, sådan også Kristus.",
       "number": 12
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Legemet er jo heller ikke én legemsdel, men mange.",
+      "text": "\fLegemet er jo heller ikke én legemsdel, men mange.",
       "number": 14
     },
     {
@@ -109,7 +123,7 @@
       "number": 26
     },
     {
-      "text": "Men I er Kristi legeme, og hver især legemsdele.",
+      "text": "\fMen I er Kristi legeme, og hver især legemsdele.",
       "number": 27
     },
     {
@@ -125,7 +139,7 @@
       "number": 30
     },
     {
-      "text": "Men eftertragt de største nådegaver! Og desuden viser jeg jer en endnu bedre vej.",
+      "text": "\fMen eftertragt de største nådegaver! Og desuden viser jeg jer en endnu bedre vej.",
       "number": 31
     }
   ],

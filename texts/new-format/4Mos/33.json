@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 33,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Dette er israelitternes rejser, da de var rejst ud af Egypten, efter deres hære, under Moses og Aron.",
+      "text": "\fDette er israelitternes rejser, da de var rejst ud af Egypten, efter deres hære, under Moses og Aron.",
       "number": 1
     },
     {
@@ -201,7 +211,7 @@
       "number": 49
     },
     {
-      "text": "JHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko. Han sagde:",
+      "text": "\fJHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko. Han sagde:",
       "number": 50
     },
     {

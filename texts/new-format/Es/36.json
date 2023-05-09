@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 36,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Og det skete i kong Ezekias' fjortende år, at Senakerib, kongen af Assyrien, drog op imod alle Judas faste byer og indtog dem.",
+      "text": "\fOg det skete i kong Ezekias' fjortende år, at Senakerib, kongen af Assyrien, drog op imod alle Judas faste byer og indtog dem.",
       "number": 1
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Da sagde Eliakim og Sebna og Joa til Rabsake: >>Kære herre, tal til dine tjenere på syrisk, for det forstår vi; og tal ikke til os på judæisk for ørerne af folket, der står på muren.<<",
+      "text": "\fDa sagde Eliakim og Sebna og Joa til Rabsake: >>Kære herre, tal til dine tjenere på syrisk, for det forstår vi; og tal ikke til os på judæisk for ørerne af folket, der står på muren.<<",
       "number": 11
     },
     {

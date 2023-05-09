@@ -3,29 +3,39 @@
   "abbreviation": "Sl",
   "chapter": 150,
   "version": 1504476000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Halleluja!Lovpris Gud i hans helligdom,lovpris ham i hans vældes himmelhvælving!",
+      "text": "\fHalleluja!\fLovpris Gud i hans helligdom,\flovpris ham i hans vældes himmelhvælving!",
       "number": 1
     },
     {
-      "text": "Lovpris ham for hans mægtige gerninger,lovpris ham i overensstemmelse med hans vældige storhed!",
+      "text": "\fLovpris ham for hans mægtige gerninger,\flovpris ham i overensstemmelse med hans vældige storhed!",
       "number": 2
     },
     {
-      "text": "Lovpris ham med stød i basun,lovpris ham med harpe og citer,",
+      "text": "\fLovpris ham med stød i basun,\flovpris ham med harpe og citer,",
       "number": 3
     },
     {
-      "text": "lovpris ham med pauke og dans,lovpris ham med strengespil og fløjte,",
+      "text": "\flovpris ham med pauke og dans,\flovpris ham med strengespil og fløjte,",
       "number": 4
     },
     {
-      "text": "lovpris ham med klingende cymbler,lovpris ham med rungende cymbler!",
+      "text": "\flovpris ham med klingende cymbler,\flovpris ham med rungende cymbler!",
       "number": 5
     },
     {
-      "text": "Alt som har ånde, skal lovprise JHVH!{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}Halleluja!",
+      "text": "\fAlt som har ånde, skal lovprise JHVH!\fHalleluja!",
       "number": 6
     }
   ],
@@ -48,7 +58,13 @@
       "text": "Kan også oversættes: >>hans hellighed<<, men i sammenhængen er der formodentlig tænkt på templet.",
       "type": "E",
       "verse": 1,
-      "position": 39
+      "position": 41
+    },
+    {
+      "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+      "type": "T",
+      "verse": 6,
+      "position": 38
     }
   ]
 }

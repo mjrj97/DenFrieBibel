@@ -121,6 +121,14 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0rem 0.5rem 0rem 0rem;
 }
 
+.verseNumber:active{
+  background-color: var(--link);
+}
+
+.verseNumber-dark:active{
+  background-color: var(--link);
+}
+
 .verseNumber-light {
   transition: 0.3s;
   background-color: var(--soft-sixty);
@@ -273,10 +281,31 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
+.accountpage-image {
+  display: inline-block;
+  border-radius: 100%;
+  width: 6rem;
+  height: 6rem;
+  background-color: #aaaaaa;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  object-fit: cover;
+}
+
+.accountpage-container {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.accountpage-name {
+  display: inline-block;
+}
+
 .account-button {
   height: 100%;
   padding-right: 1.5rem;
-  
+
   display: table-cell;
   vertical-align: middle;
   border-width: 0;

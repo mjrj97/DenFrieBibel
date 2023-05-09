@@ -3,69 +3,83 @@
   "abbreviation": "Sl",
   "chapter": 91,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Som en der bor i den Højestes skjul,som vil opholde sig i den Almægtiges skygge,",
+      "text": "\fSom en der bor i den Højestes skjul,\fsom vil opholde sig i den Almægtiges skygge,",
       "number": 1
     },
     {
-      "text": "siger jeg til JHVH:>>Min tilflugt og min borg,min Gud, som jeg stoler på.<<",
+      "text": "\fsiger jeg til JHVH:\f>>Min tilflugt og min borg,\fmin Gud, som jeg stoler på.<<",
       "number": 2
     },
     {
-      "text": "For han vil befri digfra fuglefængerens snare,fra fordærvende pest.",
+      "text": "\fFor han vil befri dig\ffra fuglefængerens snare,\ffra fordærvende pest.",
       "number": 3
     },
     {
-      "text": "Han skal beskytte dig med sine svingfjer,og du kan søge ly under hans vinger;hans trofasthed er langskjold og værn.",
+      "text": "\fHan skal beskytte dig med sine svingfjer,\fog du kan søge ly under hans vinger;\fhans trofasthed er langskjold og værn.",
       "number": 4
     },
     {
-      "text": "Du skal ikke frygte for nattens rædsel,for en pil som flyver om dagen,",
+      "text": "\fDu skal ikke frygte for nattens rædsel,\ffor en pil som flyver om dagen,",
       "number": 5
     },
     {
-      "text": "for pest som breder sig i mørket,for epidemi som hærger om middagen.",
+      "text": "\ffor pest som breder sig i mørket,\ffor epidemi som hærger om middagen.",
       "number": 6
     },
     {
-      "text": "Om så tusind falder ved din sideog titusind ved din højre hånd -til dig skal det ikke nå.",
+      "text": "\fOm så tusind falder ved din side\fog titusind ved din højre hånd -\ftil dig skal det ikke nå.",
       "number": 7
     },
     {
-      "text": "Du skal kun se det med dine øjne,og du skal se de gudløses straf.",
+      "text": "\fDu skal kun se det med dine øjne,\fog du skal se de gudløses straf.",
       "number": 8
     },
     {
-      "text": ">>Ja, du, JHVHv, er min tilflugt!<<Den Højeste har du gjort til din bolig,",
+      "text": "\f>>Ja, du, JHVHv, er min tilflugt!<<\fDen Højeste har du gjort til din bolig,",
       "number": 9
     },
     {
-      "text": "der skal ikke tilstøde dig ondt,og plage skal ikke komme nær til dit telt.",
+      "text": "\fder skal ikke tilstøde dig ondt,\fog plage skal ikke komme nær til dit telt.",
       "number": 10
     },
     {
-      "text": "For han vil give sine engle befaling om digat de skal beskytte dig på alle dine veje.",
+      "text": "\fFor han vil give sine engle befaling om dig\fat de skal beskytte dig på alle dine veje.",
       "number": 11
     },
     {
-      "text": "De skal bære dig på hænderså du ikke støder din fod på nogen sten.",
+      "text": "\fDe skal bære dig på hænder\fså du ikke støder din fod på nogen sten.",
       "number": 12
     },
     {
-      "text": "På løve og giftslange skal du træde,du skal nedtræde ungløve og drage.",
+      "text": "\fPå løve og giftslange skal du træde,\fdu skal nedtræde ungløve og drage.",
       "number": 13
     },
     {
-      "text": ">>Fordi han har holdt sig til mig, vil jeg udfri ham,jeg vil beskytte ham, for han kender mit navn.",
+      "text": "\f>>Fordi han har holdt sig til mig, vil jeg udfri ham,\fjeg vil beskytte ham, for han kender mit navn.",
       "number": 14
     },
     {
-      "text": "Råber han til mig, vil jeg svare ham,jeg er hos ham i nød,jeg vil redde ham og give ham ære.",
+      "text": "\fRåber han til mig, vil jeg svare ham,\fjeg er hos ham i nød,\fjeg vil redde ham og give ham ære.",
       "number": 15
     },
     {
-      "text": "Jeg vil mætte ham med et langt livog lade ham nyde synet af min frelse.<<",
+      "text": "\fJeg vil mætte ham med et langt liv\fog lade ham nyde synet af min frelse.<<",
       "number": 16
     }
   ],
@@ -88,43 +102,43 @@
       "text": "Kan også oversættes: >>sidder<<.",
       "type": "T",
       "verse": 1,
-      "position": 14
+      "position": 15
     },
     {
       "text": "Kan også oversættes: >>sandhed<<.",
       "type": "T",
       "verse": 4,
-      "position": 92
+      "position": 95
     },
     {
       "text": "Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: >>værn<< eller >>bolværk<<.",
       "type": "E",
       "verse": 4,
-      "position": 115
+      "position": 118
     },
     {
       "text": "Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som >>tilflugt<< i alle livets situationer (v.2).",
       "type": "E",
       "verse": 9,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Ordret: >>på stenen<<.",
       "type": "T",
       "verse": 12,
-      "position": 66
+      "position": 68
     },
     {
       "text": "Det er omdiskuteret, hvad der præcist er tænkt på her med ordet *tannîn*. I flere sammenhænge er det betegnelse for et søuhyre, men her er der måske – som i 2 Mos 7,9-12 – tænkt på en slange.",
       "type": "E",
       "verse": 13,
-      "position": 70
+      "position": 72
     },
     {
       "text": "Ordret: >>har hængt på mig<<.",
       "type": "T",
       "verse": 14,
-      "position": 29
+      "position": 30
     }
   ]
 }

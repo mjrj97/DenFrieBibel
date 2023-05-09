@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 15,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men jeg gør jer bekendt, brødre, med det evangelium som jeg forkyndte for jer, som I også modtog, og som I også står i,",
+      "text": "\fMen jeg gør jer bekendt, brødre, med det evangelium som jeg forkyndte for jer, som I også modtog, og som I også står i,",
       "number": 1
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "Men når der prædikes, at Kristus er oprejst fra de døde, hvordan kan det være, at nogle iblandt jer så siger, at der ikke er nogen dødes opstandelse?",
+      "text": "\fMen når der prædikes, at Kristus er oprejst fra de døde, hvordan kan det være, at nogle iblandt jer så siger, at der ikke er nogen dødes opstandelse?",
       "number": 12
     },
     {
@@ -81,7 +95,7 @@
       "number": 19
     },
     {
-      "text": "Men nu er Kristus oprejst fra de døde, som førstegrøde af dem, der er sovet hen.",
+      "text": "\fMen nu er Kristus oprejst fra de døde, som førstegrøde af dem, der er sovet hen.",
       "number": 20
     },
     {
@@ -117,7 +131,7 @@
       "number": 28
     },
     {
-      "text": "Hvad vil ellers de, der lader sig døbe for de døde, opnå? Hvis døde overhovedet ikke oprejses, hvorfor lader de sig så døbe for dem?",
+      "text": "\fHvad vil ellers de, der lader sig døbe for de døde, opnå? Hvis døde overhovedet ikke oprejses, hvorfor lader de sig så døbe for dem?",
       "number": 29
     },
     {
@@ -141,7 +155,7 @@
       "number": 34
     },
     {
-      "text": "Men man vil sige: >>Hvordan oprejses de døde? Hvad slags legeme kommer de med?<<",
+      "text": "\fMen man vil sige: >>Hvordan oprejses de døde? Hvad slags legeme kommer de med?<<",
       "number": 35
     },
     {
@@ -201,7 +215,7 @@
       "number": 49
     },
     {
-      "text": "Men dette siger jeg, brødre, at kød og blod ikke kan arve Guds rige, forgængeligheden arver heller ikke uforgængeligheden.",
+      "text": "\fMen dette siger jeg, brødre, at kød og blod ikke kan arve Guds rige, forgængeligheden arver heller ikke uforgængeligheden.",
       "number": 50
     },
     {

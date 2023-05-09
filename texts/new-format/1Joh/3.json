@@ -3,9 +3,23 @@
   "abbreviation": "1Joh",
   "chapter": 3,
   "version": 1643670000000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "I skal ikke undre jer, brødre, hvis verden hader jer.",
+      "text": "\fI skal ikke undre jer, brødre, hvis verden hader jer.",
       "number": 13
     },
     {

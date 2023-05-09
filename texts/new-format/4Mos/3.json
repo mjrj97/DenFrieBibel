@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 3,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Dette er Arons og Moses’ slægtshistorie den dag JHVH talte med Moses på Sinajs bjerg.",
+      "text": "\fDette er Arons og Moses’ slægtshistorie den dag JHVH talte med Moses på Sinajs bjerg.",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 5
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 11
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "JHVH talte til Moses i Sinajs ørken:",
+      "text": "\fJHVH talte til Moses i Sinajs ørken:",
       "number": 14
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "Dette var navnene på Levis børn: Gershon, Kehat og Merari.",
+      "text": "\fDette var navnene på Levis børn: Gershon, Kehat og Merari.",
       "number": 17
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Til Gershon hører libnitternes slægt og shim’itternes slægt. Dette er gershonitternes slægter.",
+      "text": "\fTil Gershon hører libnitternes slægt og shim’itternes slægt. Dette er gershonitternes slægter.",
       "number": 21
     },
     {
@@ -109,7 +119,7 @@
       "number": 26
     },
     {
-      "text": "Til Kehat hører amramitternes slægt og jis’haritternes slægt og hebronitternes slægt og uzzielitternes slægt. Dette er kehatitternes slægter.",
+      "text": "\fTil Kehat hører amramitternes slægt og jis’haritternes slægt og hebronitternes slægt og uzzielitternes slægt. Dette er kehatitternes slægter.",
       "number": 27
     },
     {
@@ -133,7 +143,7 @@
       "number": 32
     },
     {
-      "text": "Til Merari hører maklitternes slægt og mushitternes slægt. Dette er mararitternes slægter.",
+      "text": "\fTil Merari hører maklitternes slægt og mushitternes slægt. Dette er mararitternes slægter.",
       "number": 33
     },
     {
@@ -153,7 +163,7 @@
       "number": 37
     },
     {
-      "text": "Men de som skulle slå lejr lige foran boligen, lige uden for forsamlingsteltet mod øst, skulle være Moses og Aron og hans sønner som passer det der er at passe ved helligdommen, nemlig det israelitterne skulle passe, men kommer nogen fremmed nær da skal han dø.",
+      "text": "\fMen de som skulle slå lejr lige foran boligen, lige uden for forsamlingsteltet mod øst, skulle være Moses og Aron og hans sønner som passer det der er at passe ved helligdommen, nemlig det israelitterne skulle passe, men kommer nogen fremmed nær da skal han dø.",
       "number": 38
     },
     {
@@ -161,7 +171,7 @@
       "number": 39
     },
     {
-      "text": "JHVH sagde til Moses: >>Tæl alle førstefødte af hankøn blandt israelitterne fra en måned gamle og derover, og tag antallet på deres navne.",
+      "text": "\fJHVH sagde til Moses: >>Tæl alle førstefødte af hankøn blandt israelitterne fra en måned gamle og derover, og tag antallet på deres navne.",
       "number": 40
     },
     {

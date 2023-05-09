@@ -8,7 +8,7 @@ const AccountBar = () => {
         fetch("/api/auth/authenticate").then(
             response => response.json()
         ).then(
-            data => {setUser(data)}
+            data => {setUser(data.content)}
         );
     });
 

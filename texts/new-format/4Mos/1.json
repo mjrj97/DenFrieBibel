@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 1,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses i Sinajs ørken i forsamlingsteltet på den første dag i den anden måned i det andet år efter de var gået ud af Egypten. Han sagde:",
+      "text": "\fJHVH talte til Moses i Sinajs ørken i forsamlingsteltet på den første dag i den anden måned i det andet år efter de var gået ud af Egypten. Han sagde:",
       "number": 1
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "Moses og Aron tog disse mænd, som er udtrykkeligt nævnt ved navn.",
+      "text": "\fMoses og Aron tog disse mænd, som er udtrykkeligt nævnt ved navn.",
       "number": 17
     },
     {
@@ -189,7 +199,7 @@
       "number": 46
     },
     {
-      "text": "Men levitterne blev ikke talt sammen med dem efter deres fædres stamme.",
+      "text": "\fMen levitterne blev ikke talt sammen med dem efter deres fædres stamme.",
       "number": 47
     },
     {

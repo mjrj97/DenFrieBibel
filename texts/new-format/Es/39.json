@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 39,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "På samme tid sendte Merodak Baladan, Baladans søn, kongen af Babylon, breve og gave til Ezekias, for han havde hørt, at han havde været syg og var blevet rask.",
+      "text": "\fPå samme tid sendte Merodak Baladan, Baladans søn, kongen af Babylon, breve og gave til Ezekias, for han havde hørt, at han havde været syg og var blevet rask.",
       "number": 1
     },
     {
@@ -13,7 +23,7 @@
       "number": 2
     },
     {
-      "text": "Da kom Esajas, profeten, til kong Ezekias og sagde til ham: >>Hvad har de mænd sagt? Og hvor er de kommet til dig fra?<< Og Ezekias sagde: >>De er kommet til mig fra et land langt borte, fra Babylon.<<",
+      "text": "\fDa kom Esajas, profeten, til kong Ezekias og sagde til ham: >>Hvad har de mænd sagt? Og hvor er de kommet til dig fra?<< Og Ezekias sagde: >>De er kommet til mig fra et land langt borte, fra Babylon.<<",
       "number": 3
     },
     {

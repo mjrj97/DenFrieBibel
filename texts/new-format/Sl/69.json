@@ -3,153 +3,167 @@
   "abbreviation": "Sl",
   "chapter": 69,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Al-shoshannim. Af David.",
+      "text": "\fTil korlederen. Al-shoshannim. Af David.",
       "number": 1
     },
     {
-      "text": "Frels mig, Gud,for vandet når mig til halsen,",
+      "text": "\fFrels mig, Gud,\ffor vandet når mig til halsen,",
       "number": 2
     },
     {
-      "text": "jeg er sunket i dybets dynd,hvor der ikke er fodfæste.Jeg er kommet i dybt vand,og en strøm skyller over mig.",
+      "text": "\fjeg er sunket i dybets dynd,\fhvor der ikke er fodfæste.\fJeg er kommet i dybt vand,\fog en strøm skyller over mig.",
       "number": 3
     },
     {
-      "text": "Jeg er udmattet af at råbe,min strube er hæs,mine øjne er udmattede,idet jeg venter på min Gud.",
+      "text": "\fJeg er udmattet af at råbe,\fmin strube er hæs,\fmine øjne er udmattede,\fidet jeg venter på min Gud.",
       "number": 4
     },
     {
-      "text": "Flere end hår på mit hoveder de som hader mig uden grund.Talrige er de blevet som søger at udrydde mig,mine løgnagtige fjender.Det jeg ikke har røvet,det skal jeg alligevel bringe tilbage.",
+      "text": "\fFlere end hår på mit hoved\fer de som hader mig uden grund.\fTalrige er de blevet som søger at udrydde mig,\fmine løgnagtige fjender.\fDet jeg ikke har røvet,\fdet skal jeg alligevel bringe tilbage.",
       "number": 5
     },
     {
-      "text": "Gud, du har kendt min tåbelighed,og min skyld var ikke skjult for dig.",
+      "text": "\fGud, du har kendt min tåbelighed,\fog min skyld var ikke skjult for dig.",
       "number": 6
     },
     {
-      "text": "Lad ikke dem der håber på dig, blive gjort til skamme ved mig,Herre, Hærskarers JHVHv!Lad ikke dem som søger dig, blive forhånede ved mig,Israels Gud.",
+      "text": "\fLad ikke dem der håber på dig, blive gjort til skamme ved mig,\fHerre, Hærskarers JHVHv!\fLad ikke dem som søger dig, blive forhånede ved mig,\fIsraels Gud.",
       "number": 7
     },
     {
-      "text": "For på grund af dig har jeg båret hån,skændsel har dækket mit ansigt.",
+      "text": "\fFor på grund af dig har jeg båret hån,\fskændsel har dækket mit ansigt.",
       "number": 8
     },
     {
-      "text": "Jeg er fremmedgjort for mine brødreog en udlænding for min moders sønner.",
+      "text": "\fJeg er fremmedgjort for mine brødre\fog en udlænding for min moders sønner.",
       "number": 9
     },
     {
-      "text": "For nidkærhed for dit hus har fortæret mig,og spot fra dem som spotter dig, er faldet på mig.",
+      "text": "\fFor nidkærhed for dit hus har fortæret mig,\fog spot fra dem som spotter dig, er faldet på mig.",
       "number": 10
     },
     {
-      "text": "Jeg, min sjæl, græd under faste,men det blev til hån for mig.",
+      "text": "\fJeg, min sjæl, græd under faste,\fmen det blev til hån for mig.",
       "number": 11
     },
     {
-      "text": "Jeg brugte sæk som min klædning,jeg blev genstand for spottetale for dem.",
+      "text": "\fJeg brugte sæk som min klædning,\fjeg blev genstand for spottetale for dem.",
       "number": 12
     },
     {
-      "text": "De som sidder i porten, vil snakke om mig,og drankernes viser handler om mig.",
+      "text": "\fDe som sidder i porten, vil snakke om mig,\fog drankernes viser handler om mig.",
       "number": 13
     },
     {
-      "text": "Men jeg - min bøn er til dig,JHVHv, om en velbehagelig tid,Gud, i din store nåde:Bønhør mig for din frelses sandheds skyld!",
+      "text": "\fMen jeg - min bøn er til dig,\fJHVHv, om en velbehagelig tid,\fGud, i din store nåde:\fBønhør mig for din frelses sandheds skyld!",
       "number": 14
     },
     {
-      "text": "Red mig op af dyndet så jeg ikke synker,lad mig blive reddet fra dem der hader mig, og fra vandenes dyb!",
+      "text": "\fRed mig op af dyndet så jeg ikke synker,\flad mig blive reddet fra dem der hader mig, og fra vandenes dyb!",
       "number": 15
     },
     {
-      "text": "Lad ikke vandstrømmene skylle over mig,og lad ikke dybet opsluge mig,og lad ikke en brønd lukke sin mund over mig!",
+      "text": "\fLad ikke vandstrømmene skylle over mig,\fog lad ikke dybet opsluge mig,\fog lad ikke en brønd lukke sin mund over mig!",
       "number": 16
     },
     {
-      "text": "Svar mig, JHVHv, for din nåde er god,vend dit ansigt til mig efter din store barmhjertighed!",
+      "text": "\fSvar mig, JHVHv, for din nåde er god,\fvend dit ansigt til mig efter din store barmhjertighed!",
       "number": 17
     },
     {
-      "text": "Og skjul ikke dit ansigt for din tjener,for jeg er i nød, skynd dig, svar mig!",
+      "text": "\fOg skjul ikke dit ansigt for din tjener,\ffor jeg er i nød, skynd dig, svar mig!",
       "number": 18
     },
     {
-      "text": "Kom nær til mig, genløs,udfri mig for mine fjenders skyld!",
+      "text": "\fKom nær til mig, genløs,\fudfri mig for mine fjenders skyld!",
       "number": 19
     },
     {
-      "text": "Du har kendt min hånog min skam og min skændsel,alle der bekriger mig, har du for øje.",
+      "text": "\fDu har kendt min hån\fog min skam og min skændsel,\falle der bekriger mig, har du for øje.",
       "number": 20
     },
     {
-      "text": "Hån har knust mit hjerte,jeg blev svag.Jeg ventede på medynk, men der var ingen,og på trøstere, men jeg fandt ikke nogen.",
+      "text": "\fHån har knust mit hjerte,\fjeg blev svag.\fJeg ventede på medynk, men der var ingen,\fog på trøstere, men jeg fandt ikke nogen.",
       "number": 21
     },
     {
-      "text": "De gav mig gift som fødeog for min tørst gav de mig eddike at drikke.",
+      "text": "\fDe gav mig gift som føde\fog for min tørst gav de mig eddike at drikke.",
       "number": 22
     },
     {
-      "text": "Lad deres bord foran dem blive til en fældeog til en snare for sorgløse.",
+      "text": "\fLad deres bord foran dem blive til en fælde\fog til en snare for sorgløse.",
       "number": 23
     },
     {
-      "text": "Lad deres øjne formørkes så de ikke ser,og deres lænder skal altid vakle!",
+      "text": "\fLad deres øjne formørkes så de ikke ser,\fog deres lænder skal altid vakle!",
       "number": 24
     },
     {
-      "text": "Udøs din harme over dem,og din vredes glød skal nå dem!",
+      "text": "\fUdøs din harme over dem,\fog din vredes glød skal nå dem!",
       "number": 25
     },
     {
-      "text": "Deres lejr skal blive øde,ingen skal bo i deres telte.",
+      "text": "\fDeres lejr skal blive øde,\fingen skal bo i deres telte.",
       "number": 26
     },
     {
-      "text": "For den som du har slået, forfølger de,og de øger smerten hos dem som du har såret.",
+      "text": "\fFor den som du har slået, forfølger de,\fog de øger smerten hos dem som du har såret.",
       "number": 27
     },
     {
-      "text": "Læg skyld til deres skyld,og lad dem ikke komme ind i din retfærdighed!",
+      "text": "\fLæg skyld til deres skyld,\fog lad dem ikke komme ind i din retfærdighed!",
       "number": 28
     },
     {
-      "text": "Lad dem blive slettet af de levendes bog,og lad dem ikke blive optegnet med de retfærdige!",
+      "text": "\fLad dem blive slettet af de levendes bog,\fog lad dem ikke blive optegnet med de retfærdige!",
       "number": 29
     },
     {
-      "text": "Men jeg - hjælpeløs og med smerte -lad din frelse, Gud, beskytte mig.",
+      "text": "\fMen jeg - hjælpeløs og med smerte -\flad din frelse, Gud, beskytte mig.",
       "number": 30
     },
     {
-      "text": "Jeg vil lovprise Guds navn med sang,og jeg vil ophøje ham med tak.",
+      "text": "\fJeg vil lovprise Guds navn med sang,\fog jeg vil ophøje ham med tak.",
       "number": 31
     },
     {
-      "text": "Og det vil behage JHVH mere end en okse,en ungtyr med horn og klove.",
+      "text": "\fOg det vil behage JHVH mere end en okse,\fen ungtyr med horn og klove.",
       "number": 32
     },
     {
-      "text": "De ydmyge har set, de skal glæde sig,de, som søger Gud - og jeres hjerte skal live op!",
+      "text": "\fDe ydmyge har set, de skal glæde sig,\fde, som søger Gud - og jeres hjerte skal live op!",
       "number": 33
     },
     {
-      "text": "For JHVH hører på fattigeog foragtede ikke sine fangne.",
+      "text": "\fFor JHVH hører på fattige\fog foragtede ikke sine fangne.",
       "number": 34
     },
     {
-      "text": "Himmel og jord skal lovprise ham,have og alt hvad der rører sig i dem!",
+      "text": "\fHimmel og jord skal lovprise ham,\fhave og alt hvad der rører sig i dem!",
       "number": 35
     },
     {
-      "text": "For Gud vil frelse Zionog opbygge Judas byer,og de skal bo der og eje det,",
+      "text": "\fFor Gud vil frelse Zion\fog opbygge Judas byer,\fog de skal bo der og eje det,",
       "number": 36
     },
     {
-      "text": "og hans tjeneres efterkommere{T: Ordret: >>sæd<<.} skal arve det,og de som elsker hans navn, skal bo i det.",
+      "text": "\fog hans tjeneres efterkommere skal arve det,\fog de som elsker hans navn, skal bo i det.",
       "number": 37
     }
   ],
@@ -176,121 +190,127 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for >>lilje<< (evt. >>efter liljerne<<).",
       "type": "E",
       "verse": 1,
-      "position": 30
+      "position": 31
     },
     {
       "text": "Ordret: >>sjælen<<.",
       "type": "T",
       "verse": 2,
-      "position": 45
+      "position": 47
     },
     {
       "text": "Ordet: >>vandes dybde<<.",
       "type": "T",
       "verse": 3,
-      "position": 80
+      "position": 83
     },
     {
       "text": "Ofte vælger man at følge Septuaginta og andre gamle oversættelser der i stedet for participiet i pi’el *mᵊyaḥēl* (>>idet jeg venter<<) har vokaliseret som præposition og infinitiv: *miyyaḥēl*: >>af at vente<<.",
       "type": "E",
       "verse": 4,
-      "position": 83
+      "position": 87
     },
     {
       "text": "Kan også oversættes: >>mægtige<<.",
       "type": "T",
       "verse": 5,
-      "position": 64
+      "position": 67
     },
     {
       "text": "Ordret: >>Må ikke de …<<.",
       "type": "T",
       "verse": 7,
-      "position": 12
+      "position": 13
     },
     {
       "text": "I ældre tid uoversat: >>Zebaoth<<",
       "type": "T",
       "verse": 7,
-      "position": 79
+      "position": 81
     },
     {
       "text": "Sætningen er knudret og omdiskuteret. Ordret: >>Jeg græd i faste, min sjæl<<. Meningen kan være som her i oversættelsen. Andre muligheder er: >>Jeg græd og fastede for min sjæl<<, eller: >>Jeg græd og fastede i mit inderste<<.",
       "type": "E",
       "verse": 11,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Der er ikke noget verbum i denne linje der er tæt knyttet til den foregående, og verbet dér gælder også for denne linje. Ordret: >>og drankernes viser (taler om mig)<<.",
       "type": "E",
       "verse": 13,
-      "position": 77
+      "position": 79
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 14,
-      "position": 80
+      "position": 83
     },
     {
       "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes >>sandhed<<. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det ofte må oversættes: >>trofasthed<<.",
       "type": "T",
       "verse": 14,
-      "position": 116
+      "position": 120
     },
     {
       "text": "Ordet: >>brønd<< er her muligvis brugt som synonym for >>grav<<",
       "type": "T",
       "verse": 16,
-      "position": 89
+      "position": 92
     },
     {
       "text": "Ordret: >>til min sjæl<<.",
       "type": "T",
       "verse": 19,
-      "position": 16
+      "position": 17
     },
     {
       "text": "Betydningen af verbet *nwš*, der kun forekommer her i GT, er usikker. Andre foreslår: >>kan ikke læges/er fortvivlet<<.",
       "type": "T",
       "verse": 21,
-      "position": 39
+      "position": 41
     },
     {
       "text": "Oversættelsen og forståelsen af linjen er usikker og omdiskuteret. Grundteksten har *wᵊlišlômîm*, som betyder >>og … for fred<<, men >>fred<< står i pluralis. Meningen kan være: >>dem som har fred/sikkerhed<<, som jeg har valgt at gengive: >>sorgløse<<. Denne pluralis findes kun tre steder i GT, og alle tre steder er der en række rettelsesforslag. Den mindst indgribende her er at indføje et *h*: *wᵊlišlômēhem*: >>og (til en snare) i deres sorgløshed<<. De gamle oversættelser har åbenbart læst: *ûlᵊšillômîm*: >>og (til en snare) som gengæld<<. Targum har læst: *wᵊšalmēhem*: >>og deres offerfester (til en snare)<<.",
       "type": "E",
       "verse": 23,
-      "position": 72
+      "position": 74
     },
     {
       "text": "Grundteksten har: *kî-ʔattāʰ*: >>for du, ((den) som du har slået)<<. Som regel følger man de gamle oversættelser og læser: *kî-ʔēt*: >>for den<< (som her). I konsonantteksten er det blot et enkelt *h*, der må slettes.",
       "type": "E",
       "verse": 27,
-      "position": 7
+      "position": 8
     },
     {
       "text": "Grundteksten har: >>de fortæller til smerten hos dem, som du har såret<<. Det kan være en eksemplificering af snakken i porten (v.13), om end brugen af præpositionen *ʔel* (>>til<<)i denne forbindelse er sjælden og uklar. Man må i givet fald oversætte ved: >>om<<, men det er tvivlsomt, om *ʔel* faktisk kan betyde >>om<<. Som regel følger man Septuaginta og læser: *yispāyû* (>>de øger<<) i stedet for *yᵊsappērû*",
       "type": "E",
       "verse": 27,
-      "position": 49
+      "position": 51
     },
     {
       "text": "Kan også oversættes: >>elendige<<.",
       "type": "T",
       "verse": 33,
-      "position": 9
+      "position": 10
     },
     {
       "text": "Verbet *rāˀû* (>>har set/så<<) er sætningens første ord i grundteksten. Ofte retter man vokaliseringen til imperativ: *rᵊˀû*: >>Se! (De ydmyge skal glæde sig)<<, eller man følger Septuaginta og læser jussiv: *jirᵊˀû*: >>Lad (de ydmyge) se, (de skal glæde sig)<<.",
       "type": "E",
       "verse": 33,
-      "position": 18
+      "position": 19
+    },
+    {
+      "text": "Ordret: >>sæd<<.",
+      "type": "T",
+      "verse": 37,
+      "position": 30
     }
   ]
 }

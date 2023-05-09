@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 38,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Han lavede brændofferalteret af akacietræ, fem alen langt og fem alen bredt, kvadratisk og tre alen højt.",
+      "text": "\fHan lavede brændofferalteret af akacietræ, fem alen langt og fem alen bredt, kvadratisk og tre alen højt.",
       "number": 1
     },
     {
@@ -33,11 +43,11 @@
       "number": 7
     },
     {
-      "text": "Han lavede bækkenet af bronze og dets sokkel af bronze af de spejle, som tilhørte de tjenstgørende kvinder der gjorde tjeneste ved forsamlingsteltets indgang.",
+      "text": "\fHan lavede bækkenet af bronze og dets sokkel af bronze af de spejle, som tilhørte de tjenstgørende kvinder der gjorde tjeneste ved forsamlingsteltets indgang.",
       "number": 8
     },
     {
-      "text": "Han lavede forgården: ved den søndre side, mod syd, var forgårdens forhæng af tvundet, fint linned, hundred alen langt,",
+      "text": "\fHan lavede forgården: ved den søndre side, mod syd, var forgårdens forhæng af tvundet, fint linned, hundred alen langt,",
       "number": 9
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Dette er opgørelsen for boligen, Vidnesbyrdets bolig, som det blev opgjort efter Moses’ befaling, levitternes arbejde, under tilsyn af Itamar, søn af Aron, præsten.",
+      "text": "\fDette er opgørelsen for boligen, Vidnesbyrdets bolig, som det blev opgjort efter Moses’ befaling, levitternes arbejde, under tilsyn af Itamar, søn af Aron, præsten.",
       "number": 21
     },
     {
@@ -158,7 +168,7 @@
       "text": "Ordet: *marʔāʰ* skal alle andre steder i GT oversættes: >>syn/ansigt/tilsynekomst<<, men her må det formodentlig oversættes: >>spejl<<.",
       "type": "T",
       "verse": 8,
-      "position": 68
+      "position": 69
     },
     {
       "text": "Det er i grundteksten strengt taget ikke angivet om det skal være med tværstænger eller bånd.",
@@ -176,13 +186,13 @@
       "text": "Ordret: >>mund<<",
       "type": "T",
       "verse": 21,
-      "position": 96
+      "position": 97
     },
     {
       "text": "Ordret: >>hånd<<.",
       "type": "T",
       "verse": 21,
-      "position": 131
+      "position": 132
     },
     {
       "text": "Hermed menes: >>det indviede<<.",

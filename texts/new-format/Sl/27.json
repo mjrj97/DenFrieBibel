@@ -3,61 +3,75 @@
   "abbreviation": "Sl",
   "chapter": 27,
   "version": 1457218800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Af David.JHVH er mit lys og min frelse,hvem skal jeg frygte?JHVH er mit livs værn,hvem skal jeg frygte for?",
+      "text": "\fAf David.\fJHVH er mit lys og min frelse,\fhvem skal jeg frygte?\fJHVH er mit livs værn,\fhvem skal jeg frygte for?",
       "number": 1
     },
     {
-      "text": "Da de onde nærmede sig migfor at fortære mit kød,mine modstandere og mine fjender,da snublede de og faldt.",
+      "text": "\fDa de onde nærmede sig mig\ffor at fortære mit kød,\fmine modstandere og mine fjender,\fda snublede de og faldt.",
       "number": 2
     },
     {
-      "text": "Selv om en hær vil belejre mig,skal mit hjerte ikke frygte,selv om man fører krig imod mig,er jeg dog tryg.",
+      "text": "\fSelv om en hær vil belejre mig,\fskal mit hjerte ikke frygte,\fselv om man fører krig imod mig,\fer jeg dog tryg.",
       "number": 3
     },
     {
-      "text": "Kun ét har jeg bedt om af JHVH,det vil jeg tragte efter:nemlig at jeg må bo i JHVHs husalle mit livs dage,for at skue med fryd JHVHs herlighedog for at grunde i hans tempel.",
+      "text": "\fKun ét har jeg bedt om af JHVH,\fdet vil jeg tragte efter:\fnemlig at jeg må bo i JHVHs hus\falle mit livs dage,\ffor at skue med fryd JHVHs herlighed\fog for at grunde i hans tempel.",
       "number": 4
     },
     {
-      "text": "For han vil gemme mig i sin hyttepå ulykkens dag,han vil skjule mig i sit telts skjulested,han vil løfte mig op på en klippe.",
+      "text": "\fFor han vil gemme mig i sin hytte\fpå ulykkens dag,\fhan vil skjule mig i sit telts skjulested,\fhan vil løfte mig op på en klippe.",
       "number": 5
     },
     {
-      "text": "Og nu skal mit hoved knejseover mine fjender som omringer mig,og i hans telt jeg vil bringe ofre med jubel,jeg vil synge og spille for JHVH.",
+      "text": "\fOg nu skal mit hoved knejse\fover mine fjender som omringer mig,\fog i hans telt jeg vil bringe ofre med jubel,\fjeg vil synge og spille for JHVH.",
       "number": 6
     },
     {
-      "text": "Hør, JHVHv, min røst, når jeg råber,og vær mig nådig og svar mig!",
+      "text": "\fHør, JHVHv, min røst, når jeg råber,\fog vær mig nådig og svar mig!",
       "number": 7
     },
     {
-      "text": "Til dig sagde mit hjerte: >>I skal søge mit ansigt<<,jeg søger, JHVHv, dit ansigt!",
+      "text": "\fTil dig sagde mit hjerte: >>I skal søge mit ansigt<<,\fjeg søger, JHVHv, dit ansigt!",
       "number": 8
     },
     {
-      "text": "Skjul ikke dit ansigt for mig,afvis ikke i vrede din tjener,du har været min hjælp,forkast mig ikke og forlad mig ikke,min frelses Gud!",
+      "text": "\fSkjul ikke dit ansigt for mig,\fafvis ikke i vrede din tjener,\fdu har været min hjælp,\fforkast mig ikke og forlad mig ikke,\fmin frelses Gud!",
       "number": 9
     },
     {
-      "text": "For min far og min mor har forladt mig,men JHVH tager mig op til sig.",
+      "text": "\fFor min far og min mor har forladt mig,\fmen JHVH tager mig op til sig.",
       "number": 10
     },
     {
-      "text": "Lær mig, JHVHv, din vejog led mig ad den jævne sti,for mine fjenders skyld.",
+      "text": "\fLær mig, JHVHv, din vej\fog led mig ad den jævne sti,\ffor mine fjenders skyld.",
       "number": 11
     },
     {
-      "text": "Prisgiv mig ikke i mine modstanderes vold,for falske vidner har rejst sig mod mig,de fnyser vold.",
+      "text": "\fPrisgiv mig ikke i mine modstanderes vold,\ffor falske vidner har rejst sig mod mig,\fde fnyser vold.",
       "number": 12
     },
     {
-      "text": "Hvis jeg ikke havde stolet på at jeg skulle se JHVHs godhed i de levendes land – !",
+      "text": "\fHvis jeg ikke havde stolet på at jeg skulle se JHVHs godhed i de levendes land – !",
       "number": 13
     },
     {
-      "text": "Vent på JHVH, vær stærk,og gør dit hjerte stærkt,ja, vent på JHVH!",
+      "text": "\fVent på JHVH, vær stærk,\fog gør dit hjerte stærkt,\fja, vent på JHVH!",
       "number": 14
     }
   ],
@@ -84,31 +98,31 @@
       "text": "Betydningen af verbet er omdiskuteret. Grundbetydningen er >>undersøge nøje<<. Meningen er muligvis at søge guddommeligt svar.",
       "type": "E",
       "verse": 4,
-      "position": 158
+      "position": 164
     },
     {
       "text": "Teksten er vanskelig, men meningen er formodentlig at salmisten i sit hjerte husker det citerede ord fra Gud (2 Mos 23,17; 34,23; 5 Mos 4,29).",
       "type": "E",
       "verse": 8,
-      "position": 53
+      "position": 54
     },
     {
       "text": "Ordet *kî-* (>>for<<) har flere betydninger. Det kan betyde >>selv om<< der kan give god mening her: >>Selv om min far og min mor har forladt mig, vil JHVH tage mig op til sig<<.",
       "type": "E",
       "verse": 10,
-      "position": 3
+      "position": 4
     },
     {
       "text": "Ordret >>sjæl<<. Det oversættes her forskelligt, fx. >>begær, lyst til mord<<.",
       "type": "T",
       "verse": 12,
-      "position": 42
+      "position": 43
     },
     {
       "text": "Enten er der underforstået en eftersætning: >>så havde det været ude med mig<<, eller også skal vers 12b-c være den logiske eftersætning: >>for falske vidner havde rejst sig … hvis jeg ikke havde stolet på JHVH<<.",
       "type": "E",
       "verse": 13,
-      "position": 82
+      "position": 83
     }
   ]
 }

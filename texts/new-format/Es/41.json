@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 41,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "I øer, ti stille og hør på mig! Og folkene, lad dem forny deres kraft! Lad dem komme, lad dem da tale; lad os møde frem for rette sammen!",
+      "text": "\fI øer, ti stille og hør på mig! Og folkene, lad dem forny deres kraft! Lad dem komme, lad dem da tale; lad os møde frem for rette sammen!",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Men du, Israel, du, min tjener Jakob, som jeg udvalgte, Abrahams, min vens afkom!",
+      "text": "\fMen du, Israel, du, min tjener Jakob, som jeg udvalgte, Abrahams, min vens afkom!",
       "number": 8
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Kom her med jeres sag, siger JHVH; kom frem med jeres stærke beviser, siger Jakobs konge.",
+      "text": "\fKom her med jeres sag, siger JHVH; kom frem med jeres stærke beviser, siger Jakobs konge.",
       "number": 21
     },
     {
@@ -101,7 +111,7 @@
       "number": 24
     },
     {
-      "text": "Jeg har fremkaldt ham fra Norden, og han skal komme, ham fra solens opgang, der skal påkalde mit navn; og han skal komme over fyrsterne, som om de var dynd, og som en pottemager, der træder ler.",
+      "text": "\fJeg har fremkaldt ham fra Norden, og han skal komme, ham fra solens opgang, der skal påkalde mit navn; og han skal komme over fyrsterne, som om de var dynd, og som en pottemager, der træder ler.",
       "number": 25
     },
     {

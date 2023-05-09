@@ -3,13 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 17,
   "version": 1494453600000,
-  "verses": [
+  "authors": [
     {
-      "text": "v1 JHVH sagde til Moses:",
-      "number": 0
+      "name": "Trine Tøndering",
+      "type": "translation"
     },
     {
-      "text": ">>Sig til Eleazar, præsten Arons søn, at han skal tage røgelseskarrene ud af ilden og sprede gløderne langt bort, for de er hellige.",
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fv1 JHVH sagde til Moses:>>Sig til Eleazar, præsten Arons søn, at han skal tage røgelseskarrene ud af ilden og sprede gløderne langt bort, for de er hellige.",
       "number": 2
     },
     {
@@ -25,7 +31,7 @@
       "number": 5
     },
     {
-      "text": "Men dagen efter beklagede hele forsamlingen af israelitter sig over Moses og Aron. De sagde: >>I har slået JHVHs folk ihjel.<<",
+      "text": "\fMen dagen efter beklagede hele forsamlingen af israelitter sig over Moses og Aron. De sagde: >>I har slået JHVHs folk ihjel.<<",
       "number": 6
     },
     {
@@ -61,7 +67,7 @@
       "number": 14
     },
     {
-      "text": "Aron kom igen hen til Moses ved indgangen til forsamlingsteltet, da plagen var holdt op.v16 JHVH talte til Moses:",
+      "text": "Aron kom igen hen til Moses ved indgangen til forsamlingsteltet, da plagen var holdt op.\fv16 JHVH talte til Moses:",
       "number": 15
     },
     {
@@ -97,7 +103,7 @@
       "number": 24
     },
     {
-      "text": "JHVH sagde til Moses: >>Bær Arons stav ind igen foran Vidnesbyrdet, og opbevar den der som et tegn for børnene af de genstridige, og du skal standse deres beklagelser imod mig for at de ikke skal dø.<<",
+      "text": "\fJHVH sagde til Moses: >>Bær Arons stav ind igen foran Vidnesbyrdet, og opbevar den der som et tegn for børnene af de genstridige, og du skal standse deres beklagelser imod mig for at de ikke skal dø.<<",
       "number": 25
     },
     {
@@ -105,7 +111,7 @@
       "number": 26
     },
     {
-      "text": "Israelitterne kom hen til Moses og sagde: >>Se, vi omkommer. Vi dør. Vi dør alle sammen!",
+      "text": "\fIsraelitterne kom hen til Moses og sagde: >>Se, vi omkommer. Vi dør. Vi dør alle sammen!",
       "number": 27
     },
     {
@@ -139,14 +145,14 @@
     {
       "text": "I GT 1871, GT 1931 og mange engelske oversættelser står v. 1-15 i slutningen af kapitel 16 og bliver derved v. 36-50, mens DO92 og den hebraiske tekst begynder et nyt kapitel her.",
       "type": "T",
-      "verse": 0,
-      "position": 2
+      "verse": 2,
+      "position": 3
     },
     {
       "text": "I visse oversættelser begynder kapitel 17 først her.",
       "type": "T",
       "verse": 15,
-      "position": 91
+      "position": 92
     }
   ]
 }

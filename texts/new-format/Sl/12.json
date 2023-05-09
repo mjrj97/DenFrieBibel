@@ -3,41 +3,55 @@
   "abbreviation": "Sl",
   "chapter": 12,
   "version": 1475704800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Al-ha-sheminit. Salme af David.",
+      "text": "\fTil korlederen. Al-ha-sheminit. Salme af David.",
       "number": 1
     },
     {
-      "text": "Frels, JHVHv! for det er ude med den fromme,for troskab er forsvundet fra mennesker.",
+      "text": "\fFrels, JHVHv! for det er ude med den fromme,\ffor troskab er forsvundet fra mennesker.",
       "number": 2
     },
     {
-      "text": "De taler løgn, hver og en,med smigrende læber, med et tvedelt hjerte taler de.",
+      "text": "\fDe taler løgn, hver og en,\fmed smigrende læber, med et tvedelt hjerte taler de.",
       "number": 3
     },
     {
-      "text": "Gid JHVH ville udrydde alle smigrende læber,den tunge der taler store ord,",
+      "text": "\fGid JHVH ville udrydde alle smigrende læber,\fden tunge der taler store ord,",
       "number": 4
     },
     {
-      "text": "dem som siger: >>Med vor tunge skal vi vinde styrke,vore læber er med os, hvem er herre over os?<<",
+      "text": "\fdem som siger: >>Med vor tunge skal vi vinde styrke,\fvore læber er med os, hvem er herre over os?<<",
       "number": 5
     },
     {
-      "text": ">>På grund af de hjælpeløses undertrykkelseog de fattiges jamrenvil jeg nu rejse mig,<< siger JHVH,>>jeg vil sætte i frelse den, som længes derefter.<<",
+      "text": "\f>>På grund af de hjælpeløses undertrykkelse\fog de fattiges jamren\fvil jeg nu rejse mig,<< siger JHVH,\f>>jeg vil sætte i frelse den, som længes derefter.<<",
       "number": 6
     },
     {
-      "text": "JHVHs ord er rene ord,sølv der er smeltet i diglen i jorden,lutret syv gange.",
+      "text": "\fJHVHs ord er rene ord,\fsølv der er smeltet i diglen i jorden,\flutret syv gange.",
       "number": 7
     },
     {
-      "text": "Du, JHVHv! du vil beskytte dem,du vil bevare os imod denne slægt til evig tid,",
+      "text": "\fDu, JHVHv! du vil beskytte dem,\fdu vil bevare os imod denne slægt til evig tid,",
       "number": 8
     },
     {
-      "text": "mens ugudelige vandrer omkring,så længe usselhed ophøjes blandt mennesker.{T: Ordret: >>Adams børn/menneskes børn<<.}",
+      "text": "\fmens ugudelige vandrer omkring,\fså længe usselhed ophøjes blandt mennesker.",
       "number": 9
     }
   ],
@@ -64,43 +78,49 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).",
       "type": "E",
       "verse": 1,
-      "position": 31
+      "position": 32
     },
     {
       "text": "Ordret: >>Adams børn/menneskes børn<<.",
       "type": "T",
       "verse": 2,
-      "position": 84
+      "position": 86
     },
     {
       "text": "Ordret >>en mand med sin næste<<.",
       "type": "T",
       "verse": 3,
-      "position": 26
+      "position": 27
     },
     {
       "text": "Ordret: >>med hjerte og hjerte<<.",
       "type": "T",
       "verse": 3,
-      "position": 68
+      "position": 70
     },
     {
       "text": "Oversættelsen er usikker. Andre oversætter: >>den man blæser ad<< dvs. den foragtede, eller: >>den forfulgte<<.",
       "type": "E",
       "verse": 6,
-      "position": 151
+      "position": 155
     },
     {
       "text": "Betydningen af udtrykket *baʕᵃlîl lāʔāreṣ* (>>diglen i jorden<<) er usikkert. Andre oversætter: >>sølv der i værkstedet er smeltet ned til (mennesker på) jorden<<.",
       "type": "E",
       "verse": 7,
-      "position": 60
+      "position": 62
+    },
+    {
+      "text": "Ordret: >>Adams børn/menneskes børn<<.",
+      "type": "T",
+      "verse": 9,
+      "position": 76
     }
   ]
 }

@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 15,
   "version": 1494453600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses:",
+      "text": "\fJHVH talte til Moses:",
       "number": 1
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "JHVH talte til Moses:",
+      "text": "\fJHVH talte til Moses:",
       "number": 17
     },
     {
@@ -89,7 +99,7 @@
       "number": 21
     },
     {
-      "text": "Når I uforvarende synder og ikke holder alle de bud som JHVH har talt til Moses,",
+      "text": "\fNår I uforvarende synder og ikke holder alle de bud som JHVH har talt til Moses,",
       "number": 22
     },
     {
@@ -129,7 +139,7 @@
       "number": 31
     },
     {
-      "text": "Mens israelitterne var i ørkenen fandt de en mand som samlede brænde på en sabbat.",
+      "text": "\fMens israelitterne var i ørkenen fandt de en mand som samlede brænde på en sabbat.",
       "number": 32
     },
     {
@@ -149,7 +159,7 @@
       "number": 36
     },
     {
-      "text": "JHVH talte til Moses:",
+      "text": "\fJHVH talte til Moses:",
       "number": 37
     },
     {

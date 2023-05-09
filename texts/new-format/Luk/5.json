@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 5,
   "version": 1645052400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men det skete da folkeskaren trængte sig sammen om ham og hørte Guds ord mens han stod ved Genezaret sø,",
+      "text": "\fMen det skete da folkeskaren trængte sig sammen om ham og hørte Guds ord mens han stod ved Genezaret sø,",
       "number": 1
     },
     {

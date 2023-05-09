@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 53,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Hvem troede det budskab vi fik? Og for hvem er JHVHs arm åbenbaret?",
+      "text": "\fHvem troede det budskab vi fik? Og for hvem er JHVHs arm åbenbaret?",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Fra trængsel og fra dom blev han taget bort, og hvem vil tænke på hans slægt? For han er revet bort fra de levendes land, og han blev ramt af plage for mit folks overtrædelses skyld.",
+      "text": "\fFra trængsel og fra dom blev han taget bort, og hvem vil tænke på hans slægt? For han er revet bort fra de levendes land, og han blev ramt af plage for mit folks overtrædelses skyld.",
       "number": 8
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "Derfor vil jeg lade ham få del med de store, og med de mægtige skal han dele bytte fordi han hengav{T: Ordret: >>udgød<<.} sin sjæl til døden og blev regnet blandt overtrædere;{T: Kan også oversættes: >>frafaldne (fra Gud)<<.} ja, han har båret manges synd, og han skal bede for overtrædere.",
+      "text": "Derfor vil jeg lade ham få del med de store, og med de mægtige skal han dele bytte fordi han hengav sin sjæl til døden og blev regnet blandt overtrædere; ja, han har båret manges synd, og han skal bede for overtrædere.",
       "number": 12
     }
   ],
@@ -63,5 +73,18 @@
       "verse": 8
     }
   ],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "Ordret: >>udgød<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 99
+    },
+    {
+      "text": "Kan også oversættes: >>frafaldne (fra Gud)<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 153
+    }
+  ]
 }

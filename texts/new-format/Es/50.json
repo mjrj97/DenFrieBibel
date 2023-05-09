@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 50,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Sådan siger JHVH: Hvor er jeres mors skilsmissebrev, som jeg skulle have sendt hende bort med? eller hvem skyldte jeg penge, så jeg skulle have solgt jer til ham? Næ, I er solgt på grund af jeres misgerninger, og jeres mor er sendt bort på grund af jeres overtrædelser.",
+      "text": "\fSådan siger JHVH: Hvor er jeres mors skilsmissebrev, som jeg skulle have sendt hende bort med? eller hvem skyldte jeg penge, så jeg skulle have solgt jer til ham? Næ, I er solgt på grund af jeres misgerninger, og jeres mor er sendt bort på grund af jeres overtrædelser.",
       "number": 1
     },
     {
@@ -25,7 +35,7 @@
       "number": 5
     },
     {
-      "text": "Jeg vendte min ryg hen til dem, der slog mig, og mine kinder til dem, der rykkede mig i skægget; jeg gemte ikke mit ansigt for hån og spyt.",
+      "text": "\fJeg vendte min ryg hen til dem, der slog mig, og mine kinder til dem, der rykkede mig i skægget; jeg gemte ikke mit ansigt for hån og spyt.",
       "number": 6
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Er der nogen iblandt jer, der frygter JHVH, og der adlyder hans tjeners stemme? Når han går i mørket og ikke har lysets skin, skal han have tillid til JHVHs navn, ja, stole fast på sin Gud.",
+      "text": "\fEr der nogen iblandt jer, der frygter JHVH, og der adlyder hans tjeners stemme? Når han går i mørket og ikke har lysets skin, skal han have tillid til JHVHs navn, ja, stole fast på sin Gud.",
       "number": 10
     },
     {

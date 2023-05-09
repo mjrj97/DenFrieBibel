@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 37,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Besal’el lavede arken af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.",
+      "text": "\fBesal’el lavede arken af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.",
       "number": 1
     },
     {
@@ -25,7 +35,7 @@
       "number": 5
     },
     {
-      "text": "Han lavede et sonedækken af purt guld, to og en halv alen lang og halvanden alen bred.",
+      "text": "\fHan lavede et sonedækken af purt guld, to og en halv alen lang og halvanden alen bred.",
       "number": 6
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Han lavede bordet af akacietræ, to alen langt og en alen bredt og halvanden alen højt.",
+      "text": "\fHan lavede bordet af akacietræ, to alen langt og en alen bredt og halvanden alen højt.",
       "number": 10
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "Han lavede lysestagen af purt guld; som udhamret arbejde lavede han lysestagen; dens fod og selve stagen; dens bægre, dens knopper og dens blomster gik i ét med den.",
+      "text": "\fHan lavede lysestagen af purt guld; som udhamret arbejde lavede han lysestagen; dens fod og selve stagen; dens bægre, dens knopper og dens blomster gik i ét med den.",
       "number": 17
     },
     {
@@ -101,7 +111,7 @@
       "number": 24
     },
     {
-      "text": "Han lavede røgelsesalteret af akacietræ, én alen langt og én alen bredt, kvadratisk, og to alen højt; dets horn var i ét med det.",
+      "text": "\fHan lavede røgelsesalteret af akacietræ, én alen langt og én alen bredt, kvadratisk, og to alen højt; dets horn var i ét med det.",
       "number": 25
     },
     {
@@ -117,7 +127,7 @@
       "number": 28
     },
     {
-      "text": "Han lavede den hellige salvningsolie og den rene, vellugtende røgelse som salvefremstillerens arbejde.",
+      "text": "\fHan lavede den hellige salvningsolie og den rene, vellugtende røgelse som salvefremstillerens arbejde.",
       "number": 29
     }
   ],
@@ -164,13 +174,13 @@
       "text": "Ordret: >>dens rør<< (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.",
       "type": "T",
       "verse": 17,
-      "position": 105
+      "position": 106
     },
     {
       "text": "Ordret: >>var fra den<<. Hele stagen blev lavet ud af ét stykke guld.",
       "type": "T",
       "verse": 17,
-      "position": 165
+      "position": 166
     },
     {
       "text": "Ordret: >>rør<<.",
@@ -182,7 +192,7 @@
       "text": "Ordret: >>én alen dets længde og én alen dets bredde<<.",
       "type": "T",
       "verse": 25,
-      "position": 72
+      "position": 73
     },
     {
       "text": "Det hebraiske ord: *qîr* skal i de fleste sammenhænge oversættes: >>mur<<. I det næste vers er der brugt to andre hebraiske ord.",

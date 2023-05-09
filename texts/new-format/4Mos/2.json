@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 2,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses og Aron:",
+      "text": "\fJHVH sagde til Moses og Aron:",
       "number": 1
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Rubens lejrs hærenhed skal være mod syd efter deres hærafdelinger under rubenitternes leder, Elisur, Shede’urs søn,",
+      "text": "\fRubens lejrs hærenhed skal være mod syd efter deres hærafdelinger under rubenitternes leder, Elisur, Shede’urs søn,",
       "number": 10
     },
     {
@@ -69,11 +79,11 @@
       "number": 16
     },
     {
-      "text": "Dernæst skal forsamlingsteltet bryde op. Levitternes lejr skal være midt imellem lejrene. Sådan som de slår lejr, skal de også bryde op, hver på sin plads, efter deres bannere.",
+      "text": "\fDernæst skal forsamlingsteltet bryde op. Levitternes lejr skal være midt imellem lejrene. Sådan som de slår lejr, skal de også bryde op, hver på sin plads, efter deres bannere.",
       "number": 17
     },
     {
-      "text": "Efraims lejrs hærenhed efter deres hærafdelinger skal være mod vest under efraimitternes leder Elishama, Ammihuds søn,",
+      "text": "\fEfraims lejrs hærenhed efter deres hærafdelinger skal være mod vest under efraimitternes leder Elishama, Ammihuds søn,",
       "number": 18
     },
     {
@@ -101,7 +111,7 @@
       "number": 24
     },
     {
-      "text": "Dans lejrs hærenhed skal være mod nord efter deres hærafdelinger under danitternes leder Akiezer, Ammishaddajs søn,",
+      "text": "\fDans lejrs hærenhed skal være mod nord efter deres hærafdelinger under danitternes leder Akiezer, Ammishaddajs søn,",
       "number": 25
     },
     {
@@ -129,7 +139,7 @@
       "number": 31
     },
     {
-      "text": "Dette er de mønstrede israelitter efter deres fædrenehus. Alle de mønstrede i lejrene efter deres hærafdelinger var 603.550.",
+      "text": "\fDette er de mønstrede israelitter efter deres fædrenehus. Alle de mønstrede i lejrene efter deres hærafdelinger var 603.550.",
       "number": 32
     },
     {
@@ -190,7 +200,7 @@
       "text": "Ordret: >>hver ved sin hånd<<, og her om deres indbyrdes placering.",
       "type": "T",
       "verse": 17,
-      "position": 154
+      "position": 155
     },
     {
       "text": "Se v. 9",

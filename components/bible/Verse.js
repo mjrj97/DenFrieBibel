@@ -31,14 +31,14 @@ function Verse({ verseNumber, verseText, footnotes, onSelected}) {
             parts.push(footnote);
         }
 
-        let slice = FormatText(verseText.slice(footnotes[footnotes.length - 1].position, verseText.length) + "\n");
+        let slice = FormatText(verseText.slice(footnotes[footnotes.length - 1].position, verseText.length));
         parts.push(<span key={footnotes.length + "p" + verseNumber}>{slice}</span>);
     }
     else {
-        const text = FormatText(verseText + "\n");
+        const text = FormatText(verseText);
         parts.push(<span key={footnotes.length + "p" + verseNumber}>{text}</span>);
     }
-    
+
     return (
         <span className='verseLine'>
             {verseNumber ? <VerseNumber onClick={(e) => onSelected(verseNumber, e)} number={verseNumber}/> : <></>}
@@ -48,7 +48,7 @@ function Verse({ verseNumber, verseText, footnotes, onSelected}) {
 }
 
 function FormatText(text) {
-    return text.replace(/>>/g, '»').replace(/<</g, '«');
+    return text.replace(/>>/g, '»').replace(/<</g, '«').replace(/\n/g, " ").replace(/\t/g, "").replace(/\f/g, "");
 }
 
 export default Verse

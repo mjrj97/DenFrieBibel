@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 29,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "I den syvende måned, på den første dag i måneden, skal der være en hellig sammenkomst for jer, I skal ikke udføre noget arbejde, den dag skal trompeterne lyde.",
+      "text": "\fI den syvende måned, på den første dag i måneden, skal der være en hellig sammenkomst for jer, I skal ikke udføre noget arbejde, den dag skal trompeterne lyde.",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "På den tiende dag i den syvende måned skal der være en hellig sammenkomst for jer, og I skal faste. I skal ikke udføre noget arbejde.",
+      "text": "\fPå den tiende dag i den syvende måned skal der være en hellig sammenkomst for jer, og I skal faste. I skal ikke udføre noget arbejde.",
       "number": 7
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "På den femtende dag i den syvende måned skal der være en hellig sammenkomst for jer, I skal ikke udføre noget arbejde, og I skal højtideligholde højtiden for JHVH i syv dage.",
+      "text": "\fPå den femtende dag i den syvende måned skal der være en hellig sammenkomst for jer, I skal ikke udføre noget arbejde, og I skal højtideligholde højtiden for JHVH i syv dage.",
       "number": 12
     },
     {
@@ -186,7 +196,7 @@
       "text": "Ordret: >>ydmyge jeres sjæle<<. 4 Mos 30,14.",
       "type": "T",
       "verse": 7,
-      "position": 99
+      "position": 100
     },
     {
       "text": "efa",

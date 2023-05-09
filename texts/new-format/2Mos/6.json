@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 6,
   "version": 1567634400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men JHVH sagde til Moses: >>Nu skal du se hvad jeg vil gøre ved Farao! For ved en stærk hånd skal han lade dem gå, og ved en stærk hånd skal han drive dem ud af sit land.<<",
+      "text": "\fMen JHVH sagde til Moses: >>Nu skal du se hvad jeg vil gøre ved Farao! For ved en stærk hånd skal han lade dem gå, og ved en stærk hånd skal han drive dem ud af sit land.<<",
       "number": 1
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Disse er overhovederne for deres fædrenehuse: Rubens, Israels førstefødtes, sønner: Hanoch og Pallu, Hesron og Karmi. Disse var Rubens slægter.",
+      "text": "\fDisse er overhovederne for deres fædrenehuse: Rubens, Israels førstefødtes, sønner: Hanoch og Pallu, Hesron og Karmi. Disse var Rubens slægter.",
       "number": 14
     },
     {
@@ -105,7 +119,7 @@
       "number": 25
     },
     {
-      "text": "Det var Aron og Moses til hvem JHVH sagde: >>Før Israels børn ud af Egyptens land efter deres hærskarer.<<",
+      "text": "\fDet var Aron og Moses til hvem JHVH sagde: >>Før Israels børn ud af Egyptens land efter deres hærskarer.<<",
       "number": 26
     },
     {
@@ -156,7 +170,7 @@
       "text": "Navnet er i mange danske oversættelser gengivet som >>Enok<<, andre har dog: >>Hanok<<. På hebraisk er navnet: *ḥᵃnôx*. Engelske oversættelser skriver oftest: >>Hanoch<<.",
       "type": "T",
       "verse": 14,
-      "position": 90
+      "position": 91
     },
     {
       "text": "På hebraisk: *šimʕôn*.",
@@ -186,7 +200,7 @@
       "text": "Ordret: >>Han, Aron og Moses<<.",
       "type": "T",
       "verse": 26,
-      "position": 21
+      "position": 22
     },
     {
       "text": "Kan også oversættes: >>for at<<.",

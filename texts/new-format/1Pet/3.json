@@ -3,9 +3,23 @@
   "abbreviation": "1Pet",
   "chapter": 3,
   "version": 1645052400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For at opsummere: Vær alle enige, medlidende, kærlige imod brødrene, barmhjertige, ydmyge;",
+      "text": "\fFor at opsummere: Vær alle enige, medlidende, kærlige imod brødrene, barmhjertige, ydmyge;",
       "number": 8
     },
     {
@@ -25,7 +39,7 @@
       "number": 12
     },
     {
-      "text": "Og hvem er der som kan volde jer ondt når I er ivrige efter det gode?",
+      "text": "\fOg hvem er der som kan volde jer ondt når I er ivrige efter det gode?",
       "number": 13
     },
     {
@@ -37,7 +51,7 @@
       "number": 15
     },
     {
-      "text": "For også Kristus led én gang for syndere, en retfærdig for uretfærdige, for at han kunne føre jer hen til Gud; han som blev dræbt i kødet, men blev levendegjort i Ånden,",
+      "text": "\fFor også Kristus led én gang for syndere, en retfærdig for uretfærdige, for at han kunne føre jer hen til Gud; han som blev dræbt i kødet, men blev levendegjort i Ånden,",
       "number": 18
     },
     {
@@ -75,7 +89,7 @@
       "text": "Nogle tekstvarianter har >>os<<.",
       "type": "T",
       "verse": 18,
-      "position": 97
+      "position": 98
     },
     {
       "text": "Det græske ord *ἀντίτυπος* betyder: >>billede<</>>modstykke<<; frelsen i dåben er modstykke til frelsen gennem syndfloden.",

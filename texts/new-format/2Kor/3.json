@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 3,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Begynder vi igen at anbefale os selv? Eller behøver vi, som nogle, anbefalingsbreve til jer eller fra jer?",
+      "text": "\fBegynder vi igen at anbefale os selv? Eller behøver vi, som nogle, anbefalingsbreve til jer eller fra jer?",
       "number": 1
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "Eftersom vi altså har sådan et håb, går vi frem med stor frimodighed",
+      "text": "\fEftersom vi altså har sådan et håb, går vi frem med stor frimodighed",
       "number": 12
     },
     {

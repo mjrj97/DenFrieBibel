@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 11,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men JHVH sagde til Moses: >>Endnu én plage vil jeg bringe over Farao og over Egypten. Derefter vil han lade jer gå herfra. Når han lader jer gå, vil han helt afgjort drive  jer fuldstændig ud herfra!",
+      "text": "\fMen JHVH sagde til Moses: >>Endnu én plage vil jeg bringe over Farao og over Egypten. Derefter vil han lade jer gå herfra. Når han lader jer gå, vil han helt afgjort drive  jer fuldstændig ud herfra!",
       "number": 1
     },
     {
@@ -56,13 +70,13 @@
       "text": "Den hebraiske tekst har verbet *grš* (>>drive<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
       "type": "T",
       "verse": 1,
-      "position": 171
+      "position": 172
     },
     {
       "text": "Meningen med grundtekstens *kālāʰ* er omdiskuteret. Grundbetydningen er: >>ødelæggelse<<, men her må det – som eneste sted i GT – nok opfattes som adverbium. Det kan da eventuelt oversættes: >>ligefrem<<. Mere oplagt er det dog enten at det oversættes: >>(Når han lader jer gå,) vil det være komplet<<, eller som i denne oversættelse knyttet til det følgende: >>fuldstændig<<.",
       "type": "T",
       "verse": 1,
-      "position": 188
+      "position": 189
     },
     {
       "text": "Ordret: >>Sig så nu i folkets ører<<.",

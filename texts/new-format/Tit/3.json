@@ -3,9 +3,19 @@
   "abbreviation": "Tit",
   "chapter": 3,
   "version": 1641855600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomesen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Men da Guds, vores frelsers, godhed og menneskekærlighed åbenbaredes,",
+      "text": "\fMen da Guds, vores frelsers, godhed og menneskekærlighed åbenbaredes,",
       "number": 4
     },
     {

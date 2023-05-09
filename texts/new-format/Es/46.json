@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 46,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Bel synker i knæ, Nebo falder sammen, deres billeder lægger man på lastdyr og kvæg; det, I gik og bar på, læsses som en last på de trætte dyr.",
+      "text": "\fBel synker i knæ, Nebo falder sammen, deres billeder lægger man på lastdyr og kvæg; det, I gik og bar på, læsses som en last på de trætte dyr.",
       "number": 1
     },
     {
@@ -13,7 +23,7 @@
       "number": 2
     },
     {
-      "text": "Hør mig, Jakobs hus og alle I, der er til rest af Israels hus, I, der er lagt mig på sinde fra mors liv af, I, der bæres af mig fra mors skød af!",
+      "text": "\fHør mig, Jakobs hus og alle I, der er til rest af Israels hus, I, der er lagt mig på sinde fra mors liv af, I, der bæres af mig fra mors skød af!",
       "number": 3
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Husk dette, og vær faste! I overtrædere, tag det til hjerte!",
+      "text": "\fHusk dette, og vær faste! I overtrædere, tag det til hjerte!",
       "number": 8
     },
     {

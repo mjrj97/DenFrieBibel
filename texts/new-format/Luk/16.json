@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 16,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men han sagde også til disciplene: >>Der var en rig mand som havde en godsforvalter, og denne blev beskyldt over for ham som en der øslede med hans ejendom.",
+      "text": "\fMen han sagde også til disciplene: >>Der var en rig mand som havde en godsforvalter, og denne blev beskyldt over for ham som en der øslede med hans ejendom.",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Der var en rig mand som klædte sig i purpur og fint linned og levede hver dag i fryd og herlighed.",
+      "text": "\fDer var en rig mand som klædte sig i purpur og fint linned og levede hver dag i fryd og herlighed.",
       "number": 19
     },
     {

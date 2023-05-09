@@ -3,9 +3,23 @@
   "abbreviation": "Apg",
   "chapter": 2,
   "version": 1620770400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da dagen for pinsefesten kom, var de alle samlet på samme sted.",
+      "text": "\fDa dagen for pinsefesten kom, var de alle samlet på samme sted.",
       "number": 1
     },
     {
@@ -21,7 +35,7 @@
       "number": 4
     },
     {
-      "text": "Nu boede der i Jerusalem gudfrygtige jødiske mænd af alle folkeslag under himlen.",
+      "text": "\fNu boede der i Jerusalem gudfrygtige jødiske mænd af alle folkeslag under himlen.",
       "number": 5
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "jøder og proselytter,{T: Betegnelsen for dem af den jødiske tros tilhængere som ikke er jøder af fødsel.} kretere og arabere, vi hører dem tale om Guds store gerninger på vores egne tungemål?<<",
+      "text": "jøder og proselytter, kretere og arabere, vi hører dem tale om Guds store gerninger på vores egne tungemål?<<",
       "number": 11
     }
   ],
@@ -62,6 +76,12 @@
       "type": "T",
       "verse": 9,
       "position": 103
+    },
+    {
+      "text": "Betegnelsen for dem af den jødiske tros tilhængere som ikke er jøder af fødsel.",
+      "type": "T",
+      "verse": 11,
+      "position": 21
     }
   ]
 }

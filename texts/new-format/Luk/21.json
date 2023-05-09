@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 21,
   "version": 1637535600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og der skal ske tegn i sol og måne og stjerner, og på jorden skal folkene ængstes i rådvildhed over havets og bølgernes brusen,",
+      "text": "\fOg der skal ske tegn i sol og måne og stjerner, og på jorden skal folkene ængstes i rådvildhed over havets og bølgernes brusen,",
       "number": 25
     },
     {

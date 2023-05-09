@@ -3,37 +3,47 @@
   "abbreviation": "Sl",
   "chapter": 142,
   "version": 1493330400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Maskil af David.Da han var i hulen. En bøn.",
+      "text": "\fMaskil af David.\fDa han var i hulen. En bøn.",
       "number": 1
     },
     {
-      "text": "Med min røst vil jeg råbe til JHVH,med min røst vil jeg bede til JHVH om nåde.",
+      "text": "\fMed min røst vil jeg råbe til JHVH,\fmed min røst vil jeg bede til JHVH om nåde.",
       "number": 2
     },
     {
-      "text": "Jeg vil udøse min klage for hans ansigt,jeg vil give min nød til kende for hans ansigt.",
+      "text": "\fJeg vil udøse min klage for hans ansigt,\fjeg vil give min nød til kende for hans ansigt.",
       "number": 3
     },
     {
-      "text": "Når min ånd i mig falder i afmagt,kender du dog min sti.På vejen hvor jeg skal gå,har de skjult en fælde for mig.",
+      "text": "\fNår min ånd i mig falder i afmagt,\fkender du dog min sti.\fPå vejen hvor jeg skal gå,\fhar de skjult en fælde for mig.",
       "number": 4
     },
     {
-      "text": "Jeg spejder til højre og ser,men der er ingen som kendes ved mig.Der er intet tilflugtssted for mig,ingen bekymrer sig om mig.",
+      "text": "\fJeg spejder til højre og ser,\fmen der er ingen som kendes ved mig.\fDer er intet tilflugtssted for mig,\fingen bekymrer sig om mig.",
       "number": 5
     },
     {
-      "text": "Jeg råber til dig, JHVHv,jeg siger: Du er min tilflugt,min del i de levendes land.",
+      "text": "\fJeg råber til dig, JHVHv,\fjeg siger: Du er min tilflugt,\fmin del i de levendes land.",
       "number": 6
     },
     {
-      "text": "Giv agt på mit klageråb,for jeg er blevet meget svag,red mig fra mine forfølgere,for de er for stærke for mig.",
+      "text": "\fGiv agt på mit klageråb,\ffor jeg er blevet meget svag,\fred mig fra mine forfølgere,\ffor de er for stærke for mig.",
       "number": 7
     },
     {
-      "text": "Før min sjæl af ud fængselså jeg kan takke dit navn.De retfærdige vil samle sig om mig,når du handler vel imod mig.",
+      "text": "\fFør min sjæl af ud fængsel\fså jeg kan takke dit navn.\fDe retfærdige vil samle sig om mig,\fnår du handler vel imod mig.",
       "number": 8
     }
   ],
@@ -60,37 +70,37 @@
       "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 32; 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<",
       "type": "E",
       "verse": 1,
-      "position": 6
+      "position": 7
     },
     {
       "text": "De to linjer kan også oversættes: >>Da min ånd i mig faldt i afmagt, kendte du dog min sti<<.",
       "type": "E",
       "verse": 4,
-      "position": 56
+      "position": 58
     },
     {
       "text": "Ordret: >>spejd til højre og se!<<. Masoreterne har vokaliseret verberne som imperativ, hvorimod de gamle oversættelser har opfattet dem som infintivus absolutus. For verbet: *habbêṭ* (>>spejd<<) er de to former ens, men for: *rᵊʔēh* (>>se<<) skal infinitivus absolutus vokaliseres: *rāʔōh*. Den masoretiske vokalisering må forstås som opfordring til Gud om at give agt, men hvis man læste teksten uvokaliseret, ville man utvivlsomt læse den som de gamle oversættelser. Hvis verberne var ment som imperativ, måtte man vente en direkte tiltale: >>JHVHv!<< eller lignende.",
       "type": "E",
       "verse": 5,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Ordret: >>Tilflugtssted er forsvundet/fortabt for mig<<.",
       "type": "T",
       "verse": 5,
-      "position": 100
+      "position": 103
     },
     {
       "text": "Ordret: >>om min sjæl<<",
       "type": "T",
       "verse": 5,
-      "position": 126
+      "position": 130
     },
     {
       "text": "Dette verbum og verbet i næste linje står i qatal, der oftest angiver fortid, men her må opfattes som deklarative.",
       "type": "E",
       "verse": 6,
-      "position": 9
+      "position": 10
     }
   ]
 }

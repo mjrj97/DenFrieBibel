@@ -3,9 +3,23 @@
   "abbreviation": "Ruth",
   "chapter": 3,
   "version": 1674169200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "Hendes svigermor No'omi sagde nu til hende:\n\t\t>Min datter,\n\t\t\t\tmon ikke jeg skulle sørge for et hjem til dig,\n\t\t\t\t\tså det må gå dig godt?",
+      "text": "\fHendes svigermor No'omi sagde nu til hende:\n\t\t>Min datter,\n\t\t\t\tmon ikke jeg skulle sørge for et hjem til dig,\n\t\t\t\t\tså det må gå dig godt?",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Midt på natten\n\tbegyndte manden at ryste af kulde\n\t\tog lænede sig frem,\n\t\t\tog se,\n\t\t\t\tder lå en kvinde ved hans fødder.",
+      "text": "\fMidt på natten\n\tbegyndte manden at ryste af kulde\n\t\tog lænede sig frem,\n\t\t\tog se,\n\t\t\t\tder lå en kvinde ved hans fødder.",
       "number": 8
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "\t\t\t\tHun lå ved hans fødder til det blev morgen,\n\t\t\t\tog stod op\n\t\t\t\t\tmens man endnu knapt kunne se hinanden i mørket,\n\t\t\t\tog han sagde:\n\t\t\t\t\t>>Lad ingen opdage\n\t\t\t\t\t\tat en kvinde er kommet ind på tærskepladsen.<<",
+      "text": "\f\t\t\t\tHun lå ved hans fødder til det blev morgen,\n\t\t\t\tog stod op\n\t\t\t\t\tmens man endnu knapt kunne se hinanden i mørket,\n\t\t\t\tog han sagde:\n\t\t\t\t\t>>Lad ingen opdage\n\t\t\t\t\t\tat en kvinde er kommet ind på tærskepladsen.<<",
       "number": 14
     },
     {

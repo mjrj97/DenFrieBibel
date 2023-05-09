@@ -3,29 +3,43 @@
   "abbreviation": "Sl",
   "chapter": 1,
   "version": 1665180000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "Salig det menneske\n\t\t\tsom ikke vandrer efter ugudeliges råd\n\t\t\t\t\tog ikke går ind på synderes vej\n\t\t\t\t\teller sidder i spotteres forsamling,",
+      "text": "\fSalig det menneske\n\t\t\tsom ikke vandrer efter ugudeliges råd\f\n\t\t\t\t\tog ikke går ind på synderes vej\n\t\t\t\t\teller sidder i spotteres forsamling,",
       "number": 1
     },
     {
-      "text": "\t\t\t\tmen som tværtimod har behag i JHVHs lov,\n\t\t\t\t\tog som grunder på hans lov dag og nat.",
+      "text": "\f\t\t\t\tmen som tværtimod har behag i JHVHs lov,\f\n\t\t\t\t\tog som grunder på hans lov dag og nat.",
       "number": 2
     },
     {
-      "text": "\t\tHan skal være som et træ\n\t\t\t\t\t\tder er plantet ved vandløb;\n\t\t\t\t\tdet bærer sin frugt til rette tid,\n\t\t\t\t\t\tog dets blade visner ikke;\n\t\t\t\talt\n\t\t\t\t\t\thvad han gør,\n\t\t\t\t\tskal han lykkes med.",
+      "text": "\f\t\tHan skal være som et træ\f\n\t\t\t\t\t\tder er plantet ved vandløb;\f\n\t\t\t\t\tdet bærer sin frugt til rette tid,\f\n\t\t\t\t\t\tog dets blade visner ikke;\f\n\t\t\t\talt\n\t\t\t\t\t\thvad han gør,\n\t\t\t\t\tskal han lykkes med.",
       "number": 3
     },
     {
-      "text": "\t\t\tSådan er de ugudelige ikke;\n\t\t\t\t\tde ligner derimod avner,\n\t\t\t\t\t\tsom vinden blæser bort.",
+      "text": "\f\t\t\tSådan er de ugudelige ikke;\f\n\t\t\t\t\tde ligner derimod avner,\f\n\t\t\t\t\t\tsom vinden blæser bort.",
       "number": 4
     },
     {
-      "text": "\t\t\t\tDerfor vil de ugudelige ikke bestå i dommen;\n\t\t\t\t\tej heller syndere i de retfærdiges menighed.",
+      "text": "\f\t\t\t\tDerfor vil de ugudelige ikke bestå i dommen;\f\n\t\t\t\t\tej heller syndere i de retfærdiges menighed.",
       "number": 5
     },
     {
-      "text": "\tFor JHVH anerkender de retfærdiges vej;\n\t\tmen de ugudeliges vej skal forgå.",
+      "text": "\f\tFor JHVH anerkender de retfærdiges vej;\f\n\t\tmen de ugudeliges vej skal forgå.",
       "number": 6
     }
   ],
@@ -48,7 +62,7 @@
       "text": "lov",
       "type": "N",
       "verse": 2,
-      "position": 44
+      "position": 45
     }
   ]
 }

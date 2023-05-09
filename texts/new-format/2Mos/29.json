@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 29,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Dette er den handling som du skal udføre ved dem for at hellige dem til at gøre præstetjeneste for mig: Tag en ung tyr og to væddere, lydefri,",
+      "text": "\f>>Dette er den handling som du skal udføre ved dem for at hellige dem til at gøre præstetjeneste for mig: Tag en ung tyr og to væddere, lydefri,",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": ">>Du skal føre tyren hen foran forsamlingsteltet, og Aron og hans sønner skal lægge deres hænder på tyrens hoved.",
+      "text": "\f>>Du skal føre tyren hen foran forsamlingsteltet, og Aron og hans sønner skal lægge deres hænder på tyrens hoved.",
       "number": 10
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": ">>Så skal du skal tage den ene vædder, og Aron og hans sønner skal lægge deres hænder på vædderens hoved,",
+      "text": "\f>>Så skal du skal tage den ene vædder, og Aron og hans sønner skal lægge deres hænder på vædderens hoved,",
       "number": 15
     },
     {
@@ -105,7 +119,7 @@
       "number": 25
     },
     {
-      "text": ">>Du skal tage bryststykket fra Arons indsættelsesvædder og udføre svingning med det for JHVHs ansigt; det skal være din andel.",
+      "text": "\f>>Du skal tage bryststykket fra Arons indsættelsesvædder og udføre svingning med det for JHVHs ansigt; det skal være din andel.",
       "number": 26
     },
     {
@@ -117,7 +131,7 @@
       "number": 28
     },
     {
-      "text": ">>De hellige klæder, som Aron har, skal hans sønner have efter ham, i dem skal man salve dem og fylde deres hænder i dem.",
+      "text": "\f>>De hellige klæder, som Aron har, skal hans sønner have efter ham, i dem skal man salve dem og fylde deres hænder i dem.",
       "number": 29
     },
     {
@@ -153,7 +167,7 @@
       "number": 37
     },
     {
-      "text": ">>Dette er det som du skal bringe på alteret: To årgamle vædderlam hver dag, bestandig.",
+      "text": "\f>>Dette er det som du skal bringe på alteret: To årgamle vædderlam hver dag, bestandig.",
       "number": 38
     },
     {
@@ -220,7 +234,7 @@
       "text": "Ordret: >>en ung tyr, en tyrekalv<<.",
       "type": "T",
       "verse": 1,
-      "position": 120
+      "position": 121
     },
     {
       "text": "Se note til 28,36.",
@@ -304,7 +318,7 @@
       "text": "Se note til 28,41.",
       "type": "E",
       "verse": 29,
-      "position": 121
+      "position": 122
     },
     {
       "text": "Det er: For at de kunne indsættes.",

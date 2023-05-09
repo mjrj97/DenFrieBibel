@@ -3,9 +3,23 @@
   "abbreviation": "Jak",
   "chapter": 1,
   "version": 1619647200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Hver god gave og hver fuldkommen gave er ovenfra og kommer ned fra lysenes Fader, hos hvem der ikke er forandring eller skiftende skygge.",
+      "text": "\fHver god gave og hver fuldkommen gave er ovenfra og kommer ned fra lysenes Fader, hos hvem der ikke er forandring eller skiftende skygge.",
       "number": 17
     },
     {
@@ -25,7 +39,7 @@
       "number": 21
     },
     {
-      "text": "Men vær ordets gørere og ikke kun dets hørere, hvorved I bedrager jer selv.",
+      "text": "\fMen vær ordets gørere og ikke kun dets hørere, hvorved I bedrager jer selv.",
       "number": 22
     },
     {

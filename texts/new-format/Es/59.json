@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 59,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Se, JHVHs hånd er ikke blevet så kort, at han ikke kunne frelse; og hans øre er ikke så tunghørt, at han ikke kunne høre.",
+      "text": "\fSe, JHVHs hånd er ikke blevet så kort, at han ikke kunne frelse; og hans øre er ikke så tunghørt, at han ikke kunne høre.",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Derfor er retten langt væk fra os, og retfærdigheden når ikke hen til os; vi regner med lys, og se, der er mørke; vi venter kun solskin, og se, vi vandrer i sort nat.",
+      "text": "\fDerfor er retten langt væk fra os, og retfærdigheden når ikke hen til os; vi regner med lys, og se, der er mørke; vi venter kun solskin, og se, vi vandrer i sort nat.",
       "number": 9
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "Og han så, at der ikke var nogen, og han undrede sig meget over, at der ikke var nogen mellemmand; men hans egen arm hjalp ham, og hans retfærdighed støttede ham.",
+      "text": "\fOg han så, at der ikke var nogen, og han undrede sig meget over, at der ikke var nogen mellemmand; men hans egen arm hjalp ham, og hans retfærdighed støttede ham.",
       "number": 16
     },
     {

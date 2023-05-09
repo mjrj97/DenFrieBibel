@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 36,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Besal’el og Oholiab og hver mand med kunstforstand, til hvem JHVH har givet visdom og forstand til at vide at udføre alt arbejdet til tjenesten ved helligdommen, skal gøre efter alt det som JHVH har befalet.<<",
+      "text": "\fBesal’el og Oholiab og hver mand med kunstforstand, til hvem JHVH har givet visdom og forstand til at vide at udføre alt arbejdet til tjenesten ved helligdommen, skal gøre efter alt det som JHVH har befalet.<<",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Så lavede alle der havde forstand på det, blandt dem som udførte arbejdet, boligen af ti teltduge af tvundet, fint linned og purpurblå, purpurrød og karminrød uld, med kunstfærdigt forarbejdede keruber lavede de dem.",
+      "text": "\fSå lavede alle der havde forstand på det, blandt dem som udførte arbejdet, boligen af ti teltduge af tvundet, fint linned og purpurblå, purpurrød og karminrød uld, med kunstfærdigt forarbejdede keruber lavede de dem.",
       "number": 8
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "Man lavede plankerne til boligen af akacietræ, så de var lodrette.",
+      "text": "\fMan lavede plankerne til boligen af akacietræ, så de var lodrette.",
       "number": 20
     },
     {
@@ -141,7 +151,7 @@
       "number": 34
     },
     {
-      "text": "Man lavede forhænget af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber lavede man det.",
+      "text": "\fMan lavede forhænget af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber lavede man det.",
       "number": 35
     },
     {
@@ -176,7 +186,7 @@
       "text": "Ordret: >>víst hjerte<<.",
       "type": "T",
       "verse": 1,
-      "position": 51
+      "position": 52
     },
     {
       "text": "Ordret: >>hvis hjerte løftede ham<<.",
@@ -200,13 +210,13 @@
       "text": "Ordret: >>karminrød orm<<.",
       "type": "T",
       "verse": 8,
-      "position": 158
+      "position": 159
     },
     {
       "text": "Ordet >>med<< står ikke i den hebraiske tekst, men meningen må være at de der lavede teltdugene, vævede dem, så der fremstod billeder af keruber.",
       "type": "T",
       "verse": 8,
-      "position": 168
+      "position": 169
     },
     {
       "text": "Kan også oversættes: >>han forbandt<<, underforstået: >>Besal’el<<.",

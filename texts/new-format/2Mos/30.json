@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 30,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Du skal lave et alter til at brænde røgelse på; af akacietræ skal du lave det,",
+      "text": "\f>>Du skal lave et alter til at brænde røgelse på; af akacietræ skal du lave det,",
       "number": 1
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 11
     },
     {
@@ -69,7 +83,7 @@
       "number": 16
     },
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 17
     },
     {
@@ -89,7 +103,7 @@
       "number": 21
     },
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 22
     },
     {
@@ -137,7 +151,7 @@
       "number": 33
     },
     {
-      "text": "Og JHVH sagde til Moses: >>Tag dig velduftende stoffer: stakte-dråber og mollusk-pulver og galban-gummi, velduftende stoffer og ren røgelse; der skal være lige meget af hvert.",
+      "text": "\fOg JHVH sagde til Moses: >>Tag dig velduftende stoffer: stakte-dråber og mollusk-pulver og galban-gummi, velduftende stoffer og ren røgelse; der skal være lige meget af hvert.",
       "number": 34
     },
     {
@@ -268,13 +282,13 @@
       "text": "Det hebraiske *sammîm* (>>velduftende stoffer<<) er omdiskuteret på dette sted; de nævnte stoffer er ikke alle velduftende. Nogle oversættere foreslår det neutrale: >>krydderier<<.",
       "type": "T",
       "verse": 34,
-      "position": 55
+      "position": 56
     },
     {
       "text": "Ordret: >>del og del skal det være<<.",
       "type": "T",
       "verse": 34,
-      "position": 175
+      "position": 176
     },
     {
       "text": "Ordret: >>hellig skal den være for jer for JHVH<<",

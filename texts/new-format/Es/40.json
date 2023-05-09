@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 40,
   "version": 1632780000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Trøst, trøst mit folk, siger jeres Gud;",
+      "text": "\fTrøst, trøst mit folk, siger jeres Gud;",
       "number": 1
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "Hvem har målt vandet  med sin hule hånd? og afmålt himlen i fingerspand? og samlet jordens støv i litermål? Hvem har vejet bjergene med vægt og højene på vægtskåle?",
+      "text": "\fHvem har målt vandet  med sin hule hånd? og afmålt himlen i fingerspand? og samlet jordens støv i litermål? Hvem har vejet bjergene med vægt og højene på vægtskåle?",
       "number": 12
     },
     {
@@ -105,7 +115,7 @@
       "number": 25
     },
     {
-      "text": "Løft jeres øjne imod det høje og se: Hvem skabte disse ting? Han, der fører deres hær frem efter tal; han kalder dem alle ved navn; på grund af hans vældige magt og store kraft mangler der ikke én.",
+      "text": "\fLøft jeres øjne imod det høje og se: Hvem skabte disse ting? Han, der fører deres hær frem efter tal; han kalder dem alle ved navn; på grund af hans vældige magt og store kraft mangler der ikke én.",
       "number": 26
     },
     {
@@ -152,7 +162,7 @@
       "text": "Stjernerne",
       "type": "T",
       "verse": 26,
-      "position": 60
+      "position": 61
     }
   ]
 }

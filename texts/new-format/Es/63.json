@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 63,
   "version": 1608418800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Hvem er han, der kommer fra Edom, i højrøde klæder fra Bozra, han, der er så prægtig i sin dragt, han, der skrider frem i sin store kraft? Det er mig, der taler retfærdighed, mig, der er mægtig til at frelse!",
+      "text": "\fHvem er han, der kommer fra Edom, i højrøde klæder fra Bozra, han, der er så prægtig i sin dragt, han, der skrider frem i sin store kraft? Det er mig, der taler retfærdighed, mig, der er mægtig til at frelse!",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Jeg vil prisende forkynde JHVHs nåde, JHVHs glorværdige gerninger, efter alt det som JHVH har gjort imod os, ja, den store godhed imod Israels hus som han viste dem i overensstemmelse med sin barmhjertighed og sin store nåde.",
+      "text": "\fJeg vil prisende forkynde JHVHs nåde, JHVHs glorværdige gerninger, efter alt det som JHVH har gjort imod os, ja, den store godhed imod Israels hus som han viste dem i overensstemmelse med sin barmhjertighed og sin store nåde.",
       "number": 7
     },
     {

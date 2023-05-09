@@ -3,9 +3,23 @@
   "abbreviation": "Rom",
   "chapter": 11,
   "version": 1621375200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For Gud har indesluttet alle i ulydighed for at han kunne forbarme sig over alle.",
+      "text": "\fFor Gud har indesluttet alle i ulydighed for at han kunne forbarme sig over alle.",
       "number": 32
     },
     {

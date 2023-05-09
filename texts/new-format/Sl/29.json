@@ -3,49 +3,63 @@
   "abbreviation": "Sl",
   "chapter": 29,
   "version": 1457218800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Salme af David.Giv JHVH, I Guds sønner,giv JHVH ære og styrke!",
+      "text": "\fSalme af David.\fGiv JHVH, I Guds sønner,\fgiv JHVH ære og styrke!",
       "number": 1
     },
     {
-      "text": "Giv JHVH hans navns ære,kast jer ned for JHVH i hellig klædning.",
+      "text": "\fGiv JHVH hans navns ære,\fkast jer ned for JHVH i hellig klædning.",
       "number": 2
     },
     {
-      "text": "Herrens røst er over vandene.Ærens Gud får det til at tordne,JHVH er over de vældige vande.",
+      "text": "\fHerrens røst er over vandene.\fÆrens Gud får det til at tordne,\fJHVH er over de vældige vande.",
       "number": 3
     },
     {
-      "text": "JHVHs røst er med kraft,JHVHs røst er med herlighed.",
+      "text": "\fJHVHs røst er med kraft,\fJHVHs røst er med herlighed.",
       "number": 4
     },
     {
-      "text": "JHVHs røst splintrer cedertræer,og JHVH smadrer Libanons cedre.",
+      "text": "\fJHVHs røst splintrer cedertræer,\fog JHVH smadrer Libanons cedre.",
       "number": 5
     },
     {
-      "text": "Og han får dem til at springe som en kalv,Libanon og Sirjon som vildoksers kalv.",
+      "text": "\fOg han får dem til at springe som en kalv,\fLibanon og Sirjon som vildoksers kalv.",
       "number": 6
     },
     {
-      "text": "JHVHs røst slår ned med ildsluer.",
+      "text": "\fJHVHs røst slår ned med ildsluer.",
       "number": 7
     },
     {
-      "text": "JHVHs røst får ørken til at skælve,JHVH får Kadesh’ ørken til at skælve.",
+      "text": "\fJHVHs røst får ørken til at skælve,\fJHVH får Kadesh’ ørken til at skælve.",
       "number": 8
     },
     {
-      "text": "JHVHs røst får hinder til at fødeog afbarker skove.Men i hans tempel siger de alle: >>Ære!<<",
+      "text": "\fJHVHs røst får hinder til at føde\fog afbarker skove.\fMen i hans tempel siger de alle: >>Ære!<<",
       "number": 9
     },
     {
-      "text": "JHVH har taget sæde over vandfloden,og JHVH troner som konge i evighed.",
+      "text": "\fJHVH har taget sæde over vandfloden,\fog JHVH troner som konge i evighed.",
       "number": 10
     },
     {
-      "text": "JHVH skal give sit folk styrke,JHVH skal velsigne sit folk med fred.",
+      "text": "\fJHVH skal give sit folk styrke,\fJHVH skal velsigne sit folk med fred.",
       "number": 11
     }
   ],
@@ -72,31 +86,31 @@
       "text": "Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: >>gudssønner<<.",
       "type": "E",
       "verse": 1,
-      "position": 39
+      "position": 41
     },
     {
       "text": "Ordet *ʕōz* kan også oversættes >>lovprisning / hæder<<. I sammenhængen er det dog vigtigt at understrege Guds magt.",
       "type": "E",
       "verse": 1,
-      "position": 62
+      "position": 65
     },
     {
       "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat >>smykke, skrud, åbenbaring, tilsynekomst, majestæt<<.",
       "type": "E",
       "verse": 2,
-      "position": 64
+      "position": 66
     },
     {
       "text": "Af hensyn til parallelismen slettes ofte bogstavet *m* (>>dem<<) i *yarqîdēm* (>>og får dem til at springe<<), og den skillende accent flyttes hen under >>Libanon<<, så sætningen lyder: >>Og han får Libanon til at springe som en kalv<<.",
       "type": "E",
       "verse": 6,
-      "position": 42
+      "position": 43
     },
     {
       "text": "Dvs. Hermon.",
       "type": "T",
       "verse": 6,
-      "position": 59
+      "position": 61
     }
   ]
 }

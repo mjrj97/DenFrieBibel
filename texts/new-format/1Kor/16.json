@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 16,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men hvad indsamlingen til de hellige angår, skal I også gøre, ligesom jeg forordnede for menighederne i Galatien!",
+      "text": "\fMen hvad indsamlingen til de hellige angår, skal I også gøre, ligesom jeg forordnede for menighederne i Galatien!",
       "number": 1
     },
     {
@@ -21,7 +35,7 @@
       "number": 4
     },
     {
-      "text": "Men jeg vil komme til jer, når jeg er rejst igennem Makedonien; for jeg tager igennem Makedonien;",
+      "text": "\fMen jeg vil komme til jer, når jeg er rejst igennem Makedonien; for jeg tager igennem Makedonien;",
       "number": 5
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Men hvis Timotheus kommer, skal I sørge for, at han kan færdes hos jer uden frygt; for han gør Herrens gerning ligesom som jeg.",
+      "text": "\fMen hvis Timotheus kommer, skal I sørge for, at han kan færdes hos jer uden frygt; for han gør Herrens gerning ligesom som jeg.",
       "number": 10
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Våg, stå fast i troen, vær mandige, vær stærke!",
+      "text": "\fVåg, stå fast i troen, vær mandige, vær stærke!",
       "number": 13
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": "Men jeg formaner jer, brødre - I kender Stefanas' hus, at det er Akajas førstegrøde, og de har sat sig for at tjene de hellige -",
+      "text": "\fMen jeg formaner jer, brødre - I kender Stefanas' hus, at det er Akajas førstegrøde, og de har sat sig for at tjene de hellige -",
       "number": 15
     },
     {
@@ -77,7 +91,7 @@
       "number": 18
     },
     {
-      "text": "Menighederne i Asien hilse jer. Akvila og Priska hilser jer mange gange i Herren sammen med menigheden i deres hus.",
+      "text": "\fMenighederne i Asien hilse jer. Akvila og Priska hilser jer mange gange i Herren sammen med menigheden i deres hus.",
       "number": 19
     },
     {

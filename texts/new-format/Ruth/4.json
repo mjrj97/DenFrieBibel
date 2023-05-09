@@ -3,9 +3,23 @@
   "abbreviation": "Ruth",
   "chapter": 4,
   "version": 1668034800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "Boaz var da gået hen til byporten\n\tog havde sat sig der,\n\t\tog se løseren,\n\t\t\tsom Boaz havde talt om,\n\tgik forbi.\n\tHan sagde til ham:\n\t\t\t>>Kom herhen,\n\t\t\tsæt dig her,\n\t\t\t\tmin ven.<<\n\t\tHan kom derhen\n\t\tog satte sig.",
+      "text": "\fBoaz var da gået hen til byporten\n\tog havde sat sig der,\n\t\tog se løseren,\n\t\t\tsom Boaz havde talt om,\n\tgik forbi.\n\tHan sagde til ham:\n\t\t\t>>Kom herhen,\n\t\t\tsæt dig her,\n\t\t\t\tmin ven.<<\n\t\tHan kom derhen\n\t\tog satte sig.",
       "number": 1
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Så tog Boaz Ruth\n\t\tsom sin hustru\n\tog han gik ind til hende.\n\t\tJHVH lod hende blive gravid,\n\tog hun fødte en søn.",
+      "text": "\fSå tog Boaz Ruth\n\t\tsom sin hustru\n\tog han gik ind til hende.\n\t\tJHVH lod hende blive gravid,\n\tog hun fødte en søn.",
       "number": 13
     },
     {
@@ -120,7 +134,7 @@
       "text": "Udtrykket er en eufemisme for seksuelt samvær, dvs. han var sammen med sin kone.",
       "type": "E",
       "verse": 13,
-      "position": 59
+      "position": 60
     }
   ]
 }

@@ -3,101 +3,115 @@
   "abbreviation": "Sl",
   "chapter": 55,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Med strengespil.Maskil af David.",
+      "text": "\fTil korlederen. Med strengespil.\fMaskil af David.",
       "number": 1
     },
     {
-      "text": "Hør, Gud, min bøn,og skjul dig ikke for min tryglen.",
+      "text": "\fHør, Gud, min bøn,\fog skjul dig ikke for min tryglen.",
       "number": 2
     },
     {
-      "text": "Lyt til mig og svar mig,jeg drives omkring i min fortvivlelse, og jeg må stønne",
+      "text": "\fLyt til mig og svar mig,\fjeg drives omkring i min fortvivlelse, og jeg må stønne",
       "number": 3
     },
     {
-      "text": "over fjendes råb,over at ugudelig undertrykker,for de vælter lidelse ned over mig,og i vrede bekriger de mig.",
+      "text": "\fover fjendes råb,\fover at ugudelig undertrykker,\ffor de vælter lidelse ned over mig,\fog i vrede bekriger de mig.",
       "number": 4
     },
     {
-      "text": "Mit hjerte skælver i mig,og dødens rædsler er faldet over mig.",
+      "text": "\fMit hjerte skælver i mig,\fog dødens rædsler er faldet over mig.",
       "number": 5
     },
     {
-      "text": "Frygt og bæven kom over mig,og forfærdelse indhyller mig.",
+      "text": "\fFrygt og bæven kom over mig,\fog forfærdelse indhyller mig.",
       "number": 6
     },
     {
-      "text": "Så jeg sagde: Gid jeg havde vinger som en due,så ville jeg flyve bort og fæste bo.",
+      "text": "\fSå jeg sagde: Gid jeg havde vinger som en due,\fså ville jeg flyve bort og fæste bo.",
       "number": 7
     },
     {
-      "text": "Se, jeg ville flygte langt bort,jeg ville overnatte i ørkenen. Sela",
+      "text": "\fSe, jeg ville flygte langt bort,\fjeg ville overnatte i ørkenen. Sela",
       "number": 8
     },
     {
-      "text": "Jeg ville haste til et tilflugtssted for migsom ly for en rasende vind, for en storm.",
+      "text": "\fJeg ville haste til et tilflugtssted for mig\fsom ly for en rasende vind, for en storm.",
       "number": 9
     },
     {
-      "text": "Forvir, Herre, gør dem uenige,for jeg har set voldog strid i byen.",
+      "text": "\fForvir, Herre, gør dem uenige,\ffor jeg har set vold\fog strid i byen.",
       "number": 10
     },
     {
-      "text": "Dag og nat går de omkring denpå dens mure,og uret og fortræd er inden i den,",
+      "text": "\fDag og nat går de omkring den\fpå dens mure,\fog uret og fortræd er inden i den,",
       "number": 11
     },
     {
-      "text": "fordærv er inden i den,og undertrykkelse og svig viger ikke fra dens torv.",
+      "text": "\ffordærv er inden i den,\fog undertrykkelse og svig viger ikke fra dens torv.",
       "number": 12
     },
     {
-      "text": "For det er ikke en fjende som forhåner mig,det kunne jeg bære;det er ikke en der hader mig, som gør sig stor over mig,ham kunne jeg skjule mig for.",
+      "text": "\fFor det er ikke en fjende som forhåner mig,\fdet kunne jeg bære;\fdet er ikke en der hader mig, som gør sig stor over mig,\fham kunne jeg skjule mig for.",
       "number": 13
     },
     {
-      "text": "Men det er dig, et menneske, som var min ligemand,min ven og min fortrolige,",
+      "text": "\fMen det er dig, et menneske, som var min ligemand,\fmin ven og min fortrolige,",
       "number": 14
     },
     {
-      "text": "vi, som sammen nød den søde fortrolighed,som vandrede i Guds hus i festskaren.",
+      "text": "\fvi, som sammen nød den søde fortrolighed,\fsom vandrede i Guds hus i festskaren.",
       "number": 15
     },
     {
-      "text": "Død skal falde over dem!De skal fare levende ned i dødsriget,for der er ondskab i kammeret i deres indre.",
+      "text": "\fDød skal falde over dem!\fDe skal fare levende ned i dødsriget,\ffor der er ondskab i kammeret i deres indre.",
       "number": 16
     },
     {
-      "text": "Jeg vil råbe til Gud,og JHVH skal frelse mig.",
+      "text": "\fJeg vil råbe til Gud,\fog JHVH skal frelse mig.",
       "number": 17
     },
     {
-      "text": "Aften og morgen og middagvil jeg klage og jamre,og han vil høre min røst.",
+      "text": "\fAften og morgen og middag\fvil jeg klage og jamre,\fog han vil høre min røst.",
       "number": 18
     },
     {
-      "text": "Han har forløst min sjæl i fredfra kampen imod mig,for mange var imod mig.",
+      "text": "\fHan har forløst min sjæl i fred\ffra kampen imod mig,\ffor mange var imod mig.",
       "number": 19
     },
     {
-      "text": "Gud skal høre og svare dem,han der troner fra ældgammel tid. SelaDer er ingen forandring hos dem,og de frygter ikke Gud.",
+      "text": "\fGud skal høre og svare dem,\fhan der troner fra ældgammel tid. Sela\fDer er ingen forandring hos dem,\fog de frygter ikke Gud.",
       "number": 20
     },
     {
-      "text": "Han har lagt hånd på dem som havde fred med ham,han har vanhelliget sin pagt.",
+      "text": "\fHan har lagt hånd på dem som havde fred med ham,\fhan har vanhelliget sin pagt.",
       "number": 21
     },
     {
-      "text": "Hans munds flødeagtige ord var glatte,og hans hjerte ville krig;hans ord var blødere end olie,og dog var de dragne sværd.",
+      "text": "\fHans munds flødeagtige ord var glatte,\fog hans hjerte ville krig;\fhans ord var blødere end olie,\fog dog var de dragne sværd.",
       "number": 22
     },
     {
-      "text": "Kast din byrde på JHVH,så vil han holde dig oppe.han lader ikke for evigtden retfærdige rokkes.",
+      "text": "\fKast din byrde på JHVH,\fså vil han holde dig oppe.\fhan lader ikke for evigt\fden retfærdige rokkes.",
       "number": 23
     },
     {
-      "text": "Men du, Gud, vil lade dem stige nedi gravens dyb.Mordere og bedragere{T: Ordret: >>blodets og bedragets mænd<<.}skal ikke nå halvdelen af deres dage.Men jeg, jeg stoler på dig.",
+      "text": "\fMen du, Gud, vil lade dem stige ned\fi gravens dyb.\fMordere og bedragere\fskal ikke nå halvdelen af deres dage.\fMen jeg, jeg stoler på dig.",
       "number": 24
     }
   ],
@@ -144,103 +158,109 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<< idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer, der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
       "type": "E",
       "verse": 1,
-      "position": 38
+      "position": 40
     },
     {
       "text": "Betydningen af ordet *ʔārîd* er usikker i sammenhængen. Det betyder egtl.: >>vandre frit omkring/vandre frem og tilbage<<, men i hif’il kan betydningen formodentlig være: >>drives omkring<<.",
       "type": "T",
       "verse": 3,
-      "position": 42
+      "position": 44
     },
     {
       "text": "Ordet *wᵊʔāhîmāʰ* (>>jeg må/vil stønne<<) er omdiskuteret. Dels er der usikkerhed om betydningen, dels trækkes ordet ofte over som del af v. 4, og dels foretrækker mange oversættere tekstrettelse til *wᵊʔ ēhômāʰ*: >>jeg er ude af mig selv<< eller *wᵊʔehᵉmeʰ*: >>jeg vil jamre<<.",
       "type": "T",
       "verse": 3,
-      "position": 79
+      "position": 81
     },
     {
       "text": "Oversættelsen af ordet er usikker – det forekommer kun her i GT.",
       "type": "T",
       "verse": 4,
-      "position": 47
+      "position": 49
     },
     {
       "text": "Ordret: >>Hvem vil give mig …<<.",
       "type": "T",
       "verse": 7,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 8,
-      "position": 67
+      "position": 69
     },
     {
       "text": "Andre oversætter: >>ødelæg<<.",
       "type": "T",
       "verse": 10,
-      "position": 6
+      "position": 7
     },
     {
       "text": "Ordret: Spalt deres tunger.",
       "type": "T",
       "verse": 10,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Ordet *regeš* forekommer i GT kun her. Ud fra roden må det betyde noget i retning af >>larmende mængde<<. Der kan være tænkt på en jublende skare.",
       "type": "T",
       "verse": 15,
-      "position": 78
+      "position": 80
     },
     {
       "text": "Konsonantteksten forudsætter ordet *yᵊšîmôt*: >>Ødelæggelse (over dem)<<. Men vokalteksten og de gamle oversættelser og mange håndskrifter har delt ordet: *yaššî māwet*: >>Død skal falde (over dem<<.",
       "type": "T",
       "verse": 16,
-      "position": 14
+      "position": 15
     },
     {
       "text": "Sætningen er omdiskuteret. Ordret: >>for der er ondskab i deres kammer, i deres indre<<. Mange oversættere sletter: >>i deres indre<< (*bᵊqirbām*) som ikke-oprindelig tilføjelse. Andre opfatter det som forklaring til kammeret, så der kan oversættes: >>i deres hjertekammer<<. Ordet: *mᵊgûrāʰ* (>>kammer<<) forekommer kun her og i Hagg 2,19, hvor det oversættes: >>lade/lager<<. Her kunne det eventuelt oversættes: >>lager/forrådskammer<<.",
       "type": "E",
       "verse": 16,
-      "position": 105
+      "position": 108
     },
     {
       "text": "Det danske ord >>fred<< er egentlig for snævert til at gengive fylden i det hebraiske * šālôm* der omfatter både indre og ydre fred. Grundbetydningen er >>hel, uskadt, sund<<. Freden omfatter i sin fylde også tryghed og frelse.",
       "type": "E",
       "verse": 19,
-      "position": 31
+      "position": 32
     },
     {
       "text": "Mange oversættere vælger (med Septuaginta) at ændre vokaliseringen af *yaʕᵃnēm* (>>svare dem<<) til: *yᵊʕᵃnēm*: >>ydmyge dem<<.",
       "type": "T",
       "verse": 20,
-      "position": 22
+      "position": 23
     },
     {
       "text": "Ordet *maḥmāʔōt* (>>flødeagtig<< optræder i GT kun her, og betydningen er usikker. Oftest ændrer man vokaliseringen til: *mēḥᵃmāʔōt*: >>end smør<< så oversættelsen bliver: >>Hans mund var glattere end smør<<.",
       "type": "T",
       "verse": 22,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Ordret: >>hans hjerte krig<<. Der må være underforstået et verbum (>>ville/ønskede<<).",
       "type": "T",
       "verse": 22,
-      "position": 64
+      "position": 66
     },
     {
       "text": "Ordret: >>Han skal ikke for evigt lægge vaklen hen til den retfærdige<<.",
       "type": "T",
       "verse": 23,
-      "position": 95
+      "position": 99
+    },
+    {
+      "text": "Ordret: >>blodets og bedragets mænd<<.",
+      "type": "T",
+      "verse": 24,
+      "position": 72
     }
   ]
 }

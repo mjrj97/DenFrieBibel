@@ -3,49 +3,59 @@
   "abbreviation": "Sl",
   "chapter": 143,
   "version": 1616454000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Salme af David.JHVHv, hør min bøn,lyt nøje til min tryglen,svar mig i din trofasthed, i din retfærdighed,",
+      "text": "\fSalme af David.\fJHVHv, hør min bøn,\flyt nøje til min tryglen,\fsvar mig i din trofasthed, i din retfærdighed,",
       "number": 1
     },
     {
-      "text": "og før ikke sag mod din tjener,for ingen som lever, er retfærdig over for dig.",
+      "text": "\fog før ikke sag mod din tjener,\ffor ingen som lever, er retfærdig over for dig.",
       "number": 2
     },
     {
-      "text": "For en fjende har forfulgt mig,han har knust mit liv til jorden,han har gjort at jeg må sidde i mørkesom dem der er evigt døde.",
+      "text": "\fFor en fjende har forfulgt mig,\fhan har knust mit liv til jorden,\fhan har gjort at jeg må sidde i mørke\fsom dem der er evigt døde.",
       "number": 3
     },
     {
-      "text": "Min ånd er faldet i afmagt i mig,mit hjerte er forfærdet i mit indre.v5 Jeg husker fortids dage,jeg grunder på al din gerning,jeg tænker over dine hænders værk.",
+      "text": "\fMin ånd er faldet i afmagt i mig,\fmit hjerte er forfærdet i mit indre.\fv5 Jeg husker fortids dage,\fjeg grunder på al din gerning,\fjeg tænker over dine hænders værk.",
       "number": 4
     },
     {
-      "text": "Jeg har bredt mine hænder ud mod dig,min sjæl er som udtørret land for dig. Sela",
+      "text": "\fJeg har bredt mine hænder ud mod dig,\fmin sjæl er som udtørret land for dig. Sela",
       "number": 6
     },
     {
-      "text": "Skynd dig, svar mig, JHVHv,min ånd er tæret bort,skjul ikke dit ansigt for migså jeg bliver som dem der går ned i graven.",
+      "text": "\fSkynd dig, svar mig, JHVHv,\fmin ånd er tæret bort,\fskjul ikke dit ansigt for mig\fså jeg bliver som dem der går ned i graven.",
       "number": 7
     },
     {
-      "text": "Forkynd mig om morgenen din nåde,for jeg har stolet på dig.Lad mig kende den vej, jeg skal gå,for jeg har løftet min sjæl til dig.",
+      "text": "\fForkynd mig om morgenen din nåde,\ffor jeg har stolet på dig.\fLad mig kende den vej, jeg skal gå,\ffor jeg har løftet min sjæl til dig.",
       "number": 8
     },
     {
-      "text": "Red mig fra mine fjender, JHVHv,hos dig har jeg søgt skjul.",
+      "text": "\fRed mig fra mine fjender, JHVHv,\fhos dig har jeg søgt skjul.",
       "number": 9
     },
     {
-      "text": "Lær mig at gøre din vilje,for du er min Gud,din Ånd er god,før mig på jævnt land!",
+      "text": "\fLær mig at gøre din vilje,\ffor du er min Gud,\fdin Ånd er god,\ffør mig på jævnt land!",
       "number": 10
     },
     {
-      "text": "For dit navns skyld, JHVHv, giv mig liv,bring i din retfærdighed min sjæl ud af trængsel.",
+      "text": "\fFor dit navns skyld, JHVHv, giv mig liv,\fbring i din retfærdighed min sjæl ud af trængsel.",
       "number": 11
     },
     {
-      "text": "Udslet i din nåde{N: nåde} mine fjender,og lad alle dem som bekriger min sjæl, gå til grunde,for jeg er din tjener.",
+      "text": "\fUdslet i din nåde mine fjender,\fog lad alle dem som bekriger min sjæl, gå til grunde,\ffor jeg er din tjener.",
       "number": 12
     }
   ],
@@ -76,55 +86,61 @@
       "text": "Kan også oversættes: >>bønhør<<.",
       "type": "T",
       "verse": 1,
-      "position": 63
+      "position": 67
     },
     {
       "text": "Ordret: >>min sjæl<<.",
       "type": "T",
       "verse": 3,
-      "position": 31
+      "position": 32
     },
     {
       "text": "Andre oversætter: >>dem der for længst er døde<<.",
       "type": "T",
       "verse": 3,
-      "position": 127
+      "position": 131
     },
     {
       "text": "Verberne i dette og næste vers står i qatal, der oftest angiver fortid, men her må de opfattes som deklarative.",
       "type": "E",
       "verse": 4,
-      "position": 71
+      "position": 74
     },
     {
       "text": "Det er underforstået at sjælen tørster efter Gud.",
       "type": "T",
       "verse": 6,
-      "position": 75
+      "position": 77
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 6,
-      "position": 80
+      "position": 82
     },
     {
       "text": "Kan også oversættes: >>bønhør<<.",
       "type": "T",
       "verse": 7,
-      "position": 15
+      "position": 16
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 8,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Kan også oversættes: >>lad den føre mig ...<<.Mange oversættere flytter masoreternes skillende accent, så *tanḥēnî* (>>før mig/lad den føre mig<<) knyttes til foregående linje, der så oversættes: >>lad din gode Ånd føre mig<<.En del håndskrifter har: *ʔôraḥ*: >>sti<< i stedet for: *ʔereṣ* (>>land<<).",
       "type": "E",
       "verse": 10,
-      "position": 81
+      "position": 85
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 12,
+      "position": 18
     }
   ]
 }

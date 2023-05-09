@@ -3,41 +3,55 @@
   "abbreviation": "Sl",
   "chapter": 113,
   "version": 1499983200000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Halleluja!Lovpris, I JHVHs tjenere,lovpris JHVHs navn!",
+      "text": "\fHalleluja!\fLovpris, I JHVHs tjenere,\flovpris JHVHs navn!",
       "number": 1
     },
     {
-      "text": "JHVHs navn være prisetfra nu og til evig tid!",
+      "text": "\fJHVHs navn være priset\ffra nu og til evig tid!",
       "number": 2
     },
     {
-      "text": "Fra solens opgang til dens nedganger JHVHs navn højlovet.",
+      "text": "\fFra solens opgang til dens nedgang\fer JHVHs navn højlovet.",
       "number": 3
     },
     {
-      "text": "JHVH er ophøjet over alle folk,hans herlighed over himlen.",
+      "text": "\fJHVH er ophøjet over alle folk,\fhans herlighed over himlen.",
       "number": 4
     },
     {
-      "text": "Hvem er som JHVH, vor Gud –han som troner højt oppe,",
+      "text": "\fHvem er som JHVH, vor Gud –\fhan som troner højt oppe,",
       "number": 5
     },
     {
-      "text": "han som ser dybt ned –i himlen og på jorden?",
+      "text": "\fhan som ser dybt ned –\fi himlen og på jorden?",
       "number": 6
     },
     {
-      "text": "Han som rejser en ringe op af støvet,som ophøjer en fattig af skarnet",
+      "text": "\fHan som rejser en ringe op af støvet,\fsom ophøjer en fattig af skarnet",
       "number": 7
     },
     {
-      "text": "for at lade ham sidde blandt fornemme,blandt sit folks fornemme.",
+      "text": "\ffor at lade ham sidde blandt fornemme,\fblandt sit folks fornemme.",
       "number": 8
     },
     {
-      "text": "Han som lader en ufrugtbar bo{E: Participiet: *môšîvî* (>>lader bo<<) kan også oversættes: >>lader sidde<<. I dette vers skal det dog understrege kvindens position som husets frue.} i husetsom en glad mor til sønnerne.Halleluja.{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 114.}",
+      "text": "\fHan som lader en ufrugtbar bo i huset\fsom en glad mor til sønnerne.\fHalleluja.",
       "number": 9
     }
   ],
@@ -60,37 +74,49 @@
       "text": "Kan også oversættes: >>velsignet<<.",
       "type": "T",
       "verse": 2,
-      "position": 22
+      "position": 23
     },
     {
       "text": "Dvs.: Øst.",
       "type": "T",
       "verse": 3,
-      "position": 17
+      "position": 18
     },
     {
       "text": "Dvs.: Vest.",
       "type": "T",
       "verse": 3,
-      "position": 34
+      "position": 35
     },
     {
       "text": "En del oversættere vælger – for forståelsens skyld – at flytte denne linje op mellem v.5a og 5b.",
       "type": "T",
       "verse": 6,
-      "position": 44
+      "position": 46
     },
     {
       "text": "Den masoretiske tekst har: *lᵊhôšîvî*: >>for at lade mig sidde<<. Som regel følger man her Septuaginta og den syriske oversættelse, der forudsætter: *lᵊhôšîvô*: >>for at lade ham sidde<<.",
       "type": "E",
       "verse": 8,
-      "position": 21
+      "position": 22
     },
     {
       "text": "Kan også oversættes: >>fyrster<<.",
       "type": "T",
       "verse": 8,
-      "position": 38
+      "position": 39
+    },
+    {
+      "text": "Participiet: *môšîvî* (>>lader bo<<) kan også oversættes: >>lader sidde<<. I dette vers skal det dog understrege kvindens position som husets frue.",
+      "type": "E",
+      "verse": 9,
+      "position": 30
+    },
+    {
+      "text": "Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 114.",
+      "type": "T",
+      "verse": 9,
+      "position": 79
     }
   ]
 }

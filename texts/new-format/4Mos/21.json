@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 21,
   "version": 1651183200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Da kana’anæeren, Arads konge, som boede i Sydlandet, hørte at Israel kom ad Atarim-vejen, gik han i kamp mod Israel og førte nogle af dem bort i fangenskab.",
+      "text": "\fDa kana’anæeren, Arads konge, som boede i Sydlandet, hørte at Israel kom ad Atarim-vejen, gik han i kamp mod Israel og førte nogle af dem bort i fangenskab.",
       "number": 1
     },
     {
@@ -17,7 +27,7 @@
       "number": 3
     },
     {
-      "text": "Så rejste de af sted fra bjerget Hor i retning af Sivhavet\n\t\tfor at drage uden om Edoms land.\n\tPå vejen tabte folket tålmodigheden,",
+      "text": "\fSå rejste de af sted fra bjerget Hor i retning af Sivhavet\n\t\tfor at drage uden om Edoms land.\n\tPå vejen tabte folket tålmodigheden,",
       "number": 4
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Israelitterne brød op derfra, og de slog lejr i Obot.",
+      "text": "\fIsraelitterne brød op derfra, og de slog lejr i Obot.",
       "number": 10
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Israel sendte bud til Sihon, amoritternes konge, og lod sige:",
+      "text": "\fIsrael sendte bud til Sihon, amoritternes konge, og lod sige:",
       "number": 21
     },
     {
@@ -133,7 +143,7 @@
       "number": 32
     },
     {
-      "text": "De vendte sig og drog op ad vejen til Bashan. Da drog Og, kongen af Bashan, ud imod dem med hele sit folk til Edre’i for at kæmpe mod dem.",
+      "text": "\fDe vendte sig og drog op ad vejen til Bashan. Da drog Og, kongen af Bashan, ud imod dem med hele sit folk til Edre’i for at kæmpe mod dem.",
       "number": 33
     },
     {
@@ -172,7 +182,7 @@
       "text": "Vendingen *wattiqṣar nefeš-hāʕām* betyder helt ordret >>folkets sjæl blev forkortet<< og er mere end bare lidt utilfredshed. Måske rammer begrebet >>sjæl<< her en betydning i retning af >>at tabe/miste besindelsen.<< Vendingen bruges om Guds utålmodighed med Israel i Dom 10,16.",
       "type": "E",
       "verse": 4,
-      "position": 131
+      "position": 132
     },
     {
       "text": "Præpositionen i *dabbēr bᵊ* >>meddele i<< har også betydning >>imod<< i 4 Mos 12,1.",

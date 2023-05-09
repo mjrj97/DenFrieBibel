@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 18,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Jetro, præst i Midjan, Moses’ svigerfar, hørte alt det Gud havde gjort for Moses og for sit folk Israel, at JHVH havde ført Israel ud af Egypten.",
+      "text": "\fJetro, præst i Midjan, Moses’ svigerfar, hørte alt det Gud havde gjort for Moses og for sit folk Israel, at JHVH havde ført Israel ud af Egypten.",
       "number": 1
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Og det skete den næste dag at Moses satte sig for at holde rettergang for folket, og folket stod foran Moses fra morgenen til aftenen.",
+      "text": "\fOg det skete den næste dag at Moses satte sig for at holde rettergang for folket, og folket stod foran Moses fra morgenen til aftenen.",
       "number": 13
     },
     {

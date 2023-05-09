@@ -3,21 +3,35 @@
   "abbreviation": "Sl",
   "chapter": 123,
   "version": 1504476000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Valfartssang.Til dig har jeg løftet mine øjne,du som troner i himlen!",
+      "text": "\fValfartssang.\fTil dig har jeg løftet mine øjne,\fdu som troner i himlen!",
       "number": 1
     },
     {
-      "text": "Se, som trælles øjneer rettet mod deres herrers hånd,som en trælkvindes øjneer rettet mod hendes frues hånd,sådan er vore øjne rettet mod JHVH, vor Gud,indtil han er os nådig.",
+      "text": "\fSe, som trælles øjne\fer rettet mod deres herrers hånd,\fsom en trælkvindes øjne\fer rettet mod hendes frues hånd,\fsådan er vore øjne rettet mod JHVH, vor Gud,\findtil han er os nådig.",
       "number": 2
     },
     {
-      "text": "Vær os nådig, JHVHv, vær os nådig,for vi er voldsomt mættede med foragt!",
+      "text": "\fVær os nådig, JHVHv, vær os nådig,\ffor vi er voldsomt mættede med foragt!",
       "number": 3
     },
     {
-      "text": "Vor sjæl er overmætaf spotten, de sorgløse,{E: Udtrykket kan måske betyde: >>af spotten, nemlig fra de sorgløse<<. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (>>de sorgløse<<) ser ud til at have læst: *laššaˀᵃnannîm*: >>fra de sorgløse<<.}foragten fra stolte.{E: Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (>>fra stolte<<) skal deles i to ord: *ligᵊʔê yônîm*: >>fra undertrykkeres stolte<< = >>fra stolte blandt undertrykkere<<.}",
+      "text": "\fVor sjæl er overmæt\faf spotten, de sorgløse,\fforagten fra stolte.",
       "number": 4
     }
   ],
@@ -40,7 +54,19 @@
       "text": "Se note til Sl 120,1.",
       "type": "E",
       "verse": 1,
-      "position": 13
+      "position": 14
+    },
+    {
+      "text": "Udtrykket kan måske betyde: >>af spotten, nemlig fra de sorgløse<<. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (>>de sorgløse<<) ser ud til at have læst: *laššaˀᵃnannîm*: >>fra de sorgløse<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 45
+    },
+    {
+      "text": "Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (>>fra stolte<<) skal deles i to ord: *ligᵊʔê yônîm*: >>fra undertrykkeres stolte<< = >>fra stolte blandt undertrykkere<<.",
+      "type": "E",
+      "verse": 4,
+      "position": 66
     }
   ]
 }

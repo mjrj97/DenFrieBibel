@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 9,
   "version": 1614726000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For om hjælpen til de hellige er det overflødigt at skrive til jer;",
+      "text": "\fFor om hjælpen til de hellige er det overflødigt at skrive til jer;",
       "number": 1
     },
     {
@@ -13,7 +27,7 @@
       "number": 2
     },
     {
-      "text": "Men jeg sender brødrene, for at vores ros over jer i dette stykke ikke skal vise sig tom, og for at I, som jeg sagde, må være forberedte,",
+      "text": "\fMen jeg sender brødrene, for at vores ros over jer i dette stykke ikke skal vise sig tom, og for at I, som jeg sagde, må være forberedte,",
       "number": 3
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Men altså: Den der sår sparsomt, skal også høste sparsomt, og den der sår med velsignelser, skal også høste med velsignelser.",
+      "text": "\fMen altså: Den der sår sparsomt, skal også høste sparsomt, og den der sår med velsignelser, skal også høste med velsignelser.",
       "number": 6
     },
     {

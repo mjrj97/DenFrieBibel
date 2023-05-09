@@ -3,9 +3,23 @@
   "abbreviation": "Apg",
   "chapter": 1,
   "version": 1619647200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Min første bog skrev jeg, kære Theofilus, om alt det som Jesus begyndte både at gøre og lære",
+      "text": "\fMin første bog skrev jeg, kære Theofilus, om alt det som Jesus begyndte både at gøre og lære",
       "number": 1
     },
     {
@@ -13,7 +27,7 @@
       "number": 2
     },
     {
-      "text": "Efter han havde lidt, fremstillede han sig også levende for dem med mange beviser idet han viste sig for dem i fyrre dage og talte om det der hører til Guds rige.",
+      "text": "\fEfter han havde lidt, fremstillede han sig også levende for dem med mange beviser idet han viste sig for dem i fyrre dage og talte om det der hører til Guds rige.",
       "number": 3
     },
     {
@@ -55,7 +69,7 @@
       "text": "Ordret: >>gjorde/udfærdigede<<.",
       "type": "T",
       "verse": 1,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Det græske ord betyder muligvis at de spiste sammen, men det er stadig omdiskuteret.",

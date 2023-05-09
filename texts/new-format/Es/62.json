@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 62,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "For Zions skyld vil jeg ikke tie stille, og for Jerusalems skyld vil jeg ikke være tavs, indtil dens retfærdighed bryder frem som stråleglans og dens frelse som et blus, der brænder.",
+      "text": "\fFor Zions skyld vil jeg ikke tie stille, og for Jerusalems skyld vil jeg ikke være tavs, indtil dens retfærdighed bryder frem som stråleglans og dens frelse som et blus, der brænder.",
       "number": 1
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Gå ind, gå ind igennem portene, gør plads for folket; ban vej, ja, ban vejen, fjern stenene fra den, løft et banner for folkene!",
+      "text": "\fGå ind, gå ind igennem portene, gør plads for folket; ban vej, ja, ban vejen, fjern stenene fra den, løft et banner for folkene!",
       "number": 10
     },
     {

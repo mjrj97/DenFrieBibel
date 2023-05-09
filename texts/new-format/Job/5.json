@@ -3,41 +3,55 @@
   "abbreviation": "Job",
   "chapter": 5,
   "version": 1647817200000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Jeg selv ville dog søge Gud,og til Gud ville jeg overgive min sag,",
+      "text": "\fJeg selv ville dog søge Gud,\fog til Gud ville jeg overgive min sag,",
       "number": 8
     },
     {
-      "text": "han gør store ting, der er uransagelige,undere der ikke er tal på.",
+      "text": "\fhan gør store ting, der er uransagelige,\fundere der ikke er tal på.",
       "number": 9
     },
     {
-      "text": "Han giver regn på jordenog sender vand over markerne.",
+      "text": "\fHan giver regn på jorden\fog sender vand over markerne.",
       "number": 10
     },
     {
-      "text": "Han ophøjer ringe,og sørgende ophøjes til frelse.",
+      "text": "\fHan ophøjer ringe,\fog sørgende ophøjes til frelse.",
       "number": 11
     },
     {
-      "text": "Han gør de snediges planer til intetså deres hænder ikke kan skabe succes.",
+      "text": "\fHan gør de snediges planer til intet\fså deres hænder ikke kan skabe succes.",
       "number": 12
     },
     {
-      "text": "Han fanger kloge i deres listså de snediges planer hastigt omstødes.",
+      "text": "\fHan fanger kloge i deres list\fså de snediges planer hastigt omstødes.",
       "number": 13
     },
     {
-      "text": "Om dagen støder de på mørkeog famler sig frem ved middagstid som var det nat.",
+      "text": "\fOm dagen støder de på mørke\fog famler sig frem ved middagstid som var det nat.",
       "number": 14
     },
     {
-      "text": "Han frelser fra deres munds sværd,og en fattig fra en stærks hånd.",
+      "text": "\fHan frelser fra deres munds sværd,\fog en fattig fra en stærks hånd.",
       "number": 15
     },
     {
-      "text": "Så bliver der håb for den ringe,og uretfærdighed må lukke sin mund.",
+      "text": "\fSå bliver der håb for den ringe,\fog uretfærdighed må lukke sin mund.",
       "number": 16
     }
   ],
@@ -47,13 +61,13 @@
       "text": "Kan også oversættes: >>lykke<<.",
       "type": "T",
       "verse": 11,
-      "position": 49
+      "position": 51
     },
     {
       "text": "Ordret: >>Han frelser fra sværd fra deres mund<<. Manuskripterne er enige om denne tekst, men der foreslås ofte rettelser, enklest: *mēḥerev mippîhem* til: *mēḥerev pîhem*, der svarer til oversættelsen her (i den hebraiske tekst slettes der blot et *m*). En anden mulighed er: >>Han frelser en forældreløs fra sværdet<< (det kræver rettelse af: *mēḥerev mippîhem* til: *mēḥarbām jātōm*, i konsonantteksten: *mḥrbmpjhm* til: * mḥrbmjtm*).",
       "type": "E",
       "verse": 15,
-      "position": 34
+      "position": 35
     }
   ]
 }

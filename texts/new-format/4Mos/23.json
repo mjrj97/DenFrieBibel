@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 23,
   "version": 1496181600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Bileam sagde til Balak: >>Byg syv altre for mig her, og skaf mig syv okser og syv væddere.<<",
+      "text": "\fBileam sagde til Balak: >>Byg syv altre for mig her, og skaf mig syv okser og syv væddere.<<",
       "number": 1
     },
     {
@@ -53,7 +63,7 @@
       "number": 12
     },
     {
-      "text": "Balak sagde til ham: >>Kom med mig til et andet sted hvorfra du kan se dem. Dog skal du kun se den yderste del af dem, du skal ikke se dem alle. Forband dem for mig derfra.<<",
+      "text": "\fBalak sagde til ham: >>Kom med mig til et andet sted hvorfra du kan se dem. Dog skal du kun se den yderste del af dem, du skal ikke se dem alle. Forband dem for mig derfra.<<",
       "number": 13
     },
     {
@@ -109,7 +119,7 @@
       "number": 26
     },
     {
-      "text": "Balak sagde til Bileam: >>Gå med. Jeg vil tage dig med hen til et andet sted. Måske er det ret for Guds øjne at du forbander det for mig derfra.<<",
+      "text": "\fBalak sagde til Bileam: >>Gå med. Jeg vil tage dig med hen til et andet sted. Måske er det ret for Guds øjne at du forbander det for mig derfra.<<",
       "number": 27
     },
     {

@@ -3,57 +3,71 @@
   "abbreviation": "Sl",
   "chapter": 96,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Syng for JHVH en ny sang,syng for JHVH hele jorden!",
+      "text": "\fSyng for JHVH en ny sang,\fsyng for JHVH hele jorden!",
       "number": 1
     },
     {
-      "text": "Syng for JHVH, pris hans navn,forkynd fra dag til dag hans frelse!",
+      "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
       "number": 2
     },
     {
-      "text": "Fortæl om hans herlighed blandt folkene,blandt alle folkeslagene om hans undere.",
+      "text": "\fFortæl om hans herlighed blandt folkene,\fblandt alle folkeslagene om hans undere.",
       "number": 3
     },
     {
-      "text": "For JHVH er stor og højt lovprist,han er frygtindgydende overfor alle guder.",
+      "text": "\fFor JHVH er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
       "number": 4
     },
     {
-      "text": "For alle folkeslagenes guder er tomme afguder,men JHVH har skabt himlen.",
+      "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
       "number": 5
     },
     {
-      "text": "Højhed og pragt er for hans ansigt,magt og herlighed i hans helligdom.",
+      "text": "\fHøjhed og pragt er for hans ansigt,\fmagt og herlighed i hans helligdom.",
       "number": 6
     },
     {
-      "text": "Giv JHVH, I folkeslagenes slægter,giv JHVH ære og magt!",
+      "text": "\fGiv JHVH, I folkeslagenes slægter,\fgiv JHVH ære og magt!",
       "number": 7
     },
     {
-      "text": "Giv JHVH hans navns ære,frembær offergaver og kom til hans forgårde!",
+      "text": "\fGiv JHVH hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
       "number": 8
     },
     {
-      "text": "Kast jer ned for JHVH i hellig klædning,skælv for hans ansigt hele jorden!",
+      "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
       "number": 9
     },
     {
-      "text": "Sig blandt folkene: >>JHVH er konge!<<Ja, jorden er grundfæstet, den skal ikke rokkes.Han skal dømme folkene med retskaffenhed.",
+      "text": "\fSig blandt folkene: >>JHVH er konge!<<\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
       "number": 10
     },
     {
-      "text": "Himlen skal glæde sig, og jorden skal juble,havet og dets fylde skal larme,",
+      "text": "\fHimlen skal glæde sig, og jorden skal juble,\fhavet og dets fylde skal larme,",
       "number": 11
     },
     {
-      "text": "mark og alt hvad der er derpå, skal fryde sig,da skal alle skovens træer juble",
+      "text": "\fmark og alt hvad der er derpå, skal fryde sig,\fda skal alle skovens træer juble",
       "number": 12
     },
     {
-      "text": "for JHVHs ansigt; for han kommer,for han kommer for at dømme jorden;han skal dømme verden med retfærdighedog folkeslagene med sin sandhed.{T: Kan også oversættes: >>trofasthed<<.}",
+      "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
       "number": 13
     }
   ],
@@ -80,19 +94,25 @@
       "text": "Kan også oversættes: >>velsign<<.",
       "type": "T",
       "verse": 2,
-      "position": 19
+      "position": 20
     },
     {
       "text": "Grundteksten har blot et ord, der betegner >>afguder<<, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
       "type": "T",
       "verse": 5,
-      "position": 46
+      "position": 47
     },
     {
       "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat >>smykke, skrud, åbenbaring, tilsynekomst, majestæt<<.",
       "type": "E",
       "verse": 9,
-      "position": 40
+      "position": 41
+    },
+    {
+      "text": "Kan også oversættes: >>trofasthed<<.",
+      "type": "T",
+      "verse": 13,
+      "position": 142
     }
   ]
 }

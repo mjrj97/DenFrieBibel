@@ -3,9 +3,19 @@
   "abbreviation": "Jer",
   "chapter": 18,
   "version": 1633471200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Er sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Det ord som kom til Jeremias fra JHVH:",
+      "text": "\fDet ord som kom til Jeremias fra JHVH:",
       "number": 1
     },
     {

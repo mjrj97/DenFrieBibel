@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 20,
   "version": 1612134000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Gud talte alle disse ord og sagde:",
+      "text": "\fGud talte alle disse ord og sagde:",
       "number": 1
     },
     {
@@ -73,7 +87,7 @@
       "number": 17
     },
     {
-      "text": "Hele folket oplevede tordenen og lynene og hornets lyd og bjerget rygende; folket oplevede det, og de rystede og stod langt borte.",
+      "text": "\fHele folket oplevede tordenen og lynene og hornets lyd og bjerget rygende; folket oplevede det, og de rystede og stod langt borte.",
       "number": 18
     },
     {
@@ -89,7 +103,7 @@
       "number": 21
     },
     {
-      "text": "Og JHVH sagde til Moses: >>Sådan skal du sige til Israels børn: >I har oplevet at jeg har talt fra himlen med jer.",
+      "text": "\fOg JHVH sagde til Moses: >>Sådan skal du sige til Israels børn: >I har oplevet at jeg har talt fra himlen med jer.",
       "number": 22
     },
     {
@@ -128,7 +142,7 @@
       "text": "I Mosebøgerne tales der strengt ikke om *de ti bud*, men om *de ti ord*, jf. vers 1, og i grundteksten gælder det også 34,28; 5 Mos 4,13; 10,4.",
       "type": "E",
       "verse": 1,
-      "position": 24
+      "position": 25
     },
     {
       "text": "Grundteksten kan også oversættes: >>Jeg, JHVH, er din Gud<<. Da Guds navn (JHVH) allerede er brugt mange gange i det foregående, og da Israel allerede kendte navnet, kan denne oversættelse ikke helt afvises. Gud præsenterer sig ikke, men tilsiger fællesskab.",
@@ -206,25 +220,25 @@
       "text": "Ordret: >>så<<.",
       "type": "T",
       "verse": 18,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Ordret: >>røsterne<<.",
       "type": "T",
       "verse": 18,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Ordret: >>faklerne<<.",
       "type": "T",
       "verse": 18,
-      "position": 39
+      "position": 40
     },
     {
       "text": "af angst.",
       "type": "E",
       "verse": 18,
-      "position": 109
+      "position": 110
     },
     {
       "text": "I betydningen >>ærefrygt<<, ikke som >>rædsel<<.",
@@ -236,7 +250,7 @@
       "text": "Ordret: >>set<<.",
       "type": "T",
       "verse": 22,
-      "position": 78
+      "position": 79
     },
     {
       "text": "Således er det forudsat med grundtekstens accent. Mange oversættere vælger at flytte accenten og oversætter: >>I må ikke lave jer guder af sølv ved siden af mig, og I må ikke lave jer guder af guld<<.",

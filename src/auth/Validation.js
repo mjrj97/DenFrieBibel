@@ -8,6 +8,15 @@ const containWhiteSpaceRegex = /^\S+$/;
 export function registerValidation(name, email, password, confirmPassword) {
     let error;
 
+    if (!name)
+        name = "";
+    if (!email)
+        email = "";
+    if (!password)
+        password = "";
+    if (!confirmPassword)
+        confirmPassword = "";
+
     let nameError = "";
     let emailError = "";
     let passwordError = "";

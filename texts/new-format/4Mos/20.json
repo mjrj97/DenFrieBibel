@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 20,
   "version": 1496181600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Hele israelitternes forsamling kom til Sins ørken i den første måned, og folket blev i Kadesh. Dér døde Mirjam, og hun blev begravet dér.",
+      "text": "\fHele israelitternes forsamling kom til Sins ørken i den første måned, og folket blev i Kadesh. Dér døde Mirjam, og hun blev begravet dér.",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 7
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "JHVH sagde til Moses og Aron: >>Fordi I ikke troede på mig og ikke helligede mig for israelitternes øjne, skal I ikke føre denne forsamling ind i det land som jeg har givet dem.<<",
+      "text": "\fJHVH sagde til Moses og Aron: >>Fordi I ikke troede på mig og ikke helligede mig for israelitternes øjne, skal I ikke føre denne forsamling ind i det land som jeg har givet dem.<<",
       "number": 12
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Fra Kadesh sendte Moses budbringere til Edoms konge og lod sige: >>Dette siger din bror Israel: Du kender alle de besværligheder vi har været ude for,",
+      "text": "\fFra Kadesh sendte Moses budbringere til Edoms konge og lod sige: >>Dette siger din bror Israel: Du kender alle de besværligheder vi har været ude for,",
       "number": 14
     },
     {
@@ -89,7 +99,7 @@
       "number": 21
     },
     {
-      "text": "De rejste fra Kadesh, og hele forsamlingen af israelitter kom til bjerget Hor.",
+      "text": "\fDe rejste fra Kadesh, og hele forsamlingen af israelitter kom til bjerget Hor.",
       "number": 22
     },
     {
@@ -148,7 +158,7 @@
       "text": "Dvs. i det 40. år, jvf. 4 Mos 33,38; 5 Mos 1,19",
       "type": "T",
       "verse": 1,
-      "position": 69
+      "position": 70
     },
     {
       "text": "Det hebraiske ord betyder >>strid<< eller >>anklage<< (1 Mos 13,8 og 4 Mos 27,14).",

@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 28,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Du skal lade din bror Aron og hans sønner med ham komme til dig ud af Israels børns midte for at gøre præstetjeneste for mig, Aron og Nadab, Abihu, Eleazar og Itamar, Arons sønner.",
+      "text": "\f>>Du skal lade din bror Aron og hans sønner med ham komme til dig ud af Israels børns midte for at gøre præstetjeneste for mig, Aron og Nadab, Abihu, Eleazar og Itamar, Arons sønner.",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": ">>De skal lave efoden af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned, kunstfærdigt arbejde.",
+      "text": "\f>>De skal lave efoden af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned, kunstfærdigt arbejde.",
       "number": 6
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": ">>Du skal lave et doms-brystskjold i kunstfærdigt arbejde, af samme arbejde som efoden skal du lave det; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned skal du lave det.",
+      "text": "\f>>Du skal lave et doms-brystskjold i kunstfærdigt arbejde, af samme arbejde som efoden skal du lave det; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned skal du lave det.",
       "number": 15
     },
     {
@@ -145,7 +159,7 @@
       "number": 35
     },
     {
-      "text": ">>Og du skal lave en roset af purt guld og indgravere på den, som man graverer i en seglring: >Hellig for JHVH.<",
+      "text": "\f>>Og du skal lave en roset af purt guld og indgravere på den, som man graverer i en seglring: >Hellig for JHVH.<",
       "number": 36
     },
     {
@@ -157,11 +171,11 @@
       "number": 38
     },
     {
-      "text": ">>Du skal væve kjortlen i et mønster af fint linned, og du skal lave turbanen af fint linned, og du skal lave et bælte i broget vævning.<<",
+      "text": "\f>>Du skal væve kjortlen i et mønster af fint linned, og du skal lave turbanen af fint linned, og du skal lave et bælte i broget vævning.<<",
       "number": 39
     },
     {
-      "text": ">>Til Arons sønner skal du lave kjortler, og du skal lave bælter til dem, og huer skal du lave til dem til ære og til pryd.",
+      "text": "\f>>Til Arons sønner skal du lave kjortler, og du skal lave bælter til dem, og huer skal du lave til dem til ære og til pryd.",
       "number": 40
     },
     {
@@ -208,7 +222,7 @@
       "text": "Navnet: >>efod<< bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
       "type": "E",
       "verse": 6,
-      "position": 21
+      "position": 22
     },
     {
       "text": "Se note til 25,7.",
@@ -268,7 +282,7 @@
       "text": "Det hebraiske: *ṣîṣ* (>>roset<<) er beslægtet med ordet: *ṣîṣāʰ*: >>blomst<< og verbet: *nṣṣ*: >>funkle/skinne<<. Man kan finde forskelige oversættelser: >>blomst/plade/diadem<<. Det har formodentlig været en plade, der var formet som en blomst, en roset. Det er denne roset, der i 29,6 kaldes: >>det hellige diadem<< (med et andet hebraisk ord).",
       "type": "T",
       "verse": 36,
-      "position": 26
+      "position": 27
     },
     {
       "text": "Der kan være tænkt på helliggaverne eller måske på folket.",

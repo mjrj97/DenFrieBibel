@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 2,
   "version": 1646953200000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Derpå, på dagen\n\tda Guds sønner kom\n\t\t\tfor at træde frem for HERREN,\n\t\tkom også Satan midt iblandt dem\n\t\t\t\tfor at træde frem for HERREN.",
+      "text": "\fDerpå, på dagen\n\tda Guds sønner kom\n\t\t\tfor at træde frem for HERREN,\n\t\tkom også Satan midt iblandt dem\n\t\t\t\tfor at træde frem for HERREN.",
       "number": 1
     },
     {

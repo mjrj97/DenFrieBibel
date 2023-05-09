@@ -3,9 +3,23 @@
   "abbreviation": "Hebr",
   "chapter": 8,
   "version": 1618351200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>For dette er den pagt jeg vil slutte med Israels hus efter de dage, siger Herren. Jeg vil give mine love i deres sind, og jeg vil indskrive dem i deres hjerte, og jeg vil være deres Gud, og de skal være mit folk.",
+      "text": "\f>>For dette er den pagt jeg vil slutte med Israels hus efter de dage, siger Herren. Jeg vil give mine love i deres sind, og jeg vil indskrive dem i deres hjerte, og jeg vil være deres Gud, og de skal være mit folk.",
       "number": 10
     },
     {

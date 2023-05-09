@@ -3,9 +3,23 @@
   "abbreviation": "Rom",
   "chapter": 6,
   "version": 1645570800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Eller ved I ikke at alle vi som blev døbt til Kristus Jesus, blev døbt til hans død?",
+      "text": "\fEller ved I ikke at alle vi som blev døbt til Kristus Jesus, blev døbt til hans død?",
       "number": 3
     },
     {
@@ -41,7 +55,7 @@
       "number": 11
     },
     {
-      "text": "Jeg taler på menneskelig vis på grund af jeres køds skrøbelighed. For ligesom I stillede jeres lemmer til rådighed som trælle for urenheden og lovløsheden til lovløshed, således skal I nu stille jeres lemmer til rådighed som trælle for retfærdigheden til helliggørelse!",
+      "text": "\fJeg taler på menneskelig vis på grund af jeres køds skrøbelighed. For ligesom I stillede jeres lemmer til rådighed som trælle for urenheden og lovløsheden til lovløshed, således skal I nu stille jeres lemmer til rådighed som trælle for retfærdigheden til helliggørelse!",
       "number": 19
     },
     {
@@ -79,7 +93,7 @@
       "text": "Det vil sige: Så det fører til lovløshed.",
       "type": "T",
       "verse": 19,
-      "position": 169
+      "position": 170
     }
   ]
 }

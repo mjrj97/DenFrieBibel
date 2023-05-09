@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 36,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Overhovederne for fædrenehusene i gileaditternes slægt, han som var søn af Makir, Manasses søn, af Josefs børns slægt, trådte frem, og de talte foran Moses og lederne, de som var overhoveder for fædrenehusene blandt israelitterne.",
+      "text": "\fOverhovederne for fædrenehusene i gileaditternes slægt, han som var søn af Makir, Manasses søn, af Josefs børns slægt, trådte frem, og de talte foran Moses og lederne, de som var overhoveder for fædrenehusene blandt israelitterne.",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "Moses bød israelitterne efter JHVHs ord og sagde: >>Det er rigtigt hvad Josefs børns stamme siger.",
+      "text": "\fMoses bød israelitterne efter JHVHs ord og sagde: >>Det er rigtigt hvad Josefs børns stamme siger.",
       "number": 5
     },
     {

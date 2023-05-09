@@ -3,9 +3,23 @@
   "abbreviation": "1Mos",
   "chapter": 3,
   "version": 1612911600000,
+  "authors": [
+    {
+      "name": "Claus Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Slangen var mere snu end alle markens vilde dyr som Gud HERREN havde skabt, og den sagde til kvinden: >>Har Gud virkelig sagt: >I må ikke spise af noget træ i haven?<<<",
+      "text": "\fSlangen var mere snu end alle markens vilde dyr som Gud HERREN havde skabt, og den sagde til kvinden: >>Har Gud virkelig sagt: >I må ikke spise af noget træ i haven?<<<",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Gud HERREN kaldte på Adam og sagde til ham: >>Hvor er du?<<",
+      "text": "\fGud HERREN kaldte på Adam og sagde til ham: >>Hvor er du?<<",
       "number": 9
     },
     {

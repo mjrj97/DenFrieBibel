@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 10,
   "version": 1494280800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 1
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "I det andet år, i den anden måned, på den tyvende dag i måneden hævede skyen sig op fra Vidnesbyrdets bolig.",
+      "text": "\fI det andet år, i den anden måned, på den tyvende dag i måneden hævede skyen sig op fra Vidnesbyrdets bolig.",
       "number": 11
     },
     {
@@ -117,7 +127,7 @@
       "number": 28
     },
     {
-      "text": "Moses sagde til Hobab, søn af midjanitten Re’uel, som var Moses’ svigerfar: >>Vi rejser til det sted hvorom JHVH har sagt: >Det vil jeg give jer.< Gå med os, vi vil gøre vel imod dig, for JHVH har lovet Israel alt godt.<<",
+      "text": "\fMoses sagde til Hobab, søn af midjanitten Re’uel, som var Moses’ svigerfar: >>Vi rejser til det sted hvorom JHVH har sagt: >Det vil jeg give jer.< Gå med os, vi vil gøre vel imod dig, for JHVH har lovet Israel alt godt.<<",
       "number": 29
     },
     {
@@ -133,7 +143,7 @@
       "number": 32
     },
     {
-      "text": "Så rejste de tre dagsrejser fra JHVHs bjerg, og JHVHs pagts ark rejste tre dagsrejser foran deres ansigt for at finde et hvilested til dem.",
+      "text": "\fSå rejste de tre dagsrejser fra JHVHs bjerg, og JHVHs pagts ark rejste tre dagsrejser foran deres ansigt for at finde et hvilested til dem.",
       "number": 33
     },
     {
@@ -141,11 +151,11 @@
       "number": 34
     },
     {
-      "text": "Da arken brød op, sagde Moses: >>JHVH, stå op! Så skal dine fjender spredes, og de som hader dig, skal flygte for dit ansigt.<<",
+      "text": "\fDa arken brød op, sagde Moses: >>JHVH, stå op! Så skal dine fjender spredes, og de som hader dig, skal flygte for dit ansigt.<<",
       "number": 35
     },
     {
-      "text": "Og da den hvilede, sagde han: >>Kom tilbage, JHVH, til Israels ti tusinde gange tusinde.<<{E: Ordret lyder teksten i v. 35-36 som følger: >>Og det skete da arken brød op, sagde Moses: >>…<< og da den hvilede, siger han …<< Mange oversættelser tolker teksten som generelle udsagn om hvad der skete hver gang, men teksten siger nok snarere noget om det første opbrud som begyndelse på rejsen.}",
+      "text": "Og da den hvilede, sagde han: >>Kom tilbage, JHVH, til Israels ti tusinde gange tusinde.<<",
       "number": 36
     }
   ],
@@ -171,5 +181,12 @@
       "verse": 35
     }
   ],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "Ordret lyder teksten i v. 35-36 som følger: >>Og det skete da arken brød op, sagde Moses: >>…<< og da den hvilede, siger han …<< Mange oversættelser tolker teksten som generelle udsagn om hvad der skete hver gang, men teksten siger nok snarere noget om det første opbrud som begyndelse på rejsen.",
+      "type": "E",
+      "verse": 36,
+      "position": 90
+    }
+  ]
 }

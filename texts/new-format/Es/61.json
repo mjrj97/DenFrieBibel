@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 61,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Herren JHVHs Ånd er over mig, derfor har JHVH salvet mig til at forkynde et godt budskab for de fattige; han sendte mig for at helbrede dem, der har et sønderknust hjerte, for at udråbe frihed for de indespærrede og løsladelse for fangerne;",
+      "text": "\fHerren JHVHs Ånd er over mig, derfor har JHVH salvet mig til at forkynde et godt budskab for de fattige; han sendte mig for at helbrede dem, der har et sønderknust hjerte, for at udråbe frihed for de indespærrede og løsladelse for fangerne;",
       "number": 1
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Jeg vil glæde mig højt, min sjæl skal fryde sig i min Gud; for han gav mig frelsens dragt på, han iklædte mig retfærdighedens kappe, som en brudgom, der sætter hovedpynten på, og som en brud, der pryder sig med sit smykke.",
+      "text": "\fJeg vil glæde mig højt, min sjæl skal fryde sig i min Gud; for han gav mig frelsens dragt på, han iklædte mig retfærdighedens kappe, som en brudgom, der sætter hovedpynten på, og som en brud, der pryder sig med sit smykke.",
       "number": 10
     },
     {

@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 13,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Det er nu tredje gang, jeg kommer til jer. På to og tre vidners munds ord skal enhver sag stå fast.",
+      "text": "\fDet er nu tredje gang, jeg kommer til jer. På to og tre vidners munds ord skal enhver sag stå fast.",
       "number": 1
     },
     {
@@ -21,7 +35,7 @@
       "number": 4
     },
     {
-      "text": "Ransag jer selv, om I er i troen; prøv jer selv! Eller erkender I ikke om jer selv, at Jesus Kristus er i jer? Ellers har I ikke bestået prøven.",
+      "text": "\fRansag jer selv, om I er i troen; prøv jer selv! Eller erkender I ikke om jer selv, at Jesus Kristus er i jer? Ellers har I ikke bestået prøven.",
       "number": 5
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "I øvrigt, brødre, glæd jer, bliv fuldkomne, lad jer formane, vær enige, vær fredsommelige, og kærlighedens og fredens Gud skal være med jer.",
+      "text": "\fI øvrigt, brødre, glæd jer, bliv fuldkomne, lad jer formane, vær enige, vær fredsommelige, og kærlighedens og fredens Gud skal være med jer.",
       "number": 11
     },
     {

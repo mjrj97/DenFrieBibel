@@ -3,9 +3,23 @@
   "abbreviation": "3Mos",
   "chapter": 19,
   "version": 1648591200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "HERREN talte til Moses:",
+      "text": "\fHERREN talte til Moses:",
       "number": 1
     },
     {
@@ -13,7 +27,7 @@
       "number": 2
     },
     {
-      "text": "Når I høster jeres lands høst, må du ikke høste helt ud til kanten af din mark, og du må heller ikke være grundig med at samle det ind der er tilbage efter din høst.",
+      "text": "\fNår I høster jeres lands høst, må du ikke høste helt ud til kanten af din mark, og du må heller ikke være grundig med at samle det ind der er tilbage efter din høst.",
       "number": 9
     },
     {
@@ -21,7 +35,7 @@
       "number": 10
     },
     {
-      "text": "I må ikke stjæle, og I må ikke lyve, og ingen af jer må bedrage sin landsmand.",
+      "text": "\fI må ikke stjæle, og I må ikke lyve, og ingen af jer må bedrage sin landsmand.",
       "number": 11
     },
     {
@@ -29,7 +43,7 @@
       "number": 12
     },
     {
-      "text": "Du må ikke øve vold mod din næste eller udplyndre ham, du må ikke beholde daglejerens arbejdsløn natten over til næste dag.",
+      "text": "\fDu må ikke øve vold mod din næste eller udplyndre ham, du må ikke beholde daglejerens arbejdsløn natten over til næste dag.",
       "number": 13
     },
     {
@@ -37,7 +51,7 @@
       "number": 14
     },
     {
-      "text": "I må ikke gøre uret i dommen, du må ikke holde med en fattig og heller ikke tage parti for en anset; men du skal dømme din landsmand med retfærdighed.",
+      "text": "\fI må ikke gøre uret i dommen, du må ikke holde med en fattig og heller ikke tage parti for en anset; men du skal dømme din landsmand med retfærdighed.",
       "number": 15
     },
     {
@@ -45,7 +59,7 @@
       "number": 16
     },
     {
-      "text": "Du må ikke hade din bror i dit hjerte; men du skal stærkt irettesætte din landsmand for at du ikke skal bære synd for hans skyld.",
+      "text": "\fDu må ikke hade din bror i dit hjerte; men du skal stærkt irettesætte din landsmand for at du ikke skal bære synd for hans skyld.",
       "number": 17
     },
     {
@@ -59,25 +73,25 @@
       "text": "Ordret: >>din høsts efterslæt<<.",
       "type": "T",
       "verse": 9,
-      "position": 164
+      "position": 165
     },
     {
       "text": "Ordret: >>din daglejers arbejdsløn må ikke overnatte hos dig<<.",
       "type": "T",
       "verse": 13,
-      "position": 108
+      "position": 109
     },
     {
       "text": "Ordret: >>løfte en fattigs ansigt<<.",
       "type": "T",
       "verse": 15,
-      "position": 60
+      "position": 61
     },
     {
       "text": "Ordret: >>ære en ansets ansigt<<.",
       "type": "T",
       "verse": 15,
-      "position": 100
+      "position": 101
     }
   ]
 }

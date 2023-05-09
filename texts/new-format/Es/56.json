@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 56,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Sådan siger JHVH: Hold jer til ret og øv retfærdighed; for min frelse skal til at komme og min retfærdighed til at åbenbares.",
+      "text": "\fSådan siger JHVH: Hold jer til ret og øv retfærdighed; for min frelse skal til at komme og min retfærdighed til at åbenbares.",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Alle I markens dyr! Kom og æd, alle I dyr i skoven!",
+      "text": "\fAlle I markens dyr! Kom og æd, alle I dyr i skoven!",
       "number": 9
     },
     {

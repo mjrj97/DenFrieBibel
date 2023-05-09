@@ -3,9 +3,19 @@
   "abbreviation": "Jer",
   "chapter": 2,
   "version": 1464732000000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Og JHVHs ord kom til mig:",
+      "text": "\fOg JHVHs ord kom til mig:",
       "number": 1
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Er Israel en købt træl, eller er han en hjemmefødt træl? Hvorfor er han blevet røvet?",
+      "text": "\fEr Israel en købt træl, eller er han en hjemmefødt træl? Hvorfor er han blevet røvet?",
       "number": 14
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "For fra gammel tid har jeg sønderbrudt dit åg, sønderrevet dine bånd, men du sagde: >>Jeg vil ikke tjene.<< For du gav dig selv hen på alle ophøjede høje og under hvert et grønt træ som en skøge.",
+      "text": "\fFor fra gammel tid har jeg sønderbrudt dit åg, sønderrevet dine bånd, men du sagde: >>Jeg vil ikke tjene.<< For du gav dig selv hen på alle ophøjede høje og under hvert et grønt træ som en skøge.",
       "number": 20
     },
     {

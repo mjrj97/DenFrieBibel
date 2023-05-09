@@ -3,33 +3,43 @@
   "abbreviation": "Zak",
   "chapter": 7,
   "version": 1472594400000,
+  "authors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "I kong Darius' fjerde år på den fjerde dag i den niende måned, kislev, kom JHVHs ord til Zakarias.",
+      "text": "\fI kong Darius' fjerde år på den fjerde dag i den niende måned, kislev, kom JHVHs ord til Zakarias.",
       "number": 1
     },
     {
-      "text": "Betel havde sendt Sar-ezer, Regem-Melek og hans mænd for at søge JHVHs gunst, v3 idet de skulle sige til præsterne, som var ved Hærskarers JHVHvs hus, og til profeterne: >>Skal vi mon græde i den femte måned og være afholdende, som vi har gjort i så mange år nu?<<",
+      "text": "\fBetel havde sendt Sar-ezer, Regem-Melek og hans mænd for at søge JHVHs gunst, v3 idet de skulle sige til præsterne, som var ved Hærskarers JHVHvs hus, og til profeterne: >>Skal vi mon græde i den femte måned og være afholdende, som vi har gjort i så mange år nu?<<",
       "number": 2
     },
     {
-      "text": "Da kom Hærskarers JHVHvs ord til mig: v5 >>Sig til hele folket i landet og til præsterne: >Når I har fastet og sørget i den femte og syvende måned i halvfjerds år, har I da virkelig fastet for mig? v6 Og når I spiser, og når I drikker, er det så ikke jer, som spiser, og jer, som drikker? v7 Husker I ikke de ord, som JHVH forkyndte ved de tidlige profeter, da Jerusalem var beboet og rolig med dens omkringliggende byer, og da sydlandet og lavlandet var beboede?<<<",
+      "text": "\fDa kom Hærskarers JHVHvs ord til mig: v5 >>Sig til hele folket i landet og til præsterne: >Når I har fastet og sørget i den femte og syvende måned i halvfjerds år, har I da virkelig fastet for mig? v6 Og når I spiser, og når I drikker, er det så ikke jer, som spiser, og jer, som drikker? v7 Husker I ikke de ord, som JHVH forkyndte ved de tidlige profeter, da Jerusalem var beboet og rolig med dens omkringliggende byer, og da sydlandet og lavlandet var beboede?<<<",
       "number": 4
     },
     {
-      "text": "Og JHVHs ord kom til Zakarias:",
+      "text": "\fOg JHVHs ord kom til Zakarias:",
       "number": 8
     },
     {
-      "text": ">>Således sagde Hærskarers JHVHv:>Døm sande domme og vis trofast kærlighed og barmhjertighed mod hinanden.",
+      "text": "\f>>Således sagde Hærskarers JHVHv:\f>Døm sande domme og vis trofast kærlighed og barmhjertighed mod hinanden.",
       "number": 9
     },
     {
-      "text": "Undertryk ikke enken eller den faderløse,den fremmede eller den fattige,og planlæg ikke ondt imod hinanden i jeres hjerter!<",
+      "text": "\fUndertryk ikke enken eller den faderløse,\fden fremmede eller den fattige,\fog planlæg ikke ondt imod hinanden i jeres hjerter!<",
       "number": 10
     },
     {
-      "text": "Men de nægtede at høre efter. De vendte ryggen til og gjorde deres ører døve, så de ikke hørte noget. v12 De gjorde deres hjerter hårde som diamant for ikke at høre loven og ordene, som Hærskarers JHVHv sendte ved sin ånd gennem de tidligere profeter. Derfor kom der en stor vrede fra Hærskarers JHVHv. v13 Og ligesom han råbte, uden at de hørte, sådan råbte de, uden at jeg hørte, sagde Hærskarers JHVHv. v14 Jeg bortdrev dem som ved en storm blandt alle de folkeslag, de ikke kendte til, og landet blev til ødelagt bag dem, sådan at ingen går igennem det, hverken frem eller tilbage. De gjorde det herlige land til en ødemark.<<",
+      "text": "\fMen de nægtede at høre efter. De vendte ryggen til og gjorde deres ører døve, så de ikke hørte noget. v12 De gjorde deres hjerter hårde som diamant for ikke at høre loven og ordene, som Hærskarers JHVHv sendte ved sin ånd gennem de tidligere profeter. Derfor kom der en stor vrede fra Hærskarers JHVHv. v13 Og ligesom han råbte, uden at de hørte, sådan råbte de, uden at jeg hørte, sagde Hærskarers JHVHv. v14 Jeg bortdrev dem som ved en storm blandt alle de folkeslag, de ikke kendte til, og landet blev til ødelagt bag dem, sådan at ingen går igennem det, hverken frem eller tilbage. De gjorde det herlige land til en ødemark.<<",
       "number": 11
     }
   ],
@@ -44,25 +54,25 @@
       "text": "regeringsår.",
       "type": "T",
       "verse": 1,
-      "position": 24
+      "position": 25
     },
     {
       "text": "Der er forskellige fortolkninger af, hvordan Betel  skal forstås i sammenhæng med de andre navne. Nogle mener, at Betel lægger sig til Sar-Ezer som et sammensat navn. Andre foreslår, at Betel er subjekt, og at personnavnene lægger sig som appositioner til Betel. Andre igen foreslår, at Betel er subjekt, og personnavnene er objekter. Fordelen er, at verbet får et objekt, men normalt ville man forvente en eksplicit objekt-markør i teksten, hvilket her ikke er tilfældet.",
       "type": "E",
       "verse": 2,
-      "position": 52
+      "position": 53
     },
     {
       "text": ">>at søge JHVHs gunst<< bygger på en tanke om, at JHVH er den himmelske konge, man kan søge audiens hos og komme med et ydmygt ønske. Samme ord bruges to gange i Zak 8,21-22.",
       "type": "E",
       "verse": 2,
-      "position": 77
+      "position": 78
     },
     {
       "text": "Ordret >>jeg<< som dog må forstås kollektivt.",
       "type": "E",
       "verse": 2,
-      "position": 179
+      "position": 180
     }
   ]
 }

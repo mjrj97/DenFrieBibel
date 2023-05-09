@@ -3,81 +3,95 @@
   "abbreviation": "Sl",
   "chapter": 88,
   "version": 1675810800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "En sang. Salme af Koras sønner.Til korlederen. Al-mahalat-le-annot. Maskil af Heman, ezraitten.",
+      "text": "\fEn sang. Salme af Koras sønner.\fTil korlederen. Al-mahalat-le-annot. Maskil af Heman, ezraitten.",
       "number": 1
     },
     {
-      "text": "HERRE, min frelses Gud,om dagen har jeg råbt,om natten var jeg foran dig.",
+      "text": "\fHERRE, min frelses Gud,\fom dagen har jeg råbt,\fom natten var jeg foran dig.",
       "number": 2
     },
     {
-      "text": "Lad min bøn komme for dit ansigt,bøj dit øre til min klageråb!",
+      "text": "\fLad min bøn komme for dit ansigt,\fbøj dit øre til min klageråb!",
       "number": 3
     },
     {
-      "text": "For min sjæl er mæt af ulykker,og mit liv er kommet nær til gravens rand.",
+      "text": "\fFor min sjæl er mæt af ulykker,\fog mit liv er kommet nær til gravens rand.",
       "number": 4
     },
     {
-      "text": "Jeg agtes lige med dem som går ned i graven,jeg er blevet som en mand uden kraft,",
+      "text": "\fJeg agtes lige med dem som går ned i graven,\fjeg er blevet som en mand uden kraft,",
       "number": 5
     },
     {
-      "text": "blandt de døde er jeg afsondret,som dræbte der ligger i graven,som du ikke længere husker,da de er revet ud af din hånd.",
+      "text": "\fblandt de døde er jeg afsondret,\fsom dræbte der ligger i graven,\fsom du ikke længere husker,\fda de er revet ud af din hånd.",
       "number": 6
     },
     {
-      "text": "Du har lagt mig i dybeste grav,i mørke, i dybe steder.",
+      "text": "\fDu har lagt mig i dybeste grav,\fi mørke, i dybe steder.",
       "number": 7
     },
     {
-      "text": "På mig har din vrede lagt sig tungt,og alle dine brændinger lod du skylle over mig. Sela",
+      "text": "\fPå mig har din vrede lagt sig tungt,\fog alle dine brændinger lod du skylle over mig. Sela",
       "number": 8
     },
     {
-      "text": "Du har fjernet mine fortrolige langt fra mig,du har gjort mig til afsky for dem,lukket inde, så jeg ikke kan gå ud.",
+      "text": "\fDu har fjernet mine fortrolige langt fra mig,\fdu har gjort mig til afsky for dem,\flukket inde, så jeg ikke kan gå ud.",
       "number": 9
     },
     {
-      "text": "Mit øje er sløvet af elendighed.Jeg har råbt til dig, HERRE, hver dag,jeg har bredt min håndflade ud mod dig.",
+      "text": "\fMit øje er sløvet af elendighed.\fJeg har råbt til dig, HERRE, hver dag,\fjeg har bredt min håndflade ud mod dig.",
       "number": 10
     },
     {
-      "text": "Gør du under for de døde?Eller vil dødninge rejse sig, vil de takke dig? Sela",
+      "text": "\fGør du under for de døde?\fEller vil dødninge rejse sig, vil de takke dig? Sela",
       "number": 11
     },
     {
-      "text": "Fortælles der i graven om din nåde,om din sandhed i dødsriget?",
+      "text": "\fFortælles der i graven om din nåde,\fom din sandhed i dødsriget?",
       "number": 12
     },
     {
-      "text": "Kendes dit under i mørket,eller din retfærdighed i glemslens land?",
+      "text": "\fKendes dit under i mørket,\feller din retfærdighed i glemslens land?",
       "number": 13
     },
     {
-      "text": "Men jeg har råbt til dig om hjælp, HERRE,og om morgenen kommer min bøn til dig.",
+      "text": "\fMen jeg har råbt til dig om hjælp, HERRE,\fog om morgenen kommer min bøn til dig.",
       "number": 14
     },
     {
-      "text": "Hvorfor, HERRE, vil du forkaste min sjæl?Hvorfor vil du skjule dit ansigt for mig?",
+      "text": "\fHvorfor, HERRE, vil du forkaste min sjæl?\fHvorfor vil du skjule dit ansigt for mig?",
       "number": 15
     },
     {
-      "text": "Hjælpeløs og døende er jeg fra ungdommen af,jeg har båret på rædsler for dig, jeg bliver fortvivlet.",
+      "text": "\fHjælpeløs og døende er jeg fra ungdommen af,\fjeg har båret på rædsler for dig, jeg bliver fortvivlet.",
       "number": 16
     },
     {
-      "text": "Din vredes flammer er gået hen over mig,rædsel for dig har tilintetgjort mig,",
+      "text": "\fDin vredes flammer er gået hen over mig,\frædsel for dig har tilintetgjort mig,",
       "number": 17
     },
     {
-      "text": "de har omringet mig som vand hele dagen,de har sammen slået kreds omkring mig.",
+      "text": "\fde har omringet mig som vand hele dagen,\fde har sammen slået kreds omkring mig.",
       "number": 18
     },
     {
-      "text": "Du har fjernet elsket ven og kammerat langt fra mig,mine fortrolige er blevet til mørke.{E: Sætningen har i grundteksten ikke noget verbum der derfor må underforstås. Formodentlig enten: >>er blevet til<< (en uhyggelig, fjendtlig magt) eller >>er blevet borte i<<.}",
+      "text": "\fDu har fjernet elsket ven og kammerat langt fra mig,\fmine fortrolige er blevet til mørke.",
       "number": 19
     }
   ],
@@ -104,67 +118,73 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 46
+      "position": 48
     },
     {
       "text": "Betydningen af *ʕal-māḥᵃlat lᵊʕannôt* er usikker. Det kan evt. betyde: >>at synge på lidende vis/under sygdom<< eller være en melodihenvisning (på melodien >>mahalat<<) eller anvisning om et fløjteinstrument.",
       "type": "E",
       "verse": 1,
-      "position": 67
+      "position": 69
     },
     {
       "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
       "type": "E",
       "verse": 1,
-      "position": 74
+      "position": 76
     },
     {
       "text": "Hebraisk: *šᵊʔôl*, der traditionelt er blevet oversat: >>dødsriget<<.",
       "type": "T",
       "verse": 4,
-      "position": 73
+      "position": 75
     },
     {
       "text": "Kan også oversættes: >>som er på vej<<.",
       "type": "T",
       "verse": 5,
-      "position": 34
+      "position": 35
     },
     {
       "text": "Betydningen af ordet *ḥāfᵊšî* (>>afsondret<<) er omstridt. Normalt betyder det: >>fri/løsladt<<, og nogle fortolkere forstår sætningen som bitter ironi: >>jeg har fået frihed blandt de døde<<. Snarere må det dog i lighed med 2 Kong 15,5 forstås som: >>afsondret<<, evt. >>lukket inde<<.",
       "type": "E",
       "verse": 6,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Ordret: >>bøjede/ydmygede/fornedrede du <<. >>Over mig<< er underforstået fra foregående sætning, hvor det står pointeret som første ord.",
       "type": "E",
       "verse": 8,
-      "position": 83
+      "position": 85
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 8,
-      "position": 88
+      "position": 90
     },
     {
       "text": "Ordret: >>vansmægter<<.",
       "type": "T",
       "verse": 10,
-      "position": 17
+      "position": 18
     },
     {
       "text": ">>hvorfor<< er underforstået fra foregående linje.",
       "type": "T",
       "verse": 15,
-      "position": 48
+      "position": 50
     },
     {
       "text": "Verbet har en besynderlig/umulig form (*ṣimmᵊtûtunî*). Man retter som regel til: *ṣimmᵊtûnî* (>>har tilintetgjort mig<<).",
       "type": "E",
       "verse": 17,
-      "position": 77
+      "position": 79
+    },
+    {
+      "text": "Sætningen har i grundteksten ikke noget verbum der derfor må underforstås. Formodentlig enten: >>er blevet til<< (en uhyggelig, fjendtlig magt) eller >>er blevet borte i<<.",
+      "type": "E",
+      "verse": 19,
+      "position": 90
     }
   ]
 }

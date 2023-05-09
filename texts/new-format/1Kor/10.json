@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 10,
   "version": 1616540400000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For jeg vil ikke, brødre, at I skal være uvidende om, at vores fædre alle var under skyen og alle gik igennem havet,",
+      "text": "\fFor jeg vil ikke, brødre, at I skal være uvidende om, at vores fædre alle var under skyen og alle gik igennem havet,",
       "number": 1
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Derfor, mine elskede, flygt for afgudsdyrkelsen!",
+      "text": "\fDerfor, mine elskede, flygt for afgudsdyrkelsen!",
       "number": 14
     },
     {
@@ -93,7 +107,7 @@
       "number": 22
     },
     {
-      "text": "Alt er tilladt, men ikke alt er gavnligt; alt er tilladt, men ikke alt opbygger.",
+      "text": "\fAlt er tilladt, men ikke alt er gavnligt; alt er tilladt, men ikke alt opbygger.",
       "number": 23
     },
     {

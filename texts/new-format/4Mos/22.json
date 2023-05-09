@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 22,
   "version": 1496181600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Israelitterne rejste derfra, og de slog lejr på Moabs slette, ved Jordan over for Jeriko.",
+      "text": "\fIsraelitterne rejste derfra, og de slog lejr på Moabs slette, ved Jordan over for Jeriko.",
       "number": 1
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "Balak sendte bud igen, flere og fornemmere ledere end de første.",
+      "text": "\fBalak sendte bud igen, flere og fornemmere ledere end de første.",
       "number": 15
     },
     {
@@ -89,7 +99,7 @@
       "number": 21
     },
     {
-      "text": "Men Guds vrede blussede op fordi han drog med, og JHVHs engel stillede sig i vejen for at stå ham imod, men han red på sit æsel, og han havde to tjenestedrenge med.",
+      "text": "\fMen Guds vrede blussede op fordi han drog med, og JHVHs engel stillede sig i vejen for at stå ham imod, men han red på sit æsel, og han havde to tjenestedrenge med.",
       "number": 22
     },
     {
@@ -145,7 +155,7 @@
       "number": 35
     },
     {
-      "text": "Balak hørte at Bileam kom, og han rejste ham i møde ved en by i Moab som lå på grænsen ved Arnonfloden, som er den forreste del af grænsen.",
+      "text": "\fBalak hørte at Bileam kom, og han rejste ham i møde ved en by i Moab som lå på grænsen ved Arnonfloden, som er den forreste del af grænsen.",
       "number": 36
     },
     {

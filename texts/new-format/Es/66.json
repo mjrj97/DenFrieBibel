@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 66,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Sådan siger JHVH: Himlene er min trone og jorden mine fødders fodskammel; hvor er det hus, I kan bygge til mig? og hvor er det sted, jeg kan hvile mig?",
+      "text": "\fSådan siger JHVH: Himlene er min trone og jorden mine fødders fodskammel; hvor er det hus, I kan bygge til mig? og hvor er det sted, jeg kan hvile mig?",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Før hun var i fødselsveer, fødte hun; før smerten kom over hende, gav hun liv til et drengebarn.",
+      "text": "\fFør hun var i fødselsveer, fødte hun; før smerten kom over hende, gav hun liv til et drengebarn.",
       "number": 7
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "For se, JHVH skal komme med ild, og hans vogne skal være som en tornado for at gengælde med sin glødende vrede og med sin trussel om flammende ild.",
+      "text": "\fFor se, JHVH skal komme med ild, og hans vogne skal være som en tornado for at gengælde med sin glødende vrede og med sin trussel om flammende ild.",
       "number": 15
     },
     {
@@ -73,7 +83,7 @@
       "number": 17
     },
     {
-      "text": "Og hvad mig angår, trods deres gerninger og deres tanker skal det komme så vidt, at jeg skal samle alle hedninger og sprog, og de skal komme og se min herlighed.",
+      "text": "\fOg hvad mig angår, trods deres gerninger og deres tanker skal det komme så vidt, at jeg skal samle alle hedninger og sprog, og de skal komme og se min herlighed.",
       "number": 18
     },
     {
@@ -118,7 +128,7 @@
       "text": "dvs. Jerusalem. Es 54,1; Gal 4,27; Åb 12,5",
       "type": "T",
       "verse": 7,
-      "position": 8
+      "position": 9
     },
     {
       "text": "dvs. en afgud",

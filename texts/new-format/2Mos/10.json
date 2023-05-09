@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 10,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses: >>Gå ind til Farao, for jeg har forhærdet hans hjerte og hans tjeneres hjerte for at gøre disse mine tegn blandt dem,",
+      "text": "\fJHVH sagde til Moses: >>Gå ind til Farao, for jeg har forhærdet hans hjerte og hans tjeneres hjerte for at gøre disse mine tegn blandt dem,",
       "number": 1
     },
     {
@@ -85,7 +99,7 @@
       "number": 20
     },
     {
-      "text": "JHVH sagde til Moses: >>Ræk din hånd op mod himlen, så bliver der mørke over Egyptens land, og man vil føle mørke.<<",
+      "text": "\fJHVH sagde til Moses: >>Ræk din hånd op mod himlen, så bliver der mørke over Egyptens land, og man vil føle mørke.<<",
       "number": 21
     },
     {
@@ -136,7 +150,7 @@
       "text": "Den hebraiske teksts: *bᵊqirbô* betyder: >>i hans midte<<. Meningen kan være: >>midt i hans land<<. Oftest følger oversættere de gamle oversættelser, som må have læst: *bᵊqirbām*: >>i deres midte / blandt dem<<.",
       "type": "T",
       "verse": 1,
-      "position": 139
+      "position": 140
     },
     {
       "text": "Ordret: >>i din søns og din sønnesøns ører<<",

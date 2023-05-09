@@ -20,7 +20,7 @@ const Index = () => {
     fetch("/api/bible?book=" + currentBook + "&chapter=" + currentChapter).then(
       response => response.json()
     ).then(
-      data => {setText(data);}
+      data => {setText(data.content);}
     );
   }, [currentBook, currentChapter]);
   
@@ -29,7 +29,7 @@ const Index = () => {
       response => response.json()
     ).then(
       data => {
-        setBooks(data);
+        setBooks(data.content);
       }
     );
   }, []);

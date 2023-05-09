@@ -3,49 +3,63 @@
   "abbreviation": "Sl",
   "chapter": 75,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Al-tashket.Salme af Asaf. En sang.",
+      "text": "\fTil korlederen. Al-tashket.\fSalme af Asaf. En sang.",
       "number": 1
     },
     {
-      "text": "Vi takker dig, Gud, vi takker,og dit navn er nært, dine undere fortæller om det.",
+      "text": "\fVi takker dig, Gud, vi takker,\fog dit navn er nært, dine undere fortæller om det.",
       "number": 2
     },
     {
-      "text": ">>Når jeg griber den fastsatte tid,vil jeg dømme retfærdigt,",
+      "text": "\f>>Når jeg griber den fastsatte tid,\fvil jeg dømme retfærdigt,",
       "number": 3
     },
     {
-      "text": "Lad jorden og alle dens beboere ryste,jeg har dog selv sat dens søjler på plads<<. Sela",
+      "text": "\fLad jorden og alle dens beboere ryste,\fjeg har dog selv sat dens søjler på plads<<. Sela",
       "number": 4
     },
     {
-      "text": "Jeg sagde til de overmodige: >>Vær ikke overmodige!<<Og til de ugudelige: >>Løft ikke horn!",
+      "text": "\fJeg sagde til de overmodige: >>Vær ikke overmodige!<<\fOg til de ugudelige: >>Løft ikke horn!",
       "number": 5
     },
     {
-      "text": "Løft ikke jeres horn mod det høje,tal ikke frækt med knejsende nakke!<<",
+      "text": "\fLøft ikke jeres horn mod det høje,\ftal ikke frækt med knejsende nakke!<<",
       "number": 6
     },
     {
-      "text": "For ikke fra øst eller fra vest,og heller ikke fra ørken er der ophøjelse.",
+      "text": "\fFor ikke fra øst eller fra vest,\fog heller ikke fra ørken er der ophøjelse.",
       "number": 7
     },
     {
-      "text": "For Gud er den som dømmer,han fornedrer den ene og ophøjer den anden.",
+      "text": "\fFor Gud er den som dømmer,\fhan fornedrer den ene og ophøjer den anden.",
       "number": 8
     },
     {
-      "text": "For der er et bæger i JHVHs håndmed skummende vin, fuldt af krydderier,og han skænker ud deraf,selv dets bundfald må de slubre i sig og drikke, alle jordens ugudelige.",
+      "text": "\fFor der er et bæger i JHVHs hånd\fmed skummende vin, fuldt af krydderier,\fog han skænker ud deraf,\fselv dets bundfald må de slubre i sig og drikke, alle jordens ugudelige.",
       "number": 9
     },
     {
-      "text": "Men jeg vil forkynde for evigt,jeg vil lovsynge Jakobs Gud.",
+      "text": "\fMen jeg vil forkynde for evigt,\fjeg vil lovsynge Jakobs Gud.",
       "number": 10
     },
     {
-      "text": "Og jeg vil hugge alle de ugudeliges horn af,en retfærdigs horn skal ophøjes.",
+      "text": "\fOg jeg vil hugge alle de ugudeliges horn af,\fen retfærdigs horn skal ophøjes.",
       "number": 11
     }
   ],
@@ -76,67 +90,67 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: >>fordærv ikke/ødelæg ikke<<. Det kan være begyndelsesordene i en – nu ukendt – salme.",
       "type": "E",
       "verse": 1,
-      "position": 27
+      "position": 28
     },
     {
       "text": "I stedet for: *wᵊqārôv šᵊmexā* (>>og dit navn er nært<<) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: >>og den der påkalder dit navn, (fortæller om dine undere)<<. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: >>og vi påkalder dit navn<<.",
       "type": "E",
       "verse": 2,
-      "position": 50
+      "position": 52
     },
     {
       "text": "Kan også oversættes: >>de/man fortæller om dine undere<<.",
       "type": "T",
       "verse": 2,
-      "position": 80
+      "position": 82
     },
     {
       "text": "Kan også oversættes: >>Når<<.",
       "type": "T",
       "verse": 4,
-      "position": 3
+      "position": 4
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 4,
-      "position": 87
+      "position": 89
     },
     {
       "text": "Formodentlig er der især tænkt på gudløse.",
       "type": "T",
       "verse": 5,
-      "position": 28
+      "position": 29
     },
     {
       "text": ">>ikke<< står ikke her i grundteksten, men dækkes af >>ikke<< i første linje i dette dobbelte udsagn.",
       "type": "T",
       "verse": 6,
-      "position": 42
+      "position": 44
     },
     {
       "text": "Ordret: >>opgang<<.",
       "type": "T",
       "verse": 7,
-      "position": 16
+      "position": 17
     },
     {
       "text": "Ordret: >>undergang<<.",
       "type": "T",
       "verse": 7,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Grundteksten har: >>fra ørkenens bjerge<<, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (>>bjerge<<) opfattes så bedre som infinitiv hif’il af verbet *rwm*: >>ophøje/ophøjelse<<.",
       "type": "E",
       "verse": 7,
-      "position": 74
+      "position": 76
     }
   ]
 }

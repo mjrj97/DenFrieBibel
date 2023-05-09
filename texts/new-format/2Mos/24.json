@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 24,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til Moses sagde han: >>Gå op til JHVH, du og Aron, Nadab og Abihu og halvfjerds af Israels ældste, og I skal kaste jer ned på afstand.",
+      "text": "\fTil Moses sagde han: >>Gå op til JHVH, du og Aron, Nadab og Abihu og halvfjerds af Israels ældste, og I skal kaste jer ned på afstand.",
       "number": 1
     },
     {
@@ -88,7 +102,7 @@
       "text": "Der er tale om tilbedelse, hvor den tilbedende knæler ned og bøjer panden ned mod jorden.",
       "type": "E",
       "verse": 1,
-      "position": 122
+      "position": 123
     },
     {
       "text": "Dette ord er underforstået i forlængelse af >>byggede<<, idet grundteksten ikke har noget verbum her. En anden oversættelse kunne være: >>byggede et alter neden for bjerget, nemlig af tolv stenstøtter for Israels tolv stammer<<.",

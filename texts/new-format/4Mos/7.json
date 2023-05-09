@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 7,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Den dag Moses var færdig med at rejse boligen og havde salvet og helliget den og alle dens redskaber og havde salvet og helliget alteret og alle dets redskaber,",
+      "text": "\fDen dag Moses var færdig med at rejse boligen og havde salvet og helliget den og alle dens redskaber og havde salvet og helliget alteret og alle dets redskaber,",
       "number": 1
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Stammelederne ofrede til alterets indvielse den dag det blev salvet, og stammelederne bar selv deres ofre frem for alteret.",
+      "text": "\fStammelederne ofrede til alterets indvielse den dag det blev salvet, og stammelederne bar selv deres ofre frem for alteret.",
       "number": 10
     },
     {
@@ -337,7 +347,7 @@
       "number": 83
     },
     {
-      "text": "Dette er gaverne fra israelitternes ledere til alterets indvielse på den dag det blev salvet: 12 sølvfade, 12 sølvskåle, 12 guldrøgelseskåle.",
+      "text": "\fDette er gaverne fra israelitternes ledere til alterets indvielse på den dag det blev salvet: 12 sølvfade, 12 sølvskåle, 12 guldrøgelseskåle.",
       "number": 84
     },
     {
@@ -357,7 +367,7 @@
       "number": 88
     },
     {
-      "text": "Når Moses gik ind i forsamlingsteltet for at tale med ham,{T: Dvs. med JHVH.} da hørte han stemmen tale til sig fra nådestolen oven på vidnesbyrdets ark mellem de to keruber, og den talte til ham.",
+      "text": "\fNår Moses gik ind i forsamlingsteltet for at tale med ham, da hørte han stemmen tale til sig fra nådestolen oven på vidnesbyrdets ark mellem de to keruber, og den talte til ham.",
       "number": 89
     }
   ],
@@ -384,7 +394,13 @@
       "text": "Ordet >>dag<< bruges her om handlinger som strækker sig over en længere periode.",
       "type": "E",
       "verse": 1,
-      "position": 7
+      "position": 8
+    },
+    {
+      "text": "Dvs. med JHVH.",
+      "type": "T",
+      "verse": 89,
+      "position": 59
     }
   ]
 }

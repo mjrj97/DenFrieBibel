@@ -3,13 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 39,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Af purpurblå, purpurrød og karminrød uld lavede de vævede klæder til at tjene i ved helligdommen; og de lavede de hellige klæder som skulle være til Aron, sådan som JHVH havde befalet Moses.",
+      "text": "\fAf purpurblå, purpurrød og karminrød uld lavede de vævede klæder til at tjene i ved helligdommen; og de lavede de hellige klæder som skulle være til Aron, sådan som JHVH havde befalet Moses.",
       "number": 1
     },
     {
-      "text": "Han lavede efoden af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.",
+      "text": "\fHan lavede efoden af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.",
       "number": 2
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Han lavede brystskjoldet i kunstfærdigt arbejde, af samme arbejde som efoden; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.",
+      "text": "\fHan lavede brystskjoldet i kunstfærdigt arbejde, af samme arbejde som efoden; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.",
       "number": 8
     },
     {
@@ -89,7 +99,7 @@
       "number": 21
     },
     {
-      "text": "Han lavede efodens kappe, vævet arbejde, helt igennem af purpurblå uld,",
+      "text": "\fHan lavede efodens kappe, vævet arbejde, helt igennem af purpurblå uld,",
       "number": 22
     },
     {
@@ -109,7 +119,7 @@
       "number": 26
     },
     {
-      "text": "Kjortlerne til Aron og hans sønner lavede de af fint linned, vævet arbejde,",
+      "text": "\fKjortlerne til Aron og hans sønner lavede de af fint linned, vævet arbejde,",
       "number": 27
     },
     {
@@ -121,7 +131,7 @@
       "number": 29
     },
     {
-      "text": "De lavede en roset, det hellige diadem af purt guld, og de skrev på den, som man graverer i en seglring: >>Hellig for JHVH.<<",
+      "text": "\fDe lavede en roset, det hellige diadem af purt guld, og de skrev på den, som man graverer i en seglring: >>Hellig for JHVH.<<",
       "number": 30
     },
     {
@@ -129,7 +139,7 @@
       "number": 31
     },
     {
-      "text": "Sådan blev hele arbejdet med forsamlingsteltets bolig fuldført; og Israels børn gjorde det efter alt det som JHVH havde befalet Moses, sådan gjorde de det.",
+      "text": "\fSådan blev hele arbejdet med forsamlingsteltets bolig fuldført; og Israels børn gjorde det efter alt det som JHVH havde befalet Moses, sådan gjorde de det.",
       "number": 32
     },
     {
@@ -208,13 +218,13 @@
       "text": "Se note til 31,30.",
       "type": "T",
       "verse": 1,
-      "position": 57
+      "position": 58
     },
     {
       "text": "Navnet: >>efod<< bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
       "type": "E",
       "verse": 2,
-      "position": 17
+      "position": 18
     },
     {
       "text": "Se note til 25,7.",
@@ -262,7 +272,7 @@
       "text": "Det hebraiske: *ṣîṣ* (>>roset<<) er beslægtet med ordet: *ṣîṣāʰ*: >>blomst<< og verbet: *nṣṣ*: >>funkle/skinne<<. Man kan finde forskelige oversættelser: >>blomst/plade/diadem<<. Det har formodentlig været en plade der var formet som en blomst, en roset.",
       "type": "T",
       "verse": 30,
-      "position": 19
+      "position": 20
     },
     {
       "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: >>delfin<< eller: >>søko<<",

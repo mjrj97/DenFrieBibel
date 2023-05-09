@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 14,
   "version": 1494280800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Da begyndte hele forsamlingen at råbe og skrige højrøstet, og folket græd hele natten.",
+      "text": "\fDa begyndte hele forsamlingen at råbe og skrige højrøstet, og folket græd hele natten.",
       "number": 1
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "JHVH sagde til Moses: >>Hvor længe skal dette folk ringeagte mig, og hvor længe vil de ikke tro på mig, til trods for alle de tegn jeg har gjort midt iblandt dem?",
+      "text": "\fJHVH sagde til Moses: >>Hvor længe skal dette folk ringeagte mig, og hvor længe vil de ikke tro på mig, til trods for alle de tegn jeg har gjort midt iblandt dem?",
       "number": 11
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "JHVH sagde: >>Hermed tilgiver jeg dem efter dit ord.",
+      "text": "\fJHVH sagde: >>Hermed tilgiver jeg dem efter dit ord.",
       "number": 20
     },
     {
@@ -157,7 +167,7 @@
       "number": 38
     },
     {
-      "text": "Moses talte disse ord til alle Israels børn. Da sørgede folket meget.",
+      "text": "\fMoses talte disse ord til alle Israels børn. Da sørgede folket meget.",
       "number": 39
     },
     {
@@ -181,7 +191,7 @@
       "number": 44
     },
     {
-      "text": "Da kom amalekitterne og kana’anæerne ned fra Bjerglandet hvor de boede, og de slog dem og knuste dem indtil Horma.{T: Det navn fik stedet i eftertiden jf. kapitel 21,3.}",
+      "text": "Da kom amalekitterne og kana’anæerne ned fra Bjerglandet hvor de boede, og de slog dem og knuste dem indtil Horma.",
       "number": 45
     }
   ],
@@ -215,6 +225,12 @@
       "type": "T",
       "verse": 21,
       "position": 41
+    },
+    {
+      "text": "Det navn fik stedet i eftertiden jf. kapitel 21,3.",
+      "type": "T",
+      "verse": 45,
+      "position": 114
     }
   ]
 }

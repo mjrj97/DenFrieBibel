@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 35,
   "version": 1668726000000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Elihu forsatte så\n\tmed at svare:",
+      "text": "\fElihu forsatte så\n\tmed at svare:",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "\t\t\t\t\t\t\tJeg vil svare dig igen med ord\n\t\t\t\t\t\t\t\t\tog dine venner med dig:",
+      "text": "\f\t\t\t\t\t\t\tJeg vil svare dig igen med ord\n\t\t\t\t\t\t\t\t\tog dine venner med dig:",
       "number": 4
     },
     {
@@ -37,7 +51,7 @@
       "number": 8
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tOver de mange tilfælde af undertrykkelse råber de,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tde skriger om hjælp på grund af de mægtiges arm.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tOver de mange tilfælde af undertrykkelse råber de,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tde skriger om hjælp på grund af de mægtiges arm.",
       "number": 9
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": "\t\t\tMen nu,\n\t\t\t\tfordi hans vrede ikke straffer,\n\t\t\t\t\t\tog han ikke går op i overmodet,",
+      "text": "\f\t\t\tMen nu,\n\t\t\t\tfordi hans vrede ikke straffer,\n\t\t\t\t\t\tog han ikke går op i overmodet,",
       "number": 15
     },
     {
@@ -98,7 +112,7 @@
       "text": "Hebraisk: *wᵊlōˀ-yādaʕ bappaš mᵊʔōd* >>ikke kender (personligt)/vedkender sig tåbelighed særlig meget.<<",
       "type": "E",
       "verse": 15,
-      "position": 84
+      "position": 85
     }
   ]
 }

@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 1,
   "version": 1661896800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og disse er navnene på Israels sønner som kom til Egypten; med Jakob kom enhver med sin familie:",
+      "text": "\fOg disse er navnene på Israels sønner som kom til Egypten; med Jakob kom enhver med sin familie:",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Nu kom der en ny konge over Egypten som ikke kendte Josef.",
+      "text": "\fNu kom der en ny konge over Egypten som ikke kendte Josef.",
       "number": 8
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": "Egyptens konge sagde til de hebraiske jordemødre – af hvilke den enes navn var Shifra og den andens navn Pua –",
+      "text": "\fEgyptens konge sagde til de hebraiske jordemødre – af hvilke den enes navn var Shifra og den andens navn Pua –",
       "number": 15
     },
     {
@@ -89,7 +103,7 @@
       "number": 21
     },
     {
-      "text": "Så befalede Farao hele sit folk som følger: >>Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.<<",
+      "text": "\fSå befalede Farao hele sit folk som følger: >>Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.<<",
       "number": 22
     }
   ],
@@ -116,7 +130,7 @@
       "text": "*bayit* betyder ordret både >>hus<< og >>familie<<. Her er det det sidste der er tale om.",
       "type": "T",
       "verse": 1,
-      "position": 96
+      "position": 97
     },
     {
       "text": "*nefeš* skal oftest oversættes: >>sjæl<<, men her er det betegnelse for: >>person<<.",
@@ -146,7 +160,7 @@
       "text": "Ordret: >>rejste der sig<<",
       "type": "T",
       "verse": 8,
-      "position": 6
+      "position": 7
     },
     {
       "text": "*rav min* kan både oversættes: >>større end<< og: >>flere end<<.",

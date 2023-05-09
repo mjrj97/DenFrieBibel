@@ -3,37 +3,51 @@
   "abbreviation": "Sl",
   "chapter": 82,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Salme af Asaf.Gud står i det guddommelige råd,midt iblandt guder vil han holde dom:",
+      "text": "\fSalme af Asaf.\fGud står i det guddommelige råd,\fmidt iblandt guder vil han holde dom:",
       "number": 1
     },
     {
-      "text": ">>Hvor længe vil I dømme uretfærdigtog løfte de ugudeliges ansigter? Sela",
+      "text": "\f>>Hvor længe vil I dømme uretfærdigt\fog løfte de ugudeliges ansigter? Sela",
       "number": 2
     },
     {
-      "text": "Skaf den ringe og den faderløse ret,hjælp den hjælpeløse og den arme til retfærdighed,",
+      "text": "\fSkaf den ringe og den faderløse ret,\fhjælp den hjælpeløse og den arme til retfærdighed,",
       "number": 3
     },
     {
-      "text": "red den ringe og den fattige,udfri af de ugudeliges hånd!",
+      "text": "\fred den ringe og den fattige,\fudfri af de ugudeliges hånd!",
       "number": 4
     },
     {
-      "text": "De vidste ikke og forstod ikke,de vandrer omkring i mørke,alle jordens grundvolde vakler.",
+      "text": "\fDe vidste ikke og forstod ikke,\fde vandrer omkring i mørke,\falle jordens grundvolde vakler.",
       "number": 5
     },
     {
-      "text": "Jeg har sagt: I er guder,og I er alle den Højestes sønner.",
+      "text": "\fJeg har sagt: I er guder,\fog I er alle den Højestes sønner.",
       "number": 6
     },
     {
-      "text": "Men I skal dø som menneske,og som en af fyrsterne skal I falde.<<",
+      "text": "\fMen I skal dø som menneske,\fog som en af fyrsterne skal I falde.<<",
       "number": 7
     },
     {
-      "text": "Rejs dig, Gud, hold dom over jorden,for du har alle folkene til ejendom.",
+      "text": "\fRejs dig, Gud, hold dom over jorden,\ffor du har alle folkene til ejendom.",
       "number": 8
     }
   ],
@@ -60,25 +74,25 @@
       "text": "Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: >>guds forsamling/menighed<<, idet der er anvendt det korte *ʔēl* (>>gud<<), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
       "type": "E",
       "verse": 1,
-      "position": 46
+      "position": 48
     },
     {
       "text": "Her er formodentlig tænkt på jordiske dommere. Andre tænker dog på det himmelske råd.",
       "type": "T",
       "verse": 1,
-      "position": 64
+      "position": 67
     },
     {
       "text": "Det er: Begunstige og tage parti for de ugudelige, favorisere dem.",
       "type": "T",
       "verse": 2,
-      "position": 68
+      "position": 70
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 2,
-      "position": 73
+      "position": 75
     }
   ]
 }

@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 44,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Og hør nu, Jakob, min tjener! og Israel, som jeg udvalgte!",
+      "text": "\fOg hør nu, Jakob, min tjener! og Israel, som jeg udvalgte!",
       "number": 1
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Husk disse ting, Jakob og Israel! for du er min tjener; jeg har dannet dig, du er min tjener, Israel! Du skal ikke glemmes af mig.",
+      "text": "\fHusk disse ting, Jakob og Israel! for du er min tjener; jeg har dannet dig, du er min tjener, Israel! Du skal ikke glemmes af mig.",
       "number": 21
     },
     {

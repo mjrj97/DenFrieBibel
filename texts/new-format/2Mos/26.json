@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 26,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Men boligen skal du lave af ti teltduge; af tvundet, fint linned og purpurblå, purpurrød og karminrød uld, med kunstfærdigt forarbejdede keruber skal du lave dem.",
+      "text": "\f>>Men boligen skal du lave af ti teltduge; af tvundet, fint linned og purpurblå, purpurrød og karminrød uld, med kunstfærdigt forarbejdede keruber skal du lave dem.",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": ">>Du skal lave teltduge af gedehår til et telt over boligen; som elleve teltduge skal du lave dem.",
+      "text": "\f>>Du skal lave teltduge af gedehår til et telt over boligen; som elleve teltduge skal du lave dem.",
       "number": 7
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": ">>Du skal lave plankerne til boligen af akacietræ, de skal være lodrette.",
+      "text": "\f>>Du skal lave plankerne til boligen af akacietræ, de skal være lodrette.",
       "number": 15
     },
     {
@@ -125,7 +139,7 @@
       "number": 30
     },
     {
-      "text": ">>Og du skal lave et forhæng af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber skal man lave det.",
+      "text": "\f>>Og du skal lave et forhæng af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber skal man lave det.",
       "number": 31
     },
     {
@@ -176,19 +190,19 @@
       "text": "Se note til 25,9.",
       "type": "E",
       "verse": 1,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Ordret: >>karminrød orm<<.",
       "type": "T",
       "verse": 1,
-      "position": 103
+      "position": 104
     },
     {
       "text": "Ordet >>med<< står ikke i den hebraiske tekst, men meningen må være, at de der laver teltdugene skal væve dem, så der fremstår billeder af keruber.",
       "type": "T",
       "verse": 1,
-      "position": 112
+      "position": 113
     },
     {
       "text": "Ordret: >>bliver ét<<.",
@@ -218,7 +232,7 @@
       "text": "Eller: >>han<<, nemlig kunstneren.",
       "type": "T",
       "verse": 31,
-      "position": 141
+      "position": 142
     }
   ]
 }

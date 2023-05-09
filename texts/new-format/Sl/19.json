@@ -3,65 +3,79 @@
   "abbreviation": "Sl",
   "chapter": 19,
   "version": 1631570400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Salme af David.",
+      "text": "\fTil korlederen. Salme af David.",
       "number": 1
     },
     {
-      "text": "Himlen fortæller om Guds herlighed,hvælvingen forkynder hans hænders værk.",
+      "text": "\fHimlen fortæller om Guds herlighed,\fhvælvingen forkynder hans hænders værk.",
       "number": 2
     },
     {
-      "text": "Dag lader tale sprudle frem til dag, og nat kundgør viden til nat.",
+      "text": "\fDag lader tale sprudle frem til dag, og nat kundgør viden til nat.",
       "number": 3
     },
     {
-      "text": "Der er ingen tale og ingen ord uden at deres røst høres.",
+      "text": "\fDer er ingen tale og ingen ord uden at deres røst høres.",
       "number": 4
     },
     {
-      "text": "Deres røst når ud over hele jordenog deres ord til verdens ende.Han satte et telt for solen på himlen,",
+      "text": "\fDeres røst når ud over hele jorden\fog deres ord til verdens ende.\fHan satte et telt for solen på himlen,",
       "number": 5
     },
     {
-      "text": "og den går som en brudgom ud af sit kammer,den glæder sig som en helt over at løbe sin bane.",
+      "text": "\fog den går som en brudgom ud af sit kammer,\fden glæder sig som en helt over at løbe sin bane.",
       "number": 6
     },
     {
-      "text": "Fra himlens ene ende er dens udgang,og dens omløb når den anden ende,ja, intet er skjult for dens glød.",
+      "text": "\fFra himlens ene ende er dens udgang,\fog dens omløb når den anden ende,\fja, intet er skjult for dens glød.",
       "number": 7
     },
     {
-      "text": "JHVHs lov er fuldkommen,den styrker sjælen.JHVHs vidnesbyrd er pålideligt,det giver den enfoldige visdom.",
+      "text": "\fJHVHs lov er fuldkommen,\fden styrker sjælen.\fJHVHs vidnesbyrd er pålideligt,\fdet giver den enfoldige visdom.",
       "number": 8
     },
     {
-      "text": "JHVHs bestemmelser er rette,de glæder hjertet.JHVHs befaling er pur,det giver øjnene lys.",
+      "text": "\fJHVHs bestemmelser er rette,\fde glæder hjertet.\fJHVHs befaling er pur,\fdet giver øjnene lys.",
       "number": 9
     },
     {
-      "text": "Frygt for JHVH er ren,den består til evig tid,JHVHs domme er sandhed,de er alle retfærdige.",
+      "text": "\fFrygt for JHVH er ren,\fden består til evig tid,\fJHVHs domme er sandhed,\fde er alle retfærdige.",
       "number": 10
     },
     {
-      "text": "De er mere kostbare end guld,ja, end lutret guld i mængde,og sødere end honningog flydende bikage.",
+      "text": "\fDe er mere kostbare end guld,\fja, end lutret guld i mængde,\fog sødere end honning\fog flydende bikage.",
       "number": 11
     },
     {
-      "text": "Også din tjener lader sig advare af dem,der er stor løn ved at holde dem.",
+      "text": "\fOgså din tjener lader sig advare af dem,\fder er stor løn ved at holde dem.",
       "number": 12
     },
     {
-      "text": "Uforsætlige synder – hvem lægger mærke til dem?Rens mig for skjulte synder!",
+      "text": "\fUforsætlige synder – hvem lægger mærke til dem?\fRens mig for skjulte synder!",
       "number": 13
     },
     {
-      "text": "Hold også din tjener borte fra hovmodigeså de ikke skal herske over mig.Da bliver jeg udadleligog uden skyld i grov overtrædelse.",
+      "text": "\fHold også din tjener borte fra hovmodige\fså de ikke skal herske over mig.\fDa bliver jeg udadlelig\fog uden skyld i grov overtrædelse.",
       "number": 14
     },
     {
-      "text": "Lad min munds ord og mit hjertes tanker være til behag for dit ansigt,JHVHv, min klippe og min genløser!",
+      "text": "\fLad min munds ord og mit hjertes tanker være til behag for dit ansigt,\fJHVHv, min klippe og min genløser!",
       "number": 15
     }
   ],
@@ -88,37 +102,37 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Grundteksten har: *qawwām*: >>deres rettesnor<<. Det er vanskeligt at se mening med det, især ud fra parallellen >>ord<< i næste linje. Man følger derfor oftest Septuaginta og læser *qôlām*: >>deres røst<<, jf. citatet i Rom 10,18.",
       "type": "E",
       "verse": 5,
-      "position": 10
+      "position": 11
     },
     {
       "text": "Grundteksten har: *bāhem*: >>i/på dem<<. Det henviser formodentlig til >>himlen<< der på hebraisk er et flertalsord. Det kan overvejes om pronominerne i v. 4-5 (>>deres<<) alle henviser til >>himlen<< (v. 2), og de kunne da oversættes >>dens<<.",
       "type": "E",
       "verse": 5,
-      "position": 102
+      "position": 105
     },
     {
       "text": "Lov",
       "type": "N",
       "verse": 8,
-      "position": 9
+      "position": 10
     },
     {
       "text": "Ordret: >>den bringer sjælen tilbage<<.",
       "type": "T",
       "verse": 8,
-      "position": 43
+      "position": 45
     },
     {
       "text": "Grundtekstens *yirʔāh*: >>frygt<<, synes at bryde rytmen i versene, idet >>frygt<< næppe kan være synonym for >>lov<<. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. >>Frygt<< for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud >>til evig tid<<. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: >>ord<<.",
       "type": "E",
       "verse": 10,
-      "position": 14
+      "position": 15
     }
   ]
 }

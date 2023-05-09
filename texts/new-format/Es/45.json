@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 45,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Sådan siger JHVH til sin salvede, til Kyros, som jeg tog ved hans hånd for at kaste hedningerne ned for hans ansigt og løse bæltet om kongers lænd for at åbne døre og for at holde porte lukket op for ham:",
+      "text": "\fSådan siger JHVH til sin salvede, til Kyros, som jeg tog ved hans hånd for at kaste hedningerne ned for hans ansigt og løse bæltet om kongers lænd for at åbne døre og for at holde porte lukket op for ham:",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Ve den, der skændes med den, der dannede ham, det potteskår som andre potteskår af jord! Mon leret kan sige til den, der formede det: >>Hvad er det, du gør?<< eller kan dit værk sige: >>Han har ingen hænder<<?",
+      "text": "\fVe den, der skændes med den, der dannede ham, det potteskår som andre potteskår af jord! Mon leret kan sige til den, der formede det: >>Hvad er det, du gør?<< eller kan dit værk sige: >>Han har ingen hænder<<?",
       "number": 9
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Sådan siger JHVH: Egyptens arbejde og Etiopiens købmandsskab og også sabæerne, de høje folk, skal komme til dig og blive dine, de skal følge efter dig, i lænker skal de komme; for dig skal de bøje sig ned, de skal bede dig inderligt og sige: >>Kun hos dig er Gud, og der er ingen anden, ikke nogen Gud.<<",
+      "text": "\fSådan siger JHVH: Egyptens arbejde og Etiopiens købmandsskab og også sabæerne, de høje folk, skal komme til dig og blive dine, de skal følge efter dig, i lænker skal de komme; for dig skal de bøje sig ned, de skal bede dig inderligt og sige: >>Kun hos dig er Gud, og der er ingen anden, ikke nogen Gud.<<",
       "number": 14
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Meld ud, og kom frem med noget! Ja, lad dem diskutere med hinanden: Hvem har ladet dette blive hørt fra ældgammel tid, hvem har fortalt det fra gamle dage? Mon det ikke er mig, JHVH? For der er ingen anden Gud end mig, en retfærdig Gud og frelser, der er ingen undtagen mig.",
+      "text": "\fMeld ud, og kom frem med noget! Ja, lad dem diskutere med hinanden: Hvem har ladet dette blive hørt fra ældgammel tid, hvem har fortalt det fra gamle dage? Mon det ikke er mig, JHVH? For der er ingen anden Gud end mig, en retfærdig Gud og frelser, der er ingen undtagen mig.",
       "number": 21
     },
     {

@@ -3,37 +3,51 @@
   "abbreviation": "Sl",
   "chapter": 101,
   "version": 1616454000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Af David. En salme.Om nåde og ret vil jeg synge,dig, JHVHv, vil jeg lovsynge.",
+      "text": "\fAf David. En salme.\fOm nåde og ret vil jeg synge,\fdig, JHVHv, vil jeg lovsynge.",
       "number": 1
     },
     {
-      "text": "Jeg vil indprente mig en fuldkommen vej –hvornår vil du komme til mig?Jeg vil vandre i mit hjertes oprigtighedi mit hus.",
+      "text": "\fJeg vil indprente mig en fuldkommen vej –\fhvornår vil du komme til mig?\fJeg vil vandre i mit hjertes oprigtighed\fi mit hus.",
       "number": 2
     },
     {
-      "text": "Jeg vil ikke sætte migen nederdrægtig sag for øje;jeg har hadet at begå overtrædelser,det skal ikke hænge ved mig.",
+      "text": "\fJeg vil ikke sætte mig\fen nederdrægtig sag for øje;\fjeg har hadet at begå overtrædelser,\fdet skal ikke hænge ved mig.",
       "number": 3
     },
     {
-      "text": "Et falsk hjerte skal vige fra mig,en ond vil jeg ikke vide af.",
+      "text": "\fEt falsk hjerte skal vige fra mig,\fen ond vil jeg ikke vide af.",
       "number": 4
     },
     {
-      "text": "Den som i hemmelighed bagtaler sin næste,ham vil jeg udslette.Den som har stolte øjne og hovmodigt hjerte,ham vil jeg ikke tåle.",
+      "text": "\fDen som i hemmelighed bagtaler sin næste,\fham vil jeg udslette.\fDen som har stolte øjne og hovmodigt hjerte,\fham vil jeg ikke tåle.",
       "number": 5
     },
     {
-      "text": "Mine øjne skal hvile på de trofaste i landetfor at de skal bo hos mig.Den som vandrer ad fuldkommen vej,han skal tjene mig.",
+      "text": "\fMine øjne skal hvile på de trofaste i landet\ffor at de skal bo hos mig.\fDen som vandrer ad fuldkommen vej,\fhan skal tjene mig.",
       "number": 6
     },
     {
-      "text": "I mit hus skal ingen bosom handler bedragerisk.Den som taler løgn, skal ikke beståfor mine øjne.",
+      "text": "\fI mit hus skal ingen bo\fsom handler bedragerisk.\fDen som taler løgn, skal ikke bestå\ffor mine øjne.",
       "number": 7
     },
     {
-      "text": "Hver morgen vil jeg udslette{T: Kan også oversættes: >>bringe til tavshed<<, jf. v.5.}alle landets ugudeligefor at udrydde fra JHVHs byalle dem som begår synd.",
+      "text": "\fHver morgen vil jeg udslette\falle landets ugudelige\ffor at udrydde fra JHVHs by\falle dem som begår synd.",
       "number": 8
     }
   ],
@@ -56,31 +70,37 @@
       "text": "nåde",
       "type": "N",
       "verse": 1,
-      "position": 26
+      "position": 28
     },
     {
       "text": "Ordene: >>for øje<< hører i grundteksten til foregående linje.",
       "type": "T",
       "verse": 3,
-      "position": 50
+      "position": 52
     },
     {
       "text": "Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (>>at begå<<) forudsætter: *ʕōśê*: >>dem der begår<<.",
       "type": "E",
       "verse": 3,
-      "position": 71
+      "position": 74
     },
     {
       "text": "Kan også oversættes: >>bringe til tavshed<<.",
       "type": "T",
       "verse": 5,
-      "position": 62
+      "position": 64
     },
     {
       "text": "Ordret: >>bedrag<<.",
       "type": "T",
       "verse": 7,
-      "position": 47
+      "position": 49
+    },
+    {
+      "text": "Kan også oversættes: >>bringe til tavshed<<, jf. v.5.",
+      "type": "T",
+      "verse": 8,
+      "position": 29
     }
   ]
 }

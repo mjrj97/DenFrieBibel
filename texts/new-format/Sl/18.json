@@ -3,209 +3,223 @@
   "abbreviation": "Sl",
   "chapter": 18,
   "version": 1475704800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Af JHVHs tjener. Af David, som talte ordene i denne sang for JHVH den dag hvor JHVH havde reddet ham fra alle hans fjenders hånd og fra Sauls hånd.",
+      "text": "\fTil korlederen. Af JHVHs tjener. Af David, som talte ordene i denne sang for JHVH den dag hvor JHVH havde reddet ham fra alle hans fjenders hånd og fra Sauls hånd.",
       "number": 1
     },
     {
-      "text": "Og han sagde:Jeg elsker dig inderligt, JHVHv, min styrke!",
+      "text": "\fOg han sagde:\fJeg elsker dig inderligt, JHVHv, min styrke!",
       "number": 2
     },
     {
-      "text": "JHVH er mit fjeld, min borg og min befrier,min Gud, min klippe, hvor jeg søger tilflugt,mit skjold og min frelses horn, min fæstning.",
+      "text": "\fJHVH er mit fjeld, min borg og min befrier,\fmin Gud, min klippe, hvor jeg søger tilflugt,\fmit skjold og min frelses horn, min fæstning.",
       "number": 3
     },
     {
-      "text": "Jeg råber til JHVH, den lovpriste,og bliver frelst fra mine fjender.",
+      "text": "\fJeg råber til JHVH, den lovpriste,\fog bliver frelst fra mine fjender.",
       "number": 4
     },
     {
-      "text": "Dødens bånd omspændte mig,og undergangens strømme forfærdede mig.",
+      "text": "\fDødens bånd omspændte mig,\fog undergangens strømme forfærdede mig.",
       "number": 5
     },
     {
-      "text": "Dødsrigets bånd omgav mig,dødens snarer faldt over mig.",
+      "text": "\fDødsrigets bånd omgav mig,\fdødens snarer faldt over mig.",
       "number": 6
     },
     {
-      "text": "Da jeg var i nød, råbte jeg til JHVH,jeg skreg til min Gud om hjælp.Han hørte min røst fra sit tempel,og mit skrig til ham nåede hans ører.",
+      "text": "\fDa jeg var i nød, råbte jeg til JHVH,\fjeg skreg til min Gud om hjælp.\fHan hørte min røst fra sit tempel,\fog mit skrig til ham nåede hans ører.",
       "number": 7
     },
     {
-      "text": "Da bævede og rystede jorden,bjergenes grundvolde skælvede,de rystedes, for han var vred.",
+      "text": "\fDa bævede og rystede jorden,\fbjergenes grundvolde skælvede,\fde rystedes, for han var vred.",
       "number": 8
     },
     {
-      "text": "Røg steg op af hans næse,fortærende ild af hans mund,kul flammede op fra ham.",
+      "text": "\fRøg steg op af hans næse,\ffortærende ild af hans mund,\fkul flammede op fra ham.",
       "number": 9
     },
     {
-      "text": "Han sænkede himlen og steg ned,der var mørke skyer under hans fødder.",
+      "text": "\fHan sænkede himlen og steg ned,\fder var mørke skyer under hans fødder.",
       "number": 10
     },
     {
-      "text": "Han red på en kerub og fløj,og han svævede på vindens vinger.",
+      "text": "\fHan red på en kerub og fløj,\fog han svævede på vindens vinger.",
       "number": 11
     },
     {
-      "text": "Han gjorde mørke til sit skjul omkring sig,mørke vande og tykke skyer gjorde han til sin hytte.",
+      "text": "\fHan gjorde mørke til sit skjul omkring sig,\fmørke vande og tykke skyer gjorde han til sin hytte.",
       "number": 12
     },
     {
-      "text": "Fra glansen foran ham fór hans skyer af sted,hagl og glødende kul.",
+      "text": "\fFra glansen foran ham fór hans skyer af sted,\fhagl og glødende kul.",
       "number": 13
     },
     {
-      "text": "JHVH tordnede i himlen,den Højeste lod sin røst høre,hagl og glødende kul.",
+      "text": "\fJHVH tordnede i himlen,\fden Højeste lod sin røst høre,\fhagl og glødende kul.",
       "number": 14
     },
     {
-      "text": "Han skød sine pile ud og spredte dem,med mange lyn forfærdede han dem.",
+      "text": "\fHan skød sine pile ud og spredte dem,\fmed mange lyn forfærdede han dem.",
       "number": 15
     },
     {
-      "text": "Havets bund kom til syne,jordens grundvolde blottedesved din trussel, JHVHv!ved din vredes ånde.",
+      "text": "\fHavets bund kom til syne,\fjordens grundvolde blottedes\fved din trussel, JHVHv!\fved din vredes ånde.",
       "number": 16
     },
     {
-      "text": "Han rakte ud fra det høje, han greb mig,han trak mig op af de store vande.",
+      "text": "\fHan rakte ud fra det høje, han greb mig,\fhan trak mig op af de store vande.",
       "number": 17
     },
     {
-      "text": "Han friede mig fra min stærke fjendeog fra dem der hader mig, for de var mig for stærke.",
+      "text": "\fHan friede mig fra min stærke fjende\fog fra dem der hader mig, for de var mig for stærke.",
       "number": 18
     },
     {
-      "text": "De overfaldt mig på min ulykkes dag,men JHVH var min støtte.",
+      "text": "\fDe overfaldt mig på min ulykkes dag,\fmen JHVH var min støtte.",
       "number": 19
     },
     {
-      "text": "Han førte mig ud i det åbne land,han frelste mig, for han holder af mig.",
+      "text": "\fHan førte mig ud i det åbne land,\fhan frelste mig, for han holder af mig.",
       "number": 20
     },
     {
-      "text": "JHVH belønnede mig efter min retfærdighed,han gengældte mig efter mine hænders renhed.",
+      "text": "\fJHVH belønnede mig efter min retfærdighed,\fhan gengældte mig efter mine hænders renhed.",
       "number": 21
     },
     {
-      "text": "For jeg har nøje fulgt JHVHs veje,og jeg er ikke ved synd faldet fra min Gud.",
+      "text": "\fFor jeg har nøje fulgt JHVHs veje,\fog jeg er ikke ved synd faldet fra min Gud.",
       "number": 22
     },
     {
-      "text": "For alle hans domme har jeg foran mig,og hans anordninger har jeg ikke ladet vige fra mig.",
+      "text": "\fFor alle hans domme har jeg foran mig,\fog hans anordninger har jeg ikke ladet vige fra mig.",
       "number": 23
     },
     {
-      "text": "Jeg var retsindig for ham,og jeg vogtede mig for min synd.",
+      "text": "\fJeg var retsindig for ham,\fog jeg vogtede mig for min synd.",
       "number": 24
     },
     {
-      "text": "JHVH gengældte mig efter min retfærdighed,efter mine hænders renhed for hans øjne.",
+      "text": "\fJHVH gengældte mig efter min retfærdighed,\fefter mine hænders renhed for hans øjne.",
       "number": 25
     },
     {
-      "text": "Mod den trofaste viser du dig trofast,mod den retsindige mand viser du dig retsindig,",
+      "text": "\fMod den trofaste viser du dig trofast,\fmod den retsindige mand viser du dig retsindig,",
       "number": 26
     },
     {
-      "text": "mod den rene viser du dig ren,men mod den falske forstiller du dig.",
+      "text": "\fmod den rene viser du dig ren,\fmen mod den falske forstiller du dig.",
       "number": 27
     },
     {
-      "text": "For du frelser et elendigt folk,men du ydmyger de stolte øjne.",
+      "text": "\fFor du frelser et elendigt folk,\fmen du ydmyger de stolte øjne.",
       "number": 28
     },
     {
-      "text": "Ja, du bringer min lampe til at lyse,JHVH, min Gud, oplyser mit mørke.",
+      "text": "\fJa, du bringer min lampe til at lyse,\fJHVH, min Gud, oplyser mit mørke.",
       "number": 29
     },
     {
-      "text": "For ved din hjælp stormer jeg imod en skare,og ved min Guds hjælp springer jeg over en mur.",
+      "text": "\fFor ved din hjælp stormer jeg imod en skare,\fog ved min Guds hjælp springer jeg over en mur.",
       "number": 30
     },
     {
-      "text": "Guds vej er fuldkommen,JHVHs tale er lutret,han er skjold for alle, som søger tilflugt hos ham.",
+      "text": "\fGuds vej er fuldkommen,\fJHVHs tale er lutret,\fhan er skjold for alle, som søger tilflugt hos ham.",
       "number": 31
     },
     {
-      "text": "Ja, hvem er Gud, hvis ikke JHVH?Og hvem er en klippe, undtagen vor Gud?",
+      "text": "\fJa, hvem er Gud, hvis ikke JHVH?\fOg hvem er en klippe, undtagen vor Gud?",
       "number": 32
     },
     {
-      "text": "Den Gud som ruster mig med styrkeog gør min vej fuldkommen.",
+      "text": "\fDen Gud som ruster mig med styrke\fog gør min vej fuldkommen.",
       "number": 33
     },
     {
-      "text": "Han gør mine fødder som hindernesog stiller mig op på mine høje.",
+      "text": "\fHan gør mine fødder som hindernes\fog stiller mig op på mine høje.",
       "number": 34
     },
     {
-      "text": "Han træner mine hænder til krigen,og mine arme til at spænde kobberbuen.",
+      "text": "\fHan træner mine hænder til krigen,\fog mine arme til at spænde kobberbuen.",
       "number": 35
     },
     {
-      "text": "Du giver mig din frelse som skjold,og din højre hånd støtter mig,og din ydmyghed gør mig stor.",
+      "text": "\fDu giver mig din frelse som skjold,\fog din højre hånd støtter mig,\fog din ydmyghed gør mig stor.",
       "number": 36
     },
     {
-      "text": "Du skaffer plads under mig for mine skridt,og mine ankler vaklede ikke.",
+      "text": "\fDu skaffer plads under mig for mine skridt,\fog mine ankler vaklede ikke.",
       "number": 37
     },
     {
-      "text": "Jeg forfølger mine fjender og når dem,og jeg vender ikke tilbage før jeg har udryddet dem.",
+      "text": "\fJeg forfølger mine fjender og når dem,\fog jeg vender ikke tilbage før jeg har udryddet dem.",
       "number": 38
     },
     {
-      "text": "Jeg knuser dem så de ikke kan stå op,de falder under mine fødder.",
+      "text": "\fJeg knuser dem så de ikke kan stå op,\fde falder under mine fødder.",
       "number": 39
     },
     {
-      "text": "Du ruster mig med styrke til krigen,du bøjer dem som rejste sig mod mig, under mig.",
+      "text": "\fDu ruster mig med styrke til krigen,\fdu bøjer dem som rejste sig mod mig, under mig.",
       "number": 40
     },
     {
-      "text": "Og mine fjender – du gav mig deres nakke,dem der hadede mig, udryddede jeg.",
+      "text": "\fOg mine fjender – du gav mig deres nakke,\fdem der hadede mig, udryddede jeg.",
       "number": 41
     },
     {
-      "text": "De råber om hjælp, men der er ingen frelser,de råbte til Herren, men han svarede dem ikke.",
+      "text": "\fDe råber om hjælp, men der er ingen frelser,\fde råbte til Herren, men han svarede dem ikke.",
       "number": 42
     },
     {
-      "text": "Jeg knuser dem som støv for vinden,som gadeskarn kaster jeg dem bort.",
+      "text": "\fJeg knuser dem som støv for vinden,\fsom gadeskarn kaster jeg dem bort.",
       "number": 43
     },
     {
-      "text": "Du udfrier mig fra folkenes strid,du gør mig til folkeslags hoved,et folk som jeg ikke kendte, skal tjene mig.",
+      "text": "\fDu udfrier mig fra folkenes strid,\fdu gør mig til folkeslags hoved,\fet folk som jeg ikke kendte, skal tjene mig.",
       "number": 44
     },
     {
-      "text": "Når de hører om mig, skal de adlyde mig,fremmede børn skal krybe for mig.",
+      "text": "\fNår de hører om mig, skal de adlyde mig,\ffremmede børn skal krybe for mig.",
       "number": 45
     },
     {
-      "text": "Fremmede børn synker udmattede sammen,de kommer skælvende frem fra deres borge.",
+      "text": "\fFremmede børn synker udmattede sammen,\fde kommer skælvende frem fra deres borge.",
       "number": 46
     },
     {
-      "text": "JHVH lever! Velsignet er min klippeog højt ophøjet min frelses Gud!",
+      "text": "\fJHVH lever! Velsignet er min klippe\fog højt ophøjet min frelses Gud!",
       "number": 47
     },
     {
-      "text": "Han er den Gud som giver mig hævnog lægger folk under mig.",
+      "text": "\fHan er den Gud som giver mig hævn\fog lægger folk under mig.",
       "number": 48
     },
     {
-      "text": "Du er den som udfrier mig fra mine fjender,du ophøjer mig over mine stolte modstandere,du redder mig fra voldsmanden.",
+      "text": "\fDu er den som udfrier mig fra mine fjender,\fdu ophøjer mig over mine stolte modstandere,\fdu redder mig fra voldsmanden.",
       "number": 49
     },
     {
-      "text": "Derfor vil jeg prise dig blandt folkeslagene, JHVHv!dit navn vil jeg lovsynge.",
+      "text": "\fDerfor vil jeg prise dig blandt folkeslagene, JHVHv!\fdit navn vil jeg lovsynge.",
       "number": 50
     },
     {
-      "text": "Stor hjælp giver han sin kongeog viser nåde{N: nåde} mod sin salvede,mod David og mod hans sæd til evig tid.",
+      "text": "\fStor hjælp giver han sin konge\fog viser nåde mod sin salvede,\fmod David og mod hans sæd til evig tid.",
       "number": 51
     }
   ],
@@ -244,102 +258,108 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Salmen står også – med ubetydelige afvigelser – i 2 Sam 22.",
       "type": "E",
       "verse": 1,
-      "position": 163
+      "position": 164
     },
     {
       "text": "Tidligere ofte oversat >>Belials<<, hvor >>Belial<< blev opfattet som synonym for Satan.",
       "type": "E",
       "verse": 5,
-      "position": 41
+      "position": 43
     },
     {
       "text": "Imperfektiv skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perfektiv",
       "type": "E",
       "verse": 7,
-      "position": 23
+      "position": 24
     },
     {
       "text": "Ordret: >>det brændte for ham<<.",
       "type": "T",
       "verse": 8,
-      "position": 88
+      "position": 91
     },
     {
       "text": "Kan også oversættes: >>udstrakte<<.",
       "type": "T",
       "verse": 10,
-      "position": 11
+      "position": 12
     },
     {
       "text": "Verset er sprogligt knudret. Masoreterne har delt verset, så >>sin hytte<< hører til første halvvers (>>til sin hytte omkring sig<<), men man vælger oftest at se bort fra deres accent her. Ordene >>gjorde han<< står kun i første halvvers, men er for forståelsens skyld gentaget her.",
       "type": "E",
       "verse": 12,
-      "position": 95
+      "position": 97
     },
     {
       "text": "I stedet for *ʕāvᵊrû* (>>fór af sted<<) har 2 Sam 22,13 *bāʕᵃrû*: >>brændte<<.",
       "type": "T",
       "verse": 13,
-      "position": 45
+      "position": 46
     },
     {
       "text": "Fjenderne, sprogligt kan det dog også være pilene.",
       "type": "T",
       "verse": 15,
-      "position": 37
+      "position": 38
     },
     {
       "text": "Ordret: >>vandenes<< (*mayim*), men man vælger oftest med 2 Sam 22,16 at læse *yām*: >>havets<<.",
       "type": "T",
       "verse": 16,
-      "position": 6
+      "position": 7
     },
     {
       "text": "Mange retter her *gᵊdûd*: >>(hær)skare<< til *gāder*: >>mur, vold<<, især ud fra parallellen i næste linje.",
       "type": "E",
       "verse": 30,
-      "position": 44
+      "position": 45
     },
     {
       "text": "Ordet *ʕᵃnāwāʰ* (>>ydmyghed<<) er usædvanligt i sammenhængen, men dog muligt. Sætningen understreger at kongens sejr ikke skyldes hans storhed, men at Gud har bøjet sig ned til ham. Blandt rettelsesforslagene skal især nævnes: *ʕᵃnôtxā*: >>dit svar<< og *ʕezrātᵉxā*: >>din hjælp<<.",
       "type": "E",
       "verse": 36,
-      "position": 80
+      "position": 83
     },
     {
       "text": "Meningen er enten: >>Du lod mig se deres ryg (fordi de flygtede)<<, eller måske snarere: >>du lod mig som sejrherre sætte min fod på deres nakke<<.",
       "type": "E",
       "verse": 41,
-      "position": 41
+      "position": 42
     },
     {
       "text": ">>de råbte<< er underforstået fra forrige linje. Det står ikke her i grundteksten.",
       "type": "T",
       "verse": 42,
-      "position": 52
+      "position": 54
     },
     {
       "text": "Undertiden oversat >>hedningers<<, men det er næppe meningen her.",
       "type": "T",
       "verse": 44,
-      "position": 59
+      "position": 61
     },
     {
       "text": "Ordret: >>Ved ørets høren<<.",
       "type": "T",
       "verse": 45,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Kan også oversættes: >>blandt hedninger<<, men det er næppe meningen her.",
       "type": "T",
       "verse": 50,
+      "position": 46
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 51,
       "position": 45
     }
   ]

@@ -3,9 +3,23 @@
   "abbreviation": "5Mos",
   "chapter": 6,
   "version": 1646953200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Hør, Israel! HERREN vor Gud, HERREN er én.",
+      "text": "\fHør, Israel! HERREN vor Gud, HERREN er én.",
       "number": 4
     },
     {
@@ -13,7 +27,7 @@
       "number": 5
     },
     {
-      "text": "Disse ord, som jeg byder dig i dag, skal være i dit hjerte.",
+      "text": "\fDisse ord, som jeg byder dig i dag, skal være i dit hjerte.",
       "number": 6
     },
     {
@@ -25,10 +39,17 @@
       "number": 8
     },
     {
-      "text": "Du skal skrive dem på dørstolperne{T: På hebraisk: *mᵊzûzāʰ*, der også er blevet navnet på den lille kapsel der sættes på dørstolpen, indeholdende et pergamentstykke med 5 Mos 6,4-9; 11,13-21.} til dit hus og på dine porte.",
+      "text": "Du skal skrive dem på dørstolperne til dit hus og på dine porte.",
       "number": 9
     }
   ],
   "titles": [],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "På hebraisk: *mᵊzûzāʰ*, der også er blevet navnet på den lille kapsel der sættes på dørstolpen, indeholdende et pergamentstykke med 5 Mos 6,4-9; 11,13-21.",
+      "type": "T",
+      "verse": 9,
+      "position": 34
+    }
+  ]
 }

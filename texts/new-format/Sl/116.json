@@ -3,81 +3,95 @@
   "abbreviation": "Sl",
   "chapter": 116,
   "version": 1499983200000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Jeg elsker at JHVH har hørtmin tryglende røst.",
+      "text": "\fJeg elsker at JHVH har hørt\fmin tryglende røst.",
       "number": 1
     },
     {
-      "text": "For han har bøjet sit øre til mig,og i mine dage vil jeg udråbe:",
+      "text": "\fFor han har bøjet sit øre til mig,\fog i mine dage vil jeg udråbe:",
       "number": 2
     },
     {
-      "text": ">>Dødens reb omgav mig,og dødsrigets trængsler havde fundet mig,jeg fandt nød og plage.",
+      "text": "\f>>Dødens reb omgav mig,\fog dødsrigets trængsler havde fundet mig,\fjeg fandt nød og plage.",
       "number": 3
     },
     {
-      "text": "Da påkaldte jeg JHVHs navn:>>Ak, JHVHv, red mit liv!<<",
+      "text": "\fDa påkaldte jeg JHVHs navn:\f>>Ak, JHVHv, red mit liv!<<",
       "number": 4
     },
     {
-      "text": "JHVH er nådig og retfærdig,og vor Gud forbarmer sig.",
+      "text": "\fJHVH er nådig og retfærdig,\fog vor Gud forbarmer sig.",
       "number": 5
     },
     {
-      "text": "JHVH beskytter enfoldige,jeg var ringe, men han hjalp mig.<<",
+      "text": "\fJHVH beskytter enfoldige,\fjeg var ringe, men han hjalp mig.<<",
       "number": 6
     },
     {
-      "text": "Min sjæl, kom tilbage til din ro,for JHVH har handlet vel imod dig.",
+      "text": "\fMin sjæl, kom tilbage til din ro,\ffor JHVH har handlet vel imod dig.",
       "number": 7
     },
     {
-      "text": "Ja, du har reddet mit liv fra døden,mit øje fra tåre,min fod fra fald.",
+      "text": "\fJa, du har reddet mit liv fra døden,\fmit øje fra tåre,\fmin fod fra fald.",
       "number": 8
     },
     {
-      "text": "Jeg kan vandre for JHVHs ansigti de levendes lande.",
+      "text": "\fJeg kan vandre for JHVHs ansigt\fi de levendes lande.",
       "number": 9
     },
     {
-      "text": "Jeg har troet, derfor kan jeg sige:>>Jeg var hårdt plaget.<<",
+      "text": "\fJeg har troet, derfor kan jeg sige:\f>>Jeg var hårdt plaget.<<",
       "number": 10
     },
     {
-      "text": "Jeg sagde i min angst:>>Hele menneskeheden er løgnere.<<",
+      "text": "\fJeg sagde i min angst:\f>>Hele menneskeheden er løgnere.<<",
       "number": 11
     },
     {
-      "text": "Hvordan skal jeg gengælde JHVHalle hans velgerninger mod mig?",
+      "text": "\fHvordan skal jeg gengælde JHVH\falle hans velgerninger mod mig?",
       "number": 12
     },
     {
-      "text": "Frelsens bæger vil jeg løfteog påkalde JHVHs navn.",
+      "text": "\fFrelsens bæger vil jeg løfte\fog påkalde JHVHs navn.",
       "number": 13
     },
     {
-      "text": "Jeg vil indfri mine løfter til JHVH,og det foran hele hans folk.",
+      "text": "\fJeg vil indfri mine løfter til JHVH,\fog det foran hele hans folk.",
       "number": 14
     },
     {
-      "text": "Kostbar i JHVHs øjneer hans frommes død.",
+      "text": "\fKostbar i JHVHs øjne\fer hans frommes død.",
       "number": 15
     },
     {
-      "text": "Ak, JHVHv, jeg er jo din træl,jeg er din træl, din trælkvindes søn,du har løst mine lænker.",
+      "text": "\fAk, JHVHv, jeg er jo din træl,\fjeg er din træl, din trælkvindes søn,\fdu har løst mine lænker.",
       "number": 16
     },
     {
-      "text": "Til dig vil jeg ofre slagtoffer som takofferog påkalde JHVHs navn.",
+      "text": "\fTil dig vil jeg ofre slagtoffer som takoffer\fog påkalde JHVHs navn.",
       "number": 17
     },
     {
-      "text": "Jeg vil indfri mine løfter til JHVH,og det foran hele hans folk,",
+      "text": "\fJeg vil indfri mine løfter til JHVH,\fog det foran hele hans folk,",
       "number": 18
     },
     {
-      "text": "i forgårdene til JHVHs hus,i din midte, Jerusalem!Halleluja!{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 117.}",
+      "text": "\fi forgårdene til JHVHs hus,\fi din midte, Jerusalem!\fHalleluja!",
       "number": 19
     }
   ],
@@ -96,49 +110,55 @@
       "text": "Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for JHVH har hørt<<, men verbet >>elske<< kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>JHVH<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker JHVH, for han har hørt min tryglende røst<<.",
       "type": "E",
       "verse": 1,
-      "position": 10
+      "position": 11
     },
     {
       "text": "Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(JHVH) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.",
       "type": "E",
       "verse": 1,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Ordret: >>min tryglens røst<<.",
       "type": "T",
       "verse": 1,
-      "position": 46
+      "position": 48
     },
     {
       "text": "Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil >>råbe<< i betydningen påkalde JHVH. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (>>og i mine dage<<) til: *bᵊyôm*: >>den dag da<< = >>da<<; man oversætter også yiqtol: *ʔeqrāˀ* (>>jeg vil råbe/udråbe<<) ved fortid: >>(da) jeg råbte<<.",
       "type": "E",
       "verse": 2,
-      "position": 64
+      "position": 66
     },
     {
       "text": "Her og i v.4 og v.6 oversættes yiqtol normalt ved fortid idet verberne angiver en følge af det forgående.",
       "type": "E",
       "verse": 3,
-      "position": 73
+      "position": 76
     },
     {
       "text": "Ordret: >>min sjæl<<.",
       "type": "T",
       "verse": 4,
-      "position": 54
+      "position": 56
     },
     {
       "text": "Ordret: >>min sjæl<<.",
       "type": "T",
       "verse": 8,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Oversættes nu ofte: >>liv<<, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes >>liv<< (jf. v. 8). Men grundteksten har: *māwet*: >>død<<.",
       "type": "T",
       "verse": 15,
-      "position": 40
+      "position": 42
+    },
+    {
+      "text": "Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 117.",
+      "type": "T",
+      "verse": 19,
+      "position": 63
     }
   ]
 }

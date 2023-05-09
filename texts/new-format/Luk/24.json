@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 24,
   "version": 1617141600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Claus Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Samme dag vandrede to af dem til en landsby som lå 60 stadier fra Jerusalem; den hed Emmaus.",
+      "text": "\fSamme dag vandrede to af dem til en landsby som lå 60 stadier fra Jerusalem; den hed Emmaus.",
       "number": 13
     },
     {
@@ -93,7 +107,7 @@
       "number": 34
     },
     {
-      "text": "Og de fortalte hvad der var sket på vejen, og hvordan de genkendte ham{T: Ordret: >>hvordan han blev kendt for dem<<.} da han brød brødet.",
+      "text": "Og de fortalte hvad der var sket på vejen, og hvordan de genkendte ham da han brød brødet.",
       "number": 35
     }
   ],
@@ -109,6 +123,12 @@
       "type": "T",
       "verse": 30,
       "position": 20
+    },
+    {
+      "text": "Ordret: >>hvordan han blev kendt for dem<<.",
+      "type": "T",
+      "verse": 35,
+      "position": 70
     }
   ]
 }

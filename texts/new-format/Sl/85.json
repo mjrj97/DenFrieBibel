@@ -3,61 +3,75 @@
   "abbreviation": "Sl",
   "chapter": 85,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen.Af Koras sønner. En salme.",
+      "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
       "number": 1
     },
     {
-      "text": "Du har haft lyst, JHVHv, til dit land,du vendte Jakobs situation.",
+      "text": "\fDu har haft lyst, JHVHv, til dit land,\fdu vendte Jakobs situation.",
       "number": 2
     },
     {
-      "text": "Du borttog dit folks skyld,du skjulte al deres synd. Sela",
+      "text": "\fDu borttog dit folks skyld,\fdu skjulte al deres synd. Sela",
       "number": 3
     },
     {
-      "text": "Du holdt al din vrede tilbage,du vendte om fra din vredes glød.",
+      "text": "\fDu holdt al din vrede tilbage,\fdu vendte om fra din vredes glød.",
       "number": 4
     },
     {
-      "text": "Genrejs os, vor frelses Gud,og opgiv din vrede mod os.",
+      "text": "\fGenrejs os, vor frelses Gud,\fog opgiv din vrede mod os.",
       "number": 5
     },
     {
-      "text": "Vil du være vred på os for evigt?Vil du udstrække din vrede til slægt efter slægt?",
+      "text": "\fVil du være vred på os for evigt?\fVil du udstrække din vrede til slægt efter slægt?",
       "number": 6
     },
     {
-      "text": "Vil du ikke gøre os levende igen,så dit folk kan glæde sig i dig?",
+      "text": "\fVil du ikke gøre os levende igen,\fså dit folk kan glæde sig i dig?",
       "number": 7
     },
     {
-      "text": "JHVHv, lad os se din nåde,og giv os din frelse!",
+      "text": "\fJHVHv, lad os se din nåde,\fog giv os din frelse!",
       "number": 8
     },
     {
-      "text": "Jeg vil høre, hvad Gud taler,JHVH taler jo fredtil sit folk og til sine fromme,så de ikke vender tilbage til tåbelighed.",
+      "text": "\fJeg vil høre, hvad Gud taler,\fJHVH taler jo fred\ftil sit folk og til sine fromme,\fså de ikke vender tilbage til tåbelighed.",
       "number": 9
     },
     {
-      "text": "Ja, hans frelse er nær hos dem som frygter ham,så herlighed kan bo i vort land.",
+      "text": "\fJa, hans frelse er nær hos dem som frygter ham,\fså herlighed kan bo i vort land.",
       "number": 10
     },
     {
-      "text": "Nåde og sandhed har mødt hinanden,retfærdighed og fred har kysset.",
+      "text": "\fNåde og sandhed har mødt hinanden,\fretfærdighed og fred har kysset.",
       "number": 11
     },
     {
-      "text": "Sandhed skal spire frem af jorden,og retfærdighed skal se ned fra himlen.",
+      "text": "\fSandhed skal spire frem af jorden,\fog retfærdighed skal se ned fra himlen.",
       "number": 12
     },
     {
-      "text": "JHVH vil også give det som er godt,og vort land vil give sin afgrøde.",
+      "text": "\fJHVH vil også give det som er godt,\fog vort land vil give sin afgrøde.",
       "number": 13
     },
     {
-      "text": "Retfærdighed skal gå foran ham{T: Ordret: >>foran hans ansigt<<.}og fred i hans skridts spor!{E: Den masoretiske tekst ordret: >>og han/den gør sine skridt til en vej/til et spor<<. Det er foreslået at oversætte: >>og den bereder vej for hans skridt<<, med >>retfærdighed<< som subjekt. Sådan som præpositionen *lᵊ* (>>på/for<<) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (>>og han sætter<<) til: *wᵊšālôm*: >>og fred<< eller: *wᵊyēšaʕ*: >>og frelse<<.}",
+      "text": "\fRetfærdighed skal gå foran ham\fog fred i hans skridts spor!",
       "number": 14
     }
   ],
@@ -84,31 +98,43 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: >>vending<<, der i forbindelse med verbum af samme rod (*šwb*) betyder>>vende ens situation/lod<<. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: >>fangenskab<<.",
       "type": "E",
       "verse": 2,
-      "position": 65
+      "position": 67
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 3,
-      "position": 57
+      "position": 59
     },
     {
       "text": "Ordret blot: >>vend os<<. Meningen må enten være: >>genrejs os<<, eller: >>bring os tilbage<<, eller måske: >>vend tilbage til os<<. Andre foreslår at rette: *šûvēnû* (>>vend os<<) til: *šûv nāˀ*: >>vend dog tilbage<<.",
       "type": "E",
       "verse": 5,
-      "position": 11
+      "position": 12
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 11,
-      "position": 4
+      "position": 5
+    },
+    {
+      "text": "Ordret: >>foran hans ansigt<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 31
+    },
+    {
+      "text": "Den masoretiske tekst ordret: >>og han/den gør sine skridt til en vej/til et spor<<. Det er foreslået at oversætte: >>og den bereder vej for hans skridt<<, med >>retfærdighed<< som subjekt. Sådan som præpositionen *lᵊ* (>>på/for<<) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (>>og han sætter<<) til: *wᵊšālôm*: >>og fred<< eller: *wᵊyēšaʕ*: >>og frelse<<.",
+      "type": "E",
+      "verse": 14,
+      "position": 60
     }
   ]
 }

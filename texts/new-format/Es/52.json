@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 52,
   "version": 1639004400000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Vågn op, vågn op, klæd dig i din styrke, Zion! Tag din herligheds klæder på, Jerusalem, du hellige by! For ingen uomskåren eller uren skal mere komme ind i dig.",
+      "text": "\fVågn op, vågn op, klæd dig i din styrke, Zion! Tag din herligheds klæder på, Jerusalem, du hellige by! For ingen uomskåren eller uren skal mere komme ind i dig.",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Hvor herlige er fødderne på bjergene af en der kommer med er et glædeligt budskab, der forkynder fred, der kommer med glædesbudskab om noget godt, der forkynder frelse, der siger til Zion: >>Din Gud er konge!<<",
+      "text": "\fHvor herlige er fødderne på bjergene af en der kommer med er et glædeligt budskab, der forkynder fred, der kommer med glædesbudskab om noget godt, der forkynder frelse, der siger til Zion: >>Din Gud er konge!<<",
       "number": 7
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Afsted, afsted! Gå bort fra den, rør ikke ved noget urent; gå væk fra dens midte, rens jer, I, der bærer JHVHs kar!",
+      "text": "\fAfsted, afsted! Gå bort fra den, rør ikke ved noget urent; gå væk fra dens midte, rens jer, I, der bærer JHVHs kar!",
       "number": 11
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "sådan skal han rense{T: Ordret: >>bestænke<<. Ofte følger man gamle oversættelser der oversætter: >>sætter i forundring<<.} mange folkeslag,{T: Kan også oversættes: >>hedninger<<} konger skal holde deres mund lukket for ham; for det der ikke var fortalt dem, har de set, og det de ikke havde hørt, har de erfaret.",
+      "text": "sådan skal han rense mange folkeslag, konger skal holde deres mund lukket for ham; for det der ikke var fortalt dem, har de set, og det de ikke havde hørt, har de erfaret.",
       "number": 15
     }
   ],
@@ -88,7 +98,7 @@
       "text": "dvs. ud fra Babylon",
       "type": "T",
       "verse": 11,
-      "position": 81
+      "position": 82
     },
     {
       "text": "Kan også oversættes: >>skal handle klogt<<",
@@ -101,6 +111,18 @@
       "type": "T",
       "verse": 14,
       "position": 38
+    },
+    {
+      "text": "Ordret: >>bestænke<<. Ofte følger man gamle oversættelser der oversætter: >>sætter i forundring<<.",
+      "type": "T",
+      "verse": 15,
+      "position": 20
+    },
+    {
+      "text": "Kan også oversættes: >>hedninger<<",
+      "type": "T",
+      "verse": 15,
+      "position": 37
     }
   ]
 }

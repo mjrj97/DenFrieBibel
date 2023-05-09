@@ -3,9 +3,23 @@
   "abbreviation": "1Mos",
   "chapter": 50,
   "version": 1634680800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da Josefs brødre så at deres far var død, sagde de: >>Hvis nu Josef hader os, så vil han helt sikkert gengælde os for alt det onde vi har gjort mod ham.<<",
+      "text": "\fDa Josefs brødre så at deres far var død, sagde de: >>Hvis nu Josef hader os, så vil han helt sikkert gengælde os for alt det onde vi har gjort mod ham.<<",
       "number": 15
     },
     {
@@ -29,7 +43,7 @@
       "number": 20
     },
     {
-      "text": "Så frygt nu ikke, jeg vil sørge for jer og jeres børn.<< Så trøstede han dem og talte kærligt med dem.{T: Ordret: >>talte til deres hjerte<<.}",
+      "text": "Så frygt nu ikke, jeg vil sørge for jer og jeres børn.<< Så trøstede han dem og talte kærligt med dem.",
       "number": 21
     }
   ],
@@ -40,6 +54,12 @@
       "type": "T",
       "verse": 18,
       "position": 88
+    },
+    {
+      "text": "Ordret: >>talte til deres hjerte<<.",
+      "type": "T",
+      "verse": 21,
+      "position": 102
     }
   ]
 }

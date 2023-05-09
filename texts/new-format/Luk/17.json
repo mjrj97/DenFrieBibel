@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 17,
   "version": 1629842400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "På vej til Jerusalem rejste han også mellem Samaria og Galilæa.",
+      "text": "\fPå vej til Jerusalem rejste han også mellem Samaria og Galilæa.",
       "number": 11
     },
     {

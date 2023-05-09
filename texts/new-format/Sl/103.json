@@ -3,93 +3,107 @@
   "abbreviation": "Sl",
   "chapter": 103,
   "version": 1499983200000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Af David.Min sjæl, pris JHVH,og hele mit indre skal prise hans hellige navn!",
+      "text": "\fAf David.\fMin sjæl, pris JHVH,\fog hele mit indre skal prise hans hellige navn!",
       "number": 1
     },
     {
-      "text": "Min sjæl, pris JHVH,og glem ikke alle hans velgerninger,",
+      "text": "\fMin sjæl, pris JHVH,\fog glem ikke alle hans velgerninger,",
       "number": 2
     },
     {
-      "text": "ham som tilgiver dig al din skyld,ham som helbreder alle dine sygdomme,",
+      "text": "\fham som tilgiver dig al din skyld,\fham som helbreder alle dine sygdomme,",
       "number": 3
     },
     {
-      "text": "ham som udløser dit liv fra graven,ham som kroner dig med nåde og barmhjertighed,",
+      "text": "\fham som udløser dit liv fra graven,\fham som kroner dig med nåde og barmhjertighed,",
       "number": 4
     },
     {
-      "text": "ham som mætter dit liv med det gode,så din ungdom bliver ny igen som ørnen.",
+      "text": "\fham som mætter dit liv med det gode,\fså din ungdom bliver ny igen som ørnen.",
       "number": 5
     },
     {
-      "text": "JHVH udøver retfærdighedog ret for alle undertrykte.",
+      "text": "\fJHVH udøver retfærdighed\fog ret for alle undertrykte.",
       "number": 6
     },
     {
-      "text": "Han kundgjorde Moses sine vejeog Israels børn sine gerninger.",
+      "text": "\fHan kundgjorde Moses sine veje\fog Israels børn sine gerninger.",
       "number": 7
     },
     {
-      "text": "JHVH er barmhjertig og nådig,sen til vrede og rig på nåde",
+      "text": "\fJHVH er barmhjertig og nådig,\fsen til vrede og rig på nåde",
       "number": 8
     },
     {
-      "text": "Han vil ikke gå i rette for evigtog ikke vredes for altid.",
+      "text": "\fHan vil ikke gå i rette for evigt\fog ikke vredes for altid.",
       "number": 9
     },
     {
-      "text": "Han har ikke handlet mod os efter vore synderog ikke lønnet os efter vor skyld.",
+      "text": "\fHan har ikke handlet mod os efter vore synder\fog ikke lønnet os efter vor skyld.",
       "number": 10
     },
     {
-      "text": "For så høj som himlen er over jorden,så mægtig har hans nåde været over dem som frygter ham.",
+      "text": "\fFor så høj som himlen er over jorden,\fså mægtig har hans nåde været over dem som frygter ham.",
       "number": 11
     },
     {
-      "text": "Så langt som øst er fra vest,har han fjernet vore overtrædelser fra os.",
+      "text": "\fSå langt som øst er fra vest,\fhar han fjernet vore overtrædelser fra os.",
       "number": 12
     },
     {
-      "text": "Som en far forbarmer sig over sine børn,har JHVH forbarmet sig over dem som frygter ham.",
+      "text": "\fSom en far forbarmer sig over sine børn,\fhar JHVH forbarmet sig over dem som frygter ham.",
       "number": 13
     },
     {
-      "text": "For han ved at vi er skabt,han husker på at vi er støv.",
+      "text": "\fFor han ved at vi er skabt,\fhan husker på at vi er støv.",
       "number": 14
     },
     {
-      "text": "Et menneske – som græs er dets dage,som markens blomst blomstrer det.",
+      "text": "\fEt menneske – som græs er dets dage,\fsom markens blomst blomstrer det.",
       "number": 15
     },
     {
-      "text": "Når en vind farer over det, er det ikke mere,og dets sted kender det ikke længere.",
+      "text": "\fNår en vind farer over det, er det ikke mere,\fog dets sted kender det ikke længere.",
       "number": 16
     },
     {
-      "text": "Men JHVHs nåde er fra evighed og til evighed over dem som frygter ham,og hans retfærdighed er med børns børn,",
+      "text": "\fMen JHVHs nåde er fra evighed og til evighed over dem som frygter ham,\fog hans retfærdighed er med børns børn,",
       "number": 17
     },
     {
-      "text": "med dem som holder hans pagt,og med dem som husker hans befalinger for at gøre derefter.",
+      "text": "\fmed dem som holder hans pagt,\fog med dem som husker hans befalinger for at gøre derefter.",
       "number": 18
     },
     {
-      "text": "JHVH har rejst sin trone i himlen,og hans kongerige behersker Altet.",
+      "text": "\fJHVH har rejst sin trone i himlen,\fog hans kongerige behersker Altet.",
       "number": 19
     },
     {
-      "text": "Pris JHVH, I hans engle,I stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
+      "text": "\fPris JHVH, I hans engle,\fI stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
       "number": 20
     },
     {
-      "text": "Pris JHVH, alle hans hærskarer,I hans tjenere som udfører hans vilje!",
+      "text": "\fPris JHVH, alle hans hærskarer,\fI hans tjenere som udfører hans vilje!",
       "number": 21
     },
     {
-      "text": "Pris JHVH, alle hans værkerpå alle steder i hans kongerige.Min sjæl, pris JHVH!",
+      "text": "\fPris JHVH, alle hans værker\fpå alle steder i hans kongerige.\fMin sjæl, pris JHVH!",
       "number": 22
     }
   ],
@@ -116,85 +130,85 @@
       "text": "Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
       "type": "E",
       "verse": 1,
-      "position": 23
+      "position": 25
     },
     {
       "text": "Ordene: >>skal prise<< er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
       "type": "E",
       "verse": 1,
-      "position": 57
+      "position": 60
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 4,
-      "position": 62
+      "position": 64
     },
     {
       "text": "Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver der byttes om.",
       "type": "E",
       "verse": 5,
-      "position": 22
+      "position": 23
     },
     {
       "text": "Grundtekstens ord kan også betyde: >>gribben<<.",
       "type": "T",
       "verse": 5,
-      "position": 75
+      "position": 77
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 8,
-      "position": 57
+      "position": 59
     },
     {
       "text": "Ordret: >>opgang<<.",
       "type": "T",
       "verse": 12,
-      "position": 16
+      "position": 17
     },
     {
       "text": "Ordret: >>nedgang<<.",
       "type": "T",
       "verse": 12,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Ordret: >>som en fars forbarmen sig<<",
       "type": "T",
       "verse": 13,
-      "position": 24
+      "position": 25
     },
     {
       "text": "Ordret: >>kender vor skabning/skabthed/formethed<<. Det tilsvarende verbum (*yṣr*) betyder: >>forme, modellere<<. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.",
       "type": "T",
       "verse": 14,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.",
       "type": "T",
       "verse": 15,
-      "position": 11
+      "position": 12
     },
     {
       "text": "På hebraisk er både >>menneske, græs<< og >>blomst<< maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da >>menneske<< er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.",
       "type": "E",
       "verse": 16,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
       "type": "E",
       "verse": 20,
-      "position": 4
+      "position": 5
     },
     {
       "text": "Ordret: >>hans ords røst<<.",
       "type": "T",
       "verse": 20,
-      "position": 92
+      "position": 94
     }
   ]
 }

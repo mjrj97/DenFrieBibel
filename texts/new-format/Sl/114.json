@@ -3,37 +3,51 @@
   "abbreviation": "Sl",
   "chapter": 114,
   "version": 1499983200000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Da Israel drog ud af Egypten,Jakobs hus fra et folk, som havde et uforståeligt sprog,",
+      "text": "\fDa Israel drog ud af Egypten,\fJakobs hus fra et folk, som havde et uforståeligt sprog,",
       "number": 1
     },
     {
-      "text": "da blev Juda til hans helligdom,Israel til hans herredømme.",
+      "text": "\fda blev Juda til hans helligdom,\fIsrael til hans herredømme.",
       "number": 2
     },
     {
-      "text": "Havet så og flygtede,Jordan vendte om og løb baglæns,",
+      "text": "\fHavet så og flygtede,\fJordan vendte om og løb baglæns,",
       "number": 3
     },
     {
-      "text": "bjergene sprang som væddere,høje som kid og lam.",
+      "text": "\fbjergene sprang som væddere,\fhøje som kid og lam.",
       "number": 4
     },
     {
-      "text": "Hvad er der med dig, du hav, siden du flygtede,du, Jordan, siden du vendte om og løb baglæns,",
+      "text": "\fHvad er der med dig, du hav, siden du flygtede,\fdu, Jordan, siden du vendte om og løb baglæns,",
       "number": 5
     },
     {
-      "text": "I bjerge, siden I hoppede som væddere,I høje, som kid og lam?",
+      "text": "\fI bjerge, siden I hoppede som væddere,\fI høje, som kid og lam?",
       "number": 6
     },
     {
-      "text": "Skælv, du jord, for Herrens ansigt,for Jakobs Guds ansigt,",
+      "text": "\fSkælv, du jord, for Herrens ansigt,\ffor Jakobs Guds ansigt,",
       "number": 7
     },
     {
-      "text": "ham som forvandler klippen til en vanddam,flint til et kildevæld!",
+      "text": "\fham som forvandler klippen til en vanddam,\fflint til et kildevæld!",
       "number": 8
     }
   ],
@@ -60,13 +74,13 @@
       "text": "Grundtekstens: *mamšlôtāʸw* (>>herredømme<<) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
       "type": "T",
       "verse": 2,
-      "position": 59
+      "position": 61
     },
     {
       "text": "Ordret: >>som småkvægs afkom<<.",
       "type": "T",
       "verse": 4,
-      "position": 48
+      "position": 50
     }
   ]
 }

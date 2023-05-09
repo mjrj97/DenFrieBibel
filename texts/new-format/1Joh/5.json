@@ -3,9 +3,23 @@
   "abbreviation": "1Joh",
   "chapter": 5,
   "version": 1617141600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Enhver som tror at Jesus er Kristus, er født af Gud; og enhver som elsker den der har født ham, elsker også den som er født af ham.",
+      "text": "\fEnhver som tror at Jesus er Kristus, er født af Gud; og enhver som elsker den der har født ham, elsker også den som er født af ham.",
       "number": 1
     },
     {

@@ -27,22 +27,27 @@ const Register = () => {
         }
         else
         {
-            setError({});
-
             const requestOptions = {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ name, email, password })
+                body: JSON.stringify({ name, email, password, confirmPassword })
             };
             fetch('http://localhost:3000/api/auth/register', requestOptions)
-                .then(response => { 
-                    if (response.status === 201) {
-                        router.push("/");
-                    }
-                    
-                    return response.json();
-                })
-                .then(data => setError(data));
+            .then(response => { 
+                if (response.status === 201) {
+                    router.push("/");
+                }
+                
+                return response.json();
+            })
+            .then(data => {
+                if (data.errors.length > 0)
+                    setError(data.errors[0]);
+                else
+                {
+                    setError({});
+                }
+            });
         }
     }
 
@@ -87,7 +92,7 @@ const Register = () => {
                 <ul>
                     <li>Undgå at bruge navne eller ord fra ordbogen</li>
                     <li>Brug ikke dit CPR-, NemID-, eller MitID-nummer</li>
-                    <li>Lav helst en ny adgangskode, som du ikke bruger andre steder</li>
+                    <li>Lav helst en ny adgangskode, som du ikke har brugt på andre hjemmesider</li>
                 </ul>
             </div>
         </>

@@ -3,9 +3,23 @@
   "abbreviation": "Ordsp",
   "chapter": 3,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Hold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
+      "text": "\fHold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
       "number": 27
     },
     {
@@ -21,7 +35,7 @@
       "number": 30
     },
     {
-      "text": "Misund ikke en voldsmand, og vælg ikke nogen af alle hans veje!",
+      "text": "\fMisund ikke en voldsmand, og vælg ikke nogen af alle hans veje!",
       "number": 31
     },
     {
@@ -37,7 +51,7 @@
       "number": 34
     },
     {
-      "text": "De vise skal arve ære, men skam ophøjer tåber.{E: Den hebraiske formulering er omdiskuteret. Ofte oversættes: >>men tåberne ophøjer skam<<, men grundtekstens verbum står i singularis, hvorved >>skam<< må være subjekt.}",
+      "text": "De vise skal arve ære, men skam ophøjer tåber.",
       "number": 35
     }
   ],
@@ -47,19 +61,25 @@
       "text": "Ordret: >>fra dens herre/ejer<<, altså: >>fra dem som den tilkommer<<.",
       "type": "T",
       "verse": 27,
-      "position": 60
+      "position": 61
     },
     {
       "text": "Ordret: >>magt<<.",
       "type": "T",
       "verse": 27,
-      "position": 87
+      "position": 88
     },
     {
       "text": "Den hebraiske konsonanttekst skal oversættes: >>de undertrykte<<, men vokaliseringen forudsætter: >>de ydmyge<<.",
       "type": "E",
       "verse": 34,
       "position": 53
+    },
+    {
+      "text": "Den hebraiske formulering er omdiskuteret. Ofte oversættes: >>men tåberne ophøjer skam<<, men grundtekstens verbum står i singularis, hvorved >>skam<< må være subjekt.",
+      "type": "E",
+      "verse": 35,
+      "position": 46
     }
   ]
 }

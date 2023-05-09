@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 14,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Søg kærligheden, og tragt efter de åndelige gaver, men mest efter at profetere.",
+      "text": "\fSøg kærligheden, og tragt efter de åndelige gaver, men mest efter at profetere.",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Selv de livløse ting, der give lyd, hvad enten det er en fløjte eller en harpe, når de ikke gør forskel imellem tonerne, hvordan skal man så kunne forstå, hvad der spilles på fløjten eller harpen?",
+      "text": "\fSelv de livløse ting, der give lyd, hvad enten det er en fløjte eller en harpe, når de ikke gør forskel imellem tonerne, hvordan skal man så kunne forstå, hvad der spilles på fløjten eller harpen?",
       "number": 7
     },
     {
@@ -81,7 +95,7 @@
       "number": 19
     },
     {
-      "text": "Brødre, bliv ikke børn i forstand, men vær småbørn i ondskab, i forstand derimod skal I blive fuldvoksne!",
+      "text": "\fBrødre, bliv ikke børn i forstand, men vær småbørn i ondskab, i forstand derimod skal I blive fuldvoksne!",
       "number": 20
     },
     {
@@ -105,7 +119,7 @@
       "number": 25
     },
     {
-      "text": "Hvad så, brødre? Når I kommer sammen, har hver især en lovsang, en belæring, en åbenbaring, en tungetale, en udlægning; lad alt ske til opbyggelse!",
+      "text": "\fHvad så, brødre? Når I kommer sammen, har hver især en lovsang, en belæring, en åbenbaring, en tungetale, en udlægning; lad alt ske til opbyggelse!",
       "number": 26
     },
     {
@@ -149,7 +163,7 @@
       "number": 36
     },
     {
-      "text": "Hvis nogen synes, at han er en profet eller åndelig, skal han erkende, at det er Herrens bud, hvad jeg skriver til jer.",
+      "text": "\fHvis nogen synes, at han er en profet eller åndelig, skal han erkende, at det er Herrens bud, hvad jeg skriver til jer.",
       "number": 37
     },
     {

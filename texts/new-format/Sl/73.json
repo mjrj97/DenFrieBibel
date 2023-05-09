@@ -3,117 +3,131 @@
   "abbreviation": "Sl",
   "chapter": 73,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Salme af Asaf.Sandelig, god er Gud mod Israel,mod de rene af hjertet.",
+      "text": "\fSalme af Asaf.\fSandelig, god er Gud mod Israel,\fmod de rene af hjertet.",
       "number": 1
     },
     {
-      "text": "Men jeg - mine fødder var nær snublet,mine skridt var lige ved at glide ud.",
+      "text": "\fMen jeg - mine fødder var nær snublet,\fmine skridt var lige ved at glide ud.",
       "number": 2
     },
     {
-      "text": "For jeg blev misundelig på de overmodige,jeg må se de ugudeliges fred.",
+      "text": "\fFor jeg blev misundelig på de overmodige,\fjeg må se de ugudeliges fred.",
       "number": 3
     },
     {
-      "text": "For de har ingen kvaler ved deres død,og fed er deres krop.",
+      "text": "\fFor de har ingen kvaler ved deres død,\fog fed er deres krop.",
       "number": 4
     },
     {
-      "text": "De har ikke del i menneskets besværligheder,og de bliver ikke plaget som menneske.",
+      "text": "\fDe har ikke del i menneskets besværligheder,\fog de bliver ikke plaget som menneske.",
       "number": 5
     },
     {
-      "text": "Derfor er hovmod blevet deres halssmykke,vold indhyller dem som en klædning.",
+      "text": "\fDerfor er hovmod blevet deres halssmykke,\fvold indhyller dem som en klædning.",
       "number": 6
     },
     {
-      "text": "Deres øjne stak ud af fedt,hjertets planer flød over.",
+      "text": "\fDeres øjne stak ud af fedt,\fhjertets planer flød over.",
       "number": 7
     },
     {
-      "text": "De håner og taler i ondskab,undertrykkelse taler de fra det høje.",
+      "text": "\fDe håner og taler i ondskab,\fundertrykkelse taler de fra det høje.",
       "number": 8
     },
     {
-      "text": "De har rettet deres mund mod himlen,og deres tunge færdes på jorden.",
+      "text": "\fDe har rettet deres mund mod himlen,\fog deres tunge færdes på jorden.",
       "number": 9
     },
     {
-      "text": "Derfor vender hans folk sig til dem,og vand i fulde drag bliver slubret ind af dem.",
+      "text": "\fDerfor vender hans folk sig til dem,\fog vand i fulde drag bliver slubret ind af dem.",
       "number": 10
     },
     {
-      "text": "Og de siger: >>Hvordan skulle Gud vide det?<<Og: >>Er der indsigt hos den Højeste?<<",
+      "text": "\fOg de siger: >>Hvordan skulle Gud vide det?<<\fOg: >>Er der indsigt hos den Højeste?<<",
       "number": 11
     },
     {
-      "text": "Se, disse er de ugudelige,og for evigt trygge øger de deres rigdom.",
+      "text": "\fSe, disse er de ugudelige,\fog for evigt trygge øger de deres rigdom.",
       "number": 12
     },
     {
-      "text": "Helt forgæves har jeg holdt mit hjerte rentog vasket mine hænder i uskyld.",
+      "text": "\fHelt forgæves har jeg holdt mit hjerte rent\fog vasket mine hænder i uskyld.",
       "number": 13
     },
     {
-      "text": "Og dog blev jeg plaget hele dagen,og min tugt begyndte hver morgen.",
+      "text": "\fOg dog blev jeg plaget hele dagen,\fog min tugt begyndte hver morgen.",
       "number": 14
     },
     {
-      "text": "Hvis jeg havde sagt: >>Jeg vil tale sådan<<,se, så havde jeg handlet troløst mod dine børns slægt.",
+      "text": "\fHvis jeg havde sagt: >>Jeg vil tale sådan<<,\fse, så havde jeg handlet troløst mod dine børns slægt.",
       "number": 15
     },
     {
-      "text": "Når jeg tænkte efter for at forstå dette,var det en plage i mine øjne,",
+      "text": "\fNår jeg tænkte efter for at forstå dette,\fvar det en plage i mine øjne,",
       "number": 16
     },
     {
-      "text": "indtil jeg gik ind i Guds helligdomog gav agt på deres endeligt.",
+      "text": "\findtil jeg gik ind i Guds helligdom\fog gav agt på deres endeligt.",
       "number": 17
     },
     {
-      "text": "Ja, du satte dem på glatte steder,du lod dem styrte i ruiner.",
+      "text": "\fJa, du satte dem på glatte steder,\fdu lod dem styrte i ruiner.",
       "number": 18
     },
     {
-      "text": "Hvordan er de på et øjeblik blevet til rædsel?De forsvandt, de gik til grunde af skræk.",
+      "text": "\fHvordan er de på et øjeblik blevet til rædsel?\fDe forsvandt, de gik til grunde af skræk.",
       "number": 19
     },
     {
-      "text": "Som en drøm, når man vågner,ringeagter du, Herre, når du vågner, dem som et fantasibillede.",
+      "text": "\fSom en drøm, når man vågner,\fringeagter du, Herre, når du vågner, dem som et fantasibillede.",
       "number": 20
     },
     {
-      "text": "Da mit hjerte var bittert,og jeg følte mig stukket i mine nyrer,",
+      "text": "\fDa mit hjerte var bittert,\fog jeg følte mig stukket i mine nyrer,",
       "number": 21
     },
     {
-      "text": "da var jeg et fæ og kunne ikke forstå noget,jeg var som et stykke kvæg for dig.",
+      "text": "\fda var jeg et fæ og kunne ikke forstå noget,\fjeg var som et stykke kvæg for dig.",
       "number": 22
     },
     {
-      "text": "Men jeg er altid hos dig,du holder fast ved min højre hånd.",
+      "text": "\fMen jeg er altid hos dig,\fdu holder fast ved min højre hånd.",
       "number": 23
     },
     {
-      "text": "Du leder mig med dit råd,og siden tager du mig ind i herlighed.",
+      "text": "\fDu leder mig med dit råd,\fog siden tager du mig ind i herlighed.",
       "number": 24
     },
     {
-      "text": "Hvem har jeg i himlen?Og er jeg blot hos dig, har jeg ikke behag i jorden.",
+      "text": "\fHvem har jeg i himlen?\fOg er jeg blot hos dig, har jeg ikke behag i jorden.",
       "number": 25
     },
     {
-      "text": "Om også mit kød og mit hjerte forgår,så er Gud mit hjertes klippe og min del for evigt.",
+      "text": "\fOm også mit kød og mit hjerte forgår,\fså er Gud mit hjertes klippe og min del for evigt.",
       "number": 26
     },
     {
-      "text": "For se, de som holder sig fjernt fra dig, vil gå til grunde,du tilintetgør hver den som er dig utro.",
+      "text": "\fFor se, de som holder sig fjernt fra dig, vil gå til grunde,\fdu tilintetgør hver den som er dig utro.",
       "number": 27
     },
     {
-      "text": "Men jeg – Guds nærhed er et gode for mig,jeg har taget min tilflugt til Herren, JHVH,for at fortælle om alle dine gerninger.",
+      "text": "\fMen jeg – Guds nærhed er et gode for mig,\fjeg har taget min tilflugt til Herren, JHVH,\ffor at fortælle om alle dine gerninger.",
       "number": 28
     }
   ],
@@ -148,79 +162,79 @@
       "text": "Grundtekstens konsonanttekst har egentlig verbet som participium passiv (*nāṭāʸû*): >>nær snublende angående mine fødder<<, men vokaliseringen angiver qal yiqtol: *nāṭāʸû*: >>var snublet<<.",
       "type": "E",
       "verse": 2,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Formodentlig er der især tænkt på gudløse.",
       "type": "T",
       "verse": 3,
-      "position": 41
+      "position": 42
     },
     {
       "text": "Ordet *šālôm* (>>fred<<) oversættes ofte ved >>lykke<<, men her angiver det en tilstand der omfatter både velstand, sundhed, venskab, fællesskab og indre harmoni, ubekymrethed.",
       "type": "E",
       "verse": 3,
-      "position": 70
+      "position": 72
     },
     {
       "text": "Ordet *lᵊmôtām* (>>for deres død<<) vokaliseres ofte: *lāmô tām*: >>for dem, sund<<, hvor >>sund<< knyttes til næste linje, der kommer til at lyde: >>sund og fed er deres krop<<. *lᵊmôtām* kan eventuelt oversættes: >>til deres død<<.",
       "type": "E",
       "verse": 4,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Det ord der er brugt om >>menneske<< (*ʔᵉnôš*), bruges især til at understrege menneskets svaghed og dødelighed.",
       "type": "E",
       "verse": 5,
-      "position": 28
+      "position": 29
     },
     {
       "text": "Sætningen er omdiskuteret. I stedet for *ʕênēmô* (>>deres øjne<<) har gamle oversættelser åbenbart læst: *ʕᵃwōnāmô*: >>deres synd<<. Ordet *ḥēlev* (>>fedt<<) er egentlig det fedtrige bindevæv omkring indvoldene. Det oversættes derfor også undertiden: >>indre<<, så oversættelsen kan lyde: >>deres synd kom fra deres indre<<.",
       "type": "E",
       "verse": 7,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Accenten i grundteksten lader egentlig >>undertrykkelse<< høre til første linje. Af hensyn til rytmen lader man normalt ordet høre til anden linje.",
       "type": "E",
       "verse": 8,
-      "position": 42
+      "position": 44
     },
     {
       "text": "Grundteksten egentlig: >>Derfor får han sit folk til at vende sig herhen<<. Konsonantteksten forudsætter at verbet er: *yāšîv*: >>får til at vende sig<<, men vokaliseringen forudsætter: *yāšûv*: >>vender sig<<. Sidste ord: *hᵃlōm*: >>herhen<< kan eventuelt rettes til: *lāhem*: >>til dem<<.",
       "type": "E",
       "verse": 10,
-      "position": 36
+      "position": 37
     },
     {
       "text": "Grundteksten har ikke noget verbum i denne sætning. Enten må der underforstås: >>var der<< eller: >begyndte<< - eller også må man rette *wᵊtôxaḥtî* (>>og min tugt<<) til det tilsvarende verbum: *wᵊhûxaḥtî*: >>og jeg blev tugtet<<.",
       "type": "E",
       "verse": 14,
-      "position": 54
+      "position": 56
     },
     {
       "text": "Grundteksten har pluralis (>>helligdomme<<) der betegner templets storslåethed og mangfoldighed. Der er næppe tænkt på Guds hellige tanker.",
       "type": "E",
       "verse": 17,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Ordret oversat lyder grundteksten: >>Herre, i byen ringeagter du deres billede<<. Sådan har Septuaginta i al fald opfattet teksten. *bāʕîr* (>>i byen<<) kan dog også opfattes som sammentrukket form af *bᵊhāʕîr* (infinitiv hif’il): >>ved opvågnen<<, dvs.: >>når du vågner<<.",
       "type": "E",
       "verse": 20,
-      "position": 91
+      "position": 93
     },
     {
       "text": "Meningen: >>det nagede i mit indre<<.",
       "type": "T",
       "verse": 21,
-      "position": 64
+      "position": 66
     },
     {
       "text": "Grammatisk er linjen ikke helt gennemskuelig, da præpositionen *ʔaḥar* (>>efter<<, her oversat >>siden<<) i grundteksten står sammen med ordet for >>herlighed<<, men næppe kan være knyttet til det. Man er derfor nødt til at underforstå >>ind i<<.",
       "type": "E",
       "verse": 24,
-      "position": 63
+      "position": 65
     }
   ]
 }

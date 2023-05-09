@@ -3,9 +3,23 @@
   "abbreviation": "Joh",
   "chapter": 3,
   "version": 1621375200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Der var en mand af farisæerne, hans navn var Nikodemus, en af jødernes rådsherrer.",
+      "text": "\fDer var en mand af farisæerne, hans navn var Nikodemus, en af jødernes rådsherrer.",
       "number": 1
     },
     {

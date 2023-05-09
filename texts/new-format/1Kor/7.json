@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 7,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men hvad angår det, som I skrev til mig om, er det godt for en mand ikke at røre en kvinde;",
+      "text": "\fMen hvad angår det, som I skrev til mig om, er det godt for en mand ikke at røre en kvinde;",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Til de ugifte og til enkerne siger jeg, at det er godt for dem, hvis de bliver ved at være som jeg.",
+      "text": "\fTil de ugifte og til enkerne siger jeg, at det er godt for dem, hvis de bliver ved at være som jeg.",
       "number": 8
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Men de gifte påbyder ikke jeg, men Herren, at en kone ikke skal skille sig fra sin mand;",
+      "text": "\fMen de gifte påbyder ikke jeg, men Herren, at en kone ikke skal skille sig fra sin mand;",
       "number": 10
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "Men til de andre siger jeg, ikke Herren: Hvis en broder har en vantro kone, og hun samtykker i at bo hos ham, så skal han ikke forlade hende.",
+      "text": "\fMen til de andre siger jeg, ikke Herren: Hvis en broder har en vantro kone, og hun samtykker i at bo hos ham, så skal han ikke forlade hende.",
       "number": 12
     },
     {
@@ -101,7 +115,7 @@
       "number": 24
     },
     {
-      "text": "Men om de unge piger har jeg ikke nogen befaling fra Herren, men giver min mening til kende som den, Herren barmhjertigt har undt at være troværdig.",
+      "text": "\fMen om de unge piger har jeg ikke nogen befaling fra Herren, men giver min mening til kende som den, Herren barmhjertigt har undt at være troværdig.",
       "number": 25
     },
     {
@@ -176,13 +190,13 @@
       "text": "i blandede ægteskaber.",
       "type": "T",
       "verse": 12,
-      "position": 16
+      "position": 17
     },
     {
       "text": "ikke kristen.",
       "type": "T",
       "verse": 12,
-      "position": 69
+      "position": 70
     },
     {
       "text": "nemlig enten: Af lejligheden til at blive fri, eller: Af din trællestand.",
@@ -194,7 +208,7 @@
       "text": "ordret:”Jomfruerne”",
       "type": "T",
       "verse": 25,
-      "position": 20
+      "position": 21
     }
   ]
 }

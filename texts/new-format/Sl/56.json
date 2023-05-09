@@ -3,61 +3,75 @@
   "abbreviation": "Sl",
   "chapter": 56,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Al-jonat-elem-rehokim.Af David. Miktam.Dengang filistrene i Gat greb ham.",
+      "text": "\fTil korlederen. Al-jonat-elem-rehokim.\fAf David. Miktam.\fDengang filistrene i Gat greb ham.",
       "number": 1
     },
     {
-      "text": "Vær mig nådig, Gud, for et menneske efterstræber mig,dagen lang trænger en stridsmand sig ind på mig.",
+      "text": "\fVær mig nådig, Gud, for et menneske efterstræber mig,\fdagen lang trænger en stridsmand sig ind på mig.",
       "number": 2
     },
     {
-      "text": "Mine fjender efterstræber mig hele dagen,for mange fører krig imod mig i hovmod.",
+      "text": "\fMine fjender efterstræber mig hele dagen,\ffor mange fører krig imod mig i hovmod.",
       "number": 3
     },
     {
-      "text": "På en dag, hvor jeg gribes af frygt, stoler jeg på dig.",
+      "text": "\fPå en dag, hvor jeg gribes af frygt, stoler jeg på dig.",
       "number": 4
     },
     {
-      "text": "Ved Guds hjælp vil jeg prise hans ord.Jeg har stolet på Gud, jeg skal ikke frygte;hvad kan kød gøre mig?",
+      "text": "\fVed Guds hjælp vil jeg prise hans ord.\fJeg har stolet på Gud, jeg skal ikke frygte;\fhvad kan kød gøre mig?",
       "number": 5
     },
     {
-      "text": "Hele dagen krænker de mine ord,alle deres tanker er rettet imod mig til ondt.",
+      "text": "\fHele dagen krænker de mine ord,\falle deres tanker er rettet imod mig til ondt.",
       "number": 6
     },
     {
-      "text": "De angriber, de lurer,de vogter på mine hæle,ligesom de har tragtet efter min sjæl.",
+      "text": "\fDe angriber, de lurer,\fde vogter på mine hæle,\fligesom de har tragtet efter min sjæl.",
       "number": 7
     },
     {
-      "text": "Skal de undslippe trods deres ondskab?Stød folkene ned i vrede, Gud!",
+      "text": "\fSkal de undslippe trods deres ondskab?\fStød folkene ned i vrede, Gud!",
       "number": 8
     },
     {
-      "text": "Du har optegnet min elendighed,anbring min tåre i din lædersæk;står det ikke i din bog?",
+      "text": "\fDu har optegnet min elendighed,\fanbring min tåre i din lædersæk;\fstår det ikke i din bog?",
       "number": 9
     },
     {
-      "text": "Da skal mine fjender vige tilbagepå den dag da jeg råber.Dette ved jeg: at Gud er for mig.",
+      "text": "\fDa skal mine fjender vige tilbage\fpå den dag da jeg råber.\fDette ved jeg: at Gud er for mig.",
       "number": 10
     },
     {
-      "text": "Ved Guds hjælp vil jeg prise et ord;ved JHVHs hjælp vil jeg prise et ord.",
+      "text": "\fVed Guds hjælp vil jeg prise et ord;\fved JHVHs hjælp vil jeg prise et ord.",
       "number": 11
     },
     {
-      "text": "Jeg har stolet på Gud, jeg skal ikke frygte.Hvad kan et menneske gøre mig?",
+      "text": "\fJeg har stolet på Gud, jeg skal ikke frygte.\fHvad kan et menneske gøre mig?",
       "number": 12
     },
     {
-      "text": "På mig, Gud, hviler de løfter jeg har givet dig,jeg vil indfri med takofre.",
+      "text": "\fPå mig, Gud, hviler de løfter jeg har givet dig,\fjeg vil indfri med takofre.",
       "number": 13
     },
     {
-      "text": "For du befriede min sjæl fra døden,ja{T: Ordret: >>mon ikke mine fødder fra fald?<<}, mine fødder fra fald,så jeg kan vandre for Guds ansigti livets{T: Kan også oversættes: >>de levendes lys<<.} lys.",
+      "text": "\fFor du befriede min sjæl fra døden,\fja, mine fødder fra fald,\fså jeg kan vandre for Guds ansigt\fi livets lys.",
       "number": 14
     }
   ],
@@ -92,67 +106,79 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Formodentlig et musikudtryk (evt. en melodiangivelse) af ukendt betydning. Ordret evt.: >>Efter stumhedens due, de fjerne/blandt de fjerne<<.",
       "type": "T",
       "verse": 1,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<), eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 57-60) fastholde en alvorlig situation i folkets erindring.",
       "type": "T",
       "verse": 1,
-      "position": 55
+      "position": 57
     },
     {
       "text": ">>menneske<< kan her evt. være ment kollektivt: >>mennesker<<.",
       "type": "T",
       "verse": 2,
-      "position": 35
+      "position": 36
     },
     {
       "text": "*mārôm* betyder >>det høje/ophøjede<<, men oversættes her ofte >>i hovmod<<. Andre tager det som indledning til v. 4: >>du Højeste!<<.",
       "type": "T",
       "verse": 3,
-      "position": 80
+      "position": 82
     },
     {
       "text": "Her brugt som betegnelse for et svagt, dødeligt menneske.",
       "type": "E",
       "verse": 5,
-      "position": 94
+      "position": 97
     },
     {
       "text": "Udtrykket har dobbelt brod: Dels vogter fjenderne på salmistens skridt, og dels lurer de som slanger der hugger i hælen.",
       "type": "E",
       "verse": 7,
-      "position": 45
+      "position": 47
     },
     {
       "text": "Formodentlig i betydningen: >>mit liv<<.",
       "type": "T",
       "verse": 7,
-      "position": 83
+      "position": 86
     },
     {
       "text": "Andre oversætter: >>landflygtighed<<. Ordet *nōd* optræder i GT kun her og i stednavnet >>Nod<< (1 Mos 4,16) som stedet her spiller på.",
       "type": "E",
       "verse": 9,
-      "position": 31
+      "position": 32
     },
     {
       "text": "Accenten på første stavelse i *śîmāʰ* angiver at ordet er imperativ. Hvis den flyttes til anden stavelse, er det part.fem.: >>min tåre er anbragt …<<.",
       "type": "E",
       "verse": 9,
-      "position": 38
+      "position": 40
     },
     {
       "text": "Meningen er omdiskuteret. Mange oversættere går ud fra at: *dāvār* (>>et ord<<) skal læses som: *dᵊvārô*: >>>hans ord<<, hvor >>ord<< er forstået som et nådesord. Andre oversætter lidt friere: >>På Gud, hvis ord jeg vil prise, / på JHVH, hvis ord jeg vil prise, / på Gud har jeg stolet, jeg skal ikke frygte. / Hvad kan et menneske gøre mig?<<",
       "type": "E",
       "verse": 11,
-      "position": 73
+      "position": 75
+    },
+    {
+      "text": "Ordret: >>mon ikke mine fødder fra fald?<<",
+      "type": "T",
+      "verse": 14,
+      "position": 39
+    },
+    {
+      "text": "Kan også oversættes: >>de levendes lys<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 105
     }
   ]
 }

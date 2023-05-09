@@ -3,29 +3,43 @@
   "abbreviation": "Sl",
   "chapter": 128,
   "version": 1504476000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Valfartssang.Lykkelig hver den som frygter JHVH,som går på hans veje!",
+      "text": "\fValfartssang.\fLykkelig hver den som frygter JHVH,\fsom går på hans veje!",
       "number": 1
     },
     {
-      "text": "Frugten af dine hænders arbejde skal du rigtig nok spise,lykkelig er du, og det skal gå dig vel.",
+      "text": "\fFrugten af dine hænders arbejde skal du rigtig nok spise,\flykkelig er du, og det skal gå dig vel.",
       "number": 2
     },
     {
-      "text": "Din hustru er som en frugtbar vinstoki dit hus’ indre,dine sønner er som oliventræers skudomkring dit bord.",
+      "text": "\fDin hustru er som en frugtbar vinstok\fi dit hus’ indre,\fdine sønner er som oliventræers skud\fomkring dit bord.",
       "number": 3
     },
     {
-      "text": "Ja, se sådan velsignes den mandsom frygter JHVH.",
+      "text": "\fJa, se sådan velsignes den mand\fsom frygter JHVH.",
       "number": 4
     },
     {
-      "text": "JHVH velsigne dig fra Zionså du ser Jerusalems lykkealle dit livs dage,",
+      "text": "\fJHVH velsigne dig fra Zion\fså du ser Jerusalems lykke\falle dit livs dage,",
       "number": 5
     },
     {
-      "text": "og så du ser dine sønners sønner!Fred over Israel!",
+      "text": "\fog så du ser dine sønners sønner!\fFred over Israel!",
       "number": 6
     }
   ],
@@ -48,19 +62,19 @@
       "text": "Se note til Sl 120,1.",
       "type": "E",
       "verse": 1,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Kan også oversættes: >>salig<<.",
       "type": "T",
       "verse": 1,
-      "position": 21
+      "position": 23
     },
     {
       "text": "Ordret: >>aflæggere/stiklinger af oliventræer<<.",
       "type": "T",
       "verse": 3,
-      "position": 90
+      "position": 93
     }
   ]
 }

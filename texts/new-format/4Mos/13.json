@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 13,
   "version": 1494280800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses:",
+      "text": "\fJHVH talte til Moses:",
       "number": 1
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "De drog op og udspionerede landet, fra Sins ørken til Rehob ved Lebo-Hamat.",
+      "text": "\fDe drog op og udspionerede landet, fra Sins ørken til Rehob ved Lebo-Hamat.",
       "number": 21
     },
     {

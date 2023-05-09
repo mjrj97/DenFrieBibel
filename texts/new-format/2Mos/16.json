@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 16,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Så brød de op fra Elim, og hele Israels børns menighed kom til Sins ørken, som er mellem Elim og Sinaj, på den femtende dag i den anden måned efter at de drog ud af Egyptens land.",
+      "text": "\fSå brød de op fra Elim, og hele Israels børns menighed kom til Sins ørken, som er mellem Elim og Sinaj, på den femtende dag i den anden måned efter at de drog ud af Egyptens land.",
       "number": 1
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Og det skete om aftenen, at der kom vagtler op og dækkede lejren, og om morgenen lå duggen omkring lejren.",
+      "text": "\fOg det skete om aftenen, at der kom vagtler op og dækkede lejren, og om morgenen lå duggen omkring lejren.",
       "number": 13
     },
     {
@@ -89,7 +103,7 @@
       "number": 21
     },
     {
-      "text": "Men det skete på den sjette dag at de samlede dobbelt brød, to omer til hver. Da kom alle menighedens stammeledere og fortalte Moses det,",
+      "text": "\fMen det skete på den sjette dag at de samlede dobbelt brød, to omer til hver. Da kom alle menighedens stammeledere og fortalte Moses det,",
       "number": 22
     },
     {
@@ -125,7 +139,7 @@
       "number": 30
     },
     {
-      "text": "Israels hus kaldte dets navn manna. Det lignede korianderfrø, hvidt, og smagte som honningkage.",
+      "text": "\fIsraels hus kaldte dets navn manna. Det lignede korianderfrø, hvidt, og smagte som honningkage.",
       "number": 31
     },
     {
@@ -145,7 +159,7 @@
       "number": 35
     },
     {
-      "text": "Omeren er en tiendedel af efaen{E: En efa er rummål = 39,3 l, jf. v. 16.}.",
+      "text": "Omeren er en tiendedel af efaen.",
       "number": 36
     }
   ],
@@ -184,7 +198,7 @@
       "text": "Ordret: >>vagtlen<<. Det skal formodentlig opfattes kollektivt, men angiver også, at vagteltrækket var et velkendt fænomen.",
       "type": "T",
       "verse": 13,
-      "position": 43
+      "position": 44
     },
     {
       "text": "Ordret: >>steg op<<. Der er ordspil med v. 13 (>>kom op<<).",
@@ -208,13 +222,19 @@
       "text": "På hebraisk: *mān*, der også betyder: >>hvad?<<, jf. vers 15.",
       "type": "T",
       "verse": 31,
-      "position": 34
+      "position": 35
     },
     {
       "text": "Kan også oversættes: >>som kunne beboes<<.",
       "type": "T",
       "verse": 35,
       "position": 61
+    },
+    {
+      "text": "En efa er rummål = 39,3 l, jf. v. 16.",
+      "type": "E",
+      "verse": 36,
+      "position": 31
     }
   ]
 }

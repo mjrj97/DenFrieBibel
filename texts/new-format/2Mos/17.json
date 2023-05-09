@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 17,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Så brød hele Israels børns menighed op fra Sins ørken og drog videre fra sted til sted efter JHVHs anvisning, og de slog lejr i Refidim, men folket havde intet vand at drikke.",
+      "text": "\fSå brød hele Israels børns menighed op fra Sins ørken og drog videre fra sted til sted efter JHVHs anvisning, og de slog lejr i Refidim, men folket havde intet vand at drikke.",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Amalek kom og gik til angreb mod Israel i Refidim.",
+      "text": "\fAmalek kom og gik til angreb mod Israel i Refidim.",
       "number": 8
     },
     {
@@ -65,7 +79,7 @@
       "number": 15
     },
     {
-      "text": "Han sagde: >>Sandelig,{T: Oversættelsen af *kî* er omdiskuteret. I de fleste sammenhænge skal det oversættes: >>for/thi<<, evt. >>fordi<<. Især det sidste kan nok give mening her. Oversættelsen bliver: >>Fordi en hånd er rakt ud mod JHVHs trone, fører JHVH krig mod Amalek<< (se også de næste noter).}  det{E: Alteret.} er et mindesmærke over JHVHs{T: Den hebraiske tekst har Guds navn i forkortet form: *yāh*.} plan:{T: Hele denne første sætning er sprogligt vanskelig. Det hænger sammen med en meget kort formulering og med usikkerhed om betydningen af især ordet: *kēs*, der som regel opfattes som kortform for: *kissēˀ*: >>trone<< (jf. noten ovenfor). En del oversættere regner det for at være en variant af: *nēs* (>>banner<<), så oversættelsen skal være: >>Hånd på JHVHs banner<<. Atter andre vil aflede det af verbet *kss* (>>beregne<<), så det skal oversættes: >>plan<<. Det forudsætter at *yād* (>>hånd<<) skal oversættes: >>mindesmærke<<, som det skal i nogle sammenhænge. Denne forståelse er valgt her, men det må understreges, at usikkerheden er udtalt.} der vil være krig for JHVH mod Amalek fra slægt til slægt.<<",
+      "text": "Han sagde: >>Sandelig,  det er et mindesmærke over JHVHs plan: der vil være krig for JHVH mod Amalek fra slægt til slægt.<<",
       "number": 16
     }
   ],
@@ -84,7 +98,7 @@
       "text": "Ordret: >>mund<<, her kan det også oversættes: >>befaling<<.",
       "type": "T",
       "verse": 1,
-      "position": 109
+      "position": 110
     },
     {
       "text": "Ordret: >>floden<<, men det er Nilen, der er tænkt på.",
@@ -127,6 +141,30 @@
       "type": "T",
       "verse": 14,
       "position": 104
+    },
+    {
+      "text": "Oversættelsen af *kî* er omdiskuteret. I de fleste sammenhænge skal det oversættes: >>for/thi<<, evt. >>fordi<<. Især det sidste kan nok give mening her. Oversættelsen bliver: >>Fordi en hånd er rakt ud mod JHVHs trone, fører JHVH krig mod Amalek<< (se også de næste noter).",
+      "type": "T",
+      "verse": 16,
+      "position": 22
+    },
+    {
+      "text": "Alteret.",
+      "type": "E",
+      "verse": 16,
+      "position": 27
+    },
+    {
+      "text": "Den hebraiske tekst har Guds navn i forkortet form: *yāh*.",
+      "type": "T",
+      "verse": 16,
+      "position": 56
+    },
+    {
+      "text": "Hele denne første sætning er sprogligt vanskelig. Det hænger sammen med en meget kort formulering og med usikkerhed om betydningen af især ordet: *kēs*, der som regel opfattes som kortform for: *kissēˀ*: >>trone<< (jf. noten ovenfor). En del oversættere regner det for at være en variant af: *nēs* (>>banner<<), så oversættelsen skal være: >>Hånd på JHVHs banner<<. Atter andre vil aflede det af verbet *kss* (>>beregne<<), så det skal oversættes: >>plan<<. Det forudsætter at *yād* (>>hånd<<) skal oversættes: >>mindesmærke<<, som det skal i nogle sammenhænge. Denne forståelse er valgt her, men det må understreges, at usikkerheden er udtalt.",
+      "type": "T",
+      "verse": 16,
+      "position": 62
     }
   ]
 }

@@ -3,13 +3,27 @@
   "abbreviation": "2Kor",
   "chapter": 7,
   "version": 1647644400000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da vi altså har disse løfter, I elskede, så lad os rense os selv fra al besmittelse af kødet og ånden, så vi fuldfører hellighed i gudsfrygt!",
+      "text": "\fDa vi altså har disse løfter, I elskede, så lad os rense os selv fra al besmittelse af kødet og ånden, så vi fuldfører hellighed i gudsfrygt!",
       "number": 1
     },
     {
-      "text": "Giv os plads; ingen har vi gjort uret, ingen ødelagt, ingen bedraget.",
+      "text": "\fGiv os plads; ingen har vi gjort uret, ingen ødelagt, ingen bedraget.",
       "number": 2
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Derfor er vi blevet trøstet. Men til vores trøst kom oveni glæden over Titus' glæde, fordi hans ånd er bragt til ro ved jer alle.",
+      "text": "\fDerfor er vi blevet trøstet. Men til vores trøst kom oveni glæden over Titus' glæde, fordi hans ånd er bragt til ro ved jer alle.",
       "number": 13
     },
     {

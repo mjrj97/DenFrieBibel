@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 43,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Men nu, sådan siger JHVH, der skabte dig, Jakob, og dannede dig, Israel: Vær ikke bange, for jeg har betalt løsepenge for dig, jeg kaldte dig ved navn, du er min.",
+      "text": "\fMen nu, sådan siger JHVH, der skabte dig, Jakob, og dannede dig, Israel: Vær ikke bange, for jeg har betalt løsepenge for dig, jeg kaldte dig ved navn, du er min.",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Han fører det blinde folk ud, der dog har øjne, og de døve, der dog har ører.",
+      "text": "\fHan fører det blinde folk ud, der dog har øjne, og de døve, der dog har ører.",
       "number": 8
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Sådan siger JHVH, jeres løskøber, Israels Hellige: For jeres skyld sender jeg bud til Babylon og lader alle dem sammen med kaldæerne blive jaget som flygtninge ned på skibene, som de frydede sig på.",
+      "text": "\fSådan siger JHVH, jeres løskøber, Israels Hellige: For jeres skyld sender jeg bud til Babylon og lader alle dem sammen med kaldæerne blive jaget som flygtninge ned på skibene, som de frydede sig på.",
       "number": 14
     },
     {

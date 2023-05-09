@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 14,
   "version": 1631656800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "En gang da han kom ind i en af de øverste farisæeres hus på en sabbat for at deltage i et måltid, holdt de nøje øje med ham.",
+      "text": "\fEn gang da han kom ind i en af de øverste farisæeres hus på en sabbat for at deltage i et måltid, holdt de nøje øje med ham.",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Men han fortalte en lignelse til de indbudte da han bemærkede hvordan de udvalgte sig de øverste pladser ved bordet, og sagde til dem:",
+      "text": "\fMen han fortalte en lignelse til de indbudte da han bemærkede hvordan de udvalgte sig de øverste pladser ved bordet, og sagde til dem:",
       "number": 7
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "Men han sagde til ham: >>Der var en mand som holdt et stort måltid og indbød mange.",
+      "text": "\fMen han sagde til ham: >>Der var en mand som holdt et stort måltid og indbød mange.",
       "number": 16
     },
     {

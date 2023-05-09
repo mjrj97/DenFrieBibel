@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 11,
   "version": 1496181600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Men nu gav folket sig til at beklage sig bittert i JHVHs påhør, og da JHVH hørte det, blussede hans vrede op, og JHVHs ild brød ud iblandt dem og den fortærede noget af udkanten af lejren.",
+      "text": "\fMen nu gav folket sig til at beklage sig bittert i JHVHs påhør, og da JHVH hørte det, blussede hans vrede op, og JHVHs ild brød ud iblandt dem og den fortærede noget af udkanten af lejren.",
       "number": 1
     },
     {
@@ -17,7 +27,7 @@
       "number": 3
     },
     {
-      "text": "Den hob som var midt iblandt dem, fik et umætteligt behov, og derfor gav også israelitterne til at græde igen. De sagde: >>Gid vi kunne spise kød igen!",
+      "text": "\fDen hob som var midt iblandt dem, fik et umætteligt behov, og derfor gav også israelitterne til at græde igen. De sagde: >>Gid vi kunne spise kød igen!",
       "number": 4
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Moses hørte folket græde rundt om i alle slægter, hver i sin teltåbning, og JHVHs vrede blussede voldsomt op. Og i Moses’ øjne var det ondt.",
+      "text": "\fMoses hørte folket græde rundt om i alle slægter, hver i sin teltåbning, og JHVHs vrede blussede voldsomt op. Og i Moses’ øjne var det ondt.",
       "number": 10
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "JHVH sagde til Moses: >>Saml 70 mænd af Israels ældste sammen. Mænd om hvem du ved at de er folkets ældste og ledere. Dem skal du føre hen til forsamlingsteltet, og der skal de stille sig op sammen med dig.",
+      "text": "\fJHVH sagde til Moses: >>Saml 70 mænd af Israels ældste sammen. Mænd om hvem du ved at de er folkets ældste og ledere. Dem skal du føre hen til forsamlingsteltet, og der skal de stille sig op sammen med dig.",
       "number": 16
     },
     {
@@ -97,7 +107,7 @@
       "number": 23
     },
     {
-      "text": "Moses gik ud og gav JHVHs ord til folket, og han samlede 70 mænd af folkets ældste og stillede dem rundt om teltet.",
+      "text": "\fMoses gik ud og gav JHVHs ord til folket, og han samlede 70 mænd af folkets ældste og stillede dem rundt om teltet.",
       "number": 24
     },
     {
@@ -121,7 +131,7 @@
       "number": 29
     },
     {
-      "text": "Moses gik tilbage til lejren sammen med Israels ældste.",
+      "text": "\fMoses gik tilbage til lejren sammen med Israels ældste.",
       "number": 30
     },
     {
@@ -176,7 +186,7 @@
       "text": "Ordret: >>Folket blev som dem der vedvarende beklager sig ondt i JHVHs ører<<. Biordet >>ondt<< kan bruges om et forbitret sindelag, men også om bitter eller dårlig situation.",
       "type": "T",
       "verse": 1,
-      "position": 63
+      "position": 64
     },
     {
       "text": "Dvs.: En brand.",

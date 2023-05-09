@@ -3,89 +3,99 @@
   "abbreviation": "Obad",
   "chapter": 1,
   "version": 1504648800000,
+  "authors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Obadias’ syn.Således siger den herre JHVH om Edom.Vi har hørt et budskab fra JHVH;en budbringer er blevet sendt ud blandt folkeslagene:>>Rejs jer! Lad os rejse os for at gå i krig mod hende.<<",
+      "text": "\fObadias’ syn.\fSåledes siger den herre JHVH om Edom.\fVi har hørt et budskab fra JHVH;\fen budbringer er blevet sendt ud blandt folkeslagene:\f>>Rejs jer! Lad os rejse os for at gå i krig mod hende.<<",
       "number": 1
     },
     {
-      "text": "Se, jeg har gjort dig ubetydelig blandt folkeslagene;du foragtes dybt.***",
+      "text": "\fSe, jeg har gjort dig ubetydelig blandt folkeslagene;\fdu foragtes dybt.\n\n",
       "number": 2
     },
     {
-      "text": "Dit hjertes hovmod har bedraget dig, du som bor i klippekløfter,i dine boliger højt oppe;du som siger i dit hjerte:>>Hvem kan bringe mig ned til jorden?<<",
+      "text": "\fDit hjertes hovmod har bedraget dig, du som bor i klippekløfter,\fi dine boliger højt oppe;\fdu som siger i dit hjerte:\f>>Hvem kan bringe mig ned til jorden?<<",
       "number": 3
     },
     {
-      "text": "Selv hvis du kunne hæve dig så højt som ørnen,og selv hvis du kunne sætte din rede mellem stjernerne,vil jeg bringe dig ned derfra, siger JHVH.***",
+      "text": "\fSelv hvis du kunne hæve dig så højt som ørnen,\fog selv hvis du kunne sætte din rede mellem stjernerne,\fvil jeg bringe dig ned derfra, siger JHVH.\n\n",
       "number": 4
     },
     {
-      "text": "Hvis røvere kom til dig;hvis plyndringsmænd kom om natten– hvor er du blevet ødelagt! –ville de ikke blot røve hvad der var tilstrækkeligt for dem?Hvis høstfolk kom til dig og plukkede druer,ville de ikke efterlade en rest?",
+      "text": "\fHvis røvere kom til dig;\fhvis plyndringsmænd kom om natten\f– hvor er du blevet ødelagt! –\fville de ikke blot røve hvad der var tilstrækkeligt for dem?\fHvis høstfolk kom til dig og plukkede druer,\fville de ikke efterlade en rest?",
       "number": 5
     },
     {
-      "text": "Hvor er Esau dog blevet gennemsøgt!Hans skjulte skatte er blevet endevendt.",
+      "text": "\fHvor er Esau dog blevet gennemsøgt!\fHans skjulte skatte er blevet endevendt.",
       "number": 6
     },
     {
-      "text": "De har forvist dig til grænsen, alle dine allierede.De har bedraget dig;dine venner har fået magten over dig.De der spiser dit brød, har lagt fælder ud under dig.Der er ingen forstandighed hos ham.",
+      "text": "\fDe har forvist dig til grænsen, alle dine allierede.\fDe har bedraget dig;\fdine venner har fået magten over dig.\fDe der spiser dit brød, har lagt fælder ud under dig.\fDer er ingen forstandighed hos ham.",
       "number": 7
     },
     {
-      "text": "Er det ikke på den dag, siger JHVH, at jeg vil udrydde de vise fra Edomog forstandighed fra Esaus bjerg?",
+      "text": "\fEr det ikke på den dag, siger JHVH, at jeg vil udrydde de vise fra Edom\fog forstandighed fra Esaus bjerg?",
       "number": 8
     },
     {
-      "text": "Dine krigere, Teman, skal blive rædselsslagne,så at alle fra Esaus bjerg vil blive tilintetgjort ved slagtning.",
+      "text": "\fDine krigere, Teman, skal blive rædselsslagne,\fså at alle fra Esaus bjerg vil blive tilintetgjort ved slagtning.",
       "number": 9
     },
     {
-      "text": "På grund af volden mod din bror Jakob skal skam dække dig;du skal være tilintetgjort for evigt.",
+      "text": "\fPå grund af volden mod din bror Jakob skal skam dække dig;\fdu skal være tilintetgjort for evigt.",
       "number": 10
     },
     {
-      "text": "På den dag, hvor du stod overfor;på den dag, hvor fjender førte hans rigdom bort,og fremmede gik ind ad hans porte og kastede lod om Jerusalem,da var også du som en af dem.***",
+      "text": "\fPå den dag, hvor du stod overfor;\fpå den dag, hvor fjender førte hans rigdom bort,\fog fremmede gik ind ad hans porte og kastede lod om Jerusalem,\fda var også du som en af dem.\n\n",
       "number": 11
     },
     {
-      "text": "Du må ikke godte dig over din brors dag,over hans ulykkes dag.Du må ikke juble over Judas sønner på dagen for deres udryddelse.Du må ikke prale på trængslens dag.",
+      "text": "\fDu må ikke godte dig over din brors dag,\fover hans ulykkes dag.\fDu må ikke juble over Judas sønner på dagen for deres udryddelse.\fDu må ikke prale på trængslens dag.",
       "number": 12
     },
     {
-      "text": "Du må ikke drage ind ad mit folks porte på undergangens dag.Heller ikke du må godte dig over hans ulykke på dagen for hans undergang.Og du må ikke række ud efter hans rigdom på dagen for hans undergang.",
+      "text": "\fDu må ikke drage ind ad mit folks porte på undergangens dag.\fHeller ikke du må godte dig over hans ulykke på dagen for hans undergang.\fOg du må ikke række ud efter hans rigdom på dagen for hans undergang.",
       "number": 13
     },
     {
-      "text": "Du må ikke stå ved vejkrydset for at tilintetgøre hans flygtninge.Og du må ikke udlevere hans overlevende på trængslens dag.",
+      "text": "\fDu må ikke stå ved vejkrydset for at tilintetgøre hans flygtninge.\fOg du må ikke udlevere hans overlevende på trængslens dag.",
       "number": 14
     },
     {
-      "text": "For JHVHs dag over alle folkeslagene er nær.Som du har gjort, sådan skal der gøres mod dig.Din gerning skal komme over dit eget hoved.",
+      "text": "\fFor JHVHs dag over alle folkeslagene er nær.\fSom du har gjort, sådan skal der gøres mod dig.\fDin gerning skal komme over dit eget hoved.",
       "number": 15
     },
     {
-      "text": "For ligesom I har drukket på mit hellige bjerg,sådan skal alle folkeslagene drikke dagligt.De skal drikke og synkeog blive som havde de ikke været til.",
+      "text": "\fFor ligesom I har drukket på mit hellige bjerg,\fsådan skal alle folkeslagene drikke dagligt.\fDe skal drikke og synke\fog blive som havde de ikke været til.",
       "number": 16
     },
     {
-      "text": "Men på Zions bjerg skal der være tilflugt,og det skal være helligt.Jakobs hus skal eje sine egne ejendele.",
+      "text": "\fMen på Zions bjerg skal der være tilflugt,\fog det skal være helligt.\fJakobs hus skal eje sine egne ejendele.",
       "number": 17
     },
     {
-      "text": "Jakobs hus skal blive en ild,Josefs hus til en flamme,og Esaus hus til stubbe.De skal brænde dem og fortære dem;og Esaus hus skal ikke have nogen overlevende.For JHVH har talt.",
+      "text": "\fJakobs hus skal blive en ild,\fJosefs hus til en flamme,\fog Esaus hus til stubbe.\fDe skal brænde dem og fortære dem;\fog Esaus hus skal ikke have nogen overlevende.\fFor JHVH har talt.",
       "number": 18
     },
     {
-      "text": "Sydlandet skal erobre Esaus bjerg,og Lavlandet skal erobre filistrene.De skal erobre Efraims område og Samarias område;Benjamin skal erobre Gilead.",
+      "text": "\fSydlandet skal erobre Esaus bjerg,\fog Lavlandet skal erobre filistrene.\fDe skal erobre Efraims område og Samarias område;\fBenjamin skal erobre Gilead.",
       "number": 19
     },
     {
-      "text": "De fordrevne, en gruppe af israelitterne som er kanaanæere, skal erobre så langt som til Sarepta.Og Jerusalems fordrevne som er i Sefarad, skal erobre Sydlandets byer.",
+      "text": "\fDe fordrevne, en gruppe af israelitterne som er kanaanæere, skal erobre så langt som til Sarepta.\fOg Jerusalems fordrevne som er i Sefarad, skal erobre Sydlandets byer.",
       "number": 20
     },
     {
-      "text": "Befrierne skal drage op på Zions bjerg for at dømme{E: Kan også oversættes med >>herske over<<.} Esaus bjerg.Kongedømmet skal tilhøre JHVH.",
+      "text": "\fBefrierne skal drage op på Zions bjerg for at dømme Esaus bjerg.\fKongedømmet skal tilhøre JHVH.",
       "number": 21
     }
   ],
@@ -104,103 +114,109 @@
       "text": "Dvs. Edom.",
       "type": "T",
       "verse": 1,
-      "position": 192
+      "position": 197
     },
     {
       "text": "Ordret >>klippernes kløfter<< eller >>Selas kløfter<<, hvilket kan være et stednavn, jf. 2 Kong 14,17; 2 Krøn 25,12.",
       "type": "E",
       "verse": 3,
-      "position": 64
+      "position": 65
     },
     {
       "text": "Ordret >>hans<<, men det referer til Edom.",
       "type": "E",
       "verse": 3,
-      "position": 70
+      "position": 72
     },
     {
       "text": ">>Kom<< er tilføjet, men er underforstået fra første del af verset.",
       "type": "E",
       "verse": 5,
-      "position": 47
+      "position": 49
     },
     {
       "text": "Det hebraiske ord *dāmāʰ* kan både oversættes med >>ødelægge<< og >>ligne<<. Vælger man >>ligne<< ville meningen med verset være at Edom sammenlignes med røvere og plyndringsmænd.",
       "type": "E",
       "verse": 5,
-      "position": 85
+      "position": 88
     },
     {
       "text": "Ordret >>efterslæt<<.",
       "type": "E",
       "verse": 5,
-      "position": 222
+      "position": 228
     },
     {
       "text": "Ordret >>pagtsfæller<<.",
       "type": "E",
       "verse": 7,
-      "position": 52
+      "position": 53
     },
     {
       "text": "Ordret >>fredsfæller<<.",
       "type": "E",
       "verse": 7,
-      "position": 83
+      "position": 86
     },
     {
       "text": "Den hebraiske grundtekst har ikke >>de der spiser<<, men denne læsning har støtte i Vulgata, Targum og en udgave af LXX.",
       "type": "E",
       "verse": 7,
-      "position": 132
+      "position": 136
     },
     {
       "text": "Sidste del af verset er vanskeligt, særligt betydningen af *māzôr*, her oversat med >>fælder<<. Ordet er sjældent i GT og oversættes ellers med >>sår<<. De fleste oversættelser oversætter med >>fælder<< med støtte i LXX, Vulgata, Targum og Peshitta. En tredje mulighed er at oversætte med >>et sted for fremmede<< efter ordet *zar* >>fremmed<<, hvilket ville give oversættelsen >>De der spiser dit brød, har sat et fremmed folk i dit sted<<.",
       "type": "E",
       "verse": 7,
-      "position": 162
+      "position": 166
     },
     {
       "text": "Ved fysiske ting oversættes *ḥatat* med >>knust<< eller >>spredt<<, men ved mennesker er der tale om en psykologisk tilstand af angst og lammelse.",
       "type": "E",
       "verse": 9,
-      "position": 46
+      "position": 47
     },
     {
       "text": "Ordret >>gøre din mund stor<<.",
       "type": "E",
       "verse": 12,
-      "position": 143
+      "position": 147
     },
     {
       "text": "Kan også oversættes med >>slubre<<.",
       "type": "E",
       "verse": 16,
-      "position": 114
+      "position": 117
     },
     {
       "text": "Dvs. Negev.",
       "type": "T",
       "verse": 19,
-      "position": 9
+      "position": 10
     },
     {
       "text": "Dvs. Shefelah.",
       "type": "T",
       "verse": 19,
-      "position": 46
+      "position": 48
     },
     {
       "text": ">>Gruppe<< skal her forstås som en mindre militærstyrke. En anden mulighed er at forstå *ḥēl* som en ydre fæstning eller vold, hvilket ville give oversættelsen >>de fordrevne fra denne vold tilhørende israelitterne<<.",
       "type": "E",
       "verse": 20,
-      "position": 23
+      "position": 24
     },
     {
       "text": "Det er mærkværdigt at israelitterne her betegnes som kanaanæere. Es 19,18 betegner dog hebraisk som et kanaanæisk sprog, så der findes paralleller til denne tankegang.",
       "type": "E",
       "verse": 20,
-      "position": 58
+      "position": 59
+    },
+    {
+      "text": "Kan også oversættes med >>herske over<<.",
+      "type": "E",
+      "verse": 21,
+      "position": 52
     }
   ]
 }

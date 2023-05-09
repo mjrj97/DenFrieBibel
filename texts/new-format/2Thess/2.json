@@ -3,9 +3,23 @@
   "abbreviation": "2Thess",
   "chapter": 2,
   "version": 1636153200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men vi bør altid takke Gud for jer, I brødre som er elsket af Herren, fordi Gud har udvalgt jer fra begyndelsen til frelse ved Åndens helliggørelse og tro på sandheden,",
+      "text": "\fMen vi bør altid takke Gud for jer, I brødre som er elsket af Herren, fordi Gud har udvalgt jer fra begyndelsen til frelse ved Åndens helliggørelse og tro på sandheden,",
       "number": 13
     },
     {
@@ -31,7 +45,7 @@
       "text": "Nogle håndskrifter har >>som førstegrøde<< i stedet for >>fra begyndelsen<<.",
       "type": "T",
       "verse": 13,
-      "position": 111
+      "position": 112
     },
     {
       "text": "Ordret: >>til opnåelse af<<.",

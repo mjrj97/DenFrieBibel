@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 49,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Hør mig, I øer, og lyt, I folk fra det fjerne! JHVH kaldte mig fra mors liv af, han nævnte mit navn fra mors skød af.",
+      "text": "\fHør mig, I øer, og lyt, I folk fra det fjerne! JHVH kaldte mig fra mors liv af, han nævnte mit navn fra mors skød af.",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Sådan siger JHVH: På den tid, der behagede mig, bønhørte jeg dig, og på frelsens dag hjalp jeg dig; og jeg vil bevare dig og gøre dig til en pagt med folket for at genrejse landet og udskifte de øde arvelodder",
+      "text": "\fSådan siger JHVH: På den tid, der behagede mig, bønhørte jeg dig, og på frelsens dag hjalp jeg dig; og jeg vil bevare dig og gøre dig til en pagt med folket for at genrejse landet og udskifte de øde arvelodder",
       "number": 8
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Men Zion sagde: >>JHVH har forladt mig, og JHVH har glemt mig.<<",
+      "text": "\fMen Zion sagde: >>JHVH har forladt mig, og JHVH har glemt mig.<<",
       "number": 14
     },
     {
@@ -97,7 +107,7 @@
       "number": 23
     },
     {
-      "text": "Mon man kan tage det fra den mægtige, han har taget? og mon den retfærdiges fanger skulle undslippe?",
+      "text": "\fMon man kan tage det fra den mægtige, han har taget? og mon den retfærdiges fanger skulle undslippe?",
       "number": 24
     },
     {
@@ -126,7 +136,7 @@
       "text": "dvs. Israels",
       "type": "T",
       "verse": 24,
-      "position": 76
+      "position": 77
     }
   ]
 }

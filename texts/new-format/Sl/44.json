@@ -3,113 +3,127 @@
   "abbreviation": "Sl",
   "chapter": 44,
   "version": 1527026400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen.Maskil af Koras sønner.",
+      "text": "\fTil korlederen.\fMaskil af Koras sønner.",
       "number": 1
     },
     {
-      "text": "Gud, med vore ører har vi hørt det,vore fædre har fortalt os det,den gerning du udførte i deres dage,i gamle dage.",
+      "text": "\fGud, med vore ører har vi hørt det,\fvore fædre har fortalt os det,\fden gerning du udførte i deres dage,\fi gamle dage.",
       "number": 2
     },
     {
-      "text": "Du – din hånd - fordrev folkeslag, men dem plantede du,du sønderbryder nationer, men dem lader du brede sig.",
+      "text": "\fDu – din hånd - fordrev folkeslag, men dem plantede du,\fdu sønderbryder nationer, men dem lader du brede sig.",
       "number": 3
     },
     {
-      "text": "For ikke ved deres sværd indtog de landet,og deres arm hjalp dem ikke,men din højre hånd og din armog dit ansigts lys,for du holdt af dem.",
+      "text": "\fFor ikke ved deres sværd indtog de landet,\fog deres arm hjalp dem ikke,\fmen din højre hånd og din arm\fog dit ansigts lys,\ffor du holdt af dem.",
       "number": 4
     },
     {
-      "text": "Du, du er min konge, Gud,befal Jakobs frelse at komme!",
+      "text": "\fDu, du er min konge, Gud,\fbefal Jakobs frelse at komme!",
       "number": 5
     },
     {
-      "text": "Ved dig skal vi støde vore fjender ned,i dit navn skal vi træde modstandere ned.",
+      "text": "\fVed dig skal vi støde vore fjender ned,\fi dit navn skal vi træde modstandere ned.",
       "number": 6
     },
     {
-      "text": "For jeg vil ikke stole på min bue,og mit sværd kan ikke frelse mig.",
+      "text": "\fFor jeg vil ikke stole på min bue,\fog mit sværd kan ikke frelse mig.",
       "number": 7
     },
     {
-      "text": "Men du har frelst os fra vore fjender,og du har gjort dem som hader os, til skamme.",
+      "text": "\fMen du har frelst os fra vore fjender,\fog du har gjort dem som hader os, til skamme.",
       "number": 8
     },
     {
-      "text": "Gud har vi lovprist hele dagen,og dit navn vil vi takke til evig tid. Sela",
+      "text": "\fGud har vi lovprist hele dagen,\fog dit navn vil vi takke til evig tid. Sela",
       "number": 9
     },
     {
-      "text": "Alligevel har du forstødt os og gjort os til skammeog vil ikke drage ud med vore hære.",
+      "text": "\fAlligevel har du forstødt os og gjort os til skamme\fog vil ikke drage ud med vore hære.",
       "number": 10
     },
     {
-      "text": "Du lader os vige tilbage for fjenden,og de som hader os, har taget sig bytte.",
+      "text": "\fDu lader os vige tilbage for fjenden,\fog de som hader os, har taget sig bytte.",
       "number": 11
     },
     {
-      "text": "Du giver os hen som småkvæg til at fortæresog har spredt os blandt folkeslagene.",
+      "text": "\fDu giver os hen som småkvæg til at fortæres\fog har spredt os blandt folkeslagene.",
       "number": 12
     },
     {
-      "text": "Du sælger dit folk for intet,og du fik ingen gevinst ved prisen for dem.",
+      "text": "\fDu sælger dit folk for intet,\fog du fik ingen gevinst ved prisen for dem.",
       "number": 13
     },
     {
-      "text": "Du gør os til skændsel for vore naboer,til spot og spe for vore omgivelser.",
+      "text": "\fDu gør os til skændsel for vore naboer,\ftil spot og spe for vore omgivelser.",
       "number": 14
     },
     {
-      "text": "Du gør os til et ordsprog blandt folkeslagene,man ryster på hovedet over os blandt folkene.",
+      "text": "\fDu gør os til et ordsprog blandt folkeslagene,\fman ryster på hovedet over os blandt folkene.",
       "number": 15
     },
     {
-      "text": "Hele dagen har jeg min skændsel foran mig,og mit ansigts skam har tildækket mig",
+      "text": "\fHele dagen har jeg min skændsel foran mig,\fog mit ansigts skam har tildækket mig",
       "number": 16
     },
     {
-      "text": "på grund af en spottende og hånende stemme,på grund af fjendes og hævngerrigs blik.",
+      "text": "\fpå grund af en spottende og hånende stemme,\fpå grund af fjendes og hævngerrigs blik.",
       "number": 17
     },
     {
-      "text": "Alt dette er kommet over os, men vi havde ikke glemt dig,og vi var ikke utro imod din pagt.",
+      "text": "\fAlt dette er kommet over os, men vi havde ikke glemt dig,\fog vi var ikke utro imod din pagt.",
       "number": 18
     },
     {
-      "text": "Vort hjerte veg ikke tilbage,og vor gang bøjede ikke af fra din vej,",
+      "text": "\fVort hjerte veg ikke tilbage,\fog vor gang bøjede ikke af fra din vej,",
       "number": 19
     },
     {
-      "text": "så at du skulle knuse os i sjakalers tilholdsstedog dække os med dødsskygge.",
+      "text": "\fså at du skulle knuse os i sjakalers tilholdssted\fog dække os med dødsskygge.",
       "number": 20
     },
     {
-      "text": "Hvis vi glemte vor Guds navnog bredte vore hænder ud mod en fremmed gud,",
+      "text": "\fHvis vi glemte vor Guds navn\fog bredte vore hænder ud mod en fremmed gud,",
       "number": 21
     },
     {
-      "text": "ville Gud så ikke gennemskue det?For han kender et hjertes hemmeligheder.",
+      "text": "\fville Gud så ikke gennemskue det?\fFor han kender et hjertes hemmeligheder.",
       "number": 22
     },
     {
-      "text": "Alligevel dræbes vi dagen lang på grund af dig,vi regnes som slagtefår.",
+      "text": "\fAlligevel dræbes vi dagen lang på grund af dig,\fvi regnes som slagtefår.",
       "number": 23
     },
     {
-      "text": "Vågn, hvorfor vil du sove, Herre?Vågn op, forkast ikke for evigt!",
+      "text": "\fVågn, hvorfor vil du sove, Herre?\fVågn op, forkast ikke for evigt!",
       "number": 24
     },
     {
-      "text": "Hvorfor vil du skjule dit ansigt,glemme vor nød og vor trængsel?",
+      "text": "\fHvorfor vil du skjule dit ansigt,\fglemme vor nød og vor trængsel?",
       "number": 25
     },
     {
-      "text": "For vor sjæl er bøjet ned i støvet,vor krop er klæbet til jorden.",
+      "text": "\fFor vor sjæl er bøjet ned i støvet,\fvor krop er klæbet til jorden.",
       "number": 26
     },
     {
-      "text": "Rejs dig som hjælp for osog forløs os for din nådes{N: nåde} skyld!",
+      "text": "\fRejs dig som hjælp for os\fog forløs os for din nådes skyld!",
       "number": 27
     }
   ],
@@ -144,85 +158,91 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
       "type": "E",
       "verse": 1,
-      "position": 21
+      "position": 23
     },
     {
       "text": ">>du – din hånd<< trækkes ofte tilbage som afslutning af v. 2 (>>i gamle dage, med din hånd<<).",
       "type": "E",
       "verse": 3,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Det er >>fædrene<<.",
       "type": "T",
       "verse": 3,
-      "position": 42
+      "position": 43
     },
     {
       "text": "Eller: >>havde velbehag i dem<<.",
       "type": "T",
       "verse": 4,
-      "position": 138
+      "position": 143
     },
     {
       "text": "Se note til næste linje.",
       "type": "T",
       "verse": 5,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Bl.a. med støtte i Septuaginta retter man ofte så imperativen undgås: *ʔᵉlōhîm ṣawwēʰ* (>>Gud, befal<<) til *ʔᵉlōhāj mᵉṣawweʰ*: >>(du er min konge,) min Gud, du befaler …<<. I konsonantteksten er der blot tale om at lade det *m*, der er sidste bogstav i *ʔᵉlōhîm* være første bogstav i det efterfølgende *ṣawwēʰ*.",
       "type": "E",
       "verse": 5,
-      "position": 54
+      "position": 56
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 9,
-      "position": 74
+      "position": 76
     },
     {
       "text": "Verberne i afsnittet skifter mellem qatal og yiqtol. Man kunne vælge at lade dem alle være afhængige af det første (>>du har forstødt os<<) og oversætte alle ved fortid. Her afspejles skiftet i de hebraiske verber, så yiqtol angiver nutid eller nær forestående fremtid.",
       "type": "E",
       "verse": 10,
-      "position": 51
+      "position": 52
     },
     {
       "text": "Oversættes ofte: >>slagtefår<<.",
       "type": "T",
       "verse": 12,
-      "position": 43
+      "position": 44
     },
     {
       "text": "Kan også oversættes: >>hedningerne<<.",
       "type": "T",
       "verse": 12,
-      "position": 80
+      "position": 82
     },
     {
       "text": "Ordret: >>for ikke-rigdom<<.",
       "type": "T",
       "verse": 13,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Det er enten ørken eller ruinby.",
       "type": "T",
       "verse": 20,
-      "position": 49
+      "position": 50
     },
     {
       "text": "*ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwæt* (>>død<<). Og skygge er normalt i Mellemøsten et gode. Men digteren kan have villet understrege den yderste hjælpeløshed ved et sammensat ord. Ofte oversættes ordet nu blot: >>mørke, skygge<<.",
       "type": "E",
       "verse": 20,
-      "position": 76
+      "position": 78
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 27,
+      "position": 53
     }
   ]
 }

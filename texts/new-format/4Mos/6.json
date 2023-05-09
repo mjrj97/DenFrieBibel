@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 6,
   "version": 1493935200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Hvis nogen meget pludselig dør hos ham og gør hans hoved med afholdenhedsmærket urent, da skal han rage det på renselsesdagen, på den syvende dag skal han rage det.",
+      "text": "\fHvis nogen meget pludselig dør hos ham og gør hans hoved med afholdenhedsmærket urent, da skal han rage det på renselsesdagen, på den syvende dag skal han rage det.",
       "number": 9
     },
     {
@@ -53,7 +63,7 @@
       "number": 12
     },
     {
-      "text": "Dette er nasiræerloven: Den dag hans afholdenhedstid udløber, skal han fremføre følgende for indgangen til forsamlingsteltet:",
+      "text": "\fDette er nasiræerloven: Den dag hans afholdenhedstid udløber, skal han fremføre følgende for indgangen til forsamlingsteltet:",
       "number": 13
     },
     {
@@ -89,7 +99,7 @@
       "number": 21
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 22
     },
     {

@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 35,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Ørken og tørt land skal glæde sig, ødemark skal juble og blomstre som en rose.",
+      "text": "\fØrken og tørt land skal glæde sig, ødemark skal juble og blomstre som en rose.",
       "number": 1
     },
     {
@@ -56,7 +66,7 @@
       "text": "Det hebraiske ord, *ḥᵃvaṣṣālet*, er omdiskuteret, men betegner muligvis >>høsttidløs<<.",
       "type": "E",
       "verse": 1,
-      "position": 78
+      "position": 79
     }
   ]
 }

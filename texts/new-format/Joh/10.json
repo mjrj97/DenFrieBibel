@@ -3,9 +3,23 @@
   "abbreviation": "Joh",
   "chapter": 10,
   "version": 1617746400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Jeg er den gode hyrde; den gode hyrde sætter sit liv ind for fårene.",
+      "text": "\fJeg er den gode hyrde; den gode hyrde sætter sit liv ind for fårene.",
       "number": 11
     },
     {

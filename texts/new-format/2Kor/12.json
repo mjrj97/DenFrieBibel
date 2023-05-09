@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 12,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Rose mig må jeg. Gavnligt er det ganske vist ikke; men nu kommer jeg til syner og åbenbaringer fra Herren.",
+      "text": "\fRose mig må jeg. Gavnligt er det ganske vist ikke; men nu kommer jeg til syner og åbenbaringer fra Herren.",
       "number": 1
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "Jeg er bleven en tåbe. I tvang mig til det. Jeg burde jo anbefales af jer; for jeg har ikke stået tilbage i noget for de fremragende Apostle, selvom jeg ikke er noget.",
+      "text": "\fJeg er bleven en tåbe. I tvang mig til det. Jeg burde jo anbefales af jer; for jeg har ikke stået tilbage i noget for de fremragende Apostle, selvom jeg ikke er noget.",
       "number": 11
     },
     {
@@ -77,7 +91,7 @@
       "number": 18
     },
     {
-      "text": "Nu har I længe ment, at vi forsvarer os over for jer. Nej, for Guds ansigt taler vi i Kristus. Men det sker alt sammen, I elskede, for jeres opbyggelses skyld.",
+      "text": "\fNu har I længe ment, at vi forsvarer os over for jer. Nej, for Guds ansigt taler vi i Kristus. Men det sker alt sammen, I elskede, for jeres opbyggelses skyld.",
       "number": 19
     },
     {

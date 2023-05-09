@@ -3,29 +3,43 @@
   "abbreviation": "Es",
   "chapter": 12,
   "version": 1674774000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "På den dag skal du sige:>>Jeg vil takke dig, JHVH, for du har været vred på mig,din vrede har lagt sig, så du trøster mig.",
+      "text": "\fPå den dag skal du sige:\f>>Jeg vil takke dig, JHVH, for du har været vred på mig,\fdin vrede har lagt sig, så du trøster mig.",
       "number": 1
     },
     {
-      "text": "Se, Gud er min frelse,jeg vil være tryg og ikke frygte,for min styrke og min lovsang er JHVH, JHVH,og han blev mig til frelse.<<",
+      "text": "\fSe, Gud er min frelse,\fjeg vil være tryg og ikke frygte,\ffor min styrke og min lovsang er JHVH, JHVH,\fog han blev mig til frelse.<<",
       "number": 2
     },
     {
-      "text": "I skal øse vand med glædeaf frelsens kilder.",
+      "text": "\fI skal øse vand med glæde\faf frelsens kilder.",
       "number": 3
     },
     {
-      "text": "På den dag skal I sige:>>Tak JHVH, påkald hans navn,kundgør hans gerninger blandt folkeslagene,forkynd at hans navn er stort.<<",
+      "text": "\fPå den dag skal I sige:\f>>Tak JHVH, påkald hans navn,\fkundgør hans gerninger blandt folkeslagene,\fforkynd at hans navn er stort.<<",
       "number": 4
     },
     {
-      "text": "Lovsyng JHVH, for han har gjort herlige ting,det være kendt på hele jorden.",
+      "text": "\fLovsyng JHVH, for han har gjort herlige ting,\fdet være kendt på hele jorden.",
       "number": 5
     },
     {
-      "text": "Bryd ud i jubel og råb af fryd, du Zions beboer,{E: Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.}for Israels Hellige er stor i din midte.",
+      "text": "\fBryd ud i jubel og råb af fryd, du Zions beboer,\ffor Israels Hellige er stor i din midte.",
       "number": 6
     }
   ],
@@ -40,13 +54,19 @@
       "text": "Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Sl 118,14, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.",
       "type": "E",
       "verse": 2,
-      "position": 84
+      "position": 87
     },
     {
       "text": "Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til >>JH<<. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
       "type": "E",
       "verse": 2,
-      "position": 93
+      "position": 96
+    },
+    {
+      "text": "Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.",
+      "type": "E",
+      "verse": 6,
+      "position": 49
     }
   ]
 }

@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 4,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses og Aron:",
+      "text": "\fJHVH talte til Moses og Aron:",
       "number": 1
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 21
     },
     {
@@ -117,7 +127,7 @@
       "number": 28
     },
     {
-      "text": "Du skal tælle meraritterne efter deres slægter, efter deres fædrenehus,",
+      "text": "\fDu skal tælle meraritterne efter deres slægter, efter deres fædrenehus,",
       "number": 29
     },
     {
@@ -137,7 +147,7 @@
       "number": 33
     },
     {
-      "text": "Moses og Aron og forsamlingens ledere talte kehatitterne efter deres slægter og efter deres fædrenehus,",
+      "text": "\fMoses og Aron og forsamlingens ledere talte kehatitterne efter deres slægter og efter deres fædrenehus,",
       "number": 34
     },
     {

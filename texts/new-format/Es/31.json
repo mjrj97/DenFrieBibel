@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 31,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Ve dem, der tager ned til Egypten efter hjælp og stoler på heste og har tillid til vogne, fordi de er mange, og til ryttere, fordi de er meget stærke , men ikke ser hen til den Hellige i Israel og ikke søger JHVH!",
+      "text": "\fVe dem, der tager ned til Egypten efter hjælp og stoler på heste og har tillid til vogne, fordi de er mange, og til ryttere, fordi de er meget stærke , men ikke ser hen til den Hellige i Israel og ikke søger JHVH!",
       "number": 1
     },
     {
@@ -17,7 +27,7 @@
       "number": 3
     },
     {
-      "text": "For JHVH sagde sådan til mig: Ligesom en løve og en ung løve brøler over sit bytte, og selvom mange hyrder kaldes sammen imod den, den da ikke forskrækkes over deres råb og ikke bliver bange for deres larm, sådan skal JHVH Zebaoth fare ned og kæmpe på Zions bjerg og på dens høj.",
+      "text": "\fFor JHVH sagde sådan til mig: Ligesom en løve og en ung løve brøler over sit bytte, og selvom mange hyrder kaldes sammen imod den, den da ikke forskrækkes over deres råb og ikke bliver bange for deres larm, sådan skal JHVH Zebaoth fare ned og kæmpe på Zions bjerg og på dens høj.",
       "number": 4
     },
     {
@@ -33,11 +43,11 @@
       "number": 7
     },
     {
-      "text": "Og Assur skal ikke falde ved et menneskes sværd, men et sværd, der ikke er et menneskes, skal æde ham; og han skal flygte for sværdet, og hans unge mænd skal gøres til slaver;",
+      "text": "\fOg Assur skal ikke falde ved et menneskes sværd, men et sværd, der ikke er et menneskes, skal æde ham; og han skal flygte for sværdet, og hans unge mænd skal gøres til slaver;",
       "number": 8
     },
     {
-      "text": "og sin klippe {T: Assyriens konge} skal han undgå af frygt, og hans fyrster skal skræmmes bort fra banneret, siger JHVH, der har sin ild i Zion og sin ovn i Jerusalem.",
+      "text": "og sin klippe skal han undgå af frygt, og hans fyrster skal skræmmes bort fra banneret, siger JHVH, der har sin ild i Zion og sin ovn i Jerusalem.",
       "number": 9
     }
   ],
@@ -47,5 +57,12 @@
       "verse": 1
     }
   ],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "Assyriens konge",
+      "type": "T",
+      "verse": 9,
+      "position": 14
+    }
+  ]
 }

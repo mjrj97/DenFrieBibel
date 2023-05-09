@@ -3,125 +3,139 @@
   "abbreviation": "Job",
   "chapter": 6,
   "version": 1681336800000,
+  "authors": [
+    {
+      "name": "Lydia Nørrelykke Gad",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og Job sagde\n\t:",
+      "text": "\fOg Job sagde\n\t:",
       "number": 1
     },
     {
-      "text": "\t\t>>Åh, om man virkelig ville veje min fortvivlelse\n\t\t\t\t\t\t\tog også lægge min ulykke på vægtskålen,",
+      "text": "\f\t\t>>Åh, om man virkelig ville veje min fortvivlelse\n\t\t\t\t\t\t\tog også lægge min ulykke på vægtskålen,",
       "number": 2
     },
     {
-      "text": "\t\t\t\t\t\tfor nu er de tungere end havets sand.\n\t\t\t\t\t\t\tDerfor var min tale overilet.",
+      "text": "\f\t\t\t\t\t\tfor nu er de tungere end havets sand.\f\n\t\t\t\t\t\t\tDerfor var min tale overilet.",
       "number": 3
     },
     {
-      "text": "\t\t\t\t\tFor den Almægtiges pile sidder i mig,\n\t\t\t\t\t\t\tså min ånd drikker deres gift;\n\t\t\t\t\t\tGuds rædsler angriber mig.",
+      "text": "\f\t\t\t\t\tFor den Almægtiges pile sidder i mig,\f\n\t\t\t\t\t\t\tså min ånd drikker deres gift;\f\n\t\t\t\t\t\tGuds rædsler angriber mig.",
       "number": 4
     },
     {
-      "text": "\t\t\t\tSkriger vildæslet over frisk græs?\n\t\t\t\t\tBrøler oksen når den har foder?",
+      "text": "\f\t\t\t\tSkriger vildæslet over frisk græs?\f\n\t\t\t\t\tBrøler oksen når den har foder?",
       "number": 5
     },
     {
-      "text": "\t\t\t\tMon mad uden smag spises uden salt,\n\t\t\t\t\tmon der er smag i katostens saft?",
+      "text": "\f\t\t\t\tMon mad uden smag spises uden salt,\f\n\t\t\t\t\tmon der er smag i katostens saft?",
       "number": 6
     },
     {
-      "text": "\t\t\t\t\t\tJeg værger mig ved at røre det;\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tde er som fordærvet mad.",
+      "text": "\f\t\t\t\t\t\tJeg værger mig ved at røre det;\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\f\n\t\t\t\t\t\t\tde er som fordærvet mad.",
       "number": 7
     },
     {
-      "text": "\t\t\tGid\n\t\t\t\t\t\t\tmin bøn måtte nå frem,\n\t\t\t\t\t\tog Gud gav mig håb!",
+      "text": "\f\t\t\tGid\n\t\t\t\t\t\t\tmin bøn måtte nå frem,\f\n\t\t\t\t\t\tog Gud gav mig håb!",
       "number": 8
     },
     {
-      "text": "\t\t\t\t\t\t\tGid Gud ville være tilfreds\n\t\t\t\t\t\t\t\t\tog knuse mig,\n\t\t\t\t\t\t\t\tløfte sin hånd\n\t\t\t\t\t\t\t\t\tog skære mig af.",
+      "text": "\f\t\t\t\t\t\t\tGid Gud ville være tilfreds\n\t\t\t\t\t\t\t\t\tog knuse mig,\f\n\t\t\t\t\t\t\t\tløfte sin hånd\n\t\t\t\t\t\t\t\t\tog skære mig af.",
       "number": 9
     },
     {
-      "text": "\t\t\t\t\tMå det stadig være min trøst,\n\t\t\t\t\t\t\tog lad mig juble i lidelsen,\n\t\t\t\t\t\t\t\thvor ingen har medlidenhed,\n\t\t\t\t\t\tat jeg ikke har fornægtet den Helliges tale.",
+      "text": "\f\t\t\t\t\tMå det stadig være min trøst,\f\n\t\t\t\t\t\t\tog lad mig juble i lidelsen,\n\t\t\t\t\t\t\t\thvor ingen har medlidenhed,\f\n\t\t\t\t\t\tat jeg ikke har fornægtet den Helliges tale.",
       "number": 10
     },
     {
-      "text": "\t\t\t\tHvad er min styrke\n\t\t\t\t\t\t\tat jeg skulle håbe,\n\t\t\t\t\t\tog hvilket endeligt venter mig\n\t\t\t\t\t\t\tat jeg skulle være tålmodig?",
+      "text": "\f\t\t\t\tHvad er min styrke\n\t\t\t\t\t\t\tat jeg skulle håbe,\f\n\t\t\t\t\t\tog hvilket endeligt venter mig\n\t\t\t\t\t\t\tat jeg skulle være tålmodig?",
       "number": 11
     },
     {
-      "text": "\t\t\t\t\tEr min styrke som stenens styrke?\n\t\t\t\t\t\tEr mit kød af bronze?",
+      "text": "\f\t\t\t\t\tEr min styrke som stenens styrke?\f\n\t\t\t\t\t\tEr mit kød af bronze?",
       "number": 12
     },
     {
-      "text": "\t\t\t\t\t\t\tEr min hjælp virkelig ikke i mig selv\n\t\t\t\t\t\t\t\tog er lykken blev fjernet fra mig?",
+      "text": "\f\t\t\t\t\t\t\tEr min hjælp virkelig ikke i mig selv\f\n\t\t\t\t\t\t\t\tog er lykken blev fjernet fra mig?",
       "number": 13
     },
     {
-      "text": "\t\tDen der nægter sin ven nåde,\n\t\t\t\than har forladt frygten for den Almægtige.",
+      "text": "\f\t\tDen der nægter sin ven nåde,\f\n\t\t\t\than har forladt frygten for den Almægtige.",
       "number": 14
     },
     {
-      "text": "\t\t\tMine brødre har svigtet som en bæk,\n\t\t\t\t\tsom vandstrømmene i en wadi blev de borte.",
+      "text": "\f\t\t\tMine brødre har svigtet som en bæk,\f\n\t\t\t\t\tsom vandstrømmene i en wadi blev de borte.",
       "number": 15
     },
     {
-      "text": "\t\t\t\t\t\t\t\tDe er grumset af is,\n\t\t\t\t\t\t\thvori sne skjuler sig.",
+      "text": "\f\t\t\t\t\t\t\t\tDe er grumset af is,\f\n\t\t\t\t\t\t\thvori sne skjuler sig.",
       "number": 16
     },
     {
-      "text": "\t\t\t\t\t\t\t\tTil sin tid\n\t\t\t\t\t\t\t\t\t\t\ttørrer de ud\n\t\t\t\t\t\t\t\t\t\tog forsvinder,\n\t\t\t\t\t\t\t\t\t\ti varmen\n\t\t\t\t\t\t\t\t\ttørrer de ud fra deres flodlejer.",
+      "text": "\f\t\t\t\t\t\t\t\tTil sin tid\n\t\t\t\t\t\t\t\t\t\t\ttørrer de ud\n\t\t\t\t\t\t\t\t\t\tog forsvinder,\f\n\t\t\t\t\t\t\t\t\t\ti varmen\n\t\t\t\t\t\t\t\t\ttørrer de ud fra deres flodlejer.",
       "number": 17
     },
     {
-      "text": "\t\t\t\t\t\tKaravaner bøjer af fra deres vej,\n\t\t\t\t\t\t\t\tde drager op i ørkenen\n\t\t\t\t\t\t\t\t\tog omkommer.",
+      "text": "\f\t\t\t\t\t\tKaravaner bøjer af fra deres vej,\f\n\t\t\t\t\t\t\t\tde drager op i ørkenen\n\t\t\t\t\t\t\t\t\tog omkommer.",
       "number": 18
     },
     {
-      "text": "\t\t\t\t\t\t\tKaravanerne fra Tema spejdede efter dem,\n\t\t\t\t\t\t\t\tde vejfarende fra Saba satte deres håb til dem.",
+      "text": "\f\t\t\t\t\t\t\tKaravanerne fra Tema spejdede efter dem,\f\n\t\t\t\t\t\t\t\tde vejfarende fra Saba satte deres håb til dem.",
       "number": 19
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tDe blev til skamme,\n\t\t\t\t\t\t\t\t\t\tfordi de stolede på dem,\n\t\t\t\t\t\t\t\t\tde kom helt hen til dem\n\t\t\t\t\t\t\t\t\t\tog blev skuffede.",
+      "text": "\f\t\t\t\t\t\t\t\t\tDe blev til skamme,\n\t\t\t\t\t\t\t\t\t\tfordi de stolede på dem,\f\n\t\t\t\t\t\t\t\t\tde kom helt hen til dem\n\t\t\t\t\t\t\t\t\t\tog blev skuffede.",
       "number": 20
     },
     {
-      "text": "\t\t\t\tJa, nu sker det for jer,\n\t\t\t\t\t\t\t\tI ser rædsel\n\t\t\t\t\t\t\t\t\tog bliver bange!",
+      "text": "\f\t\t\t\tJa, nu sker det for jer,\f\n\t\t\t\t\t\t\t\tI ser rædsel\n\t\t\t\t\t\t\t\t\tog bliver bange!",
       "number": 21
     },
     {
-      "text": "\t\t\t\t\t\t\tHar jeg måske sagt:\n\t\t\t\t\t\t\t\t>>Giv mig noget!<<\n\t\t\t\t\t\t\t\t\t\t>>Giv mig en gave til mit bedste af jeres rigdom!<<",
+      "text": "\f\t\t\t\t\t\t\tHar jeg måske sagt:\n\t\t\t\t\t\t\t\t>>Giv mig noget!<<\f\n\t\t\t\t\t\t\t\t\t\t>>Giv mig en gave til mit bedste af jeres rigdom!<<",
       "number": 22
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tEller: >>Befri mig fra fjendens magt\n\t\t\t\t\t\t\t\t\t\tog løskøb mig fra voldsmænd!<<",
+      "text": "\f\t\t\t\t\t\t\t\t\tEller: >>Befri mig fra fjendens magt\f\n\t\t\t\t\t\t\t\t\t\tog løskøb mig fra voldsmænd!<<",
       "number": 23
     },
     {
-      "text": "\t\t\t\t\t\tUndervis mig,\n\t\t\t\t\t\t\t\tog jeg vil tie stille,\n\t\t\t\t\t\t\tog\n\t\t\t\t\t\t\t\t\t\ter jeg faret vild,\n\t\t\t\t\t\t\t\t\tså belær mig!",
+      "text": "\f\t\t\t\t\t\tUndervis mig,\n\t\t\t\t\t\t\t\tog jeg vil tie stille,\f\n\t\t\t\t\t\t\tog\n\t\t\t\t\t\t\t\t\t\ter jeg faret vild,\n\t\t\t\t\t\t\t\t\tså belær mig!",
       "number": 24
     },
     {
-      "text": "\t\t\t\t\t\t\t\tHvor er oprigtiges tale virkningsfuld!\n\t\t\t\t\t\t\t\t\t\tMen hvad gavn har man af irettesættelse fra jer?",
+      "text": "\f\t\t\t\t\t\t\t\tHvor er oprigtiges tale virkningsfuld!\f\n\t\t\t\t\t\t\t\t\t\tMen hvad gavn har man af irettesættelse fra jer?",
       "number": 25
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tMon\n\t\t\t\t\t\t\t\t\t\t\t\tI har udtænkt jeres tale som en irettesættelse?\n\t\n\t\t\t\t\t\t\t\t\t\t\t\tEr den fortvivledes ord forgæves?",
+      "text": "\f\t\t\t\t\t\t\t\t\tMon\n\t\t\t\t\t\t\t\t\t\t\t\tI har udtænkt jeres tale som en irettesættelse?\n\t\f\n\t\t\t\t\t\t\t\t\t\t\t\tEr den fortvivledes ord forgæves?",
       "number": 26
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tEndog om den forældreløse ville I kaste lod,\n\t\t\t\t\t\t\t\t\t\t\tog I ville handle om jeres ven.",
+      "text": "\f\t\t\t\t\t\t\t\t\t\tEndog om den forældreløse ville I kaste lod,\f\n\t\t\t\t\t\t\t\t\t\t\tog I ville handle om jeres ven.",
       "number": 27
     },
     {
-      "text": "\t\t\t\t\tMen nu\n\t\t\t\t\t\t\tmå I beslutte jer,\n\t\t\t\t\t\t\tvend jer mod mig,\n\t\t\t\t\t\t\t\tog over for jer,\n\t\t\t\t\t\t\t\t\ttror I jeg ville lyve?",
+      "text": "\f\t\t\t\t\tMen nu\n\t\t\t\t\t\t\tmå I beslutte jer,\n\t\t\t\t\t\t\tvend jer mod mig,\f\n\t\t\t\t\t\t\t\tog over for jer,\n\t\t\t\t\t\t\t\t\ttror I jeg ville lyve?",
       "number": 28
     },
     {
-      "text": "\t\t\t\t\t\t\tVend om,\n\t\t\t\t\t\t\t\t\tlad der ikke forekomme uret,\n\t\t\t\t\t\t\t\tmen vend om,\n\t\t\t\t\t\t\t\t\tretten er stadig på min side.",
+      "text": "\f\t\t\t\t\t\t\tVend om,\n\t\t\t\t\t\t\t\t\tlad der ikke forekomme uret,\f\n\t\t\t\t\t\t\t\tmen vend om,\n\t\t\t\t\t\t\t\t\tretten er stadig på min side.",
       "number": 29
     },
     {
-      "text": "\t\t\t\t\t\tEr der uret på min tunge?\n\t\t\t\t\t\t\tKan min gane ikke skelne ulykker?",
+      "text": "\f\t\t\t\t\t\tEr der uret på min tunge?\f\n\t\t\t\t\t\t\tKan min gane ikke skelne ulykker?",
       "number": 30
     }
   ],
@@ -144,145 +158,145 @@
       "text": "Ordret >>vægtskålene<<.",
       "type": "T",
       "verse": 2,
-      "position": 98
+      "position": 99
     },
     {
       "text": "Juice (slimet) fra *ḥallāmût*. Det hebraiske ord har flere betydninger, (1) malve/katost, en plante med lilla blomster, anvendt i naturmedicin, spiselig plante, mild cremet smag; (2) æggehvide, virkelig uden smag (3) purslane /portulak, anvendes i salat, smagen er let syrlig. Anvendelsen her er figurativt om smagløs, uinteressant og kedsommelig samtale.",
       "type": "E",
       "verse": 6,
-      "position": 78
+      "position": 80
     },
     {
       "text": "Ordret: >>min sjæl<<.",
       "type": "T",
       "verse": 7,
-      "position": 9
+      "position": 10
     },
     {
       "text": "I betydningen lidelserne.",
       "type": "T",
       "verse": 7,
-      "position": 66
+      "position": 68
     },
     {
       "text": "Kan også oversættes: >>som sygdom i min krop<<.",
       "type": "T",
       "verse": 7,
-      "position": 88
+      "position": 90
     },
     {
       "text": "Kan også oversættes >>beslutte<<.",
       "type": "T",
       "verse": 9,
-      "position": 34
+      "position": 35
     },
     {
       "text": "Ordret: >>springe højt<< af glæde er meningen",
       "type": "T",
       "verse": 10,
-      "position": 58
+      "position": 60
     },
     {
       "text": "Ordret: >>kval<<, kan også oversættes med >>smerte<<.",
       "type": "T",
       "verse": 10,
-      "position": 70
+      "position": 72
     },
     {
       "text": "Ordret: >>skjult<<.",
       "type": "T",
       "verse": 10,
-      "position": 138
+      "position": 141
     },
     {
       "text": "Ordret: >>stenene<<.",
       "type": "T",
       "verse": 12,
-      "position": 30
+      "position": 31
     },
     {
       "text": "Kan oversættes med >>kobber<<, men her er formentlig tænkt på legeringen bronze = kobber og tin, der er stærkere end rent kobber, se 4 Mos 21.9.",
       "type": "T",
       "verse": 12,
-      "position": 66
+      "position": 68
     },
     {
       "text": "Kan også oversættes >>den fortvivlede skulle forvente nåde fra sin ven, så han ikke skal opgive frygten for den Almægtige<<.",
       "type": "T",
       "verse": 14,
-      "position": 30
+      "position": 31
     },
     {
       "text": ">>De<< henfører til vandstrømmene.",
       "type": "T",
       "verse": 16,
-      "position": 10
+      "position": 11
     },
     {
       "text": "Ordret: >>steder<<, >>områder<<.",
       "type": "T",
       "verse": 17,
-      "position": 130
+      "position": 132
     },
     {
       "text": "Ordret: >>tomhed<<, samme hebraiske ord anvendt i 1 Mos 1,1.2.",
       "type": "T",
       "verse": 18,
-      "position": 70
+      "position": 72
     },
     {
       "text": ">>Efter dem<< er føjet til. Ordet >>dem<< hentyder til vand, vandstrømme. Dette er underforstået i vers 19-20.",
       "type": "T",
       "verse": 19,
-      "position": 47
+      "position": 48
     },
     {
       "text": "Ordret: >>søge efter<<, >>søge intenst<<.",
       "type": "T",
       "verse": 20,
-      "position": 124
+      "position": 126
     },
     {
       "text": "Ordret >>styrke<<.",
       "type": "T",
       "verse": 22,
-      "position": 115
+      "position": 117
     },
     {
       "text": "Ordret: >>hånd<<.",
       "type": "T",
       "verse": 23,
-      "position": 45
+      "position": 46
     },
     {
       "text": "Ordret: >>ordene<<.",
       "type": "T",
       "verse": 25,
-      "position": 31
+      "position": 32
     },
     {
       "text": "Kan også oversættes: >>Hvorledes kan oprigtiges tale være skadelig?<<.",
       "type": "T",
       "verse": 25,
-      "position": 46
+      "position": 47
     },
     {
       "text": "Ordret: >>til vinden<<.",
       "type": "T",
       "verse": 26,
-      "position": 120
+      "position": 122
     },
     {
       "text": "Kan også oversættes >>være villige til at<<.",
       "type": "T",
       "verse": 28,
-      "position": 37
+      "position": 38
     },
     {
       "text": "Ordret: >>min ret i det<<.",
       "type": "T",
       "verse": 29,
-      "position": 113
+      "position": 115
     }
   ]
 }

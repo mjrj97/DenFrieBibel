@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 14,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Farao nærmede sig; og Israels børn løftede deres øjne, og se: Egypterne rykkede ud efter dem; da blev de meget bange, og Israels børn råbte til JHVH.",
+      "text": "\fFarao nærmede sig; og Israels børn løftede deres øjne, og se: Egypterne rykkede ud efter dem; da blev de meget bange, og Israels børn råbte til JHVH.",
       "number": 10
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": "JHVH sagde til Moses: >>Hvorfor skriger du til mig? Sig til Israels børn at de skal bryde op;",
+      "text": "\fJHVH sagde til Moses: >>Hvorfor skriger du til mig? Sig til Israels børn at de skal bryde op;",
       "number": 15
     },
     {
@@ -77,7 +91,7 @@
       "number": 18
     },
     {
-      "text": "Da brød Guds engel, som gik foran Israels hær, op og gik om bag dem; og skysøjlen brød op fra at være foran dem og stillede sig bag dem",
+      "text": "\fDa brød Guds engel, som gik foran Israels hær, op og gik om bag dem; og skysøjlen brød op fra at være foran dem og stillede sig bag dem",
       "number": 19
     },
     {
@@ -105,7 +119,7 @@
       "number": 25
     },
     {
-      "text": "Da sagde JHVH til Moses: >>Ræk din hånd ud over havet, så vandet vender tilbage over egypterne, over deres vogne og over deres ryttere.<<",
+      "text": "\fDa sagde JHVH til Moses: >>Ræk din hånd ud over havet, så vandet vender tilbage over egypterne, over deres vogne og over deres ryttere.<<",
       "number": 26
     },
     {
@@ -125,7 +139,7 @@
       "number": 30
     },
     {
-      "text": "Israel så den stærke{T: Ordret: >>store<<.} hånd som JHVH havde vist mod Egypten, og folket frygtede JHVH; og de troede på JHVH og på Moses, hans tjener.",
+      "text": "Israel så den stærke hånd som JHVH havde vist mod Egypten, og folket frygtede JHVH; og de troede på JHVH og på Moses, hans tjener.",
       "number": 31
     }
   ],
@@ -198,7 +212,7 @@
       "text": "Ordret: >>Egypten<<.",
       "type": "T",
       "verse": 10,
-      "position": 71
+      "position": 72
     },
     {
       "text": ">>Egypten<<.",
@@ -276,7 +290,7 @@
       "text": "Ordret: >>Egypten<<. Således også: >>over dets vogne og over dets ryttere<<.",
       "type": "T",
       "verse": 26,
-      "position": 95
+      "position": 96
     },
     {
       "text": "Ordret: >>Egyptens<<.",
@@ -289,6 +303,12 @@
       "type": "T",
       "verse": 30,
       "position": 77
+    },
+    {
+      "text": "Ordret: >>store<<.",
+      "type": "T",
+      "verse": 31,
+      "position": 20
     }
   ]
 }

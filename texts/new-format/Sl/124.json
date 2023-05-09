@@ -3,37 +3,51 @@
   "abbreviation": "Sl",
   "chapter": 124,
   "version": 1492552800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Valfartssang. Af David.Hvis ikke JHVH havde været med os– sådan skal Israel sige –",
+      "text": "\fValfartssang. Af David.\fHvis ikke JHVH havde været med os\f– sådan skal Israel sige –",
       "number": 1
     },
     {
-      "text": "hvis ikke JHVH havde været med os,dengang mennesker rejste sig mod os,",
+      "text": "\fhvis ikke JHVH havde været med os,\fdengang mennesker rejste sig mod os,",
       "number": 2
     },
     {
-      "text": "så havde de opslugt os levendei deres flammende vrede mod os,",
+      "text": "\fså havde de opslugt os levende\fi deres flammende vrede mod os,",
       "number": 3
     },
     {
-      "text": "så var vandene skyllet over os,en vandstrøm var gået over vor hals,",
+      "text": "\fså var vandene skyllet over os,\fen vandstrøm var gået over vor hals,",
       "number": 4
     },
     {
-      "text": "så var de gået over vor hals,de brusende vande!",
+      "text": "\fså var de gået over vor hals,\fde brusende vande!",
       "number": 5
     },
     {
-      "text": "Lovet være JHVHsom ikke gav os til bytte for deres tænder!",
+      "text": "\fLovet være JHVH\fsom ikke gav os til bytte for deres tænder!",
       "number": 6
     },
     {
-      "text": "Vort liv undslap som en fuglaf fuglefængernes fælde.Fælden blev knust,og vi undslap.",
+      "text": "\fVort liv undslap som en fugl\faf fuglefængernes fælde.\fFælden blev knust,\fog vi undslap.",
       "number": 7
     },
     {
-      "text": "Vor hjælp er i JHVHs navn,hans som skabte himmel og jord.",
+      "text": "\fVor hjælp er i JHVHs navn,\fhans som skabte himmel og jord.",
       "number": 8
     }
   ],
@@ -56,37 +70,37 @@
       "text": "Se note til Sl 120,1.",
       "type": "E",
       "verse": 1,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Sætningen kan også oversættes: >>Hvis ikke det var JHVH, der havde været med os<<.",
       "type": "T",
       "verse": 1,
-      "position": 56
+      "position": 58
     },
     {
       "text": "Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.",
       "type": "T",
       "verse": 2,
-      "position": 51
+      "position": 53
     },
     {
       "text": "Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: >>hals<<. Grundbetydningen i GT er dog: >>sjæl<<. Det oversættes ofte: >>liv<<. Her oversættes det ofte: >>os<<.",
       "type": "E",
       "verse": 4,
-      "position": 67
+      "position": 69
     },
     {
       "text": "Kan også oversættes: >>velsignet<<.",
       "type": "T",
       "verse": 6,
-      "position": 5
+      "position": 6
     },
     {
       "text": "Ordret: >>sjæl<<.",
       "type": "T",
       "verse": 7,
-      "position": 8
+      "position": 9
     }
   ]
 }

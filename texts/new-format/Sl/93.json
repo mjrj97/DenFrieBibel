@@ -3,25 +3,39 @@
   "abbreviation": "Sl",
   "chapter": 93,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH er konge!Han har klædt sig i højhed,JHVH har klædt sig, har rustet sig med styrke.Ja, jorden er grundfæstet, den skal ikke rokkes.",
+      "text": "\fJHVH er konge!\fHan har klædt sig i højhed,\fJHVH har klædt sig, har rustet sig med styrke.\fJa, jorden er grundfæstet, den skal ikke rokkes.",
       "number": 1
     },
     {
-      "text": "Din trone står fast fra ældgammel tid,fra evighed er du.",
+      "text": "\fDin trone står fast fra ældgammel tid,\ffra evighed er du.",
       "number": 2
     },
     {
-      "text": "Strømme løftede, JHVHv,strømme løftede deres røst,strømme løfter deres drøn.",
+      "text": "\fStrømme løftede, JHVHv,\fstrømme løftede deres røst,\fstrømme løfter deres drøn.",
       "number": 3
     },
     {
-      "text": "Fremfor vældige vandes buldren,majestætiske havets brændinger,er JHVH majestætisk i det Høje.",
+      "text": "\fFremfor vældige vandes buldren,\fmajestætiske havets brændinger,\fer JHVH majestætisk i det Høje.",
       "number": 4
     },
     {
-      "text": "Dine vidnesbyrd er meget pålidelige,hellighed sømmer sig for dit hus,JHVHv, i evighed. {T: Ordret: >>i dages udstrækning<<.}",
+      "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fJHVHv, i evighed.",
       "number": 5
     }
   ],
@@ -40,25 +54,31 @@
       "text": "Ordret: >>omgjordet sig<<.",
       "type": "T",
       "verse": 1,
-      "position": 75
+      "position": 78
     },
     {
       "text": "Egentlig om bølgers (voldsomme) brusen.",
       "type": "T",
       "verse": 3,
-      "position": 76
+      "position": 79
     },
     {
       "text": "Ordret: >>røst<<.",
       "type": "T",
       "verse": 4,
-      "position": 31
+      "position": 32
     },
     {
       "text": "Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (>>majestætiske/mægtige/herlige<<) skal lægges til, om det er foregående linjes >>vande<< eller denne linjes >>brændinger<<.",
       "type": "E",
       "verse": 4,
-      "position": 43
+      "position": 45
+    },
+    {
+      "text": "Ordret: >>i dages udstrækning<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 90
     }
   ]
 }

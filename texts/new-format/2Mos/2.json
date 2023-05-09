@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 2,
   "version": 1567634400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og en mand af Levis slægt gik hen og tog en Levi-datter.",
+      "text": "\fOg en mand af Levis slægt gik hen og tog en Levi-datter.",
       "number": 1
     },
     {
@@ -21,7 +35,7 @@
       "number": 4
     },
     {
-      "text": "Så gik Faraos datter ned til Nilen for at bade mens hendes unge piger gik ved bredden af Nilen. Da så hun kurven midt i sivene, og hun sendte sin slavinde hen for at tage den.",
+      "text": "\fSå gik Faraos datter ned til Nilen for at bade mens hendes unge piger gik ved bredden af Nilen. Da så hun kurven midt i sivene, og hun sendte sin slavinde hen for at tage den.",
       "number": 5
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "Da Moses var blevet voksen, skete det en dag at han gik ud til sine brødre og så på deres tvangsarbejde, og han så en egyptisk mand i færd med at slå en hebraisk mand af hans brødre ihjel.",
+      "text": "\fDa Moses var blevet voksen, skete det en dag at han gik ud til sine brødre og så på deres tvangsarbejde, og han så en egyptisk mand i færd med at slå en hebraisk mand af hans brødre ihjel.",
       "number": 11
     },
     {
@@ -93,7 +107,7 @@
       "number": 22
     },
     {
-      "text": "I løbet af al den tid døde kongen af Egypten, og Israels børn sukkede under arbejdet og klagede højlydt, og deres råb om hjælp på grund af arbejdet steg op til Gud.",
+      "text": "\fI løbet af al den tid døde kongen af Egypten, og Israels børn sukkede under arbejdet og klagede højlydt, og deres råb om hjælp på grund af arbejdet steg op til Gud.",
       "number": 23
     },
     {
@@ -128,13 +142,13 @@
       "text": "*bayit* betyder ordret både >>hus<< og >>familie/slægt<<. Her er det det sidste, der er tale om.",
       "type": "T",
       "verse": 1,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Underforstået: >>til ægte<<.",
       "type": "E",
       "verse": 1,
-      "position": 56
+      "position": 57
     },
     {
       "text": "Samme hebraiske ord bruges om Noas ark (1 Mos 6,14ff). *tēvāʰ* er egentlig et egyptisk ord som bruges om >>kurv<< eller >>kasse/æske<<.",
@@ -158,13 +172,13 @@
       "text": "Ordet >>brødre<< skal her ikke forstås bogstaveligt, men dækker over folkefæller.",
       "type": "T",
       "verse": 11,
-      "position": 74
+      "position": 75
     },
     {
       "text": "Verbet *nkh* i hif’il kan både betyde: >>slå<< og: >>slå ihjel<<. Brugen af samme ord i næste vers betyder dog nok at der her må være tænkt på det sidste, mens der i vers 13 er tænkt på det første. I vers 14 er der brugt et andet ord.",
       "type": "T",
       "verse": 11,
-      "position": 149
+      "position": 150
     },
     {
       "text": "Ordret: >>således og således<<.",
@@ -206,7 +220,7 @@
       "text": "Ordret: >>de mange dage<<.",
       "type": "T",
       "verse": 23,
-      "position": 21
+      "position": 22
     }
   ]
 }

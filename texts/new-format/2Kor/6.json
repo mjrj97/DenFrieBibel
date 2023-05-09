@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 6,
   "version": 1647644400000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men som medarbejdere formaner vi også til, at I ikke forgæves må have modtaget Guds nåde;",
+      "text": "\fMen som medarbejdere formaner vi også til, at I ikke forgæves må have modtaget Guds nåde;",
       "number": 1
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "Vores mund er åbnet over for jer, korinthere! Vores hjerte har udvidet sig.",
+      "text": "\fVores mund er åbnet over for jer, korinthere! Vores hjerte har udvidet sig.",
       "number": 11
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Træk ikke i ulige åg med vantro; for hvad har retfærdighed at gøre med lovløshed? Eller hvad har lys til fælles med mørke?",
+      "text": "\fTræk ikke i ulige åg med vantro; for hvad har retfærdighed at gøre med lovløshed? Eller hvad har lys til fælles med mørke?",
       "number": 14
     },
     {

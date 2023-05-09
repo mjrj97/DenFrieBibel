@@ -3,89 +3,99 @@
   "abbreviation": "Sl",
   "chapter": 145,
   "version": 1493330400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Lovsang af David.Jeg vil ophøje dig, min Gud, du konge,og jeg vil prise dit navn evigt og altid.",
+      "text": "\fLovsang af David.\fJeg vil ophøje dig, min Gud, du konge,\fog jeg vil prise dit navn evigt og altid.",
       "number": 1
     },
     {
-      "text": "Hver dag vil jeg prise dig,og jeg vil lovprise dit navn evigt og altid.",
+      "text": "\fHver dag vil jeg prise dig,\fog jeg vil lovprise dit navn evigt og altid.",
       "number": 2
     },
     {
-      "text": "JHVH er stor og højt lovprist,og hans storhed kan ikke udforskes.",
+      "text": "\fJHVH er stor og højt lovprist,\fog hans storhed kan ikke udforskes.",
       "number": 3
     },
     {
-      "text": "Slægt skal prise dine gerninger for slægt,og de skal fortælle om dine mægtige gerninger.",
+      "text": "\fSlægt skal prise dine gerninger for slægt,\fog de skal fortælle om dine mægtige gerninger.",
       "number": 4
     },
     {
-      "text": "Om din højheds herlige pragtog om de ting der angår dine undere, vil jeg synge.",
+      "text": "\fOm din højheds herlige pragt\fog om de ting der angår dine undere, vil jeg synge.",
       "number": 5
     },
     {
-      "text": "Og de skal tale om dine frygtindgydende gerningers styrke,og jeg vil fortælle om din storhed.",
+      "text": "\fOg de skal tale om dine frygtindgydende gerningers styrke,\fog jeg vil fortælle om din storhed.",
       "number": 6
     },
     {
-      "text": "De skal udbrede mindet om din store godhedog juble over din retfærdighed.",
+      "text": "\fDe skal udbrede mindet om din store godhed\fog juble over din retfærdighed.",
       "number": 7
     },
     {
-      "text": "JHVH er nådig og barmhjertig, sen til vrede og rig på nåde.",
+      "text": "\fJHVH er nådig og barmhjertig, sen til vrede og rig på nåde.",
       "number": 8
     },
     {
-      "text": "JHVH er god mod alle,og hans barmhjertighed er over alle hans skabninger.",
+      "text": "\fJHVH er god mod alle,\fog hans barmhjertighed er over alle hans skabninger.",
       "number": 9
     },
     {
-      "text": "Alle dine skabninger skal takke dig,og dine fromme skal prise dig.",
+      "text": "\fAlle dine skabninger skal takke dig,\fog dine fromme skal prise dig.",
       "number": 10
     },
     {
-      "text": "De skal fortælle om dit kongedømmes herlighedog tale om din styrke,",
+      "text": "\fDe skal fortælle om dit kongedømmes herlighed\fog tale om din styrke,",
       "number": 11
     },
     {
-      "text": "for at kundgøre for menneskebørnene hans styrkeog hans kongedømmes prægtige herlighed.",
+      "text": "\ffor at kundgøre for menneskebørnene hans styrke\fog hans kongedømmes prægtige herlighed.",
       "number": 12
     },
     {
-      "text": "Dit kongedømme er al evigheds kongedømme,og dit herredømme varer i hver slægt efter slægt.",
+      "text": "\fDit kongedømme er al evigheds kongedømme,\fog dit herredømme varer i hver slægt efter slægt.",
       "number": 13
     },
     {
-      "text": "JHVH støtter alle som falder,og rejser alle nedbøjede.",
+      "text": "\fJHVH støtter alle som falder,\fog rejser alle nedbøjede.",
       "number": 14
     },
     {
-      "text": "Alles øjne venter med håb på dig,og du giver dem deres føde i rette tid.",
+      "text": "\fAlles øjne venter med håb på dig,\fog du giver dem deres føde i rette tid.",
       "number": 15
     },
     {
-      "text": "Du åbner din håndog mætter alt levende med velbehag,",
+      "text": "\fDu åbner din hånd\fog mætter alt levende med velbehag,",
       "number": 16
     },
     {
-      "text": "Retfærdig er JHVH på alle sine veje,nådig i alle sine gerninger.",
+      "text": "\fRetfærdig er JHVH på alle sine veje,\fnådig i alle sine gerninger.",
       "number": 17
     },
     {
-      "text": "Nær er JHVH hos alle som kalder på ham,hos alle som kalder på ham i oprigtighed.",
+      "text": "\fNær er JHVH hos alle som kalder på ham,\fhos alle som kalder på ham i oprigtighed.",
       "number": 18
     },
     {
-      "text": "Han gør hvad de som frygter ham, ønsker,og han hører deres skrig og frelser dem.",
+      "text": "\fHan gør hvad de som frygter ham, ønsker,\fog han hører deres skrig og frelser dem.",
       "number": 19
     },
     {
-      "text": "Herren beskytter alle dem, som elsker ham,men han udrydder alle de ugudelige.",
+      "text": "\fHerren beskytter alle dem, som elsker ham,\fmen han udrydder alle de ugudelige.",
       "number": 20
     },
     {
-      "text": "Min mund skal udsige JHVHs pris,og alt kød skal prise{T: Kan også oversættes: >>velsigne<<.} hans hellige navnevigt og altid.",
+      "text": "\fMin mund skal udsige JHVHs pris,\fog alt kød skal prise hans hellige navn\fevigt og altid.",
       "number": 21
     }
   ],
@@ -116,85 +126,91 @@
       "text": "Kan også her og i v. 2 oversættes: >>velsigne<<.",
       "type": "T",
       "verse": 1,
-      "position": 71
+      "position": 74
     },
     {
       "text": "Med Septuaginta og den gamle syriske oversættelse flytter mange fortolkere og oversættere den skillende accent så: *wᵊdivrê* (>>og de ting/ord der angår<<) kommer til at høre til første halvvers, og det rettes til: *yᵊdabbērû*: >>de taler<<. Oversættelsen bliver da: >>Om din højheds herlige pragt skal de tale, / om dine undere vil jeg synge<<.",
       "type": "E",
       "verse": 5,
-      "position": 79
+      "position": 81
     },
     {
       "text": "Oversættes også: >>langmodig<<.",
       "type": "T",
       "verse": 8,
-      "position": 43
+      "position": 44
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 8,
-      "position": 58
+      "position": 59
     },
     {
       "text": "Kan også oversættes: >>velsigne<<.",
       "type": "T",
       "verse": 10,
-      "position": 61
+      "position": 63
     },
     {
       "text": "Kan også oversættes: >>ære<<.",
       "type": "T",
       "verse": 11,
-      "position": 45
+      "position": 46
     },
     {
       "text": "Her og i næste linje tales der lidt overraskende om Gud i 3. person (>>hans<<) i stedet for som i de omkringstående vers til Gud i 2. person. Mange oversættere retter til 2. person – med støtte i Septuaginta og den gamle syriske oversættelse, men uden støtte i hebraiske håndskrifter. I digterens skift til 3. person kan der måske spores en vis skyhed over for Gud.",
       "type": "E",
       "verse": 12,
-      "position": 40
+      "position": 41
     },
     {
       "text": "Ordrets: >>pragts<<.",
       "type": "T",
       "verse": 12,
-      "position": 75
+      "position": 77
     },
     {
       "text": "Kan også oversættes: >>ære<<.",
       "type": "T",
       "verse": 12,
-      "position": 86
+      "position": 88
     },
     {
       "text": "Se note til salmens nummer.",
       "type": "E",
       "verse": 13,
-      "position": 90
+      "position": 92
     },
     {
       "text": "Ordret: >>til dets tid<<.",
       "type": "T",
       "verse": 15,
-      "position": 72
+      "position": 74
     },
     {
       "text": "Oversættes ofte, let omskrivende: >>med hvad det ønsker<<.",
       "type": "T",
       "verse": 16,
-      "position": 52
+      "position": 54
     },
     {
       "text": "Kan også oversættes: >>i sandhed<<.",
       "type": "T",
       "verse": 18,
-      "position": 80
+      "position": 82
     },
     {
       "text": "Ordret: >>efter deres ønske/velbehag som frygter ham<<.",
       "type": "T",
       "verse": 19,
-      "position": 40
+      "position": 41
+    },
+    {
+      "text": "Kan også oversættes: >>velsigne<<.",
+      "type": "T",
+      "verse": 21,
+      "position": 55
     }
   ]
 }

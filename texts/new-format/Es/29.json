@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 29,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Ve Ariel! Ariel, du by, hvor David slog lejr! Læg år til år, lad højtid følge højtid!",
+      "text": "\fVe Ariel! Ariel, du by, hvor David slog lejr! Læg år til år, lad højtid følge højtid!",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Vær bare fulde af undren, og bliv forundrede! Stir jer bare blinde, og bliv blinde! De er fulde, men ikke af vin; de dingler, men ikke af stærk drik.",
+      "text": "\fVær bare fulde af undren, og bliv forundrede! Stir jer bare blinde, og bliv blinde! De er fulde, men ikke af vin; de dingler, men ikke af stærk drik.",
       "number": 9
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "Er der ikke endnu en meget kort tid, så skal Libanon blive til en frugtbar mark, og en frugtbar mark skal regnes som en skov?",
+      "text": "\fEr der ikke endnu en meget kort tid, så skal Libanon blive til en frugtbar mark, og en frugtbar mark skal regnes som en skov?",
       "number": 17
     },
     {
@@ -112,7 +122,7 @@
       "text": "Det betyder ”Guds løve”, dvs. Jerusalem. Ez 48,15f",
       "type": "T",
       "verse": 1,
-      "position": 10
+      "position": 11
     }
   ]
 }

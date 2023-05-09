@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 16,
   "version": 1494453600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Kora, søn af Jis’har, søn af Kehat, søn af Levi, tog med sig både Datan og Abiram, Eliabs sønner, og On, Pelets søn, der alle var rubenitter.",
+      "text": "\fKora, søn af Jis’har, søn af Kehat, søn af Levi, tog med sig både Datan og Abiram, Eliabs sønner, og On, Pelets søn, der alle var rubenitter.",
       "number": 1
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "JHVH talte til Moses og Aron:",
+      "text": "\fJHVH talte til Moses og Aron:",
       "number": 20
     },
     {

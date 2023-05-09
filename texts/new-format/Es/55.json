@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 55,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Godt så! Hver den, der tørster, skal komme her hen til vandene, og I, der ingen penge har, kom her, køb og spis; kom, køb vin og mælk uden penge og uden betaling! v2 Hvorfor tæller I penge op til noget, der ikke er brød, og jeres dagløn til noget, der ikke kan mætte? Hør dog på mig, og spis det gøde, så skal jeres sjæl forfriskes med de fede retter.",
+      "text": "\fGodt så! Hver den, der tørster, skal komme her hen til vandene, og I, der ingen penge har, kom her, køb og spis; kom, køb vin og mælk uden penge og uden betaling! v2 Hvorfor tæller I penge op til noget, der ikke er brød, og jeres dagløn til noget, der ikke kan mætte? Hør dog på mig, og spis det gøde, så skal jeres sjæl forfriskes med de fede retter.",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 5
     },
     {
-      "text": "Søg JHVH, mens han kan findes, kald på ham, mens han er nær.",
+      "text": "\fSøg JHVH, mens han kan findes, kald på ham, mens han er nær.",
       "number": 6
     },
     {

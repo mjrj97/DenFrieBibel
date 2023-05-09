@@ -3,61 +3,71 @@
   "abbreviation": "Nah",
   "chapter": 2,
   "version": 1511218800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Se budbringerens fodtrin hen over bjergene!Han forkynder fred!Juda, hold dine fester, indfri dine løfter,for en ondskabens mand skal ikke længere forbryde sig mod dig;han er fuldstændig udryddet.",
+      "text": "\fSe budbringerens fodtrin hen over bjergene!\fHan forkynder fred!\fJuda, hold dine fester, indfri dine løfter,\ffor en ondskabens mand skal ikke længere forbryde sig mod dig;\fhan er fuldstændig udryddet.",
       "number": 1
     },
     {
-      "text": "En der spreder, drager op imod dig.Bevogt fæstningen!Spejd ud over vejen!Bind op om lænderne!Saml al din kraft!",
+      "text": "\fEn der spreder, drager op imod dig.\fBevogt fæstningen!\fSpejd ud over vejen!\fBind op om lænderne!\fSaml al din kraft!",
       "number": 2
     },
     {
-      "text": "For JHVH genopretter Jakobs herlighed, ja, Israels herlighed,for vandaler har vandaliseret dem og ødelagt deres vinstokke.",
+      "text": "\fFor JHVH genopretter Jakobs herlighed, ja, Israels herlighed,\ffor vandaler har vandaliseret dem og ødelagt deres vinstokke.",
       "number": 3
     },
     {
-      "text": "Hans krigeres skjolde er rødlige,de stærke mænd er klædt i skarlagen,stridsvognene funkler af stål på den dag han ruster til krig,spyddene svinges.",
+      "text": "\fHans krigeres skjolde er rødlige,\fde stærke mænd er klædt i skarlagen,\fstridsvognene funkler af stål på den dag han ruster til krig,\fspyddene svinges.",
       "number": 4
     },
     {
-      "text": "I gaderne farer stridsvognene rundt;de styrter af sted på de åbne pladser.De er som fakler at se til; de løber som lynet.",
+      "text": "\fI gaderne farer stridsvognene rundt;\fde styrter af sted på de åbne pladser.\fDe er som fakler at se til; de løber som lynet.",
       "number": 5
     },
     {
-      "text": "Han husker på sine bedste mænd,de snubler under deres gang,de haster hen til muren,skjoldtaget bliver rejst.",
+      "text": "\fHan husker på sine bedste mænd,\fde snubler under deres gang,\fde haster hen til muren,\fskjoldtaget bliver rejst.",
       "number": 6
     },
     {
-      "text": "Flodernes dæmninger åbnes,og paladset smelter.",
+      "text": "\fFlodernes dæmninger åbnes,\fog paladset smelter.",
       "number": 7
     },
     {
-      "text": "Det står fast:Hun føres i eksil.Hun føres væk, og hendes slavepiger sukker som duer,de slår sig for brystet.",
+      "text": "\fDet står fast:\fHun føres i eksil.\fHun føres væk, og hendes slavepiger sukker som duer,\fde slår sig for brystet.",
       "number": 8
     },
     {
-      "text": "Nineve var ligesom en vandrig fiskedam fra de dage da den blev til;men de flygter.>>Stands! Stands!<<Men ingen vender om.",
+      "text": "\fNineve var ligesom en vandrig fiskedam fra de dage da den blev til;\fmen de flygter.\f>>Stands! Stands!<<\fMen ingen vender om.",
       "number": 9
     },
     {
-      "text": "Stjæl sølv! Stjæl guld!Der er ingen ende på skattene,en herlighed af alle mulige kostbare ting.",
+      "text": "\fStjæl sølv! Stjæl guld!\fDer er ingen ende på skattene,\fen herlighed af alle mulige kostbare ting.",
       "number": 10
     },
     {
-      "text": "Øde og ørken og ødelæggelse;et bange hjerte og rysten i knæene;alle lænder vrider sig!Alles ansigter har skiftet farve.***",
+      "text": "\fØde og ørken og ødelæggelse;\fet bange hjerte og rysten i knæene;\falle lænder vrider sig!\fAlles ansigter har skiftet farve.\n\n",
       "number": 11
     },
     {
-      "text": "Hvor er nu løvernes hule og den eng hvor de unge løver holdt til?Hvor løven og løvinden færdedes, og løveungen, uden at nogen skræmte den?",
+      "text": "\fHvor er nu løvernes hule og den eng hvor de unge løver holdt til?\fHvor løven og løvinden færdedes, og løveungen, uden at nogen skræmte den?",
       "number": 12
     },
     {
-      "text": "En løve der sønderrev hvad der var nok til dens unger, kvalte til sine løvinder og fyldte sine skjul med bytte og sine huler med det sønderrevne bytte.",
+      "text": "\fEn løve der sønderrev hvad der var nok til dens unger, kvalte til sine løvinder og fyldte sine skjul med bytte og sine huler med det sønderrevne bytte.",
       "number": 13
     },
     {
-      "text": ">>Se, jeg kommer imod dig,<< siger Hærskarers HERRE,>>og jeg vil brænde dine{E: I grundteksten står der >>hendes<<, men de fleste oversættelser vælger >>dine<< som her, hvilket blandt andet understøttes af LXX og Vulgata.} vogne så de går op i røg;sværd skal fortære dine unge løver.Jeg vil udrydde dit sønderrevne bytte fra jorden,{T: Eller >>landet<<.}og dine budbringeres stemmer skal ikke længere høres.<<",
+      "text": "\f>>Se, jeg kommer imod dig,<< siger Hærskarers HERRE,\f>>og jeg vil brænde dine vogne så de går op i røg;\fsværd skal fortære dine unge løver.\fJeg vil udrydde dit sønderrevne bytte fra jorden,\fog dine budbringeres stemmer skal ikke længere høres.<<",
       "number": 14
     }
   ],
@@ -76,73 +86,85 @@
       "text": "Det hebraiske ord * ʕᵃvar* kan betyde både >>drage over/forbi<< eller >>overtræde<< forstået som at forbryde sig.",
       "type": "E",
       "verse": 1,
-      "position": 167
+      "position": 171
     },
     {
       "text": "Nineve.",
       "type": "T",
       "verse": 2,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Ordret >>Styrk lænderne<<. I denne sammenhæng er der dog tale om at binde kjortlen op om lænderne, så man bedre kan løbe og være klar til kamp.",
       "type": "E",
       "verse": 2,
-      "position": 93
+      "position": 97
     },
     {
       "text": "Andre oversættelser har >>Jakobs herlighed ligesom Israels herlighed<<, sådan at Jakob står for Juda og Israel for Nordriget. Men det ville i så fald være en mærkelig sammenligning, fordi Nordriget ikke eksisterede længere på Nahums tid. Det hebraiske *ki* forstås derfor her emfatisk.",
       "type": "E",
       "verse": 3,
-      "position": 61
+      "position": 62
     },
     {
       "text": "Dvs. Nineves fjende.",
       "type": "T",
       "verse": 4,
-      "position": 4
+      "position": 5
     },
     {
       "text": "Ordret >>vognen er med ild af stål<<. *pᵊlādôt* forekommer kun denne ene gang i GT, så det er uvist, om det betyder >>stål<< eller betegner en form for udsmykning på vognene.",
       "type": "E",
       "verse": 4,
-      "position": 98
+      "position": 101
     },
     {
       "text": "Når bymuren, som var bygget af lersten, blev ramt af oversvømmelser fra floder, var den i stor fare for at >>smelte<<, dvs. gå i opløsning.",
       "type": "E",
       "verse": 7,
-      "position": 46
+      "position": 48
     },
     {
       "text": "Enten Nineve eller et gudebillede.",
       "type": "T",
       "verse": 8,
-      "position": 17
+      "position": 19
     },
     {
       "text": "Es 38,14. Es 59,11. Ez 7,16.",
       "type": "E",
       "verse": 8,
-      "position": 83
+      "position": 86
     },
     {
       "text": "Sidste del af verset oversættes ordret >>fra hendes [= Nineve] dage<<, men den hebraiske tekst er vanskelig. En anden mulighed er at rette *mîymê hî* i den masoretiske tekst til *mêymeyhā* hvilket også understøttes af både LXX og Vulgata. Sammen med næste linje ville det give oversættelsen >>men hendes vand flygter<<.",
       "type": "E",
       "verse": 9,
-      "position": 67
+      "position": 68
     },
     {
       "text": "Ordret >>hjertet smelter<<, som er en typisk formulering i GT til at udtrykke angst.",
       "type": "E",
       "verse": 11,
-      "position": 43
+      "position": 45
     },
     {
       "text": "Der er uenighed om, hvilken farve ansigterne skifter til. LXX og Vulgata oversætter med >>ansigterne er alle som brændte/sorte potter<<, mens andre oversætter med >>bliver hede/røde<<.",
       "type": "E",
       "verse": 11,
-      "position": 119
+      "position": 123
+    },
+    {
+      "text": "I grundteksten står der >>hendes<<, men de fleste oversættelser vælger >>dine<< som her, hvilket blandt andet understøttes af LXX og Vulgata.",
+      "type": "E",
+      "verse": 14,
+      "position": 78
+    },
+    {
+      "text": "Eller >>landet<<.",
+      "type": "T",
+      "verse": 14,
+      "position": 190
     }
   ]
 }

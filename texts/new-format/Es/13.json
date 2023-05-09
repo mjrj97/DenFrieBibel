@@ -3,93 +3,107 @@
   "abbreviation": "Es",
   "chapter": 13,
   "version": 1674774000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Et udsagn om Babylonien, som Esajas, Amos' søn, skuede.",
+      "text": "\fEt udsagn om Babylonien, som Esajas, Amos' søn, skuede.",
       "number": 1
     },
     {
-      "text": "Rejs banner på et nøgent bjerg,råb højt til dem,vink med hånden, så de går indad fyrsternes porte!",
+      "text": "\fRejs banner på et nøgent bjerg,\fråb højt til dem,\fvink med hånden, så de går ind\fad fyrsternes porte!",
       "number": 2
     },
     {
-      "text": "Jeg har givet befaling til mine indviedeog har også kaldet mine helte til at tjene min vrede– de som jubler over min storhed.",
+      "text": "\fJeg har givet befaling til mine indviede\fog har også kaldet mine helte til at tjene min vrede\f– de som jubler over min storhed.",
       "number": 3
     },
     {
-      "text": "Der høres en larm på bjergenesom af et stort folk,der høres kongerigers bulder,folkeslag der samles;Hærskarers HERRE mønstreren krigshær.",
+      "text": "\fDer høres en larm på bjergene\fsom af et stort folk,\fder høres kongerigers bulder,\ffolkeslag der samles;\fHærskarers HERRE mønstrer\fen krigshær.",
       "number": 4
     },
     {
-      "text": "De kommer fra et land langt borte,fra himlens ende,JHVH og hans vredes redskab,for at ødelægge hele landet.",
+      "text": "\fDe kommer fra et land langt borte,\ffra himlens ende,\fJHVH og hans vredes redskab,\ffor at ødelægge hele landet.",
       "number": 5
     },
     {
-      "text": "I skal jamre, for JHVHs dag er nær,som en ødelæggelse fra Den Almægtige skal den komme.",
+      "text": "\fI skal jamre, for JHVHs dag er nær,\fsom en ødelæggelse fra Den Almægtige skal den komme.",
       "number": 6
     },
     {
-      "text": "Derfor skal alle hænder blive slappeog hvert menneskehjerte blive modløst.",
+      "text": "\fDerfor skal alle hænder blive slappe\fog hvert menneskehjerte blive modløst.",
       "number": 7
     },
     {
-      "text": "Og de skal forfærdes,veer og smerter skal gribe dem,de skal vride sig som den der føder,de skal se forfærdede på hinanden,deres ansigter er blussende ansigter.",
+      "text": "\fOg de skal forfærdes,\fveer og smerter skal gribe dem,\fde skal vride sig som den der føder,\fde skal se forfærdede på hinanden,\fderes ansigter er blussende ansigter.",
       "number": 8
     },
     {
-      "text": "Se, JHVHs dag kommer frygtelig, med harme og glødende vrede,for at lægge landet ødeog udrydde dets syndere fra det.",
+      "text": "\fSe, JHVHs dag kommer frygtelig, med harme og glødende vrede,\ffor at lægge landet øde\fog udrydde dets syndere fra det.",
       "number": 9
     },
     {
-      "text": "For himlens stjerner og dens stjernebillederskal ikke lade deres lys stråle,solen er mørk når den står op,og månen skal ikke lade sit lys skinne.",
+      "text": "\fFor himlens stjerner og dens stjernebilleder\fskal ikke lade deres lys stråle,\fsolen er mørk når den står op,\fog månen skal ikke lade sit lys skinne.",
       "number": 10
     },
     {
-      "text": "Jeg vil straffe verden for ondskabog gudløse for deres misgerning;og jeg vil gøre ende på overmodiges hovmod,og voldsmænds overmod vil jeg ydmyge.",
+      "text": "\fJeg vil straffe verden for ondskab\fog gudløse for deres misgerning;\fog jeg vil gøre ende på overmodiges hovmod,\fog voldsmænds overmod vil jeg ydmyge.",
       "number": 11
     },
     {
-      "text": "Jeg vil gøre et menneske sjældnere end lutret guldog en mand sjældnere end Ofir-guld.",
+      "text": "\fJeg vil gøre et menneske sjældnere end lutret guld\fog en mand sjældnere end Ofir-guld.",
       "number": 12
     },
     {
-      "text": "Derfor vil jeg få himle til at ryste,og jorden skal rystes bort fra sit stedved Hærskarers HERRES harmeog på hans glødende vredes dag.",
+      "text": "\fDerfor vil jeg få himle til at ryste,\fog jorden skal rystes bort fra sit sted\fved Hærskarers HERRES harme\fog på hans glødende vredes dag.",
       "number": 13
     },
     {
-      "text": "Som en jaget gazelleog som får ingen samler,skal de vende sig hver til sit folkog flygte hver til sit land.",
+      "text": "\fSom en jaget gazelle\fog som får ingen samler,\fskal de vende sig hver til sit folk\fog flygte hver til sit land.",
       "number": 14
     },
     {
-      "text": "Enhver der bliver fundet, skal gennembores,og enhver der gribes, skal falde for sværdet.",
+      "text": "\fEnhver der bliver fundet, skal gennembores,\fog enhver der gribes, skal falde for sværdet.",
       "number": 15
     },
     {
-      "text": "Og deres børn skal knusesfor deres øjne,deres huse plyndresog deres kvinder voldtages.",
+      "text": "\fOg deres børn skal knuses\ffor deres øjne,\fderes huse plyndres\fog deres kvinder voldtages.",
       "number": 16
     },
     {
-      "text": "Se, mod dem ophidser jeg Medien,der ikke regner sølv for noget,og guld – det har de ikke lyst til.",
+      "text": "\fSe, mod dem ophidser jeg Medien,\fder ikke regner sølv for noget,\fog guld – det har de ikke lyst til.",
       "number": 17
     },
     {
-      "text": "Men buer skal gøre det af med drenge,og moderlivs frugt skal de ikke vise barmhjertighed,deres øje skal ikke skåne børn.",
+      "text": "\fMen buer skal gøre det af med drenge,\fog moderlivs frugt skal de ikke vise barmhjertighed,\fderes øje skal ikke skåne børn.",
       "number": 18
     },
     {
-      "text": "Og Babylonien, kongerigers pragt,kaldæeres stolte pryd,skal blive som da Gud ødelagde Sodomaog Gomorra.",
+      "text": "\fOg Babylonien, kongerigers pragt,\fkaldæeres stolte pryd,\fskal blive som da Gud ødelagde Sodoma\fog Gomorra.",
       "number": 19
     },
     {
-      "text": "Det skal aldrig mere bebos,og ingen skal bosætte sig dér i slægt efter slægt,ingen araber skal slå telt op,og hyrder holder ikke hvil der.",
+      "text": "\fDet skal aldrig mere bebos,\fog ingen skal bosætte sig dér i slægt efter slægt,\fingen araber skal slå telt op,\fog hyrder holder ikke hvil der.",
       "number": 20
     },
     {
-      "text": "Men ørkendyr skal ligge der,og deres huse skal fyldes af ugler,dér skal strudses afkom tage bolig,og bukketrolde springer omkring der.",
+      "text": "\fMen ørkendyr skal ligge der,\fog deres huse skal fyldes af ugler,\fdér skal strudses afkom tage bolig,\fog bukketrolde springer omkring der.",
       "number": 21
     },
     {
-      "text": "Hyæner skal hyle i borgene{E: Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: >>mod dets/hans enker<<. De gamle oversættelser har: >>i paladserne/borgene<<. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: >>i dets borge<<.}og sjakaler i herlige paladser;det varer ikke længe før dets tid kommer,og dets dage skal ikke forlænges.",
+      "text": "\fHyæner skal hyle i borgene\fog sjakaler i herlige paladser;\fdet varer ikke længe før dets tid kommer,\fog dets dage skal ikke forlænges.",
       "number": 22
     }
   ],
@@ -104,49 +118,55 @@
       "text": "Der er tænkt på en profetisk vision.",
       "type": "T",
       "verse": 1,
-      "position": 55
+      "position": 56
     },
     {
       "text": "Hærskarers",
       "type": "N",
       "verse": 4,
-      "position": 116
+      "position": 121
     },
     {
       "text": "Kan også oversættes: >>hele jorden<<, men i sammenhængen er der tale om Babylonien.",
       "type": "T",
       "verse": 5,
-      "position": 107
+      "position": 111
     },
     {
       "text": "Kan også oversættes: >>jorden<<.",
       "type": "T",
       "verse": 9,
-      "position": 79
+      "position": 81
     },
     {
       "text": "Hærskarers",
       "type": "N",
       "verse": 13,
-      "position": 97
+      "position": 100
     },
     {
       "text": "Det vides ikke præcis hvilke dyr der er tale om.",
       "type": "T",
       "verse": 21,
-      "position": 12
+      "position": 13
     },
     {
       "text": "Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med >>ugle<<, andre gætter på >>sjakaler<<.",
       "type": "T",
       "verse": 21,
-      "position": 63
+      "position": 65
     },
     {
       "text": "Bukkelignende dæmoner.",
       "type": "T",
       "verse": 21,
-      "position": 112
+      "position": 116
+    },
+    {
+      "text": "Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: >>mod dets/hans enker<<. De gamle oversættelser har: >>i paladserne/borgene<<. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: >>i dets borge<<.",
+      "type": "E",
+      "verse": 22,
+      "position": 27
     }
   ]
 }

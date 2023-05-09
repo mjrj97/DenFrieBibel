@@ -3,61 +3,75 @@
   "abbreviation": "Sl",
   "chapter": 41,
   "version": 1457218800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen.Salme af David.",
+      "text": "\fTil korlederen.\fSalme af David.",
       "number": 1
     },
     {
-      "text": "Salig den der har omsorg for den ringe,på ulykkens dag vil JHVH redde ham.",
+      "text": "\fSalig den der har omsorg for den ringe,\fpå ulykkens dag vil JHVH redde ham.",
       "number": 2
     },
     {
-      "text": "JHVH vil bevare ham og holde ham i live,han skal prises lykkelig i landet.Prisgiv ham ikke hans fjenders begær.",
+      "text": "\fJHVH vil bevare ham og holde ham i live,\fhan skal prises lykkelig i landet.\fPrisgiv ham ikke hans fjenders begær.",
       "number": 3
     },
     {
-      "text": "JHVH skal støtte ham på sygelejet,du har hjulpet ham op igen fra hvert sygeleje.",
+      "text": "\fJHVH skal støtte ham på sygelejet,\fdu har hjulpet ham op igen fra hvert sygeleje.",
       "number": 4
     },
     {
-      "text": "Jeg sagde: JHVHv, vær mig nådig,helbred min sjæl, for jeg har syndet mod dig.",
+      "text": "\fJeg sagde: JHVHv, vær mig nådig,\fhelbred min sjæl, for jeg har syndet mod dig.",
       "number": 5
     },
     {
-      "text": "Mine fjender taler ondt om mig:>>Hvornår vil han dø og hans navn forsvinde?<<",
+      "text": "\fMine fjender taler ondt om mig:\f>>Hvornår vil han dø og hans navn forsvinde?<<",
       "number": 6
     },
     {
-      "text": "Og hvis der kommer en for at se til mig, taler han falskhed,i hans hjerte samler der sig ondskabsfuldhed,han går udenfor, da taler han derom.",
+      "text": "\fOg hvis der kommer en for at se til mig, taler han falskhed,\fi hans hjerte samler der sig ondskabsfuldhed,\fhan går udenfor, da taler han derom.",
       "number": 7
     },
     {
-      "text": "Alle der hader mig, hvisker sammen imod mig,de udtænker ondt imod mig:",
+      "text": "\fAlle der hader mig, hvisker sammen imod mig,\fde udtænker ondt imod mig:",
       "number": 8
     },
     {
-      "text": ">>En grufuld sag skal ramme ham,og som han ligger, skal han ikke mere rejse sig.<<",
+      "text": "\f>>En grufuld sag skal ramme ham,\fog som han ligger, skal han ikke mere rejse sig.<<",
       "number": 9
     },
     {
-      "text": "Selv min ven som jeg stolede på,som spiste mit brød,har løftet sin hæl imod mig.",
+      "text": "\fSelv min ven som jeg stolede på,\fsom spiste mit brød,\fhar løftet sin hæl imod mig.",
       "number": 10
     },
     {
-      "text": "Men du, JHVHv, vær mig nådig og rejs mig op,så vil jeg gengælde dem.",
+      "text": "\fMen du, JHVHv, vær mig nådig og rejs mig op,\fså vil jeg gengælde dem.",
       "number": 11
     },
     {
-      "text": "Derved har jeg erkendt at du holder af mig:at min fjende ikke triumferer over mig.",
+      "text": "\fDerved har jeg erkendt at du holder af mig:\fat min fjende ikke triumferer over mig.",
       "number": 12
     },
     {
-      "text": "Men mig – fordi jeg var uskyldig, har du støttet mig,du har sat mig for dit ansigt for evigt.",
+      "text": "\fMen mig – fordi jeg var uskyldig, har du støttet mig,\fdu har sat mig for dit ansigt for evigt.",
       "number": 13
     },
     {
-      "text": "Lovet være JHVH, Israels Gud,fra evighed og til evighed!Amen og amen.",
+      "text": "\fLovet være JHVH, Israels Gud,\ffra evighed og til evighed!\fAmen og amen.",
       "number": 14
     }
   ],
@@ -88,37 +102,37 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Ordret >>sjæl<<, men det hebraiske ord har videre betydning end det danske.",
       "type": "T",
       "verse": 3,
-      "position": 111
+      "position": 114
     },
     {
       "text": "Ordret: >>du har vendt hvert sygeleje under hans sygdom.<<",
       "type": "T",
       "verse": 4,
-      "position": 80
+      "position": 82
     },
     {
       "text": "Ordene >>til mig<< fremgår ikke af den hebraiske tekst, men de må være underforstået.",
       "type": "T",
       "verse": 7,
-      "position": 40
+      "position": 41
     },
     {
       "text": "Ordret: >>skal hældes ud over ham<<.",
       "type": "T",
       "verse": 9,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Ordret: >>selv en mand af min fred<<.",
       "type": "T",
       "verse": 10,
-      "position": 12
+      "position": 13
     }
   ]
 }

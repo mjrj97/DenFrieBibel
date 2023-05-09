@@ -3,41 +3,55 @@
   "abbreviation": "Es",
   "chapter": 15,
   "version": 1674774000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Udsagn om Moab:Ja, en nat bliver Ar-Moab ødelagt, udslettet.Ja, en nat bliver Kir-Moab ødelagt, udslettet.",
+      "text": "\fUdsagn om Moab:\fJa, en nat bliver Ar-Moab ødelagt, udslettet.\fJa, en nat bliver Kir-Moab ødelagt, udslettet.",
       "number": 1
     },
     {
-      "text": "Han er gået op til Bayit og Dibon,til højene for at græde;på Nebo og på Medebaskal Moab jamre,hvert af dets hoveder er skaldet,hvert skæg barberet af.",
+      "text": "\fHan er gået op til Bayit og Dibon,\ftil højene for at græde;\fpå Nebo og på Medeba\fskal Moab jamre,\fhvert af dets hoveder er skaldet,\fhvert skæg barberet af.",
       "number": 2
     },
     {
-      "text": "På dets gader binder de sæk om sig,på dets tageog på dets torve jamrer enhver,synker ned i gråd.",
+      "text": "\fPå dets gader binder de sæk om sig,\fpå dets tage\fog på dets torve jamrer enhver,\fsynker ned i gråd.",
       "number": 3
     },
     {
-      "text": "Heshbon og El’ale skriger,lyden fra dem høres til Jahas.Derfor jamrer de bevæbnede mænd i Moab,hver sjæl er modløs.",
+      "text": "\fHeshbon og El’ale skriger,\flyden fra dem høres til Jahas.\fDerfor jamrer de bevæbnede mænd i Moab,\fhver sjæl er modløs.",
       "number": 4
     },
     {
-      "text": "Mit hjerte skriger over Moab,dets flygtninge søger til Soar, til Eglat-Shelishija;for stigningen til Luhit– med gråd bestiger man den,for på vejen til Horonaimudstøder de et fortvivlelsens skrig.",
+      "text": "\fMit hjerte skriger over Moab,\fdets flygtninge søger til Soar, til Eglat-Shelishija;\ffor stigningen til Luhit\f– med gråd bestiger man den,\ffor på vejen til Horonaim\fudstøder de et fortvivlelsens skrig.",
       "number": 5
     },
     {
-      "text": "For Nimrims vandebliver til ørken,for græs tørrer ind, friske planter forsvinder,der er intet grønt.",
+      "text": "\fFor Nimrims vande\fbliver til ørken,\ffor græs tørrer ind, friske planter forsvinder,\fder er intet grønt.",
       "number": 6
     },
     {
-      "text": "Derfor, et forråd man har skaffet sig,og det de har lagt til side– over Arabim-bækkenbærer de det.",
+      "text": "\fDerfor, et forråd man har skaffet sig,\fog det de har lagt til side\f– over Arabim-bækken\fbærer de det.",
       "number": 7
     },
     {
-      "text": "Ja! Skriget rækker udover hele Moabs land,dets jammer til Eglajimog dets jammer til Be’er-Elim.",
+      "text": "\fJa! Skriget rækker ud\fover hele Moabs land,\fdets jammer til Eglajim\fog dets jammer til Be’er-Elim.",
       "number": 8
     },
     {
-      "text": "For Dimons vande er fulde af blod,ja, jeg vil lade endnu mere komme over Dimon– en løve over Moabs undslupneog over dem der er tilbage i landet.",
+      "text": "\fFor Dimons vande er fulde af blod,\fja, jeg vil lade endnu mere komme over Dimon\f– en løve over Moabs undslupne\fog over dem der er tilbage i landet.",
       "number": 9
     }
   ],
@@ -52,19 +66,19 @@
       "text": "Teksten (*ʕālāʰ habbayit wᵊdîvōn*) er omdiskuteret, men godt overleveret, og oversættelsen usikker. Man retter ofte til: *ʕāltāʰ bat wᵊdîvōn*: >>Dibons datter er steget op<<.",
       "type": "E",
       "verse": 2,
-      "position": 34
+      "position": 35
     },
     {
       "text": "Maskulinum: Det går på folket.",
       "type": "E",
       "verse": 3,
-      "position": 7
+      "position": 8
     },
     {
       "text": "Femininum: Det går på landet.",
       "type": "E",
       "verse": 3,
-      "position": 42
+      "position": 44
     }
   ]
 }

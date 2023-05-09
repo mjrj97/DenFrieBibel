@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 28,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "På sabbatsdagen skal du ofre to årgamle fejlfri lam og to tiendedele mel blandet med olie som afgrødeoffer med drikoffer til.",
+      "text": "\fPå sabbatsdagen skal du ofre to årgamle fejlfri lam og to tiendedele mel blandet med olie som afgrødeoffer med drikoffer til.",
       "number": 9
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Den første dag i jeres måneder skal I ofre som brændoffer til JHVH to tyrekalve, en vædder og syv årgamle lam, uden fejl.",
+      "text": "\fDen første dag i jeres måneder skal I ofre som brændoffer til JHVH to tyrekalve, en vædder og syv årgamle lam, uden fejl.",
       "number": 11
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "I den første måned, på den fjortende dag i måneden, er det påske for JHVH.",
+      "text": "\fI den første måned, på den fjortende dag i måneden, er det påske for JHVH.",
       "number": 16
     },
     {
@@ -105,7 +115,7 @@
       "number": 25
     },
     {
-      "text": "På førstegrødens dag, når I ofrer det nye afgrødeoffer for JHVH ved ugefesten, skal der være en hellig sammenkomst for jer, da skal I ikke udføre noget arbejde.",
+      "text": "\fPå førstegrødens dag, når I ofrer det nye afgrødeoffer for JHVH ved ugefesten, skal der være en hellig sammenkomst for jer, da skal I ikke udføre noget arbejde.",
       "number": 26
     },
     {
@@ -174,7 +184,7 @@
       "text": "Der må være tale om efa, så der altså bruges 4,4 liter.",
       "type": "T",
       "verse": 9,
-      "position": 68
+      "position": 69
     },
     {
       "text": "Her og i de følgende angivelser må >>efa<< være underforstået.",

@@ -3,45 +3,59 @@
   "abbreviation": "Sl",
   "chapter": 47,
   "version": 1457218800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen.Af Koras sønner. En salme.",
+      "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
       "number": 1
     },
     {
-      "text": "Alle folkeslag, klap i hænderne,jubel for Gud med frydefuld røst.",
+      "text": "\fAlle folkeslag, klap i hænderne,\fjubel for Gud med frydefuld røst.",
       "number": 2
     },
     {
-      "text": "For JHVH, den Højeste, er frygtindgydende,en stor konge over hele jorden.",
+      "text": "\fFor JHVH, den Højeste, er frygtindgydende,\fen stor konge over hele jorden.",
       "number": 3
     },
     {
-      "text": "Han lægger folk under os,ja, nationer under vore fødder.",
+      "text": "\fHan lægger folk under os,\fja, nationer under vore fødder.",
       "number": 4
     },
     {
-      "text": "Han udvælger vor arvelod til os,Jakobs stolthed, som han elsker. Sela",
+      "text": "\fHan udvælger vor arvelod til os,\fJakobs stolthed, som han elsker. Sela",
       "number": 5
     },
     {
-      "text": "Gud er draget op under jubelråb,JHVH til hornklang.",
+      "text": "\fGud er draget op under jubelråb,\fJHVH til hornklang.",
       "number": 6
     },
     {
-      "text": "Syng for Gud, syng!Syng for vor konge, syng!",
+      "text": "\fSyng for Gud, syng!\fSyng for vor konge, syng!",
       "number": 7
     },
     {
-      "text": "For Gud er hele jordens konge,syng en maskil!",
+      "text": "\fFor Gud er hele jordens konge,\fsyng en maskil!",
       "number": 8
     },
     {
-      "text": "Gud er blevet konge over folkeslagene,Gud har taget sæde på sin hellige trone.",
+      "text": "\fGud er blevet konge over folkeslagene,\fGud har taget sæde på sin hellige trone.",
       "number": 9
     },
     {
-      "text": "Folkenes fyrster{T: Kan også oversættes: >>fornemme<<.} er samlet,Abrahams Guds folk,{E: Linjen begynder på hebraisk med ordet: *ʕam* (>>folk<<) der har samme konsonanter som ordet: *ʕim* (>>med<<). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: >>med Abrahams Guds fok<<.}for jordens skjolde{E: I stedet for *māginnê-* (>>skjolde<<) har bl.a. Septuaginta enten forstået ordet billedligt som >>herskere<< eller har evt. læst *signê-*: >>herskere<<. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.} tilhører Gud,højt ophøjet.",
+      "text": "\fFolkenes fyrster er samlet,\fAbrahams Guds folk,\ffor jordens skjolde tilhører Gud,\fhøjt ophøjet.",
       "number": 10
     }
   ],
@@ -64,25 +78,43 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Grundteksten har blot: >>klap hånd<<.",
       "type": "T",
       "verse": 2,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 5,
-      "position": 69
+      "position": 71
     },
     {
       "text": "Se note til overskriften til Sl 45. Her ofte oversat >>hyldestsang<<.",
       "type": "T",
       "verse": 8,
-      "position": 45
+      "position": 47
+    },
+    {
+      "text": "Kan også oversættes: >>fornemme<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 17
+    },
+    {
+      "text": "Linjen begynder på hebraisk med ordet: *ʕam* (>>folk<<) der har samme konsonanter som ordet: *ʕim* (>>med<<). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: >>med Abrahams Guds fok<<.",
+      "type": "E",
+      "verse": 10,
+      "position": 48
+    },
+    {
+      "text": "I stedet for *māginnê-* (>>skjolde<<) har bl.a. Septuaginta enten forstået ordet billedligt som >>herskere<< eller har evt. læst *signê-*: >>herskere<<. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
+      "type": "E",
+      "verse": 10,
+      "position": 68
     }
   ]
 }

@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 4,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Derfor, da vi har denne tjeneste efter den barmhjertighed, der er blevet os til del, så taber vi ikke modet;",
+      "text": "\fDerfor, da vi har denne tjeneste efter den barmhjertighed, der er blevet os til del, så taber vi ikke modet;",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Men denne skat har vi i lerkar, for at den overvældende kraft må være Guds og ikke fra os,",
+      "text": "\fMen denne skat har vi i lerkar, for at den overvældende kraft må være Guds og ikke fra os,",
       "number": 7
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Men eftersom vi har den samme troens ånd, som der står skrevet: >>Jeg troede, derfor talte jeg,<< så tror også vi, og derfor taler vi også,",
+      "text": "\fMen eftersom vi har den samme troens ånd, som der står skrevet: >>Jeg troede, derfor talte jeg,<< så tror også vi, og derfor taler vi også,",
       "number": 13
     },
     {
@@ -65,7 +79,7 @@
       "number": 15
     },
     {
-      "text": "Derfor taber vi ikke modet; men selvom vores ydre menneske også fortæres, fornyes dog vores indre dag for dag.",
+      "text": "\fDerfor taber vi ikke modet; men selvom vores ydre menneske også fortæres, fornyes dog vores indre dag for dag.",
       "number": 16
     },
     {

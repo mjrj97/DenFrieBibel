@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 11,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Gid I ville finde jer i en smule tåbelighed af mig! Det gør I gør jo dog nok.",
+      "text": "\fGid I ville finde jer i en smule tåbelighed af mig! Det gør I gør jo dog nok.",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Eller syndede jeg ved at fornedrede mig selv, for at I skulle ophøjes, idet jeg forkyndte Guds evangelium gratis for jer?",
+      "text": "\fEller syndede jeg ved at fornedrede mig selv, for at I skulle ophøjes, idet jeg forkyndte Guds evangelium gratis for jer?",
       "number": 7
     },
     {
@@ -65,7 +79,7 @@
       "number": 15
     },
     {
-      "text": "Jeg siger igen: Ingen må anse mig for en tåbe; men hvis det skal være, så find jer endda i mig som en tåbe, for at også jeg kan rose mig en smule.",
+      "text": "\fJeg siger igen: Ingen må anse mig for en tåbe; men hvis det skal være, så find jer endda i mig som en tåbe, for at også jeg kan rose mig en smule.",
       "number": 16
     },
     {

@@ -3,41 +3,59 @@
   "abbreviation": "Sl",
   "chapter": 98,
   "version": 1666562400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "En salme.Syng for JHVH en ny sang,\n\t\tfor han har gjort undere;\n\t\t\thans højre hånd og hans hellige armudøvede frelsen for ham.",
+      "text": "\fEn salme.\fSyng for JHVH en ny sang,\f\n\t\tfor han har gjort undere;\f\n\t\t\thans højre hånd og hans hellige arm\fudøvede frelsen for ham.",
       "number": 1
     },
     {
-      "text": "\tJHVH har kundgjort sin frelse,\n\t\t\tfor folkenes øjnehar han åbenbaret sin retfærdighed.",
+      "text": "\f\tJHVH har kundgjort sin frelse,\f\n\t\t\tfor folkenes øjne\fhar han åbenbaret sin retfærdighed.",
       "number": 2
     },
     {
-      "text": "\t\t\t\tHan har husket sin nådeog sin trofasthed mod Israels hus.\n\t\tAlle jordens enderhar set vor Guds frelse.",
+      "text": "\f\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\n\t\tAlle jordens ender\fhar set vor Guds frelse.",
       "number": 3
     },
     {
-      "text": "Bryd ud i fryderåd for JHVH,\n\thele jorden!Bryd ud i jubel,\n\tfryd jer,\n\tsyng!",
+      "text": "\fBryd ud i fryderåd for JHVH,\n\thele jorden!\fBryd ud i jubel,\n\tfryd jer,\n\tsyng!",
       "number": 4
     },
     {
-      "text": "Lovsyng JHVH til citer,\n\t\ttil citer og høj sang,",
+      "text": "\fLovsyng JHVH til citer,\f\n\t\ttil citer og høj sang,",
       "number": 5
     },
     {
-      "text": "\ttil trompeter og hornklang;bryd ud i fryderåb for kongens, JHVHs, ansigt!",
+      "text": "\f\ttil trompeter og hornklang;\fbryd ud i fryderåb for kongens, JHVHs, ansigt!",
       "number": 6
     },
     {
-      "text": "\tHavet og dets fylde skal larme,\n\t\t\t\tverden og de som bor i den!",
+      "text": "\f\tHavet og dets fylde skal larme,\f\n\t\t\t\tverden og de som bor i den!",
       "number": 7
     },
     {
-      "text": "\t\t\tStrømme skal klappe i hænderne,\n\t\t\t\t\tbjerge skal sammen juble",
+      "text": "\f\t\t\tStrømme skal klappe i hænderne,\f\n\t\t\t\t\tbjerge skal sammen juble",
       "number": 8
     },
     {
-      "text": "\t\t\t\tfor JHVHs ansigt;\n\t\tfor han kommer\n\t\t\t\tfor at dømme jorden.\n\t\t\tHan skal dømme verden med retfærdighed\n\t\t\t\tog folkeslagene med retskaffenhed.",
+      "text": "\f\t\t\t\tfor JHVHs ansigt;\n\t\tfor han kommer\f\n\t\t\t\tfor at dømme jorden.\f\n\t\t\tHan skal dømme verden med retfærdighed\f\n\t\t\t\tog folkeslagene med retskaffenhed.",
       "number": 9
     }
   ],
@@ -64,25 +82,25 @@
       "text": "Ordret: >>hans helligheds arm<<.",
       "type": "T",
       "verse": 1,
-      "position": 101
+      "position": 105
     },
     {
       "text": "Kan også oversættes: >>skaffede ham sejr<<. For forståelsens skyld er der her byttet om på linjerne. Egentlig: >>hans højre hånd udøvede frelsen for ham / og hans hellige arm<<.",
       "type": "T",
       "verse": 1,
-      "position": 125
+      "position": 130
     },
     {
       "text": "Kan også oversættes: >>sandhed<<",
       "type": "T",
       "verse": 3,
-      "position": 44
+      "position": 46
     },
     {
       "text": "Ordret: >>skal klappe hånd<<.",
       "type": "T",
       "verse": 8,
-      "position": 34
+      "position": 35
     }
   ]
 }

@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 4,
   "version": 1563228000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Moses svarede og sagde: >>Men se, de vil ikke tro mig og ikke lytte til min røst; de vil helt sikkert sige: >JHVH har ikke vist sig for dig.<<<",
+      "text": "\fMoses svarede og sagde: >>Men se, de vil ikke tro mig og ikke lytte til min røst; de vil helt sikkert sige: >JHVH har ikke vist sig for dig.<<<",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Men Moses sagde til JHVH: >>Tillad mig, Herre: Jeg er ikke en ordenes mand, var det hverken i går eller i forgårs, ej heller siden du begyndte at tale til din tjener; for jeg har en tung tale og en tung tunge.<<",
+      "text": "\fMen Moses sagde til JHVH: >>Tillad mig, Herre: Jeg er ikke en ordenes mand, var det hverken i går eller i forgårs, ej heller siden du begyndte at tale til din tjener; for jeg har en tung tale og en tung tunge.<<",
       "number": 10
     },
     {
@@ -73,7 +87,7 @@
       "number": 17
     },
     {
-      "text": "Moses gik og kom igen til Jeter, sin svigerfar, og sagde til ham: >>Lad mig gå, så vil jeg vende tilbage til mine brødre som er i Egypten, og se om de stadig er i live.<< Jetro sagde til Moses: >>Gå med fred.<<",
+      "text": "\fMoses gik og kom igen til Jeter, sin svigerfar, og sagde til ham: >>Lad mig gå, så vil jeg vende tilbage til mine brødre som er i Egypten, og se om de stadig er i live.<< Jetro sagde til Moses: >>Gå med fred.<<",
       "number": 18
     },
     {
@@ -93,7 +107,7 @@
       "number": 22
     },
     {
-      "text": "Og jeg har sagt til dig: Lad min søn gå, så han kan tjene mig, men du har nægtet at lade ham gå. Se, jeg slår din søn, din førstefødte, ihjel.<<<v24Undervejs, i herberget, mødte JHVH ham og søgte at slå ham ihjel.",
+      "text": "Og jeg har sagt til dig: Lad min søn gå, så han kan tjene mig, men du har nægtet at lade ham gå. Se, jeg slår din søn, din førstefødte, ihjel.<<<\fv24Undervejs, i herberget, mødte JHVH ham og søgte at slå ham ihjel.",
       "number": 23
     },
     {
@@ -105,7 +119,7 @@
       "number": 26
     },
     {
-      "text": "JHVH sagde til Aron: >>Gå Moses i møde i ørkenen.<< Og han gik og mødte ham ved Guds bjerg og kyssede ham.",
+      "text": "\fJHVH sagde til Aron: >>Gå Moses i møde i ørkenen.<< Og han gik og mødte ham ved Guds bjerg og kyssede ham.",
       "number": 27
     },
     {
@@ -152,7 +166,7 @@
       "text": "I en del oversættelser indledes Moses’ svar med: >>hvad nu, hvis …<< eller lignende. Men det er næppe en dækkende oversættelse af det hebraiske *wᵊhēn* (>>men se<<). Meningen er formodentlig at Moses direkte modsiger det, Gud lige har sagt i 3,18.",
       "type": "T",
       "verse": 1,
-      "position": 33
+      "position": 34
     },
     {
       "text": "Ofte oversat: >>på dit bryst<<. Men det hebraiske ord (*ḥêq*) er nærmere en betegnelse for klædningens brystfold, hvor man kunne opbevare værdigenstande, og mange gik også med hænderne i brystfolden.",
@@ -212,7 +226,7 @@
       "text": "Navnet her må betragtes som en grammatisk variant af *Jetro*, som han kaldes anden gang i samme vers.",
       "type": "T",
       "verse": 18,
-      "position": 32
+      "position": 33
     },
     {
       "text": "I vers 25 er der kun tale om én søn, ligesom der i det foregående kun er nævnt én søn, Gershom (2,22). Det er dog muligt at begge de to sønner der er nævnt i 18,3-4, allerede var født. En anden mulighed er at der er tale om afskriverfejl, så der skulle stå: *bᵊnô* (>>sin søn<<)i stedet for: *bānāʸw* (>>sine sønner<<). Alle håndskrifter støtter dog det sidste.",
@@ -224,7 +238,7 @@
       "text": "Moses’ navn er ikke nævnt i dette lille afsnit, men ud fra sammenhængen går man ud fra at det er Moses der blev overfaldet. Han var ansvarlig for sønnens omskærelse. En anden mulighed er dog at det er Moses’ førstefødte, Gershom.",
       "type": "E",
       "verse": 23,
-      "position": 186
+      "position": 187
     },
     {
       "text": "Oversættelsen og forståelsen er omdiskuteret. Meningen er enten at Sippora berørte sønnens fødder med forhuden og kaldte ham sin >>blodbrudgom<<, eller (nærmere) at hun berørte Moses’ fødder med sønnens forhud for derved at tilkendegive at sønnens omskærelse og blod skulle redde Moses; og derved blev Moses hendes >>blodbrudgom<<. En tredje (måske mindre sandsynlig) mulighed er at hun kalder Gud for sin egen >>blodbrudgom<<, idet sønnen ved omskærelsen blev adopteret af Gud, og at hun som hans mor så må være Guds brud, der nu også får del i pagtens velsignelse.Andre oversættere forstår *raglāʸw* (>>fødder<<) som eufemisme for kønsdele og oversætter: >>hun berørte hans kønsdele<<. Denne oversættelse modsiges dog af at verbet står i hif’il og bør oversættes: >>lod berøre<<.",

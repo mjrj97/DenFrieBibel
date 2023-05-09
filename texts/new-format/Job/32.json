@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 32,
   "version": 1668726000000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da holdt disse tre mænd op\n\t\tmed at svare Job,\n\t\t\tfordi han var retfærdig efter sin egen opfattelse",
+      "text": "\fDa holdt disse tre mænd op\n\t\tmed at svare Job,\n\t\t\tfordi han var retfærdig efter sin egen opfattelse",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "\t\t\tMen Elihu havde ventet på at Job blev færdig med sit indlæg,\n\t\t\t\tfor de andre var ældre end han.",
+      "text": "\f\t\t\tMen Elihu havde ventet på at Job blev færdig med sit indlæg,\n\t\t\t\tfor de andre var ældre end han.",
       "number": 4
     },
     {
@@ -89,7 +103,7 @@
       "number": 21
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tfor jeg forstår mig ikke\n\t\t\t\t\t\t\t\t\t\t\tpå at smigre,\n\t\t\t\t\t\t\t\t\t\t\t\tog fordi min skaber ville lade mig tabe med det samme.<<{E: Hebr. *mʕaṭ yiśśāʔēnî’* >>pludselig løfte mig<< har et tydeligt ordspil på v. 21: løfte en andens ansigt og selv blive løftet meget pludseligt har en parallel til at hofbagerens hoved løftes op ved hængning i 1 Mos 40,20 og 40,22.}",
+      "text": "\t\t\t\t\t\t\t\t\t\tfor jeg forstår mig ikke\n\t\t\t\t\t\t\t\t\t\t\tpå at smigre,\n\t\t\t\t\t\t\t\t\t\t\t\tog fordi min skaber ville lade mig tabe med det samme.<<",
       "number": 22
     }
   ],
@@ -104,7 +118,7 @@
       "text": "Ordret >>i sine egne øjne<<.",
       "type": "T",
       "verse": 1,
-      "position": 99
+      "position": 100
     },
     {
       "text": "Ordret her og i det følgende: >>vreden flammede op i<<.",
@@ -122,7 +136,7 @@
       "text": "Ordret: >>ventet på i ord<<.",
       "type": "T",
       "verse": 4,
-      "position": 63
+      "position": 64
     },
     {
       "text": "Ordret >>mund<<.",
@@ -189,6 +203,12 @@
       "type": "E",
       "verse": 21,
       "position": 50
+    },
+    {
+      "text": "Hebr. *mʕaṭ yiśśāʔēnî’* >>pludselig løfte mig<< har et tydeligt ordspil på v. 21: løfte en andens ansigt og selv blive løftet meget pludseligt har en parallel til at hofbagerens hoved løftes op ved hængning i 1 Mos 40,20 og 40,22.",
+      "type": "E",
+      "verse": 22,
+      "position": 128
     }
   ]
 }

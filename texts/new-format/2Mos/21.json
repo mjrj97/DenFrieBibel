@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 21,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Dette er de retsregler som du skal forelægge dem:",
+      "text": "\fDette er de retsregler som du skal forelægge dem:",
       "number": 1
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": ">>Den som slår et menneske så det dør, skal afgjort lide døden.",
+      "text": "\f>>Den som slår et menneske så det dør, skal afgjort lide døden.",
       "number": 12
     },
     {
@@ -73,7 +87,7 @@
       "number": 17
     },
     {
-      "text": ">>Når mennesker strides, og den ene slår sin næste med en sten eller med knytnæve, og han ikke dør, men må holde sengen –",
+      "text": "\f>>Når mennesker strides, og den ene slår sin næste med en sten eller med knytnæve, og han ikke dør, men må holde sengen –",
       "number": 18
     },
     {
@@ -109,7 +123,7 @@
       "number": 26
     },
     {
-      "text": "Og hvis han slår sin træls tand eller sin trælkvindes tand ud, skal han give vedkommende fri som erstatning for tanden.<<>>v28 Når en okse stanger en mand eller en kvinde så vedkommende dør, skal oksen afgjort stenes til døde, og dens kød må ikke spises; men oksens ejer skal være uden skyld.",
+      "text": "Og hvis han slår sin træls tand eller sin trælkvindes tand ud, skal han give vedkommende fri som erstatning for tanden.<<\f>>v28 Når en okse stanger en mand eller en kvinde så vedkommende dør, skal oksen afgjort stenes til døde, og dens kød må ikke spises; men oksens ejer skal være uden skyld.",
       "number": 27
     },
     {
@@ -141,7 +155,7 @@
       "number": 35
     },
     {
-      "text": "Hvis det var kendt at oksen forud{T: Ordret: >>i går og i forgårs<<.} var stangende uden at dens ejer passede på den, skal han afgjort betale en okse for oksen, og den døde skal være hans.<<",
+      "text": "Hvis det var kendt at oksen forud var stangende uden at dens ejer passede på den, skal han afgjort betale en okse for oksen, og den døde skal være hans.<<",
       "number": 36
     }
   ],
@@ -220,13 +234,13 @@
       "text": "Se note til vers 5.",
       "type": "T",
       "verse": 12,
-      "position": 51
+      "position": 52
     },
     {
       "text": "Betydningen af *ʔegrōf* er omdiskuteret. De fleste opfatter det som >>knytnæve<<, andre oversætter ved: >>jordknold<<.",
       "type": "T",
       "verse": 18,
-      "position": 82
+      "position": 83
     },
     {
       "text": "Ordret: >>med stokken<<.",
@@ -250,7 +264,7 @@
       "text": "Se note til vers 5.",
       "type": "T",
       "verse": 27,
-      "position": 209
+      "position": 210
     },
     {
       "text": "Ordret: >>i går og i forgårs<<.",
@@ -263,6 +277,12 @@
       "type": "E",
       "verse": 32,
       "position": 53
+    },
+    {
+      "text": "Ordret: >>i går og i forgårs<<.",
+      "type": "T",
+      "verse": 36,
+      "position": 33
     }
   ]
 }

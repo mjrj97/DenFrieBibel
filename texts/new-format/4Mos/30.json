@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 30,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Moses sagde til israelitterne alt dette som JHVH havde befalet Moses.",
+      "text": "\fMoses sagde til israelitterne alt dette som JHVH havde befalet Moses.",
       "number": 1
     },
     {
@@ -17,7 +27,7 @@
       "number": 3
     },
     {
-      "text": "Når en kvinde aflægger JHVH et løfte og pålægger sig en forpligtelse, i sin fars hus, i sin ungdom,",
+      "text": "\fNår en kvinde aflægger JHVH et løfte og pålægger sig en forpligtelse, i sin fars hus, i sin ungdom,",
       "number": 4
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Men hvis hun bliver en mands hustru, og der hviler et løfte på hende, eller et ubetænksomt ord er undsluppet hendes læber, med hvilket hun har pålagt sin sjæl en forpligtelse,",
+      "text": "\fMen hvis hun bliver en mands hustru, og der hviler et løfte på hende, eller et ubetænksomt ord er undsluppet hendes læber, med hvilket hun har pålagt sin sjæl en forpligtelse,",
       "number": 7
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Men en enkes eller en fraskilt kvindes løfte, alt det hvorved hun har pålagt sig selv en forpligtelse, skal stå ved magt for hende.",
+      "text": "\fMen en enkes eller en fraskilt kvindes løfte, alt det hvorved hun har pålagt sig selv en forpligtelse, skal stå ved magt for hende.",
       "number": 10
     },
     {

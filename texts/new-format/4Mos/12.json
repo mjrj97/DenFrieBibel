@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 12,
   "version": 1494280800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Mirjam og Aron talte imod Moses på grund af den nubiske hustru han havde taget. For han havde taget sig en nubisk hustru.",
+      "text": "\fMirjam og Aron talte imod Moses på grund af den nubiske hustru han havde taget. For han havde taget sig en nubisk hustru.",
       "number": 1
     },
     {
@@ -17,7 +27,7 @@
       "number": 3
     },
     {
-      "text": "Pludselig sagde JHVH til Moses og til Aron og til Mirjam: >>Gå alle tre ud til forsamlingsteltet.<< De gik derud.",
+      "text": "\fPludselig sagde JHVH til Moses og til Aron og til Mirjam: >>Gå alle tre ud til forsamlingsteltet.<< De gik derud.",
       "number": 4
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Aron sagde til Moses: >>Hør mig dog, min herre, læg ikke den synd på os, som vi har gjort i vores dumhed da vi syndede.",
+      "text": "\fAron sagde til Moses: >>Hør mig dog, min herre, læg ikke den synd på os, som vi har gjort i vores dumhed da vi syndede.",
       "number": 11
     },
     {

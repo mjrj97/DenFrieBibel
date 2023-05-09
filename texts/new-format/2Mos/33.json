@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 33,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses: >>Gå, drag op herfra, du og det folk, du førte op fra Egyptens land, til det land som jeg tilsvor Abraham, Isak og Jakob, idet jeg sagde: >Dine efterkommere vil jeg give det.<",
+      "text": "\fJHVH talte til Moses: >>Gå, drag op herfra, du og det folk, du førte op fra Egyptens land, til det land som jeg tilsvor Abraham, Isak og Jakob, idet jeg sagde: >Dine efterkommere vil jeg give det.<",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Men Moses tog teltet og slog det op uden for lejren, langt fra lejren, og kaldte det forsamlingsteltet. Og enhver som ville søge JHVH, måtte gå ud til forsamlingsteltet, som var uden for lejren.",
+      "text": "\fMen Moses tog teltet og slog det op uden for lejren, langt fra lejren, og kaldte det forsamlingsteltet. Og enhver som ville søge JHVH, måtte gå ud til forsamlingsteltet, som var uden for lejren.",
       "number": 7
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "Moses sagde til JHVH: >>Se, du siger til mig: >Før dette folk op,< men du har ikke ladet mig vide hvem du vil sende med mig; du har dog sagt: >Jeg kender dig ved navn, og du har også fundet nåde for mine øjne.<",
+      "text": "\fMoses sagde til JHVH: >>Se, du siger til mig: >Før dette folk op,< men du har ikke ladet mig vide hvem du vil sende med mig; du har dog sagt: >Jeg kender dig ved navn, og du har også fundet nåde for mine øjne.<",
       "number": 12
     },
     {

@@ -3,109 +3,123 @@
   "abbreviation": "Sl",
   "chapter": 136,
   "version": 1666562400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "Tak JHVH,\n\t\tfor han er god,\n\tja, hans nåde varer til evig tid!",
+      "text": "\fTak JHVH,\n\t\tfor han er god,\f\n\tja, hans nåde varer til evig tid!",
       "number": 1
     },
     {
-      "text": "Tak gudernes Gud,\n\tja, hans nåde varer til evig tid!",
+      "text": "\fTak gudernes Gud,\f\n\tja, hans nåde varer til evig tid!",
       "number": 2
     },
     {
-      "text": "Tak herrernes Herre,\n\t\t\tja, hans nåde varer til evig tid!",
+      "text": "\fTak herrernes Herre,\f\n\t\t\tja, hans nåde varer til evig tid!",
       "number": 3
     },
     {
-      "text": "\t\tHam som alene gør store undere,\n\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tHam som alene gør store undere,\f\n\t\t\tja, hans nåde varer til evig tid;",
       "number": 4
     },
     {
-      "text": "\t\tham som gjorde himlen med indsigt,\n\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som gjorde himlen med indsigt,\f\n\t\t\tja, hans nåde varer til evig tid;",
       "number": 5
     },
     {
-      "text": "\t\tham som bredte jorden ud på vandene,\n\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som bredte jorden ud på vandene,\f\n\t\t\tja, hans nåde varer til evig tid;",
       "number": 6
     },
     {
-      "text": "\t\tham som skabte store lys,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som skabte store lys,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 7
     },
     {
-      "text": "\t\t\tsolen til herredømme om dagen,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\tsolen til herredømme om dagen,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 8
     },
     {
-      "text": "\t\t\tmånen og stjerner til herredømme om natten,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\tmånen og stjerner til herredømme om natten,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 9
     },
     {
-      "text": "\t\tham som slog Egypten ved deres førstefødte,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som slog Egypten ved deres førstefødte,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 10
     },
     {
-      "text": "\t\t\tog førte Israel ud af deres midte,\n\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\tog førte Israel ud af deres midte,\f\n\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 11
     },
     {
-      "text": "\t\t\t\tmed en stærk hånd og en udrakt arm,\n\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\t\tmed en stærk hånd og en udrakt arm,\f\n\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 12
     },
     {
-      "text": "\t\tham som kløvede Sivhavet igennem,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som kløvede Sivhavet igennem,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 13
     },
     {
-      "text": "\t\t\tog lod Israel gå midt igennem det,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\tog lod Israel gå midt igennem det,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 14
     },
     {
-      "text": "\t\t\tmen drev Farao og hans hær i Sivhavet,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\tmen drev Farao og hans hær i Sivhavet,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 15
     },
     {
-      "text": "\t\tham som førte sit folk igennem ørkenen,\n\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som førte sit folk igennem ørkenen,\f\n\t\t\tja, hans nåde varer til evig tid;",
       "number": 16
     },
     {
-      "text": "\t\tham som slog store konger,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\tham som slog store konger,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 17
     },
     {
-      "text": "\t\t\tog dræbte mægtige konger,\n\t\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\tog dræbte mægtige konger,\f\n\t\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 18
     },
     {
-      "text": "\t\t\t\t\tSihon, amoriternes konge,\n\t\t\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\t\t\tSihon, amoriternes konge,\f\n\t\t\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 19
     },
     {
-      "text": "\t\t\t\t\t\tog Og, Bashans konge,\n\t\t\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\t\t\t\tog Og, Bashans konge,\f\n\t\t\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 20
     },
     {
-      "text": "\t\t\t\tog gav deres land som arvelod,\n\t\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\t\tog gav deres land som arvelod,\f\n\t\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 21
     },
     {
-      "text": "\t\t\t\t\tsom arvelod til Israel, hans tjener,\n\t\t\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\t\t\t\t\tsom arvelod til Israel, hans tjener,\f\n\t\t\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 22
     },
     {
-      "text": "\tham som huskede os i vor fornedrelse,\n\t\t\t\tja, hans nåde varer til evig tid;",
+      "text": "\f\tham som huskede os i vor fornedrelse,\f\n\t\t\t\tja, hans nåde varer til evig tid;",
       "number": 23
     },
     {
-      "text": "\t\t\tog befriede os fra vore fjender,\n\t\t\t\tja, hans nåde varer til evig tid.",
+      "text": "\f\t\t\tog befriede os fra vore fjender,\f\n\t\t\t\tja, hans nåde varer til evig tid.",
       "number": 24
     },
     {
-      "text": "\t\tHan giver brød til alt kød,\n\t\t\tja, hans nåde varer til evig tid!",
+      "text": "\f\t\tHan giver brød til alt kød,\f\n\t\t\tja, hans nåde varer til evig tid!",
       "number": 25
     },
     {
-      "text": "Tak himlens Gud,\n\tja, hans nåde varer til evig tid!",
+      "text": "\fTak himlens Gud,\f\n\tja, hans nåde varer til evig tid!",
       "number": 26
     }
   ],
@@ -128,31 +142,31 @@
       "text": "Hebraisk *kî* oversættes oftest >>for/at<<, og det gælder også i første halvvers. I denne oversættelse tolkes andet halvvers igennem hele salmen som et omkvæd, der synges af et kor.",
       "type": "E",
       "verse": 1,
-      "position": 32
+      "position": 34
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 1,
-      "position": 42
+      "position": 44
     },
     {
       "text": "Af rytmiske grunde – og på grund af 1 Mos 1,16 - sletter mange fortolkere og oversættere: *wᵊxôxāvîm* (>>og stjerner<<). Det er dog med i alle håndskrifter, og rettelsen kræver også rettelse af *memšᵊlôt* (ordret: >>herredømmer<<) til singularis: *memšelet*: >>herredømme<<.",
       "type": "E",
       "verse": 9,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Ordret: >>i (flere) dele<<.",
       "type": "T",
       "verse": 13,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Her er der tænkt på føde i almindelighed.",
       "type": "T",
       "verse": 25,
-      "position": 16
+      "position": 17
     }
   ]
 }

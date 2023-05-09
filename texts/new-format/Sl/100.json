@@ -3,25 +3,39 @@
   "abbreviation": "Sl",
   "chapter": 100,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "En salme til taksigelse.Bryd ud i fryderåb for JHVH, hele landet!",
+      "text": "\fEn salme til taksigelse.\fBryd ud i fryderåb for JHVH, hele landet!",
       "number": 1
     },
     {
-      "text": "Tjen JHVH med glæde,kom for hans ansigt med jubel!",
+      "text": "\fTjen JHVH med glæde,\fkom for hans ansigt med jubel!",
       "number": 2
     },
     {
-      "text": "Erkend at JHVH er Gud,han har skabt os, og ikke vi selv,vi er hans folk og de får han vogter.",
+      "text": "\fErkend at JHVH er Gud,\fhan har skabt os, og ikke vi selv,\fvi er hans folk og de får han vogter.",
       "number": 3
     },
     {
-      "text": "Gå ind ad hans porte med takkesang,i hans forgårde med lovsang;tak ham, pris hans navn!",
+      "text": "\fGå ind ad hans porte med takkesang,\fi hans forgårde med lovsang;\ftak ham, pris hans navn!",
       "number": 4
     },
     {
-      "text": "For JHVH er god,hans nåde{N: nåde} varer til evig tid,og hans troskab{T: Kan også oversættes: >>sandhed<<.} fra slægt til slægt.",
+      "text": "\fFor JHVH er god,\fhans nåde varer til evig tid,\fog hans troskab fra slægt til slægt.",
       "number": 5
     }
   ],
@@ -44,31 +58,43 @@
       "text": "Ordet: *tôdāʰ* betyder normalt: >>tak, taksigelse<<. Sammen med verbet/substantivet *zbḥ* (>>ofre/offer<<) eller andre offertermer angiver det >>takoffer<<. Det er omdiskuteret om ordet her, uden tilknyttet offerterm, kan betyde >>takoffer<<, som det ofte oversættes. Det ville være eneste sted i GT.",
       "type": "E",
       "verse": 1,
-      "position": 24
+      "position": 25
     },
     {
       "text": "Langt de fleste oversættere oversætter: *kol-hāʔāreṣ* ved: >>hele jorden<<, som det oftest betyder i salmerne. Men >>hele jordens<< folkeslag synes slet ikke inde i synsfeltet i denne salme. *hāʔāreṣ* kan både betyde: >>landet<< og >>jorden<<. Da vi ikke kan gengive denne dobbelthed på dansk, må oversætteren vælge. Ud fra sammenhængen vælger jeg >>landet<<.",
       "type": "E",
       "verse": 1,
-      "position": 65
+      "position": 67
     },
     {
       "text": "Således konsonantteksten. Vokaliseringen forudsætter at *lōʔ* (>>ikke<<) skulle have været: *lô*: >>for ham<<, så sidste halvlinje skal oversættes: >>og ham hører vi til<<.",
       "type": "E",
       "verse": 3,
-      "position": 56
+      "position": 58
     },
     {
       "text": "Ordret: >>lader gå på græs<<.",
       "type": "T",
       "verse": 3,
-      "position": 93
+      "position": 96
     },
     {
       "text": "Kan også oversættes: >>velsign<<.",
       "type": "T",
       "verse": 4,
-      "position": 76
+      "position": 79
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 5,
+      "position": 27
+    },
+    {
+      "text": "Kan også oversættes: >>sandhed<<.",
+      "type": "T",
+      "verse": 5,
+      "position": 63
     }
   ]
 }

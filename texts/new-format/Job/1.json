@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 1,
   "version": 1669935600000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Der var en mand i landet Us,\n\t\t\t\than hed Job,\n\t\t\tog denne mand var fuldkommen, retskaffen og gudfrygtig;\n\t\t\t\than holdt sig fra det onde.",
+      "text": "\fDer var en mand i landet Us,\n\t\t\t\than hed Job,\n\t\t\tog denne mand var fuldkommen, retskaffen og gudfrygtig;\n\t\t\t\than holdt sig fra det onde.",
       "number": 1
     },
     {
@@ -81,15 +95,15 @@
       "number": 19
     },
     {
-      "text": "\tDa rejste Job sig\n\t\t\tog rev sin kappe i stykker,\n\t\t\tklippede håret af sit hoved\n\t\t\tog faldt på knæ på jorden\n\t\t\tog tilbad.",
+      "text": "\f\tDa rejste Job sig\n\t\t\tog rev sin kappe i stykker,\n\t\t\tklippede håret af sit hoved\n\t\t\tog faldt på knæ på jorden\n\t\t\tog tilbad.",
       "number": 20
     },
     {
-      "text": "\t\t\tHan sagde:\n\t\t\t\t>>Nøgen kom jeg ud af min mors liv,\n\t\t\t\t\t\tog nøgen vender jeg tilbage.\n\t\t\t\t\tHERREN gav,\n\t\t\t\t\t\t\tog HERREN tog.\n\t\t\t\t\t\tHERRENS navn være lovet!<<",
+      "text": "\t\t\tHan sagde:\f\n\t\t\t\t>>Nøgen kom jeg ud af min mors liv,\f\n\t\t\t\t\t\tog nøgen vender jeg tilbage.\f\n\t\t\t\t\tHERREN gav,\n\t\t\t\t\t\t\tog HERREN tog.\f\n\t\t\t\t\t\tHERRENS navn være lovet!<<",
       "number": 21
     },
     {
-      "text": "\t\tGennem alt dette syndede Job ikke\n\t\t\tog anklagede ikke Gud for fejl.{T: Ordret: >>tilskrev ikke Gud noget uanstændigt.<<}",
+      "text": "\f\t\tGennem alt dette syndede Job ikke\n\t\t\tog anklagede ikke Gud for fejl.",
       "number": 22
     }
   ],
@@ -183,6 +197,12 @@
       "type": "T",
       "verse": 19,
       "position": 47
+    },
+    {
+      "text": "Ordret: >>tilskrev ikke Gud noget uanstændigt.<<",
+      "type": "T",
+      "verse": 22,
+      "position": 71
     }
   ]
 }

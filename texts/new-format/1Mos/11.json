@@ -3,9 +3,23 @@
   "abbreviation": "1Mos",
   "chapter": 11,
   "version": 1620770400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen, Jens Bruun Kofoed, Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Hele jorden havde fælles sprog og ord.",
+      "text": "\fHele jorden havde fælles sprog og ord.",
       "number": 1
     },
     {
@@ -47,7 +61,7 @@
       "text": "Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.",
       "type": "E",
       "verse": 1,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Kan også oversættes: >>fra<<.",

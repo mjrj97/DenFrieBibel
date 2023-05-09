@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 10,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men jeg selv, Paulus, formaner jer ved Kristi sagtmodighed og mildhed, jeg, der, >>når I ser på, er ydmyg iblandt jer, men fraværende er modig over for jer<<,",
+      "text": "\fMen jeg selv, Paulus, formaner jer ved Kristi sagtmodighed og mildhed, jeg, der, >>når I ser på, er ydmyg iblandt jer, men fraværende er modig over for jer<<,",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Ser I på det ydre? Hvis nogen trøster sig med selv at høre Kristus til, så må han igen slutte ud fra sig selv, at ligesom han hører Kristus til, sådan gør vi det også.",
+      "text": "\fSer I på det ydre? Hvis nogen trøster sig med selv at høre Kristus til, så må han igen slutte ud fra sig selv, at ligesom han hører Kristus til, sådan gør vi det også.",
       "number": 7
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "For vi drister os ikke til at regne os iblandt eller sammenligne os med visse af dem, der anbefaler sig selv; men selv indser de ikke, at de måler sig med sig selv og sammenligner sig med sig selv.",
+      "text": "\fFor vi drister os ikke til at regne os iblandt eller sammenligne os med visse af dem, der anbefaler sig selv; men selv indser de ikke, at de måler sig med sig selv og sammenligner sig med sig selv.",
       "number": 12
     },
     {

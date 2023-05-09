@@ -40,11 +40,8 @@ fs.readdir(directoryPath, function (err, files)
 
 async function convertFile(file) 
 {
-    // Footnotes in last verse doesn't work
-    // There should be a line ending at the end of each verse
-	// Missing translation "level" https://github.com/EzerIT/DFB/blob/master/oversigt.inc.php
-    // space between line should become a space in text
-
+    // Missing translation "level" https://github.com/EzerIT/DFB/blob/master/oversigt.inc.php
+    
     // Open file stream
     const filePath = path.join(directoryPath, file);
     const fileStream = fs.createReadStream(filePath);
@@ -58,6 +55,7 @@ async function convertFile(file)
     let abbreviation = file.replace(/\.[^/.]+$/, "");
     let chapter = 0;
     let version;
+    let contributors = [];
     let verses = [];
     let titles = [];
     let footnotes = [];
@@ -86,142 +84,155 @@ async function convertFile(file)
     // Go through each line in file
     for await (const line of rl)
     {
-        if (line !== null && line.match(/^ *$/) === null)
+        if (line === null || line.match(/^ *$/) !== null) {
+            if (text.substring(text.length - 1) != "\f")
+                text += "\f";
+        }
+        else if (line.startsWith("***")) // Empty line
         {
-            if (line.startsWith("!!")) // Meta data from file
-            {
-                let raw = line.substring(3,line.length-3);
-                let values = raw.split(':');
+            text += "[NEWLINE]";
+        }
+        else if (line.startsWith("!!")) // Meta data from file
+        {
+            let raw = line.substring(3,line.length-3);
+            let values = raw.split(':');
 
-                if (values[0] == "Dato for denne version") {
-                    let parts = values[1].trim().split('.')
-                    // Switch from american to european format.
-                    version = Date.parse(parts[1] + '.' + parts[0] + '.' + parts[2]);
-                }
+            if (values[0] == "Dato for denne version") {
+                let parts = values[1].trim().split('.')
+                // Switch from american to european format.
+                version = Date.parse(parts[1] + '.' + parts[0] + '.' + parts[2]);
             }
-            else if (line.startsWith("===")) // Retrieve Book and Chapter info
-            {
-                let lineWithoutFootnote = line.replace(/\s?\{[^}]+\}/g, '');
-                // Handle footnotes later
-                
-                let substring = lineWithoutFootnote.substring(3,lineWithoutFootnote.length-3);
-                let values = substring.split(',');
+            else if (values[0] == "Oversættelse") {
+                contributors.push({ name: values[1].trim(), type: "translation" });
+            }
+            else if (values[0] == "Eksegetisk bearbejdning") {
+                contributors.push({ name: values[1].trim(), type: "exegetic processing" });
+            }
+            else if (values[0] == "Eksegetisk layout") {
+                contributors.push({ name: values[1].trim(), type: "exegetic layout" });
+            }
+            else if (values[0] == "Litterært tjek") {
+                contributors.push({ name: values[1].trim(), type: "literary check" });
+            }
+        }
+        else if (line.startsWith("===")) // Retrieve Book and Chapter info
+        {
+            let lineWithoutFootnote = line.replace(/\s?\{[^}]+\}/g, '');
+            // Handle footnotes later
+            
+            let substring = lineWithoutFootnote.substring(3,lineWithoutFootnote.length-3);
+            let values = substring.split(',');
 
-                if (values.length === 2)
-                {
-                    book = values[0];
-                    chapter = parseInt(values[1].replace(/\D/g, ""));
-                }
-                else 
-                {
-                    values = substring.split(' ');
-                    book = "Salmernes Bog";
-                    chapter = parseInt(values[1].replace(/\D/g, ""));
-                }
-            }
-            else if (line.startsWith("==")) // Titles
+            if (values.length === 2)
             {
-                let trimmed = line.trim();
-                titles.push({
-                    text: trimmed.substring(2,trimmed.length-2).trim(),
-                    verse: verseNumber + 1
-                });
+                book = values[0];
+                chapter = parseInt(values[1].replace(/\D/g, ""));
             }
             else 
             {
-                let lines = line.split('//');
+                values = substring.split(' ');
+                book = "Salmernes Bog";
+                chapter = parseInt(values[1].replace(/\D/g, ""));
+            }
+        }
+        else if (line.startsWith("==")) // Titles
+        {
+            let trimmed = line.trim();
+            titles.push({
+                text: trimmed.substring(2,trimmed.length-2).trim(),
+                verse: verseNumber + 1
+            });
+        }
+        else 
+        {
+            let lines = line.split('//');
 
-                for (let i = 0; i < lines.length; i++) {
-                    if (lines[i] !== '') 
+            for (let i = 0; i < lines.length; i++) {
+                if (lines[i] !== '') 
+                {
+                    // Get indentation number from the line
+                    let numberText = lines[i].replace(/(^\d+)(.+$)/i,'$1');
+
+                    if (numberText !== '')
                     {
-                        // Get indentation number from the line
-                        let numberText = lines[i].replace(/(^\d+)(.+$)/i,'$1');
+                        let lineWithoutNumber;
 
-                        if (numberText !== '')
+                        let number = parseInt(numberText);
+                        if (!isNaN(number))
+                            lineWithoutNumber = lines[i].substring(numberText.length + 1, lines[i].length);
+                        else
+                            lineWithoutNumber = lines[i];
+
+                        if (lineWithoutNumber.charAt(0) == 'v')
                         {
-                            let lineWithoutNumber;
+                            let words = lineWithoutNumber.split(' ');
+                            let attempt = words[0].substring(1, words[0].length);
+                            
+                            let isNumber = !isNaN(attempt);
 
-                            let number = parseInt(numberText);
-                            if (!isNaN(number))
-                                lineWithoutNumber = lines[i].substring(numberText.length + 1, lines[i].length);
-                            else
-                                lineWithoutNumber = lines[i];
-
-                            if (lineWithoutNumber.charAt(0) == 'v')
+                            // If it begins with a versenumber
+                            if (isNumber)
                             {
-                                let words = lineWithoutNumber.split(' ');
-                                let attempt = words[0].substring(1, words[0].length);
-                                
-                                let isNumber = !isNaN(attempt);
+                                if (text.trim() != '' && verseNumber != 0) {
+                                    // Get footnotes out of verse before pushing it.
+                                    let footnotesInVerse = GetFootnotes(text, verseNumber);
 
-                                // If it begins with a versenumber
-                                if (isNumber)
-                                {
-                                    if (text.trim() != '') {
-                                        // Get footnotes out of verse before pushing it.
-                                        let segments = text.split('{');
-                                        if (segments.length > 1) {
-                                            let position = segments[0].length;
-                                            for (let j = 0; j < segments.length; j++) {
-                                                let end = segments[j].indexOf('}');
-                                                if (end != -1) {
-                                                    let footnote = segments[j].substring(0,end);
-
-                                                    footnotes.push({
-                                                        text: footnote.substring(3),
-                                                        type: footnote.substring(0,1),
-                                                        verse: verseNumber,
-                                                        position: position
-                                                    });
-
-                                                    position += segments[j].length - end -1;
-                                                }
-                                            }
-                                        }
-
-                                        // Add verse and clear text buffer
-                                        verses.push({
-                                            text: text.replace(/\s?\{[^}]+\}/g, ''),
-                                            number: verseNumber
-                                        });
-                                        text = "";
+                                    for (let j = 0; j < footnotesInVerse.length; j++) {
+                                        footnotes.push(footnotesInVerse[j]);
                                     }
 
-                                    // Set verseNumber to the number retrieved.
-                                    verseNumber = parseInt(attempt);
+                                    // Add verse and clear text buffer
+                                    let formatted = text.replace(/\s?\{[^}]+\}/g, '');
+                                    verses.push({
+                                        text: formatted.trimEnd().replace("\f[NEWLINE]", "\n\n").replace("[NEWLINE]", "\n\n"),
+                                        number: verseNumber
+                                    });
+                                    if (formatted.endsWith("\f"))
+                                        text = "\f";
+                                    else
+                                        text = "";
                                 }
 
-                                lineWithoutNumber = "";
-                                for (let i = isNumber ? 1 : 0; i < words.length; i++) {
-                                    lineWithoutNumber += words[i] + " ";
-                                }
+                                // Set verseNumber to the number retrieved.
+                                verseNumber = parseInt(attempt);
                             }
 
-                            // If is not the first line, and it has indentation add a new line.
-                            if (number > 0 && text.trim() !== "") {
-                                text += "\n";
+                            lineWithoutNumber = "";
+                            for (let i = isNumber ? 1 : 0; i < words.length; i++) {
+                                lineWithoutNumber += words[i] + " ";
                             }
+                        }
 
-                            // Add indentation
-                            for (let j = 0; j < number; j++) {
-                                text += "\t";
-                            }
-                            
-                            // Add contents of the line without versenumber, indentation number or footnotes.
-                            text += lineWithoutNumber.trim();
+                        // If is not the first line, and it has indentation add a new line.
+                        if (number > 0 && text.trim() !== "") {
+                            text += "\n";
                         }
-                        else
-                        {
-                            text += lines[i];
+
+                        // Add indentation
+                        for (let j = 0; j < number; j++) {
+                            text += "\t";
                         }
+                        
+                        // Add contents of the line without versenumber, indentation number or footnotes.
+                        text += lineWithoutNumber.trim();
+                    }
+                    else
+                    {
+                        text += lines[i];
                     }
                 }
             }
         }
     }
 
+    let footnotesInVerse = GetFootnotes(text, verseNumber);
+    for (let j = 0; j < footnotesInVerse.length; j++) {
+        footnotes.push(footnotesInVerse[j]);
+    }
+
+    let formatted = text.replace(/\s?\{[^}]+\}/g, '')
     verses.push({
-        text,
+        text: formatted.trimEnd().replace("\f[NEWLINE]", "\n\n").replace("[NEWLINE]", "\n\n"),
         number: verseNumber
     });
 
@@ -230,10 +241,37 @@ async function convertFile(file)
         abbreviation,
         chapter,
         version,
+        contributors,
         verses,
         titles,
         footnotes
     }
 
     return result;
+}
+
+function GetFootnotes(text, verseNumber) {
+    let footnotes = [];
+
+    let segments = text.split('{');
+    if (segments.length > 1) {
+        let position = segments[0].length;
+        for (let j = 0; j < segments.length; j++) {
+            let end = segments[j].indexOf('}');
+            if (end != -1) {
+                let footnote = segments[j].substring(0,end);
+
+                footnotes.push({
+                    text: footnote.substring(3),
+                    type: footnote.substring(0,1),
+                    verse: verseNumber,
+                    position: position
+                });
+
+                position += segments[j].length - end -1;
+            }
+        }
+    }
+
+    return footnotes;
 }

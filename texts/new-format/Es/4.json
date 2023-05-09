@@ -3,13 +3,31 @@
   "abbreviation": "Es",
   "chapter": 4,
   "version": 1668034800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "Og syv kvinder skal gribe fat i én mand på den dag\n\t\tog sige:\n\t\t\t>>Vi vil spise vores eget brød\n\t\t\t\t\tog klæde os i vores eget tøj,\n\t\t\t\tbare man må kalde os med dit navn;\n\t\t\t\t\tfjern vores vanære!<<",
+      "text": "\fOg syv kvinder skal gribe fat i én mand på den dag\n\t\tog sige:\f\n\t\t\t>>Vi vil spise vores eget brød\f\n\t\t\t\t\tog klæde os i vores eget tøj,\f\n\t\t\t\tbare man må kalde os med dit navn;\f\n\t\t\t\t\tfjern vores vanære!<<",
       "number": 1
     },
     {
-      "text": "\tPå den dag skal JHVHs spire være til pragt og herlighed\n\t\t\t\tog landets frugt til stolthed og pryd for Israels undslupne.",
+      "text": "\f\tPå den dag skal JHVHs spire være til pragt og herlighed\n\t\t\t\tog landets frugt til stolthed og pryd for Israels undslupne.",
       "number": 2
     },
     {

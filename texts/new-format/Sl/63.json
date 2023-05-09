@@ -3,53 +3,67 @@
   "abbreviation": "Sl",
   "chapter": 63,
   "version": 1531087200000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Salme af David.Dengang han var i Judas Ørken.",
+      "text": "\fSalme af David.\fDengang han var i Judas Ørken.",
       "number": 1
     },
     {
-      "text": "Gud, du er min Gud, jeg vil søge dig,min sjæl har tørstet efter dig,mit kød har længtes efter digi et tørt og udpint land uden vand.",
+      "text": "\fGud, du er min Gud, jeg vil søge dig,\fmin sjæl har tørstet efter dig,\fmit kød har længtes efter dig\fi et tørt og udpint land uden vand.",
       "number": 2
     },
     {
-      "text": "Således skuede jeg dig i helligdommen,da jeg så din magt og din herlighed.",
+      "text": "\fSåledes skuede jeg dig i helligdommen,\fda jeg så din magt og din herlighed.",
       "number": 3
     },
     {
-      "text": "For din nåde er bedre end liv.Mine læber skal prise dig,",
+      "text": "\fFor din nåde er bedre end liv.\fMine læber skal prise dig,",
       "number": 4
     },
     {
-      "text": "ja, jeg vil velsigne dig hele mit liv,i dit navn vil jeg løfte mine hænder.",
+      "text": "\fja, jeg vil velsigne dig hele mit liv,\fi dit navn vil jeg løfte mine hænder.",
       "number": 5
     },
     {
-      "text": "Min sjæl skal mættes som af fede og gode retter,og min mund skal lovprise dig med jublende læber",
+      "text": "\fMin sjæl skal mættes som af fede og gode retter,\fog min mund skal lovprise dig med jublende læber",
       "number": 6
     },
     {
-      "text": "når jeg husker dig på mit lejeog i nattevagterne mediterer over dig.",
+      "text": "\fnår jeg husker dig på mit leje\fog i nattevagterne mediterer over dig.",
       "number": 7
     },
     {
-      "text": "For du har været min hjælp,og i dine vingers skygge vil jeg juble.",
+      "text": "\fFor du har været min hjælp,\fog i dine vingers skygge vil jeg juble.",
       "number": 8
     },
     {
-      "text": "Min sjæl hang ved dig,din højre hånd holdt mig fast.",
+      "text": "\fMin sjæl hang ved dig,\fdin højre hånd holdt mig fast.",
       "number": 9
     },
     {
-      "text": "Men de der til fordærv stræber mig efter livet,skal gå ned i jordens nederste dybder.",
+      "text": "\fMen de der til fordærv stræber mig efter livet,\fskal gå ned i jordens nederste dybder.",
       "number": 10
     },
     {
-      "text": "Man skal give dem i sværdets magt,de skal blive ræves bytte.",
+      "text": "\fMan skal give dem i sværdets magt,\fde skal blive ræves bytte.",
       "number": 11
     },
     {
-      "text": "Men kongen skal glæde sig i Gud,alle som sværger ved ham,{E: Meningen kan også være: >>Alle, som sværger ham (kongen) troskab, skal ….} skal rose sig,for munden skal lukkes på dem som taler løgn.",
+      "text": "\fMen kongen skal glæde sig i Gud,\falle som sværger ved ham, skal rose sig,\ffor munden skal lukkes på dem som taler løgn.",
       "number": 12
     }
   ],
@@ -76,67 +90,73 @@
       "text": "Tidligere ofte oversat: >>tidligt søger jeg dig<<, idet verbet *šḥr* (>>søge<<) har samme rod som ordet for >>morgenrøde<< (*šaḥar*). Salmen er derfor også blevet brugt som morgensalme.",
       "type": "E",
       "verse": 2,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Ordret nærmere: >>vansmægtende<<.",
       "type": "T",
       "verse": 2,
-      "position": 116
+      "position": 120
     },
     {
       "text": "Verset kan også oversættes: >>Således spejdede jeg efter dig i helligdommen for at se din magt og din herlighed<<.",
       "type": "E",
       "verse": 3,
-      "position": 74
+      "position": 76
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 4,
-      "position": 12
+      "position": 13
     },
     {
       "text": "Ordret: >>i mit liv<<.",
       "type": "T",
       "verse": 5,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Festmåltidets hovedretter var fede. Grundteksten har to ord der begge betyder: >>fedt<<; det ene oversættes dog undertiden: >>marv<<.",
       "type": "E",
       "verse": 6,
-      "position": 48
+      "position": 49
     },
     {
       "text": "Ordret: >>jubels læber<<.",
       "type": "T",
       "verse": 6,
-      "position": 96
+      "position": 98
     },
     {
       "text": "Ordret: >>læser mumlende<<.",
       "type": "T",
       "verse": 7,
-      "position": 58
+      "position": 60
     },
     {
       "text": "Kan også oversættes: >>Men til (eget) fordærv stræber de mig efter livet<<.",
       "type": "T",
       "verse": 10,
-      "position": 47
+      "position": 48
     },
     {
       "text": "Det er dødsriget.",
       "type": "E",
       "verse": 10,
-      "position": 85
+      "position": 87
     },
     {
       "text": "Ordret: >>De skal give ham i sværdets magt<<. >>Ham<< må i sammenhængen opfattes kollektivt, ligesom der må underforstås et >>man<<. En anden mulighed er dog at oversætte: >>De som vil give ham (kongen) i sværdets magt, skal (selv) blive ræves bytte<<.",
       "type": "E",
       "verse": 11,
-      "position": 34
+      "position": 35
+    },
+    {
+      "text": "Meningen kan også være: >>Alle, som sværger ham (kongen) troskab, skal ….",
+      "type": "E",
+      "verse": 12,
+      "position": 59
     }
   ]
 }

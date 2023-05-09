@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 32,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Da folket indså at Moses tøvede med at komme ned fra bjerget, samlede folket sig mod Aron og sagde til ham: >>Rejs dig, lav os guder som kan gå foran os; for denne Moses, manden som førte os op fra Egyptens land – vi ved ikke, hvad der er sket med ham.<<",
+      "text": "\fDa folket indså at Moses tøvede med at komme ned fra bjerget, samlede folket sig mod Aron og sagde til ham: >>Rejs dig, lav os guder som kan gå foran os; for denne Moses, manden som førte os op fra Egyptens land – vi ved ikke, hvad der er sket med ham.<<",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Da sagde JHVH til Moses: >>Gå straks ned, for dit folk, som du førte op fra Egyptens land, har handlet slet.",
+      "text": "\fDa sagde JHVH til Moses: >>Gå straks ned, for dit folk, som du førte op fra Egyptens land, har handlet slet.",
       "number": 7
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "Så vendte Moses sig og gik ned ad bjerget med vidnesbyrdets to tavler i sin hånd, tavler beskrevne på begge sider, både på den ene og den anden side var der skrevet.",
+      "text": "\fSå vendte Moses sig og gik ned ad bjerget med vidnesbyrdets to tavler i sin hånd, tavler beskrevne på begge sider, både på den ene og den anden side var der skrevet.",
       "number": 15
     },
     {
@@ -121,7 +131,7 @@
       "number": 29
     },
     {
-      "text": "Næste dag sagde Moses til folket: >>I har begået en stor synd, men nu vil jeg gå op til JHVH; måske kan jeg skabe forsoning for jeres synd.<<",
+      "text": "\fNæste dag sagde Moses til folket: >>I har begået en stor synd, men nu vil jeg gå op til JHVH; måske kan jeg skabe forsoning for jeres synd.<<",
       "number": 30
     },
     {
@@ -168,13 +178,13 @@
       "text": "Når verbet *qhl* i GT forbindes med præpositionen *ʕal*, er meningen at man samler sig >>imod<< en.",
       "type": "E",
       "verse": 1,
-      "position": 84
+      "position": 85
     },
     {
       "text": "Grundteksten anvender her og i vers 4, 8, 23, 31 (og på græsk ApG 7,40) ordet: *ʔᵉlōhîm*, der er pluralis. Ordet anvendes om Israels Gud med singulær betydning, og i de allerfleste tilfælde også med verbum og eventuelt prædikat i singularis. Her står verbet i pluralis, så det er nærliggende at oversætte ved pluralis, eventuelt: >>gudebilleder<<. Mange oversætter dog: >>en gud<<.",
       "type": "E",
       "verse": 1,
-      "position": 132
+      "position": 133
     },
     {
       "text": "Verbet *prq* betyder egentlig: >>rive af/plyndre<<. Verbet skal formodentlig angive at det skal ske resolut og straks.",
@@ -198,7 +208,7 @@
       "text": "Ordret: >>gå, stig ned<<. De to imperativer angiver tilsammen at det skal ske straks og hurtigt.",
       "type": "T",
       "verse": 7,
-      "position": 41
+      "position": 42
     },
     {
       "text": "Der kunne også oversættes: >>Lad mig derfor være i fred<<.",
@@ -270,7 +280,7 @@
       "text": "Ordret: >>syndet en stor synd<<.",
       "type": "T",
       "verse": 30,
-      "position": 62
+      "position": 63
     },
     {
       "text": "Sprogligt er denne sætning egentlig ufuldendt: >>Hvis du tilgiver dem deres synd – (men hvis ikke …).<<",

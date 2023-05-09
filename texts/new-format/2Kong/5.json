@@ -3,9 +3,23 @@
   "abbreviation": "2Kong",
   "chapter": 5,
   "version": 1634076000000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen og Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Na’aman, kongen af Arams hærfører, var en stor mand hos sin herre og højt anset, for gennem ham gav JHVH Aram sejr; han var en stor kriger, men spedalsk.",
+      "text": "\fNa’aman, kongen af Arams hærfører, var en stor mand hos sin herre og højt anset, for gennem ham gav JHVH Aram sejr; han var en stor kriger, men spedalsk.",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Så kom Na’aman med sine heste og stridsvogn og holdt uden for døren til Elisas hus.",
+      "text": "\fSå kom Na’aman med sine heste og stridsvogn og holdt uden for døren til Elisas hus.",
       "number": 9
     },
     {

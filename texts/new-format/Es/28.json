@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 28,
   "version": 1528236000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Ve de berusedes stolte krone i Efraim og deres dejlige prydelses falmede blomst, der står oven over den fede dal, der, hvor de dingler af vin!",
+      "text": "\fVe de berusedes stolte krone i Efraim og deres dejlige prydelses falmede blomst, der står oven over den fede dal, der, hvor de dingler af vin!",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "Men også de dingler af vin og er omtågede af stærk drik; præst og profet dingler rundt af stærk drik, de er overvældede af vin, de farer vild under synet, de vakler under dommen.",
+      "text": "\fMen også de dingler af vin og er omtågede af stærk drik; præst og profet dingler rundt af stærk drik, de er overvældede af vin, de farer vild under synet, de vakler under dommen.",
       "number": 7
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Hør derfor JHVHs ord, I spottere, der hersker over dette folk, der bor i Jerusalem!",
+      "text": "\fHør derfor JHVHs ord, I spottere, der hersker over dette folk, der bor i Jerusalem!",
       "number": 14
     },
     {
@@ -93,7 +103,7 @@
       "number": 22
     },
     {
-      "text": "Mon plovmanden pløjer altid for at så, vender og harver sin jord hele tiden?",
+      "text": "\fMon plovmanden pløjer altid for at så, vender og harver sin jord hele tiden?",
       "number": 24
     },
     {
@@ -128,7 +138,7 @@
       "text": "Dvs. Samarias",
       "type": "T",
       "verse": 1,
-      "position": 16
+      "position": 17
     },
     {
       "text": "Dvs. driver fjenden ud af byen",

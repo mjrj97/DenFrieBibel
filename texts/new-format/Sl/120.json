@@ -3,33 +3,47 @@
   "abbreviation": "Sl",
   "chapter": 120,
   "version": 1504476000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "En valfartssang.Til JHVH i min trængselråbte jeg, og han svarede mig.",
+      "text": "\fEn valfartssang.\fTil JHVH i min trængsel\fråbte jeg, og han svarede mig.",
       "number": 1
     },
     {
-      "text": ">>JHVHv, befri min sjæl fra en løgnagtig læbe,fra en svigefuld tunge.<<",
+      "text": "\f>>JHVHv, befri min sjæl fra en løgnagtig læbe,\ffra en svigefuld tunge.<<",
       "number": 2
     },
     {
-      "text": "Hvad giver han dig, og hvad giver han dig yderligere,du svigefulde tunge?",
+      "text": "\fHvad giver han dig, og hvad giver han dig yderligere,\fdu svigefulde tunge?",
       "number": 3
     },
     {
-      "text": "Krigerens skarpe pilemed gyvelgrenes glødende kul!",
+      "text": "\fKrigerens skarpe pile\fmed gyvelgrenes glødende kul!",
       "number": 4
     },
     {
-      "text": "Ve mig, for jeg har været fremmed i Meshek,jeg har boet blandt Kedars telte.",
+      "text": "\fVe mig, for jeg har været fremmed i Meshek,\fjeg har boet blandt Kedars telte.",
       "number": 5
     },
     {
-      "text": "Længe nok har min sjæl haft sin bolighos ham som hader fred.",
+      "text": "\fLænge nok har min sjæl haft sin bolig\fhos ham som hader fred.",
       "number": 6
     },
     {
-      "text": "Jeg er fredsommelig; men når jeg taler,er de for krig.",
+      "text": "\fJeg er fredsommelig; men når jeg taler,\fer de for krig.",
       "number": 7
     }
   ],
@@ -60,37 +74,37 @@
       "text": "Den første af 15 valfartssange. Meningen med ordet: *maʕᵃlôt* (>>valfart<<) er ganske vist omdiskuteret. Stammen i ordet er verbet: *ʕlt*, der betyder: >>at stige op, at gå op<<.Det er gammel jødisk opfattelse at ordet betegner de 15 trin op til Nikanorporten til tempelpladsen hvorfra levitterne sang. I så fald skal overskriften oversættes: >>Sang på trinene<<.Et andet forslag bygger på at verbet: *ʕlt* ofte betegner vandring til det hellige land. Det er derfor foreslået at salmerne stammer fra israelitternes rejse tilbage til deres land fra det babyloniske eksil. Man kan derfor også finde oversættelsen: >>Sang til rejserne<<.Et tredje forslag, som nu oftest vinder tilslutning, læser verbet: *ʕlt* som betegnelse for opstigning til Jerusalem, der ligger på en bjergtop. Verbet bruges specielt om opstigning til templet, altså om >>valfart<<.",
       "type": "E",
       "verse": 1,
-      "position": 16
+      "position": 17
     },
     {
       "text": "Ordret: >>fra løgns læbe<<.",
       "type": "T",
       "verse": 2,
-      "position": 46
+      "position": 47
     },
     {
       "text": "Ordret: >>fra tunge der er bedrag<<.",
       "type": "T",
       "verse": 2,
-      "position": 71
+      "position": 73
     },
     {
       "text": "Svaret kommer i næste vers. Verset oversættes undertiden: >>Gid han må ramme dig og gøre det yderligere, du svigefulde tunge<<. Det er dog tvivlsomt om: *māʰ* (normalt: >>hvad<<) kan betyde: >>gid<<.",
       "type": "E",
       "verse": 3,
-      "position": 73
+      "position": 75
     },
     {
       "text": "Meshek og Kedar var krigeriske stammer.",
       "type": "T",
       "verse": 5,
-      "position": 43
+      "position": 44
     },
     {
       "text": "Nogle håndskrifter og de gamle oversættelser har pluralis: >>hos dem<<.",
       "type": "T",
       "verse": 6,
-      "position": 44
+      "position": 46
     }
   ]
 }

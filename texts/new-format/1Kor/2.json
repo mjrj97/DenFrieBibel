@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 2,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og, brødre! da jeg kom til jer, kom jeg ikke og forkyndte Guds vidnesbyrd for jer med overlegen tale eller visdom;",
+      "text": "\fOg, brødre! da jeg kom til jer, kom jeg ikke og forkyndte Guds vidnesbyrd for jer med overlegen tale eller visdom;",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Dog, visdom taler vi iblandt de fuldkomne, men det er en visdom, der ikke stammer fra denne verden, ikke heller fra denne verdens herskere, der bliver til intet;",
+      "text": "\fDog, visdom taler vi iblandt de fuldkomne, men det er en visdom, der ikke stammer fra denne verden, ikke heller fra denne verdens herskere, der bliver til intet;",
       "number": 6
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Men det sjælelige menneske tager ikke imod de ting, der hører Guds Ånd til; for de er en tåbelighed for ham, og han kan ikke erkende dem, de bedømmes nemlig åndeligt.",
+      "text": "\fMen det sjælelige menneske tager ikke imod de ting, der hører Guds Ånd til; for de er en tåbelighed for ham, og han kan ikke erkende dem, de bedømmes nemlig åndeligt.",
       "number": 14
     },
     {
@@ -86,7 +100,7 @@
       "text": "d. e. det uåndelige.",
       "type": "T",
       "verse": 14,
-      "position": 17
+      "position": 18
     }
   ]
 }

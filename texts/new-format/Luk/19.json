@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 19,
   "version": 1646953200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Han kom ind i Jeriko og drog igennem den.",
+      "text": "\fHan kom ind i Jeriko og drog igennem den.",
       "number": 1
     },
     {
@@ -45,7 +59,7 @@
       "number": 10
     },
     {
-      "text": "Da han kom nærmere og så byen, græd han over den",
+      "text": "\fDa han kom nærmere og så byen, græd han over den",
       "number": 41
     },
     {
@@ -61,7 +75,7 @@
       "number": 44
     },
     {
-      "text": "Han gik ind i helligdommen og begyndte at drive sælgerne ud",
+      "text": "\fHan gik ind i helligdommen og begyndte at drive sælgerne ud",
       "number": 45
     },
     {
@@ -69,11 +83,11 @@
       "number": 46
     },
     {
-      "text": "Han underviste dagligt i helligdommen; men ypperstepræsterne og de skriftkloge og de fremstående i folket søgte at rydde ham af vejen.",
+      "text": "\fHan underviste dagligt i helligdommen; men ypperstepræsterne og de skriftkloge og de fremstående i folket søgte at rydde ham af vejen.",
       "number": 47
     },
     {
-      "text": "Men de fandt ikke ud af hvad de skulle gøre, for hele folket hang ved ham og hørte på ham.{T: Ordret: >>lyttende<<}",
+      "text": "Men de fandt ikke ud af hvad de skulle gøre, for hele folket hang ved ham og hørte på ham.",
       "number": 48
     }
   ],
@@ -84,6 +98,12 @@
       "type": "T",
       "verse": 43,
       "position": 69
+    },
+    {
+      "text": "Ordret: >>lyttende<<",
+      "type": "T",
+      "verse": 48,
+      "position": 90
     }
   ]
 }

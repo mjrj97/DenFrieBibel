@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 37,
   "version": 1668726000000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Ja, over dette banker mit hjerte\n\t\t\tog slår heftige slag i mit bryst.",
+      "text": "\fJa, over dette banker mit hjerte\n\t\t\tog slår heftige slag i mit bryst.",
       "number": 1
     },
     {
@@ -97,7 +111,7 @@
       "number": 23
     },
     {
-      "text": "\t\t\t\t\t\tDerfor må mennesker tilbede ham i gudsfrygt,\n\t\t\t\t\t\t\than ser ikke til vise i egne tanker.<<{E: Hebraisk *kol-ḥaxmê-lēv* >>alle de af hjerte vise<< må være negativt ment; alternativt antages et retorisk spørgsmål: >>ser han ikke til dem der er vise i hjertet?<<}",
+      "text": "\t\t\t\t\t\tDerfor må mennesker tilbede ham i gudsfrygt,\n\t\t\t\t\t\t\than ser ikke til vise i egne tanker.<<",
       "number": 24
     }
   ],
@@ -112,7 +126,7 @@
       "text": "Ordret: >>springer op fra sit sted<<.",
       "type": "T",
       "verse": 1,
-      "position": 69
+      "position": 70
     },
     {
       "text": "hebraisk *rōgez* bruges ellers i Job om ugudeliges raseri og den lidendes uro (3,17.26; 14,1; 39,24).",
@@ -143,6 +157,12 @@
       "type": "E",
       "verse": 19,
       "position": 87
+    },
+    {
+      "text": "Hebraisk *kol-ḥaxmê-lēv* >>alle de af hjerte vise<< må være negativt ment; alternativt antages et retorisk spørgsmål: >>ser han ikke til dem der er vise i hjertet?<<",
+      "type": "E",
+      "verse": 24,
+      "position": 96
     }
   ]
 }

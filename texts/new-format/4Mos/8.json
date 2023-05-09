@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 8,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 5
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "For de er helt og fuldt givet til mig af israelitterne. Jeg har taget dem i stedet for enhver som åbner mors liv, for alle førstefødte af israelitterne.",
+      "text": "\fFor de er helt og fuldt givet til mig af israelitterne. Jeg har taget dem i stedet for enhver som åbner mors liv, for alle førstefødte af israelitterne.",
       "number": 16
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "Moses og Aron og hele israelitternes forsamling gjorde dette ved levitterne. Alt det JHVH havde befalet Moses om levitterne, gjorde israelitterne ved dem.",
+      "text": "\fMoses og Aron og hele israelitternes forsamling gjorde dette ved levitterne. Alt det JHVH havde befalet Moses om levitterne, gjorde israelitterne ved dem.",
       "number": 20
     },
     {
@@ -93,7 +103,7 @@
       "number": 22
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 23
     },
     {

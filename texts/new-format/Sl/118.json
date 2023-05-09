@@ -3,121 +3,135 @@
   "abbreviation": "Sl",
   "chapter": 118,
   "version": 1525384800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Tak JHVH, for han er god,ja, hans nåde varer til evig tid.",
+      "text": "\fTak JHVH, for han er god,\fja, hans nåde varer til evig tid.",
       "number": 1
     },
     {
-      "text": "Israel skal sige:>>Ja, hans nåde varer til evig tid.<<",
+      "text": "\fIsrael skal sige:\f>>Ja, hans nåde varer til evig tid.<<",
       "number": 2
     },
     {
-      "text": "Arons hus skal sige:>>Ja, hans nåde varer til evig tid.<<",
+      "text": "\fArons hus skal sige:\f>>Ja, hans nåde varer til evig tid.<<",
       "number": 3
     },
     {
-      "text": "De som frygter JHVH, skal sige:>>Ja, hans nåde varer til evig tid.<<",
+      "text": "\fDe som frygter JHVH, skal sige:>>Ja, hans nåde varer til evig tid.<<",
       "number": 4
     },
     {
-      "text": "Fra trængslen råbte jeg til JHVH,JHVH svarede mig ved at føre mig ud i åbent land.",
+      "text": "\fFra trængslen råbte jeg til JHVH,\fJHVH svarede mig ved at føre mig ud i åbent land.",
       "number": 5
     },
     {
-      "text": "JHVH er for mig, jeg vil ikke frygte,hvad kan et menneske gøre mig?",
+      "text": "\fJHVH er for mig, jeg vil ikke frygte,\fhvad kan et menneske gøre mig?",
       "number": 6
     },
     {
-      "text": "JHVH er for mig som min hjælper,og jeg skal se med fryd på dem som hader mig.",
+      "text": "\fJHVH er for mig som min hjælper,\fog jeg skal se med fryd på dem som hader mig.",
       "number": 7
     },
     {
-      "text": "Det er bedre at søge tilflugt hos JHVHend at stole på mennesket.",
+      "text": "\fDet er bedre at søge tilflugt hos JHVH\fend at stole på mennesket.",
       "number": 8
     },
     {
-      "text": "Det er bedre at søge tilflugt hos JHVHend at stole på fyrster.",
+      "text": "\fDet er bedre at søge tilflugt hos JHVH\fend at stole på fyrster.",
       "number": 9
     },
     {
-      "text": "Alle folk omringede mig,i JHVHs navn slog jeg dem ned.",
+      "text": "\fAlle folk omringede mig,\fi JHVHs navn slog jeg dem ned.",
       "number": 10
     },
     {
-      "text": "De omringede mig, ja, de omringede mig,i JHVHs navn værgede jeg mig imod dem.",
+      "text": "\fDe omringede mig, ja, de omringede mig,\fi JHVHs navn værgede jeg mig imod dem.",
       "number": 11
     },
     {
-      "text": "De omringede mig som bier, de døde hen som ild i tjørnekrat,i JHVHs navn værgede jeg mig imod dem.",
+      "text": "\fDe omringede mig som bier, de døde hen som ild i tjørnekrat,\fi JHVHs navn værgede jeg mig imod dem.",
       "number": 12
     },
     {
-      "text": "Du stødte hårdt til mig for at jeg skulle falde,men JHVH hjalp mig.",
+      "text": "\fDu stødte hårdt til mig for at jeg skulle falde,\fmen JHVH hjalp mig.",
       "number": 13
     },
     {
-      "text": "JHVH er min styrke og min lovsang,og han blev mig til frelse.",
+      "text": "\fJHVH er min styrke og min lovsang,\fog han blev mig til frelse.",
       "number": 14
     },
     {
-      "text": "Der er råb af jubel og frelsei de retfærdiges telte:>>JHVHs højre hånd handler med kraft,",
+      "text": "\fDer er råb af jubel og frelse\fi de retfærdiges telte:\f>>JHVHs højre hånd handler med kraft,",
       "number": 15
     },
     {
-      "text": "JHVHs højre hånd ophøjer,JHVHs højre hånd handler med kraft.<<",
+      "text": "\fJHVHs højre hånd ophøjer,\fJHVHs højre hånd handler med kraft.<<",
       "number": 16
     },
     {
-      "text": "Jeg skal ikke dø, men jeg skal leve,og jeg skal fortælle om JHVHs gerninger.",
+      "text": "\fJeg skal ikke dø, men jeg skal leve,\fog jeg skal fortælle om JHVHs gerninger.",
       "number": 17
     },
     {
-      "text": "JHVH tugtede mig hårdt,men overgav mig ikke til døden.",
+      "text": "\fJHVH tugtede mig hårdt,\fmen overgav mig ikke til døden.",
       "number": 18
     },
     {
-      "text": "Åben retfærdigheds porte for mig,jeg vil gå ind ad dem, jeg vil takke JHVH!",
+      "text": "\fÅben retfærdigheds porte for mig,\fjeg vil gå ind ad dem, jeg vil takke JHVH!",
       "number": 19
     },
     {
-      "text": "Denne er porten til JHVH,retfærdige kan gå ind ad den.",
+      "text": "\fDenne er porten til JHVH,\fretfærdige kan gå ind ad den.",
       "number": 20
     },
     {
-      "text": "Jeg vil takke dig, for du svarede mig,og du blev mig til frelse.",
+      "text": "\fJeg vil takke dig, for du svarede mig,\fog du blev mig til frelse.",
       "number": 21
     },
     {
-      "text": "Den sten bygmestrene forkastede,er blevet hovedhjørnesten.",
+      "text": "\fDen sten bygmestrene forkastede,\fer blevet hovedhjørnesten.",
       "number": 22
     },
     {
-      "text": "Fra JHVH er dette sket,det er underfuldt for vore øjne.",
+      "text": "\fFra JHVH er dette sket,\fdet er underfuldt for vore øjne.",
       "number": 23
     },
     {
-      "text": "Denne er dagen som JHVH har skabt,lad os juble og glæde os på den!",
+      "text": "\fDenne er dagen som JHVH har skabt,\flad os juble og glæde os på den!",
       "number": 24
     },
     {
-      "text": "Oh, JHVHv, frels dog!Oh, JHVHv, lad det dog lykkes!",
+      "text": "\fOh, JHVHv, frels dog!\fOh, JHVHv, lad det dog lykkes!",
       "number": 25
     },
     {
-      "text": "Velsignet være han som kommer, i JHVHs navn!Vi velsigner jer fra JHVHs hus.",
+      "text": "\fVelsignet være han som kommer, i JHVHs navn!\fVi velsigner jer fra JHVHs hus.",
       "number": 26
     },
     {
-      "text": "JHVH er Gud, og han lod det lysne for os.Bind festofferet med rebop til alterets horn.",
+      "text": "\fJHVH er Gud, og han lod det lysne for os.\fBind festofferet med reb\fop til alterets horn.",
       "number": 27
     },
     {
-      "text": "Du er min Gud, og jeg vil takke dig,min Gud, jeg vil ophøje dig.",
+      "text": "\fDu er min Gud, og jeg vil takke dig,\fmin Gud, jeg vil ophøje dig.",
       "number": 28
     },
     {
-      "text": "Tak JHVH, for han er god,ja, hans nåde{N: nåde} varer til evig tid.",
+      "text": "\fTak JHVH, for han er god,\fja, hans nåde varer til evig tid.",
       "number": 29
     }
   ],
@@ -144,121 +158,127 @@
       "text": "nåde",
       "type": "N",
       "verse": 1,
-      "position": 38
+      "position": 40
     },
     {
       "text": "Guds navn står her og i næste linje i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
       "type": "T",
       "verse": 5,
-      "position": 33
+      "position": 34
     },
     {
       "text": "Ordret blot: >>JHVH svarede mig ved åbent land<<.",
       "type": "T",
       "verse": 5,
-      "position": 82
+      "position": 84
     },
     {
       "text": "Grundtekstens ord er pluralis, der understreger styrken i hjælpen. En anden mulighed er dog at oversætte: >>JHVH er for mig blandt mine hjælpere<<.",
       "type": "T",
       "verse": 7,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Kan også oversættes: >>hedninger<<; det kan give god mening her.",
       "type": "T",
       "verse": 10,
-      "position": 9
+      "position": 10
     },
     {
       "text": "Den præcise betydning af verbet her (og i de næste to vers) er usikker. Grundbetydningen er egentlig: >>jeg lod dem omskære<<. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning. En anden mulig oversættelse er: >>i JHVHs navn værgede jeg mig imod dem<<.",
       "type": "E",
       "verse": 10,
-      "position": 54
+      "position": 56
     },
     {
       "text": "Der er forsøgt forskellige rettelser til denne linje. Mange oversættere følger Septuaginta: >>de sværmede om mig som bier om voks, de brændte som ild i tjørnekrat<<. I så fald må: *dōʕᵃxû* (>>de døde hen/de blev slukket<<) rettes til: *dōnāg bāʕᵃrû*: >>voks, de brændte<<.",
       "type": "E",
       "verse": 12,
-      "position": 60
+      "position": 61
     },
     {
       "text": "I stedet for qal: *dᵊḥîtanî* (>>du stødte til mig<<) forudsætter Septuaginta og den syriske oversættelse nif’al: *nidḥêtî*: >>Jeg blev stødt<<. Denne læsemåde følges af de fleste oversættere. Meningen i den masoretiske tekst må være at Gud tugtede salmisten – andre foreslår dog at salmisten taler til sin modstander.",
       "type": "E",
       "verse": 13,
-      "position": 9
+      "position": 10
     },
     {
       "text": "Guds navn står her i kortformen: *yāh*. Jævnfør fodnote til v. 5.",
       "type": "T",
       "verse": 14,
-      "position": 4
+      "position": 5
     },
     {
       "text": "Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Es 12,2, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.",
       "type": "E",
       "verse": 14,
-      "position": 34
+      "position": 35
     },
     {
       "text": "Der er ikke noget verbum i grundteksten i denne og næste linje. Oftest er der dermed forudsat: >>er<<, men andre oversættere foreslår: >>lyder<< eller: >>hør<<.",
       "type": "T",
       "verse": 15,
-      "position": 6
+      "position": 7
     },
     {
       "text": "*rômēmāʰ* (>>ophøjer<<) opfattes normalt som participium pilel af verbet *rwm* (<<være høj<<). Andre opfatter det dog som participium qal af et verbum: *rmm* med samme betydning, så der oversættes: >>er løftet<<.",
       "type": "E",
       "verse": 16,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Guds navn står her og i de næste to vers i kortformen: *yāh*. Jævnfør fodnote til v.5.",
       "type": "T",
       "verse": 17,
-      "position": 65
+      "position": 67
     },
     {
       "text": "Kan også oversættes (og er traditionelt oversat): >>Dette er Herrens port<<.",
       "type": "T",
       "verse": 20,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Det er enten en sokkelsten der i et hjørne skal bære to mure, eller den sten der sidder øverst i buen over fx indgangsportalen og derved holder hele buen i det rette spænd (slutstenen).",
       "type": "T",
       "verse": 22,
-      "position": 58
+      "position": 60
     },
     {
       "text": ">>Frels dog!<< hedder på hebraisk: *hôšîʕāʰ nnāˀ*.",
       "type": "T",
       "verse": 25,
-      "position": 21
+      "position": 22
     },
     {
       "text": "Sprogligt kunne ordene: >>i JHVHs navn<< i stedet forbindes med verbet: >>han som kommer<<, så velsignelsen tilsiges den der kommer i tillid til >>JHVHs navn<< eller i JHVHs ærinde. I så fald må man dog ændre accenterne i den masoretiske tekst, der på linje med 5 Mos 21,5; 2 Sam 6,18 knytter >>JHVHs navn<< til velsignelsen.",
       "type": "E",
       "verse": 26,
-      "position": 44
+      "position": 45
     },
     {
       "text": "Qatal, der oftest skal oversættes ved fortid, er her brugt deklarativt.",
       "type": "E",
       "verse": 26,
-      "position": 56
+      "position": 58
     },
     {
       "text": "Nogle oversættere retter – med et enkelt håndskrift - *wayyāʔer* (>>og han lod det lysne<<) til: *yāʔēr*: >>Lad det lysne!<<",
       "type": "E",
       "verse": 27,
-      "position": 41
+      "position": 42
     },
     {
       "text": "Oversættelsen er meget usikker. På hebraisk består linjen af tre ord der alle forekommer en del andre steder i GT, hvor der ikke er tvivl om hvad de betyder. Men sammenstillingen her er ualmindelig. Ordret umiddelbart blot: >>Bind fest med reb<<.*ḥag* betyder egentlig blot: >>fest<<. Det må formodentlig forstås som enten >>festoffer<< eller: >>festprocession<<. Den sidste betydning er dog ikke påvist andre steder i GT.Verbet: *ʔsr* betyder normalt: >>at binde<<. Undertiden foreslås: >>danne kæde<<. Denne betydning er dog ikke påvist andre steder i GT. Hvis der er tale om >>festprocession<<, kan man måske tillægge verbet en klang af forpligtelse, idet processionen binder sig til alterets horn.*ʕᵃvôt* oversættes oftest: >>reb/tov<<, men kan også betegne en >>løvrig gren<<.",
       "type": "E",
       "verse": 27,
-      "position": 65
+      "position": 67
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 29,
+      "position": 40
     }
   ]
 }

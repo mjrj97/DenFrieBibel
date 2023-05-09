@@ -3,57 +3,71 @@
   "abbreviation": "Sl",
   "chapter": 5,
   "version": 1486335600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen. Til fløjtespil. En Salme af David.",
+      "text": "\fTil korlederen. Til fløjtespil. En Salme af David.",
       "number": 1
     },
     {
-      "text": "Lyt til mine ord, JHVHv,læg mærke til min stønnen!",
+      "text": "\fLyt til mine ord, JHVHv,\flæg mærke til min stønnen!",
       "number": 2
     },
     {
-      "text": "Hør mit råb om hjælp,min konge og min Gud!For til dig beder jeg.",
+      "text": "\fHør mit råb om hjælp,\fmin konge og min Gud!\fFor til dig beder jeg.",
       "number": 3
     },
     {
-      "text": "JHVHv! Hør min røst om morgenen!Om morgenen fremlægger jeg min bøn for dig - og spejder.",
+      "text": "\fJHVHv! Hør min røst om morgenen!\fOm morgenen fremlægger jeg min bøn for dig - og spejder.",
       "number": 4
     },
     {
-      "text": "For du er ikke en Gud, der holder af ondskab,ondt kan ikke bo hos dig.",
+      "text": "\fFor du er ikke en Gud, der holder af ondskab,\fondt kan ikke bo hos dig.",
       "number": 5
     },
     {
-      "text": "De overmodige kan ikke træde frem for dine øjne!du hader alle dem der begår synd.",
+      "text": "\fDe overmodige kan ikke træde frem for dine øjne!\fdu hader alle dem der begår synd.",
       "number": 6
     },
     {
-      "text": "Du udrydder dem der taler løgn.JHVH afskyr morderen og bedrageren.",
+      "text": "\fDu udrydder dem der taler løgn.\fJHVH afskyr morderen og bedrageren.",
       "number": 7
     },
     {
-      "text": "Men jeg kan ved din store nåde komme til dit hus,jeg vil i ærefrygt bøje mig i bøn vendt mod dit hellige tempeli ærefrygt for dig.",
+      "text": "\fMen jeg kan ved din store nåde komme til dit hus,\fjeg vil i ærefrygt bøje mig i bøn vendt mod dit hellige tempel\fi ærefrygt for dig.",
       "number": 8
     },
     {
-      "text": "JHVHv! led mig ved din retfærdighed for mine fjenders skyld,udjævn din vej foran mig!",
+      "text": "\fJHVHv! led mig ved din retfærdighed for mine fjenders skyld,\fudjævn din vej foran mig!",
       "number": 9
     },
     {
-      "text": "For i deres mund er intet sandt,deres indre er fordærv,deres strube er en åben grav,de gør deres tunge glat.",
+      "text": "\fFor i deres mund er intet sandt,\fderes indre er fordærv,\fderes strube er en åben grav,\fde gør deres tunge glat.",
       "number": 10
     },
     {
-      "text": "Lad dem bøde for det, Gud!så de falder på grund af deres planer,driv dem væk for deres mange synders skyld,for de trodser dig.",
+      "text": "\fLad dem bøde for det, Gud!\fså de falder på grund af deres planer,\fdriv dem væk for deres mange synders skyld,\ffor de trodser dig.",
       "number": 11
     },
     {
-      "text": "Men alle der søger tilflugt hos dig, skal glæde sig,til evig tid skal de juble,og du skal beskytte dem,og de der elsker dit navn,skal fryde sig i dig.",
+      "text": "\fMen alle der søger tilflugt hos dig, skal glæde sig,\ftil evig tid skal de juble,\fog du skal beskytte dem,\fog de der elsker dit navn,\fskal fryde sig i dig.",
       "number": 12
     },
     {
-      "text": "For du velsigner en retfærdig, Herre!Du dækker ham med velbehag som med et skjold.",
+      "text": "\fFor du velsigner en retfærdig, Herre!\fDu dækker ham med velbehag som med et skjold.",
       "number": 13
     }
   ],
@@ -80,67 +94,67 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 14
+      "position": 15
     },
     {
       "text": "Lidt usikkert. Det kan evt. være en melodiangivelse.",
       "type": "T",
       "verse": 1,
-      "position": 30
+      "position": 31
     },
     {
       "text": "Verbet bruges i GT om at tilberede ofre, men kan i andre sammenhænge betyde >>fremlægge<<.",
       "type": "E",
       "verse": 4,
-      "position": 54
+      "position": 56
     },
     {
       "text": "Formodentlig er der tænkt på gudløse.",
       "type": "T",
       "verse": 6,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Ordret: >>blodets mand<<.",
       "type": "T",
       "verse": 7,
-      "position": 51
+      "position": 53
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 8,
-      "position": 30
+      "position": 31
     },
     {
       "text": "Der er formodentlig tænkt på templets Allerhelligste, hvor pagtens ark stod. Kun ypperstepræsten måtte træde derind, og kun én dag om året. David stod i forgården.",
       "type": "E",
       "verse": 8,
-      "position": 111
+      "position": 113
     },
     {
       "text": "*lᵊmaʕan* betyder ordret >>for … skyld<<, men oversættes her ofte >>mod<<.",
       "type": "T",
       "verse": 9,
-      "position": 60
+      "position": 61
     },
     {
       "text": "Ordret: >>for mit ansigt<<.",
       "type": "T",
       "verse": 9,
-      "position": 85
+      "position": 87
     },
     {
       "text": "Modstandernes ønske er at føre bort fra Gud, i fordærv.",
       "type": "T",
       "verse": 10,
-      "position": 54
+      "position": 56
     },
     {
       "text": "Meningen kan enten være at de falder i egne fælder, eller at deres planer mislykkes.",
       "type": "T",
       "verse": 11,
-      "position": 63
+      "position": 65
     }
   ]
 }

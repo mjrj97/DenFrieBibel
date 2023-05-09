@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 19,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "I den tredje måned efter at Israels børn var draget ud af Egyptens land, på den dag kom de til Sinajs ørken.",
+      "text": "\fI den tredje måned efter at Israels børn var draget ud af Egyptens land, på den dag kom de til Sinajs ørken.",
       "number": 1
     },
     {
@@ -37,7 +51,7 @@
       "number": 8
     },
     {
-      "text": "Da sagde JHVH til Moses: >>Se, jeg vil komme til dig i en tæt sky for at folket må høre når jeg taler med dig, og også altid må stole på dig.<< Moses fortalte JHVH folkets ord,",
+      "text": "\fDa sagde JHVH til Moses: >>Se, jeg vil komme til dig i en tæt sky for at folket må høre når jeg taler med dig, og også altid må stole på dig.<< Moses fortalte JHVH folkets ord,",
       "number": 9
     },
     {
@@ -101,7 +115,7 @@
       "number": 24
     },
     {
-      "text": "Så steg Moses ned til folket og sagde det{T: Ordret slutter kapitlet lidt abrupt. Der står kun: >>og han sagde til dem.<< Enten må man underforstå at Moses sagde det han havde fået besked på at sige, eller også må det ses som indledning til det følgende kapitel så der skal sættes et kolon: >>… og sagde til dem:<<} til dem.",
+      "text": "Så steg Moses ned til folket og sagde det til dem.",
       "number": 25
     }
   ],
@@ -120,7 +134,7 @@
       "text": "Der er ikke angivet en dato; meningen er nok at det skete på den første dag (nymånen) i den tredje måned efter udvandringen.",
       "type": "E",
       "verse": 1,
-      "position": 83
+      "position": 84
     },
     {
       "text": "Grundtekstens *nešer* kan betegne både >>ørn<< og >>grib<<. I antikke højkulturer var gribben (både han- og hunfuglen) symbol for forældreomsorg og forældrekærlighed.",
@@ -163,6 +177,12 @@
       "type": "E",
       "verse": 13,
       "position": 148
+    },
+    {
+      "text": "Ordret slutter kapitlet lidt abrupt. Der står kun: >>og han sagde til dem.<< Enten må man underforstå at Moses sagde det han havde fået besked på at sige, eller også må det ses som indledning til det følgende kapitel så der skal sættes et kolon: >>… og sagde til dem:<<",
+      "type": "T",
+      "verse": 25,
+      "position": 41
     }
   ]
 }

@@ -24,22 +24,26 @@ const Login = () => {
         }
         else
         {
-            setError({});
-
             const requestOptions = {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ email, password })
             };
             fetch('http://localhost:3000/api/auth/login', requestOptions)
-                .then(response => { 
-                    if (response.status === 200) {
-                        router.push('/');
-                    }
+            .then(response => { 
+                if (response.status === 200) {
+                    router.push('/');
+                }
 
-                    return response.json();
-                })
-                .then(data => setError(data));
+                return response.json();
+            }).then(data => {
+                if (data.errors.length > 0)
+                    setError(data.errors[0]);
+                else
+                {
+                    setError({});
+                }
+            });
         }
     }
 

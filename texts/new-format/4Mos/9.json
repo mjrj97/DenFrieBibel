@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 9,
   "version": 1499378400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses i Sinajs ørken i det andet år efter de var gået ud af Egypten, i den første måned, og sagde:",
+      "text": "\fJHVH talte til Moses i Sinajs ørken i det andet år efter de var gået ud af Egypten, i den første måned, og sagde:",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "De holdt påske i den første måned, på den 14. dag i måneden, ved tusmørket, i Sinajs ørken. Alt det som JHVH havde befalet Moses, gjorde israelitterne.",
+      "text": "\fDe holdt påske i den første måned, på den 14. dag i måneden, ved tusmørket, i Sinajs ørken. Alt det som JHVH havde befalet Moses, gjorde israelitterne.",
       "number": 5
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "Den dag boligen blev rejst, skjulte skyen Vidnesbyrdets bolig, og om aftenen var der over boligen som en ild at se til, lige indtil morgen.",
+      "text": "\fDen dag boligen blev rejst, skjulte skyen Vidnesbyrdets bolig, og om aftenen var der over boligen som en ild at se til, lige indtil morgen.",
       "number": 15
     },
     {

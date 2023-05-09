@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 31,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 1
     },
     {
@@ -29,7 +39,7 @@
       "number": 6
     },
     {
-      "text": "De kæmpede mod midjanitterne sådan som JHVH havde befalet Moses. De slog alle mænd ihjel.",
+      "text": "\fDe kæmpede mod midjanitterne sådan som JHVH havde befalet Moses. De slog alle mænd ihjel.",
       "number": 7
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Moses blev vred på dem som havde kommandoen over hærens afdelinger på tusinde og hundrede mand, da de kom fra felttoget.",
+      "text": "\fMoses blev vred på dem som havde kommandoen over hærens afdelinger på tusinde og hundrede mand, da de kom fra felttoget.",
       "number": 14
     },
     {
@@ -101,7 +111,7 @@
       "number": 24
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 25
     },
     {
@@ -193,7 +203,7 @@
       "number": 47
     },
     {
-      "text": "De, som havde kommandoen over hærens afdelinger på tusinde og hundrede mand, gik frem til Moses,",
+      "text": "\fDe, som havde kommandoen over hærens afdelinger på tusinde og hundrede mand, gik frem til Moses,",
       "number": 48
     },
     {

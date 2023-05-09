@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 1,
   "version": 1632261600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Fra Paulus, Jesu Kristi kaldede apostel ved Guds vilje, og broderen Sosthenes",
+      "text": "\fFra Paulus, Jesu Kristi kaldede apostel ved Guds vilje, og broderen Sosthenes",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "Jeg takker altid Gud for jer for den Guds nåde som I har fået i Kristus Jesus,",
+      "text": "\fJeg takker altid Gud for jer for den Guds nåde som I har fået i Kristus Jesus,",
       "number": 4
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Men jeg formaner jer, brødre, i vor Herres Jesu Kristi Navn til, at I alle skal sige det samme, og at der ikke må findes kliker iblandt jer, men at I skal være ét i samme sind og af samme mening.",
+      "text": "\fMen jeg formaner jer, brødre, i vor Herres Jesu Kristi Navn til, at I alle skal sige det samme, og at der ikke må findes kliker iblandt jer, men at I skal være ét i samme sind og af samme mening.",
       "number": 10
     },
     {
@@ -65,7 +79,7 @@
       "number": 15
     },
     {
-      "text": "Kristus sendte mig nemlig ikke for at døbe, men for at forkynde evangeliet, ikke med visdomsord, for at Kristi kors ikke skulle miste sin kraft.",
+      "text": "\fKristus sendte mig nemlig ikke for at døbe, men for at forkynde evangeliet, ikke med visdomsord, for at Kristi kors ikke skulle miste sin kraft.",
       "number": 17
     },
     {
@@ -101,7 +115,7 @@
       "number": 25
     },
     {
-      "text": "For prøv at se, hvordan I blev kaldet, brødre! I er ikke mange vise efter menneskelig målestok, ikke mange mægtige, ikke mange fornemme;",
+      "text": "\fFor prøv at se, hvordan I blev kaldet, brødre! I er ikke mange vise efter menneskelig målestok, ikke mange mægtige, ikke mange fornemme;",
       "number": 26
     },
     {

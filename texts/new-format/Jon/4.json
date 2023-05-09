@@ -3,9 +3,19 @@
   "abbreviation": "Jon",
   "chapter": 4,
   "version": 1645570800000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Men det harmedes Jonas vældigt over,\n\t\tog han var rasende.",
+      "text": "\fMen det harmedes Jonas vældigt over,\n\t\tog han var rasende.",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "Jonas gik ud af byen\n\tog slog sig ned øst for byen.\n\tHan lavede sig en hytte der\n\tog satte sig i skyggen ved siden af den\n\t\tindtil han kunne se\n\t\t\thvad der ville ske i byen.",
+      "text": "\fJonas gik ud af byen\n\tog slog sig ned øst for byen.\n\tHan lavede sig en hytte der\n\tog satte sig i skyggen ved siden af den\n\t\tindtil han kunne se\n\t\t\thvad der ville ske i byen.",
       "number": 5
     },
     {
@@ -60,13 +70,13 @@
       "text": "Ordret: >>Og denne store ondskab var ond for Jonas.<<",
       "type": "T",
       "verse": 1,
-      "position": 36
+      "position": 37
     },
     {
       "text": "Ordret : >>den (=hans vrede) brændte.<<",
       "type": "T",
       "verse": 1,
-      "position": 59
+      "position": 60
     },
     {
       "text": "*dāvār* har kernebetydningen >>ord, begivenhed<< og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.",
@@ -96,7 +106,7 @@
       "text": "Ordret: >>under den.<<",
       "type": "T",
       "verse": 5,
-      "position": 117
+      "position": 118
     },
     {
       "text": "Samme verbalform i 4,6-8 som i 2,1",

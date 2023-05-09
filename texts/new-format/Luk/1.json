@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 1,
   "version": 1615330800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men i den sjette måned blev englen Gabriel sendt fra Gud til en by i Galilæa, som hedder Nazaret,",
+      "text": "\fMen i den sjette måned blev englen Gabriel sendt fra Gud til en by i Galilæa, som hedder Nazaret,",
       "number": 26
     },
     {

@@ -3,41 +3,51 @@
   "abbreviation": "Sl",
   "chapter": 149,
   "version": 1493330400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Halleluja!Syng for JHVH en ny sang,hans lovsang i de frommes forsamling!",
+      "text": "\fHalleluja!\fSyng for JHVH en ny sang,\fhans lovsang i de frommes forsamling!",
       "number": 1
     },
     {
-      "text": "Israel skal glæde sig over sin skaber,Zions sønner skal juble over deres konge!",
+      "text": "\fIsrael skal glæde sig over sin skaber,\fZions sønner skal juble over deres konge!",
       "number": 2
     },
     {
-      "text": "De skal lovprise hans navn med dans,til pauke og citer skal de lovsynge ham.",
+      "text": "\fDe skal lovprise hans navn med dans,\ftil pauke og citer skal de lovsynge ham.",
       "number": 3
     },
     {
-      "text": "For JHVH har velbehag i sit folk,han pryder de ydmyge med frelse.",
+      "text": "\fFor JHVH har velbehag i sit folk,\fhan pryder de ydmyge med frelse.",
       "number": 4
     },
     {
-      "text": "De fromme skal juble i herlighed,de skal synge med jubel på deres lejer.",
+      "text": "\fDe fromme skal juble i herlighed,\fde skal synge med jubel på deres lejer.",
       "number": 5
     },
     {
-      "text": "Der er hyldestsang til Gud i deres strubeog tveægget sværd i deres hånd",
+      "text": "\fDer er hyldestsang til Gud i deres strube\fog tveægget sværd i deres hånd",
       "number": 6
     },
     {
-      "text": "til at udføre hævn over folkene,straf over folkeslagene;",
+      "text": "\ftil at udføre hævn over folkene,\fstraf over folkeslagene;",
       "number": 7
     },
     {
-      "text": "til at binde deres konger med lænker,deres fornemme med fodlænker af jern;",
+      "text": "\ftil at binde deres konger med lænker,\fderes fornemme med fodlænker af jern;",
       "number": 8
     },
     {
-      "text": "til at fuldbyrde på dem den dom som står skrevet!Det er en ære for alle hans fromme.Halleluja!",
+      "text": "\ftil at fuldbyrde på dem den dom som står skrevet!\fDet er en ære for alle hans fromme.\fHalleluja!",
       "number": 9
     }
   ],
@@ -56,25 +66,25 @@
       "text": "Kan også oversættes: >>menighed<<.",
       "type": "T",
       "verse": 1,
-      "position": 72
+      "position": 75
     },
     {
       "text": "Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
       "type": "E",
       "verse": 2,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Mange fortolkere og oversættere finder omtalen af >>leje<< umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (>>på deres lejer<<) til: *ʕal-mišmᵊrôtām*: >>i deres familier<< eller: *ʕal-maʕarᵊxôtām*: >>i deres slagrækker<<. Andre foreslår at opfatte den masoretiske teksts >>leje<< som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
       "type": "E",
       "verse": 5,
-      "position": 72
+      "position": 74
     },
     {
       "text": "Kan også oversættes: >>hedningerne<<.",
       "type": "T",
       "verse": 7,
-      "position": 32
+      "position": 33
     }
   ]
 }

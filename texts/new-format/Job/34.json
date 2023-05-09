@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 34,
   "version": 1668726000000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Elihu forsatte så\n\tmed at svare:",
+      "text": "\fElihu forsatte så\n\tmed at svare:",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "\t\t\t\tDerfor,\n\t\t\t\t\t\t\tI mænd som har hjerte for det,\n\t\t\t\t\t\thør på mig!\n\t\t\t\t\tDet ligger langt fra Gud at være ugudelig\n\t\t\t\t\t\t\t\tog fra den Almægtige at være uretfærdig,",
+      "text": "\f\t\t\t\tDerfor,\n\t\t\t\t\t\t\tI mænd som har hjerte for det,\n\t\t\t\t\t\thør på mig!\n\t\t\t\t\tDet ligger langt fra Gud at være ugudelig\n\t\t\t\t\t\t\t\tog fra den Almægtige at være uretfærdig,",
       "number": 10
     },
     {
@@ -65,7 +79,7 @@
       "number": 15
     },
     {
-      "text": "\t\t\tHvis der er indsigt\n\t\t\t\t\t- hør nu rigtig godt efter dette\n\t\t\t\t\t\tog læg ører til lyden af min tale!",
+      "text": "\f\t\t\tHvis der er indsigt\n\t\t\t\t\t- hør nu rigtig godt efter dette\n\t\t\t\t\t\tog læg ører til lyden af min tale!",
       "number": 16
     },
     {
@@ -149,7 +163,7 @@
       "number": 36
     },
     {
-      "text": "\t\t\t\t\t\t\tfordi han øger sin synd med oprør.\n\t\t\t\t\t\t\t\tHan klapper i hænderne iblandt os{E: Verbet *sfq* >>klappe (i hænderne)<< kan hentyde til at han spotter Gud og mennesker. Andre forslag er at han gør dem usikre, eller at ordene helt skal udelades.}\n\t\t\t\t\t\t\t\t\tog fremsiger mange ord imod Gud.<<",
+      "text": "\t\t\t\t\t\t\tfordi han øger sin synd med oprør.\n\t\t\t\t\t\t\t\tHan klapper i hænderne iblandt os\n\t\t\t\t\t\t\t\t\tog fremsiger mange ord imod Gud.<<",
       "number": 37
     }
   ],
@@ -207,6 +221,12 @@
       "type": "T",
       "verse": 31,
       "position": 97
+    },
+    {
+      "text": "Verbet *sfq* >>klappe (i hænderne)<< kan hentyde til at han spotter Gud og mennesker. Andre forslag er at han gør dem usikre, eller at ordene helt skal udelades.",
+      "type": "E",
+      "verse": 37,
+      "position": 83
     }
   ]
 }

@@ -3,13 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 22,
   "version": 1596837600000,
-  "verses": [
+  "authors": [
     {
-      "text": "V37 >>Når en mand stjæler en okse eller et stykke småkvæg og slagter det eller sælger det, skal han betale fem okser for oksen og fire stykker småkvæg for lammet eller kiddet.V1 Hvis tyven bliver pågrebet under indbruddet og bliver slået og dør, foreligger der ikke blodskyld for ham.V2 Hvis solen er stået op over ham, foreligger der blodskyld for ham. Han skal afgjort betale;  men har han intet, skal han sælges for sit tyveri.V3 Hvis det stjålne virkelig findes i hans besiddelse, hvad enten det er okse eller æsel eller småkvæg, som er i live, skal han betale dobbelt.V4 Når en mand lader mark eller vingård afgræsse, idet han lader sit kvæg gå løs, og det så afgræsser en andens mark, skal han betale med det bedste fra sin mark og det bedste fra sin vingård.V5 Når ild breder sig og griber fat i tornebuske og kornstakke eller det stående korn, eller marken fortæres, skal han som antændte branden, afgjort betale.V6 Når en mand giver sin næste penge eller ting i forvaring, og det bliver stjålet fra mandens hus, skal tyven, hvis han bliver fundet, betale dobbelt.V7 Hvis tyven ikke bliver fundet, skal husets ejer træde frem for Gud, hvis han ikke har lagt sin hånd på sin næstes ting.V8 Hvad angår enhver sag om svigagtig besiddelse af okse, af æsel, af småkvæg, af klæder, af alt hvad der er mistet, om hvilket nogen siger at dette er hans, da skal begges sag komme for Gud; den Gud erklærer skyldig, skal betale sin næste dobbelt.V9 Når en mand giver sin næste et æsel eller en okse eller småkvæg eller et andet dyr at passe på, og det dør eller kommer til skade eller bortføres uden at nogen ser det,",
-      "number": 0
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
     },
     {
-      "text": "skal der aflægges ed ved JHVH mellem de to på at han ikke har lagt sin hånd på sin næstes ejendom, og den skal dets ejer godtage, og den anden skal ikke betale.",
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fV37 >>Når en mand stjæler en okse eller et stykke småkvæg og slagter det eller sælger det, skal han betale fem okser for oksen og fire stykker småkvæg for lammet eller kiddet.V1 Hvis tyven bliver pågrebet under indbruddet og bliver slået og dør, foreligger der ikke blodskyld for ham.V2 Hvis solen er stået op over ham, foreligger der blodskyld for ham. Han skal afgjort betale;  men har han intet, skal han sælges for sit tyveri.V3 Hvis det stjålne virkelig findes i hans besiddelse, hvad enten det er okse eller æsel eller småkvæg, som er i live, skal han betale dobbelt.V4 Når en mand lader mark eller vingård afgræsse, idet han lader sit kvæg gå løs, og det så afgræsser en andens mark, skal han betale med det bedste fra sin mark og det bedste fra sin vingård.V5 Når ild breder sig og griber fat i tornebuske og kornstakke eller det stående korn, eller marken fortæres, skal han som antændte branden, afgjort betale.V6 Når en mand giver sin næste penge eller ting i forvaring, og det bliver stjålet fra mandens hus, skal tyven, hvis han bliver fundet, betale dobbelt.V7 Hvis tyven ikke bliver fundet, skal husets ejer træde frem for Gud, hvis han ikke har lagt sin hånd på sin næstes ting.V8 Hvad angår enhver sag om svigagtig besiddelse af okse, af æsel, af småkvæg, af klæder, af alt hvad der er mistet, om hvilket nogen siger at dette er hans, da skal begges sag komme for Gud; den Gud erklærer skyldig, skal betale sin næste dobbelt.V9 Når en mand giver sin næste et æsel eller en okse eller småkvæg eller et andet dyr at passe på, og det dør eller kommer til skade eller bortføres uden at nogen ser det,skal der aflægges ed ved JHVH mellem de to på at han ikke har lagt sin hånd på sin næstes ejendom, og den skal dets ejer godtage, og den anden skal ikke betale.",
       "number": 10
     },
     {
@@ -29,7 +39,7 @@
       "number": 14
     },
     {
-      "text": ">>Når en mand forfører en jomfru som ikke er trolovet, og har samleje med hende, skal han afgjort betale brudekøbssummen for hende og tage hende til sin hustru .",
+      "text": "\f>>Når en mand forfører en jomfru som ikke er trolovet, og har samleje med hende, skal han afgjort betale brudekøbssummen for hende og tage hende til sin hustru .",
       "number": 15
     },
     {
@@ -37,7 +47,7 @@
       "number": 16
     },
     {
-      "text": ">>En troldkvinde må du ikke lade leve.",
+      "text": "\f>>En troldkvinde må du ikke lade leve.",
       "number": 17
     },
     {
@@ -45,7 +55,7 @@
       "number": 18
     },
     {
-      "text": ">>En fremmed må du ikke plage, og du må ikke undertrykke ham, for I har været fremmede i Egyptens land.",
+      "text": "\f>>En fremmed må du ikke plage, og du må ikke undertrykke ham, for I har været fremmede i Egyptens land.",
       "number": 20
     },
     {
@@ -73,7 +83,7 @@
       "number": 26
     },
     {
-      "text": ">>Du må ikke forhåne Gud, og en øvrighedsperson i dit folk må du ikke forbande.",
+      "text": "\f>>Du må ikke forhåne Gud, og en øvrighedsperson i dit folk må du ikke forbande.",
       "number": 27
     },
     {
@@ -81,7 +91,7 @@
       "number": 28
     },
     {
-      "text": "I skal være hellige mennesker{T: Ordret: >>helliges mennesker<<. Meningen er formodentlig: >>mennesker med et helligt kald<<.} for mig. Kød som er sønderrevet på marken, må I ikke spise; til hunden skal I kaste det.<<",
+      "text": "I skal være hellige mennesker for mig. Kød som er sønderrevet på marken, må I ikke spise; til hunden skal I kaste det.<<",
       "number": 30
     }
   ],
@@ -111,38 +121,38 @@
     {
       "text": "Verset hører til kapitel 21, men hører meningsmæssigt sammen med de følgende vers. For meningens skyld bytter man i oversættelser oftest om på rækkefølgen af de følgende vers. Det er dog lidt forskelligt, hvordan man ordner versene. Oftest flytter man vers 2b og evt. vers 3 om foran vers 1, idet de er den logiske fortsættelse af 21,37.",
       "type": "E",
-      "verse": 0,
-      "position": 3
+      "verse": 10,
+      "position": 4
     },
     {
       "text": "Det hebraiske ord *śeʰ* dækker både lam og gedekid.",
       "type": "T",
-      "verse": 0,
-      "position": 57
+      "verse": 10,
+      "position": 58
     },
     {
       "text": "Den hebraiske tekst har verbet *šlm* (>>betale<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: >>afgjort<<.",
       "type": "T",
-      "verse": 0,
-      "position": 378
+      "verse": 10,
+      "position": 379
     },
     {
       "text": "De fleste oversættelser tilføjer: >>og sværge<<, men det er uden støttes i den hebraiske tekst. Meningen må være, at selve det at træde frem for Gud er farligt, hvis man har løjet.",
       "type": "T",
-      "verse": 0,
-      "position": 1142
+      "verse": 10,
+      "position": 1143
     },
     {
       "text": "Ordret: >>siger: >Det er det!<<<",
       "type": "T",
-      "verse": 0,
-      "position": 1351
+      "verse": 10,
+      "position": 1352
     },
     {
       "text": "Den hebraiske tekst siger blot: >>og han skal ikke betale<<, men meningen i sammenhængen er, at det er den, der har haft en anden mands ejendom i forvaring, der ikke skal betale.",
       "type": "T",
       "verse": 10,
-      "position": 142
+      "position": 1756
     },
     {
       "text": "Den hebraiske tekst siger egentlig kun: >>ligger med<<. Men meningen er uden tvivl: i seksuel betydning.",
@@ -179,6 +189,12 @@
       "type": "T",
       "verse": 28,
       "position": 35
+    },
+    {
+      "text": "Ordret: >>helliges mennesker<<. Meningen er formodentlig: >>mennesker med et helligt kald<<.",
+      "type": "T",
+      "verse": 30,
+      "position": 29
     }
   ]
 }

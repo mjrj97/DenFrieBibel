@@ -3,9 +3,23 @@
   "abbreviation": "Joh",
   "chapter": 20,
   "version": 1617141600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da det nu var aften den samme dag, den første dag i ugen, og dørene indtil dér hvor disciplene opholdt sig, var lukkede af frygt for jøderne, kom Jesus og stod midt iblandt dem, og han sagde til dem: >>Fred være med jer!<<",
+      "text": "\fDa det nu var aften den samme dag, den første dag i ugen, og dørene indtil dér hvor disciplene opholdt sig, var lukkede af frygt for jøderne, kom Jesus og stod midt iblandt dem, og han sagde til dem: >>Fred være med jer!<<",
       "number": 19
     },
     {
@@ -33,7 +47,7 @@
       "number": 25
     },
     {
-      "text": "Otte dage efter var hans disciple atter samlet og Thomas med dem. Jesus kom mens dørene var lukkede, og han stod midt iblandt dem og sagde: >>Fred være med jer!<<",
+      "text": "\fOtte dage efter var hans disciple atter samlet og Thomas med dem. Jesus kom mens dørene var lukkede, og han stod midt iblandt dem og sagde: >>Fred være med jer!<<",
       "number": 26
     },
     {
@@ -49,7 +63,7 @@
       "number": 29
     },
     {
-      "text": "Også mange andre tegn gjorde Jesus for øjnene af sine disciple, som ikke er skrevet ned i denne bog.",
+      "text": "\fOgså mange andre tegn gjorde Jesus for øjnene af sine disciple, som ikke er skrevet ned i denne bog.",
       "number": 30
     },
     {

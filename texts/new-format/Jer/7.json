@@ -3,9 +3,19 @@
   "abbreviation": "Jer",
   "chapter": 7,
   "version": 1494453600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Det ord som kom fra JHVH til Jeremias:",
+      "text": "\fDet ord som kom fra JHVH til Jeremias:",
       "number": 1
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "Og du, du må ikke bede for dette folk og ikke opløfte klageskrig eller bøn for dem og ikke trænge ind på mig med forbøn, for jeg vil ikke høre dig.",
+      "text": "\fOg du, du må ikke bede for dette folk og ikke opløfte klageskrig eller bøn for dem og ikke trænge ind på mig med forbøn, for jeg vil ikke høre dig.",
       "number": 16
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Således siger Hærskarers JHVHv, Israels Gud: Føj jeres brændofre til jeres slagtofre og spis kødet!",
+      "text": "\fSåledes siger Hærskarers JHVHv, Israels Gud: Føj jeres brændofre til jeres slagtofre og spis kødet!",
       "number": 21
     },
     {
@@ -117,7 +127,7 @@
       "number": 28
     },
     {
-      "text": "Klip dit hår af og kast det bort. Opløft en dødsklage på de nøgne høje, for JHVH har forkastet og forladt den slægt som hans vrede er vendt imod.",
+      "text": "\fKlip dit hår af og kast det bort. Opløft en dødsklage på de nøgne høje, for JHVH har forkastet og forladt den slægt som hans vrede er vendt imod.",
       "number": 29
     },
     {
@@ -194,7 +204,7 @@
       "text": "Ordret >>sin vredes slægt<<.",
       "type": "T",
       "verse": 29,
-      "position": 144
+      "position": 145
     }
   ]
 }

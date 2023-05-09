@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 26,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Efter plagen talte JHVH til Moses og til Eleazar, præsten Arons søn:",
+      "text": "\fEfter plagen talte JHVH til Moses og til Eleazar, præsten Arons søn:",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "Ruben var Israels førstefødte. Rubens efterkommere var: Enok, enokitternes slægt, af Pallu, palluitternes slægt,",
+      "text": "\fRuben var Israels førstefødte. Rubens efterkommere var: Enok, enokitternes slægt, af Pallu, palluitternes slægt,",
       "number": 5
     },
     {
@@ -209,7 +219,7 @@
       "number": 51
     },
     {
-      "text": "JHVH sagde til Moses:",
+      "text": "\fJHVH sagde til Moses:",
       "number": 52
     },
     {
@@ -229,7 +239,7 @@
       "number": 56
     },
     {
-      "text": "Dette er de mønstrede af levitterne efter deres slægter: Af Gershon, gershonitternes slægt, af Kehat, kehatitternes slægt, af Merari, meraritternes slægt.",
+      "text": "\fDette er de mønstrede af levitterne efter deres slægter: Af Gershon, gershonitternes slægt, af Kehat, kehatitternes slægt, af Merari, meraritternes slægt.",
       "number": 57
     },
     {
@@ -253,7 +263,7 @@
       "number": 62
     },
     {
-      "text": "Dette er dem som blev mønstret af Moses og præsten Eleazar, som mønstrede israelitterne på Moabs sletter ved Jordan over for Jeriko.",
+      "text": "\fDette er dem som blev mønstret af Moses og præsten Eleazar, som mønstrede israelitterne på Moabs sletter ved Jordan over for Jeriko.",
       "number": 63
     },
     {

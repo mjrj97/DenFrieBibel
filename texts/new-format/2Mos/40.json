@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 40,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses:",
+      "text": "\fJHVH talte til Moses:",
       "number": 1
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "Moses gjorde det; efter alt hvad JHVH havde befalet ham, sådan gjorde han.",
+      "text": "\fMoses gjorde det; efter alt hvad JHVH havde befalet ham, sådan gjorde han.",
       "number": 16
     },
     {
@@ -137,7 +147,7 @@
       "number": 33
     },
     {
-      "text": "Så dækkede skyen forsamlingsteltet, og JHVHs herlighed fyldte boligen.",
+      "text": "\fSå dækkede skyen forsamlingsteltet, og JHVHs herlighed fyldte boligen.",
       "number": 34
     },
     {

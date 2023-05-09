@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 23,
   "version": 1596837600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Du må ikke tage en løgn op; du må ikke række din hånd ud til en skyldig ved at være et falsk vidne.",
+      "text": "\f>>Du må ikke tage en løgn op; du må ikke række din hånd ud til en skyldig ved at være et falsk vidne.",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": ">>Seks år skal du tilså dit land og samle dets afgrøde;",
+      "text": "\f>>Seks år skal du tilså dit land og samle dets afgrøde;",
       "number": 10
     },
     {
@@ -81,7 +95,7 @@
       "number": 19
     },
     {
-      "text": ">>Se, jeg sender en engel foran dig til at bevare dig på din vej og til at føre dig til det sted som jeg har beredt.",
+      "text": "\f>>Se, jeg sender en engel foran dig til at bevare dig på din vej og til at føre dig til det sted som jeg har beredt.",
       "number": 20
     },
     {
@@ -156,19 +170,19 @@
       "text": "Der kan også oversættes: >>du må ikke starte en løgn<<. Verset forstås ofte som forbud mod at sprede falsk rygte.",
       "type": "T",
       "verse": 1,
-      "position": 29
+      "position": 30
     },
     {
       "text": "Det hebraiske *rāšāʕ* kan også oversættes: >>ugudelig<<.",
       "type": "T",
       "verse": 1,
-      "position": 73
+      "position": 74
     },
     {
       "text": "Det hebraiske *ḥāmās* skal i mange sammenhænge oversættes: >>vold/uret<<. Det må spille med i betegnelsen >>falsk<<.",
       "type": "T",
       "verse": 1,
-      "position": 94
+      "position": 95
     },
     {
       "text": "Den hebraiske tekst har verbet *šwb* (>>bringe tilbage<<) to gange: Først som infinitiv og derefter som hif’il yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: >>afgjort<<.",
@@ -198,7 +212,7 @@
       "text": "Det hebraiske *ʔereṣ* kan betyde både >>jord<< og >>land<<. Denne dobbelthed kan vanskeligt fremgå på dansk. Men buddet sigter både på den enkelte (>>jord<<) og på hele folket (>>land<<).",
       "type": "E",
       "verse": 10,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Roden i verbet *šbt* er den samme som i >>sabbat<<. Der kunne også oversættes: >>skal du holde sabbat<<.",

@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 13,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 1
     },
     {
@@ -69,7 +83,7 @@
       "number": 16
     },
     {
-      "text": "Dengang Farao lod folket gå, førte Gud dem ikke ad vejen til filistrenes land skønt den var nærmest; for Gud sagde: >>For at folket ikke skal fortryde når de ser krig, og vende tilbage til Egypten.<<",
+      "text": "\fDengang Farao lod folket gå, førte Gud dem ikke ad vejen til filistrenes land skønt den var nærmest; for Gud sagde: >>For at folket ikke skal fortryde når de ser krig, og vende tilbage til Egypten.<<",
       "number": 17
     },
     {
@@ -89,7 +103,7 @@
       "number": 21
     },
     {
-      "text": "Skysøjlen veg ikke om dagen og ildsøjlen ikke om natten fra folket.{T: Ordret: >>fra folkets ansigt<<.}",
+      "text": "Skysøjlen veg ikke om dagen og ildsøjlen ikke om natten fra folket.",
       "number": 22
     }
   ],
@@ -163,6 +177,12 @@
       "type": "T",
       "verse": 19,
       "position": 118
+    },
+    {
+      "text": "Ordret: >>fra folkets ansigt<<.",
+      "type": "T",
+      "verse": 22,
+      "position": 67
     }
   ]
 }

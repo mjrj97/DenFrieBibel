@@ -3,9 +3,23 @@
   "abbreviation": "Ez",
   "chapter": 34,
   "version": 1617746400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For dette siger Herren JHVH: >>Se, jeg, jeg vil selv søge efter mine får og tage mig af dem.",
+      "text": "\fFor dette siger Herren JHVH: >>Se, jeg, jeg vil selv søge efter mine får og tage mig af dem.",
       "number": 11
     },
     {
@@ -25,10 +39,17 @@
       "number": 15
     },
     {
-      "text": ">>Det fortabte vil jeg lede efter; det fordrevne vil jeg føre tilbage, og det som har lidt brud, vil jeg forbinde; det syge vil jeg styrke, men det fede og det stærke vil jeg ødelægge;{E: Det hebraiske verbum er: *šmd*. De gamle oversættelser har – til dels med støtte i ganske få hebraiske håndskrifter – læst verbet: *šmr*, der skal oversættes: >>passe på<<.} jeg vil vogte det med retfærdighed.<<",
+      "text": ">>Det fortabte vil jeg lede efter; det fordrevne vil jeg føre tilbage, og det som har lidt brud, vil jeg forbinde; det syge vil jeg styrke, men det fede og det stærke vil jeg ødelægge; jeg vil vogte det med retfærdighed.<<",
       "number": 16
     }
   ],
   "titles": [],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "Det hebraiske verbum er: *šmd*. De gamle oversættelser har – til dels med støtte i ganske få hebraiske håndskrifter – læst verbet: *šmr*, der skal oversættes: >>passe på<<.",
+      "type": "E",
+      "verse": 16,
+      "position": 184
+    }
+  ]
 }

@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 33,
   "version": 1668726000000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Men altså,\n\tlyt dog,\n\t\t\t\t\t\t\tJob,\n\t\t\t\t\t\ther kommer min tale,\n\t\t\t\t\tog alle mine ord skal du lægge øre til!",
+      "text": "\f>>Men altså,\n\tlyt dog,\n\t\t\t\t\t\t\tJob,\n\t\t\t\t\t\ther kommer min tale,\n\t\t\t\t\tog alle mine ord skal du lægge øre til!",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "\t\t\t\tMen du sagde i mit påhør,\n\t\t\t\t\t\t\tog jeg hørte ordene tydeligt:",
+      "text": "\f\t\t\t\tMen du sagde i mit påhør,\n\t\t\t\t\t\t\tog jeg hørte ordene tydeligt:",
       "number": 8
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tFor Gud taler jo på én måde,\n\t\t\t\t\t\t\t\t\t\t\tog så på en anden,\n\t\t\t\t\t\t\t\t\t\tmen man kan ikke spore det.",
+      "text": "\f\t\t\t\t\t\t\t\t\tFor Gud taler jo på én måde,\n\t\t\t\t\t\t\t\t\t\t\tog så på en anden,\n\t\t\t\t\t\t\t\t\t\tmen man kan ikke spore det.",
       "number": 14
     },
     {
@@ -125,7 +139,7 @@
       "number": 30
     },
     {
-      "text": "\t\tMærk dig det,\n\t\t\tJob!\n\t\tHør mig.\n\t\tTi stille,\n\t\t\t\tså jeg kan tale.",
+      "text": "\f\t\tMærk dig det,\n\t\t\tJob!\n\t\tHør mig.\n\t\tTi stille,\n\t\t\t\tså jeg kan tale.",
       "number": 31
     },
     {
@@ -190,7 +204,7 @@
       "text": "Hebraisk *yᵊšûrennāʰ* bruges også i v 27; det har ofte en betydning i retning af at bøje af for at se nærmere på noget, men flere steder er betydningen vanskelig. Se f.eks. note til Sl 17,11.",
       "type": "E",
       "verse": 14,
-      "position": 105
+      "position": 106
     },
     {
       "text": "Ordret >>hans liv væmmes ved brød<<.",

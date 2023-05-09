@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 5,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "I det hele taget høres der om seksuel umoral iblandt jer, og det af en slags, der ikke engang findes iblandt hedningerne, nemlig, at én har sin fars kone.",
+      "text": "\fI det hele taget høres der om seksuel umoral iblandt jer, og det af en slags, der ikke engang findes iblandt hedningerne, nemlig, at én har sin fars kone.",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Det er ikke noget smukt, I roser jer af! Ved I ikke, at lidt surdej gennemsyrer hele dejen?",
+      "text": "\fDet er ikke noget smukt, I roser jer af! Ved I ikke, at lidt surdej gennemsyrer hele dejen?",
       "number": 6
     },
     {
@@ -37,7 +51,7 @@
       "number": 8
     },
     {
-      "text": "Jeg skrev jer til i mit brev, at I ikke skulle have noget at gøre med seksuelt umoralske -",
+      "text": "\fJeg skrev jer til i mit brev, at I ikke skulle have noget at gøre med seksuelt umoralske -",
       "number": 9
     },
     {

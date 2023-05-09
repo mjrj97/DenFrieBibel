@@ -3,9 +3,23 @@
   "abbreviation": "Luk",
   "chapter": 11,
   "version": 1614121200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Claus Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Han uddrev en ond ånd der var stum, men da den onde ånd var faret ud, talte den stumme, og skarerne undrede sig.",
+      "text": "\fHan uddrev en ond ånd der var stum, men da den onde ånd var faret ud, talte den stumme, og skarerne undrede sig.",
       "number": 14
     },
     {
@@ -57,11 +71,11 @@
       "number": 26
     },
     {
-      "text": "Mens han sagde dette, hævede en kvinde i mængden stemmen og sagde til ham: >>Lykkeligt det moderliv som bar dig, og de bryster du diede!<<",
+      "text": "\fMens han sagde dette, hævede en kvinde i mængden stemmen og sagde til ham: >>Lykkeligt det moderliv som bar dig, og de bryster du diede!<<",
       "number": 27
     },
     {
-      "text": "Men han sagde: >>Ja, lykkelige{T: Kan også oversættes: >>salige<<.} er de som hører Guds ord og bevarer det!<<",
+      "text": "Men han sagde: >>Ja, lykkelige er de som hører Guds ord og bevarer det!<<",
       "number": 28
     }
   ],
@@ -86,7 +100,13 @@
       "text": "Kan også oversættes: >>saligt<<.",
       "type": "T",
       "verse": 27,
-      "position": 86
+      "position": 87
+    },
+    {
+      "text": "Kan også oversættes: >>salige<<.",
+      "type": "T",
+      "verse": 28,
+      "position": 30
     }
   ]
 }

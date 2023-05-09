@@ -3,9 +3,23 @@
   "abbreviation": "Joh",
   "chapter": 14,
   "version": 1620770400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Judas (ikke Iskariot) sagde til ham: >>Herre! Hvad skyldes det, at du vil åbenbare dig for os og ikke for verden?<<",
+      "text": "\fJudas (ikke Iskariot) sagde til ham: >>Herre! Hvad skyldes det, at du vil åbenbare dig for os og ikke for verden?<<",
       "number": 22
     },
     {
@@ -17,7 +31,7 @@
       "number": 24
     },
     {
-      "text": "Disse ting har jeg talt til jer mens jeg var hos jer.",
+      "text": "\fDisse ting har jeg talt til jer mens jeg var hos jer.",
       "number": 25
     },
     {

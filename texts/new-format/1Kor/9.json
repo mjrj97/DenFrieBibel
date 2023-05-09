@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 9,
   "version": 1643670000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Er jeg ikke fri? Er jeg ikke apostel? Har jeg ikke set Jesus, vor Herre? Er I ikke min gerning i Herren?",
+      "text": "\fEr jeg ikke fri? Er jeg ikke apostel? Har jeg ikke set Jesus, vor Herre? Er I ikke min gerning i Herren?",
       "number": 1
     },
     {
@@ -77,7 +91,7 @@
       "number": 18
     },
     {
-      "text": "For selvom jeg er fri over for alle, har jeg dog gjort mig selv til tjener for alle, for at jeg kunne vinde så mange flere.",
+      "text": "\fFor selvom jeg er fri over for alle, har jeg dog gjort mig selv til tjener for alle, for at jeg kunne vinde så mange flere.",
       "number": 19
     },
     {
@@ -97,7 +111,7 @@
       "number": 23
     },
     {
-      "text": "Ved I ikke at de der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Løb sådan at I kan vinde den.",
+      "text": "\fVed I ikke at de der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Løb sådan at I kan vinde den.",
       "number": 24
     },
     {
@@ -109,7 +123,7 @@
       "number": 26
     },
     {
-      "text": "men jeg er hård ved{T: >>slår i ansigtet<<, ordret: >>slår under øjet<<.} mit legeme og holder det i trældom for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.",
+      "text": "men jeg er hård ved mit legeme og holder det i trældom for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.",
       "number": 27
     }
   ],
@@ -137,6 +151,12 @@
       "type": "T",
       "verse": 17,
       "position": 108
+    },
+    {
+      "text": ">>slår i ansigtet<<, ordret: >>slår under øjet<<.",
+      "type": "T",
+      "verse": 27,
+      "position": 19
     }
   ]
 }

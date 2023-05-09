@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 8,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Men hvad kødet fra afgudsofrene angår, ved vi, at vi alle har kundskab om det - (kundskaben opblæser, men kærligheden opbygger.",
+      "text": "\fMen hvad kødet fra afgudsofrene angår, ved vi, at vi alle har kundskab om det - (kundskaben opblæser, men kærligheden opbygger.",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Ikke alle har dog den kundskab. Men der er nogle, der af gammel vane spiser det som afgudsofferkød, og deres skrøbelige samvittighed besmittes.",
+      "text": "\fIkke alle har dog den kundskab. Men der er nogle, der af gammel vane spiser det som afgudsofferkød, og deres skrøbelige samvittighed besmittes.",
       "number": 7
     },
     {

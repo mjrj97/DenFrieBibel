@@ -3,73 +3,83 @@
   "abbreviation": "Hab",
   "chapter": 1,
   "version": 1585004400000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Profetien som profeten Habakkuk så.***",
+      "text": "\fProfetien som profeten Habakkuk så.\n\n",
       "number": 1
     },
     {
-      "text": "Hvor længe, JHVHv, har jeg dog råbt, men du hører ikke!Jeg råber til dig om vold, men du frelser ikke.",
+      "text": "\fHvor længe, JHVHv, har jeg dog råbt, men du hører ikke!\fJeg råber til dig om vold, men du frelser ikke.",
       "number": 2
     },
     {
-      "text": "Hvorfor lader du mig se ondskab og betragte elendighed?Ødelæggelse og vold er foran mig.Der er strid; skænderier opstår.",
+      "text": "\fHvorfor lader du mig se ondskab og betragte elendighed?\fØdelæggelse og vold er foran mig.\fDer er strid; skænderier opstår.",
       "number": 3
     },
     {
-      "text": "Derfor er loven magtesløs, og retten kommer aldrig frem,for de ugudelige omringer den retfærdige;derfor bliver retten fordrejet.",
+      "text": "\fDerfor er loven magtesløs, og retten kommer aldrig frem,\ffor de ugudelige omringer den retfærdige;\fderfor bliver retten fordrejet.",
       "number": 4
     },
     {
-      "text": "Se ud blandt folkeslagene, og betragt.I skal undre jer og blive forundrede, for jeg gør en gerning i jeres tid.I ville ikke tro det, selv hvis det blev fortalt.",
+      "text": "\fSe ud blandt folkeslagene, og betragt.\fI skal undre jer og blive forundrede, for jeg gør en gerning i jeres tid.\fI ville ikke tro det, selv hvis det blev fortalt.",
       "number": 5
     },
     {
-      "text": "For se, jeg oprejser kaldæerne, et barskt og hurtigt folkefærdsom farer frem over den vide jord for at erobre områder som ikke tilhører dem.",
+      "text": "\fFor se, jeg oprejser kaldæerne, et barskt og hurtigt folkefærd\fsom farer frem over den vide jord for at erobre områder som ikke tilhører dem.",
       "number": 6
     },
     {
-      "text": "Frygtelige og forfærdelige er de;de bestemmer selv deres værdighed og ret.",
+      "text": "\fFrygtelige og forfærdelige er de;\fde bestemmer selv deres værdighed og ret.",
       "number": 7
     },
     {
-      "text": "Deres heste er hurtigere end pantere og vildere end ulve om aftenen.Deres ryttere galopperer, ja, deres ryttere kommer fra det fjerne;de flyver som en ørn der haster efter føde.",
+      "text": "\fDeres heste er hurtigere end pantere og vildere end ulve om aftenen.\fDeres ryttere galopperer, ja, deres ryttere kommer fra det fjerne;\fde flyver som en ørn der haster efter føde.",
       "number": 8
     },
     {
-      "text": "Alle sammen kommer de for at udøve vold;deres ansigter stirrer fremad,og de samler fanger som sand.",
+      "text": "\fAlle sammen kommer de for at udøve vold;\fderes ansigter stirrer fremad,\fog de samler fanger som sand.",
       "number": 9
     },
     {
-      "text": "De håner konger, og fyrster er til grin for dem.De ler ad hver en fæstning;de dynger jord op og indtager den.",
+      "text": "De håner konger, og fyrster er til grin for dem.\fDe ler ad hver en fæstning;\fde dynger jord op og indtager den.",
       "number": 10
     },
     {
-      "text": "Da farer de frem som en stormvind og drager af sted.De er skyldige, de som gør deres egen kraft til gud.",
+      "text": "\fDa farer de frem som en stormvind og drager af sted.\fDe er skyldige, de som gør deres egen kraft til gud.",
       "number": 11
     },
     {
-      "text": "Er du ikke fra gammel tid, JHVHv, min Gud, min hellige?Du er udødelig!JHVHv, har du ikke bestemt ham til dom?O klippe, har du ikke grundfæstet ham til straf?",
+      "text": "\fEr du ikke fra gammel tid, JHVHv, min Gud, min hellige?\fDu er udødelig!\fJHVHv, har du ikke bestemt ham til dom?\fO klippe, har du ikke grundfæstet ham til straf?",
       "number": 12
     },
     {
-      "text": "Du som er ren af øjne så du ikke kan se på ondt og ikke kan betragte elendighed,hvorfor betragter du de troløse?Hvorfor tier du stille når den ugudelige opsluger en som er retfærdigere end han?",
+      "text": "\fDu som er ren af øjne så du ikke kan se på ondt og ikke kan betragte elendighed,\fhvorfor betragter du de troløse?\fHvorfor tier du stille når den ugudelige opsluger en som er retfærdigere end han?",
       "number": 13
     },
     {
-      "text": "Du gjorde menneskene som havets fisk;som krybet der ingen herre har.",
+      "text": "\fDu gjorde menneskene som havets fisk;\fsom krybet der ingen herre har.",
       "number": 14
     },
     {
-      "text": "Alle dem trækker han op med krog.Han samler dem i sit net; fanger dem i sit garn.Det glæder og fryder han sig over.",
+      "text": "\fAlle dem trækker han op med krog.\fHan samler dem i sit net; fanger dem i sit garn.\fDet glæder og fryder han sig over.",
       "number": 15
     },
     {
-      "text": "Derfor ofrer han til sit net og brænder røgelse for sine garn,for ved dem får han sin rigelige del,og hans mad er fed.",
+      "text": "\fDerfor ofrer han til sit net og brænder røgelse for sine garn,\ffor ved dem får han sin rigelige del,\fog hans mad er fed.",
       "number": 16
     },
     {
-      "text": "Men skal han derfor tømme sit net og altid slå folkeslag ihjel uden skånsel?",
+      "text": "\fMen skal han derfor tømme sit net og altid slå folkeslag ihjel uden skånsel?",
       "number": 17
     }
   ],
@@ -92,67 +102,67 @@
       "text": "Ordret: >>jeres dage<<.",
       "type": "E",
       "verse": 5,
-      "position": 111
+      "position": 113
     },
     {
       "text": "På hebraisk er der ordspil mellem barskt *mar* og hurtigt *nimhār*.",
       "type": "E",
       "verse": 6,
-      "position": 52
+      "position": 53
     },
     {
       "text": "Ordret: >>boliger<< eller >>telte<<.",
       "type": "E",
       "verse": 6,
-      "position": 117
+      "position": 119
     },
     {
       "text": "Ordret: >>Ud fra ham selv udgår hans ret og værdighed.<<",
       "type": "E",
       "verse": 7,
-      "position": 74
+      "position": 76
     },
     {
       "text": "En anden mulig oversættelse er >>alle deres ansigter er som østenvinden<<.",
       "type": "E",
       "verse": 9,
-      "position": 70
+      "position": 72
     },
     {
       "text": "*ḥālaf* kan også oversættes med >>skifter (retning)<<.",
       "type": "E",
       "verse": 11,
-      "position": 16
+      "position": 17
     },
     {
       "text": "Den hebraiske grundtekst lyder egentlig >>lad os ikke dø, JHVHv<<, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
       "type": "E",
       "verse": 12,
-      "position": 70
+      "position": 72
     },
     {
       "text": "kaldæernes konge.",
       "type": "T",
       "verse": 12,
-      "position": 100
+      "position": 103
     },
     {
       "text": "Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.",
       "type": "E",
       "verse": 12,
-      "position": 109
+      "position": 112
     },
     {
       "text": "Dvs. kaldæernes konge.",
       "type": "T",
       "verse": 15,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Ordret >>fede<<.",
       "type": "E",
       "verse": 16,
-      "position": 94
+      "position": 96
     }
   ]
 }

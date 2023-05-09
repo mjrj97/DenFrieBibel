@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 35,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko, og sagde:",
+      "text": "\fJHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko, og sagde:",
       "number": 1
     },
     {
@@ -25,7 +35,7 @@
       "number": 5
     },
     {
-      "text": "Af de byer som I skal give levitterne, skal seks være tilflugtsbyer som I skal give for at en drabsmand kan flygte derhen, og ud over dem skal I give dem 42 byer.",
+      "text": "\fAf de byer som I skal give levitterne, skal seks være tilflugtsbyer som I skal give for at en drabsmand kan flygte derhen, og ud over dem skal I give dem 42 byer.",
       "number": 6
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "Hvis en slår en anden med et stykke jern så han dør, er han en morder. Den morder skal dø.",
+      "text": "\fHvis en slår en anden med et stykke jern så han dør, er han en morder. Den morder skal dø.",
       "number": 16
     },
     {

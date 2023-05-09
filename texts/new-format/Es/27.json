@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 27,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "På den dag skal JHVH med sit hårde og store og stærke sværd straffe Leviathan, den flygtende slange, og Leviathan, den bugtede slange, og han skal dræbe uhyret, der er i havet.",
+      "text": "\fPå den dag skal JHVH med sit hårde og store og stærke sværd straffe Leviathan, den flygtende slange, og Leviathan, den bugtede slange, og han skal dræbe uhyret, der er i havet.",
       "number": 1
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "For den faste by ligger øde, en bolig forkastet og forladt som en ørken; der skal kalve gå på græs, og der skal de ligge og æde dens kviste.",
+      "text": "\fFor den faste by ligger øde, en bolig forkastet og forladt som en ørken; der skal kalve gå på græs, og der skal de ligge og æde dens kviste.",
       "number": 10
     },
     {

@@ -3,93 +3,107 @@
   "abbreviation": "Sl",
   "chapter": 33,
   "version": 1457218800000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Bryd ud i jubel, I retfærdige i Herren!For de retskafne er det passende med lovsang.",
+      "text": "\fBryd ud i jubel, I retfærdige i Herren!\fFor de retskafne er det passende med lovsang.",
       "number": 1
     },
     {
-      "text": "Pris JHVH med citer,spil for ham på tistrenget harpe.",
+      "text": "\fPris JHVH med citer,\fspil for ham på tistrenget harpe.",
       "number": 2
     },
     {
-      "text": "Syng ham en ny sang,spil lifligt på strengene til jubelråb.",
+      "text": "\fSyng ham en ny sang,\fspil lifligt på strengene til jubelråb.",
       "number": 3
     },
     {
-      "text": "For JHVHs ord er retskaffent,og al hans gerning er trofast.",
+      "text": "\fFor JHVHs ord er retskaffent,\fog al hans gerning er trofast.",
       "number": 4
     },
     {
-      "text": "Han elsker retfærdighed og ret,JHVHs nåde opfylder jorden.",
+      "text": "\fHan elsker retfærdighed og ret,\fJHVHs nåde opfylder jorden.",
       "number": 5
     },
     {
-      "text": "Ved JHVHs ord blev himlen skabt,og ved hans munds ånde hele dens hær.",
+      "text": "\fVed JHVHs ord blev himlen skabt,\fog ved hans munds ånde hele dens hær.",
       "number": 6
     },
     {
-      "text": "Han samler havets vand som en vold,han lægger urdybene i forrådskamre.",
+      "text": "\fHan samler havets vand som en vold,\fhan lægger urdybene i forrådskamre.",
       "number": 7
     },
     {
-      "text": "Hele jorden skal frygte JHVH,alle verdens indbyggere skal skælve for ham!",
+      "text": "\fHele jorden skal frygte JHVH,\falle verdens indbyggere skal skælve for ham!",
       "number": 8
     },
     {
-      "text": "For han talte, og det skete,han befalede, og det stod der.",
+      "text": "\fFor han talte, og det skete,\fhan befalede, og det stod der.",
       "number": 9
     },
     {
-      "text": "JHVH gjorde folkenes råd til intet,han hindrede folkeslagenes tanker.",
+      "text": "\fJHVH gjorde folkenes råd til intet,\fhan hindrede folkeslagenes tanker.",
       "number": 10
     },
     {
-      "text": "JHVHs råd består til evig tid,hans hjertes tanker i generation efter generation.",
+      "text": "\fJHVHs råd består til evig tid,\fhans hjertes tanker i generation efter generation.",
       "number": 11
     },
     {
-      "text": "Saligt er det folk, hvis Gud JHVH er,folket som han udvalgte sig til ejendom.",
+      "text": "\fSaligt er det folk, hvis Gud JHVH er,\ffolket som han udvalgte sig til ejendom.",
       "number": 12
     },
     {
-      "text": "Fra himlen skuede JHVH ned,han betragtede alle menneskenes børn.",
+      "text": "\fFra himlen skuede JHVH ned,\fhan betragtede alle menneskenes børn.",
       "number": 13
     },
     {
-      "text": "Fra stedet, hvor han troner, så hantil alle jordens beboere.",
+      "text": "\fFra stedet, hvor han troner, så han\ftil alle jordens beboere.",
       "number": 14
     },
     {
-      "text": "Han er den som alene danner deres hjerte,som giver agt på alle deres gerninger.",
+      "text": "\fHan er den som alene danner deres hjerte,\fsom giver agt på alle deres gerninger.",
       "number": 15
     },
     {
-      "text": "Ingen konge frelses ved en stor hær,en helt reddes ikke ved stor kraft.",
+      "text": "\fIngen konge frelses ved en stor hær,\fen helt reddes ikke ved stor kraft.",
       "number": 16
     },
     {
-      "text": "Hesten er et falsk håb som hjælper,ja, ved sin store styrke kan den ikke redde.",
+      "text": "\fHesten er et falsk håb som hjælper,\fja, ved sin store styrke kan den ikke redde.",
       "number": 17
     },
     {
-      "text": "Se, JHVHs øje er vendt til dem som frygter ham,til dem som tålmodigt venter på hans nåde,",
+      "text": "\fSe, JHVHs øje er vendt til dem som frygter ham,\ftil dem som tålmodigt venter på hans nåde,",
       "number": 18
     },
     {
-      "text": "for at fri deres sjæl fra dødog holde dem i live under hungersnøden.",
+      "text": "\ffor at fri deres sjæl fra død\fog holde dem i live under hungersnøden.",
       "number": 19
     },
     {
-      "text": "Vor sjæl ventede på JHVH,han er vor hjælp og vort skjold.",
+      "text": "\fVor sjæl ventede på JHVH,\fhan er vor hjælp og vort skjold.",
       "number": 20
     },
     {
-      "text": "Ja, over ham skal vort hjerte glæde sig,for vi har stolet på hans hellige navn.",
+      "text": "\fJa, over ham skal vort hjerte glæde sig,\ffor vi har stolet på hans hellige navn.",
       "number": 21
     },
     {
-      "text": "Lad din nåde, JHVHv, være over os,sådan som vi har ventet på dig!",
+      "text": "\fLad din nåde, JHVHv, være over os,\fsådan som vi har ventet på dig!",
       "number": 22
     }
   ],
@@ -124,43 +138,43 @@
       "text": "Kan evt. også oversættes: >>Bryd ud i jubel for JHVH, I retfærdige<<",
       "type": "T",
       "verse": 1,
-      "position": 39
+      "position": 40
     },
     {
       "text": "*šāmayim* (>>himmel<<) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også >>deres hær<< i næste linje)",
       "type": "E",
       "verse": 6,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Ofte retter man vokaliseringen af *kannēd* (>>som en vold<<) til *kannōd* = *kannō ʔd*: >>som (i) en lædersæk<<. Som teksten står, kan den ses som henvisning til 2 Mos 15,8",
       "type": "E",
       "verse": 7,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Kan også oversættes >>hedningernes<<",
       "type": "T",
       "verse": 10,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Kan også oversættes: >>hvor han bor<<",
       "type": "T",
       "verse": 14,
-      "position": 28
+      "position": 29
     },
     {
       "text": "Meningen med ordet *yaḥad* (>>alene<<)er usikker. Oftest betyder det >>sammen<<, men det giver næppe mening her. Det kan evt. betyde >>alle<<, men det taler sætningsbygningen imod. En mulighed er at forstå det som >>individuelt<<; det kræver dog en anden vokalisering (*yāḥid*)",
       "type": "E",
       "verse": 15,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Der er tænkt på krig",
       "type": "T",
       "verse": 17,
-      "position": 35
+      "position": 36
     }
   ]
 }

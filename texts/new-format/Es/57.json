@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 57,
   "version": 1644274800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Den retfærdige omkommer, og der er ingen, der tager det til hjerte; og fromme folk kaldes bort, men der er ingen, der lægger mærke til det; for den retfærdige kaldes bort, før det onde kommer.",
+      "text": "\fDen retfærdige omkommer, og der er ingen, der tager det til hjerte; og fromme folk kaldes bort, men der er ingen, der lægger mærke til det; for den retfærdige kaldes bort, før det onde kommer.",
       "number": 1
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Og man skal sige: >>Jævn ud, jævn ud, ryd vejen, fjern anstød fra mit folks vej!<<",
+      "text": "\fOg man skal sige: >>Jævn ud, jævn ud, ryd vejen, fjern anstød fra mit folks vej!<<",
       "number": 14
     },
     {

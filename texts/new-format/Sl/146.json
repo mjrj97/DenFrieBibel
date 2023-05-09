@@ -3,45 +3,55 @@
   "abbreviation": "Sl",
   "chapter": 146,
   "version": 1493330400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Halleluja!Min sjæl, lovpris JHVH!",
+      "text": "\fHalleluja!\fMin sjæl, lovpris JHVH!",
       "number": 1
     },
     {
-      "text": "Jeg vil lovprise JHVH hele mit liv,jeg vil lovsynge min Gud så længe jeg er til.",
+      "text": "\fJeg vil lovprise JHVH hele mit liv,\fjeg vil lovsynge min Gud så længe jeg er til.",
       "number": 2
     },
     {
-      "text": "Stol ikke på fyrster,på et menneskebarn, hos hvem der ingen frelse er.",
+      "text": "\fStol ikke på fyrster,\fpå et menneskebarn, hos hvem der ingen frelse er.",
       "number": 3
     },
     {
-      "text": "Når hans ånd forlader ham, vender han tilbage til jorden,på den dag er hans planer gået til grunde.",
+      "text": "\fNår hans ånd forlader ham, vender han tilbage til jorden,\fpå den dag er hans planer gået til grunde.",
       "number": 4
     },
     {
-      "text": "Lykkelig er den hvis hjælp er Jakobs Gud,hvis håb hviler på JHVH, hans Gud,",
+      "text": "\fLykkelig er den hvis hjælp er Jakobs Gud,\fhvis håb hviler på JHVH, hans Gud,",
       "number": 5
     },
     {
-      "text": "skaber af himmel og jord,havet og alt det som er i dem,som bevarer troskab til evig tid,",
+      "text": "\fskaber af himmel og jord,\fhavet og alt det som er i dem,\fsom bevarer troskab til evig tid,",
       "number": 6
     },
     {
-      "text": "som skaffer de undertrykte ret,som giver brød til de sultne.JHVH sætter fanger fri,",
+      "text": "\fsom skaffer de undertrykte ret,\fsom giver brød til de sultne.\fJHVH sætter fanger fri,",
       "number": 7
     },
     {
-      "text": "JHVH åbner blindes øjne,JHVH rejser nedbøjede op,JHVH elsker retfærdige.",
+      "text": "\fJHVH åbner blindes øjne,\fJHVH rejser nedbøjede op,\fJHVH elsker retfærdige.",
       "number": 8
     },
     {
-      "text": "JHVH beskytter de fremmede,han tager sig af faderløse og enker,men ugudeliges vej gør han krum.",
+      "text": "\fJHVH beskytter de fremmede,\fhan tager sig af faderløse og enker,\fmen ugudeliges vej gør han krum.",
       "number": 9
     },
     {
-      "text": "JHVH er konge{T: Kan også oversættes: >>skal regere<<.} for evigt,din Gud, Zion, i slægt efter slægt.Halleluja!",
+      "text": "\fJHVH er konge for evigt,\fdin Gud, Zion, i slægt efter slægt.\fHalleluja!",
       "number": 10
     }
   ],
@@ -64,25 +74,31 @@
       "text": "Ordret: >>til sin jord<<.",
       "type": "T",
       "verse": 4,
-      "position": 57
+      "position": 58
     },
     {
       "text": "Kan også oversættes: >>salig<<.",
       "type": "T",
       "verse": 5,
-      "position": 8
+      "position": 9
     },
     {
       "text": "Kan også oversættes: >>sandhed<<.",
       "type": "T",
       "verse": 6,
-      "position": 74
+      "position": 77
     },
     {
       "text": "Ordret blot: >>åbner blinde<<, underforstået: >>øjne<<.",
       "type": "T",
       "verse": 8,
-      "position": 24
+      "position": 25
+    },
+    {
+      "text": "Kan også oversættes: >>skal regere<<.",
+      "type": "T",
+      "verse": 10,
+      "position": 14
     }
   ]
 }

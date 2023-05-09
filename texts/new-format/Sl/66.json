@@ -3,85 +3,99 @@
   "abbreviation": "Sl",
   "chapter": 66,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen.En sang. En salme.Bryd ud i jubel for Gud, hele jorden!",
+      "text": "\fTil korlederen.\fEn sang. En salme.\fBryd ud i jubel for Gud, hele jorden!",
       "number": 1
     },
     {
-      "text": "Lovsyng hans navns ære,giv ham ære, en lovsang for ham.",
+      "text": "\fLovsyng hans navns ære,\fgiv ham ære, en lovsang for ham.",
       "number": 2
     },
     {
-      "text": "Sig til Gud: >>Hvor frygtindgydende er dine gerninger,på grund af din magts storhed skal dine fjender krybe for dig!",
+      "text": "\fSig til Gud: >>Hvor frygtindgydende er dine gerninger,\fpå grund af din magts storhed skal dine fjender krybe for dig!",
       "number": 3
     },
     {
-      "text": "Hele jorden skal kaste sig ned for dig og lovsynge dig;de skal lovsynge dit navn<<. Sela",
+      "text": "\fHele jorden skal kaste sig ned for dig og lovsynge dig;\fde skal lovsynge dit navn<<. Sela",
       "number": 4
     },
     {
-      "text": "Kom og se Guds gerninger,han er frygtindgydende i handling mod mennesker.",
+      "text": "\fKom og se Guds gerninger,\fhan er frygtindgydende i handling mod mennesker.",
       "number": 5
     },
     {
-      "text": "Han forvandlede hav til tørt land,de gik til fods gennem strømmen.Lad os da glæde os i ham.",
+      "text": "\fHan forvandlede hav til tørt land,\fde gik til fods gennem strømmen.\fLad os da glæde os i ham.",
       "number": 6
     },
     {
-      "text": "Han hersker evigt i sin magt,hans øjne overvåger folkene;de genstridige skal ikke ophøje sig selv. Sela",
+      "text": "\fHan hersker evigt i sin magt,\fhans øjne overvåger folkene;\fde genstridige skal ikke ophøje sig selv. Sela",
       "number": 7
     },
     {
-      "text": "Pris vor Gud, I folkeslag!Lad lovprisningen af ham lyde!",
+      "text": "Pris vor Gud, I folkeslag!\fLad lovprisningen af ham lyde!",
       "number": 8
     },
     {
-      "text": "Han som holder vor sjæl i liveog ikke lod vor fod snuble.",
+      "text": "\fHan som holder vor sjæl i live\fog ikke lod vor fod snuble.",
       "number": 9
     },
     {
-      "text": "For du har prøvet os, Gud,du har lutret os, som man lutrer sølv.",
+      "text": "\fFor du har prøvet os, Gud,\fdu har lutret os, som man lutrer sølv.",
       "number": 10
     },
     {
-      "text": "Du har bragt os i garnet,du lagde byrde på vore hofter.",
+      "text": "\fDu har bragt os i garnet,\fdu lagde byrde på vore hofter.",
       "number": 11
     },
     {
-      "text": "Du lod et menneske ride over vort hoved,vi gik gennem ild og vand,men du førte os ud til overflod.",
+      "text": "\fDu lod et menneske ride over vort hoved,\fvi gik gennem ild og vand,\fmen du førte os ud til overflod.",
       "number": 12
     },
     {
-      "text": "Jeg vil gå ind i dit hus med brændofre,jeg vil indfri mine løfter til dig,",
+      "text": "\fJeg vil gå ind i dit hus med brændofre,\fjeg vil indfri mine løfter til dig,",
       "number": 13
     },
     {
-      "text": "dem som mine læber åbnede sig med,og som min mund udtalte, da jeg var i nød.",
+      "text": "\fdem som mine læber åbnede sig med,\fog som min mund udtalte, da jeg var i nød.",
       "number": 14
     },
     {
-      "text": "Jeg vil ofre dig brændoffer af fedekvægmed offerduften af væddere;jeg vil bringe okser og bukke. Sela",
+      "text": "\fJeg vil ofre dig brændoffer af fedekvæg\fmed offerduften af væddere;\fjeg vil bringe okser og bukke. Sela",
       "number": 15
     },
     {
-      "text": "Kom og hør, så vil jeg fortællealle som frygter Gud,hvad han har gjort for min sjæl.",
+      "text": "\fKom og hør, så vil jeg fortælle\falle som frygter Gud,\fhvad han har gjort for min sjæl.",
       "number": 16
     },
     {
-      "text": "Til ham råbte jeg med min mund,og der var lovsang under min tunge.",
+      "text": "\fTil ham råbte jeg med min mund,\fog der var lovsang under min tunge.",
       "number": 17
     },
     {
-      "text": "Hvis jeg havde haft ondt i sinde,så ville Herren ikke have hørt mig.",
+      "text": "\fHvis jeg havde haft ondt i sinde,\fså ville Herren ikke have hørt mig.",
       "number": 18
     },
     {
-      "text": "Men Gud har virkelig hørt,han lyttede til min bøn.",
+      "text": "\fMen Gud har virkelig hørt,\fhan lyttede til min bøn.",
       "number": 19
     },
     {
-      "text": "Lovet{T: Kan også oversættes: >>velsignet<<.} være Gud,som ikke afviste min bøn eller vendte sin nåde{N: nåde} fra mig!",
+      "text": "\fLovet være Gud,\fsom ikke afviste min bøn eller vendte sin nåde fra mig!",
       "number": 20
     }
   ],
@@ -112,55 +126,55 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": ">>ham<< står ikke i den hebraiske tekst, men må være underforstået.",
       "type": "T",
       "verse": 2,
-      "position": 30
+      "position": 32
     },
     {
       "text": "Verbet *xḥš* betyder i pi’el oftest: >>lyve, fornægte<<, men i forholdet mellem besejrer og besejret betyder det: >>at hykle en underkastelse/at hylde nødtvungent<<.",
       "type": "T",
       "verse": 3,
-      "position": 107
+      "position": 109
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 4,
-      "position": 88
+      "position": 90
     },
     {
       "text": "Verbet *hlx* betyder normalt: >>gå<<, men som imperativ foran en anden imperativ bruges det som opfordring: >>kom, velan<< eller lignende.",
       "type": "T",
       "verse": 5,
-      "position": 3
+      "position": 4
     },
     {
       "text": "Ordret: >>Adams børn/menneskebørn<<.",
       "type": "T",
       "verse": 5,
-      "position": 73
+      "position": 75
     },
     {
       "text": "Kan også oversættes: >>floden<<, så der er tænkt på Jordanfloden. Det er dog ikke oplagt i sammenhængen.",
       "type": "E",
       "verse": 6,
-      "position": 66
+      "position": 68
     },
     {
       "text": "Ordet *šām* betyder normalt: >>dér<<. I sammenhængen kan det opfattes som en opfordring til i tankerne (i ånden) at være ved Sivhavet og på ny istemme lovsangen (2 Mos 15) – eller (snarere) opfattes tidsligt konkluderende: >>da, så<<.",
       "type": "E",
       "verse": 6,
-      "position": 75
+      "position": 78
     },
     {
       "text": "Kan også oversættes: >>hedningerne<<, men det er næppe der vægten ligger i sammenhængen.",
       "type": "T",
       "verse": 7,
-      "position": 57
+      "position": 59
     },
     {
       "text": "Kan også oversættes: >>velsign<<.",
@@ -172,43 +186,55 @@
       "text": "Ordret: >>lad hans lovprisnings røst blive hørt<<.",
       "type": "T",
       "verse": 8,
-      "position": 56
+      "position": 57
     },
     {
       "text": "Ordret: >>han som sætter/satte vor sjæl i livet<<.",
       "type": "T",
       "verse": 9,
-      "position": 30
+      "position": 31
     },
     {
       "text": "Ordet *mᵊṣûdāʰ* har flere betydninger og oversættes forskelligt her: >>klippeborg/bytte/garn/net<<.",
       "type": "E",
       "verse": 11,
-      "position": 25
+      "position": 26
     },
     {
       "text": "Betydningen af ordet *mûʕāqāʰ* er usikker. Det forekommer kun her i GT. Det er formodentlig på en eller anden måde udtryk for trængsel, smerter og lidelse.",
       "type": "E",
       "verse": 11,
-      "position": 39
+      "position": 41
     },
     {
       "text": "Hebraisk: *rᵊwāyāʰ*. De gamle oversættelser har tilsyneladende læst: *rᵊwāḥāʰ*: >>frihed<<. Det foretrækkes af en del oversættere.",
       "type": "E",
       "verse": 12,
-      "position": 98
+      "position": 101
     },
     {
       "text": "Ordret: >>hvis jeg havde haft ondt for øje i mit hjerte<<.",
       "type": "T",
       "verse": 18,
-      "position": 33
+      "position": 34
     },
     {
       "text": "Ordret: >>min bøns røst<<.",
       "type": "T",
       "verse": 19,
-      "position": 50
+      "position": 52
+    },
+    {
+      "text": "Kan også oversættes: >>velsignet<<.",
+      "type": "T",
+      "verse": 20,
+      "position": 6
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 20,
+      "position": 63
     }
   ]
 }

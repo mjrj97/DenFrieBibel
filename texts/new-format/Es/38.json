@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 38,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "I de dage blev Ezekias dødssyg, og Esajas, Amoz' søn, profeten, kom til ham og sagde til ham: >>Sådan sagde JHVH: Få orden på dine sager, for du skal dø og ikke leve.<<",
+      "text": "\fI de dage blev Ezekias dødssyg, og Esajas, Amoz' søn, profeten, kom til ham og sagde til ham: >>Sådan sagde JHVH: Få orden på dine sager, for du skal dø og ikke leve.<<",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Et skrift af Ezekias, Judas konge, da han havde været syg og var blevet helbredt fra sin sygdom:",
+      "text": "\fEt skrift af Ezekias, Judas konge, da han havde været syg og var blevet helbredt fra sin sygdom:",
       "number": 9
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Men Esajas sagde, at de skulle tage en klump figen og lave den til et plaster på hans byld, så skulle han leve.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOg Ezekias sagde: >>Hvilket tegn er der på, at jeg skal gå op til JHVHs hus?<<",
+      "text": "\fMen Esajas sagde, at de skulle tage en klump figen og lave den til et plaster på hans byld, så skulle han leve.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOg Ezekias sagde: >>Hvilket tegn er der på, at jeg skal gå op til JHVHs hus?<<",
       "number": 21
     }
   ],

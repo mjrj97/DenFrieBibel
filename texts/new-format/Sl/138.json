@@ -3,37 +3,47 @@
   "abbreviation": "Sl",
   "chapter": 138,
   "version": 1492725600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Af David.Jeg vil takke dig af hele mit hjerte,foran guderne vil jeg lovsynge dig.",
+      "text": "\fAf David.\fJeg vil takke dig af hele mit hjerte,\fforan guderne vil jeg lovsynge dig.",
       "number": 1
     },
     {
-      "text": "Jeg vil kaste mig ned hen imod dit hellige tempelog takke dit navnfor din nåde og for din sandhed,for du har gjort dit ord stort ud over hele dit navn.",
+      "text": "\fJeg vil kaste mig ned hen imod dit hellige tempel\fog takke dit navn\ffor din nåde og for din sandhed,\ffor du har gjort dit ord stort ud over hele dit navn.",
       "number": 2
     },
     {
-      "text": "Den dag jeg råbte, svarede du mig,du gjorde mig stolt, jeg fik styrke.",
+      "text": "\fDen dag jeg råbte, svarede du mig,\fdu gjorde mig stolt, jeg fik styrke.",
       "number": 3
     },
     {
-      "text": "Alle jordens konger skal takke dig,for de har hørt din munds ord.",
+      "text": "\fAlle jordens konger skal takke dig,\ffor de har hørt din munds ord.",
       "number": 4
     },
     {
-      "text": "Og de skal synge om JHVHs veje,for stor er JHVHs herlighed.",
+      "text": "\fOg de skal synge om JHVHs veje,\ffor stor er JHVHs herlighed.",
       "number": 5
     },
     {
-      "text": "Ja, ophøjet er JHVH, men han ser til den ringe,og den stolte kender han på lang afstand.",
+      "text": "\fJa, ophøjet er JHVH, men han ser til den ringe,\fog den stolte kender han på lang afstand.",
       "number": 6
     },
     {
-      "text": "Skal jeg vandre midt i trængsel, holder du mig i live,mod mine fjenders vrede rækker du din hånd ud,og din højre frelser mig.",
+      "text": "\fSkal jeg vandre midt i trængsel, holder du mig i live,\fmod mine fjenders vrede rækker du din hånd ud,\fog din højre frelser mig.",
       "number": 7
     },
     {
-      "text": "JHVH skal fuldføre det for mig.JHVHv, din nåde{N: nåde} varer til evig tid,opgiv ikke dine hænders værker.",
+      "text": "\fJHVH skal fuldføre det for mig.\fJHVHv, din nåde varer til evig tid,\fopgiv ikke dine hænders værker.",
       "number": 8
     }
   ],
@@ -60,37 +70,43 @@
       "text": "Ordret: >>din helligheds tempel<<.",
       "type": "T",
       "verse": 2,
-      "position": 49
+      "position": 50
     },
     {
       "text": "nåde",
       "type": "N",
       "verse": 2,
-      "position": 78
+      "position": 81
     },
     {
       "text": "Oversættes ofte: >>troskab<<.",
       "type": "T",
       "verse": 2,
-      "position": 98
+      "position": 101
     },
     {
       "text": "Grundtekstens ord (*ʔimrāʰ*) har en biklang af: >>løfte<<.",
       "type": "T",
       "verse": 2,
-      "position": 122
+      "position": 126
     },
     {
       "text": "Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (>>hele dit navn<<), men: *kol-šēm*: >>hvert navn<<. Mange oversættere retter: *šimxā* (>>dit navn<<) til: *šāmeʸxā*: >>din himmel<<. En tredje mulighed er at ændre vokaliseringen af: *kol-* (>>hele<<, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (>>og<<) foran: >>dit navn<<. Oversættelsen lyder da: >>for du har ladet dit ord og dit navn overgå alt andet<<.",
       "type": "E",
       "verse": 2,
-      "position": 151
+      "position": 155
     },
     {
       "text": "Ordret: >>min sjæl<<.",
       "type": "T",
       "verse": 3,
-      "position": 58
+      "position": 60
+    },
+    {
+      "text": "nåde",
+      "type": "N",
+      "verse": 8,
+      "position": 48
     }
   ]
 }

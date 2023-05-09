@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 65,
   "version": 1636153200000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Jeg er søgt af dem, der ikke spurgte efter mig, jeg er fundet af dem, der ikke ledte; jeg sagde til et folk, der ikke er kaldt med mit navn: >>se, her er jeg, se, her er jeg.<<",
+      "text": "\fJeg er søgt af dem, der ikke spurgte efter mig, jeg er fundet af dem, der ikke ledte; jeg sagde til et folk, der ikke er kaldt med mit navn: >>se, her er jeg, se, her er jeg.<<",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Sådan siger JHVH: Ligesom der findes saft i vinklasen, og man siger: >>Lad være med at ødelægge den, for der er velsignelse i den,<< sådan vil jeg gøre for min tjeners skyld og ikke ødelægge alt.",
+      "text": "\fSådan siger JHVH: Ligesom der findes saft i vinklasen, og man siger: >>Lad være med at ødelægge den, for der er velsignelse i den,<< sådan vil jeg gøre for min tjeners skyld og ikke ødelægge alt.",
       "number": 8
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Men I, der forlader JHVH, I, der glemmer mit hellige bjerg, I, der dækker bord for Gad, og I, der fylder bægeret op med blandet drik for Meni,",
+      "text": "\fMen I, der forlader JHVH, I, der glemmer mit hellige bjerg, I, der dækker bord for Gad, og I, der fylder bægeret op med blandet drik for Meni,",
       "number": 11
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "For se, jeg skaber nye himle og en ny jord; og de tidligere ting skal ikke huskes og ikke komme op i tankerne.",
+      "text": "\fFor se, jeg skaber nye himle og en ny jord; og de tidligere ting skal ikke huskes og ikke komme op i tankerne.",
       "number": 17
     },
     {
@@ -116,13 +126,13 @@
       "text": "Navnet på en afgud",
       "type": "T",
       "verse": 11,
-      "position": 87
+      "position": 88
     },
     {
       "text": "Navnet på en afgud",
       "type": "T",
       "verse": 11,
-      "position": 143
+      "position": 144
     },
     {
       "text": "Ordret: >>i den<<, der henviser til Jerusalem.",

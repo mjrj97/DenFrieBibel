@@ -3,9 +3,23 @@
   "abbreviation": "1Kor",
   "chapter": 3,
   "version": 1539036000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og, brødre! jeg kunne ikke tale til jer som til åndelige, men som til kødelige, som til babyer i Kristus.",
+      "text": "\fOg, brødre! jeg kunne ikke tale til jer som til åndelige, men som til kødelige, som til babyer i Kristus.",
       "number": 1
     },
     {
@@ -21,7 +35,7 @@
       "number": 4
     },
     {
-      "text": "Hvad er Apollos da? og hvad er Paulus? Tjenere, som I kom til tro ved og det sådan, som Herren gav hver enkelt.",
+      "text": "\fHvad er Apollos da? og hvad er Paulus? Tjenere, som I kom til tro ved og det sådan, som Herren gav hver enkelt.",
       "number": 5
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": "Efter den Guds nåde, der blev givet mig, har jeg som en klog bygmester lagt grundvold, mens en anden bygger på den. Men lad hver enkelt holde øje med, hvordan han bygger på den!",
+      "text": "\fEfter den Guds nåde, der blev givet mig, har jeg som en klog bygmester lagt grundvold, mens en anden bygger på den. Men lad hver enkelt holde øje med, hvordan han bygger på den!",
       "number": 10
     },
     {
@@ -73,7 +87,7 @@
       "number": 17
     },
     {
-      "text": "Ingen skal bedrage sig selv! Hvis nogen iblandt jer mener, at han er viis i denne verden, skal han blive en tåbe, for at han kan blive viis.",
+      "text": "\fIngen skal bedrage sig selv! Hvis nogen iblandt jer mener, at han er viis i denne verden, skal han blive en tåbe, for at han kan blive viis.",
       "number": 18
     },
     {

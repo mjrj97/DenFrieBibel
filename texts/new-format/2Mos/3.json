@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 3,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Moses vogtede småkvæg for sin svigerfar Jetro,  Midjans præst, og han drev småkvæget om på den anden side af ørkenen og kom til Guds-bjerget Horeb.",
+      "text": "\fMoses vogtede småkvæg for sin svigerfar Jetro,  Midjans præst, og han drev småkvæget om på den anden side af ørkenen og kom til Guds-bjerget Horeb.",
       "number": 1
     },
     {
@@ -29,7 +43,7 @@
       "number": 6
     },
     {
-      "text": "Så sagde JHVH: >>Jeg har i høj grad set mit folks elendighed i Egypten, og jeg har hørt dets klageskrig over dets slavefogeder. Jo, jeg har kendt dets smerter.",
+      "text": "\fSå sagde JHVH: >>Jeg har i høj grad set mit folks elendighed i Egypten, og jeg har hørt dets klageskrig over dets slavefogeder. Jo, jeg har kendt dets smerter.",
       "number": 7
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": "Gud sagde endvidere til Moses: >>Sådan skal du sige til Israels børn: >JHVH, jeres fædres Gud, Abrahams Gud, Isaks Gud og Jakobs Gud, har sendt mig til jer.< Dette er mit navn til evig tid, og sådan skal jeg huskes fra slægt til slægt.",
+      "text": "\fGud sagde endvidere til Moses: >>Sådan skal du sige til Israels børn: >JHVH, jeres fædres Gud, Abrahams Gud, Isaks Gud og Jakobs Gud, har sendt mig til jer.< Dette er mit navn til evig tid, og sådan skal jeg huskes fra slægt til slægt.",
       "number": 15
     },
     {
@@ -124,13 +138,13 @@
       "text": "Den hebraiske tekst har verbet *rʔh* (>>se<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
       "type": "T",
       "verse": 7,
-      "position": 35
+      "position": 36
     },
     {
       "text": "Ordret: >>deres<<.",
       "type": "T",
       "verse": 7,
-      "position": 92
+      "position": 93
     },
     {
       "text": "Med >>honning<< er der formodentlig tænkt bredere end på dansk. Det omfatter også frugtsaft af især dadler og figner.",
@@ -166,7 +180,7 @@
       "text": "Ordret: >>dette er mit minde<<.",
       "type": "T",
       "verse": 15,
-      "position": 214
+      "position": 215
     },
     {
       "text": "Den hebraiske tekst har verbet *pqd* (>>være opmærksom på<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",

@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 35,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Moses samlede hele Israels børns menighed og sagde til dem: >>Dette er de ting, som JHVH befalede at gøre:",
+      "text": "\fMoses samlede hele Israels børns menighed og sagde til dem: >>Dette er de ting, som JHVH befalede at gøre:",
       "number": 1
     },
     {
@@ -17,7 +27,7 @@
       "number": 3
     },
     {
-      "text": "Moses sagde til hele Israels børns menighed således: >>Dette er den ting som JHVH befalede ved at sige:",
+      "text": "\fMoses sagde til hele Israels børns menighed således: >>Dette er den ting som JHVH befalede ved at sige:",
       "number": 4
     },
     {
@@ -41,7 +51,7 @@
       "number": 9
     },
     {
-      "text": "Og enhver blandt jer som har kunstnerisk færdighed, de skal komme og lave alt det som JHVH har befalet:",
+      "text": "\fOg enhver blandt jer som har kunstnerisk færdighed, de skal komme og lave alt det som JHVH har befalet:",
       "number": 10
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "Så gik de, hele Israels børns menighed, bort fra Moses’ nærhed.",
+      "text": "\fSå gik de, hele Israels børns menighed, bort fra Moses’ nærhed.",
       "number": 20
     },
     {
@@ -121,7 +131,7 @@
       "number": 29
     },
     {
-      "text": "Moses sagde til Israels børn: >>Se, JHVH har kaldet Besal’el ved navn; han er søn af Uri, søn af Hur, af Juda stamme.",
+      "text": "\fMoses sagde til Israels børn: >>Se, JHVH har kaldet Besal’el ved navn; han er søn af Uri, søn af Hur, af Juda stamme.",
       "number": 30
     },
     {
@@ -172,7 +182,7 @@
       "text": "Grundtekstens: *dāvār* kan – alt efter sammenhængen – oversættes både: >>ord<< og: >>ting<<. Her spilles der på begge betydninger.",
       "type": "E",
       "verse": 1,
-      "position": 79
+      "position": 80
     },
     {
       "text": "Man skal muligvis underforstå >>dag<<, altså >>en hellig dag<<.",
@@ -190,13 +200,13 @@
       "text": "Ordret: >>ved at sige<<.",
       "type": "T",
       "verse": 4,
-      "position": 52
+      "position": 53
     },
     {
       "text": "Se note til vers 1.",
       "type": "T",
       "verse": 4,
-      "position": 72
+      "position": 73
     },
     {
       "text": "Ordret: >>karminrød orm<<.",
@@ -220,7 +230,7 @@
       "text": "Ordret: >>har et vist hjerte<<",
       "type": "T",
       "verse": 10,
-      "position": 51
+      "position": 52
     },
     {
       "text": "Ordret: >>dækkets forhæng<</>>forhænget der dækker<<. Der er tænkt på forhænget mellem det Hellige og det Allerhelligste.",
@@ -238,7 +248,7 @@
       "text": "Ordret: >>bort fra Moses’ ansigt<<.",
       "type": "T",
       "verse": 20,
-      "position": 63
+      "position": 64
     },
     {
       "text": "Ordret: >>hver mand<<.",

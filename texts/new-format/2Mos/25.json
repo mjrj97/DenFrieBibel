@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 25,
   "version": 1612220400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 1
     },
     {
@@ -41,7 +55,7 @@
       "number": 9
     },
     {
-      "text": ">>De skal lave en ark af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.",
+      "text": "\f>>De skal lave en ark af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.",
       "number": 10
     },
     {
@@ -69,7 +83,7 @@
       "number": 16
     },
     {
-      "text": ">>Så skal du lave et sonedække af purt guld, to og en halv alen langt og halvanden alen bredt,",
+      "text": "\f>>Så skal du lave et sonedække af purt guld, to og en halv alen langt og halvanden alen bredt,",
       "number": 17
     },
     {
@@ -93,7 +107,7 @@
       "number": 22
     },
     {
-      "text": ">>Du skal lave et bord af akacietræ, to alen langt og en alen bredt og halvanden alen højt",
+      "text": "\f>>Du skal lave et bord af akacietræ, to alen langt og en alen bredt og halvanden alen højt",
       "number": 23
     },
     {
@@ -125,7 +139,7 @@
       "number": 30
     },
     {
-      "text": ">>Og du skal lave en lysestage af purt guld; som udhamret arbejde skal du lave lysestagen, dens fod og selve stagen, dens bægre, dens knopper og dens blomster skal gå i ét med den.",
+      "text": "\f>>Og du skal lave en lysestage af purt guld; som udhamret arbejde skal du lave lysestagen, dens fod og selve stagen, dens bægre, dens knopper og dens blomster skal gå i ét med den.",
       "number": 31
     },
     {
@@ -220,19 +234,19 @@
       "text": "Ordret: >>dens længde to og en halv alen, …<<",
       "type": "T",
       "verse": 10,
-      "position": 59
+      "position": 60
     },
     {
       "text": "Tidligere oversat: >>nådestol<<.",
       "type": "E",
       "verse": 17,
-      "position": 30
+      "position": 31
     },
     {
       "text": "Ordret: >>to alen dets længde<<.",
       "type": "T",
       "verse": 23,
-      "position": 50
+      "position": 51
     },
     {
       "text": "Ordet >>drikoffer<< står ikke i den hebraiske tekst, men er underforstået ud fra betegnelsen >>offerskåle<<.",
@@ -244,13 +258,13 @@
       "text": "Ordret: >>dens rør<< (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.",
       "type": "T",
       "verse": 31,
-      "position": 116
+      "position": 117
     },
     {
       "text": "Ordret: >>skal være fra den<<. Hele stagen skal laves ud af ét stykke guld.",
       "type": "T",
       "verse": 31,
-      "position": 180
+      "position": 181
     },
     {
       "text": "Ordret: >>rør<<.",

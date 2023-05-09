@@ -3,9 +3,23 @@
   "abbreviation": "Ez",
   "chapter": 37,
   "version": 1635807600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVHs hånd var over mig, og JHVH førte mig i ånden ud og anbragte mig i en dal, og den var fuld af knogler.",
+      "text": "\fJHVHs hånd var over mig, og JHVH førte mig i ånden ud og anbragte mig i en dal, og den var fuld af knogler.",
       "number": 1
     },
     {
@@ -72,7 +86,7 @@
       "text": "Kan også oversættes: >>ved<<.",
       "type": "T",
       "verse": 1,
-      "position": 44
+      "position": 45
     },
     {
       "text": "Ordret: >>knogle til sin knogle<<, altså som de passede sammen.",

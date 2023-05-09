@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 9,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses: >>Kom til Farao og tal til ham: >Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.",
+      "text": "\fJHVH sagde til Moses: >>Kom til Farao og tal til ham: >Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Da sagde JHVH til Moses og til Aron: >>Fyld hænderne med sod fra en smelteovn, og Moses skal strø det ud mod himlen for Faraos øjne,",
+      "text": "\fDa sagde JHVH til Moses og til Aron: >>Fyld hænderne med sod fra en smelteovn, og Moses skal strø det ud mod himlen for Faraos øjne,",
       "number": 8
     },
     {
@@ -53,7 +67,7 @@
       "number": 12
     },
     {
-      "text": "Da sagde JHVH til Moses: >>Stå tidligt op om morgenen og stil dig foran Faraos ansigt og sig til ham: >Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.",
+      "text": "\fDa sagde JHVH til Moses: >>Stå tidligt op om morgenen og stil dig foran Faraos ansigt og sig til ham: >Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.",
       "number": 13
     },
     {
@@ -164,7 +178,7 @@
       "text": "Ordret: >>tag jer jeres hænders fylde<<.",
       "type": "T",
       "verse": 8,
-      "position": 52
+      "position": 53
     },
     {
       "text": "Både her og i vers 10 har den hebraiske tekst >>mennesket<< og >>dyret<< (singularis), men det må opfattes kollektivt.",

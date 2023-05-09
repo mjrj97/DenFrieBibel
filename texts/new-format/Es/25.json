@@ -3,53 +3,67 @@
   "abbreviation": "Es",
   "chapter": 25,
   "version": 1681336800000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "HERRE! Du er min Gud,jeg vil ophøje dig, jeg vil prise dit navn,for du har gjort under;planer, der er lagt for længe siden,er trofasthed og sandhed.",
+      "text": "\fHERRE! Du er min Gud,\fjeg vil ophøje dig, jeg vil prise dit navn,\ffor du har gjort under;\fplaner, der er lagt for længe siden,\fer trofasthed og sandhed.",
       "number": 1
     },
     {
-      "text": "For du har forvandlet en by til en stendynge,en befæstet stad til en ruinhob,fremmedes palads er ikke længere en by;den skal aldrig mere bygges.",
+      "text": "\fFor du har forvandlet en by til en stendynge,\fen befæstet stad til en ruinhob,\ffremmedes palads er ikke længere en by;\fden skal aldrig mere bygges.",
       "number": 2
     },
     {
-      "text": "Derfor skal et stærkt folk ære dig;voldelige folkeslags stad skal frygte dig.",
+      "text": "\fDerfor skal et stærkt folk ære dig;\fvoldelige folkeslags stad skal frygte dig.",
       "number": 3
     },
     {
-      "text": "For du var værn for den ringe,værn for den fattige i hans nød,tilflugt fra regnskyl, skygge mod hede;for voldsmænds fnysen er som regnskyl mod en mur.",
+      "text": "\fFor du var værn for den ringe,\fværn for den fattige i hans nød,\ftilflugt fra regnskyl, skygge mod hede;\ffor voldsmænds fnysen er som regnskyl mod en mur.",
       "number": 4
     },
     {
-      "text": "Som hede i et tørt landbetvinger du fremmedes larm;som heden dæmpes af skygge fra en sky,dæmpes tyranners jubelsang.***",
+      "text": "\fSom hede i et tørt land\fbetvinger du fremmedes larm;\fsom heden dæmpes af skygge fra en sky,\fdæmpes tyranners jubelsang.\n\n",
       "number": 5
     },
     {
-      "text": "På dette bjerg skal Hærskarers HERREholde et måltid med fede retterfor alle folkeslageneet måltid med lagret vin,fede, marvfulde retter,lagret, klaret vin.",
+      "text": "\fPå dette bjerg skal Hærskarers HERRE\fholde et måltid med fede retter\ffor alle folkeslagene\fet måltid med lagret vin,\ffede, marvfulde retter,\flagret, klaret vin.",
       "number": 6
     },
     {
-      "text": "På dette bjerg skal han bortskaffesløret der tildækker, sløret over alle folkene,og det dække som alle folkeslagene er dækket med.",
+      "text": "\fPå dette bjerg skal han bortskaffe\fsløret der tildækker, sløret over alle folkene,\fog det dække som alle folkeslagene er dækket med.",
       "number": 7
     },
     {
-      "text": "Han skal opsluge døden for evigt,og Herren JHVH skal tørre tårer af alle ansigterog fjerne spotten mod sit folk fra hele jorden;for JHVH har talt.",
+      "text": "\fHan skal opsluge døden for evigt,\fog Herren JHVH skal tørre tårer af alle ansigter\fog fjerne spotten mod sit folk fra hele jorden;\ffor JHVH har talt.",
       "number": 8
     },
     {
-      "text": "På den dag skal man sige:>>Se, dette er vores Gud, som vi håbede påat han skulle frelse os.Denne er HERREN, vi har håbet på,lad os juble og glæde os over hans frelse.<<***",
+      "text": "\fPå den dag skal man sige:\f>>Se, dette er vores Gud, som vi håbede på\fat han skulle frelse os.\fDenne er HERREN, vi har håbet på,\flad os juble og glæde os over hans frelse.<<\n\n",
       "number": 9
     },
     {
-      "text": "For JHVHs hånd skal hvileover dette bjerg;i stedet skal Moab trædes ned,som halm trædes ned i en møddingpøl.",
+      "text": "\fFor JHVHs hånd skal hvile\fover dette bjerg;\fi stedet skal Moab trædes ned,\fsom halm trædes ned i en møddingpøl.",
       "number": 10
     },
     {
-      "text": "Og det skal brede sine hænder ud i den,som den der svømmer, breder sine hænder ud for at svømme;og han skal ydmyge dets overmodsammen med dets hænders dygtighed.",
+      "text": "\fOg det skal brede sine hænder ud i den,\fsom den der svømmer, breder sine hænder ud for at svømme;\fog han skal ydmyge dets overmod\fsammen med dets hænders dygtighed.",
       "number": 11
     },
     {
-      "text": "Og dine {T: Moabs} mures høje fæstningsværkskal han kaste ned, vælte, jævne med{T: Ordret: >>få til at berøre<<.} jorden,helt ned i støvet.",
+      "text": "\fOg dine mures høje fæstningsværk\fskal han kaste ned, vælte, jævne med jorden,\fhelt ned i støvet.",
       "number": 12
     }
   ],
@@ -64,31 +78,43 @@
       "text": "Det foreslås ofte at ændre vokaliseringen fra: *qîr* (>>mur<<) til: *qōr*: >>kulde<<, så oversættelsen bliver: >>som et koldt regnskyl<<.",
       "type": "E",
       "verse": 4,
-      "position": 150
+      "position": 154
     },
     {
       "text": "Hærskarers",
       "type": "N",
       "verse": 6,
-      "position": 36
+      "position": 37
     },
     {
       "text": "Kan også oversættes: >>hedningerne<<.",
       "type": "T",
       "verse": 7,
-      "position": 115
+      "position": 118
     },
     {
       "text": "JHVH",
       "type": "T",
       "verse": 11,
-      "position": 102
+      "position": 105
     },
     {
       "text": "Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.",
       "type": "E",
       "verse": 11,
-      "position": 161
+      "position": 165
+    },
+    {
+      "text": "Moabs",
+      "type": "T",
+      "verse": 12,
+      "position": 9
+    },
+    {
+      "text": "Ordret: >>få til at berøre<<.",
+      "type": "T",
+      "verse": 12,
+      "position": 71
     }
   ]
 }

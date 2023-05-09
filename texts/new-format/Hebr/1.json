@@ -3,9 +3,23 @@
   "abbreviation": "Hebr",
   "chapter": 1,
   "version": 1639954800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Efter at Gud i fortiden havde talt mange gange og på mange måder til fædrene ved profeterne,",
+      "text": "\fEfter at Gud i fortiden havde talt mange gange og på mange måder til fædrene ved profeterne,",
       "number": 1
     },
     {
@@ -21,10 +35,17 @@
       "number": 4
     },
     {
-      "text": "For til hvem af englene har han{T: Gud.} nogen sinde sagt: >>Du er min søn, jeg har født dig i dag?<< og fremdeles: >>Jeg vil være far for ham, og han skal være søn for mig<<?",
+      "text": "For til hvem af englene har han nogen sinde sagt: >>Du er min søn, jeg har født dig i dag?<< og fremdeles: >>Jeg vil være far for ham, og han skal være søn for mig<<?",
       "number": 5
     }
   ],
   "titles": [],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "Gud.",
+      "type": "T",
+      "verse": 5,
+      "position": 31
+    }
+  ]
 }

@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 54,
   "version": 1618351200000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen m.fl.",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Syng med fryd, du ufrugtbare, du, der ikke fødte! Råb med frydesang, ja, råb højt, du, der ikke havde fødselssmerter! Den forladtes børn er nemlig flere end hendes, der har sin mand, siger JHVH.",
+      "text": "\fSyng med fryd, du ufrugtbare, du, der ikke fødte! Råb med frydesang, ja, råb højt, du, der ikke havde fødselssmerter! Den forladtes børn er nemlig flere end hendes, der har sin mand, siger JHVH.",
       "number": 1
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Du elendige, blæst omkuld af stormen! Du, der ikke er trøstet, se, jeg vil lægge dine byggesten i ædelt metalog lægge din grundvold med safirer.",
+      "text": "\fDu elendige, blæst omkuld af stormen! Du, der ikke er trøstet, se, jeg vil lægge dine byggesten i ædelt metalog lægge din grundvold med safirer.",
       "number": 11
     },
     {
@@ -102,7 +112,7 @@
       "text": "Teksten har: >>Blyglans<<",
       "type": "T",
       "verse": 11,
-      "position": 110
+      "position": 111
     },
     {
       "text": "Teksten har: >>Karbunkelstene<<",

@@ -3,9 +3,19 @@
   "abbreviation": "4Mos",
   "chapter": 27,
   "version": 1500328800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Nu trådte Selofkads døtre frem. Han var søn af Hefer, der var søn af Gilead, der var søn af Makir, Manasses søn, af Manasses, Josefs søns slægt. Hans døtre hed: Makla, Noa, Hogla, Milka og Tirsa.",
+      "text": "\fNu trådte Selofkads døtre frem. Han var søn af Hefer, der var søn af Gilead, der var søn af Makir, Manasses søn, af Manasses, Josefs søns slægt. Hans døtre hed: Makla, Noa, Hogla, Milka og Tirsa.",
       "number": 1
     },
     {
@@ -25,7 +35,7 @@
       "number": 5
     },
     {
-      "text": "JHVH sagde således til Moses:",
+      "text": "\fJHVH sagde således til Moses:",
       "number": 6
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "JHVH sagde til Moses: >>Gå op på Abarimbjerget her, og se ud over landet som jeg har givet israelitterne.",
+      "text": "\fJHVH sagde til Moses: >>Gå op på Abarimbjerget her, og se ud over landet som jeg har givet israelitterne.",
       "number": 12
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "Moses sagde til JHVH:",
+      "text": "\fMoses sagde til JHVH:",
       "number": 15
     },
     {

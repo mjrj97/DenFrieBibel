@@ -1,22 +1,36 @@
 import { connection } from '@/src/db/connection';
-import { arrayResult } from '@/src/db/Parser';
+import { arrayResult } from '@/src/db/parser';
 
 const handler = async (req, res) => {
-    let sessionResult = arrayResult(await connection.query('SELECT * FROM Session WHERE SessionID = ?', [req.cookies["session-token"]]));
+    let result = {
+        content: undefined,
+        errors: []
+    };
+    let status = 200;
 
-    let user = null;
+    if (req.method === "GET") {
+        let sessionResult = arrayResult(await connection.query('SELECT * FROM Session WHERE SessionID = ?', [req.cookies["session-token"]]));
 
-    if (sessionResult.length > 0) {
-        let userResult = arrayResult(await connection.query('SELECT * FROM User WHERE UserID = ?', [sessionResult[0].UserID]));
+        let user = null;
 
-        user = {
-            name: userResult[0].Name
+        if (sessionResult.length > 0) {
+            let userResult = arrayResult(await connection.query('SELECT * FROM User WHERE UserID = ?', [sessionResult[0].UserID]));
+
+            user = {
+                name: userResult[0].Name
+            }
         }
+
+        await connection.end();
+        
+        result.content = user;
     }
-
-    await connection.end();
-
-    res.status(200).json(user);
+    else {
+        status = 405; // Method Not Allowed
+        result.errors.push("HTTP " + req.method + " is not a valid method for this API.");
+    }
+    
+    res.status(status).json(result);
 }
 
 export default handler;

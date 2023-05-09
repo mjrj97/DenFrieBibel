@@ -3,9 +3,23 @@
   "abbreviation": "Ruth",
   "chapter": 2,
   "version": 1668034800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "No'omis mand havde en slægtning der var storbonde. Han hørte til Elimeleks slægt\n\t\tog hed Boaz.",
+      "text": "\fNo'omis mand havde en slægtning der var storbonde. Han hørte til Elimeleks slægt\n\t\tog hed Boaz.",
       "number": 1
     },
     {
@@ -29,11 +43,11 @@
       "number": 6
     },
     {
-      "text": "\t\t\t\t\t\t\tHun har sagt:\n\t\t\t\t\t\t\t\t>Må jeg ikke nok følge efter høstfolkene\n\t\t\t\t\t\t\t\t\tog samle op blandt negene?<\n\t\t\t\t\t\t\tHun kom\n\t\t\t\t\t\t\tog har været i gang lige fra i morges og til nu.\n\t\t\t\t\t\tHun har kun været hjemme i en kort middagspause.<<",
+      "text": "\f\t\t\t\t\t\t\tHun har sagt:\n\t\t\t\t\t\t\t\t>Må jeg ikke nok følge efter høstfolkene\n\t\t\t\t\t\t\t\t\tog samle op blandt negene?<\n\t\t\t\t\t\t\tHun kom\n\t\t\t\t\t\t\tog har været i gang lige fra i morges og til nu.\n\t\t\t\t\t\tHun har kun været hjemme i en kort middagspause.<<",
       "number": 7
     },
     {
-      "text": "\t\tDa sagde Boaz til Ruth:\n\t\t\t\t\t>>Hør her,\n\t\t\t\t\t\t\t\t\tmin datter!\n\t\t\t\t\t\t\t\tDu skal ikke gå hen\n\t\t\t\t\t\t\t\t\t\t\tog samle aks på andre marker,\n\t\t\t\t\t\t\t\t\t\tog gå heller ikke herfra.\n\t\t\t\t\t\t\t\t\tHold dig nær til mine unge piger!",
+      "text": "\f\t\tDa sagde Boaz til Ruth:\n\t\t\t\t\t>>Hør her,\n\t\t\t\t\t\t\t\t\tmin datter!\n\t\t\t\t\t\t\t\tDu skal ikke gå hen\n\t\t\t\t\t\t\t\t\t\t\tog samle aks på andre marker,\n\t\t\t\t\t\t\t\t\t\tog gå heller ikke herfra.\n\t\t\t\t\t\t\t\t\tHold dig nær til mine unge piger!",
       "number": 8
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "\t\tBoaz sagde til hende: >>Når det er spisetid,\n\t\t\t\t\tså kom herhen\n\t\t\t\t\t\tog spis af brødet\n\t\t\t\t\t\tog dyp dit stykke i eddiken.<<\n\t\t\t\tHun satte sig ved siden af høstfolkene,\n\t\t\tog han rakte hende ristede korn.\n\t\t\t\tHun spiste\n\t\t\t\tog blev så mæt\n\t\t\t\tat hun levnede.",
+      "text": "\f\t\tBoaz sagde til hende: >>Når det er spisetid,\n\t\t\t\t\tså kom herhen\n\t\t\t\t\t\tog spis af brødet\n\t\t\t\t\t\tog dyp dit stykke i eddiken.<<\n\t\t\t\tHun satte sig ved siden af høstfolkene,\n\t\t\tog han rakte hende ristede korn.\n\t\t\t\tHun spiste\n\t\t\t\tog blev så mæt\n\t\t\t\tat hun levnede.",
       "number": 14
     },
     {
@@ -73,11 +87,11 @@
       "number": 17
     },
     {
-      "text": "\t\t\t\tHun tog det op\n\t\t\t\tog gik ind i byen.\n\t\tHendes svigermor så\n\t\t\t\tdet hun havde samlet,\n\t\t\tog det som hun havde levnet\n\t\t\tda hun var mæt,\n\t\t\t\tserverede hun for hende.",
+      "text": "\f\t\t\t\tHun tog det op\n\t\t\t\tog gik ind i byen.\n\t\tHendes svigermor så\n\t\t\t\tdet hun havde samlet,\n\t\t\tog det som hun havde levnet\n\t\t\tda hun var mæt,\n\t\t\t\tserverede hun for hende.",
       "number": 18
     },
     {
-      "text": "\t\tDa sagde hendes svigermor til hende:\n\t\t\t\t>>Hvor samlede du korn i dag,\n\t\t\t\t\t\thvor arbejdede du?\n\t\t\t\t\tVelsignet være den\n\t\t\tsom tog sig af dig.\n\t\t\t\t\t< Da fortalte hun sin svigermor hvem hun havde været hos:\n\t\t\t\t\t>>Den mand\n\t\t\t\t\t\t\tsom jeg har været hos i dag,\n\t\t\t\t\t\thedder Boaz.<<",
+      "text": "\f\t\tDa sagde hendes svigermor til hende:\n\t\t\t\t>>Hvor samlede du korn i dag,\n\t\t\t\t\t\thvor arbejdede du?\n\t\t\t\t\tVelsignet være den\n\t\t\tsom tog sig af dig.\n\t\t\t\t\t< Da fortalte hun sin svigermor hvem hun havde været hos:\n\t\t\t\t\t>>Den mand\n\t\t\t\t\t\t\tsom jeg har været hos i dag,\n\t\t\t\t\t\thedder Boaz.<<",
       "number": 19
     },
     {

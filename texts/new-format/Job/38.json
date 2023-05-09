@@ -3,9 +3,23 @@
   "abbreviation": "Job",
   "chapter": 38,
   "version": 1642633200000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen og Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH svarede Job ud af stormen og sagde:",
+      "text": "\fJHVH svarede Job ud af stormen og sagde:",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "Hvor var du da jeg lagde jordens fundament? Sig frem, hvis du har indsigt.",
+      "text": "\fHvor var du da jeg lagde jordens fundament? Sig frem, hvis du har indsigt.",
       "number": 4
     },
     {
@@ -157,7 +171,7 @@
       "number": 38
     },
     {
-      "text": "Jager du bytte til en hunløve og mætter de grådige løveunger",
+      "text": "\fJager du bytte til en hunløve og mætter de grådige løveunger",
       "number": 39
     },
     {

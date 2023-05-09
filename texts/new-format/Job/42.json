@@ -3,33 +3,47 @@
   "abbreviation": "Job",
   "chapter": 42,
   "version": 1681336800000,
+  "authors": [
+    {
+      "name": "Lydia Nørrelykke Gad",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Så svarede Job HERREN\n\t\t",
+      "text": "\fSå svarede Job HERREN",
       "number": 1
     },
     {
-      "text": "\t\t\t>>Jeg ved\n\t\t\t\t\t\t\tat du formår alt,\n\t\t\t\t\t\t\t\tog ingen plan er umulig for dig.",
+      "text": "\f\t\t\t>>Jeg ved\n\t\t\t\t\t\t\tat du formår alt,\f\n\t\t\t\t\t\t\t\tog ingen plan er umulig for dig.",
       "number": 2
     },
     {
-      "text": "\t\t\t\t\t\tHvem er det der tilslører råd uden forstand?\n\t\t\t\t\tDog talte jeg,\n\t\t\t\t\t\t\tmen jeg fattede intet,\n\t\t\t\t\t\tdet var for forunderligt for mig,\n\t\t\t\t\t\t\tjeg forstod intet.",
+      "text": "\f\t\t\t\t\t\tHvem er det der tilslører råd uden forstand?\f\n\t\t\t\t\tDog talte jeg,\n\t\t\t\t\t\t\tmen jeg fattede intet,\f\n\t\t\t\t\t\tdet var for forunderligt for mig,\n\t\t\t\t\t\t\tjeg forstod intet.",
       "number": 3
     },
     {
-      "text": "\t\t\t\tHør nu\n\t\t\t\t\t\t\tog jeg vil tale,\n\t\t\t\t\t\tjeg vil spørge dig,\n\t\t\t\t\t\t\tog du må svare mig.",
+      "text": "\f\t\t\t\tHør nu\n\t\t\t\t\t\t\tog jeg vil tale,\f\n\t\t\t\t\t\tjeg vil spørge dig,\n\t\t\t\t\t\t\tog du må svare mig.",
       "number": 4
     },
     {
-      "text": "\t\t\t\t\tJeg hørte et rygte om dig,\n\t\t\t\t\t\t\tmen nu har jeg set dig med egne øjne.",
+      "text": "\f\t\t\t\t\tJeg hørte et rygte om dig,\f\n\t\t\t\t\t\t\tmen nu har jeg set dig med egne øjne.",
       "number": 5
     },
     {
-      "text": "\t\t\t\t\t\tDerfor trækker jeg mine ord tilbage,\n\t\t\t\t\t\t\tog jeg fortryderi støv og aske<<.",
+      "text": "\f\t\t\t\t\t\tDerfor trækker jeg mine ord tilbage,\n\t\t\t\t\t\t\tog jeg fortryder\fi støv og aske<<.",
       "number": 6
     },
     {
-      "text": "\tDa\n\t\t\tHERREN havde talt disse ord til Job,\n\t\tsagde HERREN til Elifaz fra Teman:\n\t\t\t\t>>Jeg er vred på dig og på dine to venner,\n\t\t\t\t\t\tfor I har ikke talt sandt om mig som min tjener Job.",
+      "text": "\f\tDa\n\t\t\tHERREN havde talt disse ord til Job,\n\t\tsagde HERREN til Elifaz fra Teman:\n\t\t\t\t>>Jeg er vred på dig og på dine to venner,\n\t\t\t\t\t\tfor I har ikke talt sandt om mig som min tjener Job.",
       "number": 7
     },
     {
@@ -37,11 +51,11 @@
       "number": 8
     },
     {
-      "text": "\t\t\tDa gik Elifaz fra Teman og Bildad fra Shua og Sofar fra Na’ama,\n\t\t\t\t\tog gjorde\n\t\t\t\t\t\tsom Gud HERREN havde sagt til dem,\n\t\t\t\tog HERREN bønhørte Job.==HERRENS velsignelse over Job==",
+      "text": "\t\t\tDa gik Elifaz fra Teman og Bildad fra Shua og Sofar fra Na’ama,\n\t\t\t\t\tog gjorde\n\t\t\t\t\t\tsom Gud HERREN havde sagt til dem,\n\t\t\t\tog HERREN bønhørte Job.\f==HERRENS velsignelse over Job==",
       "number": 9
     },
     {
-      "text": "\t\t\t\t\tHERREN vendte Jobs trængsel,\n\t\t\t\t\t\tda han gik i forbøn for sine venner.\n\t\t\t\tOg HERREN gav Job alt,\n\t\t\t\t\t\t\t\thvad han havde haft\n\t\t\t\t\t\t\tdobbelt igen.",
+      "text": "\f\t\t\t\t\tHERREN vendte Jobs trængsel,\n\t\t\t\t\t\tda han gik i forbøn for sine venner.\n\t\t\t\tOg HERREN gav Job alt,\n\t\t\t\t\t\t\t\thvad han havde haft\n\t\t\t\t\t\t\tdobbelt igen.",
       "number": 10
     },
     {
@@ -88,43 +102,43 @@
       "text": "Ordret: >>skjuler, fordunkler<<.",
       "type": "T",
       "verse": 3,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Ordret: >>kundgøre, belære<<.",
       "type": "T",
       "verse": 4,
-      "position": 82
+      "position": 84
     },
     {
       "text": "Ordret: >>mit øje har set dig<<.",
       "type": "T",
       "verse": 5,
-      "position": 76
+      "position": 78
     },
     {
       "text": "Ordret: >>foragter<<, dvs. foragter det sagte, >>mine ord<< er tilføjet.",
       "type": "T",
       "verse": 6,
-      "position": 20
+      "position": 21
     },
     {
       "text": "Samme verbum anvendt i Jon 3.9 og 10 i samme betydning >>fortryde<<. Verbet kan også oversættes med >>angrer<<.",
       "type": "E",
       "verse": 6,
-      "position": 67
+      "position": 68
     },
     {
       "text": "Ordret: >>min næse blev varm<<.",
       "type": "T",
       "verse": 7,
-      "position": 98
+      "position": 99
     },
     {
       "text": "Kan også oversættes >>talt sandt *til mig*<<, >>talt ret *til mig*<<, *nᵊxônāʰ* ordret: >>det, der står fast<<. Præprositionen *ʔēlay* oversættes oftest >>til mig<<.",
       "type": "E",
       "verse": 7,
-      "position": 162
+      "position": 163
     },
     {
       "text": "*kî ʔim* bruges efter en ed, f.eks. Jer 51.14, 1 Sam 15.21, og kan oversættes ved >>sandelig<<, det kan også her oversættes ved >>for kun<<.",
@@ -160,13 +174,13 @@
       "text": ">>fangenskab<<. Sl 126.1, Klag 2.14 har samme hebraiske ordvalg.",
       "type": "E",
       "verse": 10,
-      "position": 33
+      "position": 34
     },
     {
       "text": "*mišneʰ* kan betyde >>dobbelt<<, >>kopi<<, >>anden<<.",
       "type": "E",
       "verse": 10,
-      "position": 146
+      "position": 147
     },
     {
       "text": "Det er en mønt, som vi kender fra patriarktiden(1 Mos 33.19, Jos 24.32). Vi kender ikke noget til værdien af en kesita.",

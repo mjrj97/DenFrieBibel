@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 37,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Og det skete, da kong Ezekias hørte det, så flængede han sit tøj og tog sæk på og gik ind i JHVHs hus.",
+      "text": "\fOg det skete, da kong Ezekias hørte det, så flængede han sit tøj og tog sæk på og gik ind i JHVHs hus.",
       "number": 1
     },
     {
@@ -21,7 +31,7 @@
       "number": 4
     },
     {
-      "text": "Da kong Ezekias' tjenere kom til Esajas,",
+      "text": "\fDa kong Ezekias' tjenere kom til Esajas,",
       "number": 5
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Og Ezekias tog brevene af budbringernes hånd og læste dem; og han gik op til JHVHs hus, og Ezekias bredte dem ud for JHVHs ansigt.",
+      "text": "\fOg Ezekias tog brevene af budbringernes hånd og læste dem; og han gik op til JHVHs hus, og Ezekias bredte dem ud for JHVHs ansigt.",
       "number": 14
     },
     {
@@ -85,7 +95,7 @@
       "number": 20
     },
     {
-      "text": "Da sendte Esajas, Amoz' søn, bud til Ezekias og lod sige: >>Sådan siger JHVH, Israels Gud: Du har bedt til mig om Senakerib, assyrerkongen.<<",
+      "text": "\fDa sendte Esajas, Amoz' søn, bud til Ezekias og lod sige: >>Sådan siger JHVH, Israels Gud: Du har bedt til mig om Senakerib, assyrerkongen.<<",
       "number": 21
     },
     {
@@ -145,7 +155,7 @@
       "number": 35
     },
     {
-      "text": "Da fór JHVHs engel ud og dræbte 185.000 mand i Assyrernes lejr; og da man stod tidligt op om morgenen, se, da var de alle sammen døde kroppe.",
+      "text": "\fDa fór JHVHs engel ud og dræbte 185.000 mand i Assyrernes lejr; og da man stod tidligt op om morgenen, se, da var de alle sammen døde kroppe.",
       "number": 36
     },
     {

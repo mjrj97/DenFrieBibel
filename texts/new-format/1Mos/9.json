@@ -3,9 +3,23 @@
   "abbreviation": "1Mos",
   "chapter": 9,
   "version": 1631224800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Og Gud sagde: >>Dette er tegnet på den pagt som jeg slutter mellem mig og jer og hver levende sjæl som er hos jer, til evig tid.",
+      "text": "\fOg Gud sagde: >>Dette er tegnet på den pagt som jeg slutter mellem mig og jer og hver levende sjæl som er hos jer, til evig tid.",
       "number": 12
     },
     {
@@ -35,7 +49,7 @@
       "text": "Ordret: >>giver<<.",
       "type": "T",
       "verse": 12,
-      "position": 59
+      "position": 60
     }
   ]
 }

@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 31,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 1
     },
     {
@@ -49,7 +59,7 @@
       "number": 11
     },
     {
-      "text": "JHVH talte til Moses og sagde:",
+      "text": "\fJHVH talte til Moses og sagde:",
       "number": 12
     },
     {
@@ -73,7 +83,7 @@
       "number": 17
     },
     {
-      "text": "Og  da han var færdig med at tale med Moses på Sinajs bjerg, gav han ham Vidnesbyrdets to tavler, stentavler beskrevne med Guds finger.",
+      "text": "\fOg  da han var færdig med at tale med Moses på Sinajs bjerg, gav han ham Vidnesbyrdets to tavler, stentavler beskrevne med Guds finger.",
       "number": 18
     }
   ],

@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 30,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Ve de genstridige børn,  siger JHVH, dem, der tager beslutninger, som ikke er fra mig, og slutter pagt, men ikke efter min Ånd, og som føjer synd til synd!",
+      "text": "\fVe de genstridige børn,  siger JHVH, dem, der tager beslutninger, som ikke er fra mig, og slutter pagt, men ikke efter min Ånd, og som føjer synd til synd!",
       "number": 1
     },
     {
@@ -33,7 +43,7 @@
       "number": 7
     },
     {
-      "text": "Kom nu, skriv det på en tavle for dem, og optegn det i en bog, så det kan stå der til den kommende dag, altid, til evig tid.",
+      "text": "\fKom nu, skriv det på en tavle for dem, og optegn det i en bog, så det kan stå der til den kommende dag, altid, til evig tid.",
       "number": 8
     },
     {
@@ -73,7 +83,7 @@
       "number": 17
     },
     {
-      "text": "Og derfor venter JHVH, indtil han kan benåde jer, og derfor holder han sig i det høje, indtil han kan forbarme sig over jer; for JHVH er dommens Gud, salige er alle, der venter på ham.",
+      "text": "\fOg derfor venter JHVH, indtil han kan benåde jer, og derfor holder han sig i det høje, indtil han kan forbarme sig over jer; for JHVH er dommens Gud, salige er alle, der venter på ham.",
       "number": 18
     },
     {
@@ -105,7 +115,7 @@
       "number": 26
     },
     {
-      "text": "Se, JHVHs navn kommer langvejs fra, hans vrede brænder, og mægtigt hæver den sig; hans læber er fulde af harme, og hans tunge er som en fortærende ild.",
+      "text": "\fSe, JHVHs navn kommer langvejs fra, hans vrede brænder, og mægtigt hæver den sig; hans læber er fulde af harme, og hans tunge er som en fortærende ild.",
       "number": 27
     },
     {

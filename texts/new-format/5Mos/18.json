@@ -3,9 +3,23 @@
   "abbreviation": "5Mos",
   "chapter": 18,
   "version": 1614294000000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Claus Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Når du kommer til det land som JHVH din Gud giver dig, skal du ikke tage ved lære og gøre disse folks afskyeligheder.",
+      "text": "\fNår du kommer til det land som JHVH din Gud giver dig, skal du ikke tage ved lære og gøre disse folks afskyeligheder.",
       "number": 9
     },
     {
@@ -29,7 +43,7 @@
       "number": 14
     },
     {
-      "text": "JHVH din Gud vil oprejse dig en profet af din midte, af dine brødre, en som mig; ham skal I høre på.",
+      "text": "\fJHVH din Gud vil oprejse dig en profet af din midte, af dine brødre, en som mig; ham skal I høre på.",
       "number": 15
     }
   ],

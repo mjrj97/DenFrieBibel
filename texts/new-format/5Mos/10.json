@@ -3,9 +3,23 @@
   "abbreviation": "5Mos",
   "chapter": 10,
   "version": 1641942000000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "For JHVH jeres Gud er gudernes Gud og herrenes Herre, den store, den mægtige og den frygtindgydende Gud, som ikke er partisk og ikke tager imod bestikkelse,",
+      "text": "\fFor JHVH jeres Gud er gudernes Gud og herrenes Herre, den store, den mægtige og den frygtindgydende Gud, som ikke er partisk og ikke tager imod bestikkelse,",
       "number": 17
     },
     {
@@ -21,10 +35,17 @@
       "number": 20
     },
     {
-      "text": "Han er din lovsang, og han er din Gud, som for dig{T: Meningen er formodentlig: >>i dit nærvær<<.} har gjort disse store og frygtindgydende ting som dine øjne har set.",
+      "text": "Han er din lovsang, og han er din Gud, som for dig har gjort disse store og frygtindgydende ting som dine øjne har set.",
       "number": 21
     }
   ],
   "titles": [],
-  "footnotes": []
+  "footnotes": [
+    {
+      "text": "Meningen er formodentlig: >>i dit nærvær<<.",
+      "type": "T",
+      "verse": 21,
+      "position": 50
+    }
+  ]
 }

@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 5,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Derefter gik Moses og Aron til Farao og sagde: >>Så siger JHVH, Israels Gud: Lad mit folk gå så de kan holde fest for mig i ørkenen.<<",
+      "text": "\fDerefter gik Moses og Aron til Farao og sagde: >>Så siger JHVH, Israels Gud: Lad mit folk gå så de kan holde fest for mig i ørkenen.<<",
       "number": 1
     },
     {
@@ -93,7 +107,7 @@
       "number": 22
     },
     {
-      "text": "For siden jeg gik til Farao for at tale i dit navn, har han handlet ondt mod dette folk, og du har ingenlunde{T: Den hebraiske tekst har verbet *nṣl* (>>befri<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} befriet dit folk<<.",
+      "text": "For siden jeg gik til Farao for at tale i dit navn, har han handlet ondt mod dette folk, og du har ingenlunde befriet dit folk<<.",
       "number": 23
     }
   ],
@@ -151,6 +165,12 @@
       "type": "T",
       "verse": 21,
       "position": 61
+    },
+    {
+      "text": "Den hebraiske tekst har verbet *nṣl* (>>befri<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+      "type": "T",
+      "verse": 23,
+      "position": 109
     }
   ]
 }

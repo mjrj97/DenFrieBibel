@@ -3,9 +3,23 @@
   "abbreviation": "Ruth",
   "chapter": 1,
   "version": 1668034800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "exegetic layout"
+    }
+  ],
   "verses": [
     {
-      "text": "På den tid\n\t\thvor dommerne virkede\n\tvar der hungersnød i landet,\n\tog en mand fra Betlehem i Juda\n\t\t\t\t\trejste til Moabs land for at slå sig ned der\n\t\t\t\tsammen med sin hustru og deres to sønner.",
+      "text": "\fPå den tid\n\t\thvor dommerne virkede\n\tvar der hungersnød i landet,\n\tog en mand fra Betlehem i Juda\n\t\t\t\t\trejste til Moabs land for at slå sig ned der\n\t\t\t\tsammen med sin hustru og deres to sønner.",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "\t\tDa besluttede hun og hendes svigerdøtre sig\n\t\t\t\t\tfor at vende tilbage fra Moabs land.\n\t\t\t\tFor i Moab havde hun hørt\n\t\t\t\t\tat JHVH havde besøgt sit folk\n\t\t\t\t\t\tog givet dem brød.",
+      "text": "\f\t\tDa besluttede hun og hendes svigerdøtre sig\n\t\t\t\t\tfor at vende tilbage fra Moabs land.\n\t\t\t\tFor i Moab havde hun hørt\n\t\t\t\t\tat JHVH havde besøgt sit folk\n\t\t\t\t\t\tog givet dem brød.",
       "number": 6
     },
     {
@@ -77,7 +91,7 @@
       "number": 18
     },
     {
-      "text": "\t\t\t\t\tDe gik begge\n\t\t\t\t\t\ttil Betlehem.\n\t\t\t\t\tDa\n\t\t\t\t\t\t\tde kom til Betlehem,\n\t\t\t\t\t\tblev der opstandelse i hele byen,\n\t\t\t\t\t\t\tog de sagde:\n\t\t\t\t\t\t\t\t\t>>Er det ikke No'omi?<<",
+      "text": "\f\t\t\t\t\tDe gik begge\n\t\t\t\t\t\ttil Betlehem.\n\t\t\t\t\tDa\n\t\t\t\t\t\t\tde kom til Betlehem,\n\t\t\t\t\t\tblev der opstandelse i hele byen,\n\t\t\t\t\t\t\tog de sagde:\n\t\t\t\t\t\t\t\t\t>>Er det ikke No'omi?<<",
       "number": 19
     },
     {
@@ -112,13 +126,13 @@
       "text": "*šōfᵊṭîm* >>dommere<< bibeholdes men verbet *šᵊfōṭ* >>dømme<< oversættes ikke med >>dømme<<, fordi dommerne ikke først og fremmest fungerede i retssalen, men mere var ledere af befrielseskampene.",
       "type": "E",
       "verse": 1,
-      "position": 34
+      "position": 35
     },
     {
       "text": "Udtrykket betyder at >>skaffe mad<<, men ved at bevare >>brød<< er det muligt at se en allusion til Bet-lehem >>brødets hus<<",
       "type": "T",
       "verse": 6,
-      "position": 176
+      "position": 177
     },
     {
       "text": "1871 har >>gøre Miskundhed<<. En mulighed her er >>vise sin trofaste kærlighed<<",

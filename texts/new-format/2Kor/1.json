@@ -3,9 +3,23 @@
   "abbreviation": "2Kor",
   "chapter": 1,
   "version": 1542582000000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Paulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus til Guds menighed, der er i Korinth, sammen med alle de hellige, der er i hele Akaja:",
+      "text": "\fPaulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus til Guds menighed, der er i Korinth, sammen med alle de hellige, der er i hele Akaja:",
       "number": 1
     },
     {
@@ -13,7 +27,7 @@
       "number": 2
     },
     {
-      "text": "Lovet være Gud og vor Herres Jesu Kristi Far, barmhjertighedens Far og al trøsts Gud,",
+      "text": "\fLovet være Gud og vor Herres Jesu Kristi Far, barmhjertighedens Far og al trøsts Gud,",
       "number": 3
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "For vi vil ikke, brødre, at I skal være uvidende om den trængsel, der ramte os i Asien, at vi led overlast, over evne, så at vi endda mistede troen på livet.",
+      "text": "\fFor vi vil ikke, brødre, at I skal være uvidende om den trængsel, der ramte os i Asien, at vi led overlast, over evne, så at vi endda mistede troen på livet.",
       "number": 8
     },
     {
@@ -49,7 +63,7 @@
       "number": 11
     },
     {
-      "text": "For det er vores ros, vores samvittigheds vidnesbyrd, at det var i i Guds hellighed og renhed, ikke i kødelig visdom, men i Guds nåde, at vi er færdedes i verden, men mest hos jer.",
+      "text": "\fFor det er vores ros, vores samvittigheds vidnesbyrd, at det var i i Guds hellighed og renhed, ikke i kødelig visdom, men i Guds nåde, at vi er færdedes i verden, men mest hos jer.",
       "number": 12
     },
     {
@@ -61,7 +75,7 @@
       "number": 14
     },
     {
-      "text": "Og i tillid til det havde jeg i sinde at komme først til jer, for at I skulle få nåde to gange,",
+      "text": "\fOg i tillid til det havde jeg i sinde at komme først til jer, for at I skulle få nåde to gange,",
       "number": 15
     },
     {
@@ -93,7 +107,7 @@
       "number": 22
     },
     {
-      "text": "Men jeg kalder Gud til vidne over min sjæl på, at det var for at skåne jer, at jeg ikke kom til Korinth igen.",
+      "text": "\fMen jeg kalder Gud til vidne over min sjæl på, at det var for at skåne jer, at jeg ikke kom til Korinth igen.",
       "number": 23
     },
     {

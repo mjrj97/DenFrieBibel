@@ -3,9 +3,19 @@
   "abbreviation": "2Mos",
   "chapter": 34,
   "version": 1616022000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "JHVH sagde til Moses: >>Tilhug dig to stentavler ligesom de første, så vil jeg på tavlerne skrive de ord som var på de første tavler som du knuste.",
+      "text": "\fJHVH sagde til Moses: >>Tilhug dig to stentavler ligesom de første, så vil jeg på tavlerne skrive de ord som var på de første tavler som du knuste.",
       "number": 1
     },
     {
@@ -45,7 +55,7 @@
       "number": 10
     },
     {
-      "text": "Hold du det, som jeg befaler dig i dag. Se, jeg vil drive amoritterne, kana’anæerne, hittitterne, perizzitterne, hivvitterne og jebusitterne bort foran dig.",
+      "text": "\fHold du det, som jeg befaler dig i dag. Se, jeg vil drive amoritterne, kana’anæerne, hittitterne, perizzitterne, hivvitterne og jebusitterne bort foran dig.",
       "number": 11
     },
     {
@@ -73,7 +83,7 @@
       "number": 17
     },
     {
-      "text": "Du skal holde de usyrede brøds fest, i syv dage skal du spise usyrede brød som jeg har befalet dig med hensyn til den fastsatte tid i abib måned; for i abib måned drog du ud af Egypten.",
+      "text": "\fDu skal holde de usyrede brøds fest, i syv dage skal du spise usyrede brød som jeg har befalet dig med hensyn til den fastsatte tid i abib måned; for i abib måned drog du ud af Egypten.",
       "number": 18
     },
     {
@@ -109,7 +119,7 @@
       "number": 26
     },
     {
-      "text": "JHVH sagde til Moses: >>Skriv dig disse ord; for på grundlag af disse ord har jeg sluttet en pagt med dig og med Israel.<<",
+      "text": "\fJHVH sagde til Moses: >>Skriv dig disse ord; for på grundlag af disse ord har jeg sluttet en pagt med dig og med Israel.<<",
       "number": 27
     },
     {
@@ -117,7 +127,7 @@
       "number": 28
     },
     {
-      "text": "Men da Moses kom ned fra Sinajs bjerg, og vidnesbyrdets to tavler var i Moses’ hånd, da han kom ned fra bjerget, da vidste Moses ikke at hans ansigts hud skinnede fordi han havde talt med ham.",
+      "text": "\fMen da Moses kom ned fra Sinajs bjerg, og vidnesbyrdets to tavler var i Moses’ hånd, da han kom ned fra bjerget, da vidste Moses ikke at hans ansigts hud skinnede fordi han havde talt med ham.",
       "number": 29
     },
     {
@@ -208,7 +218,7 @@
       "text": "Ordret: >>bort fra dit ansigt<<.",
       "type": "T",
       "verse": 11,
-      "position": 156
+      "position": 157
     },
     {
       "text": "Ordret: >>med en landets indbygger<<.",
@@ -262,7 +272,7 @@
       "text": "det er JHVH.",
       "type": "E",
       "verse": 29,
-      "position": 192
+      "position": 193
     }
   ]
 }

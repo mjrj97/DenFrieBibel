@@ -3,61 +3,75 @@
   "abbreviation": "Sl",
   "chapter": 65,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Til korlederen.Salme af David. En sang.",
+      "text": "\fTil korlederen.\fSalme af David. En sang.",
       "number": 1
     },
     {
-      "text": "Lovprisning tilkommer dig,Gud på Zion,og til dig indfrier man løfter.",
+      "text": "\fLovprisning tilkommer dig,\fGud på Zion,\fog til dig indfrier man løfter.",
       "number": 2
     },
     {
-      "text": "Du som hører bøn,til dig kan alle mennesker komme.",
+      "text": "\fDu som hører bøn,\ftil dig kan alle mennesker komme.",
       "number": 3
     },
     {
-      "text": "Syndernes byrde er blevet for tung for mig,vore overtrædelser, dem vil du tilgive!",
+      "text": "\fSyndernes byrde er blevet for tung for mig,\fvore overtrædelser, dem vil du tilgive!",
       "number": 4
     },
     {
-      "text": "Lykkelig er den som du udvælger og lader komme nær,så han må bo i dine forgårde.Vi skal mættes med godhed i dit hus,dit hellige tempel.",
+      "text": "\fLykkelig er den som du udvælger og lader komme nær,\fså han må bo i dine forgårde.\fVi skal mættes med godhed i dit hus,\fdit hellige tempel.",
       "number": 5
     },
     {
-      "text": "Med frygtindgydende gerninger svarer du os i retfærdighed,vor frelses Gud,du som er tilflugt for alle jordens enderog for det fjerneste hav.",
+      "text": "\fMed frygtindgydende gerninger svarer du os i retfærdighed,\fvor frelses Gud,\fdu som er tilflugt for alle jordens ender\fog for det fjerneste hav.",
       "number": 6
     },
     {
-      "text": "Han som grundfæster bjergene i sin kraft,væbnet med styrke;",
+      "text": "\fHan som grundfæster bjergene i sin kraft,\fvæbnet med styrke;",
       "number": 7
     },
     {
-      "text": "han som stiller havenes brusen,deres bølgers brusen og folkenes larm.",
+      "text": "\fhan som stiller havenes brusen,\fderes bølgers brusen og folkenes larm.",
       "number": 8
     },
     {
-      "text": "Så de som bor ved verdens ender, skal frygte for dine tegn,du får øst og vest til at juble.",
+      "text": "\fSå de som bor ved verdens ender, skal frygte for dine tegn,\fdu får øst og vest til at juble.",
       "number": 9
     },
     {
-      "text": "Du har taget dig af landet og givet det overflod,du gør det meget rigt;Guds bæk er fuld af vand,du sørger for deres korn,for sådan lægger du det til rette.",
+      "text": "\fDu har taget dig af landet og givet det overflod,\fdu gør det meget rigt;\fGuds bæk er fuld af vand,\fdu sørger for deres korn,\ffor sådan lægger du det til rette.",
       "number": 10
     },
     {
-      "text": "Idet du vander dets plovfurer,jævner pløjejordens klumper,blødgør du jorden med regnskyl,du velsigner dens afgrøde.",
+      "text": "\fIdet du vander dets plovfurer,\fjævner pløjejordens klumper,\fblødgør du jorden med regnskyl,\fdu velsigner dens afgrøde.",
       "number": 11
     },
     {
-      "text": "Du har kronet året med dine gode gaver,og dine spor skal drive af fedme.",
+      "text": "\fDu har kronet året med dine gode gaver,\fog dine spor skal drive af fedme.",
       "number": 12
     },
     {
-      "text": "Græsgange i ørken skal dryppe,og højene skal klæde sig i jubel.",
+      "text": "\fGræsgange i ørken skal dryppe,\fog højene skal klæde sig i jubel.",
       "number": 13
     },
     {
-      "text": "Engene er klædt med småkvæget,og dalene skal dække sig til med korn.De skal juble, ja, synge.",
+      "text": "\fEngene er klædt med småkvæget,\fog dalene skal dække sig til med korn.\fDe skal juble, ja, synge.",
       "number": 14
     }
   ],
@@ -84,97 +98,97 @@
       "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
       "type": "E",
       "verse": 1,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Ordret: >>For dig er stilhed en lovprisning<< eller: >>For dig er der stilhed, lovprisning<<. Da der i det følgende ikke er tale om stilhed, men hørlig lovprisning, følger man oftest Septuaginta og den gamle syriske oversættelse og retter vokaliseringen af *dumiyyāʰ* (>>stilhed<<) til *dōmiyyāʰ*: >>det der tilkommer en<<.",
       "type": "E",
       "verse": 2,
-      "position": 26
+      "position": 27
     },
     {
       "text": "Ordret: >>alt kød<<",
       "type": "T",
       "verse": 3,
-      "position": 43
+      "position": 45
     },
     {
       "text": "Ordret: >>sag, anliggende<<.",
       "type": "T",
       "verse": 4,
-      "position": 15
+      "position": 16
     },
     {
       "text": "Mange oversættere vælger at dele v.3-4 anderledes, så oversættelsen lyder: >>Du hører bøn. / Til dig kan alle mennesker komme / for deres synders skyld. / Vore overtrædelser er blevet for tunge for os, / men du tilgiver dem<<. Ordet >>skyld<< har dog ikke støtte i den hebraiske tekst. Andre foreslår: >>Du som hører bøn. / Til dig bringer alle mennesker / deres synders byrde. / Vore overtrædelser …<< (men *yāvōʔû* (>>kan komme<<) må da rettes til * yāvîʔû*: >>bringer<<).",
       "type": "E",
       "verse": 4,
-      "position": 82
+      "position": 84
     },
     {
       "text": "Tidligere oversat: >>salig<<.",
       "type": "T",
       "verse": 5,
-      "position": 8
+      "position": 9
     },
     {
       "text": "Ordret: >>dit tempels helligdom<<.",
       "type": "T",
       "verse": 5,
-      "position": 135
+      "position": 139
     },
     {
       "text": "*yām* (>>hav<<) står i singularis, mens *rᵊḥōqîm* (>>fjerne<<) står i pluralis, der formentlig betegner superlativ. Ellers kan der oversættes: >>for de fjerne egnes hav<<.",
       "type": "E",
       "verse": 6,
-      "position": 140
+      "position": 144
     },
     {
       "text": "Ordret: >>omgjordet<<.",
       "type": "T",
       "verse": 7,
-      "position": 47
+      "position": 49
     },
     {
       "text": "Ordret: >>de yderste<<.",
       "type": "T",
       "verse": 9,
-      "position": 32
+      "position": 33
     },
     {
       "text": "Ordret: >>morgenens og aftenens udgangssted<<.",
       "type": "T",
       "verse": 9,
-      "position": 77
+      "position": 79
     },
     {
       "text": "Andre oversætter: >>givet regn<<, men grundbetydningen er formodentlig: >>lade strømme over<<.",
       "type": "T",
       "verse": 10,
-      "position": 49
+      "position": 50
     },
     {
       "text": "Verberne i verset kan enten læses som infinitiv absolutus (denne oversættelse, ordret: >>vandende<<) eller som imperativ.",
       "type": "T",
       "verse": 11,
-      "position": 14
+      "position": 15
     },
     {
       "text": "Ordret blot: >>den<<, der viser tilbage til v.10, hvor *hāʔāreṣ* blev oversat: >>landet<<, men også kan betyde: >>jorden<<, om end det ikke specifikt er agerjorden.",
       "type": "E",
       "verse": 11,
-      "position": 75
+      "position": 78
     },
     {
       "text": "Ordret: >>Du har kronet din godheds år<<.",
       "type": "T",
       "verse": 12,
-      "position": 39
+      "position": 40
     },
     {
       "text": "Ordret: >>omgjorde sig<<, jævnfør v.7.",
       "type": "T",
       "verse": 13,
-      "position": 54
+      "position": 56
     }
   ]
 }

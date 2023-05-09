@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 48,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Hør dette, Jakobs hus! I, der er kaldt med Israels navn, og der er kommet af Judas kilde, I, der sværger ved JHVHs navn og priser Israels Gud, men ikke i sandhed og i retfærdighed!",
+      "text": "\fHør dette, Jakobs hus! I, der er kaldt med Israels navn, og der er kommet af Judas kilde, I, der sværger ved JHVHs navn og priser Israels Gud, men ikke i sandhed og i retfærdighed!",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "For mit navns skyld vil jeg udsætte min vrede, og for min æres skyld holder jeg min vrede imod dig tilbage, for at jeg ikke skal udrydde dig.",
+      "text": "\fFor mit navns skyld vil jeg udsætte min vrede, og for min æres skyld holder jeg min vrede imod dig tilbage, for at jeg ikke skal udrydde dig.",
       "number": 9
     },
     {
@@ -57,7 +67,7 @@
       "number": 13
     },
     {
-      "text": "Saml jer, alle sammen, og hør! Hvem iblandt dem har forkyndt disse ting: Den, JHVH elsker, skal handle efter hans behag imod Babylon og lade hans arm blive kendt imod kaldæerne.",
+      "text": "\fSaml jer, alle sammen, og hør! Hvem iblandt dem har forkyndt disse ting: Den, JHVH elsker, skal handle efter hans behag imod Babylon og lade hans arm blive kendt imod kaldæerne.",
       "number": 14
     },
     {
@@ -65,7 +75,7 @@
       "number": 15
     },
     {
-      "text": "Kom herhen til mig, hør dette! Fra begyndelsen har jeg ikke talt i det skjulte, fra den tid, det blev til, er jeg der; og nu har Herren JHVH sendt mig og sin Ånd.",
+      "text": "\fKom herhen til mig, hør dette! Fra begyndelsen har jeg ikke talt i det skjulte, fra den tid, det blev til, er jeg der; og nu har Herren JHVH sendt mig og sin Ånd.",
       "number": 16
     },
     {
@@ -81,7 +91,7 @@
       "number": 19
     },
     {
-      "text": "Forlad Babylon, flygt fra kaldæerne; forkynd dette og lad det lyde med frydefuld sangstemme, bring det ud lige til jordens ende, sig: >>JHVH har løskøbt sin tjener Jakob.<<",
+      "text": "\fForlad Babylon, flygt fra kaldæerne; forkynd dette og lad det lyde med frydefuld sangstemme, bring det ud lige til jordens ende, sig: >>JHVH har løskøbt sin tjener Jakob.<<",
       "number": 20
     },
     {
@@ -104,13 +114,13 @@
       "text": "nemlig afguderne",
       "type": "T",
       "verse": 14,
-      "position": 48
+      "position": 49
     },
     {
       "text": "dvs. Kyros",
       "type": "T",
       "verse": 14,
-      "position": 91
+      "position": 92
     }
   ]
 }

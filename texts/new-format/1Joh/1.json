@@ -3,9 +3,23 @@
   "abbreviation": "1Joh",
   "chapter": 1,
   "version": 1646002800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Det som var fra begyndelsen, det vi har hørt, det vi har set med vores egne øjne, det vi betragtede, og vores hænder følte på, nemlig om livets ord",
+      "text": "\fDet som var fra begyndelsen, det vi har hørt, det vi har set med vores egne øjne, det vi betragtede, og vores hænder følte på, nemlig om livets ord",
       "number": 1
     },
     {
@@ -17,7 +31,7 @@
       "number": 3
     },
     {
-      "text": "Dette er det budskab som vi har hørt af ham og forkynder for jer: at Gud er lys, og der er slet intet mørke i ham.",
+      "text": "\fDette er det budskab som vi har hørt af ham og forkynder for jer: at Gud er lys, og der er slet intet mørke i ham.",
       "number": 5
     },
     {

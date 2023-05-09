@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 27,
   "version": 1614207600000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": ">>Du skal lave alteret af akacietræ, fem alen langt og fem alen bredt; alteret skal være kvadratisk og dets højde tre alen.",
+      "text": "\f>>Du skal lave alteret af akacietræ, fem alen langt og fem alen bredt; alteret skal være kvadratisk og dets højde tre alen.",
       "number": 1
     },
     {
@@ -37,7 +51,7 @@
       "number": 8
     },
     {
-      "text": ">>Du skal også lave en forgård til boligen: Ved den søndre side, mod syd, forhæng til forgården af tvundet, fint linned, hundred alen langt på den ene side;",
+      "text": "\f>>Du skal også lave en forgård til boligen: Ved den søndre side, mod syd, forhæng til forgården af tvundet, fint linned, hundred alen langt på den ene side;",
       "number": 9
     },
     {
@@ -81,11 +95,11 @@
       "number": 19
     },
     {
-      "text": ">>Og du skal pålægge Israels børn at de skal skaffe dig ren, knust olivenolie til lysestagen, så man kan sætte en evig lampe frem.",
+      "text": "\f>>Og du skal pålægge Israels børn at de skal skaffe dig ren, knust olivenolie til lysestagen, så man kan sætte en evig lampe frem.",
       "number": 20
     },
     {
-      "text": "I forsamlingsteltet{E: Ordret: >>mødeteltet<<. Det er teltet, hvor JHVH møder folket. Nif’al af verbet *yʕd* skal i flere sammenhænge oversættes: >>møde/komme sammen<<, men om Gud oversættes det oftest: >>åbenbare sig<< (25,22).} uden for forhænget som hænger foran Vidnesbyrdet, skal Aron og hans sønner gøre den i stand fra aften til morgen for Herrens ansigt; det skal være en evig forordning for deres efterkommere hos Israels børn.<<",
+      "text": "I forsamlingsteltet uden for forhænget som hænger foran Vidnesbyrdet, skal Aron og hans sønner gøre den i stand fra aften til morgen for Herrens ansigt; det skal være en evig forordning for deres efterkommere hos Israels børn.<<",
       "number": 21
     }
   ],
@@ -150,13 +164,19 @@
       "text": "Af knuste oliven i modsætning til presset olie.",
       "type": "E",
       "verse": 20,
-      "position": 66
+      "position": 67
     },
     {
       "text": "Ordret: >>løfte en evig lampe op<<. Dermed menes der enten, at man tænder den, eller at man sætter lamperne op på den syvarmede lysestage.",
       "type": "T",
       "verse": 20,
-      "position": 130
+      "position": 131
+    },
+    {
+      "text": "Ordret: >>mødeteltet<<. Det er teltet, hvor JHVH møder folket. Nif’al af verbet *yʕd* skal i flere sammenhænge oversættes: >>møde/komme sammen<<, men om Gud oversættes det oftest: >>åbenbare sig<< (25,22).",
+      "type": "E",
+      "verse": 21,
+      "position": 19
     }
   ]
 }

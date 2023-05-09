@@ -3,9 +3,23 @@
   "abbreviation": "Jer",
   "chapter": 23,
   "version": 1645570800000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Dette siger Hærskarers HERRE: >>Hør ikke på profeternes ord når de profeterer for jer, de fylder jer med forkerte forestillinger, de taler efter deres eget hjertes syn, ikke af HERRENS mund.",
+      "text": "\fDette siger Hærskarers HERRE: >>Hør ikke på profeternes ord når de profeterer for jer, de fylder jer med forkerte forestillinger, de taler efter deres eget hjertes syn, ikke af HERRENS mund.",
       "number": 16
     },
     {

@@ -3,25 +3,39 @@
   "abbreviation": "Sl",
   "chapter": 125,
   "version": 1504476000000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Valfartssang.De som stoler på JHVH,er som Zions bjerg,der ikke rokkes, der består til evig tid.",
+      "text": "\fValfartssang.\fDe som stoler på JHVH,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
       "number": 1
     },
     {
-      "text": "Jerusalem – der er bjerge omkring den,og JHVH er omkring sit folkfra nu af og til evig tid.",
+      "text": "\fJerusalem – der er bjerge omkring den,\fog JHVH er omkring sit folk\ffra nu af og til evig tid.",
       "number": 2
     },
     {
-      "text": "For uretfærdighedens scepter skal ikke hvileover de retfærdiges arvelodfor at de retfærdige ikke skal rækkederes hænder til uretfærdighed.",
+      "text": "\fFor uretfærdighedens scepter skal ikke hvile\fover de retfærdiges arvelod\ffor at de retfærdige ikke skal række\fderes hænder til uretfærdighed.",
       "number": 3
     },
     {
-      "text": "Gør vel, JHVHv, mod de godeog mod dem der er oprigtige i deres hjerter.",
+      "text": "\fGør vel, JHVHv, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
       "number": 4
     },
     {
-      "text": "Men dem som slår ind på deres krogede veje,skal JHVH lade fare bort med dem som begår synd.Fred over Israel!",
+      "text": "\fMen dem som slår ind på deres krogede veje,\fskal JHVH lade fare bort med dem som begår synd.\fFred over Israel!",
       "number": 5
     }
   ],
@@ -44,19 +58,19 @@
       "text": "Se note til Sl 120,1.",
       "type": "E",
       "verse": 1,
-      "position": 13
+      "position": 14
     },
     {
       "text": "Ordret: >>omkring hende<<.",
       "type": "T",
       "verse": 2,
-      "position": 38
+      "position": 39
     },
     {
       "text": "Kan også oversættes: >>ugudelighedens<<",
       "type": "T",
       "verse": 3,
-      "position": 20
+      "position": 21
     }
   ]
 }

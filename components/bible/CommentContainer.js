@@ -13,7 +13,7 @@ const CommentContainer = ({ selected }) => {
           response => response.json()
         ).then(
           data => {
-            setComments(data.comments);
+            setComments(data.content.comments);
           }
         );
       }, []);

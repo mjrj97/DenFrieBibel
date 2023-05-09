@@ -3,9 +3,23 @@
   "abbreviation": "Rom",
   "chapter": 12,
   "version": 1641942000000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Jeg formaner jer altså, brødre, ved Guds barmhjertighed, til at bringe jeres legemer som et levende, helligt, Gud velbehageligt offer; dette er jeres åndelige gudsdyrkelse.",
+      "text": "\fJeg formaner jer altså, brødre, ved Guds barmhjertighed, til at bringe jeres legemer som et levende, helligt, Gud velbehageligt offer; dette er jeres åndelige gudsdyrkelse.",
       "number": 1
     },
     {
@@ -25,7 +39,7 @@
       "number": 5
     },
     {
-      "text": "Men fordi vi har forskellige nådegaver efter den nåde som er givet os, for eksempel profeti, da skal man bruge den i overenstemmelse troen;",
+      "text": "\fMen fordi vi har forskellige nådegaver efter den nåde som er givet os, for eksempel profeti, da skal man bruge den i overenstemmelse troen;",
       "number": 6
     },
     {
@@ -95,7 +109,7 @@
       "text": "Det græske ord er fagudtryk for frembæren af ofre.",
       "type": "E",
       "verse": 1,
-      "position": 70
+      "position": 71
     },
     {
       "text": "Til de fattige.",

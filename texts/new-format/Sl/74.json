@@ -3,97 +3,111 @@
   "abbreviation": "Sl",
   "chapter": 74,
   "version": 1500242400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Maskil af Asaf.Hvorfor, Gud, har du forkastet for evigt?Hvorfor ryger din vrede mod din græsgangs hjord?",
+      "text": "\fMaskil af Asaf.\fHvorfor, Gud, har du forkastet for evigt?\fHvorfor ryger din vrede mod din græsgangs hjord?",
       "number": 1
     },
     {
-      "text": "Husk din menighed som du erhvervede i gammel tid,som du forløste til at være stammen på din arvelod,Zions bjerg, som du har taget bolig på.",
+      "text": "\fHusk din menighed som du erhvervede i gammel tid,\fsom du forløste til at være stammen på din arvelod,\fZions bjerg, som du har taget bolig på.",
       "number": 2
     },
     {
-      "text": "Løft dine skridt mod de evige ruiner,alt har fjenden ødelagt i helligdommen!",
+      "text": "\fLøft dine skridt mod de evige ruiner,\falt har fjenden ødelagt i helligdommen!",
       "number": 3
     },
     {
-      "text": "Dine modstandere har brølet midt på dit forsamlingssted,de har sat deres tegn op til tegn.",
+      "text": "\fDine modstandere har brølet midt på dit forsamlingssted,\fde har sat deres tegn op til tegn.",
       "number": 4
     },
     {
-      "text": "Han vil gøre sig kendt, som når man højt hæverøkserne mod et træs tætte grene.",
+      "text": "\fHan vil gøre sig kendt, som når man højt hæver\føkserne mod et træs tætte grene.",
       "number": 5
     },
     {
-      "text": "Og nu - deres udskårne arbejdersmadrede de med økser og brækjern.",
+      "text": "\fOg nu - deres udskårne arbejder\fsmadrede de med økser og brækjern.",
       "number": 6
     },
     {
-      "text": "De satte ild på din helligdom,de har vanhelliget dit navns bolig helt til grunden.",
+      "text": "\fDe satte ild på din helligdom,\fde har vanhelliget dit navns bolig helt til grunden.",
       "number": 7
     },
     {
-      "text": "De sagde i deres hjerte: >>Lad os underkue dem alle.<<de har brændt alle Guds forsamlingssteder i landet.",
+      "text": "\fDe sagde i deres hjerte: >>Lad os underkue dem alle.<<\fde har brændt alle Guds forsamlingssteder i landet.",
       "number": 8
     },
     {
-      "text": "Vi så ikke vore egne tegn,der er ikke mere nogen profet,der er ingen hos os, som ved, hvor længe det skal vare.",
+      "text": "\fVi så ikke vore egne tegn,\fder er ikke mere nogen profet,\fder er ingen hos os, som ved, hvor længe det skal vare.",
       "number": 9
     },
     {
-      "text": "Hvor længe, Gud, skal fjenden spotte?Skal modstanderen foragte dit navn for evigt?",
+      "text": "\fHvor længe, Gud, skal fjenden spotte?\fSkal modstanderen foragte dit navn for evigt?",
       "number": 10
     },
     {
-      "text": "Hvorfor trækker du din hånd tilbage, også din højre hånd?Tag den ud fra det indre af din kappefold, gør ende på det!",
+      "text": "\fHvorfor trækker du din hånd tilbage, også din højre hånd?\fTag den ud fra det indre af din kappefold, gør ende på det!",
       "number": 11
     },
     {
-      "text": "Men Gud er min konge fra ældgammel tidsom skaber frelse midt på jorden.",
+      "text": "\fMen Gud er min konge fra ældgammel tid\fsom skaber frelse midt på jorden.",
       "number": 12
     },
     {
-      "text": "Du bragte havet i oprør med din styrke,du knuste havuhyrers hoveder på vandene.",
+      "text": "\fDu bragte havet i oprør med din styrke,\fdu knuste havuhyrers hoveder på vandene.",
       "number": 13
     },
     {
-      "text": "Du smadrede Livjatans hoveder,du gav dem som føde til et folk, til ørkendyr.",
+      "text": "\fDu smadrede Livjatans hoveder,\fdu gav dem som føde til et folk, til ørkendyr.",
       "number": 14
     },
     {
-      "text": "Du lod kilde og bæk bryde frem,du udtørrede stedserindende floder.",
+      "text": "\fDu lod kilde og bæk bryde frem,\fdu udtørrede stedserindende floder.",
       "number": 15
     },
     {
-      "text": "Din er dagen, din er også natten,du har anbragt lys og sol.",
+      "text": "\fDin er dagen, din er også natten,\fdu har anbragt lys og sol.",
       "number": 16
     },
     {
-      "text": "Du har fastlagt alle jordens grænser,sommer og vinter har du dannet.",
+      "text": "\fDu har fastlagt alle jordens grænser,\fsommer og vinter har du dannet.",
       "number": 17
     },
     {
-      "text": "Husk dette: En fjende spottede, JHVHv,og et tåbeligt folk foragtede dit navn.",
+      "text": "\fHusk dette: En fjende spottede, JHVHv,\fog et tåbeligt folk foragtede dit navn.",
       "number": 18
     },
     {
-      "text": "Giv ikke din turteldues liv til et vilddyr,glem ikke dine hjælpeløses liv for evigt!",
+      "text": "\fGiv ikke din turteldues liv til et vilddyr,\fglem ikke dine hjælpeløses liv for evigt!",
       "number": 19
     },
     {
-      "text": "Tag hensyn til pagten!For landets mørke steder er fulde af voldsboliger.",
+      "text": "\fTag hensyn til pagten!\fFor landets mørke steder er fulde af voldsboliger.",
       "number": 20
     },
     {
-      "text": "Lad ikke den undertrykte vende skamfuld tilbage,den hjælpeløse og fattige skal love dit navn!",
+      "text": "\fLad ikke den undertrykte vende skamfuld tilbage,\fden hjælpeløse og fattige skal love dit navn!",
       "number": 21
     },
     {
-      "text": "Rejs dig, Gud, før din sag,husk hvordan en tåbe håner dig dagen lang.",
+      "text": "\fRejs dig, Gud, før din sag,\fhusk hvordan en tåbe håner dig dagen lang.",
       "number": 22
     },
     {
-      "text": "Glem ikke dine fjenders råb,{T: Ordret:>>røst<<.}dine modstanderes bulder, som bestandig stiger op.",
+      "text": "\fGlem ikke dine fjenders råb,\fdine modstanderes bulder, som bestandig stiger op.",
       "number": 23
     }
   ],
@@ -120,115 +134,121 @@
       "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
       "type": "E",
       "verse": 1,
-      "position": 6
+      "position": 7
     },
     {
       "text": "Spørgepartiklen >>hvorfor<< står ikke her i grundteksten, men linjen er stadig afhængig af partiklen i første linje, og den er derfor gentaget her af forståelsesmæssige grunde.",
       "type": "T",
       "verse": 1,
-      "position": 63
+      "position": 66
     },
     {
       "text": "Ordret: >>din arvs stamme<<.",
       "type": "T",
       "verse": 2,
-      "position": 100
+      "position": 102
     },
     {
       "text": "Oversættes undertiden: >>åbenbaringssted<<, da ordet *môʕēd* i 2 Mosebog betegner >>Åbenbarings(teltet)<<.",
       "type": "E",
       "verse": 4,
-      "position": 56
+      "position": 57
     },
     {
       "text": "Det kan være bannere, altre, afgudsbilleder osv.",
       "type": "E",
       "verse": 4,
-      "position": 90
+      "position": 92
     },
     {
       "text": "Verset er stærkt omdiskuteret. Problemet er især verbet: *yiwwādaʕ* (>>han vil gøre sig kendt<<). >>Han<< må være fjenden. Oversættelsen: >>det ser ud<< kan forsvares. De fleste oversættere og fortolkere vælger at rette til: *yigdᵉʕû*: >>de fældede<<.",
       "type": "E",
       "verse": 5,
-      "position": 23
+      "position": 24
     },
     {
       "text": "Versets første ord, *wᵊʕattā*, er omdiskuteret. Konsonanterne forudsætter at det skal være: *wᵊʕēt*: >>og et tidspunkt<<, mens vokalerne angiver: >>og nu<<. Blandt rettelsesforslagene er især: *kittᵊtû*: >>de fældede<< eller: *wᵊʔēt*: >>og<< + akkusativmærket (>>og deres udskårne arbejder …<<).",
       "type": "E",
       "verse": 6,
-      "position": 5
+      "position": 6
     },
     {
       "text": "Ordret: >>til jorden<<. Meningen er formodentlig enten at helligdommen blev totalt vanhelliget, eller at den blev brudt ned til grunden, eller begge dele.",
       "type": "T",
       "verse": 7,
-      "position": 82
+      "position": 84
     },
     {
       "text": "*nînām* betyder ordret: >>deres slægt<<. Men man vokaliserer som regel: *nînēm*: >>lad os underkue dem<<, ellers må der underforstås et verbum.",
       "type": "E",
       "verse": 8,
-      "position": 46
+      "position": 47
     },
     {
       "text": "Oversættes undertiden: >>åbenbaringssteder<<, da ordet *môʕēd* i 2 Mosebog betegner >>Åbenbarings(teltet)<<.",
       "type": "E",
       "verse": 8,
-      "position": 95
+      "position": 97
     },
     {
       "text": "Oversættelsen er omdiskuteret. Her er verbet >>tag<< underforstået ud fra sammenhængen (især ud fra præpositionen >>fra<<). Mange retter *xallēʰ* (>>gør ende på det/ødelæg<<) til: *xᵊluʔāʰ*: >>er skjult<<. Man trækker desuden >>din højre hånd<< ind fra foregående linje og retter *miqqerev* (>>fra det indre<<) til: *bᵊqerev*: >>i det indre<<. Linjen kommer til at lyde: >>og holder din højre hånd skjult i det indre af kappefolden?<<",
       "type": "E",
       "verse": 11,
-      "position": 116
+      "position": 118
     },
     {
       "text": "Verbet *prr* findes kun denne ene gang i po’el i GT (og i alt kun fire gange). Det foreslås undertiden at oversætte det: >>spalte<<, men denne betydning er ikke godtgjort.",
       "type": "E",
       "verse": 13,
-      "position": 23
+      "position": 24
     },
     {
       "text": "Ordene: *lᵊʕām lᵊṣiyyîm* (>>til et folk, til ørkendyrene<<) er omdiskuterede. Oftest griber man til en rettelse: *lᵊʕamlᵊṣê yām*: >>til havets hajer<<. En anden mulighed er at opfatte *ʕām* (>>folk<<) som udtryk for >>hær/stor skare<<, altså: >>til en hær af ørkendyr<<.",
       "type": "E",
       "verse": 14,
-      "position": 76
+      "position": 78
     },
     {
       "text": "Der er formodentlig tænkt på både måne og stjerner.",
       "type": "T",
       "verse": 16,
-      "position": 51
+      "position": 53
     },
     {
       "text": "Ordret: >>sjæl<<.",
       "type": "T",
       "verse": 19,
-      "position": 27
+      "position": 28
     },
     {
       "text": "Ordret: >>sjæl<<.",
       "type": "T",
       "verse": 19,
-      "position": 73
+      "position": 75
     },
     {
       "text": "Kan også oversættes: >>jordens<<.",
       "type": "T",
       "verse": 20,
-      "position": 33
+      "position": 35
     },
     {
       "text": "Nogle oversættere sletter *nᵊʔôt* (>>boliger/bosteder/byer<< eller retter til: *ʔᵃnāḥāh*: >>stønnen<< (>>stønnen og vold<<).",
       "type": "E",
       "verse": 20,
-      "position": 72
+      "position": 74
     },
     {
       "text": "Der kan være tænkt på at den undertrykte ikke skal vende tilbage fra bønner der ikke er blevet hørt. En del oversættere retter vokaliseringen af *yāšōv* (>>vende tilbage<<) til: *yēšēv*: >>sidde<<.",
       "type": "E",
       "verse": 21,
-      "position": 48
+      "position": 49
+    },
+    {
+      "text": "Ordret:>>røst<<.",
+      "type": "T",
+      "verse": 23,
+      "position": 29
     }
   ]
 }

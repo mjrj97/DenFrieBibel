@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 32,
   "version": 1479423600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Se, med retfærdighed skal en konge regere, og med ret skal fyrsterne styre.",
+      "text": "\fSe, med retfærdighed skal en konge regere, og med ret skal fyrsterne styre.",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "I kvinder, der er så sorgløse, rejs jer og hør min stemme! I døtre, der er så trygge, vend ørerne til min tale!",
+      "text": "\fI kvinder, der er så sorgløse, rejs jer og hør min stemme! I døtre, der er så trygge, vend ørerne til min tale!",
       "number": 9
     },
     {
@@ -61,7 +71,7 @@
       "number": 14
     },
     {
-      "text": "indtil Ånden fra det høje udgydes over os, og ørkenen bliver til en frugtbar mark, og den frugtbare mark regnes for en skov;",
+      "text": "\findtil Ånden fra det høje udgydes over os, og ørkenen bliver til en frugtbar mark, og den frugtbare mark regnes for en skov;",
       "number": 15
     },
     {

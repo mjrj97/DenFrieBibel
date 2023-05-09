@@ -3,9 +3,19 @@
   "abbreviation": "Jon",
   "chapter": 3,
   "version": 1645570800000,
+  "authors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "HERRENS ord kom for anden gang til Jonas\n\tsom følger:",
+      "text": "\fHERRENS ord kom for anden gang til Jonas\n\tsom følger:",
       "number": 1
     },
     {

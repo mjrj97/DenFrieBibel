@@ -3,9 +3,23 @@
   "abbreviation": "2Mos",
   "chapter": 7,
   "version": 1587506400000,
+  "authors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Da sagde JHVH til Moses: >>Se, jeg har gjort dig til en gud for Farao, og Aron, din bror, skal være din profet.",
+      "text": "\fDa sagde JHVH til Moses: >>Se, jeg har gjort dig til en gud for Farao, og Aron, din bror, skal være din profet.",
       "number": 1
     },
     {
@@ -33,7 +47,7 @@
       "number": 7
     },
     {
-      "text": "Så sagde JHVH følgende til Moses og til Aron:",
+      "text": "\fSå sagde JHVH følgende til Moses og til Aron:",
       "number": 8
     },
     {
@@ -57,7 +71,7 @@
       "number": 13
     },
     {
-      "text": "Så sagde JHVH til Moses: >>Faraos hjerte er hårdt, han har nægtet at lade folket gå.",
+      "text": "\fSå sagde JHVH til Moses: >>Faraos hjerte er hårdt, han har nægtet at lade folket gå.",
       "number": 14
     },
     {
@@ -101,7 +115,7 @@
       "number": 24
     },
     {
-      "text": "Og der forløb syv dage efter at JHVH havde slået Nilen.V26 JHVH sagde til Moses: >>Gå ind til Farao, og du skal sige til ham: >Sådan siger JHVH: >Lad mit folk gå så de kan dyrke mig.",
+      "text": "Og der forløb syv dage efter at JHVH havde slået Nilen.\fV26 JHVH sagde til Moses: >>Gå ind til Farao, og du skal sige til ham: >Sådan siger JHVH: >Lad mit folk gå så de kan dyrke mig.",
       "number": 25
     },
     {
@@ -134,7 +148,7 @@
       "text": "Ordret: >>idet han sagde<<.",
       "type": "T",
       "verse": 8,
-      "position": 23
+      "position": 24
     },
     {
       "text": "Meningen må være at Moses og Aron skal bevise deres sendelse og deres Guds magt ved et under.",

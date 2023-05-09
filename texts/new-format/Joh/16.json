@@ -3,9 +3,23 @@
   "abbreviation": "Joh",
   "chapter": 16,
   "version": 1620165600000,
+  "authors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "translation"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "exegetic processing"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "literary check"
+    }
+  ],
   "verses": [
     {
-      "text": "Dette har jeg talt til jer for at I ikke skal falde fra.",
+      "text": "\fDette har jeg talt til jer for at I ikke skal falde fra.",
       "number": 1
     },
     {
@@ -21,7 +35,7 @@
       "number": 4
     },
     {
-      "text": "Men nu går jeg til ham som sendte mig, og ingen af jer spørger mig: >Hvor går du hen?<",
+      "text": "\fMen nu går jeg til ham som sendte mig, og ingen af jer spørger mig: >Hvor går du hen?<",
       "number": 5
     },
     {
@@ -65,7 +79,7 @@
       "number": 15
     },
     {
-      "text": "Om en kort tid ser I mig ikke længere, og atter om en kort tid skal I se mig.<<",
+      "text": "\fOm en kort tid ser I mig ikke længere, og atter om en kort tid skal I se mig.<<",
       "number": 16
     },
     {

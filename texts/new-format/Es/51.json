@@ -3,9 +3,19 @@
   "abbreviation": "Es",
   "chapter": 51,
   "version": 1649109600000,
+  "authors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "translation"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "exegetic processing"
+    }
+  ],
   "verses": [
     {
-      "text": "Hør mig, I, der stræber efter retfærdighed! I, der søger JHVH! Se på klippen, I er hugget af, og på bunden af brønden, I er gravet ud af.",
+      "text": "\fHør mig, I, der stræber efter retfærdighed! I, der søger JHVH! Se på klippen, I er hugget af, og på bunden af brønden, I er gravet ud af.",
       "number": 1
     },
     {
@@ -37,7 +47,7 @@
       "number": 8
     },
     {
-      "text": "Vågn op, vågn op, klæd dig i styrke, du JHVHs arm! Vågn op som i gamle dage, i de tidligere slægter; er det ikke dig, der fældede Rahab, og der gennemborede dragen?",
+      "text": "\fVågn op, vågn op, klæd dig i styrke, du JHVHs arm! Vågn op som i gamle dage, i de tidligere slægter; er det ikke dig, der fældede Rahab, og der gennemborede dragen?",
       "number": 9
     },
     {
@@ -69,7 +79,7 @@
       "number": 16
     },
     {
-      "text": "Vågn op, vågn op, rejs dig, Jerusalem! du, der af JHVHs hånd har drukket hans vredes bæger; du har drukket, du har tømt beruselsens bæger.",
+      "text": "\fVågn op, vågn op, rejs dig, Jerusalem! du, der af JHVHs hånd har drukket hans vredes bæger; du har drukket, du har tømt beruselsens bæger.",
       "number": 17
     },
     {
