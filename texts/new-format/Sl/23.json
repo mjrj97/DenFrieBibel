@@ -2,55 +2,64 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 23,
-  "version": 1466114400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Christian Højgaard",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fEn salme af David.\fJHVH er min hyrde,\n\t\t\tjeg skal intet mangle.",
-      "number": 1
+      "number": 1,
+      "version": 1466114400000
     },
     {
       "text": "\f\t\tHan lader mig ligge i grønne græsgange;\f\n\t\t\than leder mig til hvilens vande.",
-      "number": 2
+      "number": 2,
+      "version": 1466114400000
     },
     {
       "text": "\f\t\t\t\t\tHan giver min sjæl nye kræfter;\f\n\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
-      "number": 3
+      "number": 3,
+      "version": 1466114400000
     },
     {
       "text": "\f\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens dal,\f\n\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\f\n\t\t\t\t\t\t\tfor du er med mig;\f\n\t\t\t\t\t\t\t\t\tdin kæp og din stav,\n\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
-      "number": 4
+      "number": 4,
+      "version": 1466114400000
     },
     {
       "text": "\f\t\t\t\t\t\t\t\tDu dækker bord for mig\ffor øjnene af mine fjender;\f\n\t\t\t\t\t\t\t\t\t\tdu har salvet mit hoved med olie,\f\n\t\t\t\t\t\t\t\t\tmit bæger flyder over.",
-      "number": 5
+      "number": 5,
+      "version": 1466114400000
     },
     {
       "text": "\f\tKun godhed og nåde skal følge mig\falle mine livsdage,\f\n\t\tog jeg skal blive i JHVHs hus\fhele livet.",
-      "number": 6
+      "number": 6,
+      "version": 1466114400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1466114400000
     },
     {
       "text": "David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt",
-      "verse": 2
+      "verse": 2,
+      "version": 1466114400000
     },
     {
       "text": "Trøst og glæde i JHVH, som er den gæstfrie vært",
-      "verse": 5
+      "verse": 5,
+      "version": 1466114400000
     }
   ],
   "footnotes": [
@@ -67,13 +76,13 @@
       "position": 79
     },
     {
-      "text": "*ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwet* (>>død<<). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.",
+      "text": "*ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwet* (»død«). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
       "type": "E",
       "verse": 4,
       "position": 46
     },
     {
-      "text": "Ordret: >>over for<<",
+      "text": "Ordret: »over for«",
       "type": "T",
       "verse": 5,
       "position": 45
@@ -85,13 +94,13 @@
       "position": 20
     },
     {
-      "text": "*wᵊšavtî* betyder: >>og jeg skal vende tilbage<<. Det passer dårligt til den følgende præposition *bᵊ* (>>i<<). Man vokaliserer ofte * wᵊšivtî*: >>og min boen<< eller *wᵊyāšavtî*: >>og jeg skal bo<<.",
+      "text": "*wᵊšavtî* betyder: »og jeg skal vende tilbage«. Det passer dårligt til den følgende præposition *bᵊ* (»i«). Man vokaliserer ofte * wᵊšivtî*: »og min boen« eller *wᵊyāšavtî*: »og jeg skal bo«.",
       "type": "E",
       "verse": 6,
       "position": 76
     },
     {
-      "text": "Egentlig: >>i dages udstrækning<<, dvs. >>alle dage, hele livet<<.",
+      "text": "Egentlig: »i dages udstrækning«, dvs. »alle dage, hele livet«.",
       "type": "T",
       "verse": 6,
       "position": 99

@@ -2,167 +2,204 @@
   "book": "Fjerde Mosebog",
   "abbreviation": "4Mos",
   "chapter": 35,
-  "version": 1500328800000,
-  "authors": [
+  "translation": 75,
+  "contributors": [
     {
       "name": "Trine Tøndering",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fJHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko, og sagde:",
-      "number": 1
+      "number": 1,
+      "version": 1500328800000
     },
     {
-      "text": ">>Befal israelitterne at de skal give levitterne noget af deres arvelod i eje som byer at bo i. Desuden skal I give levitterne marker rundt om byerne.",
-      "number": 2
+      "text": "»Befal israelitterne at de skal give levitterne noget af deres arvelod i eje som byer at bo i. Desuden skal I give levitterne marker rundt om byerne.",
+      "number": 2,
+      "version": 1500328800000
     },
     {
       "text": "De skal have byerne at bo i, og deres marker skal være til deres kreaturer og deres redskaber til landbruget og alle deres øvrige dyr.",
-      "number": 3
+      "number": 3,
+      "version": 1500328800000
     },
     {
       "text": "Byernes marker, som I skal give levitterne, skal strække sig fra bymuren og 1000 alen udefter hele vejen rundt.",
-      "number": 4
+      "number": 4,
+      "version": 1500328800000
     },
     {
       "text": "Så skal I opmåle siderne uden for byen, 2000 alen mod øst, 2000 alen mod syd, 2000 alen mod vest og 2000 alen mod nord, og byen skal være i midten. Dette skal være deres byers marker.",
-      "number": 5
+      "number": 5,
+      "version": 1500328800000
     },
     {
       "text": "\fAf de byer som I skal give levitterne, skal seks være tilflugtsbyer som I skal give for at en drabsmand kan flygte derhen, og ud over dem skal I give dem 42 byer.",
-      "number": 6
+      "number": 6,
+      "version": 1500328800000
     },
     {
       "text": "Alle de byer som I skal give levitterne, skal være 48 byer med tilhørende marker.",
-      "number": 7
+      "number": 7,
+      "version": 1500328800000
     },
     {
-      "text": "Hvad de byer angår, som I skal give af israelitternes ejendom, da skal I tage flere fra den som har mange, og tage færre fra den som har få, enhver skal, efter sin arvs beskaffenhed, sådan som de har arvet, give levitterne af sine byer.<<",
-      "number": 8
+      "text": "Hvad de byer angår, som I skal give af israelitternes ejendom, da skal I tage flere fra den som har mange, og tage færre fra den som har få, enhver skal, efter sin arvs beskaffenhed, sådan som de har arvet, give levitterne af sine byer.«",
+      "number": 8,
+      "version": 1500328800000
     },
     {
       "text": "JHVH sagde til Moses:",
-      "number": 9
+      "number": 9,
+      "version": 1500328800000
     },
     {
-      "text": ">>Tal til israelitterne og sig til dem: >Når I kommer over Jordan ind i Kana’an,",
-      "number": 10
+      "text": "»Tal til israelitterne og sig til dem: ›Når I kommer over Jordan ind i Kana’an,",
+      "number": 10,
+      "version": 1500328800000
     },
     {
       "text": "skal I udvælge jer byer som skal være tilflugtsbyer for jer så at en drabsmand som slår en person ihjel ved et uheld, kan flygte dertil.",
-      "number": 11
+      "number": 11,
+      "version": 1500328800000
     },
     {
       "text": "De skal være byer der er en tilflugt for jer for blodhævneren, så drabsmanden ikke skal dø, førend han har stået foran forsamlingen, for dommen.",
-      "number": 12
+      "number": 12,
+      "version": 1500328800000
     },
     {
       "text": "De byer som I skal afgive, skal være seks tilflugtsbyer for jer.",
-      "number": 13
+      "number": 13,
+      "version": 1500328800000
     },
     {
       "text": "De tre byer skal I give på denne side af Jordan, og de tre byer skal I give i Kana’an. De skal være tilflugtsbyer.",
-      "number": 14
+      "number": 14,
+      "version": 1500328800000
     },
     {
       "text": "For israelitterne og for den fremmede og for den som er gæst midt iblandt dem, skal disse seks byer være et tilflugtsted så enhver som slår en person ihjel ved et uheld, kan flygte derhen.",
-      "number": 15
+      "number": 15,
+      "version": 1500328800000
     },
     {
       "text": "\fHvis en slår en anden med et stykke jern så han dør, er han en morder. Den morder skal dø.",
-      "number": 16
+      "number": 16,
+      "version": 1500328800000
     },
     {
       "text": "Hvis han slår ham med en sten i hånden, hvormed nogen kan dræbes, og han dør, da er han en morder. Den morder skal dø.",
-      "number": 17
+      "number": 17,
+      "version": 1500328800000
     },
     {
       "text": "Eller slår han ham med et stykke træ i hånden, hvormed nogen kan dræbes, og han dør, da er han en morder. Den morder skal dø.",
-      "number": 18
+      "number": 18,
+      "version": 1500328800000
     },
     {
       "text": "Blodhævneren må dræbe morderen. Når han møder ham, må han dræbe ham.",
-      "number": 19
+      "number": 19,
+      "version": 1500328800000
     },
     {
       "text": "Hvis en af had giver en anden et stød eller kaster noget på ham med vilje, så han dør,",
-      "number": 20
+      "number": 20,
+      "version": 1500328800000
     },
     {
       "text": "eller han slår ham med hånden i fjendskab så han dør, da skal den som slog, dø, han er en morder. Blodhævneren må dræbe morderen når han møder ham.",
-      "number": 21
+      "number": 21,
+      "version": 1500328800000
     },
     {
       "text": "Men hvis han giver ham et stød i farten, uden fjendskab, eller kaster noget efter ham uden det er med vilje,",
-      "number": 22
+      "number": 22,
+      "version": 1500328800000
     },
     {
       "text": "eller det sker med en sten som kunne forårsage døden, og han ikke så ham, da han lod den falde på ham så han døde, og han ikke var hans fjende og ikke ønskede at skade ham,",
-      "number": 23
+      "number": 23,
+      "version": 1500328800000
     },
     {
       "text": "da skal de i forsamlingen dømme imellem drabsmanden og blodhævneren efter disse retsbestemmelser.",
-      "number": 24
+      "number": 24,
+      "version": 1500328800000
     },
     {
       "text": "Forsamlingen skal redde drabsmanden ud af blodhævnerens hånd, og forsamlingen skal lade ham komme tilbage til hans tilflugtsby som han flygtede til, og han skal blive der indtil ypperstepræsten, som man har salvet med den hellige olie, dør.",
-      "number": 25
+      "number": 25,
+      "version": 1500328800000
     },
     {
       "text": "Men hvis drabsmanden går uden for markskellet ved den tilflugtsby som han flygtede til,",
-      "number": 26
+      "number": 26,
+      "version": 1500328800000
     },
     {
       "text": "og blodhævneren finder ham uden for markskellet ved hans tilflugtsby, og blodhævneren slår drabsmanden ihjel, da har han ingen blodskyld.",
-      "number": 27
+      "number": 27,
+      "version": 1500328800000
     },
     {
       "text": "For han burde være blevet i sin tilflugtsby indtil ypperstepræsten døde, men efter ypperstepræstens død må drabsmanden vende tilbage til sin egen jord.",
-      "number": 28
+      "number": 28,
+      "version": 1500328800000
     },
     {
       "text": "Dette skal være jer en retsforordning hos jeres efterkommere i alle jeres bosættelser.",
-      "number": 29
+      "number": 29,
+      "version": 1500328800000
     },
     {
       "text": "Når nogen slår et menneske ihjel da skal man efter vidners udsagn slå denne morder ihjel, men et enkelt vidne kan ikke vidne imod et menneske i en sag om dødsstraf.",
-      "number": 30
+      "number": 30,
+      "version": 1500328800000
     },
     {
       "text": "I må ikke tage løsepenge for en morder når han er dømt til at dø, for han skal slås ihjel.",
-      "number": 31
+      "number": 31,
+      "version": 1500328800000
     },
     {
       "text": "I skal ikke tage løsepenge for at lade nogen flygte til sin tilflugtsby eller lade nogen komme tilbage for at bo i landet, førend præsten dør.",
-      "number": 32
+      "number": 32,
+      "version": 1500328800000
     },
     {
       "text": "I skal ikke vanhellige det land I bor i, for blodet vanhelliger landet, og for landet kan der ikke ske soning for det blod som udgydes i det, undtagen ved blodet fra ham som udgød det.",
-      "number": 33
+      "number": 33,
+      "version": 1500328800000
     },
     {
-      "text": "Du skal ikke gøre det land urent som I bor i, som jeg bor midt i, for jeg, JHVH, bor midt blandt israelitterne.<<<",
-      "number": 34
+      "text": "Du skal ikke gøre det land urent som I bor i, som jeg bor midt i, for jeg, JHVH, bor midt blandt israelitterne.‹«",
+      "number": 34,
+      "version": 1500328800000
     }
   ],
   "titles": [
     {
       "text": "JHVH befaler israelitterne at give visse byer med tilhørende marker af deres arv til levitterne.",
-      "verse": 1
+      "verse": 1,
+      "version": 1500328800000
     },
     {
       "text": "Seks af levitternes byer skal være tilflugtsbyer for drabsmænd.",
-      "verse": 6
+      "verse": 6,
+      "version": 1500328800000
     },
     {
       "text": "JHVH underretter om hvilke drabsmænd der må flygte dertil, og hvad der skal ske dem.",
-      "verse": 16
+      "verse": 16,
+      "version": 1500328800000
     }
   ],
   "footnotes": [
@@ -179,7 +216,7 @@
       "position": 183
     },
     {
-      "text": "På hebraisk står der blot >>til død<<.",
+      "text": "På hebraisk står der blot »til død«.",
       "type": "T",
       "verse": 30,
       "position": 164

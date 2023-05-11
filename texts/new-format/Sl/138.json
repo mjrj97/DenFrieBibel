@@ -2,72 +2,84 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 138,
-  "version": 1492725600000,
-  "authors": [
+  "translation": 75,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fAf David.\fJeg vil takke dig af hele mit hjerte,\fforan guderne vil jeg lovsynge dig.",
-      "number": 1
+      "number": 1,
+      "version": 1492725600000
     },
     {
       "text": "\fJeg vil kaste mig ned hen imod dit hellige tempel\fog takke dit navn\ffor din nåde og for din sandhed,\ffor du har gjort dit ord stort ud over hele dit navn.",
-      "number": 2
+      "number": 2,
+      "version": 1492725600000
     },
     {
       "text": "\fDen dag jeg råbte, svarede du mig,\fdu gjorde mig stolt, jeg fik styrke.",
-      "number": 3
+      "number": 3,
+      "version": 1492725600000
     },
     {
       "text": "\fAlle jordens konger skal takke dig,\ffor de har hørt din munds ord.",
-      "number": 4
+      "number": 4,
+      "version": 1492725600000
     },
     {
       "text": "\fOg de skal synge om JHVHs veje,\ffor stor er JHVHs herlighed.",
-      "number": 5
+      "number": 5,
+      "version": 1492725600000
     },
     {
       "text": "\fJa, ophøjet er JHVH, men han ser til den ringe,\fog den stolte kender han på lang afstand.",
-      "number": 6
+      "number": 6,
+      "version": 1492725600000
     },
     {
       "text": "\fSkal jeg vandre midt i trængsel, holder du mig i live,\fmod mine fjenders vrede rækker du din hånd ud,\fog din højre frelser mig.",
-      "number": 7
+      "number": 7,
+      "version": 1492725600000
     },
     {
       "text": "\fJHVH skal fuldføre det for mig.\fJHVHv, din nåde varer til evig tid,\fopgiv ikke dine hænders værker.",
-      "number": 8
+      "number": 8,
+      "version": 1492725600000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1492725600000
     },
     {
       "text": "Tak",
-      "verse": 2
+      "verse": 2,
+      "version": 1492725600000
     },
     {
       "text": "Lovprisning",
-      "verse": 4
+      "verse": 4,
+      "version": 1492725600000
     },
     {
       "text": "Tillid",
-      "verse": 7
+      "verse": 7,
+      "version": 1492725600000
     }
   ],
   "footnotes": [
     {
-      "text": "Ordret: >>din helligheds tempel<<.",
+      "text": "Ordret: »din helligheds tempel«.",
       "type": "T",
       "verse": 2,
       "position": 50
@@ -79,25 +91,25 @@
       "position": 81
     },
     {
-      "text": "Oversættes ofte: >>troskab<<.",
+      "text": "Oversættes ofte: »troskab«.",
       "type": "T",
       "verse": 2,
       "position": 101
     },
     {
-      "text": "Grundtekstens ord (*ʔimrāʰ*) har en biklang af: >>løfte<<.",
+      "text": "Grundtekstens ord (*ʔimrāʰ*) har en biklang af: »løfte«.",
       "type": "T",
       "verse": 2,
       "position": 126
     },
     {
-      "text": "Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (>>hele dit navn<<), men: *kol-šēm*: >>hvert navn<<. Mange oversættere retter: *šimxā* (>>dit navn<<) til: *šāmeʸxā*: >>din himmel<<. En tredje mulighed er at ændre vokaliseringen af: *kol-* (>>hele<<, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (>>og<<) foran: >>dit navn<<. Oversættelsen lyder da: >>for du har ladet dit ord og dit navn overgå alt andet<<.",
+      "text": "Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (»hele dit navn«), men: *kol-šēm*: »hvert navn«. Mange oversættere retter: *šimxā* (»dit navn«) til: *šāmeʸxā*: »din himmel«. En tredje mulighed er at ændre vokaliseringen af: *kol-* (»hele«, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (»og«) foran: »dit navn«. Oversættelsen lyder da: »for du har ladet dit ord og dit navn overgå alt andet«.",
       "type": "E",
       "verse": 2,
       "position": 155
     },
     {
-      "text": "Ordret: >>min sjæl<<.",
+      "text": "Ordret: »min sjæl«.",
       "type": "T",
       "verse": 3,
       "position": 60

@@ -2,40 +2,43 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 117,
-  "version": 1499983200000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fLovpris JHVH, alle folk!\fPris ham, alle folkeslag!",
-      "number": 1
+      "number": 1,
+      "version": 1499983200000
     },
     {
       "text": "\fFor hans nåde mod os har været mægtig,\fog JHVHs troskab varer til evig tid.\fHalleluja!",
-      "number": 2
+      "number": 2,
+      "version": 1499983200000
     }
   ],
   "titles": [
     {
       "text": "Lovpris JHVH",
-      "verse": 1
+      "verse": 1,
+      "version": 1499983200000
     }
   ],
   "footnotes": [
     {
-      "text": "Kan også oversættes: >>hedninger<<, men det er næppe meningen her.",
+      "text": "Kan også oversættes: »hedninger«, men det er næppe meningen her.",
       "type": "T",
       "verse": 1,
       "position": 25
@@ -47,13 +50,13 @@
       "position": 14
     },
     {
-      "text": "Kan også oversættes: >>sandhed<<.",
+      "text": "Kan også oversættes: »sandhed«.",
       "type": "T",
       "verse": 2,
       "position": 56
     },
     {
-      "text": "Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 118.",
+      "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 118.",
       "type": "T",
       "verse": 2,
       "position": 88

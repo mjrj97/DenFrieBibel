@@ -2,92 +2,102 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 110,
-  "version": 1499983200000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
-      "text": "\fAf David. Salme.\fJHVHs udsagn til min herre:\f>>Sæt dig ved min højre hånd,\findtil jeg lægger dine fjender\fsom en skammel for dine fødder!<<",
-      "number": 1
+      "text": "\fAf David. Salme.\fJHVHs udsagn til min herre:\f»Sæt dig ved min højre hånd,\findtil jeg lægger dine fjender\fsom en skammel for dine fødder!«",
+      "number": 1,
+      "version": 1499983200000
     },
     {
       "text": "\fDin magts scepter skal JHVH række ud fra Zion,\fhersk midt blandt dine fjender!",
-      "number": 2
+      "number": 2,
+      "version": 1499983200000
     },
     {
       "text": "\fDit folk møder villigt frem på din vældes dag.\fI hellig prydelse - fra morgenrødens moderskød\fkommer dit unge mandskabs dug til dig.",
-      "number": 3
+      "number": 3,
+      "version": 1499983200000
     },
     {
-      "text": "\fJHVH har svoret, og han angrer ikke:\f>>Du er præst for evigt\fpå Melkisedeks vis.<<",
-      "number": 4
+      "text": "\fJHVH har svoret, og han angrer ikke:\f»Du er præst for evigt\fpå Melkisedeks vis.«",
+      "number": 4,
+      "version": 1499983200000
     },
     {
       "text": "\fHerren er ved din højre side,\fhan knuser konger på sin vredes dag.",
-      "number": 5
+      "number": 5,
+      "version": 1499983200000
     },
     {
       "text": "\fHan vil dømme blandt folkene,\fhan fylder op med lig,\fhan knuser hoveder over den vide jord.",
-      "number": 6
+      "number": 6,
+      "version": 1499983200000
     },
     {
       "text": "\fAf bækken ved vejen vil han drikke,\fderfor kan han løfte hovedet højt.",
-      "number": 7
+      "number": 7,
+      "version": 1499983200000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1499983200000
     },
     {
       "text": "Guds salvedes kongelige og præstelige værdighed",
-      "verse": 2
+      "verse": 2,
+      "version": 1499983200000
     },
     {
       "text": "Guds salvede skal overvinde sine fjender",
-      "verse": 5
+      "verse": 5,
+      "version": 1499983200000
     }
   ],
   "footnotes": [
     {
-      "text": "Det hebraiske *nᵊʔum* betegner i GT åbenbaringsord fra Gud (undtagen Sl 36,2). Det oversættes lidt forskelligt, f.eks.: >>orakel<< eller >>kendelse<<.",
+      "text": "Det hebraiske *nᵊʔum* betegner i GT åbenbaringsord fra Gud (undtagen Sl 36,2). Det oversættes lidt forskelligt, f.eks.: »orakel« eller »kendelse«.",
       "type": "E",
       "verse": 1,
       "position": 30
     },
     {
-      "text": "Ordret: >>dit folk er lutter villighed<<",
+      "text": "Ordret: »dit folk er lutter villighed«",
       "type": "T",
       "verse": 3,
       "position": 28
     },
     {
-      "text": "*bᵊyôm ḥêlexā* oversættes ofte: >>på din kampdag<<, men *ḥayil* betyder >>magt/vælde/hær<<. Der er formodentlig tænkt på en mønstringsdag eller parade.",
+      "text": "*bᵊyôm ḥêlexā* oversættes ofte: »på din kampdag«, men *ḥayil* betyder »magt/vælde/hær«. Der er formodentlig tænkt på en mønstringsdag eller parade.",
       "type": "E",
       "verse": 3,
       "position": 47
     },
     {
-      "text": "Den masoretiske tekst har ikke noget verbum her; det må underforstås. Rimeligst i sammenhængen er: >>kommer<<, men en anden mulighed er: >>tilhører<<.",
+      "text": "Den masoretiske tekst har ikke noget verbum her; det må underforstås. Rimeligst i sammenhængen er: »kommer«, men en anden mulighed er: »tilhører«.",
       "type": "T",
       "verse": 3,
       "position": 101
     },
     {
-      "text": "Verset er blevet kaldt det dunkleste vers i Salmernes Bog, især de to sidste linjer er omdiskuterede. Mange oversættere vælger at følge Septuaginta, der her kan oversættes: >>På hellige bjerge har jeg født dig / som dug af morgenrødens moderskød<<. Det kræver følgende ændringer af den hebraiske tekst: *bᵊhadrê* (>>i prydelse<<) til: *bᵊharᵊrê* (>>på bjerge<<), *yalduteʸxā* (>>dit unge mandskab<<) til: *yᵊlidᵊtîxā* (>>jeg har født dig<<).",
+      "text": "Verset er blevet kaldt det dunkleste vers i Salmernes Bog, især de to sidste linjer er omdiskuterede. Mange oversættere vælger at følge Septuaginta, der her kan oversættes: »På hellige bjerge har jeg født dig / som dug af morgenrødens moderskød«. Det kræver følgende ændringer af den hebraiske tekst: *bᵊhadrê* (»i prydelse«) til: *bᵊharᵊrê* (»på bjerge«), *yalduteʸxā* (»dit unge mandskab«) til: *yᵊlidᵊtîxā* (»jeg har født dig«).",
       "type": "E",
       "verse": 3,
       "position": 133
@@ -99,13 +109,13 @@
       "position": 41
     },
     {
-      "text": "Kan også oversættes: >>hedningerne<<.",
+      "text": "Kan også oversættes: »hedningerne«.",
       "type": "T",
       "verse": 6,
       "position": 30
     },
     {
-      "text": "Kan også oversættes: >>overhoveder/ledere<<. Grundteksten har singularis (>>et hoved<<), men ordet skal formodentlig opfattes kollektivt.",
+      "text": "Kan også oversættes: »overhoveder/ledere«. Grundteksten har singularis (»et hoved«), men ordet skal formodentlig opfattes kollektivt.",
       "type": "T",
       "verse": 6,
       "position": 72

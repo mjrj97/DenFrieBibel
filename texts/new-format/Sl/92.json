@@ -2,128 +2,147 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 92,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fEn salme. En sang til sabbattens dag.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fDet er godt at takke JHVH\fog at lovsynge dit navn, du Højeste,",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fat forkynde din nåde om morgenen\fog din trofasthed om natten,",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\ftil tistrenget lyre og til harpe,\ftil strengespil på citer.",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fFor du har glædet mig, JHVHv, ved dit værk,\fjeg vil jublende prise dine hænders gerninger.",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fHvor store er dine gerninger, JHVHv,\fdine tanker er meget dybe!",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fEn stupid person kender det ikke,\fog en tåbe forstår ikke dette.",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fNår de uretfærdige skyder op som planter,\fog alle som udøver synd, blomstrer,\fer det for at de skal blive udslettet for evigt og altid.",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fMen du er i det høje for evigt, JHVHv.",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fFor se, dine fjender, JHVHv,\fja se, dine fjender skal gå til grunde,\falle som udøver synd, skal spredes.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fDu løftede mit horn som en vildokse,\fdu har overgydt mig med frisk olie.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
       "text": "\fMit øje så med fryd på mine fjender,\fmine ører hørte med fryd om de onde som står mig imod.",
-      "number": 12
+      "number": 12,
+      "version": 1500242400000
     },
     {
       "text": "\fEn retfærdig skal skyde op som daddelpalmen,\fsom et cedertræ i Libanon skal han vokse.",
-      "number": 13
+      "number": 13,
+      "version": 1500242400000
     },
     {
       "text": "\fDe som er plantet i JHVHs hus,\fskal skyde op i vor Guds forgårde.",
-      "number": 14
+      "number": 14,
+      "version": 1500242400000
     },
     {
       "text": "\fSelv i høj alder skal de bære frugt,\fde skal være saftige og grønne,",
-      "number": 15
+      "number": 15,
+      "version": 1500242400000
     },
     {
       "text": "\fså de kan forkynde at JHVH er retskaffen,\fmin klippe, og der er ingen uret hos ham.",
-      "number": 16
+      "number": 16,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Hymnisk indledning",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Lovprisning for frelse",
-      "verse": 5
+      "verse": 5,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Kan også oversættes: >>sandhed<<.",
+      "text": "Kan også oversættes: »sandhed«.",
       "type": "T",
       "verse": 3,
       "position": 51
     },
     {
-      "text": "Ordret blot: >>til tistrenget<<. Man går ud fra at der er tænkt på en lyre (eller harpe), udseendet er ukendt.",
+      "text": "Ordret blot: »til tistrenget«. Man går ud fra at der er tænkt på en lyre (eller harpe), udseendet er ukendt.",
       "type": "T",
       "verse": 4,
       "position": 20
     },
     {
-      "text": "Grundtekstens *baʕar* betyder: >>kvæg<<. Det bruges her som betegnelse for et menneske uden ånd.",
+      "text": "Grundtekstens *baʕar* betyder: »kvæg«. Det bruges her som betegnelse for et menneske uden ånd.",
       "type": "T",
       "verse": 7,
       "position": 10
     },
     {
-      "text": "Grundteksten har: *ballōtî*: >>jeg har overgydt<<. I sammenhængen er det utænkeligt at salmisten har overgydt sig selv, men den passive betydning af verbet findes ikke andre steder i GT, så der kan næppe oversættes: >>jeg er blevet overgydt<<. Oftest retter man – med nogle af de gamle oversættelser – til: *ballōtanî*: >>du har overgydt mig<<.",
+      "text": "Grundteksten har: *ballōtî*: »jeg har overgydt«. I sammenhængen er det utænkeligt at salmisten har overgydt sig selv, men den passive betydning af verbet findes ikke andre steder i GT, så der kan næppe oversættes: »jeg er blevet overgydt«. Oftest retter man – med nogle af de gamle oversættelser – til: *ballōtanî*: »du har overgydt mig«.",
       "type": "E",
       "verse": 11,
       "position": 57
     },
     {
-      "text": "Grundteksten har: *šûrāʸ*: >>mine mure<<. De gamle oversættelser forudsætter: *šōrᵊrāʸ*: >>mine fjender<<. Ud fra sammenhængen vælger man at følge denne læsemåde.",
+      "text": "Grundteksten har: *šûrāʸ*: »mine mure«. De gamle oversættelser forudsætter: *šōrᵊrāʸ*: »mine fjender«. Ud fra sammenhængen vælger man at følge denne læsemåde.",
       "type": "E",
       "verse": 12,
       "position": 37

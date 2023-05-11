@@ -2,75 +2,89 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 24,
-  "version": 1466114400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Christian Højgaard",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fEn salme af David.\fJHVHs er jorden og dens fylde,\fverden og dens beboere.",
-      "number": 1
+      "number": 1,
+      "version": 1466114400000
     },
     {
       "text": "\fFor han grundlagde den på havene;\fgjorde den fast på strømmene.",
-      "number": 2
+      "number": 2,
+      "version": 1466114400000
     },
     {
       "text": "\fHvem kan gå op på JHVHs bjerg?\fHvem kan stå på hans hellige sted?",
-      "number": 3
+      "number": 3,
+      "version": 1466114400000
     },
     {
       "text": "\fDen som har uskyldige hænder og et rent hjerte;\fden som ikke har rettet sin sjæl mod falskhed\fog ikke har svoret bedragerisk.",
-      "number": 4
+      "number": 4,
+      "version": 1466114400000
     },
     {
       "text": "\fHan skal få velsignelse fra JHVH;\fretfærdighed fra sin frelses Gud.",
-      "number": 5
+      "number": 5,
+      "version": 1466114400000
     },
     {
       "text": "\fDette er den slægt som spørger efter ham,\fde som søger dit ansigt, Jakobs Gud. Sela",
-      "number": 6
+      "number": 6,
+      "version": 1466114400000
     },
     {
       "text": "\fLøft, I porte, jeres hoveder;\fløft jer, I ældgamle døre,\fså ærens konge kan drage ind!",
-      "number": 7
+      "number": 7,
+      "version": 1466114400000
     },
     {
       "text": "\fHvem er denne ærens konge?\fJHVH, stærk og mægtig,\fJHVH, mægtig i krig.",
-      "number": 8
+      "number": 8,
+      "version": 1466114400000
     },
     {
       "text": "\fLøft, I porte, jeres hoveder;\fløft jer, I ældgamle døre,\fså ærens konge kan drage ind!",
-      "number": 9
+      "number": 9,
+      "version": 1466114400000
     },
     {
       "text": "\fHvem er han, den ærens konge?\fHærskarers JHVHv,\fhan er ærens konge! Sela",
-      "number": 10
+      "number": 10,
+      "version": 1466114400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1466114400000
     },
     {
       "text": "David lovpriser JHVH, som er herre over alle ting",
-      "verse": 2
+      "verse": 2,
+      "version": 1466114400000
     },
     {
       "text": "Betingelsen for at et menneske kan træde ind i Guds tempel",
-      "verse": 3
+      "verse": 3,
+      "version": 1466114400000
     },
     {
       "text": "JHVH holder sejrrigt indtog i helligdommen",
-      "verse": 7
+      "verse": 7,
+      "version": 1466114400000
     }
   ],
   "footnotes": [
@@ -87,7 +101,7 @@
       "position": 63
     },
     {
-      "text": "Oversættelsen er usikker, for ordet >>Gud<< mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: >>de som søger dit ansigt, er Jakob<<. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)",
+      "text": "Oversættelsen er usikker, for ordet »Gud« mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: »de som søger dit ansigt, er Jakob«. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)",
       "type": "E",
       "verse": 6,
       "position": 78
@@ -99,13 +113,13 @@
       "position": 84
     },
     {
-      "text": "Grundteksten har: >>og løft (dem), I ældgamle døre<<. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.",
+      "text": "Grundteksten har: »og løft (dem), I ældgamle døre«. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.",
       "type": "E",
       "verse": 9,
       "position": 35
     },
     {
-      "text": "I ældre tid oversat: >>Zebaoth<<.",
+      "text": "I ældre tid oversat: »Zebaoth«.",
       "type": "T",
       "verse": 10,
       "position": 42

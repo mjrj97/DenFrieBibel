@@ -2,186 +2,216 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 139,
-  "version": 1492725600000,
-  "authors": [
+  "translation": 75,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen.\fAf David. En salme.\fJHVH, du har ransaget mig og kender mig.",
-      "number": 1
+      "number": 1,
+      "version": 1492725600000
     },
     {
       "text": "\fDu ved om jeg sidder eller står,\fdu kender min tanke på lang afstand.",
-      "number": 2
+      "number": 2,
+      "version": 1492725600000
     },
     {
       "text": "\fDu har rede på om jeg går eller ligger,\fog alle mine veje er du fortrolig med.",
-      "number": 3
+      "number": 3,
+      "version": 1492725600000
     },
     {
       "text": "\fFor der er ikke et ord på min tunge\fuden at du, JHVHv, kender det fuldt ud.",
-      "number": 4
+      "number": 4,
+      "version": 1492725600000
     },
     {
       "text": "\fBagfra og forfra omslutter du mig,\fdu lægger din hånd på mig.",
-      "number": 5
+      "number": 5,
+      "version": 1492725600000
     },
     {
       "text": "\fDet er for vidunderligt til at jeg forstår det,\fdet er så højt at jeg ikke kan fatte det.",
-      "number": 6
+      "number": 6,
+      "version": 1492725600000
     },
     {
       "text": "\fHvor skulle jeg gå hen fra din Ånd?\fOg hvor skulle jeg flygte hen fra dit ansigt?",
-      "number": 7
+      "number": 7,
+      "version": 1492725600000
     },
     {
       "text": "\fHvis jeg stiger op til himlen, så er du dér,\fog reder jeg seng i dødsriget, se, så er du dér!",
-      "number": 8
+      "number": 8,
+      "version": 1492725600000
     },
     {
       "text": "\fVille jeg tage morgenrødens vinger,\fslå mig ned ved det yderste hav,",
-      "number": 9
+      "number": 9,
+      "version": 1492725600000
     },
     {
       "text": "\fså ville din hånd også lede mig dér,\fog din højre hånd holde mig fast.",
-      "number": 10
+      "number": 10,
+      "version": 1492725600000
     },
     {
-      "text": "\fOg ville jeg sige: >>Sandelig, mørke skal dække mig\fog lys omkring mig blive til nat,<<",
-      "number": 11
+      "text": "\fOg ville jeg sige: »Sandelig, mørke skal dække mig\fog lys omkring mig blive til nat,«",
+      "number": 11,
+      "version": 1492725600000
     },
     {
       "text": "\fså ville mørke ikke være mørke for dig,\fog nat være lys som dagen,\fmørket er som lyset.",
-      "number": 12
+      "number": 12,
+      "version": 1492725600000
     },
     {
       "text": "\fJa, det var dig der dannede mine nyrer,\fdu vævede mig i min mors liv.",
-      "number": 13
+      "number": 13,
+      "version": 1492725600000
     },
     {
       "text": "\fJeg vil takke dig fordi jeg er så forbavsende vidunderligt skabt,\fvidunderlige er dine gerninger,\fog min sjæl ved det fuldt ud.",
-      "number": 14
+      "number": 14,
+      "version": 1492725600000
     },
     {
       "text": "\fMine knogler var ikke skjult for dig\fda jeg blev dannet i det skjulte,\fblev formet i jordens dybder.",
-      "number": 15
+      "number": 15,
+      "version": 1492725600000
     },
     {
       "text": "\fDa jeg var foster, så dine øjne mig,\fog i din bog var de alle skrevet,\fdagene, der var bestemte,\fda endnu ikke én blandt dem var kommet.",
-      "number": 16
+      "number": 16,
+      "version": 1492725600000
     },
     {
       "text": "\fOg hvad mig angår - hvor vanskelige at fatte er dine tanker, Gud,\fhvor mægtig er dog deres sum!",
-      "number": 17
+      "number": 17,
+      "version": 1492725600000
     },
     {
       "text": "\fVil jeg tælle dem, er de flere end sand,\fvågnede jeg, var jeg stadig hos dig.",
-      "number": 18
+      "number": 18,
+      "version": 1492725600000
     },
     {
       "text": "\fGid du, Gud, ville dræbe synderen,\fog I blodets mænd, vig fra mig!",
-      "number": 19
+      "number": 19,
+      "version": 1492725600000
     },
     {
       "text": "\fDe som taler om dig med ondskab,\fog som forgæves har rejst sig imod dig,",
-      "number": 20
+      "number": 20,
+      "version": 1492725600000
     },
     {
       "text": "\fskulle jeg ikke hade dem som hader dig, JHVHv,\fog væmmes ved dem som rejser sig mod dig?",
-      "number": 21
+      "number": 21,
+      "version": 1492725600000
     },
     {
       "text": "\fMed fuldendt had har jeg hadet dem,\fde er blevet mine fjender.",
-      "number": 22
+      "number": 22,
+      "version": 1492725600000
     },
     {
       "text": "\fRansag mig, Gud, og kend mit hjerte,\fprøv mig, og kend mine tanker!",
-      "number": 23
+      "number": 23,
+      "version": 1492725600000
     },
     {
       "text": "\fOg se om jeg er på afgudsvej,\fog led mig på evigheds vej!",
-      "number": 24
+      "number": 24,
+      "version": 1492725600000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1492725600000
     },
     {
       "text": "JHVH er alvidende{E: Verberne i v. 1-5 står i qatal og wayyiqtol, der normalt angiver fortid. Her angiver versene det som har været gældende indtil det aktuelle øjeblik, og som salmisten derfor ved, stadig gælder. Qatal/wayyiqtol understreger at det ikke drejer sig om teoretiske overvejelser.}",
-      "verse": 2
+      "verse": 2,
+      "version": 1492725600000
     },
     {
       "text": "Gud er allestedsnærværende",
-      "verse": 7
+      "verse": 7,
+      "version": 1492725600000
     },
     {
       "text": "Gud er den almægtige skaber",
-      "verse": 13
+      "verse": 13,
+      "version": 1492725600000
     },
     {
       "text": "Bøn om hjælp mod onde mennesker",
-      "verse": 19
+      "verse": 19,
+      "version": 1492725600000
     },
     {
       "text": "Skriftemålsbøn",
-      "verse": 23
+      "verse": 23,
+      "version": 1492725600000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Ordret: >>min gåen og min liggen ned<<.",
+      "text": "Ordret: »min gåen og min liggen ned«.",
       "type": "E",
       "verse": 3,
       "position": 40
     },
     {
-      "text": "Ordret: >>se<<.",
+      "text": "Ordret: »se«.",
       "type": "T",
       "verse": 4,
       "position": 44
     },
     {
-      "text": "Ordret: >>gør jeg dødsriget til min seng<<.",
+      "text": "Ordret: »gør jeg dødsriget til min seng«.",
       "type": "T",
       "verse": 8,
       "position": 76
     },
     {
-      "text": "Nogle oversættere vælger at følge bl.a. Septuaginta, der i stedet for: *tanḥēnî* (>>lede mig<<) forudsætter: *tiqqāḥēnî*: >>gribe mig<<.",
+      "text": "Nogle oversættere vælger at følge bl.a. Septuaginta, der i stedet for: *tanḥēnî* (»lede mig«) forudsætter: *tiqqāḥēnî*: »gribe mig«.",
       "type": "E",
       "verse": 10,
       "position": 32
     },
     {
-      "text": "Betydningen af grundtekstens sjældne verbum *šwp* er usikker. Oftest foreslås: >>snappe efter<< eller >>knuse<<. Men de passer dårligt i sammenhængen. Medmindre *šwp* kan betyde: >>dække<<, retter man som regel til verbet: *śkk*: >>dække<< (*yᵊśûkkēnî*).",
+      "text": "Betydningen af grundtekstens sjældne verbum *šwp* er usikker. Oftest foreslås: »snappe efter« eller »knuse«. Men de passer dårligt i sammenhængen. Medmindre *šwp* kan betyde: »dække«, retter man som regel til verbet: *śkk*: »dække« (*yᵊśûkkēnî*).",
       "type": "E",
       "verse": 11,
-      "position": 48
+      "position": 47
     },
     {
-      "text": "*nôrāʔôt* (>>forbavsende<<) betyder normalt: >>forfærdende<<. Mange oversættere udelader det, men det skal formodentlig forstærke det følgende: >>vidunderligt skabt<<.",
+      "text": "*nôrāʔôt* (»forbavsende«) betyder normalt: »forfærdende«. Mange oversættere udelader det, men det skal formodentlig forstærke det følgende: »vidunderligt skabt«.",
       "type": "E",
       "verse": 14,
       "position": 46
     },
     {
-      "text": "Ordret blot: >>er vidunderlig<<. Men i sammenhængen er der tale om skabelsen.",
+      "text": "Ordret blot: »er vidunderlig«. Men i sammenhængen er der tale om skabelsen.",
       "type": "T",
       "verse": 14,
       "position": 66
@@ -199,31 +229,31 @@
       "position": 101
     },
     {
-      "text": "Ordret blot: >>Dine øjne så mit foster<<.",
+      "text": "Ordret blot: »Dine øjne så mit foster«.",
       "type": "T",
       "verse": 16,
       "position": 37
     },
     {
-      "text": "Oversættelsen af denne linje er usikker. Ordret blot: >>og ikke én blandt dem<<. Undertiden forstås det som udtryk for at >>ikke én blandt dem mangler<<. Der er foreslået forskellige tekstrettelser, men der er ingen afvigelser i håndskrifterne.",
+      "text": "Oversættelsen af denne linje er usikker. Ordret blot: »og ikke én blandt dem«. Undertiden forstås det som udtryk for at »ikke én blandt dem mangler«. Der er foreslået forskellige tekstrettelser, men der er ingen afvigelser i håndskrifterne.",
       "type": "E",
       "verse": 16,
       "position": 137
     },
     {
-      "text": "Andre oversætter: >>dyrebare<<.",
+      "text": "Andre oversætter: »dyrebare«.",
       "type": "T",
       "verse": 17,
       "position": 45
     },
     {
-      "text": "Mange oversættere følger et forslag om at ændre vokaliseringen af: *hᵉqîṣōtî* (>>vågnede jeg<<) til: *hᵃqîṣṣōtî*: >>blev jeg færdig<<.",
+      "text": "Mange oversættere følger et forslag om at ændre vokaliseringen af: *hᵉqîṣōtî* (»vågnede jeg«) til: *hᵃqîṣṣōtî*: »blev jeg færdig«.",
       "type": "E",
       "verse": 18,
       "position": 54
     },
     {
-      "text": "Kan også oversættes: >>den ugudelige<<.",
+      "text": "Kan også oversættes: »den ugudelige«.",
       "type": "T",
       "verse": 19,
       "position": 35
@@ -235,13 +265,13 @@
       "position": 54
     },
     {
-      "text": "Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: >>løftet/rejst<<). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: >>har rejst sig<<. Andre oversætter det: >>fór/farer<< og opfatter det følgende: *laššāwᵊʔ* (>>forgæves<<) som: >>med løgn<< (>>og som fór/farer med løgn imod dig<<.Sætningens sidste ord er: *ʕāreʸxā*: >>(imod) dine byer<<. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at der skulle stå: *ʕāleʸxā*: >>imod dig<<. Andre opfatter dog: *ʕāreʸxā* (>>dine byer<<) ikke som afledt af singularis: *ʕîr* (>>by<<), men af: *ʕār*, som skulle være en aramaisk form for: *ṣār*: >>fjende<< (>>og som fór/farer med løgn, dine fjender<<). Dette er dog omstridt og usikkert.",
+      "text": "Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: »løftet/rejst«). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: »har rejst sig«. Andre oversætter det: »fór/farer« og opfatter det følgende: *laššāwᵊʔ* (»forgæves«) som: »med løgn« (»og som fór/farer med løgn imod dig«.Sætningens sidste ord er: *ʕāreʸxā*: »(imod) dine byer«. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at der skulle stå: *ʕāleʸxā*: »imod dig«. Andre opfatter dog: *ʕāreʸxā* (»dine byer«) ikke som afledt af singularis: *ʕîr* (»by«), men af: *ʕār*, som skulle være en aramaisk form for: *ṣār*: »fjende« (»og som fór/farer med løgn, dine fjender«). Dette er dog omstridt og usikkert.",
       "type": "E",
       "verse": 20,
       "position": 73
     },
     {
-      "text": "Ordret: >>om der er en afgudsvej hos mig<<. Ordet: *ʕōṣev* (>>afgud<<) kan dog også betyde: >>smerte<< (>>og se, om jeg er på smertens vej<<). Der kan være tænkt på en vej til straf eller fortabelse, eller på en smertende syndsbekendelse og helliggørelse.",
+      "text": "Ordret: »om der er en afgudsvej hos mig«. Ordet: *ʕōṣev* (»afgud«) kan dog også betyde: »smerte« (»og se, om jeg er på smertens vej«). Der kan være tænkt på en vej til straf eller fortabelse, eller på en smertende syndsbekendelse og helliggørelse.",
       "type": "E",
       "verse": 24,
       "position": 30

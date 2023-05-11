@@ -2,172 +2,208 @@
   "book": "Anden Mosebog",
   "abbreviation": "2Mos",
   "chapter": 14,
-  "version": 1587506400000,
-  "authors": [
+  "translation": 75,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Endnu ikke sket",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fJHVH talte til Moses og sagde:",
-      "number": 1
+      "number": 1,
+      "version": 1587506400000
     },
     {
-      "text": ">>Tal til Israels børn så de vender om og slår lejr ud for Pi-ha-Kirot, mellem Migdol og havet, ud for Ba’al-Sefon, over for det skal I slå lejr ved havet.",
-      "number": 2
+      "text": "»Tal til Israels børn så de vender om og slår lejr ud for Pi-ha-Kirot, mellem Migdol og havet, ud for Ba’al-Sefon, over for det skal I slå lejr ved havet.",
+      "number": 2,
+      "version": 1587506400000
     },
     {
-      "text": "For Farao vil sige om Israels børn: >De er faret vild i landet, ørkenen har lukket sig om dem.<",
-      "number": 3
+      "text": "For Farao vil sige om Israels børn: ›De er faret vild i landet, ørkenen har lukket sig om dem.‹",
+      "number": 3,
+      "version": 1587506400000
     },
     {
-      "text": "Og jeg vil forhærde Faraos hjerte så han vil forfølge dem, og jeg vil forherlige mig på Farao og på hele hans hær. Så skal egypterne forstå at jeg er JHVH.<< Og de gjorde sådan.",
-      "number": 4
+      "text": "Og jeg vil forhærde Faraos hjerte så han vil forfølge dem, og jeg vil forherlige mig på Farao og på hele hans hær. Så skal egypterne forstå at jeg er JHVH.« Og de gjorde sådan.",
+      "number": 4,
+      "version": 1587506400000
     },
     {
-      "text": "Kongen af Egypten fik besked om at folket var flygtet. Da vendte Faraos og hans tjeneres hjerte sig mod folket, og de sagde: >>Hvad er det vi har gjort, for vi lod Israel rejse, så de ikke skal trælle for os?<<",
-      "number": 5
+      "text": "Kongen af Egypten fik besked om at folket var flygtet. Da vendte Faraos og hans tjeneres hjerte sig mod folket, og de sagde: »Hvad er det vi har gjort, for vi lod Israel rejse, så de ikke skal trælle for os?«",
+      "number": 5,
+      "version": 1587506400000
     },
     {
       "text": "Så lod han spænde for sin vogn og tog sit folk med sig.",
-      "number": 6
+      "number": 6,
+      "version": 1587506400000
     },
     {
       "text": "Og han tog seks hundrede udvalgte vogne og alle andre vogne i Egypten og vognkæmpere på dem alle.",
-      "number": 7
+      "number": 7,
+      "version": 1587506400000
     },
     {
       "text": "JHVH forhærdede Egyptens kong Faraos hjerte så at han forfulgte Israels børn; men Israels børn drog ud med en løftet hånd.",
-      "number": 8
+      "number": 8,
+      "version": 1587506400000
     },
     {
       "text": "Så satte egypterne efter dem og indhentede dem, hvor de havde slået lejr ved havet – alle Faraos hestevogne og hans ryttere og hans hær – ved Pi-ha-Kirot ud for Ba’al-Sefon.",
-      "number": 9
+      "number": 9,
+      "version": 1587506400000
     },
     {
       "text": "\fFarao nærmede sig; og Israels børn løftede deres øjne, og se: Egypterne rykkede ud efter dem; da blev de meget bange, og Israels børn råbte til JHVH.",
-      "number": 10
+      "number": 10,
+      "version": 1587506400000
     },
     {
-      "text": "De sagde til Moses: >>Er der ikke grave i Egypten, siden du tog os ud for at dø i ørkenen? Hvad er det du har gjort med os ved at føre os ud af Egypten?",
-      "number": 11
+      "text": "De sagde til Moses: »Er der ikke grave i Egypten, siden du tog os ud for at dø i ørkenen? Hvad er det du har gjort med os ved at føre os ud af Egypten?",
+      "number": 11,
+      "version": 1587506400000
     },
     {
-      "text": "Er det ikke det vi sagde til dig i Egypten, da vi sagde: >Lad os være, vi vil trælle for egypterne. For det er os bedre for os at trælle for egypterne end at dø i ørkenen.<<<",
-      "number": 12
+      "text": "Er det ikke det vi sagde til dig i Egypten, da vi sagde: ›Lad os være, vi vil trælle for egypterne. For det er os bedre for os at trælle for egypterne end at dø i ørkenen.‹«",
+      "number": 12,
+      "version": 1587506400000
     },
     {
-      "text": "Da sagde Moses til folket: >>Frygt ikke, træd frem og se JHVHs frelse, som han vil udføre for jer i dag; for som I skal se egypterne i dag, skal I ikke i evighed se dem igen.",
-      "number": 13
+      "text": "Da sagde Moses til folket: »Frygt ikke, træd frem og se JHVHs frelse, som han vil udføre for jer i dag; for som I skal se egypterne i dag, skal I ikke i evighed se dem igen.",
+      "number": 13,
+      "version": 1587506400000
     },
     {
-      "text": "JHVH vil kæmpe for jer, og I – I skal tie stille.<<",
-      "number": 14
+      "text": "JHVH vil kæmpe for jer, og I – I skal tie stille.«",
+      "number": 14,
+      "version": 1587506400000
     },
     {
-      "text": "\fJHVH sagde til Moses: >>Hvorfor skriger du til mig? Sig til Israels børn at de skal bryde op;",
-      "number": 15
+      "text": "\fJHVH sagde til Moses: »Hvorfor skriger du til mig? Sig til Israels børn at de skal bryde op;",
+      "number": 15,
+      "version": 1587506400000
     },
     {
       "text": "og du – løft din stav og ræk din hånd ud over havet og kløv det, så skal Israels børn gå midt igennem havet på tør grund.",
-      "number": 16
+      "number": 16,
+      "version": 1587506400000
     },
     {
       "text": "Men jeg, se: jeg vil forhærde egypternes hjerte så de følger efter dem; og jeg vil forherlige mig på Farao og på hele hans hær, på hans vogne og på hans ryttere.",
-      "number": 17
+      "number": 17,
+      "version": 1587506400000
     },
     {
-      "text": "Egypterne skal forstå at jeg er JHVH, når jeg forherliger mig på Farao, på hans vogne og på hans ryttere.<<",
-      "number": 18
+      "text": "Egypterne skal forstå at jeg er JHVH, når jeg forherliger mig på Farao, på hans vogne og på hans ryttere.«",
+      "number": 18,
+      "version": 1587506400000
     },
     {
       "text": "\fDa brød Guds engel, som gik foran Israels hær, op og gik om bag dem; og skysøjlen brød op fra at være foran dem og stillede sig bag dem",
-      "number": 19
+      "number": 19,
+      "version": 1587506400000
     },
     {
       "text": "så den kom mellem Egyptens hær og Israels hær, og den var sky og mørke, men oplyste natten; den ene kom ikke den anden nær hele natten.",
-      "number": 20
+      "number": 20,
+      "version": 1587506400000
     },
     {
       "text": "Moses rakte sin hånd ud over havet, og JHVH drev havet væk ved en stærk østenstorm hele natten og gjorde havet til tørt land; og vandene skiltes ad.",
-      "number": 21
+      "number": 21,
+      "version": 1587506400000
     },
     {
       "text": "Israels børn gik midt igennem havet på tørt land, idet vandet var som en mur på deres højre og på deres venstre side.",
-      "number": 22
+      "number": 22,
+      "version": 1587506400000
     },
     {
       "text": "Og egypterne forfulgte dem og kom efter dem, alle Faraos heste, hans vogne og hans ryttere, til midten af havet.",
-      "number": 23
+      "number": 23,
+      "version": 1587506400000
     },
     {
       "text": "Men det skete i morgenvagten at JHVH så ned til Egyptens hær gennem ildsøjlen og skyen, og han skabte forvirring i Egyptens hær,",
-      "number": 24
+      "number": 24,
+      "version": 1587506400000
     },
     {
-      "text": "og han fjernede hjulene fra deres vogne og lod dem rykke frem med besvær. Da sagde egypterne: >>Lad os flygte for Israel, for JHVH kæmper for dem mod Egypten.<<",
-      "number": 25
+      "text": "og han fjernede hjulene fra deres vogne og lod dem rykke frem med besvær. Da sagde egypterne: »Lad os flygte for Israel, for JHVH kæmper for dem mod Egypten.«",
+      "number": 25,
+      "version": 1587506400000
     },
     {
-      "text": "\fDa sagde JHVH til Moses: >>Ræk din hånd ud over havet, så vandet vender tilbage over egypterne, over deres vogne og over deres ryttere.<<",
-      "number": 26
+      "text": "\fDa sagde JHVH til Moses: »Ræk din hånd ud over havet, så vandet vender tilbage over egypterne, over deres vogne og over deres ryttere.«",
+      "number": 26,
+      "version": 1587506400000
     },
     {
       "text": "Så rakte Moses sin hånd ud over havet, og havet vendte ved daggry tilbage til sit normale leje, og da egypterne flygtede imod det, styrtede JHVH egypterne midt ud i havet.",
-      "number": 27
+      "number": 27,
+      "version": 1587506400000
     },
     {
       "text": "Vandet vendte tilbage og dækkede vognene og rytterne i hele Faraos hær, som var kommet efter dem ud i havet; der blev end ikke én tilbage af dem.",
-      "number": 28
+      "number": 28,
+      "version": 1587506400000
     },
     {
       "text": "Men Israels børn vandrede på det tørre midt gennem havet, og vandet var som en mur for dem på deres højre og på deres venstre side.",
-      "number": 29
+      "number": 29,
+      "version": 1587506400000
     },
     {
       "text": "Sådan frelste JHVH Israel den dag fra egypternes hånd, og Israel så egypterne ligge døde ved havets bred.",
-      "number": 30
+      "number": 30,
+      "version": 1587506400000
     },
     {
       "text": "Israel så den stærke hånd som JHVH havde vist mod Egypten, og folket frygtede JHVH; og de troede på JHVH og på Moses, hans tjener.",
-      "number": 31
+      "number": 31,
+      "version": 1587506400000
     }
   ],
   "titles": [
     {
       "text": "Israel lejrer sig ved havet efter Guds Befaling; Farao sætter efter dem med sin hær",
-      "verse": 1
+      "verse": 1,
+      "version": 1587506400000
     },
     {
       "text": "Israelitternes frygt",
-      "verse": 10
+      "verse": 10,
+      "version": 1587506400000
     },
     {
       "text": "Frelsens Herre",
-      "verse": 15
+      "verse": 15,
+      "version": 1587506400000
     },
     {
       "text": "Israelitterne går tørskoede gennem havet",
-      "verse": 19
+      "verse": 19,
+      "version": 1587506400000
     },
     {
       "text": "Straffen over forfølgerne",
-      "verse": 26
+      "verse": 26,
+      "version": 1587506400000
     }
   ],
   "footnotes": [
     {
-      "text": "Ordret: >>Egypten<<.",
+      "text": "Ordret: »Egypten«.",
       "type": "T",
       "verse": 4,
       "position": 132
@@ -179,19 +215,19 @@
       "position": 39
     },
     {
-      "text": "Ordet *wᵊ* (>>og<<) kan i sammenhængen muligvis oversættes: >>nemlig<<. Derved undgår man også at skulle underforstå et >>andre<< (se næste note).",
+      "text": "Ordet *wᵊ* (»og«) kan i sammenhængen muligvis oversættes: »nemlig«. Derved undgår man også at skulle underforstå et »andre« (se næste note).",
       "type": "T",
       "verse": 7,
       "position": 42
     },
     {
-      "text": "Ordet >>andre<< er underforstået ud fra sammenhængen.",
+      "text": "Ordet »andre« er underforstået ud fra sammenhængen.",
       "type": "T",
       "verse": 7,
       "position": 53
     },
     {
-      "text": "Ordet *šāliš* betyder ordret: >>3. mand<<. Det er måske betegnelse for >>adjudant<< eller >>officer<<.",
+      "text": "Ordet *šāliš* betyder ordret: »3. mand«. Det er måske betegnelse for »adjudant« eller »officer«.",
       "type": "T",
       "verse": 7,
       "position": 84
@@ -203,43 +239,43 @@
       "position": 122
     },
     {
-      "text": "Ordret: >>Egypten<<.",
+      "text": "Ordret: »Egypten«.",
       "type": "T",
       "verse": 9,
       "position": 18
     },
     {
-      "text": "Ordret: >>Egypten<<.",
+      "text": "Ordret: »Egypten«.",
       "type": "T",
       "verse": 10,
       "position": 72
     },
     {
-      "text": ">>Egypten<<.",
+      "text": "»Egypten«.",
       "type": "T",
       "verse": 12,
       "position": 99
     },
     {
-      "text": "Ordret: >>Egypten<<.",
+      "text": "Ordret: »Egypten«.",
       "type": "T",
       "verse": 13,
-      "position": 132
+      "position": 131
     },
     {
-      "text": "Ordret: >>Egyptens<<.",
+      "text": "Ordret: »Egyptens«.",
       "type": "T",
       "verse": 17,
       "position": 40
     },
     {
-      "text": "Ordret: >>kommer<<.",
+      "text": "Ordret: »kommer«.",
       "type": "T",
       "verse": 17,
       "position": 60
     },
     {
-      "text": "Ordret: >>Egypten<<.",
+      "text": "Ordret: »Egypten«.",
       "type": "T",
       "verse": 18,
       "position": 9
@@ -251,13 +287,13 @@
       "position": 91
     },
     {
-      "text": "Ordret: >>fik til at gå (væk)<<.",
+      "text": "Ordret: »fik til at gå (væk)«.",
       "type": "T",
       "verse": 21,
       "position": 58
     },
     {
-      "text": "Ordret: >>i<<.",
+      "text": "Ordret: »i«.",
       "type": "T",
       "verse": 24,
       "position": 67
@@ -269,13 +305,13 @@
       "position": 112
     },
     {
-      "text": "Ordet *yāsar* betyder: >>fjernede<<. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå: *jæʔæsor*: >>blokerede<<. I konsonantteksten skal der blot indføjes et enkelt bogstav.",
+      "text": "Ordet *yāsar* betyder: »fjernede«. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå: *jæʔæsor*: »blokerede«. I konsonantteksten skal der blot indføjes et enkelt bogstav.",
       "type": "T",
       "verse": 25,
       "position": 15
     },
     {
-      "text": "Ordret: >>da sagde Egypten<<.",
+      "text": "Ordret: »da sagde Egypten«.",
       "type": "T",
       "verse": 25,
       "position": 93
@@ -284,28 +320,28 @@
       "text": "Den hebraiske tekst har singularis, jf. foregående note.",
       "type": "T",
       "verse": 25,
-      "position": 102
+      "position": 101
     },
     {
-      "text": "Ordret: >>Egypten<<. Således også: >>over dets vogne og over dets ryttere<<.",
+      "text": "Ordret: »Egypten«. Således også: »over dets vogne og over dets ryttere«.",
       "type": "T",
       "verse": 26,
-      "position": 96
+      "position": 95
     },
     {
-      "text": "Ordret: >>Egyptens<<.",
+      "text": "Ordret: »Egyptens«.",
       "type": "T",
       "verse": 30,
       "position": 48
     },
     {
-      "text": "Ordret: >>Egypten<<.",
+      "text": "Ordret: »Egypten«.",
       "type": "T",
       "verse": 30,
       "position": 77
     },
     {
-      "text": "Ordret: >>store<<.",
+      "text": "Ordret: »store«.",
       "type": "T",
       "verse": 31,
       "position": 20

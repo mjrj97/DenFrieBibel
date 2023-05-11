@@ -24,7 +24,7 @@ const handler = (req, res) => {
 
                 if (found) {
                     if (chapter) {
-                        if (chapter <= found.chapters && chapter > 0) {
+                        if (chapter <= found.chapters.length && chapter > 0) {
                             let path = './texts/new-format/' + book + '/' + chapter + '.json';
                             if (existsSync(path)) {
                                 text = JSON.parse(readFileSync(path));
@@ -41,7 +41,7 @@ const handler = (req, res) => {
                         }
                         else {
                             status = 400; // Bad Request
-                            result.errors.push("There are only " + found.chapters + " in this book.");
+                            result.errors.push("There are only " + found.chapters.length + " in this book.");
                         }
                     }
                     else {

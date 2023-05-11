@@ -2,82 +2,93 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 121,
-  "version": 1666562400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Mikkel Kølkær",
-      "type": "exegetic layout"
+      "type": "Eksegetisk layout"
     }
   ],
   "verses": [
     {
       "text": "\fSang til valfarterne.\fJeg løfter mine øjne til bjergene,\f\n\thvorfra skal min hjælp komme?",
-      "number": 1
+      "number": 1,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\tMin hjælp kommer fra JHVH,\fhimlens og jordens skaber.",
-      "number": 2
+      "number": 2,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\tHan lader ikke din fod vakle,\f\n\t\t\tog han som bevarer dig, slumrer ikke!",
-      "number": 3
+      "number": 3,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\tSe, han slumrer ikke\f\n\t\t\t\t\t\tog sover ikke,\fhan som bevarer Israel!",
-      "number": 4
+      "number": 4,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\tJHVH er den der bevarer dig,\f\n\t\t\t\t\t\tJHVH er din skygge\fved din højre hånd.",
-      "number": 5
+      "number": 5,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\t\t\t\tOm dagen skal solen ikke stikke dig\f\n\t\t\t\t\t\t\t\t\teller månen om natten.",
-      "number": 6
+      "number": 6,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\t\t\tJHVH vil bevare dig fra alt ondt,\f\n\t\t\t\t\t\t\t\t\than vil bevare dit liv.",
-      "number": 7
+      "number": 7,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\t\t\t\tJHVH vil bevare\n\t\t\t\t\t\t\t\t\t\tdin udgang\n\t\t\t\t\t\t\t\t\t\t\tog din indgang\f\n\t\t\t\t\t\t\t\t\tfra nu af og til evig tid.",
-      "number": 8
+      "number": 8,
+      "version": 1666562400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1666562400000
     },
     {
       "text": "Min hjælp kommer fra JHVH",
-      "verse": 2
+      "verse": 2,
+      "version": 1666562400000
     },
     {
       "text": "JHVH bevarer dig",
-      "verse": 3
+      "verse": 3,
+      "version": 1666562400000
     }
   ],
   "footnotes": [
     {
-      "text": "Se note til Sl 120,1. Mens overskriften til alle de øvrige 14 valfartssange lyder: *šîr hammaʕᵃlôt* (>>valfartssang<<), er der her tilføjet præpositionen: *lᵊ-* (>>til<<): *šîr lammaʕᵃlôt*: >>sang til valfarterne<<.",
+      "text": "Se note til Sl 120,1. Mens overskriften til alle de øvrige 14 valfartssange lyder: *šîr hammaʕᵃlôt* (»valfartssang«), er der her tilføjet præpositionen: *lᵊ-* (»til«): *šîr lammaʕᵃlôt*: »sang til valfarterne«.",
       "type": "E",
       "verse": 1,
       "position": 22
     },
     {
-      "text": "Den hebraiske tekst har ordet: *nefeš*, der ofte skal oversættes: >>sjæl<<, men her utvivlsomt er brugt i betydningen: >>liv<<. Samtidig angiver ordet dog at det drejer sig om mere end den fysiske overlevelse, nemlig om livet med Gud.",
+      "text": "Den hebraiske tekst har ordet: *nefeš*, der ofte skal oversættes: »sjæl«, men her utvivlsomt er brugt i betydningen: »liv«. Samtidig angiver ordet dog at det drejer sig om mere end den fysiske overlevelse, nemlig om livet med Gud.",
       "type": "E",
       "verse": 7,
       "position": 75

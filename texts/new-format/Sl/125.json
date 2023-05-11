@@ -2,55 +2,63 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 125,
-  "version": 1504476000000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang.\fDe som stoler på JHVH,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
-      "number": 1
+      "number": 1,
+      "version": 1504476000000
     },
     {
       "text": "\fJerusalem – der er bjerge omkring den,\fog JHVH er omkring sit folk\ffra nu af og til evig tid.",
-      "number": 2
+      "number": 2,
+      "version": 1504476000000
     },
     {
       "text": "\fFor uretfærdighedens scepter skal ikke hvile\fover de retfærdiges arvelod\ffor at de retfærdige ikke skal række\fderes hænder til uretfærdighed.",
-      "number": 3
+      "number": 3,
+      "version": 1504476000000
     },
     {
       "text": "\fGør vel, JHVHv, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
-      "number": 4
+      "number": 4,
+      "version": 1504476000000
     },
     {
       "text": "\fMen dem som slår ind på deres krogede veje,\fskal JHVH lade fare bort med dem som begår synd.\fFred over Israel!",
-      "number": 5
+      "number": 5,
+      "version": 1504476000000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1504476000000
     },
     {
       "text": "Tillid til JHVHs omsorg",
-      "verse": 2
+      "verse": 2,
+      "version": 1504476000000
     },
     {
       "text": "Bøn",
-      "verse": 4
+      "verse": 4,
+      "version": 1504476000000
     }
   ],
   "footnotes": [
@@ -61,13 +69,13 @@
       "position": 14
     },
     {
-      "text": "Ordret: >>omkring hende<<.",
+      "text": "Ordret: »omkring hende«.",
       "type": "T",
       "verse": 2,
       "position": 39
     },
     {
-      "text": "Kan også oversættes: >>ugudelighedens<<",
+      "text": "Kan også oversættes: »ugudelighedens«",
       "type": "T",
       "verse": 3,
       "position": 21

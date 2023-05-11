@@ -2,106 +2,124 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 85,
-  "version": 1646002800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
-      "number": 1
+      "number": 1,
+      "version": 1646002800000
     },
     {
       "text": "\fDu har haft lyst, JHVHv, til dit land,\fdu vendte Jakobs situation.",
-      "number": 2
+      "number": 2,
+      "version": 1646002800000
     },
     {
       "text": "\fDu borttog dit folks skyld,\fdu skjulte al deres synd. Sela",
-      "number": 3
+      "number": 3,
+      "version": 1646002800000
     },
     {
       "text": "\fDu holdt al din vrede tilbage,\fdu vendte om fra din vredes glød.",
-      "number": 4
+      "number": 4,
+      "version": 1646002800000
     },
     {
       "text": "\fGenrejs os, vor frelses Gud,\fog opgiv din vrede mod os.",
-      "number": 5
+      "number": 5,
+      "version": 1646002800000
     },
     {
       "text": "\fVil du være vred på os for evigt?\fVil du udstrække din vrede til slægt efter slægt?",
-      "number": 6
+      "number": 6,
+      "version": 1646002800000
     },
     {
       "text": "\fVil du ikke gøre os levende igen,\fså dit folk kan glæde sig i dig?",
-      "number": 7
+      "number": 7,
+      "version": 1646002800000
     },
     {
       "text": "\fJHVHv, lad os se din nåde,\fog giv os din frelse!",
-      "number": 8
+      "number": 8,
+      "version": 1646002800000
     },
     {
       "text": "\fJeg vil høre, hvad Gud taler,\fJHVH taler jo fred\ftil sit folk og til sine fromme,\fså de ikke vender tilbage til tåbelighed.",
-      "number": 9
+      "number": 9,
+      "version": 1646002800000
     },
     {
       "text": "\fJa, hans frelse er nær hos dem som frygter ham,\fså herlighed kan bo i vort land.",
-      "number": 10
+      "number": 10,
+      "version": 1646002800000
     },
     {
       "text": "\fNåde og sandhed har mødt hinanden,\fretfærdighed og fred har kysset.",
-      "number": 11
+      "number": 11,
+      "version": 1646002800000
     },
     {
       "text": "\fSandhed skal spire frem af jorden,\fog retfærdighed skal se ned fra himlen.",
-      "number": 12
+      "number": 12,
+      "version": 1646002800000
     },
     {
       "text": "\fJHVH vil også give det som er godt,\fog vort land vil give sin afgrøde.",
-      "number": 13
+      "number": 13,
+      "version": 1646002800000
     },
     {
       "text": "\fRetfærdighed skal gå foran ham\fog fred i hans skridts spor!",
-      "number": 14
+      "number": 14,
+      "version": 1646002800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1646002800000
     },
     {
       "text": "Gud var nådig",
-      "verse": 2
+      "verse": 2,
+      "version": 1646002800000
     },
     {
       "text": "Gud, vær os nådig",
-      "verse": 5
+      "verse": 5,
+      "version": 1646002800000
     },
     {
       "text": "Gud vil være nådig",
-      "verse": 9
+      "verse": 9,
+      "version": 1646002800000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: >>vending<<, der i forbindelse med verbum af samme rod (*šwb*) betyder>>vende ens situation/lod<<. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: >>fangenskab<<.",
+      "text": "Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: »vending«, der i forbindelse med verbum af samme rod (*šwb*) betyder»vende ens situation/lod«. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: »fangenskab«.",
       "type": "E",
       "verse": 2,
       "position": 67
@@ -113,7 +131,7 @@
       "position": 59
     },
     {
-      "text": "Ordret blot: >>vend os<<. Meningen må enten være: >>genrejs os<<, eller: >>bring os tilbage<<, eller måske: >>vend tilbage til os<<. Andre foreslår at rette: *šûvēnû* (>>vend os<<) til: *šûv nāˀ*: >>vend dog tilbage<<.",
+      "text": "Ordret blot: »vend os«. Meningen må enten være: »genrejs os«, eller: »bring os tilbage«, eller måske: »vend tilbage til os«. Andre foreslår at rette: *šûvēnû* (»vend os«) til: *šûv nāˀ*: »vend dog tilbage«.",
       "type": "E",
       "verse": 5,
       "position": 12
@@ -125,13 +143,13 @@
       "position": 5
     },
     {
-      "text": "Ordret: >>foran hans ansigt<<.",
+      "text": "Ordret: »foran hans ansigt«.",
       "type": "T",
       "verse": 14,
       "position": 31
     },
     {
-      "text": "Den masoretiske tekst ordret: >>og han/den gør sine skridt til en vej/til et spor<<. Det er foreslået at oversætte: >>og den bereder vej for hans skridt<<, med >>retfærdighed<< som subjekt. Sådan som præpositionen *lᵊ* (>>på/for<<) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (>>og han sætter<<) til: *wᵊšālôm*: >>og fred<< eller: *wᵊyēšaʕ*: >>og frelse<<.",
+      "text": "Den masoretiske tekst ordret: »og han/den gør sine skridt til en vej/til et spor«. Det er foreslået at oversætte: »og den bereder vej for hans skridt«, med »retfærdighed« som subjekt. Sådan som præpositionen *lᵊ* (»på/for«) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (»og han sætter«) til: *wᵊšālôm*: »og fred« eller: *wᵊyēšaʕ*: »og frelse«.",
       "type": "E",
       "verse": 14,
       "position": 60

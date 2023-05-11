@@ -2,138 +2,155 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 58,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen. Al-tashket.\fAf David. Miktam.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fTaler I virkelig retfærdighed i stumhed?\fDømmer I menneskets børn retskaffent?",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fNej, i hjertet øver I uret i landet,\fbaner vej for jeres hænders vold.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fDe ugudelige er frafaldne fra moders skød,\fde som taler løgn, for vild fra moders liv.",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fDe har gift som en slanges gift,\fde er som en døv kobra der stopper sit øre til",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fså den ikke kan høre besværgerens røst,\fden øvede slangetæmmer.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fGud! Knus deres tænder i deres mund,\fsønderbryd de unge løvers kæber, JHVHv!",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fLad dem flyde ud som vand der løber bort,\fhan skal skyde sine pile af som om de er uden kraft,",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fsom en snegl der opløses, idet den bevæger sig af sted,\fsom en kvindes dødfødte barn, som de der ikke har set solen.",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fFør jeres gryder mærker tjørnen,\fsom frisk eller som glød, blæser han ham bort.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fDen retfærdige skal glæde sig, for han har set hævn,\fhan skal vaske sine fødder i den ugudeliges blod,",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
-      "text": "\fog mennesker skal sige:\f>>Ja, der er løn til den retfærdige,\fJa, der er en Gud, som dømmer på jorden!<<",
-      "number": 12
+      "text": "\fog mennesker skal sige:\f»Ja, der er løn til den retfærdige,\fJa, der er en Gud, som dømmer på jorden!«",
+      "number": 12,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "De uretfærdige ledere tiltales",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "De ugudeliges væsen",
-      "verse": 4
+      "verse": 4,
+      "version": 1500242400000
     },
     {
       "text": "Bøn om dom",
-      "verse": 7
+      "verse": 7,
+      "version": 1500242400000
     },
     {
       "text": "Den retfærdiges glæde og tro",
-      "verse": 11
+      "verse": 11,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: >>fordærv ikke/ødelæg ikke<<. Det kan være begyndelsesordene i en – nu ukendt - salme",
+      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt - salme",
       "type": "T",
       "verse": 1,
       "position": 28
     },
     {
-      "text": "Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<), eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-57; 59-60) fastholde en alvorlig situation i folkets erindring.",
+      "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-57; 59-60) fastholde en alvorlig situation i folkets erindring.",
       "type": "T",
       "verse": 1,
       "position": 46
     },
     {
-      "text": "Forståelsen af linjen er usikker. Meningen kan være at ledere og dommere tier, hvor de burde hævde retfærdigheden. Ofte ændrer man dog vokaliseringen af ordet *ʔēlem* (>>stumhed<<) til *ʔēlîm*: >>I guder<< eller >>I mægtige<<. I så fald passer det sidste bedst i sammenhængen.",
+      "text": "Forståelsen af linjen er usikker. Meningen kan være at ledere og dommere tier, hvor de burde hævde retfærdigheden. Ofte ændrer man dog vokaliseringen af ordet *ʔēlem* (»stumhed«) til *ʔēlîm*: »I guder« eller »I mægtige«. I så fald passer det sidste bedst i sammenhængen.",
       "type": "T",
       "verse": 2,
       "position": 41
     },
     {
-      "text": "Ordet >>landet<< kan evt. henføres til andet halvvers: >>baner vej for jeres hænders vold i landet<<.",
+      "text": "Ordet »landet« kan evt. henføres til andet halvvers: »baner vej for jeres hænders vold i landet«.",
       "type": "T",
       "verse": 3,
       "position": 37
     },
     {
-      "text": "Det hebraiske ord *peten* er navn på en giftslange, formodentlig en >>kobra<< eller lignende.",
+      "text": "Det hebraiske ord *peten* er navn på en giftslange, formodentlig en »kobra« eller lignende.",
       "type": "T",
       "verse": 5,
       "position": 56
     },
     {
-      "text": "Ordret: >>han rette sine pile som om de er afskårne/afstumpede/uden kraft<<. På baggrund af parallellen v. 8a foreslås ofte en omstilling i konsonantteksten: >>de skal visne som græs ved vejen<<. Omstillingen har dog hverken støtte i hebraiske håndskrifter eller i gamle oversættelser.",
+      "text": "Ordret: »han rette sine pile som om de er afskårne/afstumpede/uden kraft«. På baggrund af parallellen v. 8a foreslås ofte en omstilling i konsonantteksten: »de skal visne som græs ved vejen«. Omstillingen har dog hverken støtte i hebraiske håndskrifter eller i gamle oversættelser.",
       "type": "E",
       "verse": 8,
       "position": 95
     },
     {
-      "text": "Underforstået formodentlig: >>varmen fra tjørnen<<.",
+      "text": "Underforstået formodentlig: »varmen fra tjørnen«.",
       "type": "T",
       "verse": 10,
       "position": 33
@@ -145,7 +162,7 @@
       "position": 80
     },
     {
-      "text": "Ordret: >>et menneske<<, men det må opfattes kollektivt<<.",
+      "text": "Ordret: »et menneske«, men det må opfattes kollektivt«.",
       "type": "T",
       "verse": 12,
       "position": 13

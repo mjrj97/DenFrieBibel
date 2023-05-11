@@ -2,39 +2,43 @@
   "book": "Femte Mosebog",
   "abbreviation": "5Mos",
   "chapter": 8,
-  "version": 1614726000000,
-  "authors": [
+  "translation": 25,
+  "contributors": [
     {
       "name": "Trine Tøndering",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Endnu ikke sket",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fHvert bud jeg giver dig i dag, skal I holde, så I handler efter dem for at I må leve og blive mange og komme ind og tage det land i eje som JHVH har lovet jeres fædre.",
-      "number": 1
+      "number": 1,
+      "version": 1614726000000
     },
     {
       "text": "Du skal huske på hele den vej som JHVH din Gud har ladet dig vandre i disse fyrre år i ørkenen for at ydmyge dig, for at prøve dig, for at finde ud af hvad der var i dit hjerte, om du vil holde hans bud eller ej.",
-      "number": 2
+      "number": 2,
+      "version": 1614726000000
     },
     {
       "text": "Og han ydmygede dig og lod dig sulte og gav dig manna at spise, som hverken du eller dine fædre kendte, for at lade dig vide at mennesket ikke lever af brød alene, men mennesket lever af alt det som udgår af JHVHs mund.",
-      "number": 3
+      "number": 3,
+      "version": 1614726000000
     }
   ],
   "titles": [
     {
       "text": "Moses opmuntrer folket til lydighed på grund af de mange velgerninger Gud har vist dem",
-      "verse": 1
+      "verse": 1,
+      "version": 1614726000000
     }
   ],
   "footnotes": []

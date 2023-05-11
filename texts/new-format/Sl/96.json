@@ -2,114 +2,131 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 96,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fSyng for JHVH en ny sang,\fsyng for JHVH hele jorden!",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fFortæl om hans herlighed blandt folkene,\fblandt alle folkeslagene om hans undere.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fFor JHVH er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fHøjhed og pragt er for hans ansigt,\fmagt og herlighed i hans helligdom.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fGiv JHVH, I folkeslagenes slægter,\fgiv JHVH ære og magt!",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fGiv JHVH hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
-      "text": "\fSig blandt folkene: >>JHVH er konge!<<\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
-      "number": 10
+      "text": "\fSig blandt folkene: »JHVH er konge!«\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fHimlen skal glæde sig, og jorden skal juble,\fhavet og dets fylde skal larme,",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
       "text": "\fmark og alt hvad der er derpå, skal fryde sig,\fda skal alle skovens træer juble",
-      "number": 12
+      "number": 12,
+      "version": 1500242400000
     },
     {
       "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
-      "number": 13
+      "number": 13,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Opfordring til lovsang",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "For Gud er stor",
-      "verse": 4
+      "verse": 4,
+      "version": 1500242400000
     },
     {
       "text": "Opfordring til tilbedelse",
-      "verse": 7
+      "verse": 7,
+      "version": 1500242400000
     },
     {
       "text": "Opfordring til jubel",
-      "verse": 11
+      "verse": 11,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Kan også oversættes: >>velsign<<.",
+      "text": "Kan også oversættes: »velsign«.",
       "type": "T",
       "verse": 2,
       "position": 20
     },
     {
-      "text": "Grundteksten har blot et ord, der betegner >>afguder<<, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
+      "text": "Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
       "type": "T",
       "verse": 5,
       "position": 47
     },
     {
-      "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat >>smykke, skrud, åbenbaring, tilsynekomst, majestæt<<.",
+      "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
       "type": "E",
       "verse": 9,
       "position": 41
     },
     {
-      "text": "Kan også oversættes: >>trofasthed<<.",
+      "text": "Kan også oversættes: »trofasthed«.",
       "type": "T",
       "verse": 13,
       "position": 142

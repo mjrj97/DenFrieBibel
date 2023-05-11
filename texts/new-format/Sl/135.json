@@ -2,127 +2,153 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 135,
-  "version": 1504476000000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fHalleluja!\fLovpris JHVHs navn,\flovpris, I JHVHs tjenere",
-      "number": 1
+      "number": 1,
+      "version": 1504476000000
     },
     {
       "text": "\fsom står i JHVHs hus,\fi vor Guds hus’ forgårde.",
-      "number": 2
+      "number": 2,
+      "version": 1504476000000
     },
     {
       "text": "\fLovpris JHVH, for JHVH er god,\flovsyng hans navn, for det er herligt.",
-      "number": 3
+      "number": 3,
+      "version": 1504476000000
     },
     {
       "text": "\fFor JHVH har udvalgt sig Jakob,\fIsrael til sin ejendom.",
-      "number": 4
+      "number": 4,
+      "version": 1504476000000
     },
     {
       "text": "\fJa, jeg ved at JHVH er stor,\fog at vor Herre er større end alle guder.",
-      "number": 5
+      "number": 5,
+      "version": 1504476000000
     },
     {
       "text": "\fAlt hvad JHVH ønsker,\fgør han i himlen og på jorden, i havene og alle dyb.",
-      "number": 6
+      "number": 6,
+      "version": 1504476000000
     },
     {
       "text": "\fHan lader skyer stige op fra jordens ende,\fhan skabte lyn sammen med regnen,\fhan lader storm fare ud fra sine forrådskamre.",
-      "number": 7
+      "number": 7,
+      "version": 1504476000000
     },
     {
       "text": "\fHan er den som dræbte Egyptens førstefødte,\fbåde mennesker og dyr;",
-      "number": 8
+      "number": 8,
+      "version": 1504476000000
     },
     {
       "text": "\fhan sendte tegn og undere i din midte, Egypten,\fmod Farao og mod alle hans tjenere.",
-      "number": 9
+      "number": 9,
+      "version": 1504476000000
     },
     {
       "text": "\fHan er den som slog mange folkeslag\fog dræbte mægtige konger:",
-      "number": 10
+      "number": 10,
+      "version": 1504476000000
     },
     {
       "text": "\fSihon, amoritternes konge,\fog Og, Bashans konge,\fog alle Kana’ans kongedømmer,",
-      "number": 11
+      "number": 11,
+      "version": 1504476000000
     },
     {
       "text": "\fog han gav deres land som arvelod,\fsom arvelod til sit folk Israel.",
-      "number": 12
+      "number": 12,
+      "version": 1504476000000
     },
     {
       "text": "\fJHVHv, dit navn bliver til evig tid,\fJHVHv, dit minde består i slægt efter slægt.",
-      "number": 13
+      "number": 13,
+      "version": 1504476000000
     },
     {
       "text": "\fFor JHVH vil skaffe sit folk ret,\fog han vil forbarme sig over sine tjenere.",
-      "number": 14
+      "number": 14,
+      "version": 1504476000000
     },
     {
       "text": "\fFolkenes gudebilleder er sølv og guld,\fmenneskehænders værk.",
-      "number": 15
+      "number": 15,
+      "version": 1504476000000
     },
     {
       "text": "\fDe har mund, men de kan ikke tale,\fde har øjne, men de kan ikke se,",
-      "number": 16
+      "number": 16,
+      "version": 1504476000000
     },
     {
       "text": "\fde har ører, men de kan ikke lytte,\fder er heller ingen åndedræt i deres mund.",
-      "number": 17
+      "number": 17,
+      "version": 1504476000000
     },
     {
       "text": "\fSom de er, skal de som har lavet dem, blive,\fenhver som stoler på dem.",
-      "number": 18
+      "number": 18,
+      "version": 1504476000000
     },
     {
       "text": "\fIsraels hus, pris JHVH,\fArons hus, pris JHVH,",
-      "number": 19
+      "number": 19,
+      "version": 1504476000000
     },
     {
       "text": "\fLevis hus, pris JHVH,\fI som frygter JHVH, pris JHVH!",
-      "number": 20
+      "number": 20,
+      "version": 1504476000000
     },
     {
       "text": "\fPriset være JHVH fra Zion,\fhan som bor i Jerusalem!\fHalleluja!",
-      "number": 21
+      "number": 21,
+      "version": 1504476000000
     }
   ],
   "titles": [
     {
       "text": "Opfordring til lovprisning",
-      "verse": 1
+      "verse": 1,
+      "version": 1504476000000
     },
     {
       "text": "Lovprisning af skaberen",
-      "verse": 5
+      "verse": 5,
+      "version": 1504476000000
     },
     {
       "text": "Lovprisning af frelseren",
-      "verse": 8
+      "verse": 8,
+      "version": 1504476000000
     },
     {
       "text": "Afgudernes afmagt",
-      "verse": 15
+      "verse": 15,
+      "version": 1504476000000
     },
     {
       "text": "Opfordring til at prise JHVH",
-      "verse": 19
+      "verse": 19,
+      "version": 1504476000000
     }
   ],
   "footnotes": [
@@ -139,43 +165,43 @@
       "position": 9
     },
     {
-      "text": "Ordret: >>fra mennesker til dyr<<.",
+      "text": "Ordret: »fra mennesker til dyr«.",
       "type": "T",
       "verse": 8,
       "position": 67
     },
     {
-      "text": "Ordet *zēxer* (>>minde<<) bruges ofte i GT synonymt med >>navn<< når det er brugt om Gud. Tidligere oversat: >>ihukommelse<<.",
+      "text": "Ordet *zēxer* (»minde«) bruges ofte i GT synonymt med »navn« når det er brugt om Gud. Tidligere oversat: »ihukommelse«.",
       "type": "E",
       "verse": 13,
       "position": 54
     },
     {
-      "text": "Grundbetydningen af verbet *dyn* (>>skaffe ret<<) er egentlig: >>dømme<<, men det hebraiske ord har videre betydning end det danske, dels i retning af at >>lede<< (Israels dommere var egentlig folkets ledere), dels i retning af at forsvare mod uret og undertrykkelse. I sammenhængen er det det sidste der er tale om, kort udtrykt: >>skaffe ret<<.",
+      "text": "Grundbetydningen af verbet *dyn* (»skaffe ret«) er egentlig: »dømme«, men det hebraiske ord har videre betydning end det danske, dels i retning af at »lede« (Israels dommere var egentlig folkets ledere), dels i retning af at forsvare mod uret og undertrykkelse. I sammenhængen er det det sidste der er tale om, kort udtrykt: »skaffe ret«.",
       "type": "E",
       "verse": 14,
       "position": 34
     },
     {
-      "text": "Kan også oversættes: >>Hedningernes<<.",
+      "text": "Kan også oversættes: »Hedningernes«.",
       "type": "T",
       "verse": 15,
       "position": 9
     },
     {
-      "text": "Kan også oversættes: >>velsign<<.",
+      "text": "Kan også oversættes: »velsign«.",
       "type": "T",
       "verse": 19,
       "position": 18
     },
     {
-      "text": "I grundteksten har >>Levi<< bestemt artikel. Det er muligt, at det skal opfattes som kollektiv betegnelse og oversættes: >>levitternes<<.",
+      "text": "I grundteksten har »Levi« bestemt artikel. Det er muligt, at det skal opfattes som kollektiv betegnelse og oversættes: »levitternes«.",
       "type": "E",
       "verse": 20,
       "position": 6
     },
     {
-      "text": "Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 136.",
+      "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 136.",
       "type": "T",
       "verse": 21,
       "position": 63

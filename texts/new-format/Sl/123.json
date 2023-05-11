@@ -2,51 +2,58 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 123,
-  "version": 1504476000000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang.\fTil dig har jeg løftet mine øjne,\fdu som troner i himlen!",
-      "number": 1
+      "number": 1,
+      "version": 1504476000000
     },
     {
       "text": "\fSe, som trælles øjne\fer rettet mod deres herrers hånd,\fsom en trælkvindes øjne\fer rettet mod hendes frues hånd,\fsådan er vore øjne rettet mod JHVH, vor Gud,\findtil han er os nådig.",
-      "number": 2
+      "number": 2,
+      "version": 1504476000000
     },
     {
       "text": "\fVær os nådig, JHVHv, vær os nådig,\ffor vi er voldsomt mættede med foragt!",
-      "number": 3
+      "number": 3,
+      "version": 1504476000000
     },
     {
       "text": "\fVor sjæl er overmæt\faf spotten, de sorgløse,\fforagten fra stolte.",
-      "number": 4
+      "number": 4,
+      "version": 1504476000000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1504476000000
     },
     {
       "text": "De troendes tillid og forventning",
-      "verse": 2
+      "verse": 2,
+      "version": 1504476000000
     },
     {
       "text": "Vær os nådig!",
-      "verse": 3
+      "verse": 3,
+      "version": 1504476000000
     }
   ],
   "footnotes": [
@@ -57,13 +64,13 @@
       "position": 14
     },
     {
-      "text": "Udtrykket kan måske betyde: >>af spotten, nemlig fra de sorgløse<<. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (>>de sorgløse<<) ser ud til at have læst: *laššaˀᵃnannîm*: >>fra de sorgløse<<.",
+      "text": "Udtrykket kan måske betyde: »af spotten, nemlig fra de sorgløse«. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (»de sorgløse«) ser ud til at have læst: *laššaˀᵃnannîm*: »fra de sorgløse«.",
       "type": "E",
       "verse": 4,
       "position": 45
     },
     {
-      "text": "Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (>>fra stolte<<) skal deles i to ord: *ligᵊʔê yônîm*: >>fra undertrykkeres stolte<< = >>fra stolte blandt undertrykkere<<.",
+      "text": "Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (»fra stolte«) skal deles i to ord: *ligᵊʔê yônîm*: »fra undertrykkeres stolte« = »fra stolte blandt undertrykkere«.",
       "type": "E",
       "verse": 4,
       "position": 66

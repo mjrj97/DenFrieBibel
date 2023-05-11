@@ -2,59 +2,68 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 128,
-  "version": 1504476000000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang.\fLykkelig hver den som frygter JHVH,\fsom går på hans veje!",
-      "number": 1
+      "number": 1,
+      "version": 1504476000000
     },
     {
       "text": "\fFrugten af dine hænders arbejde skal du rigtig nok spise,\flykkelig er du, og det skal gå dig vel.",
-      "number": 2
+      "number": 2,
+      "version": 1504476000000
     },
     {
       "text": "\fDin hustru er som en frugtbar vinstok\fi dit hus’ indre,\fdine sønner er som oliventræers skud\fomkring dit bord.",
-      "number": 3
+      "number": 3,
+      "version": 1504476000000
     },
     {
       "text": "\fJa, se sådan velsignes den mand\fsom frygter JHVH.",
-      "number": 4
+      "number": 4,
+      "version": 1504476000000
     },
     {
       "text": "\fJHVH velsigne dig fra Zion\fså du ser Jerusalems lykke\falle dit livs dage,",
-      "number": 5
+      "number": 5,
+      "version": 1504476000000
     },
     {
       "text": "\fog så du ser dine sønners sønner!\fFred over Israel!",
-      "number": 6
+      "number": 6,
+      "version": 1504476000000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1504476000000
     },
     {
       "text": "Den gudfrygtiges lykke",
-      "verse": 2
+      "verse": 2,
+      "version": 1504476000000
     },
     {
       "text": "JHVH velsigne dig",
-      "verse": 5
+      "verse": 5,
+      "version": 1504476000000
     }
   ],
   "footnotes": [
@@ -65,13 +74,13 @@
       "position": 14
     },
     {
-      "text": "Kan også oversættes: >>salig<<.",
+      "text": "Kan også oversættes: »salig«.",
       "type": "T",
       "verse": 1,
       "position": 23
     },
     {
-      "text": "Ordret: >>aflæggere/stiklinger af oliventræer<<.",
+      "text": "Ordret: »aflæggere/stiklinger af oliventræer«.",
       "type": "T",
       "verse": 3,
       "position": 93

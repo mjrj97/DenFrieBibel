@@ -2,130 +2,154 @@
   "book": "Anden Mosebog",
   "abbreviation": "2Mos",
   "chapter": 13,
-  "version": 1587506400000,
-  "authors": [
+  "translation": 75,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Endnu ikke sket",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fJHVH talte til Moses og sagde:",
-      "number": 1
+      "number": 1,
+      "version": 1587506400000
     },
     {
-      "text": ">>Du skal hellige mig hver førstefødt; det som åbner hver moders liv blandt Israels børn, hos menneske og hos kvæg, det tilhører mig.<<",
-      "number": 2
+      "text": "»Du skal hellige mig hver førstefødt; det som åbner hver moders liv blandt Israels børn, hos menneske og hos kvæg, det tilhører mig.«",
+      "number": 2,
+      "version": 1587506400000
     },
     {
-      "text": "Moses sagde til folket: >>Husk denne dag, på hvilken I drog ud af Egypten, af trællehuset; for med en stærk hånd førte JHVH jer ud herfra. Der må ikke spises syrnet brød.",
-      "number": 3
+      "text": "Moses sagde til folket: »Husk denne dag, på hvilken I drog ud af Egypten, af trællehuset; for med en stærk hånd førte JHVH jer ud herfra. Der må ikke spises syrnet brød.",
+      "number": 3,
+      "version": 1587506400000
     },
     {
       "text": "I dag drager I ud, i måneden abib.",
-      "number": 4
+      "number": 4,
+      "version": 1587506400000
     },
     {
       "text": "Og det skal ske når JHVH bringer dig til kana’anæernes og hittitternes og amoritternes og hivvitternes og jebusitternes land som han tilsvor dine fædre at give dig, et land som flyder med mælk og honning, da skal du varetage denne tjeneste i denne måned:",
-      "number": 5
+      "number": 5,
+      "version": 1587506400000
     },
     {
       "text": "Syv dage skal du spise usyrede brød, og på den syvende dag er der højtid for JHVH.",
-      "number": 6
+      "number": 6,
+      "version": 1587506400000
     },
     {
       "text": "Usyrede brød skal der spises de syv dage, og der skal ikke ses syrnet brød hos dig og ikke ses surdej hos dig i hele dit landeområde.",
-      "number": 7
+      "number": 7,
+      "version": 1587506400000
     },
     {
-      "text": "Og du skal forkynde for din søn på den dag og sige: >Det er på grund af det som JHVH gjorde for mig da jeg drog ud af Egypten.<",
-      "number": 8
+      "text": "Og du skal forkynde for din søn på den dag og sige: ›Det er på grund af det som JHVH gjorde for mig da jeg drog ud af Egypten.‹",
+      "number": 8,
+      "version": 1587506400000
     },
     {
       "text": "Det skal for dig være et tegn på din hånd og et erindringsmærke mellem dine øjne for at JHVHs lov skal være i din mund; for med stærk hånd førte JHVH dig ud af Egypten.",
-      "number": 9
+      "number": 9,
+      "version": 1587506400000
     },
     {
       "text": "Du skal tage vare på denne forordning på dens fastsatte tid, år for år.",
-      "number": 10
+      "number": 10,
+      "version": 1587506400000
     },
     {
       "text": "Og det skal ske når JHVH har bragt dig til kana’anæernes land, som han tilsvor dig og dine fædre, og har givet dig det,",
-      "number": 11
+      "number": 11,
+      "version": 1587506400000
     },
     {
       "text": "da skal du overgive alt det som åbner moders liv til JHVH; og alt det første afkom af kvæg som tilhører dig, hvad som er hankøn, skal du overgive til JHVH.",
-      "number": 12
+      "number": 12,
+      "version": 1587506400000
     },
     {
       "text": "Hvert førstefødt æsel kan du frikøbe med et lam eller et kid, men hvis du ikke frikøber det, skal du brække halsen på det. Men hvert førstefødt menneske blandt dine sønner skal du frikøbe.",
-      "number": 13
+      "number": 13,
+      "version": 1587506400000
     },
     {
-      "text": "Og det skal ske når din søn i fremtiden spørger dig: >Hvad er dette?< da skal du sige til ham: >Med stærk hånd førte JHVH udførte os ud af Egypten, af trællehuset.",
-      "number": 14
+      "text": "Og det skal ske når din søn i fremtiden spørger dig: ›Hvad er dette?‹ da skal du sige til ham: ›Med stærk hånd førte JHVH udførte os ud af Egypten, af trællehuset.",
+      "number": 14,
+      "version": 1587506400000
     },
     {
-      "text": "Da Farao havde forhærdet sig så han ikke lod os gå, slog JHVH alle førstefødte i Egyptens land ihjel, fra menneskets førstefødte til kvægets førstefødte. Derfor ofrer jeg til JHVH alle af hankøn som åbner moders liv, og jeg frikøber hver min førstefødte søn.<",
-      "number": 15
+      "text": "Da Farao havde forhærdet sig så han ikke lod os gå, slog JHVH alle førstefødte i Egyptens land ihjel, fra menneskets førstefødte til kvægets førstefødte. Derfor ofrer jeg til JHVH alle af hankøn som åbner moders liv, og jeg frikøber hver min førstefødte søn.‹",
+      "number": 15,
+      "version": 1587506400000
     },
     {
-      "text": "Det skal være et tegn på din hånd og et symbol mellem dine øjne på at med stærk hånd førte JHVH os ud af Egypten.<<",
-      "number": 16
+      "text": "Det skal være et tegn på din hånd og et symbol mellem dine øjne på at med stærk hånd førte JHVH os ud af Egypten.«",
+      "number": 16,
+      "version": 1587506400000
     },
     {
-      "text": "\fDengang Farao lod folket gå, førte Gud dem ikke ad vejen til filistrenes land skønt den var nærmest; for Gud sagde: >>For at folket ikke skal fortryde når de ser krig, og vende tilbage til Egypten.<<",
-      "number": 17
+      "text": "\fDengang Farao lod folket gå, førte Gud dem ikke ad vejen til filistrenes land skønt den var nærmest; for Gud sagde: »For at folket ikke skal fortryde når de ser krig, og vende tilbage til Egypten.«",
+      "number": 17,
+      "version": 1587506400000
     },
     {
       "text": "Men Gud førte folket rundt ad vejen gennem ørkenen mod Sivhavet; og Israels børn drog i række og geled op fra Egyptens land.",
-      "number": 18
+      "number": 18,
+      "version": 1587506400000
     },
     {
-      "text": "Moses tog Josefs ben med sig; for denne havde ladet Israels børn aflægge en stærk ed og sagt: >>Gud vil i sandhed tage sig af jer, og I skal bringe mine ben med jer op herfra.<<",
-      "number": 19
+      "text": "Moses tog Josefs ben med sig; for denne havde ladet Israels børn aflægge en stærk ed og sagt: »Gud vil i sandhed tage sig af jer, og I skal bringe mine ben med jer op herfra.«",
+      "number": 19,
+      "version": 1587506400000
     },
     {
       "text": "Så brød de op fra Sukkot, og de slog lejr i Etam på grænsen af ørkenen.",
-      "number": 20
+      "number": 20,
+      "version": 1587506400000
     },
     {
       "text": "Og JHVH gik foran dem om dagen i en skysøjle for at lede dem på vejen, om natten i en ildsøjle for at lyse for dem, så de kunne vandre dag og nat.",
-      "number": 21
+      "number": 21,
+      "version": 1587506400000
     },
     {
       "text": "Skysøjlen veg ikke om dagen og ildsøjlen ikke om natten fra folket.",
-      "number": 22
+      "number": 22,
+      "version": 1587506400000
     }
   ],
   "titles": [
     {
       "text": "De usyrede brøds fest og førstefødselsofferet",
-      "verse": 1
+      "verse": 1,
+      "version": 1587506400000
     },
     {
       "text": "Udvandringen fra Egypten med Josefs ben",
-      "verse": 17
+      "verse": 17,
+      "version": 1587506400000
     }
   ],
   "footnotes": [
     {
-      "text": "Ordret: >>med en hånds styrke<<.",
+      "text": "Ordret: »med en hånds styrke«.",
       "type": "T",
       "verse": 3,
-      "position": 112
+      "position": 111
     },
     {
-      "text": "Det hebraiske ord udtales: >>aviv<<.",
+      "text": "Det hebraiske ord udtales: »aviv«.",
       "type": "E",
       "verse": 4,
       "position": 34
@@ -137,19 +161,19 @@
       "position": 119
     },
     {
-      "text": "Ordret: >>i hele din grænse<<.",
+      "text": "Ordret: »i hele din grænse«.",
       "type": "T",
       "verse": 7,
       "position": 133
     },
     {
-      "text": "Ordret: >>fra dage til dage<<.",
+      "text": "Ordret: »fra dage til dage«.",
       "type": "T",
       "verse": 10,
       "position": 71
     },
     {
-      "text": "I den hebraiske tekst er ordene >>skal du overgive<< ikke gentaget her, men underforstået fra versets indledning.",
+      "text": "I den hebraiske tekst er ordene »skal du overgive« ikke gentaget her, men underforstået fra versets indledning.",
       "type": "T",
       "verse": 12,
       "position": 149
@@ -161,13 +185,13 @@
       "position": 61
     },
     {
-      "text": "Den hebraiske tekst tilføjer: >>ved at sige<<.",
+      "text": "Den hebraiske tekst tilføjer: »ved at sige«.",
       "type": "T",
       "verse": 14,
       "position": 51
     },
     {
-      "text": "Ordret: >>I halvtredsere<<. Der er tænkt på militær orden.",
+      "text": "Ordret: »I halvtredsere«. Der er tænkt på militær orden.",
       "type": "T",
       "verse": 18,
       "position": 102
@@ -176,10 +200,10 @@
       "text": "Den hebraiske tekst har fordoblet verbet; det bruges til at understrege at noget virkelig skal ske.",
       "type": "T",
       "verse": 19,
-      "position": 118
+      "position": 117
     },
     {
-      "text": "Ordret: >>fra folkets ansigt<<.",
+      "text": "Ordret: »fra folkets ansigt«.",
       "type": "T",
       "verse": 22,
       "position": 67

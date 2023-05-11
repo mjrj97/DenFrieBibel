@@ -2,105 +2,126 @@
   "book": "Johannesevangeliet",
   "abbreviation": "Joh",
   "chapter": 3,
-  "version": 1621375200000,
-  "authors": [
+  "translation": 25,
+  "contributors": [
     {
       "name": "Trine Tøndering",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Endnu ikke sket",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fDer var en mand af farisæerne, hans navn var Nikodemus, en af jødernes rådsherrer.",
-      "number": 1
+      "number": 1,
+      "version": 1621375200000
     },
     {
-      "text": "Han kom til ham om natten og sagde til ham: >>Rabbi! Vi ved at du er en lærer der er kommet fra Gud; for ingen kan gøre de tegn du gør, medmindre Gud er med ham.<<",
-      "number": 2
+      "text": "Han kom til ham om natten og sagde til ham: »Rabbi! Vi ved at du er en lærer der er kommet fra Gud; for ingen kan gøre de tegn du gør, medmindre Gud er med ham.«",
+      "number": 2,
+      "version": 1621375200000
     },
     {
-      "text": "Jesus svarede ham: >>Sandelig, sandelig, siger jeg dig, medmindre nogen bliver født på ny, kan han ikke se Guds rige.<<",
-      "number": 3
+      "text": "Jesus svarede ham: »Sandelig, sandelig, siger jeg dig, medmindre nogen bliver født på ny, kan han ikke se Guds rige.«",
+      "number": 3,
+      "version": 1621375200000
     },
     {
-      "text": "Nikodemus sagde til ham: >>Hvorledes kan et menneske blive født når det er gammelt? Kan det for anden gang komme ind i sin mors liv og blive født?<<",
-      "number": 4
+      "text": "Nikodemus sagde til ham: »Hvorledes kan et menneske blive født når det er gammelt? Kan det for anden gang komme ind i sin mors liv og blive født?«",
+      "number": 4,
+      "version": 1621375200000
     },
     {
-      "text": "Jesus svarede: >>Sandelig, sandelig, siger jeg dig, medmindre nogen bliver født af vand og Ånd, kan han ikke komme ind i Guds rige.",
-      "number": 5
+      "text": "Jesus svarede: »Sandelig, sandelig, siger jeg dig, medmindre nogen bliver født af vand og Ånd, kan han ikke komme ind i Guds rige.",
+      "number": 5,
+      "version": 1621375200000
     },
     {
       "text": "Hvad der er født af kødet, er kød; og hvad der er født af Ånden, er ånd.",
-      "number": 6
+      "number": 6,
+      "version": 1621375200000
     },
     {
       "text": "Du skal ikke undre dig over at jeg sagde til dig: I må fødes på ny.",
-      "number": 7
+      "number": 7,
+      "version": 1621375200000
     },
     {
-      "text": "Vinden blæser hvorhen den vil, og du hører dens susen, men du ved ikke hvorfra den kommer, og hvor den farer hen; således er enhver som er født af Ånden.<<",
-      "number": 8
+      "text": "Vinden blæser hvorhen den vil, og du hører dens susen, men du ved ikke hvorfra den kommer, og hvor den farer hen; således er enhver som er født af Ånden.«",
+      "number": 8,
+      "version": 1621375200000
     },
     {
-      "text": "Nikodemus svarede ham: >>Hvorledes kan disse ting ske?<<",
-      "number": 9
+      "text": "Nikodemus svarede ham: »Hvorledes kan disse ting ske?«",
+      "number": 9,
+      "version": 1621375200000
     },
     {
-      "text": "Jesus svarede ham: >>Du er Israels lærer og forstår ikke disse ting?",
-      "number": 10
+      "text": "Jesus svarede ham: »Du er Israels lærer og forstår ikke disse ting?",
+      "number": 10,
+      "version": 1621375200000
     },
     {
       "text": "Sandelig, sandelig, siger jeg dig: Vi taler om det vi ved, og vidner om det vi har set; og I tager ikke imod vores vidnesbyrd.",
-      "number": 11
+      "number": 11,
+      "version": 1621375200000
     },
     {
       "text": "Når jeg har talt med jer om de jordiske ting, og I ikke tror det, hvordan skal I da tro når jeg taler med jer om de himmelske?",
-      "number": 12
+      "number": 12,
+      "version": 1621375200000
     },
     {
       "text": "Ingen er steget op til himlen, undtagen han som steg ned fra himlen, Menneskesønnen.",
-      "number": 13
+      "number": 13,
+      "version": 1621375200000
     },
     {
       "text": "Og ligesom Moses ophøjede slangen i ørkenen, således må Menneskesønnen ophøjes",
-      "number": 14
+      "number": 14,
+      "version": 1621375200000
     },
     {
       "text": "for at enhver som tror, skal have evigt liv i ham.",
-      "number": 15
+      "number": 15,
+      "version": 1621375200000
     },
     {
       "text": "For således elskede Gud verden at han gav Den enbårne søn for at enhver som tror på ham, ikke skal fortabes, men have evigt liv.",
-      "number": 16
+      "number": 16,
+      "version": 1621375200000
     },
     {
       "text": "For Gud sendte ikke sønnen til verden for at dømme verden, men for at verden skal frelses ved ham.",
-      "number": 17
+      "number": 17,
+      "version": 1621375200000
     },
     {
       "text": "Den som tror på ham, dømmes ikke; men den som ikke tror, er allerede dømt fordi han ikke har troet på Guds enbårne søns navn.",
-      "number": 18
+      "number": 18,
+      "version": 1621375200000
     },
     {
       "text": "Dette er dommen, at lyset er kommet til verden, og menneskene elskede mørket mere end lyset; for deres gerninger var onde.",
-      "number": 19
+      "number": 19,
+      "version": 1621375200000
     },
     {
       "text": "For enhver som øver ondt, hader lyset og kommer ikke til lyset for at hans gerninger ikke skal afsløres.",
-      "number": 20
+      "number": 20,
+      "version": 1621375200000
     },
     {
-      "text": "Men den som gør sandheden, kommer til lyset for at hans gerninger må blive åbenbaret; for de er gjort i Gud.<<",
-      "number": 21
+      "text": "Men den som gør sandheden, kommer til lyset for at hans gerninger må blive åbenbaret; for de er gjort i Gud.«",
+      "number": 21,
+      "version": 1621375200000
     }
   ],
   "titles": [],
@@ -109,13 +130,13 @@
       "text": "Græsk: *amen*.",
       "type": "T",
       "verse": 3,
-      "position": 30
+      "position": 29
     },
     {
-      "text": "Kan også oversættes: >>ovenfra<<.",
+      "text": "Kan også oversættes: »ovenfra«.",
       "type": "T",
       "verse": 3,
-      "position": 90
+      "position": 89
     },
     {
       "text": "Se note til vers 3.",
@@ -124,13 +145,13 @@
       "position": 67
     },
     {
-      "text": "Ordret: >>dens lyd<<.",
+      "text": "Ordret: »dens lyd«.",
       "type": "T",
       "verse": 8,
       "position": 54
     },
     {
-      "text": "Nogle manuskripter tilføjer: >>som er i himlen<<.",
+      "text": "Nogle manuskripter tilføjer: »som er i himlen«.",
       "type": "T",
       "verse": 13,
       "position": 84

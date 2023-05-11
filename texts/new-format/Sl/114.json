@@ -2,82 +2,94 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 114,
-  "version": 1499983200000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fDa Israel drog ud af Egypten,\fJakobs hus fra et folk, som havde et uforståeligt sprog,",
-      "number": 1
+      "number": 1,
+      "version": 1499983200000
     },
     {
       "text": "\fda blev Juda til hans helligdom,\fIsrael til hans herredømme.",
-      "number": 2
+      "number": 2,
+      "version": 1499983200000
     },
     {
       "text": "\fHavet så og flygtede,\fJordan vendte om og løb baglæns,",
-      "number": 3
+      "number": 3,
+      "version": 1499983200000
     },
     {
       "text": "\fbjergene sprang som væddere,\fhøje som kid og lam.",
-      "number": 4
+      "number": 4,
+      "version": 1499983200000
     },
     {
       "text": "\fHvad er der med dig, du hav, siden du flygtede,\fdu, Jordan, siden du vendte om og løb baglæns,",
-      "number": 5
+      "number": 5,
+      "version": 1499983200000
     },
     {
       "text": "\fI bjerge, siden I hoppede som væddere,\fI høje, som kid og lam?",
-      "number": 6
+      "number": 6,
+      "version": 1499983200000
     },
     {
       "text": "\fSkælv, du jord, for Herrens ansigt,\ffor Jakobs Guds ansigt,",
-      "number": 7
+      "number": 7,
+      "version": 1499983200000
     },
     {
       "text": "\fham som forvandler klippen til en vanddam,\fflint til et kildevæld!",
-      "number": 8
+      "number": 8,
+      "version": 1499983200000
     }
   ],
   "titles": [
     {
       "text": "Folkets genfødelse ved udgangen fra Egypten",
-      "verse": 1
+      "verse": 1,
+      "version": 1499983200000
     },
     {
       "text": "Guds undere",
-      "verse": 3
+      "verse": 3,
+      "version": 1499983200000
     },
     {
       "text": "Hvorfor?",
-      "verse": 5
+      "verse": 5,
+      "version": 1499983200000
     },
     {
       "text": "Herren er den mægtige",
-      "verse": 7
+      "verse": 7,
+      "version": 1499983200000
     }
   ],
   "footnotes": [
     {
-      "text": "Grundtekstens: *mamšlôtāʸw* (>>herredømme<<) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
+      "text": "Grundtekstens: *mamšlôtāʸw* (»herredømme«) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
       "type": "T",
       "verse": 2,
       "position": 61
     },
     {
-      "text": "Ordret: >>som småkvægs afkom<<.",
+      "text": "Ordret: »som småkvægs afkom«.",
       "type": "T",
       "verse": 4,
       "position": 50

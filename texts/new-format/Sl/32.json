@@ -2,110 +2,129 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 32,
-  "version": 1457218800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fAf David. Maskil.\fSalig er den, hvis overtrædelse er forladt,\fhvis synd er skjult.",
-      "number": 1
+      "number": 1,
+      "version": 1457218800000
     },
     {
       "text": "\fSaligt er det menneske som JHVH ikke tilregner skyld,\fog i hvis ånd der ikke er svig.",
-      "number": 2
+      "number": 2,
+      "version": 1457218800000
     },
     {
       "text": "\fDa jeg tav, sygnede mine knogler hen\funder min stønnen hele dagen.",
-      "number": 3
+      "number": 3,
+      "version": 1457218800000
     },
     {
       "text": "\fFor dag og nat lå din hånd tungt på mig,\fmin livskraft svandt hen\fi sommerens tørke. Sela",
-      "number": 4
+      "number": 4,
+      "version": 1457218800000
     },
     {
-      "text": "\fJeg bekendte min synd for dig\fog skjulte ikke min skyld,\fjeg sagde: >>Jeg vil aflægge tilståelse for mine overtrædelser for JHVH<<,\fog du forlod mig min syndeskyld. Sela",
-      "number": 5
+      "text": "\fJeg bekendte min synd for dig\fog skjulte ikke min skyld,\fjeg sagde: »Jeg vil aflægge tilståelse for mine overtrædelser for JHVH«,\fog du forlod mig min syndeskyld. Sela",
+      "number": 5,
+      "version": 1457218800000
     },
     {
       "text": "\fDerfor skal hver from bede til dig\fden stund, du findes.\fSelv en flod af store vande -\ftil ham skal de ikke nå.",
-      "number": 6
+      "number": 6,
+      "version": 1457218800000
     },
     {
       "text": "\fDu er mit skjul,\fdu bevarer mig for trængsel,\fmed udfrielsens jubel omgiver du mig. Sela",
-      "number": 7
+      "number": 7,
+      "version": 1457218800000
     },
     {
-      "text": "\f>>Jeg vil undervise dig og lære dig den vej som du skal gå,\fjeg vil råde dig, idet mit øje er rettet mod dig.<<",
-      "number": 8
+      "text": "\f»Jeg vil undervise dig og lære dig den vej som du skal gå,\fjeg vil råde dig, idet mit øje er rettet mod dig.«",
+      "number": 8,
+      "version": 1457218800000
     },
     {
       "text": "\fVær ikke som hest, som muldyr, uden indsigt,\fhvis prydelse er tømme og bidsel, hvormed man kan tvinge dem\fnår de ikke vil komme nær til dig.",
-      "number": 9
+      "number": 9,
+      "version": 1457218800000
     },
     {
       "text": "\fMange smerter er der til den ugudelige,\fmen den, som stoler på JHVH,\fomgiver han med nåde.",
-      "number": 10
+      "number": 10,
+      "version": 1457218800000
     },
     {
       "text": "\fGlæd jer i JHVH, og fryd jer, I retfærdige!\fog I skal juble, alle I som er oprigtige af hjertet!",
-      "number": 11
+      "number": 11,
+      "version": 1457218800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1457218800000
     },
     {
       "text": "Lykken i tilgivelsen",
-      "verse": 2
+      "verse": 2,
+      "version": 1457218800000
     },
     {
       "text": "Lidelse på grund af ubodfærdighed",
-      "verse": 3
+      "verse": 3,
+      "version": 1457218800000
     },
     {
       "text": "Syndsbekendelse",
-      "verse": 5
+      "verse": 5,
+      "version": 1457218800000
     },
     {
       "text": "Opmuntring til at søge hjælp hos Gud",
-      "verse": 6
+      "verse": 6,
+      "version": 1457218800000
     },
     {
       "text": "Guds nådesord{E: Andre opfatter verset som salmistens belærende ord til menigheden}",
-      "verse": 8
+      "verse": 8,
+      "version": 1457218800000
     },
     {
       "text": "Formaning og opmuntring til at stole på JHVH",
-      "verse": 9
+      "verse": 9,
+      "version": 1457218800000
     },
     {
       "text": "Afsluttende lovprisning",
-      "verse": 11
+      "verse": 11,
+      "version": 1457218800000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<< Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<",
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende« Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«",
       "type": "E",
       "verse": 1,
       "position": 18
     },
     {
-      "text": "Betydningen af *lāšād* er højst usikker. Det optræder kun her og 4 Mos 11,8, hvor det oversættes >>kage<<. Her måske >>fedt/saft<<, der kan forstås som >>livskraft<<. Ellers må man rette til *lāšōn*: >>tunge<<",
+      "text": "Betydningen af *lāšād* er højst usikker. Det optræder kun her og 4 Mos 11,8, hvor det oversættes »kage«. Her måske »fedt/saft«, der kan forstås som »livskraft«. Ellers må man rette til *lāšōn*: »tunge«",
       "type": "E",
       "verse": 4,
       "position": 55
@@ -117,7 +136,7 @@
       "position": 90
     },
     {
-      "text": "Ordet *raq* er omdiskuteret. Oftest skal det oversættes >>kun<<. Det er usikkert om det skal knyttes til denne eller den foregående linje. Hvis det knyttes til den foregående linje, understreger det at tiden, hvor Gud kan findes, er begrænset",
+      "text": "Ordet *raq* er omdiskuteret. Oftest skal det oversættes »kun«. Det er usikkert om det skal knyttes til denne eller den foregående linje. Hvis det knyttes til den foregående linje, understreger det at tiden, hvor Gud kan findes, er begrænset",
       "type": "E",
       "verse": 6,
       "position": 62

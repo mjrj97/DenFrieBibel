@@ -2,47 +2,53 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 131,
-  "version": 1492725600000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang. Af David.\fJHVHv, mit hjerte var ikke hovmodigt,\fog mine øjne var ikke stolte,\fog jeg gik ikke ind i ting der var for store\feller for gådefulde for mig.",
-      "number": 1
+      "number": 1,
+      "version": 1492725600000
     },
     {
       "text": "\fTværtimod, jeg har tysset og beroliget min sjæl,\fsom et mæt barn hos sin mor,\fsom det mætte barn er min sjæl i mig.",
-      "number": 2
+      "number": 2,
+      "version": 1492725600000
     },
     {
       "text": "\fIsrael, vent på JHVH,\ffra nu og til evig tid!",
-      "number": 3
+      "number": 3,
+      "version": 1492725600000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1492725600000
     },
     {
       "text": "Barnlig tillid",
-      "verse": 2
+      "verse": 2,
+      "version": 1492725600000
     },
     {
       "text": "Vidnesbyrd",
-      "verse": 3
+      "verse": 3,
+      "version": 1492725600000
     }
   ],
   "footnotes": [
@@ -53,7 +59,7 @@
       "position": 14
     },
     {
-      "text": "Grundteksten har blot: *gāmul* (her oversat: >>mæt barn<<). Når verbet: *gml* bruges om børn i GT, betegner det et >>fravænnet<< barn. Verbets grundbetydning er: >>færdig, moden<<. I sammenhængen her bruges det formodentlig om et barn der er >>færdig med at die = mæt barn<<.",
+      "text": "Grundteksten har blot: *gāmul* (her oversat: »mæt barn«). Når verbet: *gml* bruges om børn i GT, betegner det et »fravænnet« barn. Verbets grundbetydning er: »færdig, moden«. I sammenhængen her bruges det formodentlig om et barn der er »færdig med at die = mæt barn«.",
       "type": "E",
       "verse": 2,
       "position": 65

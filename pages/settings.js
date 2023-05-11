@@ -3,25 +3,13 @@ import Head from 'next/head'
 
 import Checkbox from '@/components/main/Checkbox';
 import Select from '@/components/main/Select';
+import StandardSettings from '@/src/data/settings';
 
 const Reading = () => {
   const godNames = ["Herren", "HERREN", "Jahve", "JHVH"];
   const fonts = ["Helvetica", "Merriweather"];
 
-  const [settings, setSettings] = useState({
-      showVerseNumber: true,
-      showChapterInVerse: false,
-      showTitles: true,
-      showGeneralFootnotes: true,
-      showAcademicFootnotes: true,
-      showFootnotesAtBottom: false,
-      oneVersePerLine: false,
-      extraLineSpacing: false,
-      exegeticLayout: false,
-      godsName: "Herren",
-      font: "Helvetica"
-    }
-  );
+  const [settings, setSettings] = useState(StandardSettings ? StandardSettings : {});
 
   useEffect(() => {
     const data = localStorage.getItem("settings");
@@ -41,6 +29,8 @@ const Reading = () => {
   const handleAcademicFootnotes = () => { saveSettings({ ...settings, showAcademicFootnotes: !settings.showAcademicFootnotes }); };
 
   const handleFootnotesAtBottom = () => { saveSettings({ ...settings, showFootnotesAtBottom: !settings.showFootnotesAtBottom }); };
+ 
+  const handleContributors = () => { saveSettings({ ...settings, showContributors: !settings.showContributors }); };
 
   const handleOneVersePerLine = () => { saveSettings({ ...settings, oneVersePerLine: !settings.oneVersePerLine }); };
 
@@ -83,6 +73,7 @@ const Reading = () => {
       <Checkbox label={"Vis generelle fodnoter"} value={settings.showGeneralFootnotes}  onChange={handleGeneralFootnotes}/>
       <Checkbox label={"Vis faglige fodnoter"} value={settings.showAcademicFootnotes}  onChange={handleAcademicFootnotes}/>
       <Checkbox label={"Vis fodnoter under bibelteksten"} value={settings.showFootnotesAtBottom}  onChange={handleFootnotesAtBottom}/>
+      <Checkbox label={"Vis bidragsydere"} value={settings.showContributors}  onChange={handleContributors}/>
     </>
   )
 }

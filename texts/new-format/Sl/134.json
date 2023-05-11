@@ -2,47 +2,53 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 134,
-  "version": 1492725600000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang.\fKom, pris JHVH,\falle JHVHs tjenere\fsom står i JHVHs hus\fom natten.",
-      "number": 1
+      "number": 1,
+      "version": 1492725600000
     },
     {
       "text": "\fLøft jeres hænder mod helligdommen,\fog pris JHVH!",
-      "number": 2
+      "number": 2,
+      "version": 1492725600000
     },
     {
       "text": "\fJHVH velsigne dig fra Zion,\fhan som skabte himmel og jord.",
-      "number": 3
+      "number": 3,
+      "version": 1492725600000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1492725600000
     },
     {
       "text": "Lovprisning af Herren",
-      "verse": 2
+      "verse": 2,
+      "version": 1492725600000
     },
     {
       "text": "Velsignelse",
-      "verse": 3
+      "verse": 3,
+      "version": 1492725600000
     }
   ],
   "footnotes": [
@@ -53,25 +59,25 @@
       "position": 14
     },
     {
-      "text": "Ordret: >>Se!<<, men sammen med en imperativ angiver det en opfordring eller et foranstillet udråbstegn.",
+      "text": "Ordret: »Se!«, men sammen med en imperativ angiver det en opfordring eller et foranstillet udråbstegn.",
       "type": "T",
       "verse": 1,
       "position": 19
     },
     {
-      "text": "Kan også oversættes: >>velsign<<.",
+      "text": "Kan også oversættes: »velsign«.",
       "type": "T",
       "verse": 1,
       "position": 24
     },
     {
-      "text": "*ballêlôt* ordret: >>om nætterne<<. Det er omdiskuteret hvad pluralis skal betegne her. Nogle oversætter: >>nat efter nat<<, andre: >>i nattevagterne<<, andre: >>i den dybeste nat<<.",
+      "text": "*ballêlôt* ordret: »om nætterne«. Det er omdiskuteret hvad pluralis skal betegne her. Nogle oversætter: »nat efter nat«, andre: »i nattevagterne«, andre: »i den dybeste nat«.",
       "type": "E",
       "verse": 1,
       "position": 81
     },
     {
-      "text": "Kan også oversættes: >>velsign<<.",
+      "text": "Kan også oversættes: »velsign«.",
       "type": "T",
       "verse": 2,
       "position": 44

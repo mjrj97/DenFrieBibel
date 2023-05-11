@@ -2,37 +2,41 @@
   "book": "Amos' Bog",
   "abbreviation": "Am",
   "chapter": 8,
-  "version": 1649109600000,
-  "authors": [
+  "translation": 50,
+  "contributors": [
     {
       "name": "Trine Tøndering",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Endnu ikke sket",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fHør dette, I, som knuser den fattige og søger at gøre ende på de ringe i landet;",
-      "number": 4
+      "number": 4,
+      "version": 1649109600000
     },
     {
       "text": "I som siger: Hvornår er nymånen gået forbi så vi kan sælge korn, og sabbaten så vi kan åbne op for kornforråd; så vi kan gøre efaen lille, og sekelen stor og forfalske bedrageriske vægtskåle?",
-      "number": 5
+      "number": 5,
+      "version": 1649109600000
     },
     {
       "text": "Så vi kan købe de svage for penge og en fattig for et par sandaler og sælge affaldskorn?",
-      "number": 6
+      "number": 6,
+      "version": 1649109600000
     },
     {
-      "text": "\fJHVH har svoret ved Jakobs stolthed: >>Jeg skal aldrig glemme alle deres gerninger.<<",
-      "number": 7
+      "text": "\fJHVH har svoret ved Jakobs stolthed: »Jeg skal aldrig glemme alle deres gerninger.«",
+      "number": 7,
+      "version": 1649109600000
     }
   ],
   "titles": [],

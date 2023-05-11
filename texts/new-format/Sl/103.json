@@ -2,138 +2,164 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 103,
-  "version": 1499983200000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fAf David.\fMin sjæl, pris JHVH,\fog hele mit indre skal prise hans hellige navn!",
-      "number": 1
+      "number": 1,
+      "version": 1499983200000
     },
     {
       "text": "\fMin sjæl, pris JHVH,\fog glem ikke alle hans velgerninger,",
-      "number": 2
+      "number": 2,
+      "version": 1499983200000
     },
     {
       "text": "\fham som tilgiver dig al din skyld,\fham som helbreder alle dine sygdomme,",
-      "number": 3
+      "number": 3,
+      "version": 1499983200000
     },
     {
       "text": "\fham som udløser dit liv fra graven,\fham som kroner dig med nåde og barmhjertighed,",
-      "number": 4
+      "number": 4,
+      "version": 1499983200000
     },
     {
       "text": "\fham som mætter dit liv med det gode,\fså din ungdom bliver ny igen som ørnen.",
-      "number": 5
+      "number": 5,
+      "version": 1499983200000
     },
     {
       "text": "\fJHVH udøver retfærdighed\fog ret for alle undertrykte.",
-      "number": 6
+      "number": 6,
+      "version": 1499983200000
     },
     {
       "text": "\fHan kundgjorde Moses sine veje\fog Israels børn sine gerninger.",
-      "number": 7
+      "number": 7,
+      "version": 1499983200000
     },
     {
       "text": "\fJHVH er barmhjertig og nådig,\fsen til vrede og rig på nåde",
-      "number": 8
+      "number": 8,
+      "version": 1499983200000
     },
     {
       "text": "\fHan vil ikke gå i rette for evigt\fog ikke vredes for altid.",
-      "number": 9
+      "number": 9,
+      "version": 1499983200000
     },
     {
       "text": "\fHan har ikke handlet mod os efter vore synder\fog ikke lønnet os efter vor skyld.",
-      "number": 10
+      "number": 10,
+      "version": 1499983200000
     },
     {
       "text": "\fFor så høj som himlen er over jorden,\fså mægtig har hans nåde været over dem som frygter ham.",
-      "number": 11
+      "number": 11,
+      "version": 1499983200000
     },
     {
       "text": "\fSå langt som øst er fra vest,\fhar han fjernet vore overtrædelser fra os.",
-      "number": 12
+      "number": 12,
+      "version": 1499983200000
     },
     {
       "text": "\fSom en far forbarmer sig over sine børn,\fhar JHVH forbarmet sig over dem som frygter ham.",
-      "number": 13
+      "number": 13,
+      "version": 1499983200000
     },
     {
       "text": "\fFor han ved at vi er skabt,\fhan husker på at vi er støv.",
-      "number": 14
+      "number": 14,
+      "version": 1499983200000
     },
     {
       "text": "\fEt menneske – som græs er dets dage,\fsom markens blomst blomstrer det.",
-      "number": 15
+      "number": 15,
+      "version": 1499983200000
     },
     {
       "text": "\fNår en vind farer over det, er det ikke mere,\fog dets sted kender det ikke længere.",
-      "number": 16
+      "number": 16,
+      "version": 1499983200000
     },
     {
       "text": "\fMen JHVHs nåde er fra evighed og til evighed over dem som frygter ham,\fog hans retfærdighed er med børns børn,",
-      "number": 17
+      "number": 17,
+      "version": 1499983200000
     },
     {
       "text": "\fmed dem som holder hans pagt,\fog med dem som husker hans befalinger for at gøre derefter.",
-      "number": 18
+      "number": 18,
+      "version": 1499983200000
     },
     {
       "text": "\fJHVH har rejst sin trone i himlen,\fog hans kongerige behersker Altet.",
-      "number": 19
+      "number": 19,
+      "version": 1499983200000
     },
     {
       "text": "\fPris JHVH, I hans engle,\fI stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
-      "number": 20
+      "number": 20,
+      "version": 1499983200000
     },
     {
       "text": "\fPris JHVH, alle hans hærskarer,\fI hans tjenere som udfører hans vilje!",
-      "number": 21
+      "number": 21,
+      "version": 1499983200000
     },
     {
       "text": "\fPris JHVH, alle hans værker\fpå alle steder i hans kongerige.\fMin sjæl, pris JHVH!",
-      "number": 22
+      "number": 22,
+      "version": 1499983200000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1499983200000
     },
     {
       "text": "Min sjæl, pris JHVH!",
-      "verse": 2
+      "verse": 2,
+      "version": 1499983200000
     },
     {
       "text": "Guds nåde igennem tiderne",
-      "verse": 6
+      "verse": 6,
+      "version": 1499983200000
     },
     {
       "text": "Pris JHVH, alle hans skaberværker",
-      "verse": 19
+      "verse": 19,
+      "version": 1499983200000
     }
   ],
   "footnotes": [
     {
-      "text": "Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+      "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
       "type": "E",
       "verse": 1,
       "position": 25
     },
     {
-      "text": "Ordene: >>skal prise<< er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
+      "text": "Ordene: »skal prise« er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
       "type": "E",
       "verse": 1,
       "position": 60
@@ -145,13 +171,13 @@
       "position": 64
     },
     {
-      "text": "Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver der byttes om.",
+      "text": "Grundtekstens: *ʕedyēx* betyder: »dit smykke«. Det kan være tænkt som synonym for »sjæl«. Men oftest rettes til: *ʕodēxî*: »din eksistens/dit liv/så længe du er til«. I konsonantteksten er det blot to bogstaver der byttes om.",
       "type": "E",
       "verse": 5,
       "position": 23
     },
     {
-      "text": "Grundtekstens ord kan også betyde: >>gribben<<.",
+      "text": "Grundtekstens ord kan også betyde: »gribben«.",
       "type": "T",
       "verse": 5,
       "position": 77
@@ -163,25 +189,25 @@
       "position": 59
     },
     {
-      "text": "Ordret: >>opgang<<.",
+      "text": "Ordret: »opgang«.",
       "type": "T",
       "verse": 12,
       "position": 17
     },
     {
-      "text": "Ordret: >>nedgang<<.",
+      "text": "Ordret: »nedgang«.",
       "type": "T",
       "verse": 12,
       "position": 30
     },
     {
-      "text": "Ordret: >>som en fars forbarmen sig<<",
+      "text": "Ordret: »som en fars forbarmen sig«",
       "type": "T",
       "verse": 13,
       "position": 25
     },
     {
-      "text": "Ordret: >>kender vor skabning/skabthed/formethed<<. Det tilsvarende verbum (*yṣr*) betyder: >>forme, modellere<<. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.",
+      "text": "Ordret: »kender vor skabning/skabthed/formethed«. Det tilsvarende verbum (*yṣr*) betyder: »forme, modellere«. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.",
       "type": "T",
       "verse": 14,
       "position": 28
@@ -193,19 +219,19 @@
       "position": 12
     },
     {
-      "text": "På hebraisk er både >>menneske, græs<< og >>blomst<< maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da >>menneske<< er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.",
+      "text": "På hebraisk er både »menneske, græs« og »blomst« maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da »menneske« er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.",
       "type": "E",
       "verse": 16,
       "position": 28
     },
     {
-      "text": "Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+      "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
       "type": "E",
       "verse": 20,
       "position": 5
     },
     {
-      "text": "Ordret: >>hans ords røst<<.",
+      "text": "Ordret: »hans ords røst«.",
       "type": "T",
       "verse": 20,
       "position": 94

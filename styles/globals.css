@@ -8,12 +8,21 @@
   --link: blue
 }
 
+html {
+  background-color: var(--sixty);
+}
+
 .primary {
   background-color: var(--sixty);
   color: var(--ten);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   
   min-height: 100vh;
+}
+
+.fakeOffset {
+  padding-top: 8em;
+  margin-top: -8em;
 }
 
 .react-tooltip {
@@ -145,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 .verseLine {
   line-height: 2em;
   font-size: 1rem;
-  /* white-space: pre-wrap; */
+  white-space: pre-wrap;
 }
 
 .error {

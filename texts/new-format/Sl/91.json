@@ -2,128 +2,147 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 91,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fSom en der bor i den Højestes skjul,\fsom vil opholde sig i den Almægtiges skygge,",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
-      "text": "\fsiger jeg til JHVH:\f>>Min tilflugt og min borg,\fmin Gud, som jeg stoler på.<<",
-      "number": 2
+      "text": "\fsiger jeg til JHVH:\f»Min tilflugt og min borg,\fmin Gud, som jeg stoler på.«",
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fFor han vil befri dig\ffra fuglefængerens snare,\ffra fordærvende pest.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fHan skal beskytte dig med sine svingfjer,\fog du kan søge ly under hans vinger;\fhans trofasthed er langskjold og værn.",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fDu skal ikke frygte for nattens rædsel,\ffor en pil som flyver om dagen,",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\ffor pest som breder sig i mørket,\ffor epidemi som hærger om middagen.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fOm så tusind falder ved din side\fog titusind ved din højre hånd -\ftil dig skal det ikke nå.",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fDu skal kun se det med dine øjne,\fog du skal se de gudløses straf.",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
-      "text": "\f>>Ja, du, JHVHv, er min tilflugt!<<\fDen Højeste har du gjort til din bolig,",
-      "number": 9
+      "text": "\f»Ja, du, JHVHv, er min tilflugt!«\fDen Højeste har du gjort til din bolig,",
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fder skal ikke tilstøde dig ondt,\fog plage skal ikke komme nær til dit telt.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fFor han vil give sine engle befaling om dig\fat de skal beskytte dig på alle dine veje.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
       "text": "\fDe skal bære dig på hænder\fså du ikke støder din fod på nogen sten.",
-      "number": 12
+      "number": 12,
+      "version": 1500242400000
     },
     {
       "text": "\fPå løve og giftslange skal du træde,\fdu skal nedtræde ungløve og drage.",
-      "number": 13
+      "number": 13,
+      "version": 1500242400000
     },
     {
-      "text": "\f>>Fordi han har holdt sig til mig, vil jeg udfri ham,\fjeg vil beskytte ham, for han kender mit navn.",
-      "number": 14
+      "text": "\f»Fordi han har holdt sig til mig, vil jeg udfri ham,\fjeg vil beskytte ham, for han kender mit navn.",
+      "number": 14,
+      "version": 1500242400000
     },
     {
       "text": "\fRåber han til mig, vil jeg svare ham,\fjeg er hos ham i nød,\fjeg vil redde ham og give ham ære.",
-      "number": 15
+      "number": 15,
+      "version": 1500242400000
     },
     {
-      "text": "\fJeg vil mætte ham med et langt liv\fog lade ham nyde synet af min frelse.<<",
-      "number": 16
+      "text": "\fJeg vil mætte ham med et langt liv\fog lade ham nyde synet af min frelse.«",
+      "number": 16,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Trygheden hos Gud",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Vidnesbyrd om Guds beskærmelse",
-      "verse": 3
+      "verse": 3,
+      "version": 1500242400000
     },
     {
       "text": "Guds nådige tilsagn",
-      "verse": 14
+      "verse": 14,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Kan også oversættes: >>sidder<<.",
+      "text": "Kan også oversættes: »sidder«.",
       "type": "T",
       "verse": 1,
       "position": 15
     },
     {
-      "text": "Kan også oversættes: >>sandhed<<.",
+      "text": "Kan også oversættes: »sandhed«.",
       "type": "T",
       "verse": 4,
       "position": 95
     },
     {
-      "text": "Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: >>værn<< eller >>bolværk<<.",
+      "text": "Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: »værn« eller »bolværk«.",
       "type": "E",
       "verse": 4,
       "position": 118
     },
     {
-      "text": "Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som >>tilflugt<< i alle livets situationer (v.2).",
+      "text": "Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som »tilflugt« i alle livets situationer (v.2).",
       "type": "E",
       "verse": 9,
-      "position": 36
+      "position": 34
     },
     {
-      "text": "Ordret: >>på stenen<<.",
+      "text": "Ordret: »på stenen«.",
       "type": "T",
       "verse": 12,
       "position": 68
@@ -135,10 +154,10 @@
       "position": 72
     },
     {
-      "text": "Ordret: >>har hængt på mig<<.",
+      "text": "Ordret: »har hængt på mig«.",
       "type": "T",
       "verse": 14,
-      "position": 30
+      "position": 29
     }
   ]
 }

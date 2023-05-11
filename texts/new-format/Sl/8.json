@@ -2,84 +2,98 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 8,
-  "version": 1666562400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Christian Højgaard",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Mikkel Kølkær",
-      "type": "exegetic layout"
+      "type": "Eksegetisk layout"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen;\n\t\tal-ha-gittit;\n\ten salme af David.",
-      "number": 1
+      "number": 1,
+      "version": 1666562400000
     },
     {
       "text": "\fJHVHv, vor Herre!\f\n\t\t\tHvor herligt er dit navn over hele jorden,\f\n\t\t\tdu som udbreder din majestæt over himlene!",
-      "number": 2
+      "number": 2,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\tAf spædes og diendes mund har du grundlagt et værn mod dine modstandere\f\n\t\t\tfor at standse fjenden og den som vil hævne sig.",
-      "number": 3
+      "number": 3,
+      "version": 1666562400000
     },
     {
       "text": "\f\tNår jeg ser din himmel, dine fingres gerninger,\f\n\t\t\tmånen og stjernerne,\n\t\t\t\tsom du anbragte,",
-      "number": 4
+      "number": 4,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\thvad er da et menneske\n\t\t\t\tat du husker på det;\f\n\t\t\tet menneskebarn\n\t\t\t\tat du tager dig af det?",
-      "number": 5
+      "number": 5,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\t\tDu har gjort det kun lidt ringere end Gud;\f\n\t\t\t\t\t\t\tdu kronede det med ære og herlighed.",
-      "number": 6
+      "number": 6,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\tDu gør det til hersker over dine hænders gerninger;\f\n\t\t\t\t\t\tdu har lagt alting under dets fødder:",
-      "number": 7
+      "number": 7,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\t\t\tFår og okser, dem alle sammen,\f\n\t\t\t\t\t\t\t\tja, også markens dyr,",
-      "number": 8
+      "number": 8,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\t\t\tfuglene under himlen\n\t\t\t\t\t\t\t\t\tog fiskene i havet,\f\n\t\t\t\t\t\t\t\tdet som færdes ad havets stier.",
-      "number": 9
+      "number": 9,
+      "version": 1666562400000
     },
     {
       "text": "\fJHVHv, vor Herre!\f\n\tHvor herligt er dit navn over hele jorden!",
-      "number": 10
+      "number": 10,
+      "version": 1666562400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1666562400000
     },
     {
       "text": "David lovpriser skaberens herlighed",
-      "verse": 2
+      "verse": 2,
+      "version": 1666562400000
     },
     {
       "text": "I særdeleshed prises Guds godhed mod mennesket, som han satte til hersker over jorden",
-      "verse": 4
+      "verse": 4,
+      "version": 1666562400000
     },
     {
       "text": "Lovprisning",
-      "verse": 10
+      "verse": 10,
+      "version": 1666562400000
     }
   ],
   "footnotes": [
     {
-      "text": "*lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder >>lede, dirigere<<.",
+      "text": "*lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder »lede, dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 15
@@ -91,25 +105,25 @@
       "position": 31
     },
     {
-      "text": "*tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* >>giv!<<, men i sammenhængen kan det opfattes som kortform for infinitiven.",
+      "text": "*tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* »giv!«, men i sammenhængen kan det opfattes som kortform for infinitiven.",
       "type": "E",
       "verse": 2,
       "position": 85
     },
     {
-      "text": "*ʕōz* betyder oftest >>magt, styrke<<, men dernæst også >>fæstning, bolværk<<. Endelig kan det betyde >>hæder, lovprisning, lovsang<<, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på >>værn<<.",
+      "text": "*ʕōz* betyder oftest »magt, styrke«, men dernæst også »fæstning, bolværk«. Endelig kan det betyde »hæder, lovprisning, lovsang«, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på »værn«.",
       "type": "E",
       "verse": 3,
       "position": 53
     },
     {
-      "text": "*lᵊmaʕan* betyder ordret >>for … skyld<<, men oversættes her ofte >>mod<<.",
+      "text": "*lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
       "type": "T",
       "verse": 3,
       "position": 74
     },
     {
-      "text": "Oversættes oftest >>englene<< (således LXX), jf. Hebr 2,7.",
+      "text": "Oversættes oftest »englene« (således LXX), jf. Hebr 2,7.",
       "type": "T",
       "verse": 6,
       "position": 48

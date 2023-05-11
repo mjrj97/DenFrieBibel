@@ -2,45 +2,51 @@
   "book": "Johannesevangeliet",
   "abbreviation": "Joh",
   "chapter": 10,
-  "version": 1617746400000,
-  "authors": [
+  "translation": 25,
+  "contributors": [
     {
       "name": "Trine Tøndering",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Endnu ikke sket",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fJeg er den gode hyrde; den gode hyrde sætter sit liv ind for fårene.",
-      "number": 11
+      "number": 11,
+      "version": 1617746400000
     },
     {
       "text": "Men lejesvenden, som ikke er hyrde, og som fårene ikke hører til, ser ulven komme og forlader fårene og flygter - og ulven røver dem og spreder dem -",
-      "number": 12
+      "number": 12,
+      "version": 1617746400000
     },
     {
       "text": "fordi han er lejesvend, og fårene ikke betyder noget for ham.",
-      "number": 13
+      "number": 13,
+      "version": 1617746400000
     },
     {
       "text": "Jeg er den gode hyrde, og jeg kender mine, og mine kender mig,",
-      "number": 14
+      "number": 14,
+      "version": 1617746400000
     },
     {
       "text": "ligesom Faderen kender mig, og jeg kender Faderen; og jeg sætter mit liv ind for fårene.",
-      "number": 15
+      "number": 15,
+      "version": 1617746400000
     },
     {
       "text": "Og jeg har andre får som ikke hører til denne fold; også dem skal jeg lede, og de skal høre min røst; og der skal blive én hjord, én hyrde.",
-      "number": 16
+      "number": 16,
+      "version": 1617746400000
     }
   ],
   "titles": [],

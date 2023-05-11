@@ -2,116 +2,131 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 97,
-  "version": 1666562400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Mikkel Kølkær",
-      "type": "exegetic layout"
+      "type": "Eksegetisk layout"
     }
   ],
   "verses": [
     {
       "text": "\fJHVH er konge!\n\t\t\tJorden skal juble,\f\n\t\t\t\tmange øer skal glæde sig!",
-      "number": 1
+      "number": 1,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\tSky og uvejrsmørke er omkring ham,\f\n\t\t\t\t\tretfærdighed og ret er hans trones grundvold.",
-      "number": 2
+      "number": 2,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\tIld går foran ham\f\n\t\t\t\t\tog brænder hans fjender rundt omkring.",
-      "number": 3
+      "number": 3,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\tHans lyn oplyste verden,\f\n\t\t\t\t\t\tjorden så det og bævede.",
-      "number": 4
+      "number": 4,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\tBjergene smeltede som voks foran JHVH,\fforan hele jordens Herre.",
-      "number": 5
+      "number": 5,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\t\tHimlen forkyndte hans retfærdighed,\f\n\t\t\t\t\t\tog alle folkene så hans herlighed.",
-      "number": 6
+      "number": 6,
+      "version": 1666562400000
     },
     {
       "text": "\fYdmyges skal alle de som dyrker et gudebillede,\f\n\t\t\tde som roser sig af tomme afguder.\f\n\t\tKast jer ned for ham, alle guder!",
-      "number": 7
+      "number": 7,
+      "version": 1666562400000
     },
     {
       "text": "\fZion hørte det og blev glad,\f\n\t\tog Judas døtre frydede sig\f\n\t\t\tover dine domme,\n\t\t\t\tJHVHv!",
-      "number": 8
+      "number": 8,
+      "version": 1666562400000
     },
     {
       "text": "\f\tFor du,\n\t\t\t\tJHVHv,\n\t\t\ter den Højeste over hele jorden,\f\n\t\tu er højt ophøjet over alle guder.",
-      "number": 9
+      "number": 9,
+      "version": 1666562400000
     },
     {
       "text": "\fI, som elsker JHVH,\n\t\tskal hade det onde;\f\n\t\t\t\than beskytter sine frommes liv,\f\n\t\t\than vil redde dem fra de ugudeliges hånd.",
-      "number": 10
+      "number": 10,
+      "version": 1666562400000
     },
     {
       "text": "\f\t\t\t\tLys er sået for den retfærdige\f\n\t\t\t\t\tog glæde for dem med oprigtigt hjerte.",
-      "number": 11
+      "number": 11,
+      "version": 1666562400000
     },
     {
       "text": "\f\tGlæd jer,\n\t\t\t\tI retfærdige,\n\t\t\ti JHVH,\f\n\t\tog tak hans hellige navn!",
-      "number": 12
+      "number": 12,
+      "version": 1666562400000
     }
   ],
   "titles": [
     {
       "text": "Lovprisende indledning",
-      "verse": 1
+      "verse": 1,
+      "version": 1666562400000
     },
     {
       "text": "Gud har vist sin dømmende og frelsende magt",
-      "verse": 4
+      "verse": 4,
+      "version": 1666562400000
     },
     {
       "text": "Guds dom og frelse",
-      "verse": 8
+      "verse": 8,
+      "version": 1666562400000
     }
   ],
   "footnotes": [
     {
-      "text": "Ordret: >>foran hans ansigt<<",
+      "text": "Ordret: »foran hans ansigt«",
       "type": "T",
       "verse": 3,
       "position": 22
     },
     {
-      "text": "Ordret: >>foran JHVHs ansigt<<. Tilsvarende i næste linje.",
+      "text": "Ordret: »foran JHVHs ansigt«. Tilsvarende i næste linje.",
       "type": "T",
       "verse": 5,
       "position": 43
     },
     {
-      "text": "Kan også oversættes: >>sjæle<<.",
+      "text": "Kan også oversættes: »sjæle«.",
       "type": "T",
       "verse": 10,
       "position": 79
     },
     {
-      "text": "Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: >>er strålet frem<< i stedet for: *zāruₐʕ* (>>er sået<<).",
+      "text": "Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: »er strålet frem« i stedet for: *zāruₐʕ* (»er sået«).",
       "type": "E",
       "verse": 11,
       "position": 16
     },
     {
-      "text": "Ordret: >>minde/ihukommelse<<. Men når der er tale om Gud, står det oftest som synonym for hans navn.",
+      "text": "Ordret: »minde/ihukommelse«. Men når der er tale om Gud, står det oftest som synonym for hans navn.",
       "type": "E",
       "verse": 12,
       "position": 69

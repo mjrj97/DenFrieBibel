@@ -2,116 +2,132 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 75,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen. Al-tashket.\fSalme af Asaf. En sang.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fVi takker dig, Gud, vi takker,\fog dit navn er nært, dine undere fortæller om det.",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
-      "text": "\f>>Når jeg griber den fastsatte tid,\fvil jeg dømme retfærdigt,",
-      "number": 3
+      "text": "\f»Når jeg griber den fastsatte tid,\fvil jeg dømme retfærdigt,",
+      "number": 3,
+      "version": 1500242400000
     },
     {
-      "text": "\fLad jorden og alle dens beboere ryste,\fjeg har dog selv sat dens søjler på plads<<. Sela",
-      "number": 4
+      "text": "\fLad jorden og alle dens beboere ryste,\fjeg har dog selv sat dens søjler på plads«. Sela",
+      "number": 4,
+      "version": 1500242400000
     },
     {
-      "text": "\fJeg sagde til de overmodige: >>Vær ikke overmodige!<<\fOg til de ugudelige: >>Løft ikke horn!",
-      "number": 5
+      "text": "\fJeg sagde til de overmodige: »Vær ikke overmodige!«\fOg til de ugudelige: »Løft ikke horn!",
+      "number": 5,
+      "version": 1500242400000
     },
     {
-      "text": "\fLøft ikke jeres horn mod det høje,\ftal ikke frækt med knejsende nakke!<<",
-      "number": 6
+      "text": "\fLøft ikke jeres horn mod det høje,\ftal ikke frækt med knejsende nakke!«",
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fFor ikke fra øst eller fra vest,\fog heller ikke fra ørken er der ophøjelse.",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fFor Gud er den som dømmer,\fhan fornedrer den ene og ophøjer den anden.",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fFor der er et bæger i JHVHs hånd\fmed skummende vin, fuldt af krydderier,\fog han skænker ud deraf,\fselv dets bundfald må de slubre i sig og drikke, alle jordens ugudelige.",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fMen jeg vil forkynde for evigt,\fjeg vil lovsynge Jakobs Gud.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fOg jeg vil hugge alle de ugudeliges horn af,\fen retfærdigs horn skal ophøjes.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Tak",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Guds tale",
-      "verse": 3
+      "verse": 3,
+      "version": 1500242400000
     },
     {
-      "text": "Kaldet til omvendelse{E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men >>Sela<< (v.4) markerer oftest afrunding af et afsnit.}",
-      "verse": 5
+      "text": "Kaldet til omvendelse{E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.}",
+      "verse": 5,
+      "version": 1500242400000
     },
     {
       "text": "Lovprisning",
-      "verse": 10
+      "verse": 10,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: >>fordærv ikke/ødelæg ikke<<. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
       "type": "E",
       "verse": 1,
       "position": 28
     },
     {
-      "text": "I stedet for: *wᵊqārôv šᵊmexā* (>>og dit navn er nært<<) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: >>og den der påkalder dit navn, (fortæller om dine undere)<<. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: >>og vi påkalder dit navn<<.",
+      "text": "I stedet for: *wᵊqārôv šᵊmexā* (»og dit navn er nært«) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: »og den der påkalder dit navn, (fortæller om dine undere)«. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: »og vi påkalder dit navn«.",
       "type": "E",
       "verse": 2,
       "position": 52
     },
     {
-      "text": "Kan også oversættes: >>de/man fortæller om dine undere<<.",
+      "text": "Kan også oversættes: »de/man fortæller om dine undere«.",
       "type": "T",
       "verse": 2,
       "position": 82
     },
     {
-      "text": "Kan også oversættes: >>Når<<.",
+      "text": "Kan også oversættes: »Når«.",
       "type": "T",
       "verse": 4,
       "position": 4
@@ -120,7 +136,7 @@
       "text": "Sela",
       "type": "N",
       "verse": 4,
-      "position": 89
+      "position": 88
     },
     {
       "text": "Formodentlig er der især tænkt på gudløse.",
@@ -129,25 +145,25 @@
       "position": 29
     },
     {
-      "text": ">>ikke<< står ikke her i grundteksten, men dækkes af >>ikke<< i første linje i dette dobbelte udsagn.",
+      "text": "»ikke« står ikke her i grundteksten, men dækkes af »ikke« i første linje i dette dobbelte udsagn.",
       "type": "T",
       "verse": 6,
       "position": 44
     },
     {
-      "text": "Ordret: >>opgang<<.",
+      "text": "Ordret: »opgang«.",
       "type": "T",
       "verse": 7,
       "position": 17
     },
     {
-      "text": "Ordret: >>undergang<<.",
+      "text": "Ordret: »undergang«.",
       "type": "T",
       "verse": 7,
       "position": 33
     },
     {
-      "text": "Grundteksten har: >>fra ørkenens bjerge<<, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (>>bjerge<<) opfattes så bedre som infinitiv hif’il af verbet *rwm*: >>ophøje/ophøjelse<<.",
+      "text": "Grundteksten har: »fra ørkenens bjerge«, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (»bjerge«) opfattes så bedre som infinitiv hif’il af verbet *rwm*: »ophøje/ophøjelse«.",
       "type": "E",
       "verse": 7,
       "position": 76

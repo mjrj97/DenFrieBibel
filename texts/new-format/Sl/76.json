@@ -2,102 +2,119 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 76,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen. Med strengespil.\fSalme af Asaf. En sang.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fI Juda er Gud kendt,\fi Israel er hans navn stort,",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fhans hytte blev sat i Salem, og hans bolig på Zion.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fDér knuste han brændende pile,\fskjold og sværd og krig. Sela",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fGlansfuld er du,\fog mægtigere end bjerge, hvor rovet er.",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fDe standhaftige blev udplyndrede,\fde slumrede i deres søvn,\fog ingen af stridsmændene kunne løfte deres hænder.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fFor din trussel, Jakobs Gud,\fer både vognkæmpere og heste faldet i den dybe søvn.",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fDu, ja, du er frygtindgydende,\fog hvem kan bestå for dit ansigt, så snart du bliver vred?",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fFra himlen forkyndte du dom;\fjorden frygtede og blev stille,",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fda Gud rejste sig til dom\ffor at frelse alle jordens ydmyge. Sela",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fFor menneskets vrede skal prise dig,\fresten af vredesudbrud binder du om dig.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
       "text": "\fAflæg løfter og indfri dem til JHVH, jeres Gud,\falle som omgiver ham, skal bringe gaver til den frygtindgydende.",
-      "number": 12
+      "number": 12,
+      "version": 1500242400000
     },
     {
       "text": "\fHan kuer fyrsternes ånd,\ffrygtindgydende er han for jordens konger.",
-      "number": 13
+      "number": 13,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Den mægtige Gud på Zion",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Gud sejrer",
-      "verse": 5
+      "verse": 5,
+      "version": 1500242400000
     },
     {
       "text": "Tilbed den almægtige Gud",
-      "verse": 11
+      "verse": 11,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Ordret: >>buens lyn/brand<<.",
+      "text": "Ordret: »buens lyn/brand«.",
       "type": "T",
       "verse": 4,
       "position": 31
@@ -109,37 +126,37 @@
       "position": 61
     },
     {
-      "text": "Oftest formoder man at konsonanterne er byttet om så der ikke skal stå: *nāʔôr* (>>glansfuld/lysende<<), men: *nôrāʔ*: >>frygtelig/frygtindgydende<<.",
+      "text": "Oftest formoder man at konsonanterne er byttet om så der ikke skal stå: *nāʔôr* (»glansfuld/lysende«), men: *nôrāʔ*: »frygtelig/frygtindgydende«.",
       "type": "E",
       "verse": 5,
       "position": 10
     },
     {
-      "text": "Meningen må være at Gud, der troner på Zion, er mægtigere end alle stormagter. Præpositionen *min* (>>mere end<<) kan dog også oversættes: >>fra<<, så linjen lyder: >>mægtig fra bjerge, hvor rovet er<<. I så fald er meningen at Gud kommer med >>rov<< fra de >>bjerge<<, hvor fjenderne er blevet besejret. I stedet for: *ṭeref* (>>rov<<) vælger mange oversættere at følge bl.a. Septuaginta, der må have læst: *ʕad*: >>evige (bjerge)<<. Andre foreslår: *qedem*: >>urtids(bjerge)<<.",
+      "text": "Meningen må være at Gud, der troner på Zion, er mægtigere end alle stormagter. Præpositionen *min* (»mere end«) kan dog også oversættes: »fra«, så linjen lyder: »mægtig fra bjerge, hvor rovet er«. I så fald er meningen at Gud kommer med »rov« fra de »bjerge«, hvor fjenderne er blevet besejret. I stedet for: *ṭeref* (»rov«) vælger mange oversættere at følge bl.a. Septuaginta, der må have læst: *ʕad*: »evige (bjerge)«. Andre foreslår: *qedem*: »urtids(bjerge)«.",
       "type": "E",
       "verse": 5,
       "position": 57
     },
     {
-      "text": "ordret: >>tapre af hjerte<<.",
+      "text": "ordret: »tapre af hjerte«.",
       "type": "T",
       "verse": 6,
       "position": 16
     },
     {
-      "text": "Ordret: >>fandt<<.",
+      "text": "Ordret: »fandt«.",
       "type": "T",
       "verse": 6,
       "position": 98
     },
     {
-      "text": "Ordret: >>gruppe af (krigs)vogne<<. I sammenhængen er der dog tænkt på krigerne på vognene.",
+      "text": "Ordret: »gruppe af (krigs)vogne«. I sammenhængen er der dog tænkt på krigerne på vognene.",
       "type": "T",
       "verse": 7,
       "position": 49
     },
     {
-      "text": "Kan med lige så god ret oversættes: >>landets<<. Det er dog samme ord som i v.9.",
+      "text": "Kan med lige så god ret oversættes: »landets«. Det er dog samme ord som i v.9.",
       "type": "T",
       "verse": 10,
       "position": 53
@@ -151,19 +168,19 @@
       "position": 66
     },
     {
-      "text": "Rettelseforslagene til dette vers er mange. Konsonantteksten kan stort set beholdes på to måder: 1. *ʔādām* (>>menneskets<<) vokaliseres: *ʔᵉdōm*: >>Edom<<; *ḥēmōt* (>>vredesudbrud<<) vokaliseres: *ḥᵃmāt*: >>Hamat<<; og med Septuaginta rettes sidste ord: *taḥgōr* (>>binder du om dig<<) til: *tᵉḥāgexā*: >>skal fejre dig<<. Oversættelsen lyder da: >>Ja, det vrede Edom skal prise dig, Hamats rest skal fejre dig<<. Henvisningerne til Edom og Hamat er dog ikke indlysende i salmen. – 2: *tôdekkā* (>>skal prise dig<<) skal vokaliseres: *tādôx*: >>du slår itu<<; og verbet *ḥgr* (>>binde om sig<<) forstås ved hjælp af et beslægtet arabisk ord som: >>kue/undertvinge<<. Oversættelsen lyder da: >>Ja, du sønderbryder menneskets vrede, kuer den vrede som er til rest<<. Dette er måske den bedste forståelse af verset.Der findes en række mere vidtgående rettelsesforslag.",
+      "text": "Rettelseforslagene til dette vers er mange. Konsonantteksten kan stort set beholdes på to måder: 1. *ʔādām* (»menneskets«) vokaliseres: *ʔᵉdōm*: »Edom«; *ḥēmōt* (»vredesudbrud«) vokaliseres: *ḥᵃmāt*: »Hamat«; og med Septuaginta rettes sidste ord: *taḥgōr* (»binder du om dig«) til: *tᵉḥāgexā*: »skal fejre dig«. Oversættelsen lyder da: »Ja, det vrede Edom skal prise dig, Hamats rest skal fejre dig«. Henvisningerne til Edom og Hamat er dog ikke indlysende i salmen. – 2: *tôdekkā* (»skal prise dig«) skal vokaliseres: *tādôx*: »du slår itu«; og verbet *ḥgr* (»binde om sig«) forstås ved hjælp af et beslægtet arabisk ord som: »kue/undertvinge«. Oversættelsen lyder da: »Ja, du sønderbryder menneskets vrede, kuer den vrede som er til rest«. Dette er måske den bedste forståelse af verset.Der findes en række mere vidtgående rettelsesforslag.",
       "type": "E",
       "verse": 11,
       "position": 78
     },
     {
-      "text": "Grundteksten har: *lammôrāˀ*: >>til frygten<<. Man vælger som regel at følge bl.a. Septuaginta, der har læst: *lannôrāˀ*: >>til den frygtindgydende<<.",
+      "text": "Grundteksten har: *lammôrāˀ*: »til frygten«. Man vælger som regel at følge bl.a. Septuaginta, der har læst: *lannôrāˀ*: »til den frygtindgydende«.",
       "type": "E",
       "verse": 12,
       "position": 113
     },
     {
-      "text": "*rûₐḥ* (>>ånd<<) har ganske bred betydning, bl.a.: >>ånd, vind, ånde, hovmod, sind, livsprincip, mod, vrede<<. Især de to sidstnævnte kan overvejes her.",
+      "text": "*rûₐḥ* (»ånd«) har ganske bred betydning, bl.a.: »ånd, vind, ånde, hovmod, sind, livsprincip, mod, vrede«. Især de to sidstnævnte kan overvejes her.",
       "type": "E",
       "verse": 13,
       "position": 25

@@ -2,86 +2,99 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 47,
-  "version": 1457218800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
-      "number": 1
+      "number": 1,
+      "version": 1457218800000
     },
     {
       "text": "\fAlle folkeslag, klap i hænderne,\fjubel for Gud med frydefuld røst.",
-      "number": 2
+      "number": 2,
+      "version": 1457218800000
     },
     {
       "text": "\fFor JHVH, den Højeste, er frygtindgydende,\fen stor konge over hele jorden.",
-      "number": 3
+      "number": 3,
+      "version": 1457218800000
     },
     {
       "text": "\fHan lægger folk under os,\fja, nationer under vore fødder.",
-      "number": 4
+      "number": 4,
+      "version": 1457218800000
     },
     {
       "text": "\fHan udvælger vor arvelod til os,\fJakobs stolthed, som han elsker. Sela",
-      "number": 5
+      "number": 5,
+      "version": 1457218800000
     },
     {
       "text": "\fGud er draget op under jubelråb,\fJHVH til hornklang.",
-      "number": 6
+      "number": 6,
+      "version": 1457218800000
     },
     {
       "text": "\fSyng for Gud, syng!\fSyng for vor konge, syng!",
-      "number": 7
+      "number": 7,
+      "version": 1457218800000
     },
     {
       "text": "\fFor Gud er hele jordens konge,\fsyng en maskil!",
-      "number": 8
+      "number": 8,
+      "version": 1457218800000
     },
     {
       "text": "\fGud er blevet konge over folkeslagene,\fGud har taget sæde på sin hellige trone.",
-      "number": 9
+      "number": 9,
+      "version": 1457218800000
     },
     {
       "text": "\fFolkenes fyrster er samlet,\fAbrahams Guds folk,\ffor jordens skjolde tilhører Gud,\fhøjt ophøjet.",
-      "number": 10
+      "number": 10,
+      "version": 1457218800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1457218800000
     },
     {
       "text": "Lovprisning af den sejrende Gud",
-      "verse": 2
+      "verse": 2,
+      "version": 1457218800000
     },
     {
       "text": "Lovprisningen af den almægtige konge",
-      "verse": 6
+      "verse": 6,
+      "version": 1457218800000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Grundteksten har blot: >>klap hånd<<.",
+      "text": "Grundteksten har blot: »klap hånd«.",
       "type": "T",
       "verse": 2,
       "position": 33
@@ -93,25 +106,25 @@
       "position": 71
     },
     {
-      "text": "Se note til overskriften til Sl 45. Her ofte oversat >>hyldestsang<<.",
+      "text": "Se note til overskriften til Sl 45. Her ofte oversat »hyldestsang«.",
       "type": "T",
       "verse": 8,
       "position": 47
     },
     {
-      "text": "Kan også oversættes: >>fornemme<<.",
+      "text": "Kan også oversættes: »fornemme«.",
       "type": "T",
       "verse": 10,
       "position": 17
     },
     {
-      "text": "Linjen begynder på hebraisk med ordet: *ʕam* (>>folk<<) der har samme konsonanter som ordet: *ʕim* (>>med<<). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: >>med Abrahams Guds fok<<.",
+      "text": "Linjen begynder på hebraisk med ordet: *ʕam* (»folk«) der har samme konsonanter som ordet: *ʕim* (»med«). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: »med Abrahams Guds fok«.",
       "type": "E",
       "verse": 10,
       "position": 48
     },
     {
-      "text": "I stedet for *māginnê-* (>>skjolde<<) har bl.a. Septuaginta enten forstået ordet billedligt som >>herskere<< eller har evt. læst *signê-*: >>herskere<<. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
+      "text": "I stedet for *māginnê-* (»skjolde«) har bl.a. Septuaginta enten forstået ordet billedligt som »herskere« eller har evt. læst *signê-*: »herskere«. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
       "type": "E",
       "verse": 10,
       "position": 68

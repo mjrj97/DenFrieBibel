@@ -2,112 +2,130 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 26,
-  "version": 1457218800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fAf David.\fSkaf mig ret, JHVHv,\ffor jeg har vandret i min uskyld,\fog på JHVH har jeg stolet,\fjeg skal ikke vakle.",
-      "number": 1
+      "number": 1,
+      "version": 1457218800000
     },
     {
       "text": "\fPrøv mig, JHVHv, og test mig,\fransag mine nyrer og mit hjerte.",
-      "number": 2
+      "number": 2,
+      "version": 1457218800000
     },
     {
       "text": "\fFor din nåde har jeg for mine øjne,\fog jeg har vandret i din sandhed.",
-      "number": 3
+      "number": 3,
+      "version": 1457218800000
     },
     {
       "text": "\fJeg har ikke siddet hos løgnagtige mænd,\fog jeg vil ikke komme hos lumske.",
-      "number": 4
+      "number": 4,
+      "version": 1457218800000
     },
     {
       "text": "\fJeg har hadet ugerningsmænds forsamling,\fog hos ugudelige vil jeg ikke sidde.",
-      "number": 5
+      "number": 5,
+      "version": 1457218800000
     },
     {
       "text": "\fJeg vil vaske mine hænder i uskyld,\fog jeg vil gå omkring dit alter, JHVHv,",
-      "number": 6
+      "number": 6,
+      "version": 1457218800000
     },
     {
       "text": "\ffor at lade taksigelses røst lyde,\fog for at fortælle om alle dine undere.",
-      "number": 7
+      "number": 7,
+      "version": 1457218800000
     },
     {
       "text": "\fJHVHv, jeg elsker dit hus’ bo\fog stedet for din herligheds bolig.",
-      "number": 8
+      "number": 8,
+      "version": 1457218800000
     },
     {
       "text": "\fRiv ikke min sjæl bort med syndere,\feller mit liv med blodtørstige folk",
-      "number": 9
+      "number": 9,
+      "version": 1457218800000
     },
     {
       "text": "\fi hvis hænder der er skændsel,\fog hvis højre hånd er fuld af bestikkelse.",
-      "number": 10
+      "number": 10,
+      "version": 1457218800000
     },
     {
       "text": "\fMen jeg vil vandre i min uskyld,\fforløs mig og vær mig nådig!",
-      "number": 11
+      "number": 11,
+      "version": 1457218800000
     },
     {
       "text": "\fMin fod har stået på fast grund,\fi forsamlinger vil jeg prise JHVH.",
-      "number": 12
+      "number": 12,
+      "version": 1457218800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1457218800000
     },
     {
       "text": "Bøn om hjælp",
-      "verse": 2
+      "verse": 2,
+      "version": 1457218800000
     },
     {
       "text": "David søger ikke venskab med onde",
-      "verse": 3
+      "verse": 3,
+      "version": 1457218800000
     },
     {
       "text": "David længes kun efter at være Gud nær",
-      "verse": 6
+      "verse": 6,
+      "version": 1457218800000
     },
     {
       "text": "Ny bøn om hjælp",
-      "verse": 9
+      "verse": 9,
+      "version": 1457218800000
     },
     {
       "text": "Vished om Guds hjælp",
-      "verse": 12
+      "verse": 12,
+      "version": 1457218800000
     }
   ],
   "footnotes": [
     {
-      "text": "Kan også oversættes: >>Døm mig<< i betydningen: >>Bedøm mig<< parallelt med vers 2.",
+      "text": "Kan også oversættes: »Døm mig« i betydningen: »Bedøm mig« parallelt med vers 2.",
       "type": "T",
       "verse": 1,
       "position": 24
     },
     {
-      "text": "Kan også oversættes: >>uden at vakle<<.",
+      "text": "Kan også oversættes: »uden at vakle«.",
       "type": "T",
       "verse": 1,
       "position": 113
     },
     {
-      "text": "Ordret: >>prøv ved at smelte << (som metalsmelteren).",
+      "text": "Ordret: »prøv ved at smelte « (som metalsmelteren).",
       "type": "T",
       "verse": 2,
       "position": 37
@@ -119,7 +137,7 @@
       "position": 13
     },
     {
-      "text": "Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: >>høre<< (>>for at høre lyden af …<<), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).",
+      "text": "Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: »høre« (»for at høre lyden af …«), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).",
       "type": "E",
       "verse": 7,
       "position": 35

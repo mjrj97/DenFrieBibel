@@ -2,141 +2,155 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 64,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen.\fSalme af David.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fGud, hør mig når jeg klager,beskyt mit liv mod frygt for fjenden.",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fSkjul mig for de ondes fortrolige råd,\ffor larmen fra dem som begår synd.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fDe som har skærpet deres tunge som et sværd,\fhar spændt deres pil, nemlig et bittert ord,",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\ffor i skjul at skyde den uskyldige;\fpludselig skyder de ham og frygter ikke.",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
-      "text": "\fDe fastsætter for sig selv en ond plan,\fde taler om at skjule fælder,\fde sagde: >>Hvem kan se dem?<<",
-      "number": 6
+      "text": "\fDe fastsætter for sig selv en ond plan,\fde taler om at skjule fælder,\fde sagde: »Hvem kan se dem?«",
+      "number": 6,
+      "version": 1500242400000
     },
     {
-      "text": "\fDe udtænker ugerninger:\f>>Vi er færdige med en udtænkt plan.<<\fJa, et menneskes inderste og dets hjerte er uudgrundeligt.",
-      "number": 7
+      "text": "\fDe udtænker ugerninger:\f»Vi er færdige med en udtænkt plan.«\fJa, et menneskes inderste og dets hjerte er uudgrundeligt.",
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fMen Gud vil skyde en pil imod dem,\fpludselig har de sår.",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fOg de vil bringe sig selv til fald ved deres tunge,\falle som ser dem, skal ryste på hovedet.",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fOg alle mennesker skal frygte\fog forkynde Guds gerning\fog give agt på hans handling.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fDen retfærdige skal glæde sig i JHVH\fog søge tilflugt hos ham,\fog alle oprigtige af hjertet skal prise sig lykkelige.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Klage",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Guds retfærdige dom",
-      "verse": 8
+      "verse": 8,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Ordret: >>hør min røst i min klage.<<",
+      "text": "Ordret: »hør min røst i min klage.«",
       "type": "T",
       "verse": 2,
       "position": 29
     },
     {
-      "text": "Ordret: >>beskyt mit liv fra fjendefrygt<<.",
+      "text": "Ordret: »beskyt mit liv fra fjendefrygt«.",
       "type": "T",
       "verse": 2,
       "position": 66
     },
     {
-      "text": "Den præcise betydning af ordet *rigšāʰ* er usikker og omdiskuteret. Roden *rgš* betyder formodentlig: >>være i urolig, larmende bevægelse<<.",
+      "text": "Den præcise betydning af ordet *rigšāʰ* er usikker og omdiskuteret. Roden *rgš* betyder formodentlig: »være i urolig, larmende bevægelse«.",
       "type": "T",
       "verse": 3,
       "position": 50
     },
     {
-      "text": "Det hebraiske ord *dāvār* kan betyde både >>ord<< (v.4) og >>plan<<.",
+      "text": "Det hebraiske ord *dāvār* kan betyde både »ord« (v.4) og »plan«.",
       "type": "T",
       "verse": 6,
       "position": 40
     },
     {
-      "text": "Normalt betyder verbet *spr* i pi’el: >>fortælle<<. Hvis det er meningen, er det udtryk for overmod at man informerer fjenden. Oftest oversætter man her: >>tale om/aftale<<. Nogle fortolkere foreslår tekstrettelse til verbet *ḥpr*: >>grave<<. >>De graver for at skjule fælder<<.",
+      "text": "Normalt betyder verbet *spr* i pi’el: »fortælle«. Hvis det er meningen, er det udtryk for overmod at man informerer fjenden. Oftest oversætter man her: »tale om/aftale«. Nogle fortolkere foreslår tekstrettelse til verbet *ḥpr*: »grave«. »De graver for at skjule fælder«.",
       "type": "E",
       "verse": 6,
       "position": 49
     },
     {
-      "text": "Undertiden retter oversættere *lāmô* (>>dem<<) til *lānû*: >>os<<",
+      "text": "Undertiden retter oversættere *lāmô* (»dem«) til *lānû*: »os«",
       "type": "T",
       "verse": 6,
-      "position": 101
+      "position": 99
     },
     {
-      "text": "Ofte rettes *tamnû* (>>vi er færdige<<) til: *tammû*: >>de er færdige<< eller: *ṭamᵊnû*: >>de har skjult<<.",
+      "text": "Ofte rettes *tamnû* (»vi er færdige«) til: *tammû*: »de er færdige« eller: *ṭamᵊnû*: »de har skjult«.",
       "type": "T",
       "verse": 7,
-      "position": 40
+      "position": 39
     },
     {
-      "text": ">>med<< står ikke udtrykkeligt i den hebraiske tekst, men må være underforstået i sammenhængen, hvis teksten/oversættelsen i øvrigt er rigtig.",
+      "text": "»med« står ikke udtrykkeligt i den hebraiske tekst, men må være underforstået i sammenhængen, hvis teksten/oversættelsen i øvrigt er rigtig.",
       "type": "T",
       "verse": 7,
-      "position": 44
+      "position": 43
     },
     {
       "text": "Alle oversættelser af dette vers må tages med forbehold.",
       "type": "E",
       "verse": 7,
-      "position": 63
+      "position": 61
     },
     {
       "text": "Det er omdiskuteret, om verberne i v.8-10 skal oversættes ved fortid eller fremtid. Wayyiqtol skal normalt oversættes ved fortid, men kan også opfattes som profetisk tillidsfuldhed.",
@@ -145,19 +159,19 @@
       "position": 18
     },
     {
-      "text": "Accenterne i den hebraiske tekst lader >>pludselig<< høre til første halvvers hvor det giver god mening. Men rytmisk passer det bedre til andet halvvers.",
+      "text": "Accenterne i den hebraiske tekst lader »pludselig« høre til første halvvers hvor det giver god mening. Men rytmisk passer det bedre til andet halvvers.",
       "type": "E",
       "verse": 8,
       "position": 45
     },
     {
-      "text": "Ordret: >>og de vil bringe den til fald over dem selv, deres tunge<<.",
+      "text": "Ordret: »og de vil bringe den til fald over dem selv, deres tunge«.",
       "type": "T",
       "verse": 9,
       "position": 52
     },
     {
-      "text": "Andre oversætter: >>skal flygte<<. Der er tale om to forskellige verber.",
+      "text": "Andre oversætter: »skal flygte«. Der er tale om to forskellige verber.",
       "type": "T",
       "verse": 9,
       "position": 93

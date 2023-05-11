@@ -2,60 +2,69 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 150,
-  "version": 1504476000000,
-  "authors": [
+  "translation": 75,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     }
   ],
   "verses": [
     {
       "text": "\fHalleluja!\fLovpris Gud i hans helligdom,\flovpris ham i hans vældes himmelhvælving!",
-      "number": 1
+      "number": 1,
+      "version": 1504476000000
     },
     {
       "text": "\fLovpris ham for hans mægtige gerninger,\flovpris ham i overensstemmelse med hans vældige storhed!",
-      "number": 2
+      "number": 2,
+      "version": 1504476000000
     },
     {
       "text": "\fLovpris ham med stød i basun,\flovpris ham med harpe og citer,",
-      "number": 3
+      "number": 3,
+      "version": 1504476000000
     },
     {
       "text": "\flovpris ham med pauke og dans,\flovpris ham med strengespil og fløjte,",
-      "number": 4
+      "number": 4,
+      "version": 1504476000000
     },
     {
       "text": "\flovpris ham med klingende cymbler,\flovpris ham med rungende cymbler!",
-      "number": 5
+      "number": 5,
+      "version": 1504476000000
     },
     {
       "text": "\fAlt som har ånde, skal lovprise JHVH!\fHalleluja!",
-      "number": 6
+      "number": 6,
+      "version": 1504476000000
     }
   ],
   "titles": [
     {
       "text": "Jord og himmel skal lovprise Guds storhed",
-      "verse": 1
+      "verse": 1,
+      "version": 1504476000000
     },
     {
       "text": "Lovprisning med stort orkester",
-      "verse": 3
+      "verse": 3,
+      "version": 1504476000000
     },
     {
       "text": "Alle skal lovprise JHVH",
-      "verse": 6
+      "verse": 6,
+      "version": 1504476000000
     }
   ],
   "footnotes": [
     {
-      "text": "Kan også oversættes: >>hans hellighed<<, men i sammenhængen er der formodentlig tænkt på templet.",
+      "text": "Kan også oversættes: »hans hellighed«, men i sammenhængen er der formodentlig tænkt på templet.",
       "type": "E",
       "verse": 1,
       "position": 41

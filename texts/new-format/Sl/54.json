@@ -2,98 +2,111 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 54,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen. Med strengespil.\fMaskil af David.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
-      "text": "\fDengang zifiterne kom og sagde til Saul: >>Mon ikke David skjuler sig hos os?<<",
-      "number": 2
+      "text": "\fDengang zifiterne kom og sagde til Saul: »Mon ikke David skjuler sig hos os?«",
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fGud, frels mig ved dit navn\fog skaf mig ret ved din styrke!",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fGud, hør min bøn,\flyt til min munds ord!",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fFor fremmede har rejst sig imod mig,\fog voldsmænd stræber efter mit liv,\fde har ikke Gud for øje. Sela",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fSe, Gud hjælper mig,\fHerren er blandt dem der støtter min sjæl.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fDet onde skal vende tilbage til mine fjender,\fudryd dem i din trofasthed!",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fMed et frivilligoffer vil jeg bringe dig offer,\fjeg vil takke dit navn, JHVHv, for det er godt!",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fFor han befriede mig for al nød,\fog mit øje frydede sig over mine fjender.",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Bøn om hjælp",
-      "verse": 3
+      "verse": 3,
+      "version": 1500242400000
     },
     {
       "text": "Tillid til at Gud hjælper",
-      "verse": 6
+      "verse": 6,
+      "version": 1500242400000
     },
     {
       "text": "Løfte om takoffer",
-      "verse": 8
+      "verse": 8,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<< idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer, der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
       "type": "E",
       "verse": 1,
       "position": 40
     },
     {
-      "text": "Ordret: >>sjæl<<.",
+      "text": "Ordret: »sjæl«.",
       "type": "T",
       "verse": 5,
       "position": 72
     },
     {
-      "text": "Ordret: >>De har ikke stillet Gud foran sig<<.",
+      "text": "Ordret: »De har ikke stillet Gud foran sig«.",
       "type": "T",
       "verse": 5,
       "position": 98
@@ -105,13 +118,13 @@
       "position": 103
     },
     {
-      "text": "Der er tvivl om vokaliseringen af verbet *yšwv*. Oversættelsen her forudsætter vokalisering som jussiv (*yāšôv*). En anden mulighed er imperfektum (*yāšûv*): >>Det onde vil vende tilbage …<<. Endelig har jødiske skriftlærte foreslået hif’il: *yāšîv*, hvor Gud er subjekt: >>Han vil lade det onde vende tilbage …<<.",
+      "text": "Der er tvivl om vokaliseringen af verbet *yšwv*. Oversættelsen her forudsætter vokalisering som jussiv (*yāšôv*). En anden mulighed er imperfektum (*yāšûv*): »Det onde vil vende tilbage …«. Endelig har jødiske skriftlærte foreslået hif’il: *yāšîv*, hvor Gud er subjekt: »Han vil lade det onde vende tilbage …«.",
       "type": "T",
       "verse": 7,
       "position": 28
     },
     {
-      "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes >>sandhed<<. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: >>trofasthed<<.",
+      "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
       "type": "T",
       "verse": 7,
       "position": 74

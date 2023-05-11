@@ -2,102 +2,116 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 52,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen.\fMaskil af David.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fDengang edomiten Do’eg kom og fortalte Saul: David er kommet til Akimeleks hus.",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fHvorfor roser du dig af ondskab, du stærke?\fGuds nåde varer hele dagen.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fDu planlægger ondskab, din tunge er\fsom en hvæsset ragekniv,\fdu som begår svig!",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fDu elskede ondt frem for godt,\fløgn frem for retfærdig tale. Sela",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fDu elskede alle fordærvelige ord,\fdu svigefulde tunge!",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fDog, Gud skal ødelægge dig for evigt,\fhan skal snuppe dig op og udrydde dig af teltet,\frykke dig op med rode fra de levendes land. Sela",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fOg de retfærdige skal se det og frygte,\fog de skal le ad ham:",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fSe den mand, der ikke gør Gud til sit værn,\fmen forlader sig på sin store rigdom,\fføler sig stærk ved sin ondskab!",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fMen jeg er som et grønt oliventræ i Guds hus,\fjeg har forladt mig på Guds nåde\ffor evigt og altid.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fJeg vil takke dig for evigt\ffor at du gjorde det.\fOg jeg vil håbe på dit navn\f- for det er godt –\fi nærvær af dine fromme.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Profetiske trusselsord",
-      "verse": 3
+      "verse": 3,
+      "version": 1500242400000
     },
     {
       "text": "Afsluttende vidnesbyrd og tak",
-      "verse": 10
+      "verse": 10,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<< idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.",
+      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
       "type": "E",
       "verse": 1,
       "position": 23
     },
     {
-      "text": "Ordret: >>fortalte Saul og sagde til ham:<<.",
+      "text": "Ordret: »fortalte Saul og sagde til ham:«.",
       "type": "T",
       "verse": 2,
       "position": 45
     },
     {
-      "text": "Der kunne også oversættes: >>du helt<< der må opfattes ironisk spottende.",
+      "text": "Der kunne også oversættes: »du helt« der må opfattes ironisk spottende.",
       "type": "T",
       "verse": 3,
       "position": 44
@@ -109,7 +123,7 @@
       "position": 66
     },
     {
-      "text": "Strengt taget står >>telt<< uden artikel. Der kan enten være tænkt på Guds >>telt<< (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: >>dit telt<<.",
+      "text": "Strengt taget står »telt« uden artikel. Der kan enten være tænkt på Guds »telt« (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: »dit telt«.",
       "type": "T",
       "verse": 7,
       "position": 87

@@ -2,104 +2,123 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 108,
-  "version": 1499983200000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fEn sang. Salme af David.",
-      "number": 1
+      "number": 1,
+      "version": 1499983200000
     },
     {
       "text": "\fMit hjerte er trygt, Gud,\fjeg vil synge og spille,\fja, min ære.",
-      "number": 2
+      "number": 2,
+      "version": 1499983200000
     },
     {
       "text": "\fVågn op, du harpe og citer!\fJeg vil vække morgengryet.",
-      "number": 3
+      "number": 3,
+      "version": 1499983200000
     },
     {
       "text": "\fJeg vil takke dig blandt folkene, JHVHv,\fog jeg vil lovsynge dig blandt folkeslagene.",
-      "number": 4
+      "number": 4,
+      "version": 1499983200000
     },
     {
       "text": "\fFor din nåde er stor op over himlene,\fog din sandhed op til skyerne.",
-      "number": 5
+      "number": 5,
+      "version": 1499983200000
     },
     {
       "text": "\fOphøj dig over himlene, Gud,\fog din herlighed komme over hele jorden!",
-      "number": 6
+      "number": 6,
+      "version": 1499983200000
     },
     {
       "text": "\fFor at dine elskede må blive reddet,\fså frels med din højre hånd, og svar mig!",
-      "number": 7
+      "number": 7,
+      "version": 1499983200000
     },
     {
-      "text": "\fGud har talt i sin helligdom:\f>>Jeg vil juble, jeg vil udstykke Sikem\fog udmåle Sukkots dal.",
-      "number": 8
+      "text": "\fGud har talt i sin helligdom:\f»Jeg vil juble, jeg vil udstykke Sikem\fog udmåle Sukkots dal.",
+      "number": 8,
+      "version": 1499983200000
     },
     {
       "text": "\fMig tilhører Gilead, og mig tilhører Manasse,\fog Efraim er mit hoveds hjelm,\fJuda er min herskerstav.",
-      "number": 9
+      "number": 9,
+      "version": 1499983200000
     },
     {
-      "text": "\fMoab er mit vaskefad,\fpå Edom vil jeg kaste min sko,\fjeg vil bryde ud i jubel over Filistæa!<<",
-      "number": 10
+      "text": "\fMoab er mit vaskefad,\fpå Edom vil jeg kaste min sko,\fjeg vil bryde ud i jubel over Filistæa!«",
+      "number": 10,
+      "version": 1499983200000
     },
     {
       "text": "\fHvem vil føre mig til en befæstet by?\fHvem har ledt mig til Edom?",
-      "number": 11
+      "number": 11,
+      "version": 1499983200000
     },
     {
       "text": "\fMon ikke du har forkastet os, Gud,\fog vil du ikke drage ud, Gud, med vore hære?",
-      "number": 12
+      "number": 12,
+      "version": 1499983200000
     },
     {
       "text": "\fBring os hjælp mod en fjende,\ffor menneskers frelse er værdiløs.",
-      "number": 13
+      "number": 13,
+      "version": 1499983200000
     },
     {
       "text": "\fVed Guds hjælp vil vi vinde styrke,\fog han skal træde vore fjender ned.",
-      "number": 14
+      "number": 14,
+      "version": 1499983200000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1499983200000
     },
     {
       "text": "Tak",
-      "verse": 2
+      "verse": 2,
+      "version": 1499983200000
     },
     {
       "text": "Bring os hjælp!",
-      "verse": 6
+      "verse": 6,
+      "version": 1499983200000
     },
     {
       "text": "Guds løfte",
-      "verse": 8
+      "verse": 8,
+      "version": 1499983200000
     },
     {
       "text": "Klage og bøn",
-      "verse": 11
+      "verse": 11,
+      "version": 1499983200000
     }
   ],
   "footnotes": [
     {
-      "text": "Her formodentlig synonym for >>sjæl<< eller >>personlighed<<. Mange følger dog et betydeligt antal håndskrifter, der har samme tekst som Sl 57,9: >>Vågn op, min ære!<<. Grundtekstens: * kāvôd* kan også oversættes: >>herlighed<<; det er da Gud, der kaldes: >>min herlighed<<.",
+      "text": "Her formodentlig synonym for »sjæl« eller »personlighed«. Mange følger dog et betydeligt antal håndskrifter, der har samme tekst som Sl 57,9: »Vågn op, min ære!«. Grundtekstens: * kāvôd* kan også oversættes: »herlighed«; det er da Gud, der kaldes: »min herlighed«.",
       "type": "E",
       "verse": 2,
       "position": 64
@@ -111,31 +130,31 @@
       "position": 13
     },
     {
-      "text": "Eller: >>troskab<<.",
+      "text": "Eller: »troskab«.",
       "type": "T",
       "verse": 5,
       "position": 53
     },
     {
-      "text": "Kan også oversættes: >>hellighed<<.",
+      "text": "Kan også oversættes: »hellighed«.",
       "type": "T",
       "verse": 8,
       "position": 30
     },
     {
-      "text": "Ordret: >>værn<<.",
+      "text": "Ordret: »værn«.",
       "type": "T",
       "verse": 9,
       "position": 77
     },
     {
-      "text": "Mange følger Septuaginta og retter *nāḥanî* (>>har ledt mig<<) til: *janḥēnî*: >>vil/skal lede mig<<.",
+      "text": "Mange følger Septuaginta og retter *nāḥanî* (»har ledt mig«) til: *janḥēnî*: »vil/skal lede mig«.",
       "type": "T",
       "verse": 11,
       "position": 56
     },
     {
-      "text": "Det er overraskende at første linje har ordet: *ʕezrāʰ* (>>hjælp<<), som er det bedste, mennesker i bedste fald formår, mens anden linje har: *tᵊšûʕāʰ* (>>frelse<<), som alene Gud kan give.",
+      "text": "Det er overraskende at første linje har ordet: *ʕezrāʰ* (»hjælp«), som er det bedste, mennesker i bedste fald formår, mens anden linje har: *tᵊšûʕāʰ* (»frelse«), som alene Gud kan give.",
       "type": "E",
       "verse": 13,
       "position": 52

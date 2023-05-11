@@ -2,76 +2,88 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 82,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fSalme af Asaf.\fGud står i det guddommelige råd,\fmidt iblandt guder vil han holde dom:",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
-      "text": "\f>>Hvor længe vil I dømme uretfærdigt\fog løfte de ugudeliges ansigter? Sela",
-      "number": 2
+      "text": "\f»Hvor længe vil I dømme uretfærdigt\fog løfte de ugudeliges ansigter? Sela",
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fSkaf den ringe og den faderløse ret,\fhjælp den hjælpeløse og den arme til retfærdighed,",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fred den ringe og den fattige,\fudfri af de ugudeliges hånd!",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fDe vidste ikke og forstod ikke,\fde vandrer omkring i mørke,\falle jordens grundvolde vakler.",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fJeg har sagt: I er guder,\fog I er alle den Højestes sønner.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
-      "text": "\fMen I skal dø som menneske,\fog som en af fyrsterne skal I falde.<<",
-      "number": 7
+      "text": "\fMen I skal dø som menneske,\fog som en af fyrsterne skal I falde.«",
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fRejs dig, Gud, hold dom over jorden,\ffor du har alle folkene til ejendom.",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Indledning",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Guds domstale{E: Man kan overveje, om hele stykket v.2-7 er Guds tale, eller om især v.5 er en andens anklagende indlæg eller salmistens klage. Selv om der veksles fra 2. til 3. person, synes det dog stadig at være Gud der taler. Men det vurderes forskelligt.}",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Afsluttende bøn",
-      "verse": 8
+      "verse": 8,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: >>guds forsamling/menighed<<, idet der er anvendt det korte *ʔēl* (>>gud<<), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
+      "text": "Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: »guds forsamling/menighed«, idet der er anvendt det korte *ʔēl* (»gud«), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
       "type": "E",
       "verse": 1,
       "position": 48
@@ -86,13 +98,13 @@
       "text": "Det er: Begunstige og tage parti for de ugudelige, favorisere dem.",
       "type": "T",
       "verse": 2,
-      "position": 70
+      "position": 69
     },
     {
       "text": "Sela",
       "type": "N",
       "verse": 2,
-      "position": 75
+      "position": 74
     }
   ]
 }

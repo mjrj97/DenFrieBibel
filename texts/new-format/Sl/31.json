@@ -2,164 +2,195 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 31,
-  "version": 1457218800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen.\fSalme af David.",
-      "number": 1
+      "number": 1,
+      "version": 1457218800000
     },
     {
       "text": "\fHos dig, JHVHv, har jeg søgt tilflugt,\flad mig aldrig i evighed blive til skamme,\fudfri mig i din retfærdighed.",
-      "number": 2
+      "number": 2,
+      "version": 1457218800000
     },
     {
       "text": "\fBøj dit øre til mig,\fred mig i hast,\fvær mig en klippefæstning,\fen befæstet borg til at frelse mig.",
-      "number": 3
+      "number": 3,
+      "version": 1457218800000
     },
     {
       "text": "\fFor du er min klippe og min borg,\fog led mig og før mig for dit navns skyld.",
-      "number": 4
+      "number": 4,
+      "version": 1457218800000
     },
     {
       "text": "\fBefri mig fra det net\fsom de har udlagt skjult for mig,\ffor du er min fæstning.",
-      "number": 5
+      "number": 5,
+      "version": 1457218800000
     },
     {
       "text": "\fI din hånd betror jeg min ånd,\fdu forløser mig, JHVHv, du trofaste Gud!",
-      "number": 6
+      "number": 6,
+      "version": 1457218800000
     },
     {
       "text": "\fJeg har hadet dem som dyrker falske guder,\fmen jeg har stolet på JHVH.",
-      "number": 7
+      "number": 7,
+      "version": 1457218800000
     },
     {
       "text": "\fJeg vil juble og glæde mig over din nåde,\fdu, som har set min hjælpeløshed,\fdu tog dig af min sjæls trængsel.",
-      "number": 8
+      "number": 8,
+      "version": 1457218800000
     },
     {
       "text": "\fDu overgav mig ikke i fjendens hånd,\fdu satte mine fødder på åbent land.",
-      "number": 9
+      "number": 9,
+      "version": 1457218800000
     },
     {
       "text": "\fVær mig nådig, JHVHv, for jeg er i nød,\fhentæret af sorg er mit øje,\fmin sjæl og min krop.",
-      "number": 10
+      "number": 10,
+      "version": 1457218800000
     },
     {
       "text": "\fFor mit liv er svundet hen i kval\fog mine år i suk.\fMin kraft er nedbrudt ved min skyld,\fog mine knogler er indtørrede.",
-      "number": 11
+      "number": 11,
+      "version": 1457218800000
     },
     {
       "text": "\fFor alle mine fjender er jeg blevet til spot,\fog det i rigt mål for mine naboer\fog til skræk for mine bekendte,\fde som så mig udenfor, flygtede fra mig.",
-      "number": 12
+      "number": 12,
+      "version": 1457218800000
     },
     {
       "text": "\fJeg blev glemt, ude af hjerte som en død,\fjeg var som et ødelagt kar.",
-      "number": 13
+      "number": 13,
+      "version": 1457218800000
     },
     {
       "text": "\fFor jeg hørte manges bagtalelse,\fder var rædsel rundt omkring,\fidet de rådslog sammen mod mig,\ftænkte de på at tage livet af mig.",
-      "number": 14
+      "number": 14,
+      "version": 1457218800000
     },
     {
       "text": "\fMen jeg har stolet på dig, JHVHv!\fJeg sagde: Du er min Gud.",
-      "number": 15
+      "number": 15,
+      "version": 1457218800000
     },
     {
       "text": "\fMine tider er i din hånd.\fRed mig fra mine fjenders hånd og fra mine forfølgere!",
-      "number": 16
+      "number": 16,
+      "version": 1457218800000
     },
     {
       "text": "\fLad dit ansigt lyse over din tjener,\ffrels mig ved din nåde.",
-      "number": 17
+      "number": 17,
+      "version": 1457218800000
     },
     {
       "text": "\fJHVHv, lad mig ikke blive til skamme,\ffor jeg har kaldt på dig.\fLad de ugudelige blive til skamme,\flad dem tie i dødsriget.",
-      "number": 18
+      "number": 18,
+      "version": 1457218800000
     },
     {
       "text": "\fLad de falske læber blive stumme,\fdem som taler frækt mod en retfærdig\fmed hovmod og foragt.",
-      "number": 19
+      "number": 19,
+      "version": 1457218800000
     },
     {
       "text": "\fHvor stor er din godhed\fsom du har gemt til dem der frygter dig,\fsom du har vist mod dem der søger tilflugt hos dig,\fover for menneskets børn.",
-      "number": 20
+      "number": 20,
+      "version": 1457218800000
     },
     {
       "text": "\fDu vil skjule dem i dit ansigts skjul\ffor menneskers sammensværgelser,\fdu vil gemme dem i en hytte\ffor tungers kiv.",
-      "number": 21
+      "number": 21,
+      "version": 1457218800000
     },
     {
       "text": "\fLovet være JHVH!\fFor han har på underfuld vis vist sin nåde imod mig\fi en belejret by.",
-      "number": 22
+      "number": 22,
+      "version": 1457218800000
     },
     {
-      "text": "\fMen jeg – jeg sagde i min angst:\f>>Jeg er udryddet fra dine øjne<<.\fMen du hørte alligevel min tryglende røst,\fda jeg råbte til dig om hjælp.",
-      "number": 23
+      "text": "\fMen jeg – jeg sagde i min angst:\f»Jeg er udryddet fra dine øjne«.\fMen du hørte alligevel min tryglende røst,\fda jeg råbte til dig om hjælp.",
+      "number": 23,
+      "version": 1457218800000
     },
     {
       "text": "\fElsk JHVH, alle hans fromme!\fHerren beskytter trofaste,\fmen gengælder til overmål den som er hovmodig.",
-      "number": 24
+      "number": 24,
+      "version": 1457218800000
     },
     {
       "text": "\fVær stærke, og styrk jeres hjerte,\falle I som venter på JHVH!",
-      "number": 25
+      "number": 25,
+      "version": 1457218800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1457218800000
     },
     {
       "text": "Klage og bøn om hjælp",
-      "verse": 2
+      "verse": 2,
+      "version": 1457218800000
     },
     {
       "text": "Tillid til Gud",
-      "verse": 7
+      "verse": 7,
+      "version": 1457218800000
     },
     {
       "text": "Klage",
-      "verse": 10
+      "verse": 10,
+      "version": 1457218800000
     },
     {
       "text": "Ny tillidserklæring og bøn",
-      "verse": 15
+      "verse": 15,
+      "version": 1457218800000
     },
     {
       "text": "Tak og lovprisning",
-      "verse": 20
+      "verse": 20,
+      "version": 1457218800000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Perfektum må her forstås som det, der er digterens erfaring og derfor også hans tillid. Sætningen kan dog også oversættes: >>du har forløst mig<<",
+      "text": "Perfektum må her forstås som det, der er digterens erfaring og derfor også hans tillid. Sætningen kan dog også oversættes: »du har forløst mig«",
       "type": "E",
       "verse": 6,
       "position": 43
     },
     {
-      "text": "Kan også oversættes: >>sandheds/sande<<",
+      "text": "Kan også oversættes: »sandheds/sande«",
       "type": "T",
       "verse": 6,
       "position": 67
@@ -177,7 +208,7 @@
       "position": 41
     },
     {
-      "text": "Til dels med støtte i gamle oversættelser retter mange *baʕᵃwōnî* (>>ved min skyld<<) til *bᵊʕōnjî*: >>i min nød<<. Selv om syndsbekendelse ikke er fremtrædende i salmen, kan den godt have haft sin plads i den, idet Guds trofasthed derved bliver understreget endnu stærkere som tillidens fundament",
+      "text": "Til dels med støtte i gamle oversættelser retter mange *baʕᵃwōnî* (»ved min skyld«) til *bᵊʕōnjî*: »i min nød«. Selv om syndsbekendelse ikke er fremtrædende i salmen, kan den godt have haft sin plads i den, idet Guds trofasthed derved bliver understreget endnu stærkere som tillidens fundament",
       "type": "E",
       "verse": 11,
       "position": 89
@@ -195,31 +226,31 @@
       "position": 60
     },
     {
-      "text": "Ordret: >>tie til dødsriget<<. Meningen er enten som i oversættelsen her, eller at de skal fare stumme ned i dødriget",
+      "text": "Ordret: »tie til dødsriget«. Meningen er enten som i oversættelsen her, eller at de skal fare stumme ned i dødriget",
       "type": "T",
       "verse": 18,
       "position": 124
     },
     {
-      "text": "Dvs. >>i din nærhed og omsorg<<",
+      "text": "Dvs. »i din nærhed og omsorg«",
       "type": "T",
       "verse": 21,
       "position": 38
     },
     {
-      "text": "Der er usikkerhed om betydningen af ordet *rōxes* (>>sammensværgelse<<) der kun findes denne ene gang i GT. Andre oversætter: >>overgreb<<, >>bande<<",
+      "text": "Der er usikkerhed om betydningen af ordet *rōxes* (»sammensværgelse«) der kun findes denne ene gang i GT. Andre oversætter: »overgreb«, »bande«",
       "type": "T",
       "verse": 21,
       "position": 71
     },
     {
-      "text": "Det er omdiskuteret om *māṣôr* betyder >>belejret<< eller >>befæstet<<",
+      "text": "Det er omdiskuteret om *māṣôr* betyder »belejret« eller »befæstet«",
       "type": "T",
       "verse": 22,
       "position": 83
     },
     {
-      "text": "Ordret >>udøver hovmod<<",
+      "text": "Ordret »udøver hovmod«",
       "type": "T",
       "verse": 24,
       "position": 103

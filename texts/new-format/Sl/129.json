@@ -2,67 +2,78 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 129,
-  "version": 1504476000000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang.\fDe bekæmpede mig hårdt fra min ungdom af\f– sådan skal Israel sige –",
-      "number": 1
+      "number": 1,
+      "version": 1504476000000
     },
     {
       "text": "\fde bekæmpede mig hårdt fra min ungdom af,\fog dog kunne de ikke overvinde mig.",
-      "number": 2
+      "number": 2,
+      "version": 1504476000000
     },
     {
       "text": "\fPå min ryg pløjede plovmænd,\fde trak deres furer lange.",
-      "number": 3
+      "number": 3,
+      "version": 1504476000000
     },
     {
       "text": "\fJHVH er retfærdig,\fhan huggede de ugudeliges reb over.",
-      "number": 4
+      "number": 4,
+      "version": 1504476000000
     },
     {
       "text": "\fDe skal blive til skamme og vige tilbage,\falle de som hader Zion.",
-      "number": 5
+      "number": 5,
+      "version": 1504476000000
     },
     {
       "text": "\fDe skal blive som græs på tagene,\fsom er visnet før man har nået at rykke det op,",
-      "number": 6
+      "number": 6,
+      "version": 1504476000000
     },
     {
       "text": "\fsom høstmanden ikke får fyldt sin hånd med,\fog heller ikke den som binder neg, sin favn.",
-      "number": 7
+      "number": 7,
+      "version": 1504476000000
     },
     {
-      "text": "\fOg de som går forbi, siger ikke:\f>>JHVHs velsignelse være med jer!<<\fVi velsigner jer i JHVHs navn.",
-      "number": 8
+      "text": "\fOg de som går forbi, siger ikke:\f»JHVHs velsignelse være med jer!«\fVi velsigner jer i JHVHs navn.",
+      "number": 8,
+      "version": 1504476000000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1504476000000
     },
     {
       "text": "Gud har bevaret sit folk",
-      "verse": 2
+      "verse": 2,
+      "version": 1504476000000
     },
     {
       "text": "Tillid til Guds sejr",
-      "verse": 5
+      "verse": 5,
+      "version": 1504476000000
     }
   ],
   "footnotes": [
@@ -73,19 +84,19 @@
       "position": 14
     },
     {
-      "text": "Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: >>(plov)furer<<.",
+      "text": "Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: »(plov)furer«.",
       "type": "E",
       "verse": 3,
       "position": 49
     },
     {
-      "text": "Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: >>Lad dem blive til skamme … Lad dem blive som græs …<<.",
+      "text": "Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: »Lad dem blive til skamme … Lad dem blive som græs …«.",
       "type": "E",
       "verse": 5,
       "position": 14
     },
     {
-      "text": "Andre oversætter: >>før det når at skyde op<<. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (>>som er visnet før man har nået at rykke det op<<) til: *šeqqādim tišdōf*: >>som østenvinden udtørrer<<. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
+      "text": "Andre oversætter: »før det når at skyde op«. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (»som er visnet før man har nået at rykke det op«) til: *šeqqādim tišdōf*: »som østenvinden udtørrer«. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
       "type": "E",
       "verse": 6,
       "position": 82

@@ -22,12 +22,14 @@ function BookDropdown(props) {
     }, [books]);
 
     useEffect(()=>{
-        setChapters(currentBook.chapters);
+        setChapters(getCurrentBook);
     }, [currentBook]);
+
+    const getCurrentBook = currentBook.chapters ? currentBook.chapters.length : 0;
 
     const chapterOptions = [];
     for (let i = 1; i <= chapters; i++) {
-        chapterOptions.push((<option key={i} value={i}>Kapitel {i}</option>));
+        chapterOptions.push((<option key={"CD" + i} value={i}>Kapitel {i}</option>));
     }
 
     function onBookChange(bookIndex) {
@@ -42,7 +44,7 @@ function BookDropdown(props) {
     }
 
     function addChapter() {
-        if (currentChapter < currentBook.chapters)
+        if (currentChapter < getCurrentBook)
             onChapterChange(parseInt(currentChapter) + 1);
     }
 
@@ -55,10 +57,10 @@ function BookDropdown(props) {
         // Sticky top: https://stackoverflow.com/questions/28340054/bootstrap-keep-div-fixed-after-scrolling-to-it
         <div className="sticky-top sticky-dropdown">
             <div className="px-0 mx-0 mb-2">
-                <div className='arrow-container'>
+                <div className='arrow-container d-none d-sm-block'>
                     <div className='d-flex justify-content-between'>
                         <a className={'btn btn-light arrow arrow-left ignore' + (currentChapter == 1 ? ' disabled' : '')} href='#' onClick={subtractChapter}>←</a>
-                        <a className={'btn btn-light arrow arrow-right ignore' + (currentChapter == currentBook.chapters ? ' disabled' : '')} href='#' onClick={addChapter}>→</a>
+                        <a className={'btn btn-light arrow arrow-right ignore' + (currentChapter == getCurrentBook ? ' disabled' : '')} href='#' onClick={addChapter}>→</a>
                     </div>
                 </div>
                 <div className="row select-container">

@@ -2,132 +2,152 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 56,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fTil korlederen. Al-jonat-elem-rehokim.\fAf David. Miktam.\fDengang filistrene i Gat greb ham.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fVær mig nådig, Gud, for et menneske efterstræber mig,\fdagen lang trænger en stridsmand sig ind på mig.",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fMine fjender efterstræber mig hele dagen,\ffor mange fører krig imod mig i hovmod.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fPå en dag, hvor jeg gribes af frygt, stoler jeg på dig.",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fVed Guds hjælp vil jeg prise hans ord.\fJeg har stolet på Gud, jeg skal ikke frygte;\fhvad kan kød gøre mig?",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fHele dagen krænker de mine ord,\falle deres tanker er rettet imod mig til ondt.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fDe angriber, de lurer,\fde vogter på mine hæle,\fligesom de har tragtet efter min sjæl.",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fSkal de undslippe trods deres ondskab?\fStød folkene ned i vrede, Gud!",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fDu har optegnet min elendighed,\fanbring min tåre i din lædersæk;\fstår det ikke i din bog?",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fDa skal mine fjender vige tilbage\fpå den dag da jeg råber.\fDette ved jeg: at Gud er for mig.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fVed Guds hjælp vil jeg prise et ord;\fved JHVHs hjælp vil jeg prise et ord.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
       "text": "\fJeg har stolet på Gud, jeg skal ikke frygte.\fHvad kan et menneske gøre mig?",
-      "number": 12
+      "number": 12,
+      "version": 1500242400000
     },
     {
       "text": "\fPå mig, Gud, hviler de løfter jeg har givet dig,\fjeg vil indfri med takofre.",
-      "number": 13
+      "number": 13,
+      "version": 1500242400000
     },
     {
       "text": "\fFor du befriede min sjæl fra døden,\fja, mine fødder fra fald,\fså jeg kan vandre for Guds ansigt\fi livets lys.",
-      "number": 14
+      "number": 14,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Klagende bøn",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Erklæring af tillid",
-      "verse": 4
+      "verse": 4,
+      "version": 1500242400000
     },
     {
       "text": "Ny klage",
-      "verse": 6
+      "verse": 6,
+      "version": 1500242400000
     },
     {
       "text": "Vished om hjælp og omsorg",
-      "verse": 9
+      "verse": 9,
+      "version": 1500242400000
     },
     {
       "text": "Tak",
-      "verse": 13
+      "verse": 13,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.",
+      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
       "type": "E",
       "verse": 1,
       "position": 16
     },
     {
-      "text": "Formodentlig et musikudtryk (evt. en melodiangivelse) af ukendt betydning. Ordret evt.: >>Efter stumhedens due, de fjerne/blandt de fjerne<<.",
+      "text": "Formodentlig et musikudtryk (evt. en melodiangivelse) af ukendt betydning. Ordret evt.: »Efter stumhedens due, de fjerne/blandt de fjerne«.",
       "type": "T",
       "verse": 1,
       "position": 39
     },
     {
-      "text": "Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<), eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 57-60) fastholde en alvorlig situation i folkets erindring.",
+      "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 57-60) fastholde en alvorlig situation i folkets erindring.",
       "type": "T",
       "verse": 1,
       "position": 57
     },
     {
-      "text": ">>menneske<< kan her evt. være ment kollektivt: >>mennesker<<.",
+      "text": "»menneske« kan her evt. være ment kollektivt: »mennesker«.",
       "type": "T",
       "verse": 2,
       "position": 36
     },
     {
-      "text": "*mārôm* betyder >>det høje/ophøjede<<, men oversættes her ofte >>i hovmod<<. Andre tager det som indledning til v. 4: >>du Højeste!<<.",
+      "text": "*mārôm* betyder »det høje/ophøjede«, men oversættes her ofte »i hovmod«. Andre tager det som indledning til v. 4: »du Højeste!«.",
       "type": "T",
       "verse": 3,
       "position": 82
@@ -145,37 +165,37 @@
       "position": 47
     },
     {
-      "text": "Formodentlig i betydningen: >>mit liv<<.",
+      "text": "Formodentlig i betydningen: »mit liv«.",
       "type": "T",
       "verse": 7,
       "position": 86
     },
     {
-      "text": "Andre oversætter: >>landflygtighed<<. Ordet *nōd* optræder i GT kun her og i stednavnet >>Nod<< (1 Mos 4,16) som stedet her spiller på.",
+      "text": "Andre oversætter: »landflygtighed«. Ordet *nōd* optræder i GT kun her og i stednavnet »Nod« (1 Mos 4,16) som stedet her spiller på.",
       "type": "E",
       "verse": 9,
       "position": 32
     },
     {
-      "text": "Accenten på første stavelse i *śîmāʰ* angiver at ordet er imperativ. Hvis den flyttes til anden stavelse, er det part.fem.: >>min tåre er anbragt …<<.",
+      "text": "Accenten på første stavelse i *śîmāʰ* angiver at ordet er imperativ. Hvis den flyttes til anden stavelse, er det part.fem.: »min tåre er anbragt …«.",
       "type": "E",
       "verse": 9,
       "position": 40
     },
     {
-      "text": "Meningen er omdiskuteret. Mange oversættere går ud fra at: *dāvār* (>>et ord<<) skal læses som: *dᵊvārô*: >>>hans ord<<, hvor >>ord<< er forstået som et nådesord. Andre oversætter lidt friere: >>På Gud, hvis ord jeg vil prise, / på JHVH, hvis ord jeg vil prise, / på Gud har jeg stolet, jeg skal ikke frygte. / Hvad kan et menneske gøre mig?<<",
+      "text": "Meningen er omdiskuteret. Mange oversættere går ud fra at: *dāvār* (»et ord«) skal læses som: *dᵊvārô*: »›hans ord«, hvor »ord« er forstået som et nådesord. Andre oversætter lidt friere: »På Gud, hvis ord jeg vil prise, / på JHVH, hvis ord jeg vil prise, / på Gud har jeg stolet, jeg skal ikke frygte. / Hvad kan et menneske gøre mig?«",
       "type": "E",
       "verse": 11,
       "position": 75
     },
     {
-      "text": "Ordret: >>mon ikke mine fødder fra fald?<<",
+      "text": "Ordret: »mon ikke mine fødder fra fald?«",
       "type": "T",
       "verse": 14,
       "position": 39
     },
     {
-      "text": "Kan også oversættes: >>de levendes lys<<.",
+      "text": "Kan også oversættes: »de levendes lys«.",
       "type": "T",
       "verse": 14,
       "position": 105

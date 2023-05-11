@@ -2,55 +2,62 @@
   "book": "Esajas’ Bog",
   "abbreviation": "Es",
   "chapter": 4,
-  "version": 1668034800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Svend Erik Petersen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Christian Højgaard",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Mikkel Kølkær",
-      "type": "exegetic layout"
+      "type": "Eksegetisk layout"
     }
   ],
   "verses": [
     {
-      "text": "\fOg syv kvinder skal gribe fat i én mand på den dag\n\t\tog sige:\f\n\t\t\t>>Vi vil spise vores eget brød\f\n\t\t\t\t\tog klæde os i vores eget tøj,\f\n\t\t\t\tbare man må kalde os med dit navn;\f\n\t\t\t\t\tfjern vores vanære!<<",
-      "number": 1
+      "text": "\fOg syv kvinder skal gribe fat i én mand på den dag\n\t\tog sige:\f\n\t\t\t»Vi vil spise vores eget brød\f\n\t\t\t\t\tog klæde os i vores eget tøj,\f\n\t\t\t\tbare man må kalde os med dit navn;\f\n\t\t\t\t\tfjern vores vanære!«",
+      "number": 1,
+      "version": 1668034800000
     },
     {
       "text": "\f\tPå den dag skal JHVHs spire være til pragt og herlighed\n\t\t\t\tog landets frugt til stolthed og pryd for Israels undslupne.",
-      "number": 2
+      "number": 2,
+      "version": 1668034800000
     },
     {
       "text": "\t\t\tDen\n\t\t\t\tder er blevet tilbage i Zion,\n\t\t\t\t\t\tog den der er blevet efterladt i Jerusalem,\n\t\t\t\t\t\tskal kaldes hellig,\n\t\t\t\t\tenhver i Jerusalem\n\t\t\t\t\t\tsom er indskrevet til livet,",
-      "number": 3
+      "number": 3,
+      "version": 1668034800000
     },
     {
       "text": "\t\tnår Herren har vasket Zions døtres urenhed af\n\t\t\t\tog skyllet Jerusalems blodskyld væk fra dens midte ved en Ånd der dømmer, og ved en Ånd\n\t\t\t\t\tder renser ud.",
-      "number": 4
+      "number": 4,
+      "version": 1668034800000
     },
     {
       "text": "\t\t\tOg over hele Zions bjerg og over dets forsamling vil JHVH skabe en sky om dagen\n\t\t\t\t\tog røg og skinnende, flammende ild om natten;\n\t\t\t\tfor over alt herligt skal der være et dække.",
-      "number": 5
+      "number": 5,
+      "version": 1668034800000
     },
     {
       "text": "\t\t\t\t\tDer skal være en hytte til skygge mod hede om dagen\n\t\t\t\t\t\tog til ly og skjul mod skybrud og regn.",
-      "number": 6
+      "number": 6,
+      "version": 1668034800000
     }
   ],
   "titles": [
     {
       "text": "Jerusalem renses og bliver hellig",
-      "verse": 2
+      "verse": 2,
+      "version": 1668034800000
     }
   ],
   "footnotes": [

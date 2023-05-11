@@ -2,67 +2,78 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 124,
-  "version": 1492552800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang. Af David.\fHvis ikke JHVH havde været med os\f– sådan skal Israel sige –",
-      "number": 1
+      "number": 1,
+      "version": 1492552800000
     },
     {
       "text": "\fhvis ikke JHVH havde været med os,\fdengang mennesker rejste sig mod os,",
-      "number": 2
+      "number": 2,
+      "version": 1492552800000
     },
     {
       "text": "\fså havde de opslugt os levende\fi deres flammende vrede mod os,",
-      "number": 3
+      "number": 3,
+      "version": 1492552800000
     },
     {
       "text": "\fså var vandene skyllet over os,\fen vandstrøm var gået over vor hals,",
-      "number": 4
+      "number": 4,
+      "version": 1492552800000
     },
     {
       "text": "\fså var de gået over vor hals,\fde brusende vande!",
-      "number": 5
+      "number": 5,
+      "version": 1492552800000
     },
     {
       "text": "\fLovet være JHVH\fsom ikke gav os til bytte for deres tænder!",
-      "number": 6
+      "number": 6,
+      "version": 1492552800000
     },
     {
       "text": "\fVort liv undslap som en fugl\faf fuglefængernes fælde.\fFælden blev knust,\fog vi undslap.",
-      "number": 7
+      "number": 7,
+      "version": 1492552800000
     },
     {
       "text": "\fVor hjælp er i JHVHs navn,\fhans som skabte himmel og jord.",
-      "number": 8
+      "number": 8,
+      "version": 1492552800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1492552800000
     },
     {
       "text": "Hvis ikke JHVH havde været med os",
-      "verse": 2
+      "verse": 2,
+      "version": 1492552800000
     },
     {
       "text": "Lovet være JHVH som var med os",
-      "verse": 6
+      "verse": 6,
+      "version": 1492552800000
     }
   ],
   "footnotes": [
@@ -73,7 +84,7 @@
       "position": 14
     },
     {
-      "text": "Sætningen kan også oversættes: >>Hvis ikke det var JHVH, der havde været med os<<.",
+      "text": "Sætningen kan også oversættes: »Hvis ikke det var JHVH, der havde været med os«.",
       "type": "T",
       "verse": 1,
       "position": 58
@@ -85,19 +96,19 @@
       "position": 53
     },
     {
-      "text": "Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: >>hals<<. Grundbetydningen i GT er dog: >>sjæl<<. Det oversættes ofte: >>liv<<. Her oversættes det ofte: >>os<<.",
+      "text": "Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: »hals«. Grundbetydningen i GT er dog: »sjæl«. Det oversættes ofte: »liv«. Her oversættes det ofte: »os«.",
       "type": "E",
       "verse": 4,
       "position": 69
     },
     {
-      "text": "Kan også oversættes: >>velsignet<<.",
+      "text": "Kan også oversættes: »velsignet«.",
       "type": "T",
       "verse": 6,
       "position": 6
     },
     {
-      "text": "Ordret: >>sjæl<<.",
+      "text": "Ordret: »sjæl«.",
       "type": "T",
       "verse": 7,
       "position": 9

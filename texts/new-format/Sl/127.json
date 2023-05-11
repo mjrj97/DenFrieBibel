@@ -2,55 +2,63 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 127,
-  "version": 1492552800000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fValfartssang. Af Salomo.\fHvis JHVH ikke bygger huset,\fvil de som bygger på det, have arbejdet forgæves.\fHvis JHVH ikke våger over byen,\fvil vægteren have våget forgæves.",
-      "number": 1
+      "number": 1,
+      "version": 1492552800000
     },
     {
       "text": "\fDet er forgæves for jer\fat stå tidligt op,\fat vente længe med at sidde,\fat spise sliddets brød –\fså meget giver han den han elsker, mens han sover.",
-      "number": 2
+      "number": 2,
+      "version": 1492552800000
     },
     {
       "text": "\fSe, sønner er en gave fra JHVH,\fmoderlivets frugt er en løn.",
-      "number": 3
+      "number": 3,
+      "version": 1492552800000
     },
     {
       "text": "\fSom pile i en krigers hånd,\fsådan er ungdommens sønner.",
-      "number": 4
+      "number": 4,
+      "version": 1492552800000
     },
     {
       "text": "\fLykkelig den mand som har fyldt sit kogger med dem;\fde skal ikke blive til skamme,\fnår de taler med fjender i porten.",
-      "number": 5
+      "number": 5,
+      "version": 1492552800000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1492552800000
     },
     {
       "text": "JHVHs velsignelse over hus og arbejde",
-      "verse": 2
+      "verse": 2,
+      "version": 1492552800000
     },
     {
       "text": "JHVHs velsignelse over hjemmet",
-      "verse": 3
+      "verse": 3,
+      "version": 1492552800000
     }
   ],
   "footnotes": [
@@ -67,7 +75,7 @@
       "position": 22
     },
     {
-      "text": "Kan også oversættes: >>salig<<. Det er dog næppe relevant her.",
+      "text": "Kan også oversættes: »salig«. Det er dog næppe relevant her.",
       "type": "T",
       "verse": 5,
       "position": 9

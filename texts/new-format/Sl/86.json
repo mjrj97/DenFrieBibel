@@ -2,132 +2,155 @@
   "book": "Salmernes Bog",
   "abbreviation": "Sl",
   "chapter": 86,
-  "version": 1500242400000,
-  "authors": [
+  "translation": 100,
+  "contributors": [
     {
       "name": "Jørgen Bækgaard Thomsen",
-      "type": "translation"
+      "type": "Oversættelse"
     },
     {
       "name": "Trine Tøndering",
-      "type": "literary check"
+      "type": "Litterært tjek"
     },
     {
       "name": "Nicolai Winther-Nielsen",
-      "type": "exegetic processing"
+      "type": "Eksegetisk bearbejdning"
     }
   ],
   "verses": [
     {
       "text": "\fEn bøn af David.\fBøj dit øre, JHVHv, svar mig,\ffor jeg er hjælpeløs og elendig.",
-      "number": 1
+      "number": 1,
+      "version": 1500242400000
     },
     {
       "text": "\fBevar mit liv,\ffor jeg er from,\ffrels din tjener, du min Gud,\ffrels ham som stoler på dig.",
-      "number": 2
+      "number": 2,
+      "version": 1500242400000
     },
     {
       "text": "\fVær mig nådig, Herre,\ffor til dig råber jeg hele dagen.",
-      "number": 3
+      "number": 3,
+      "version": 1500242400000
     },
     {
       "text": "\fGlæd din tjeners sjæl,\ffor til dig, Herre, løfter jeg min sjæl.",
-      "number": 4
+      "number": 4,
+      "version": 1500242400000
     },
     {
       "text": "\fFor du, Herre, er god og tilgivende\fog rig på nåde mod alle som påkalder dig.",
-      "number": 5
+      "number": 5,
+      "version": 1500242400000
     },
     {
       "text": "\fLyt, JHVHv, til min bøn\fog giv agt på min tryglende røst.",
-      "number": 6
+      "number": 6,
+      "version": 1500242400000
     },
     {
       "text": "\fPå min nøds dag vil jeg råbe til dig,\ffor du vil svare mig.",
-      "number": 7
+      "number": 7,
+      "version": 1500242400000
     },
     {
       "text": "\fDer er ingen som du blandt guder, Herre,\fog der er ingen gerninger som dine.",
-      "number": 8
+      "number": 8,
+      "version": 1500242400000
     },
     {
       "text": "\fAlle folkeslag, som du har skabt, skal komme,\fog de skal tilbede for dit ansigt, Herre,\fog de skal ære dit navn.",
-      "number": 9
+      "number": 9,
+      "version": 1500242400000
     },
     {
       "text": "\fFor du er stor, og du gør undere,\fdu alene er Gud.",
-      "number": 10
+      "number": 10,
+      "version": 1500242400000
     },
     {
       "text": "\fLær mig, JHVHv, din vej,\fså jeg kan vandre i din sandhed,\fsaml mit hjerte om dette ene: at frygte dit navn.",
-      "number": 11
+      "number": 11,
+      "version": 1500242400000
     },
     {
       "text": "\fJeg vil takke dig, Herre min Gud, af hele mit hjerte,\fog jeg vil ære dit navn til evig tid.",
-      "number": 12
+      "number": 12,
+      "version": 1500242400000
     },
     {
       "text": "\fFor din nåde er stor over mig,\fog du har reddet min sjæl fra det dybe dødsrige.",
-      "number": 13
+      "number": 13,
+      "version": 1500242400000
     },
     {
       "text": "\fGud, overmodige har rejst sig imod mig,\fog en flok voldsmænd stræbte efter mit liv,\fog dig har de ikke for øje.",
-      "number": 14
+      "number": 14,
+      "version": 1500242400000
     },
     {
       "text": "\fMen du, Herre, er en barmhjertig og nådig Gud,\fsen til vrede og rig på nåde og sandhed.",
-      "number": 15
+      "number": 15,
+      "version": 1500242400000
     },
     {
       "text": "\fVend dig til mig og vær mig nådig,\fgiv din styrke til din tjener,\fog frels din trælkvindes søn!",
-      "number": 16
+      "number": 16,
+      "version": 1500242400000
     },
     {
       "text": "\fGiv mig et tegn på noget godt,\fså de, som hader mig, må se det og ydmyges.\fFor du, JHVHv, har hjulpet mig og trøstet mig.",
-      "number": 17
+      "number": 17,
+      "version": 1500242400000
     }
   ],
   "titles": [
     {
       "text": "Overskrift",
-      "verse": 1
+      "verse": 1,
+      "version": 1500242400000
     },
     {
       "text": "Klage",
-      "verse": 2
+      "verse": 2,
+      "version": 1500242400000
     },
     {
       "text": "Lovprisning",
-      "verse": 8
+      "verse": 8,
+      "version": 1500242400000
     },
     {
       "text": "Bøn om vejledning",
-      "verse": 11
+      "verse": 11,
+      "version": 1500242400000
     },
     {
       "text": "Taksigelse",
-      "verse": 12
+      "verse": 12,
+      "version": 1500242400000
     },
     {
       "text": "Klage",
-      "verse": 14
+      "verse": 14,
+      "version": 1500242400000
     }
   ],
   "footnotes": [
     {
-      "text": "Ordret: >>sjæl<<.",
+      "text": "Ordret: »sjæl«.",
       "type": "T",
       "verse": 2,
       "position": 15
     },
     {
-      "text": "Ordet >>frels<< står i grundteksten ikke i denne linje, men er underforstået fra forrige linje. Nogle fortolkere foreslår dog at flytte ordene >>du min Gud<< til begyndelsen af v.3.",
+      "text": "Ordet »frels« står i grundteksten ikke i denne linje, men er underforstået fra forrige linje. Nogle fortolkere foreslår dog at flytte ordene »du min Gud« til begyndelsen af v.3.",
       "type": "E",
       "verse": 2,
       "position": 68
     },
     {
-      "text": "Ordret: >>min røsts tryglen<<.",
+      "text": "Ordret: »min røsts tryglen«.",
       "type": "T",
       "verse": 6,
       "position": 58
@@ -145,19 +168,19 @@
       "position": 80
     },
     {
-      "text": "Ordet har også klang af >>gudløse<<.",
+      "text": "Ordet har også klang af »gudløse«.",
       "type": "T",
       "verse": 14,
       "position": 16
     },
     {
-      "text": "Ordret: >>sjæl<<.",
+      "text": "Ordret: »sjæl«.",
       "type": "T",
       "verse": 14,
       "position": 84
     },
     {
-      "text": "Ordret: >>og har ikke stillet dig foran sig<<.",
+      "text": "Ordret: »og har ikke stillet dig foran sig«.",
       "type": "T",
       "verse": 14,
       "position": 112
