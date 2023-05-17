@@ -5,225 +5,200 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Lydia Nørrelykke Gad",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Lydia Nørrelykke Gad"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fSå svarede Job HERREN",
       "number": 1,
+      "text": "\fSå svarede Job HERREN2:",
+      "title": "Job erkender Guds storhed og ydmyger sig for HERREN",
       "version": 1681336800000
     },
     {
-      "text": "\f\t\t\t»Jeg ved\n\t\t\t\t\t\t\tat du formår alt,\f\n\t\t\t\t\t\t\t\tog ingen plan er umulig for dig.",
       "number": 2,
+      "text": "\f\t\t\t»Jeg ved\t\t\t\t\t\t\tat du formår alt, \f\t\t\t\t\t\t\t\tog ingen plan er umulig for dig.",
       "version": 1681336800000
     },
     {
-      "text": "\f\t\t\t\t\t\tHvem er det der tilslører råd uden forstand?\f\n\t\t\t\t\tDog talte jeg,\n\t\t\t\t\t\t\tmen jeg fattede intet,\f\n\t\t\t\t\t\tdet var for forunderligt for mig,\n\t\t\t\t\t\t\tjeg forstod intet.",
       "number": 3,
+      "text": "\f\t\t\t\t\t\tHvem er det der tilslører  råd uden forstand?\f\t\t\t\t\tDog talte jeg,\t\t\t\t\t\t\tmen jeg fattede intet,\f\t\t\t\t\t\tdet var for forunderligt for mig,\t\t\t\t\t\t\tjeg forstod intet.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »skjuler, fordunkler«.",
+          "position": 33
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\f\t\t\t\tHør nu\n\t\t\t\t\t\t\tog jeg vil tale,\f\n\t\t\t\t\t\tjeg vil spørge dig,\n\t\t\t\t\t\t\tog du må svare mig.",
       "number": 4,
+      "text": "\f\t\t\t\tHør nu\t\t\t\t\t\t\tog jeg vil tale,\f\t\t\t\t\t\tjeg vil spørge dig,\t\t\t\t\t\t\tog du må svare mig.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »kundgøre, belære«.",
+          "position": 81
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\f\t\t\t\t\tJeg hørte et rygte om dig,\f\n\t\t\t\t\t\t\tmen nu har jeg set dig med egne øjne.",
       "number": 5,
+      "text": "\f\t\t\t\t\tJeg hørte et rygte om dig,\f\t\t\t\t\t\t\tmen nu har jeg set dig med egne øjne.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »mit øje har set dig«.",
+          "position": 77
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\f\t\t\t\t\t\tDerfor trækker jeg mine ord tilbage,\n\t\t\t\t\t\t\tog jeg fortryder\fi støv og aske«.",
       "number": 6,
+      "text": "\f\t\t\t\t\t\tDerfor trækker jeg mine ord tilbage,\t\t\t\t\t\t\tog jeg fortryder \fi støv og aske«.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »foragter«, dvs. foragter det sagte, »mine ord« er tilføjet.",
+          "position": 21
+        },
+        {
+          "text": "E: Samme verbum anvendt i Jon 3.9 og 10 i samme betydning »fortryde«. Verbet kan også oversættes med »angrer«.",
+          "position": 67
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\f\tDa\n\t\t\tHERREN havde talt disse ord til Job,\n\t\tsagde HERREN til Elifaz fra Teman:\n\t\t\t\t»Jeg er vred på dig og på dine to venner,\n\t\t\t\t\t\tfor I har ikke talt sandt om mig som min tjener Job.",
       "number": 7,
+      "text": "\f\tDa\t\t\tHERREN havde talt disse ord til Job,\t\tsagde HERREN til Elifaz fra Teman:\t\t\t\t»Jeg er vred på dig og på dine to venner,\t\t\t\t\t\tfor I har ikke talt sandt om mig som min tjener Job.",
+      "title": "HERREN går i rette med Jobs venner",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »min næse blev varm«.",
+          "position": 95
+        },
+        {
+          "text": "E: Kan også oversættes »talt sandt *til mig*«, »talt ret *til mig*«, *nᵊxônāʰ* ordret: »det, der står fast«. Præprositionen *ʔēlay* oversættes oftest »til mig«.",
+          "position": 158
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\tTag nu\n\t\t\t\t\t\t7 tyre og 7 væddere for jer selv\n\t\t\t\t\t\t\tog gå så til min tjener Job,\n\t\t\t\t\t\t\t\t\tog I skal bringe et brændoffer for jer selv,\n\t\t\t\t\t\t\t\tog Job, min tjener, skal gå i forbøn for jer,\n\t\t\t\t\t\t\t\t\t\t\tfor ham vil jeg bønhøre\n\t\t\t\t\t\t\t\t\t\tog ikke straffe jer for jeres skændsel,\n\t\t\t\t\t\t\t\t\tfor I har ikke talt sandt om mig som min tjener Job.«",
       "number": 8,
+      "text": "\t\t\t\t\tTag nu\t\t\t\t\t\t7 tyre og 7 væddere for jer selv\t\t\t\t\t\t\tog gå så til min tjener Job,\t\t\t\t\t\t\t\t\tog I skal bringe et brændoffer for jer selv,\t\t\t\t\t\t\t\tog Job, min tjener, skal gå i forbøn for jer,\t\t\t\t\t\t\t\t\t\t\tfor ham vil jeg bønhøre\t\t\t\t\t\t\t\t\t\tog ikke straffe jer for jeres skændsel,\t\t\t\t\t\t\t\t\tfor I har ikke talt sandt om mig som min tjener Job.«",
+      "footnotes": [
+        {
+          "text": "E: *kî ʔim* bruges efter en ed, f.eks. Jer 51.14, 1 Sam 15.21, og kan oversættes ved »sandelig«, det kan også her oversættes ved »for kun«.",
+          "position": 204
+        },
+        {
+          "text": "T: Ordret: »løfte hans ansigt«.",
+          "position": 224
+        },
+        {
+          "text": "T: Ordret: »gøre med jer efter jeres skændsel«.",
+          "position": 249
+        },
+        {
+          "text": "T: Se note til vers 7.",
+          "position": 310
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\t\t\tDa gik Elifaz fra Teman og Bildad fra Shua og Sofar fra Na’ama,\n\t\t\t\t\tog gjorde\n\t\t\t\t\t\tsom Gud HERREN havde sagt til dem,\n\t\t\t\tog HERREN bønhørte Job.\f==HERRENS velsignelse over Job==",
       "number": 9,
+      "text": "\t\t\tDa gik Elifaz fra Teman og Bildad fra Shua og Sofar fra Na’ama,\t\t\t\t\tog gjorde\t\t\t\t\t\tsom Gud HERREN havde sagt til dem,\t\t\t\tog HERREN bønhørte Job.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »løftede Jobs ansigt«.",
+          "position": 142
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\f\t\t\t\t\tHERREN vendte Jobs trængsel,\n\t\t\t\t\t\tda han gik i forbøn for sine venner.\n\t\t\t\tOg HERREN gav Job alt,\n\t\t\t\t\t\t\t\thvad han havde haft\n\t\t\t\t\t\t\tdobbelt igen.",
       "number": 10,
+      "text": "\f\t\t\t\t\tHERREN vendte Jobs trængsel,\t\t\t\t\t\tda han gik i forbøn for sine venner.\t\t\t\tOg HERREN gav Job alt,\t\t\t\t\t\t\t\thvad han havde haft\t\t\t\t\t\t\tdobbelt igen.",
+      "title": "HERRENS velsignelse over Job",
+      "footnotes": [
+        {
+          "text": "E: »fangenskab«. Sl 126.1, Klag 2.14 har samme hebraiske ordvalg.",
+          "position": 34
+        },
+        {
+          "text": "E: *mišneʰ* kan betyde »dobbelt«, »kopi«, »anden«.",
+          "position": 143
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\t\tAlle hans brødre og alle hans søstre og alle som kendte ham fra tidligere, kom til ham,\n\t\t\t\t\t\t\tde spiste brød sammen med ham i hans hus,\n\t\t\t\t\t\t\tog de viste ham medfølelse,\n\t\t\t\t\t\t\tog de trøstede ham i al hans lidelse,\n\t\t\t\t\t\t\t\tsom HERREN havde bragt over ham,\n\t\t\t\t\t\t\tog de gav ham\n\t\t\t\t\t\t\t\thver en kesita\n\t\t\t\t\t\t\t\t\tog hver en guldring.",
       "number": 11,
+      "text": "\t\t\t\t\t\tAlle hans brødre og alle hans søstre og alle som kendte ham fra tidligere, kom til ham,\t\t\t\t\t\t\tde spiste brød sammen med ham i hans hus,\t\t\t\t\t\t\tog de viste ham medfølelse,\t\t\t\t\t\t\tog de trøstede ham i al hans lidelse,\t\t\t\t\t\t\t\tsom HERREN havde bragt over ham,\t\t\t\t\t\t\tog de gav ham\t\t\t\t\t\t\t\thver en kesita\t\t\t\t\t\t\t\t\tog hver en guldring.",
+      "footnotes": [
+        {
+          "text": "T: Det er en mønt, som vi kender fra patriarktiden(1 Mos 33.19, Jos 24.32). Vi kender ikke noget til værdien af en kesita.",
+          "position": 301
+        },
+        {
+          "text": "T: Kan være en næsering (det brugte både mænd og kvinder).",
+          "position": 330
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\tOg HERREN velsignede Jobs liv herefter mere end i begyndelsen,\n\t\t\t\t\t\t\tog han fik 14.000 får og 6.000 kameler og 1.000 spand okser og 1.000 æselhopper.",
       "number": 12,
+      "text": "\t\t\t\t\tOg HERREN velsignede Jobs liv herefter mere end i begyndelsen,\t\t\t\t\t\t\tog han fik 14.000 får og 6.000 kameler og 1.000 spand okser og 1.000 æselhopper.",
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\t\t\tOg han fik 7 sønner og 3 døtre.",
       "number": 13,
+      "text": "\t\t\t\t\t\t\tOg han fik 7 sønner og 3 døtre.",
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tDen første kaldte han Jemima,\n\t\t\t\t\t\t\t\t\t\t\tden anden Kesia\n\t\t\t\t\t\t\t\t\t\t\tog den tredje Keren-Happuk,",
       "number": 14,
+      "text": "\t\t\t\t\t\t\t\t\tDen første kaldte han Jemima,\t\t\t\t\t\t\t\t\t\t\tden anden Kesia\t\t\t\t\t\t\t\t\t\t\tog den tredje Keren-Happuk,",
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tog der fandtes ingen kvinder så smukke som Jobs døtre i hele landet,\n\t\t\t\t\t\t\t\tog deres far gav dem en arvelod blandt deres brødre.",
       "number": 15,
+      "text": "\t\t\t\t\t\t\t\t\t\tog der fandtes ingen kvinder så smukke som Jobs døtre i hele landet,\t\t\t\t\t\t\t\tog deres far gav dem en arvelod blandt deres brødre.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »på jorden«.",
+          "position": 78
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\t\tJob levede yderligere 140 år,\n\t\t\t\t\t\t\tog han så sine børn og børnebørn\n\t\t\t\t\t\t\t\ti fire slægtled.",
       "number": 16,
+      "text": "\t\t\t\t\t\tJob levede yderligere 140 år,\t\t\t\t\t\t\tog han så sine børn og børnebørn\t\t\t\t\t\t\t\ti fire slægtled.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »sine sønner og sønnesønner«.",
+          "position": 74
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\t\t\t\t\t\tJob døde gammel og mæt af dage.",
       "number": 17,
+      "text": "\t\t\t\t\t\tJob døde gammel og mæt af dage.",
       "version": 1681336800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Job erkender Guds storhed og ydmyger sig for HERREN",
-      "verse": 1,
-      "version": 1681336800000
-    },
-    {
-      "text": "HERREN går i rette med Jobs venner",
-      "verse": 7,
-      "version": 1681336800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »skjuler, fordunkler«.",
-      "type": "T",
-      "verse": 3,
-      "position": 33
-    },
-    {
-      "text": "Ordret: »kundgøre, belære«.",
-      "type": "T",
-      "verse": 4,
-      "position": 84
-    },
-    {
-      "text": "Ordret: »mit øje har set dig«.",
-      "type": "T",
-      "verse": 5,
-      "position": 78
-    },
-    {
-      "text": "Ordret: »foragter«, dvs. foragter det sagte, »mine ord« er tilføjet.",
-      "type": "T",
-      "verse": 6,
-      "position": 21
-    },
-    {
-      "text": "Samme verbum anvendt i Jon 3.9 og 10 i samme betydning »fortryde«. Verbet kan også oversættes med »angrer«.",
-      "type": "E",
-      "verse": 6,
-      "position": 68
-    },
-    {
-      "text": "Ordret: »min næse blev varm«.",
-      "type": "T",
-      "verse": 7,
-      "position": 98
-    },
-    {
-      "text": "Kan også oversættes »talt sandt *til mig*«, »talt ret *til mig*«, *nᵊxônāʰ* ordret: »det, der står fast«. Præprositionen *ʔēlay* oversættes oftest »til mig«.",
-      "type": "E",
-      "verse": 7,
-      "position": 162
-    },
-    {
-      "text": "*kî ʔim* bruges efter en ed, f.eks. Jer 51.14, 1 Sam 15.21, og kan oversættes ved »sandelig«, det kan også her oversættes ved »for kun«.",
-      "type": "E",
-      "verse": 8,
-      "position": 209
-    },
-    {
-      "text": "Ordret: »løfte hans ansigt«.",
-      "type": "T",
-      "verse": 8,
-      "position": 229
-    },
-    {
-      "text": "Ordret: »gøre med jer efter jeres skændsel«.",
-      "type": "T",
-      "verse": 8,
-      "position": 255
-    },
-    {
-      "text": "Se note til vers 7.",
-      "type": "T",
-      "verse": 8,
-      "position": 317
-    },
-    {
-      "text": "Ordret: »løftede Jobs ansigt«.",
-      "type": "T",
-      "verse": 9,
-      "position": 145
-    },
-    {
-      "text": "»fangenskab«. Sl 126.1, Klag 2.14 har samme hebraiske ordvalg.",
-      "type": "E",
-      "verse": 10,
-      "position": 34
-    },
-    {
-      "text": "*mišneʰ* kan betyde »dobbelt«, »kopi«, »anden«.",
-      "type": "E",
-      "verse": 10,
-      "position": 147
-    },
-    {
-      "text": "Det er en mønt, som vi kender fra patriarktiden(1 Mos 33.19, Jos 24.32). Vi kender ikke noget til værdien af en kesita.",
-      "type": "T",
-      "verse": 11,
-      "position": 307
-    },
-    {
-      "text": "Kan være en næsering (det brugte både mænd og kvinder).",
-      "type": "T",
-      "verse": 11,
-      "position": 337
-    },
-    {
-      "text": "Kan også oversættes: »på jorden«.",
-      "type": "T",
-      "verse": 15,
-      "position": 78
-    },
-    {
-      "text": "Ordret: »sine sønner og sønnesønner«.",
-      "type": "T",
-      "verse": 16,
-      "position": 75
     }
   ]
 }

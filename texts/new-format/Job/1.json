@@ -5,230 +5,206 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Nicolai Winther-Nielsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fDer var en mand i landet Us,\n\t\t\t\than hed Job,\n\t\t\tog denne mand var fuldkommen, retskaffen og gudfrygtig;\n\t\t\t\than holdt sig fra det onde.",
       "number": 1,
+      "text": "Der var en mand i landet Us,\t\t\t\than hed Job,\t\t\tog denne mand var fuldkommen, retskaffen og gudfrygtig;\t\t\t\than holdt sig fra det onde.",
+      "title": "Præsentation af Job og hans store rigdom",
       "version": 1669935600000
     },
     {
-      "text": "\t\tSyv sønner og tre døtre blev der født ham",
       "number": 2,
+      "text": "\t\tSyv sønner og tre døtre blev der født ham",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tHans husdyr udgjorde 7000 småkvæg, 3000 kameler, 500 spand okser og 500 hunæsler,\n\t\t\t\tog derudover mange tjenestefolk.\n\tDenne mand var mægtigere end alle folkene fra Østen.",
       "number": 3,
+      "text": "\t\t\tHans husdyr udgjorde 7000 småkvæg, 3000 kameler, 500 spand okser og 500 hunæsler,\t\t\t\tog derudover mange tjenestefolk.\tDenne mand var mægtigere end alle folkene fra Østen.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »østens sønner.«",
+          "position": 173
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\tHans sønner plejede at gå hen\n\t\t\t\tog holde fest hjemme hos hver enkelt på hans dag\n\t\t\t\tog de sendte også bud\n\t\t\t\tog inviterede deres tre søstre\n\t\t\t\t\ttil at spise\n\t\t\t\t\t\tog drikke sammen med dem.",
       "number": 4,
+      "text": "\t\tHans sønner plejede at gå hen\t\t\t\tog holde fest hjemme hos hver enkelt på hans dag\t\t\t\tog de sendte også bud\t\t\t\tog inviterede deres tre søstre\t\t\t\t\ttil at spise\t\t\t\t\t\tog drikke sammen med dem.",
+      "title": "Jobs ofre for sønnerne efter deres fester",
+      "footnotes": [
+        {
+          "text": "T: Der tænkes nok på fødselsdag eller navnedag eller lignende.",
+          "position": 83
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tOg så,\n\t\t\t\t\t\tnår festdagene var forbi,\n\t\t\t\t\tsendte Job bud\n\t\t\t\t\t\t\tog helligede dem.\n\t\t\t\t\t\tHan stod tidligt op om morgenen\n\t\t\t\t\t\tog ofrede brændofre svarende til deres antal.\n\t\t\t\t\t\t\tFor Job sagde:\n\t\t\t\t\t\t\t\t»Måske har mine sønner  syndet\n\t\t\t\t\t\t\t\t\tselv om de lovpriste Gud i deres hjerte.«\n\t\t\t\tSådan gjorde Job efter alle dagene.",
       "number": 5,
+      "text": "\t\t\tOg så,\t\t\t\t\t\tnår festdagene var forbi,\t\t\t\t\tsendte Job bud\t\t\t\t\t\t\tog helligede dem.\t\t\t\t\t\tHan stod tidligt op om morgenen\t\t\t\t\t\tog ofrede brændofre svarende til deres antal.\t\t\t\t\t\t\tFor Job sagde:\t\t\t\t\t\t\t\t»Måske har mine sønner syndet\t\t\t\t\t\t\t\t\tselv om de lovpriste Gud i deres hjerte.«\t\t\t\tSådan gjorde Job efter alle dagene.",
+      "footnotes": [
+        {
+          "text": "E: Verbet *ûvērᵃxû* »og de velsignede« tolkes ofte som en eufemisme der skal dække over at Job frygter at de måske syndede og forbandede Gud, men det ville være blasfemisk at sige om Gud, og derfor ændrede skriverne det til et positivt udtryk. En anden mulig oversættelse kan være: »For Job sagde: ›Måske har mine sønner syndet.‹ Og de lovpriste Gud i deres hjerte.«",
+          "position": 279
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "Derefter, på den dag\n\tda Guds sønner kom\n\t\t\tfor at træde frem for HERREN,\n\t\tkom også Satan midt iblandt dem.",
       "number": 6,
+      "text": "Derefter, på den dag\tda Guds sønner kom\t\t\tfor at træde frem for HERREN,\t\tkom også Satan midt iblandt dem.",
+      "title": "Gud tillader Satan at teste Jobs retfærdighed ved at tage hans ejendom",
+      "footnotes": [
+        {
+          "text": "E: Verbet *hityaṣṣēv* kan mere præcist oversættes »stille sig selv op«, lidt i betydning af at mønstres eller endog stå til regnskab for noget.",
+          "position": 63
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tDa sagde HERREN til Satan:\n\t\t\t\t\t»Hvor kommer du fra?«\n\t\t\t\tSatan gav HERREN\n\t\t\t\t\tfølgende svar:\n\t\t\t\t\t\t»Fra at tage rundt på jorden\n\t\t\t\t\t\t\tog vandre omkring på den.«",
       "number": 7,
+      "text": "\t\t\tDa sagde HERREN til Satan:\t\t\t\t\t»Hvor kommer du fra?«\t\t\t\tSatan gav HERREN\t\t\t\t\tfølgende svar:\t\t\t\t\t\t»Fra at tage rundt på jorden\t\t\t\t\t\t\tog vandre omkring på den.«",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tHERREN sagde til Satan:\n\t\t\t\t\t»Har du tænkt over min tjener Job?\n\t\t\t\t\t\tFor der er ingen som ham på jorden.\n\t\t\t\t\t\t\tHan er fuldkommen, retskaffen og gudfrygtig,\n\t\t\t\t\t\t\t\tog han holder sig fra det onde.",
       "number": 8,
+      "text": "\t\t\tHERREN sagde til Satan:\t\t\t\t\t»Har du tænkt over min tjener Job?\t\t\t\t\t\tFor der er ingen som ham på jorden.\t\t\t\t\t\t\tHan er fuldkommen, retskaffen og gudfrygtig,\t\t\t\t\t\t\t\tog han holder sig fra det onde.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Har du anbragt dit hjerte på.«",
+          "position": 49
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\t\t\tMen Satan gav HERREN\n\t\t\t\t\tfølgende svar:\n\t\t\t\t\t\t»Mon det er uden belønning at Job gudfrygtigt tilbeder Gud?",
       "number": 9,
+      "text": "\t\t\t\tMen Satan gav HERREN\t\t\t\t\tfølgende svar:\t\t\t\t\t\t»Mon det er uden belønning at Job gudfrygtigt tilbeder Gud?",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tMon ikke du har skærmet ham og hans hus og alt det\n\t\t\t\t\t\t\t\t\t\t\than har\n\t\t\t\t\t\t\t\t\t\thele vejen rundt?\n\t\t\t\t\t\t\t\t\tDu har velsignet hans hænders gerning,\n\t\t\t\t\t\t\t\t\t\tog hans husdyr har bredt sig ud i landet.",
       "number": 10,
+      "text": "\t\t\t\t\t\t\t\tMon ikke du har skærmet ham og hans hus og alt det\t\t\t\t\t\t\t\t\t\t\than har\t\t\t\t\t\t\t\t\t\thele vejen rundt?\t\t\t\t\t\t\t\t\tDu har velsignet hans hænders gerning,\t\t\t\t\t\t\t\t\t\tog hans husdyr har bredt sig ud i landet.",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\t\t\t\t\tMen ræk nu din hånd ud\n\t\t\t\t\t\t\t\t\tog rør ved alt\n\t\t\t\t\t\t\t\t\t\thvad han har.\n\t\t\t\t\t\t\t\tVil han så virkelig lovprise dig ved mødet med dig?«",
       "number": 11,
+      "text": "\t\t\t\t\t\t\tMen ræk nu din hånd ud\t\t\t\t\t\t\t\t\tog rør ved alt\t\t\t\t\t\t\t\t\t\thvad han har.\t\t\t\t\t\t\t\tVil han så virkelig lovprise dig ved mødet med dig?« ",
+      "footnotes": [
+        {
+          "text": "E: Her tolkes *ʔim-lōˀ* »virkelig« som et fast udtryk i en ed, og i konteksten er det også naturligt at tolke det som et retorisk spørgsmål. Normalt tolkes *ʕal-pāneʸxā yᵊvārᵃxekkā* »velsigne dig ved dit ansigt« dog som en eufemisme for et blasfemisk udtryk som »forbande dig op i dit åbne ansigt,« jf. v. 5.",
+          "position": 136
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tHERREN sagde til Satan:\n\t\t\t\t»Se, alt\n\t\t\t\t\t\t\thvad han har,\n\t\t\t\t\t\ter i din hånd.\n\t\t\t\t\tKun på ham selv må du ikke lægge din hånd. «\n\t\tSå forlod Satan mødet med HERREN.",
       "number": 12,
+      "text": "\t\t\tHERREN sagde til Satan:\t\t\t\t»Se, alt\t\t\t\t\t\t\thvad han har,\t\t\t\t\t\ter i din hånd.\t\t\t\t\tKun på ham selv må du ikke lægge din hånd.  «\t\tSå forlod Satan mødet med HERREN.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Kun til ham (selv) må du ikke strække din hånd ud.»",
+          "position": 126
+        },
+        {
+          "text": "T: Ordret: »Da gik Satan væk fra HERRENs ansigt.«",
+          "position": 163
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "Derpå, på den dag\n\t\t\tda hans sønner og døtre spiste\n\t\t\t\tog drak vin hjemme hos deres ældste bror,",
       "number": 13,
+      "text": "Derpå, på den dag\t\t\tda hans sønner og døtre spiste\t\t\t\tog drak vin hjemme hos deres ældste bror,",
+      "title": "Job mister husdyr og sønner, men finder ikke fejl hos Gud ",
       "version": 1669935600000
     },
     {
-      "text": "\t\tkom der et sendebud til Job\n\t\t\t\tog sagde:\n\t\t\t\t\t»Dine okser var i gang med at pløje,\n\t\t\t\t\t\t\tog hunæslerne græssede ved siden af dem.",
       "number": 14,
+      "text": "\t\tkom der et sendebud til Job\t\t\t\tog sagde:\t\t\t\t\t»Dine okser var i gang med at pløje,\t\t\t\t\t\t\tog hunæslerne græssede ved siden af dem.",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\t\t\t\tSå overfaldt sabæerne os\n\t\t\t\t\t\t\t\t\tog tog dem,\n\t\t\t\t\t\t\t\tog de huggede karlene ned med sværdet.\n\t\t\t\t\t\t\tJeg er den eneste der slap væk\n\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
       "number": 15,
+      "text": "\t\t\t\t\t\tSå overfaldt sabæerne os\t\t\t\t\t\t\t\t\tog tog dem,\t\t\t\t\t\t\t\tog de huggede karlene ned med sværdet.\t\t\t\t\t\t\tJeg er den eneste der slap væk\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tEndnu mens denne talte,\n\t\t\t\tkom en anden\n\t\t\t\t\tog sagde:\n\t\t\t\t\t\t»Der kom voldsomme lydnedslag\n\t\t\t\t\t\t\tog satte ild til småkvæget og karlene\n\t\t\t\t\t\t\t\t\tog fortærede dem.\n\t\t\t\t\t\t\t\tJeg er den eneste der slap væk\n\t\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
       "number": 16,
+      "text": "\t\t\tEndnu mens denne talte,\t\t\t\tkom en anden\t\t\t\t\tog sagde:\t\t\t\t\t\t»Der kom voldsomme lydnedslag\t\t\t\t\t\t\tog satte ild til småkvæget og karlene\t\t\t\t\t\t\t\t\tog fortærede dem.\t\t\t\t\t\t\t\tJeg er den eneste der slap væk\t\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Guds ild faldt ned fra himlen.«",
+          "position": 91
+        },
+        {
+          "text": "T: Her og i v. 17 ordret »de unge mænd;« der er måske tale om hyrdedrenge.",
+          "position": 135
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tEndnu mens denne talte,\n\t\t\t\tkom en anden\n\t\t\t\t\tog sagde:\n\t\t\t\t\t\t»Kaldæerne formede tre grupper\n\t\t\t\t\t\t\t\tog trak kamelerne væk\n\t\t\t\t\t\t\t\t\tog tog dem,\n\t\t\t\t\t\t\tmen karlene huggede de ned med sværdet.\n\t\t\t\t\t\t\t\tJeg er den eneste der slap væk\n\t\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
       "number": 17,
+      "text": "\t\t\tEndnu mens denne talte,\t\t\t\tkom en anden\t\t\t\t\tog sagde:\t\t\t\t\t\t»Kaldæerne formede tre grupper\t\t\t\t\t\t\t\tog trak kamelerne væk\t\t\t\t\t\t\t\t\tog tog dem,\t\t\t\t\t\t\tmen karlene huggede de ned med sværdet.\t\t\t\t\t\t\t\tJeg er den eneste der slap væk\t\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »med sværdets mund«, som måske betyder helt i bund til skæftet, men det er sikkert en fast vending.",
+          "position": 187
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tMen endnu mens denne talte,\n\t\t\t\tkom endnu en\n\t\t\t\t\tog sagde:\n\t\t\t\t\t\t»Dine sønner og dine døtre var i gang med at spise\n\t\t\t\t\t\t\t\tog drikke vin hjemme hos deres ældste bror.",
       "number": 18,
+      "text": "\t\t\tMen endnu mens denne talte,\t\t\t\tkom endnu en\t\t\t\t\tog sagde:\t\t\t\t\t\t»Dine sønner og dine døtre var i gang med at spise\t\t\t\t\t\t\t\tog drikke vin hjemme hos deres ældste bror.",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\t\t\t\t\tOg se,\n\t\t\t\t\t\t\t\tder kom en voldsom storm fra ørkenen\n\t\t\t\t\t\t\t\t\tog tog fat i husets fire hjørner\n\t\t\t\t\t\t\t\t\tså det faldt ned over de unge,\n\t\t\t\t\t\t\t\t\t\t\tog de døde.\n\t\t\t\t\t\t\t\t\t\tJeg er den eneste der slap væk\n\t\t\t\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
       "number": 19,
+      "text": "\t\t\t\t\t\t\tOg se,\t\t\t\t\t\t\t\tder kom en voldsom storm  fra ørkenen\t\t\t\t\t\t\t\t\tog tog fat i husets fire hjørner\t\t\t\t\t\t\t\t\tså det faldt ned over de unge,\t\t\t\t\t\t\t\t\t\t\tog de døde.\t\t\t\t\t\t\t\t\t\tJeg er den eneste der slap væk\t\t\t\t\t\t\t\t\t\t\tså jeg kan fortælle dig om det.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »en stor vind.«",
+          "position": 46
+        }
+      ],
       "version": 1669935600000
     },
     {
-      "text": "\f\tDa rejste Job sig\n\t\t\tog rev sin kappe i stykker,\n\t\t\tklippede håret af sit hoved\n\t\t\tog faldt på knæ på jorden\n\t\t\tog tilbad.",
       "number": 20,
+      "text": "\f\tDa rejste Job sig\t\t\tog rev sin kappe i stykker,\t\t\tklippede håret af sit hoved\t\t\tog faldt på knæ på jorden\t\t\tog tilbad.",
       "version": 1669935600000
     },
     {
-      "text": "\t\t\tHan sagde:\f\n\t\t\t\t»Nøgen kom jeg ud af min mors liv,\f\n\t\t\t\t\t\tog nøgen vender jeg tilbage.\f\n\t\t\t\t\tHERREN gav,\n\t\t\t\t\t\t\tog HERREN tog.\f\n\t\t\t\t\t\tHERRENS navn være lovet!«",
       "number": 21,
+      "text": "\t\t\tHan sagde:\f\t\t\t\t»Nøgen kom jeg ud af min mors liv, \f\t\t\t\t\t\tog nøgen vender jeg tilbage. \f\t\t\t\t\tHERREN gav,\t\t\t\t\t\t\tog HERREN tog. \f\t\t\t\t\t\tHERRENS navn være lovet!«",
       "version": 1669935600000
     },
     {
-      "text": "\f\t\tGennem alt dette syndede Job ikke\n\t\t\tog anklagede ikke Gud for fejl.",
       "number": 22,
+      "text": "\f\t\tGennem alt dette syndede Job ikke\t\t\tog anklagede ikke Gud for fejl.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »tilskrev ikke Gud noget uanstændigt.«",
+          "position": 70
+        }
+      ],
       "version": 1669935600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Præsentation af Job og hans store rigdom",
-      "verse": 1,
-      "version": 1669935600000
-    },
-    {
-      "text": "Jobs ofre for sønnerne efter deres fester",
-      "verse": 4,
-      "version": 1669935600000
-    },
-    {
-      "text": "Gud tillader Satan at teste Jobs retfærdighed ved at tage hans ejendom",
-      "verse": 6,
-      "version": 1669935600000
-    },
-    {
-      "text": "Job mister husdyr og sønner, men finder ikke fejl hos Gud",
-      "verse": 13,
-      "version": 1669935600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »østens sønner.«",
-      "type": "T",
-      "verse": 3,
-      "position": 175
-    },
-    {
-      "text": "Der tænkes nok på fødselsdag eller navnedag eller lignende.",
-      "type": "T",
-      "verse": 4,
-      "position": 84
-    },
-    {
-      "text": "Verbet *ûvērᵃxû* »og de velsignede« tolkes ofte som en eufemisme der skal dække over at Job frygter at de måske syndede og forbandede Gud, men det ville være blasfemisk at sige om Gud, og derfor ændrede skriverne det til et positivt udtryk. En anden mulig oversættelse kan være: »For Job sagde: ›Måske har mine sønner syndet.‹ Og de lovpriste Gud i deres hjerte.«",
-      "type": "E",
-      "verse": 5,
-      "position": 288
-    },
-    {
-      "text": "Verbet *hityaṣṣēv* kan mere præcist oversættes »stille sig selv op«, lidt i betydning af at mønstres eller endog stå til regnskab for noget.",
-      "type": "E",
-      "verse": 6,
-      "position": 65
-    },
-    {
-      "text": "Ordret: »Har du anbragt dit hjerte på.«",
-      "type": "T",
-      "verse": 8,
-      "position": 50
-    },
-    {
-      "text": "Her tolkes *ʔim-lōˀ* »virkelig« som et fast udtryk i en ed, og i konteksten er det også naturligt at tolke det som et retorisk spørgsmål. Normalt tolkes *ʕal-pāneʸxā yᵊvārᵃxekkā* »velsigne dig ved dit ansigt« dog som en eufemisme for et blasfemisk udtryk som »forbande dig op i dit åbne ansigt,« jf. v. 5.",
-      "type": "E",
-      "verse": 11,
-      "position": 139
-    },
-    {
-      "text": "Ordret: »Kun til ham (selv) må du ikke strække din hånd ud.»",
-      "type": "T",
-      "verse": 12,
-      "position": 130
-    },
-    {
-      "text": "Ordret: »Da gik Satan væk fra HERRENs ansigt.«",
-      "type": "T",
-      "verse": 12,
-      "position": 168
-    },
-    {
-      "text": "Ordret: »Guds ild faldt ned fra himlen.«",
-      "type": "T",
-      "verse": 16,
-      "position": 94
-    },
-    {
-      "text": "Her og i v. 17 ordret »de unge mænd;« der er måske tale om hyrdedrenge.",
-      "type": "T",
-      "verse": 16,
-      "position": 139
-    },
-    {
-      "text": "Ordret: »med sværdets mund«, som måske betyder helt i bund til skæftet, men det er sikkert en fast vending.",
-      "type": "T",
-      "verse": 17,
-      "position": 193
-    },
-    {
-      "text": "Ordret: »en stor vind.«",
-      "type": "T",
-      "verse": 19,
-      "position": 47
-    },
-    {
-      "text": "Ordret: »tilskrev ikke Gud noget uanstændigt.«",
-      "type": "T",
-      "verse": 22,
-      "position": 71
     }
   ]
 }

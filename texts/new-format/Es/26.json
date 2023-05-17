@@ -5,168 +5,156 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fPå den dag skal denne sang synges\fi Judas land:\f»Vi har en stærk by,\ffrelse sætter han\fsom mure og ringmur.",
       "number": 1,
+      "text": "På den dag skal denne sang synges \fi Judas land: \f»Vi har en stærk by, \ffrelse sætter han \fsom mure og ringmur.",
+      "title": "Guds folks lovsang for frelsen",
       "version": 1681336800000
     },
     {
-      "text": "\fLuk portene op,\fså et retfærdigt folk kan gå ind;\fdet bevarer troskab,",
       "number": 2,
+      "text": "\fLuk portene op, \fså et retfærdigt folk kan gå ind; \fdet bevarer troskab,",
       "version": 1681336800000
     },
     {
-      "text": "\fhar fast tillid:\fDu bevarer fred, fred;\ffor dig stoler man på.",
       "number": 3,
+      "text": "\fhar fast tillid: \fDu bevarer fred, fred; \ffor dig stoler man på.",
       "version": 1681336800000
     },
     {
-      "text": "\fStol på JHVHfor evigt,\ffor JHVH, JHVH er en evig klippe.",
       "number": 4,
+      "text": "\fStol på JHVH for evigt, \ffor JHVH, JHVH er en evig klippe.",
+      "footnotes": [
+        {
+          "text": "E: Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "position": 35
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fFor han kaster dem ned der bor i det høje,\fi en ophøjet by;\fhan skal vælte den, vælte den til jorden,\fså den ligger i støvet.",
       "number": 5,
+      "text": "\fFor han kaster dem ned der bor i det høje, \fi en ophøjet by; \fhan skal vælte den, vælte den til jorden, \fså den ligger i støvet.",
       "version": 1681336800000
     },
     {
-      "text": "\fEn fod skal træde den ned,\fen elendigs fødder,\fringes fodtrin.«",
       "number": 6,
+      "text": "\fEn fod skal træde den ned, \fen elendigs fødder, \fringes fodtrin.«",
       "version": 1681336800000
     },
     {
-      "text": "\fDen retfærdiges sti er lige;\fret er det spor du baner for en retfærdig.",
       "number": 7,
+      "text": "\fDen retfærdiges sti er lige; \fret er det spor du baner for en retfærdig.",
       "version": 1681336800000
     },
     {
-      "text": "\fJa, på dine forordningers sti, HERRE, håber vi på dig!\fEfter dit navn og efter dit ry står en sjæls længsel.",
       "number": 8,
+      "text": "\fJa, på dine forordningers sti, HERRE, håber vi på dig! \fEfter dit navn og efter dit ry står en sjæls længsel.",
+      "footnotes": [
+        {
+          "text": "T: Det hebraiske ord: *zēxer* har en vid betydning. I forskellige sammenhænge oversættes det »minde«, »mindesmærke«, »navn«. Det klinger alt med her.",
+          "position": 87
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fMin sjæl længes efter dig om natten;\fja, med min ånd i mit indre søger jeg dig længselsfuldt;\ffor når dine forordninger er over jorden,\flærer verdens beboere retfærdighed.",
       "number": 9,
+      "text": "\fMin sjæl længes efter dig om natten; \fja, med min ånd i mit indre søger jeg dig længselsfuldt; \ffor når dine forordninger er over jorden, \flærer verdens beboere retfærdighed.",
       "version": 1681336800000
     },
     {
-      "text": "\fBliver den ugudelige benådet,\fså lærer han aldrig retfærdighed;\fi rettens land handler han uretfærdigt\fog ser aldrig JHVHs højhed.",
       "number": 10,
+      "text": "\fBliver den ugudelige benådet, \fså lærer han aldrig retfærdighed; \fi rettens land handler han uretfærdigt\fog ser aldrig JHVHs højhed.",
       "version": 1681336800000
     },
     {
-      "text": "\fHERRE! Din hånd er løftet,\fmen de ser det ingenlunde;\fde skal se og blive til skamme for din nidkærhed for dit folk;\fja, ild skal fortære dem der er dine fjender.",
       "number": 11,
+      "text": "\fHERRE! Din hånd er løftet, \fmen de ser det ingenlunde; \fde skal se og blive til skamme for din nidkærhed for dit folk; \fja, ild skal fortære dem der er dine fjender.",
       "version": 1681336800000
     },
     {
-      "text": "\fHERRE! Du vil skænke os fred;\ffor selv alle vores gerninger har du gjort for os.\n\n",
       "number": 12,
+      "text": "\fHERRE! Du vil skænke os fred; \ffor selv alle vores gerninger har du gjort for os.\f\n",
       "version": 1681336800000
     },
     {
-      "text": "\fJHVH vores Gud!\fAndre herrer end du har hersket over os;\fved dig alene priser vi dit navn.",
       "number": 13,
+      "text": "\fJHVH vores Gud! \fAndre herrer end du har hersket over os; \fved dig alene priser vi dit navn.",
       "version": 1681336800000
     },
     {
-      "text": "\fDe døde bliver ingenlunde levende,\funderverdenens døde står ingenlunde op;\fvisselig, du har straffet og udryddet dem\fog slettet hvert mindet om dem.",
       "number": 14,
+      "text": "\fDe døde bliver ingenlunde levende, \funderverdenens døde står ingenlunde op; \fvisselig, du har straffet og udryddet dem \fog slettet hvert mindet om dem.",
       "version": 1681336800000
     },
     {
-      "text": "\fDu har mangfoldiggjort folket, HERRE!\fDu har mangfoldiggjort folket,\fdu har vist din herlighed;\fdu har flyttet alle landets grænser langt væk.",
       "number": 15,
+      "text": "\fDu har mangfoldiggjort folket, HERRE! \fDu har mangfoldiggjort folket, \fdu har vist din herlighed; \fdu har flyttet alle landets grænser langt væk.",
       "version": 1681336800000
     },
     {
-      "text": "\fHERRE! I trængslen søgte de dig,\fde udøste stille bøn da din tugt var over dem.",
       "number": 16,
+      "text": "\fHERRE! I trængslen søgte de dig,  de udøste stille bøn da din tugt var over dem.",
       "version": 1681336800000
     },
     {
-      "text": "\fSom en gravid der er nær ved at føde,\fvrider sig og skriger i sine veer,\fhavde vi det for dit ansigt, JHVH.",
       "number": 17,
+      "text": "\fSom en gravid der er nær ved at føde, \fvrider sig og skriger i sine veer, \fhavde vi det for dit ansigt, JHVH.",
       "version": 1681336800000
     },
     {
-      "text": "\fVi var gravide, vred os;\fmen blot som om vi fødte vind;\fvi skaffede på ingen måde landet frelse,\fog ingen verdensborgere blev født.",
       "number": 18,
+      "text": "\fVi var gravide, vred os; \fmen blot som om vi fødte vind; \fvi skaffede på ingen måde landet frelse, \fog ingen verdensborgere blev født.",
       "version": 1681336800000
     },
     {
-      "text": "\fDine døde skal leve, mine lig skal stå op.\fVågn op, I der bor i støvet, og I skal juble!\fFor en lysets dug er din dug,\fog jorden skal give underverdenens døde liv.",
       "number": 19,
+      "text": "\fDine døde skal leve, mine lig skal stå op.  Vågn op, I der bor i støvet, og I skal juble! \fFor en lysets dug er din dug, \fog jorden skal give underverdenens døde liv.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »kaste«, der også er udtryk for »at føde/nedkomme med«.",
+          "position": 167
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fGå, mit folk, kom ind i dine kamre,\fog luk dine døre efter dig;\fskjul dig et lille øjeblik,\findtil vreden går over.",
       "number": 20,
+      "text": "\fGå, mit folk, kom ind i dine kamre, \fog luk dine døre efter dig; \fskjul dig et lille øjeblik, \findtil vreden går over.",
       "version": 1681336800000
     },
     {
-      "text": "\fFor se, JHVH går ud fra sin bolig\ffor at straffe jordens beboeres synd mod ham;\fog jorden skal åbenbare sin blodskyld\fog ikke længere skjule sine dræbte.",
       "number": 21,
+      "text": "\fFor se, JHVH går ud fra sin bolig \ffor at straffe jordens beboeres synd mod ham; \fog jorden skal åbenbare sin blodskyld \fog ikke længere skjule sine dræbte.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fra sit sted«.",
+          "position": 34
+        },
+        {
+          "text": "T: Ordret: »sit udgydte blod«.",
+          "position": 120
+        },
+        {
+          "text": "T: Ordret: »dække over«.",
+          "position": 144
+        }
+      ],
       "version": 1681336800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Guds folks lovsang for frelsen",
-      "verse": 1,
-      "version": 1681336800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
-      "type": "E",
-      "verse": 4,
-      "position": 33
-    },
-    {
-      "text": "Det hebraiske ord: *zēxer* har en vid betydning. I forskellige sammenhænge oversættes det »minde«, »mindesmærke«, »navn«. Det klinger alt med her.",
-      "type": "T",
-      "verse": 8,
-      "position": 86
-    },
-    {
-      "text": "Ordret: »kaste«, der også er udtryk for »at føde/nedkomme med«.",
-      "type": "T",
-      "verse": 19,
-      "position": 164
-    },
-    {
-      "text": "Ordret: »fra sit sted«.",
-      "type": "T",
-      "verse": 21,
-      "position": 34
-    },
-    {
-      "text": "Ordret: »sit udgydte blod«.",
-      "type": "T",
-      "verse": 21,
-      "position": 118
-    },
-    {
-      "text": "Ordret: »dække over«.",
-      "type": "T",
-      "verse": 21,
-      "position": 141
     }
   ]
 }

@@ -5,184 +5,162 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     }
   ],
   "verses": [
     {
-      "text": "\fProfetien som profeten Habakkuk så.\n\n",
       "number": 1,
+      "text": "\fProfetien som profeten Habakkuk så.\f\n",
+      "title": "Habakkuks klage",
       "version": 1585004400000
     },
     {
-      "text": "\fHvor længe, JHVHv, har jeg dog råbt, men du hører ikke!\fJeg råber til dig om vold, men du frelser ikke.",
       "number": 2,
+      "text": "\fHvor længe, JHVHv, har jeg dog råbt, men du hører ikke!\fJeg råber til dig om vold, men du frelser ikke.",
       "version": 1585004400000
     },
     {
-      "text": "\fHvorfor lader du mig se ondskab og betragte elendighed?\fØdelæggelse og vold er foran mig.\fDer er strid; skænderier opstår.",
       "number": 3,
+      "text": "\fHvorfor lader du mig se ondskab og betragte elendighed?\fØdelæggelse og vold er foran mig.\fDer er strid; skænderier opstår.",
       "version": 1585004400000
     },
     {
-      "text": "\fDerfor er loven magtesløs, og retten kommer aldrig frem,\ffor de ugudelige omringer den retfærdige;\fderfor bliver retten fordrejet.",
       "number": 4,
+      "text": "\fDerfor er loven magtesløs, og retten kommer aldrig frem,\ffor de ugudelige omringer den retfærdige;\fderfor bliver retten fordrejet.",
       "version": 1585004400000
     },
     {
-      "text": "\fSe ud blandt folkeslagene, og betragt.\fI skal undre jer og blive forundrede, for jeg gør en gerning i jeres tid.\fI ville ikke tro det, selv hvis det blev fortalt.",
       "number": 5,
+      "text": "\fSe ud blandt folkeslagene, og betragt.\fI skal undre jer og blive forundrede, for jeg gør en gerning i jeres tid.\fI ville ikke tro det, selv hvis det blev fortalt.",
+      "title": "Kaldæerne kommer",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »jeres dage«.",
+          "position": 113
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fFor se, jeg oprejser kaldæerne, et barskt og hurtigt folkefærd\fsom farer frem over den vide jord for at erobre områder som ikke tilhører dem.",
       "number": 6,
+      "text": "\fFor se, jeg oprejser kaldæerne, et barskt og hurtigt folkefærd\fsom farer frem over den vide jord for at erobre områder som ikke tilhører dem.",
+      "footnotes": [
+        {
+          "text": "E: På hebraisk er der ordspil mellem barskt *mar* og hurtigt *nimhār*.",
+          "position": 53
+        },
+        {
+          "text": "E: Ordret: »boliger« eller »telte«.",
+          "position": 119
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fFrygtelige og forfærdelige er de;\fde bestemmer selv deres værdighed og ret.",
       "number": 7,
+      "text": "\fFrygtelige og forfærdelige er de;\fde bestemmer selv deres værdighed og ret.",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »Ud fra ham selv udgår hans ret og værdighed.«",
+          "position": 76
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fDeres heste er hurtigere end pantere og vildere end ulve om aftenen.\fDeres ryttere galopperer, ja, deres ryttere kommer fra det fjerne;\fde flyver som en ørn der haster efter føde.",
       "number": 8,
+      "text": "\fDeres heste er hurtigere end pantere og vildere end ulve om aftenen.\fDeres ryttere galopperer, ja, deres ryttere kommer fra det fjerne;\fde flyver som en ørn der haster efter føde.",
       "version": 1585004400000
     },
     {
-      "text": "\fAlle sammen kommer de for at udøve vold;\fderes ansigter stirrer fremad,\fog de samler fanger som sand.",
       "number": 9,
+      "text": "\fAlle sammen kommer de for at udøve vold;\fderes ansigter stirrer fremad,\fog de samler fanger som sand.",
+      "footnotes": [
+        {
+          "text": "E: En anden mulig oversættelse er »alle deres ansigter er som østenvinden«.",
+          "position": 72
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "De håner konger, og fyrster er til grin for dem.\fDe ler ad hver en fæstning;\fde dynger jord op og indtager den.",
       "number": 10,
+      "text": "De håner konger, og fyrster er til grin for dem.\fDe ler ad hver en fæstning;\fde dynger jord op og indtager den.",
       "version": 1585004400000
     },
     {
-      "text": "\fDa farer de frem som en stormvind og drager af sted.\fDe er skyldige, de som gør deres egen kraft til gud.",
       "number": 11,
+      "text": "\fDa farer de frem som en stormvind og drager af sted.\fDe er skyldige, de som gør deres egen kraft til gud.",
+      "footnotes": [
+        {
+          "text": "E: *ḥālaf* kan også oversættes med »skifter (retning)«.",
+          "position": 17
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fEr du ikke fra gammel tid, JHVHv, min Gud, min hellige?\fDu er udødelig!\fJHVHv, har du ikke bestemt ham til dom?\fO klippe, har du ikke grundfæstet ham til straf?",
       "number": 12,
+      "text": "\fEr du ikke fra gammel tid, JHVHv, min Gud, min hellige?\fDu er udødelig!\fJHVHv, har du ikke bestemt ham til dom?\fO klippe, har du ikke grundfæstet ham til straf?",
+      "title": "Habakkuks bøn",
+      "footnotes": [
+        {
+          "text": "E: Den hebraiske grundtekst lyder egentlig »lad os ikke dø, JHVHv«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
+          "position": 72
+        },
+        {
+          "text": "T: kaldæernes konge.",
+          "position": 103
+        },
+        {
+          "text": "E: Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.",
+          "position": 112
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fDu som er ren af øjne så du ikke kan se på ondt og ikke kan betragte elendighed,\fhvorfor betragter du de troløse?\fHvorfor tier du stille når den ugudelige opsluger en som er retfærdigere end han?",
       "number": 13,
+      "text": "\fDu som er ren af øjne så du ikke kan se på ondt og ikke kan betragte elendighed,\fhvorfor betragter du de troløse?\fHvorfor tier du stille når den ugudelige opsluger en som er retfærdigere end han?",
       "version": 1585004400000
     },
     {
-      "text": "\fDu gjorde menneskene som havets fisk;\fsom krybet der ingen herre har.",
       "number": 14,
+      "text": "\fDu gjorde menneskene som havets fisk;\fsom krybet der ingen herre har.",
       "version": 1585004400000
     },
     {
-      "text": "\fAlle dem trækker han op med krog.\fHan samler dem i sit net; fanger dem i sit garn.\fDet glæder og fryder han sig over.",
       "number": 15,
+      "text": "\fAlle dem trækker han op med krog.\fHan samler dem i sit net; fanger dem i sit garn.\fDet glæder og fryder han sig over.",
+      "footnotes": [
+        {
+          "text": "T: Dvs. kaldæernes konge.",
+          "position": 21
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fDerfor ofrer han til sit net og brænder røgelse for sine garn,\ffor ved dem får han sin rigelige del,\fog hans mad er fed.",
       "number": 16,
+      "text": "\fDerfor ofrer han til sit net og brænder røgelse for sine garn,\ffor ved dem får han sin rigelige del,\fog hans mad er fed.",
+      "footnotes": [
+        {
+          "text": "E: Ordret »fede«.",
+          "position": 96
+        }
+      ],
       "version": 1585004400000
     },
     {
-      "text": "\fMen skal han derfor tømme sit net og altid slå folkeslag ihjel uden skånsel?",
       "number": 17,
+      "text": "\fMen skal han derfor tømme sit net og altid slå folkeslag ihjel uden skånsel?",
       "version": 1585004400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Habakkuks klage",
-      "verse": 1,
-      "version": 1585004400000
-    },
-    {
-      "text": "Kaldæerne kommer",
-      "verse": 5,
-      "version": 1585004400000
-    },
-    {
-      "text": "Habakkuks bøn",
-      "verse": 12,
-      "version": 1585004400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »jeres dage«.",
-      "type": "E",
-      "verse": 5,
-      "position": 113
-    },
-    {
-      "text": "På hebraisk er der ordspil mellem barskt *mar* og hurtigt *nimhār*.",
-      "type": "E",
-      "verse": 6,
-      "position": 53
-    },
-    {
-      "text": "Ordret: »boliger« eller »telte«.",
-      "type": "E",
-      "verse": 6,
-      "position": 119
-    },
-    {
-      "text": "Ordret: »Ud fra ham selv udgår hans ret og værdighed.«",
-      "type": "E",
-      "verse": 7,
-      "position": 76
-    },
-    {
-      "text": "En anden mulig oversættelse er »alle deres ansigter er som østenvinden«.",
-      "type": "E",
-      "verse": 9,
-      "position": 72
-    },
-    {
-      "text": "*ḥālaf* kan også oversættes med »skifter (retning)«.",
-      "type": "E",
-      "verse": 11,
-      "position": 17
-    },
-    {
-      "text": "Den hebraiske grundtekst lyder egentlig »lad os ikke dø, JHVHv«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
-      "type": "E",
-      "verse": 12,
-      "position": 72
-    },
-    {
-      "text": "kaldæernes konge.",
-      "type": "T",
-      "verse": 12,
-      "position": 103
-    },
-    {
-      "text": "Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.",
-      "type": "E",
-      "verse": 12,
-      "position": 112
-    },
-    {
-      "text": "Dvs. kaldæernes konge.",
-      "type": "T",
-      "verse": 15,
-      "position": 21
-    },
-    {
-      "text": "Ordret »fede«.",
-      "type": "E",
-      "verse": 16,
-      "position": 96
     }
   ]
 }

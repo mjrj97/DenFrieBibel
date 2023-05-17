@@ -5,102 +5,84 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Af David.\fHos JHVH har jeg søgt tilflugt,\fhvordan kan I sige til min sjæl:\f»Flygt til bjergene som en fugl«?",
       "number": 1,
+      "text": "Til korlederen. Af David.\fHos JHVH har jeg søgt tilflugt,\fhvordan kan I sige til min sjæl:\f»Flygt til bjergene som en fugl«?",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Ordret: »Flygt til jeres bjerg (som en) fugl«. Der må tænkes på David og hans venner (»flygt« er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (»jeres bjerg«) til *harîm kᵊ-* (»til bjergene som«).",
+          "position": 110
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fFor se, de ugudelige spænder buen,\fde har lagt deres pil på strengen\ffor at skyde i ly af mørket mod de oprigtige af hjertet.",
       "number": 2,
+      "text": "\fFor se, de ugudelige spænder buen,\fde har lagt deres pil på strengen\ffor at skyde i ly af mørket mod de oprigtige af hjertet.",
+      "title": "Hos JHVH har jeg søgt tilflugt",
       "version": 1475704800000
     },
     {
-      "text": "\fNår grundvoldene nedbrydes,\fhvad kan en retfærdig da udrette?",
       "number": 3,
+      "text": "Når grundvoldene nedbrydes,\fhvad kan en retfærdig da udrette?",
       "version": 1475704800000
     },
     {
-      "text": "\fJHVH er i sit hellige tempel,\fJHVH - i himlen er hans trone -\fhans øjne iagttager,\fhans øjenlåg prøver menneskets børn.",
       "number": 4,
+      "text": "\fJHVH er i sit hellige tempel,\fJHVH - i himlen er hans trone - \fhans øjne iagttager,\fhans øjenlåg prøver menneskets børn.",
+      "title": "JHVH er retfærdig og bevarer den retfærdige",
+      "footnotes": [
+        {
+          "text": "T: Meningen formodentlig: »hans blik«.",
+          "position": 97
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fJHVH prøver retfærdig og ugudelig,\fmen hans sjæl hader den der elsker vold.",
       "number": 5,
+      "text": "\fJHVH prøver retfærdig og ugudelig,\fmen hans sjæl hader den der elsker vold.",
       "version": 1475704800000
     },
     {
-      "text": "\fHan skal lade fælder regne ned over de ugudelige,\fild og svovl og glohed vind må blive deres tilmålte bæger.",
       "number": 6,
+      "text": "\fHan skal lade fælder regne ned over de ugudelige,\fild og svovl og glohed vind må blive deres tilmålte bæger.",
+      "footnotes": [
+        {
+          "text": "E: Der er usikkerhed i oversættelsen der også kunne lyde: »Over den uretfærdige lade han regne ild og svovl ned som fælder, og en glohed vind blive deres tilmålte bæger«. Mange retter *paḥîm* (»fælder«) til: *paḥmē*: »kul«, der forbindes med det følgende ord (»ild«) til »glødende kul«.",
+          "position": 109
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fFor JHVH er retfærdig, han elsker retfærdighedshandlinger,\fde retskafne skal se JHVHs ansigt.",
       "number": 7,
+      "text": "\fFor JHVH er retfærdig, han elsker retfærdighedshandlinger,\fde retskafne skal se JHVHs ansigt.",
+      "footnotes": [
+        {
+          "text": "E: *yāšār* (»retskaffen«) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: »hans ansigt skal iagttage de retskafne«, men sammenhængen taler for den første mulighed.",
+          "position": 94
+        }
+      ],
       "version": 1475704800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1475704800000
-    },
-    {
-      "text": "Hos JHVH har jeg søgt tilflugt",
-      "verse": 2,
-      "version": 1475704800000
-    },
-    {
-      "text": "JHVH er retfærdig og bevarer den retfærdige",
-      "verse": 4,
-      "version": 1475704800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Ordret: »Flygt til jeres bjerg (som en) fugl«. Der må tænkes på David og hans venner (»flygt« er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (»jeres bjerg«) til *harîm kᵊ-* (»til bjergene som«).",
-      "type": "E",
-      "verse": 1,
-      "position": 111
-    },
-    {
-      "text": "Meningen formodentlig: »hans blik«.",
-      "type": "T",
-      "verse": 4,
-      "position": 96
-    },
-    {
-      "text": "Der er usikkerhed i oversættelsen der også kunne lyde: »Over den uretfærdige lade han regne ild og svovl ned som fælder, og en glohed vind blive deres tilmålte bæger«. Mange retter *paḥîm* (»fælder«) til: *paḥmē*: »kul«, der forbindes med det følgende ord (»ild«) til »glødende kul«.",
-      "type": "E",
-      "verse": 6,
-      "position": 109
-    },
-    {
-      "text": "*yāšār* (»retskaffen«) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: »hans ansigt skal iagttage de retskafne«, men sammenhængen taler for den første mulighed.",
-      "type": "E",
-      "verse": 7,
-      "position": 94
     }
   ]
 }

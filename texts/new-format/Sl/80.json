@@ -5,268 +5,234 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. El-Shoshannim. Et vidnesbyrd.\fSalme af Asaf.",
       "number": 1,
+      "text": "Til korlederen. El-Shoshannim. Et vidnesbyrd.\fSalme af Asaf.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«). »Liljerne« angiver formodentlig enten en melodi eller et strengeinstrument.",
+          "position": 30
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fIsraels hyrde, lyt,\fdu som leder Josef som en hjord,\fdu som troner over keruberne,\ftræd frem i stråleglans",
       "number": 2,
+      "text": "\fIsraels hyrde, lyt,\fdu som leder Josef som en hjord,\fdu som troner over keruberne,\ftræd frem i stråleglans",
+      "title": "Bøn om hjælp",
       "version": 1500242400000
     },
     {
-      "text": "\ffor Efraim og Benjamin og Manasse.\fOpbyd din styrke\fog kom og frels os!",
       "number": 3,
+      "text": "\ffor Efraim og Benjamin og Manasse.\fOpbyd din styrke\fog kom og frels os!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »og kom os til frelse!«",
+          "position": 72
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGud, genrejs os\fog lad dit ansigt lyse så vi bliver frelst!",
       "number": 4,
+      "text": "\fGud, genrejs os\fog lad dit ansigt lyse så vi bliver frelst!",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »bring os tilbage«. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.",
+          "position": 16
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fJHVHv, Gud Sebaot,\fhvor længe vil du have været vred\ftrods dit folks bøn?",
       "number": 5,
+      "text": "\fJHVHv, Gud Sebaot,\fhvor længe vil du have været vred\ftrods dit folks bøn?",
+      "title": "Klage",
+      "footnotes": [
+        {
+          "text": "E: Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
+          "position": 19
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu har bespist dem med tårebrød\fog givet dem tårer at drikke i rigt mål.",
       "number": 6,
+      "text": "\fDu har bespist dem med tårebrød\fog givet dem tårer at drikke i rigt mål.",
+      "footnotes": [
+        {
+          "text": "E: *šālîš* betyder egentlig: »en tredjedel«. Man går ud fra at det er teknisk udtryk for en tredjedel af et stort mål.",
+          "position": 73
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu lader vore naboer strides om os,\fog vore fjender spotter over os.",
       "number": 7,
+      "text": "\fDu lader vore naboer strides om os,\fog vore fjender spotter over os.",
+      "footnotes": [
+        {
+          "text": "T: Ordret nærmere: »Du gør os til stridens æble for vore naboer«.",
+          "position": 36
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGud Sebaot, genrejs os\fog lad dit ansigt lyse så vi bliver frelst!",
       "number": 8,
+      "text": "\fGud Sebaot, genrejs os\fog lad dit ansigt lyse så vi bliver frelst!",
+      "footnotes": [
+        {
+          "text": "E: Se til v.5.",
+          "position": 12
+        },
+        {
+          "text": "T: Kan også oversættes: »bring os tilbage«. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.",
+          "position": 23
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu rykker en vinstok op fra Egypten, du fordriver folkeslag og planter den.",
       "number": 9,
+      "text": "\fDu rykker en vinstok op fra Egypten, du fordriver folkeslag og planter den.",
+      "title": "Israel er dog Guds vinstok",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »hedninger«.",
+          "position": 60
+        },
+        {
+          "text": "E: Verberne i verset står i yiqtol. Meningen er ganske klart ikke at de skal angive fremtid, men at de skal gøre fremstillingen levende og nærværende.",
+          "position": 76
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu ryddede plads for den,\fog den lod sine rødder rodfæstes og fyldte landet.",
       "number": 10,
+      "text": "\fDu ryddede plads for den,\fog den lod sine rødder rodfæstes og fyldte landet.",
       "version": 1500242400000
     },
     {
-      "text": "\fBjerge blev skjult af dens skygge,\fog de højeste cedertræer af dens grene.",
       "number": 11,
+      "text": "\fBjerge blev skjult af dens skygge,\fog de højeste cedertræer af dens grene.",
+      "footnotes": [
+        {
+          "text": "E: Grundteksten har: *ʔēl* der ofte skal oversættes: »gud«, men her er det brugt som superlativ. I enkelte sammenhængen skal det oversættes »Gud«, men GTs nomale ord for »Gud« er: *ʔᵉlōhîm*.",
+          "position": 49
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDen udstrækker sine ranker til havet\fog sine spirer til floden.",
       "number": 12,
+      "text": "\fDen udstrækker sine ranker til havet\fog sine spirer til floden.",
       "version": 1500242400000
     },
     {
-      "text": "\fHvorfor har du nedrevet dens mure,\fså alle som kommer forbi, kan plukke af den?",
       "number": 13,
+      "text": "\fHvorfor har du nedrevet dens mure,\fså alle som kommer forbi, kan plukke af den?",
       "version": 1500242400000
     },
     {
-      "text": "\fEt vildsvin fra skoven afgnaver den,\fog markens dyr afæder den.",
       "number": 14,
+      "text": "\fEt vildsvin fra skoven afgnaver den,\fog markens dyr afæder den.",
       "version": 1500242400000
     },
     {
-      "text": "\fGud Sebaot, vend dog om,\fsku ned fra himlen og se,\fog tag dig af denne vinstok",
       "number": 15,
+      "text": "\fGud Sebaot, vend dog om,\fsku ned fra himlen og se,\fog tag dig af denne vinstok",
+      "footnotes": [
+        {
+          "text": "E: Se til v.5.",
+          "position": 12
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fog det skud som din højre hånd plantede,\fog den søn som du har opfostret.",
       "number": 16,
+      "text": "\fog det skud som din højre hånd plantede,\fog den søn som du har opfostret.",
+      "footnotes": [
+        {
+          "text": "E: Ordet: *kannāʰ* findes kun dette ene sted i GT. Betydningen er usikker og omdiskuteret. Septuaginta har læst det som imperativ af *kwn*: »genopret«. Andre foreslår at læse: *gannāʰ*: »have«. I sammenhængen forekommer »skud« dog at være en nærliggende forståelse.",
+          "position": 12
+        },
+        {
+          "text": "E: Kan også oversættes: »som du gav styrke for dig«. Linjen slettes dog af mange oversættere som formoder at den fejlagtigt er kommet ind her fra v.18b. Det er imidlertid ikke nødvendigvis rigtigt. Udtrykket »søn« må i dette vers gå på hele Israels folk, mens der i v.18b formodentlig er tænkt på kongen.",
+          "position": 74
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDen er brændt med ild, skåret af,\fde går til grunde for dit ansigts trussel.",
       "number": 17,
+      "text": "\fDen er brændt med ild, skåret af,\fde går til grunde for dit ansigts trussel.",
+      "footnotes": [
+        {
+          "text": "E: Ordet: *kᵊsûḥāʰ* læses oftest som verbum (participium passiv): »skåret af«. Andre oversætter dog: »som affald/skarn«.",
+          "position": 34
+        },
+        {
+          "text": "T: nemlig dit folk.",
+          "position": 37
+        },
+        {
+          "text": "E: Sætningen kan også oversættes: »lad dem gå til grunde for dit ansigts trussel«. I så fald er det en bøn om straf over fjenderne.",
+          "position": 77
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fLad din hånd være over din højre hånds mand,\fover den menneskesøn som du har opfostret.",
       "number": 18,
+      "text": "\fLad din hånd være over din højre hånds mand,\fover den menneskesøn som du har opfostret.",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes: »som du gav styrke for dig«. Med udtrykket »menneskesøn« er der i dette vers formodentlig er tænkt på kongen, mens »søn« i v.16b går på hele Israels folk.",
+          "position": 88
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fSå vil vi ikke falde fra dig.\fLad os leve, så vil vi påkalde dit navn.",
       "number": 19,
+      "text": "\fSå vil vi ikke falde fra dig.\fLad os leve, så vil vi påkalde dit navn.",
       "version": 1500242400000
     },
     {
-      "text": "\fJHVHv, Gud Sebaot, genrejs os,\flad dit ansigt lyse så vi bliver frelst!",
       "number": 20,
+      "text": "\fJHVHv, Gud Sebaot, genrejs os,\flad dit ansigt lyse så vi bliver frelst!",
+      "footnotes": [
+        {
+          "text": "T: Se til v.5.",
+          "position": 19
+        },
+        {
+          "text": "T: Kan også oversættes: »bring os tilbage«. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.",
+          "position": 31
+        }
+      ],
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Bøn om hjælp",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Klage",
-      "verse": 5,
-      "version": 1500242400000
-    },
-    {
-      "text": "Israel er dog Guds vinstok",
-      "verse": 9,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«). »Liljerne« angiver formodentlig enten en melodi eller et strengeinstrument.",
-      "type": "E",
-      "verse": 1,
-      "position": 31
-    },
-    {
-      "text": "Ordret: »og kom os til frelse!«",
-      "type": "T",
-      "verse": 3,
-      "position": 72
-    },
-    {
-      "text": "Kan også oversættes: »bring os tilbage«. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.",
-      "type": "T",
-      "verse": 4,
-      "position": 16
-    },
-    {
-      "text": "Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
-      "type": "E",
-      "verse": 5,
-      "position": 19
-    },
-    {
-      "text": "*šālîš* betyder egentlig: »en tredjedel«. Man går ud fra at det er teknisk udtryk for en tredjedel af et stort mål.",
-      "type": "E",
-      "verse": 6,
-      "position": 73
-    },
-    {
-      "text": "Ordret nærmere: »Du gør os til stridens æble for vore naboer«.",
-      "type": "T",
-      "verse": 7,
-      "position": 36
-    },
-    {
-      "text": "Se til v.5.",
-      "type": "E",
-      "verse": 8,
-      "position": 12
-    },
-    {
-      "text": "Kan også oversættes: »bring os tilbage«. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.",
-      "type": "T",
-      "verse": 8,
-      "position": 23
-    },
-    {
-      "text": "Kan også oversættes: »hedninger«.",
-      "type": "T",
-      "verse": 9,
-      "position": 60
-    },
-    {
-      "text": "Verberne i verset står i yiqtol. Meningen er ganske klart ikke at de skal angive fremtid, men at de skal gøre fremstillingen levende og nærværende.",
-      "type": "E",
-      "verse": 9,
-      "position": 76
-    },
-    {
-      "text": "Grundteksten har: *ʔēl* der ofte skal oversættes: »gud«, men her er det brugt som superlativ. I enkelte sammenhængen skal det oversættes »Gud«, men GTs nomale ord for »Gud« er: *ʔᵉlōhîm*.",
-      "type": "E",
-      "verse": 11,
-      "position": 49
-    },
-    {
-      "text": "Se til v.5.",
-      "type": "E",
-      "verse": 15,
-      "position": 12
-    },
-    {
-      "text": "Ordet: *kannāʰ* findes kun dette ene sted i GT. Betydningen er usikker og omdiskuteret. Septuaginta har læst det som imperativ af *kwn*: »genopret«. Andre foreslår at læse: *gannāʰ*: »have«. I sammenhængen forekommer »skud« dog at være en nærliggende forståelse.",
-      "type": "E",
-      "verse": 16,
-      "position": 12
-    },
-    {
-      "text": "Kan også oversættes: »som du gav styrke for dig«. Linjen slettes dog af mange oversættere som formoder at den fejlagtigt er kommet ind her fra v.18b. Det er imidlertid ikke nødvendigvis rigtigt. Udtrykket »søn« må i dette vers gå på hele Israels folk, mens der i v.18b formodentlig er tænkt på kongen.",
-      "type": "E",
-      "verse": 16,
-      "position": 74
-    },
-    {
-      "text": "Ordet: *kᵊsûḥāʰ* læses oftest som verbum (participium passiv): »skåret af«. Andre oversætter dog: »som affald/skarn«.",
-      "type": "E",
-      "verse": 17,
-      "position": 34
-    },
-    {
-      "text": "nemlig dit folk.",
-      "type": "T",
-      "verse": 17,
-      "position": 37
-    },
-    {
-      "text": "Sætningen kan også oversættes: »lad dem gå til grunde for dit ansigts trussel«. I så fald er det en bøn om straf over fjenderne.",
-      "type": "E",
-      "verse": 17,
-      "position": 77
-    },
-    {
-      "text": "Kan også oversættes: »som du gav styrke for dig«. Med udtrykket »menneskesøn« er der i dette vers formodentlig er tænkt på kongen, mens »søn« i v.16b går på hele Israels folk.",
-      "type": "E",
-      "verse": 18,
-      "position": 88
-    },
-    {
-      "text": "Se til v.5.",
-      "type": "T",
-      "verse": 20,
-      "position": 19
-    },
-    {
-      "text": "Kan også oversættes: »bring os tilbage«. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.",
-      "type": "T",
-      "verse": 20,
-      "position": 31
     }
   ]
 }

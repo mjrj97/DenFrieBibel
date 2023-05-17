@@ -5,45 +5,63 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fPå vej til Jerusalem rejste han også mellem Samaria og Galilæa.",
       "number": 11,
+      "text": "På vej til Jerusalem rejste han også mellem Samaria og Galilæa.",
       "version": 1629842400000
     },
     {
-      "text": "Da han gik ind i en landsby, blev han mødt af ti spedalske mænd som blev stående langt borte v13 mens de råbte: »Jesus, Mester, forbarm dig over os!«",
       "number": 12,
+      "text": "Da han gik ind i en landsby, blev han mødt af ti spedalske mænd som blev stående langt borte",
       "version": 1629842400000
     },
     {
-      "text": "Da han så dem, sagde han til dem: »Gå hen og lad jer fremstille for præsterne!«Og mens de gik derhen, blev de rene. v15 Men en af dem vendte tilbage da han så at han var helbredt, og priste Gud med høj røst. v16 Han kastede sig på ansigtet for hans fødder og takkede ham. Han var en samaritaner.",
+      "number": 13,
+      "text": "mens de råbte: »Jesus, Mester, forbarm dig over os!«",
+      "version": 1629842400000
+    },
+    {
       "number": 14,
+      "text": "Da han så dem, sagde han til dem: »Gå hen og lad jer fremstille for præsterne!« Og mens de gik derhen, blev de rene.",
       "version": 1629842400000
     },
     {
-      "text": "Men Jesus sagde: »Var der ikke ti der blev rene? Hvor er de ni?",
+      "number": 15,
+      "text": "Men en af dem vendte tilbage da han så at han var helbredt, og priste Gud med høj røst.",
+      "version": 1629842400000
+    },
+    {
+      "number": 16,
+      "text": "Han kastede sig på ansigtet for hans fødder og takkede ham. Han var en samaritaner.",
+      "version": 1629842400000
+    },
+    {
       "number": 17,
+      "text": "Men Jesus sagde: »Var der ikke ti der blev rene? Hvor er de ni?",
       "version": 1629842400000
     },
     {
-      "text": "Var der ingen andre som fandt det værd at vende tilbage for at give Gud æren, end denne fremmede?« v19 Og han sagde til ham: »Stå op, gå herfra. Din tro har frelst dig!«",
       "number": 18,
+      "text": "Var der ingen andre som fandt det værd at vende tilbage for at give Gud æren, end denne fremmede?«",
+      "version": 1629842400000
+    },
+    {
+      "number": 19,
+      "text": "Og han sagde til ham: »Stå op, gå herfra. Din tro har frelst dig!«",
       "version": 1629842400000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

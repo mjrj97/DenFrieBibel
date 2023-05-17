@@ -5,74 +5,113 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen, Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen, Christian Højgaard"
     }
   ],
   "verses": [
     {
-      "text": "\fEfter Abimelek fremstod Tola for at redde Israel. Han var søn af Pua, Dodos søn, af Isakarsstamme, og han boede i Shamir i Efraims Bjerge. v2 Han var dommer i Israel i 23 år. Da han døde,blev han begravet i Shamir. v3 Efter ham fremstod gileaditten Jair som var dommer i Israel i 22 år.",
       "number": 1,
+      "text": "\fEfter Abimelek fremstod Tola for at redde Israel. Han var søn af Pua, Dodos søn, af Isakars stamme, og han boede i Shamir i Efraims Bjerge.",
+      "title": "Tola og Jair er dommere i Israel",
       "version": 1457564400000
     },
     {
-      "text": "Han havde 30 sønner, som red på 30 æsler, og de havde 30 byer. De blev kaldt Jairs Teltbyer, ogdet hedder de den dag i dag. De ligger i Gileads land. v5 Jair døde og blev begravet i Kamon.",
+      "number": 2,
+      "text": "Han var dommer i Israel i 23 år. Da han døde, blev han begravet i Shamir.",
+      "version": 1457564400000
+    },
+    {
+      "number": 3,
+      "text": "Efter ham fremstod gileaditten Jair som var dommer i Israel i 22 år.",
+      "version": 1457564400000
+    },
+    {
       "number": 4,
+      "text": "Han havde 30 sønner, som red på 30 æsler, og de havde 30 byer. De blev kaldt Jairs Teltbyer, og det hedder de den dag i dag. De ligger i Gileads land.",
       "version": 1457564400000
     },
     {
-      "text": "\fIsraelitterne blev ved med at handle ondt i JHVHs øjne. De dyrkede Ba'alerne og Astarterne ogSyriens, Sidons og Moabs guder og ammonitternes og filistrenes guder. De forlod JHVH og tjente hamikke.",
+      "number": 5,
+      "text": "Jair døde og blev begravet i Kamon.",
+      "version": 1457564400000
+    },
+    {
       "number": 6,
+      "text": "\fIsraelitterne blev ved med at handle ondt i JHVHs øjne. De dyrkede Ba'alerne og Astarterne og Syriens, Sidons og Moabs guder og ammonitternes og filistrenes guder. De forlod JHVH og tjente ham ikke.",
+      "title": "Israelitterne dyrker afguder, presses af fjenderne, råber til JHVH",
       "version": 1457564400000
     },
     {
-      "text": "\fDa blussede JHVHs vrede op mod Israel, og han overlod dem værgeløse i filistrenes ogammonitternes vold. v8 I det særlige attende år slog de israelitterne og knuste alle de israelittersom boede på den anden side af Jordanfloden i amoritternes land, som ligger i Gilead. v9Ammonitterne drog over Jordan for endog at kæmpe mod Juda og Benjamin og Efraims hus, så Israel varhårdt trængt. v10 Da råbte israelitterne til JHVH: »Vi har syndet imod dig fordi vi har forladtvores Gud og dyrket Ba'alerne.«\fruster sig til kamp mod dem==",
       "number": 7,
+      "text": "\fDa blussede JHVHs vrede op mod Israel, og han overlod dem værgeløse i filistrenes og ammonitternes vold.",
       "version": 1457564400000
     },
     {
-      "text": "\fJHVH svarede israelitterne: »Har ikke egypterne og amoritterne, ammonitterne og filistrene, v12sidonierne, amalekitterne og midjanitterne undertrykt jer? I råbte til mig, og jeg frelste jer ud afderes magt. v13 Men I forlod mig og dyrkede andre guder. Derfor vil jeg ikke blive ved med at frelsejer. v14 Gå hen og råb til de guder som I har valgt jer. Lad dem frelse jer af jeres nød.«",
+      "number": 8,
+      "text": "I det særlige attende år slog de israelitterne og knuste alle de israelitter som boede på den anden side af Jordanfloden i amoritternes land, som ligger i Gilead.",
+      "version": 1457564400000
+    },
+    {
+      "number": 9,
+      "text": "drog over Jordan for endog at kæmpe mod Juda og Benjamin og Efraims hus, så Israel var hårdt trængt.",
+      "version": 1457564400000
+    },
+    {
+      "number": 10,
+      "text": "Da råbte israelitterne til JHVH: »Vi har syndet imod dig fordi vi har forladt vores Gud og dyrket Ba'alerne.«",
+      "version": 1457564400000
+    },
+    {
       "number": 11,
+      "text": "\fJHVH svarede israelitterne: »Har ikke egypterne og amoritterne, ammonitterne og filistrene,",
+      "title": "JHVH forholder dem deres ulydighed, de beder om tilgivelse, JHVH får ondt af dem, ammonitterne ruster sig til kamp mod dem",
       "version": 1457564400000
     },
     {
-      "text": "\fDa sagde israelitterne til JHVH: »Vi har syndet. Gør mod os som du finder godt. Men vi bederdig, frels os i dag.« v16 Og de skilte sig af med de fremmede guder og tjente JHVH. Og han gad ikkelængere se på Israels nød.",
+      "number": 12,
+      "text": "amalekitterne og midjanitterne undertrykt jer? I råbte til mig, og jeg frelste jer ud af deres magt.",
+      "version": 1457564400000
+    },
+    {
+      "number": 13,
+      "text": "Men I forlod mig og dyrkede andre guder. Derfor vil jeg ikke blive ved med at frelse jer.",
+      "version": 1457564400000
+    },
+    {
+      "number": 14,
+      "text": "Gå hen og råb til de guder som I har valgt jer. Lad dem frelse jer af jeres nød.«",
+      "version": 1457564400000
+    },
+    {
       "number": 15,
+      "text": "\fDa sagde israelitterne til JHVH: »Vi har syndet. Gør mod os som du finder godt. Men vi beder dig, frels os i dag.«",
       "version": 1457564400000
     },
     {
-      "text": "\fAmmonitterne blev kaldt sammen og slog lejr i Gilead; men israelitterne samlede sig og slog lejri Mispa. v18Folket, fyrsterne i Gilead, sagde til hinanden: »Hvem vil være den første til at gå i kamp modammonitterne? Han skal være leder over alle der bor i Gilead.«",
+      "number": 16,
+      "text": "Og de skilte sig af med de fremmede guder og tjente JHVH. Og han gad ikke længere se på Israels nød.",
+      "version": 1457564400000
+    },
+    {
       "number": 17,
-      "version": 1457564400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Tola og Jair er dommere i Israel",
-      "verse": 1,
-      "version": 1457564400000
-    },
-    {
-      "text": "Israelitterne dyrker afguder, presses af fjenderne, råber til JHVH",
-      "verse": 5,
+      "text": "\fAmmonitterne blev kaldt sammen og slog lejr i Gilead; men israelitterne samlede sig og slog lejr i Mispa.",
+      "footnotes": [
+        {
+          "text": "E: I vers 17 begynder et nyt afsnit, som indleder udvælgelsen af Jefta i kap. 11.",
+          "position": 106
+        }
+      ],
       "version": 1457564400000
     },
     {
-      "text": "JHVH forholder dem deres ulydighed, de beder om tilgivelse, JHVH får ondt af dem, ammonitter",
-      "verse": 8,
+      "number": 18,
+      "text": "fyrsterne i Gilead, sagde til hinanden: »Hvem vil være den første til at gå i kamp mod ammonitterne? Han skal være leder over alle der bor i Gilead.«",
       "version": 1457564400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "I vers 17 begynder et nyt afsnit, som indleder udvælgelsen af Jefta i kap. 11.",
-      "type": "E",
-      "verse": 17,
-      "position": 105
     }
   ]
 }

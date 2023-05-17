@@ -5,52 +5,49 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fFor JHVH jeres Gud er gudernes Gud og herrenes Herre, den store, den mægtige og den frygtindgydende Gud, som ikke er partisk og ikke tager imod bestikkelse,",
       "number": 17,
+      "text": "For JHVH jeres Gud er gudernes Gud og herrenes Herre, den store, den mægtige og den frygtindgydende Gud, som ikke er partisk og ikke tager imod bestikkelse,",
       "version": 1641942000000
     },
     {
-      "text": "som skaffer en faderløs og en enke ret, og som elsker en fremmed så han giver ham brød og klæder.",
       "number": 18,
+      "text": "som skaffer en faderløs og en enke ret, og som elsker en fremmed så han giver ham brød og klæder.",
       "version": 1641942000000
     },
     {
-      "text": "Derfor skal I elske den fremmede; for I har været fremmede i Egyptens land.",
       "number": 19,
+      "text": "Derfor skal I elske den fremmede; for I har været fremmede i Egyptens land.",
       "version": 1641942000000
     },
     {
-      "text": "JHVH din Gud skal du frygte, ham skal du tjene; og ham skal du holde fast ved, og ved hans navn skal du sværge.",
       "number": 20,
+      "text": "JHVH din Gud skal du frygte, ham skal du tjene; og ham skal du holde fast ved, og ved hans navn skal du sværge.",
       "version": 1641942000000
     },
     {
-      "text": "Han er din lovsang, og han er din Gud, som for dig har gjort disse store og frygtindgydende ting som dine øjne har set.",
       "number": 21,
+      "text": "Han er din lovsang, og han er din Gud, som for dig har gjort disse store og frygtindgydende ting som dine øjne har set.",
+      "footnotes": [
+        {
+          "text": "T: Meningen er formodentlig: »i dit nærvær«.",
+          "position": 50
+        }
+      ],
       "version": 1641942000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Meningen er formodentlig: »i dit nærvær«.",
-      "type": "T",
-      "verse": 21,
-      "position": 50
     }
   ]
 }

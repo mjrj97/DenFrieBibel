@@ -5,156 +5,153 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fJeg formaner jer altså, brødre, ved Guds barmhjertighed, til at bringe jeres legemer som et levende, helligt, Gud velbehageligt offer; dette er jeres åndelige gudsdyrkelse.",
       "number": 1,
+      "text": "Jeg formaner jer altså, brødre, ved Guds barmhjertighed, til at bringe jeres legemer som et levende, helligt, Gud velbehageligt offer; dette er jeres åndelige gudsdyrkelse.",
+      "footnotes": [
+        {
+          "text": "E: Det græske ord er fagudtryk for frembæren af ofre.",
+          "position": 70
+        }
+      ],
       "version": 1641942000000
     },
     {
-      "text": "Og tilpas jer ikke denne verden, men lad jer forvandle ved sindets fornyelse, så I kan skønne hvad der er Guds vilje, det gode og velbehagelige og fuldkomne.",
       "number": 2,
+      "text": "Og tilpas jer ikke denne verden, men lad jer forvandle ved sindets fornyelse, så I kan skønne hvad der er Guds vilje, det gode og velbehagelige og fuldkomne.",
       "version": 1641942000000
     },
     {
-      "text": "For ved den nåde som er givet mig, siger jeg til enhver iblandt jer at han ikke skal tænke højere om sig selv end han bør tænke, men tænke med omtanke, efter det mål af tro som Gud har tildelt enhver.",
       "number": 3,
+      "text": "For ved den nåde som er givet mig, siger jeg til enhver iblandt jer at han ikke skal tænke højere om sig selv end han bør tænke, men tænke med omtanke, efter det mål af tro som Gud har tildelt enhver.",
       "version": 1641942000000
     },
     {
-      "text": "For ligesom vi har mange lemmer paa ét legeme, men lemmerne ikke alle har den samme funktion,",
       "number": 4,
+      "text": "For ligesom vi har mange lemmer paa ét legeme, men lemmerne ikke alle har den samme funktion,",
       "version": 1641942000000
     },
     {
-      "text": "sådan er vi mange ét legeme i Kristus, men hver for sig hinandens lemmer.",
       "number": 5,
+      "text": "sådan er vi mange ét legeme i Kristus, men hver for sig hinandens lemmer.",
       "version": 1641942000000
     },
     {
-      "text": "\fMen fordi vi har forskellige nådegaver efter den nåde som er givet os, for eksempel profeti, da skal man bruge den i overenstemmelse troen;",
       "number": 6,
+      "text": "\fMen fordi vi har forskellige nådegaver efter den nåde som er givet os, for eksempel profeti, da skal man bruge den i overenstemmelse troen;",
       "version": 1641942000000
     },
     {
-      "text": "eller en tjeneste, da skal man tage vare på tjenesten; eller om nogen underviser, på undervisningen;",
       "number": 7,
+      "text": "eller en tjeneste, da skal man tage vare på tjenesten; eller om nogen underviser, på undervisningen;",
       "version": 1641942000000
     },
     {
-      "text": "eller om nogen formaner, på formaningen; den som uddeler, skal gøre det uden bagtanke; den som er forstander, skal være det med iver; den som øver barmhjertighed, skal gøre det med glæde!",
       "number": 8,
+      "text": "eller om nogen formaner, på formaningen; den som uddeler, skal gøre det uden bagtanke; den som er forstander, skal være det med iver; den som øver barmhjertighed, skal gøre det med glæde!",
+      "footnotes": [
+        {
+          "text": "T: Til de fattige.",
+          "position": 57
+        }
+      ],
       "version": 1641942000000
     },
     {
-      "text": "Kærligheden skal være oprigtig; afsky det onde, hold jer til det gode;",
       "number": 9,
+      "text": "Kærligheden skal være oprigtig; afsky det onde, hold jer til det gode;",
       "version": 1641942000000
     },
     {
-      "text": "vær i jeres broderkærlighed hinanden inderligt hengivne; overgå hinanden i at vise ære!",
       "number": 10,
+      "text": "vær i jeres broderkærlighed hinanden inderligt hengivne; overgå hinanden i at vise ære!",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »kom hinanden i forkøbet med at vise ære«.",
+          "position": 87
+        }
+      ],
       "version": 1641942000000
     },
     {
-      "text": "Vær ikke tøvende i jeres iver; vær brændende i Ånden; tjen Herren;",
       "number": 11,
+      "text": "Vær ikke tøvende i jeres iver; vær brændende i Ånden; tjen Herren;",
       "version": 1641942000000
     },
     {
-      "text": "vær glade i håbet, udholdende i trængselen, vedholdende i bønnen!",
       "number": 12,
+      "text": "vær glade i håbet, udholdende i trængselen, vedholdende i bønnen!",
       "version": 1641942000000
     },
     {
-      "text": "Involvér jer i de helliges nød; stræb efter gæstfrihed!",
       "number": 13,
+      "text": "Involvér jer i de helliges nød; stræb efter gæstfrihed!",
       "version": 1641942000000
     },
     {
-      "text": "Velsign dem som forfølger jer, velsign, og forband ikke!",
       "number": 14,
+      "text": "Velsign dem som forfølger jer, velsign, og forband ikke!",
       "version": 1641942000000
     },
     {
-      "text": "Glæd jer med de glade og græd med de grædende!",
       "number": 15,
+      "text": "Glæd jer med de glade og græd med de grædende!",
       "version": 1641942000000
     },
     {
-      "text": "Vær enige indbyrdes; stræb ikke efter de høje ting, men hold jer til det lave; anse ikke jer selv for kloge i jeres egne tanker!",
       "number": 16,
+      "text": "Vær enige indbyrdes; stræb ikke efter de høje ting, men hold jer til det lave; anse ikke jer selv for kloge i jeres egne tanker!",
       "version": 1641942000000
     },
     {
-      "text": "Gengæld ikke nogen ondt med ondt; stræb efter det der er godt over for alle mennesker!",
       "number": 17,
+      "text": "Gengæld ikke nogen ondt med ondt; stræb efter det der er godt over for alle mennesker!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »tænk omhyggeligt over«.",
+          "position": 45
+        }
+      ],
       "version": 1641942000000
     },
     {
-      "text": "Dersom det er muligt — så vidt det står til jer — da hold fred med alle mennesker!",
       "number": 18,
+      "text": "Dersom det er muligt — så vidt det står til jer — da hold fred med alle mennesker!",
       "version": 1641942000000
     },
     {
-      "text": "Hævn ikke jer selv, I elskede, men giv plads for vreden; for der er skrevet: »Mig tilhører hævnen, jeg vil gengælde, siger Herren.«",
       "number": 19,
+      "text": "Hævn ikke jer selv, I elskede, men giv plads for vreden; for der er skrevet: »Mig tilhører hævnen, jeg vil gengælde, siger Herren.«",
+      "footnotes": [
+        {
+          "text": "T: Dvs. giv plads for Guds vrede.",
+          "position": 56
+        }
+      ],
       "version": 1641942000000
     },
     {
-      "text": "Men hvis din fjende sulter, giv ham mad; hvis han tørster, giv ham noget at drikke; for når du gør dette, vil du samle glødende kul på hans hoved.",
       "number": 20,
+      "text": "Men hvis din fjende sulter, giv ham mad; hvis han tørster, giv ham noget at drikke; for når du gør dette, vil du samle glødende kul på hans hoved.",
       "version": 1641942000000
     },
     {
-      "text": "Lad dig ikke overvinde af det onde, men overvind det onde med det gode!",
       "number": 21,
+      "text": "Lad dig ikke overvinde af det onde, men overvind det onde med det gode!",
       "version": 1641942000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Det græske ord er fagudtryk for frembæren af ofre.",
-      "type": "E",
-      "verse": 1,
-      "position": 71
-    },
-    {
-      "text": "Til de fattige.",
-      "type": "T",
-      "verse": 8,
-      "position": 57
-    },
-    {
-      "text": "Kan også oversættes: »kom hinanden i forkøbet med at vise ære«.",
-      "type": "T",
-      "verse": 10,
-      "position": 87
-    },
-    {
-      "text": "Ordret: »tænk omhyggeligt over«.",
-      "type": "T",
-      "verse": 17,
-      "position": 45
-    },
-    {
-      "text": "Dvs. giv plads for Guds vrede.",
-      "type": "T",
-      "verse": 19,
-      "position": 56
     }
   ]
 }

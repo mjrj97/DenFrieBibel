@@ -5,106 +5,90 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fAf David.\fTil dig, JHVHv, vil jeg råbe,\fmin klippe, vend dig ikke tavs bort fra mig\fså du tier over for mig,\fog jeg bliver som dem, der stiger ned i graven.",
       "number": 1,
+      "text": "Af David.\fTil dig, JHVHv, vil jeg råbe,\fmin klippe, vend dig ikke tavs bort fra mig\fså du tier over for mig,\fog jeg bliver som dem, der stiger ned i graven.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "T: Dvs.: Ignorer mig ikke!",
+          "position": 83
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fHør min tryglende røst,\fnår jeg råber til dig om hjælp,\fnår jeg løfter mine hænder\ftil din helligdoms inderste rum.",
       "number": 2,
+      "text": "\fHør min tryglende røst,\fnår jeg råber til dig om hjælp,\fnår jeg løfter mine hænder\ftil din helligdoms inderste rum.",
+      "title": "Bøn om hjælp",
+      "footnotes": [
+        {
+          "text": "T: Telthelligdommens (senere: templets) Allerhelligste.",
+          "position": 116
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fRiv mig ikke bort sammen med ugudelige\fog med dem der begår synd,\fdem der taler fred med deres næste,\fskønt der er ondt i deres hjerte.",
       "number": 3,
+      "text": "\fRiv mig ikke bort sammen med ugudelige\fog med dem der begår synd,\fdem der taler fred med deres næste,\fskønt der er ondt i deres hjerte.",
       "version": 1457218800000
     },
     {
-      "text": "\fGiv dem efter deres gerning\fog efter deres handlingers ondskab,\fgiv dem efter deres hænders værk,\fgengæld dem deres handling.",
       "number": 4,
+      "text": "\fGiv dem efter deres gerning\fog efter deres handlingers ondskab,\fgiv dem efter deres hænders værk,\fgengæld dem deres handling.",
       "version": 1457218800000
     },
     {
-      "text": "\fFor de giver ikke agt på JHVHs gerninger,\fog heller ikke på hans hænders værk,\fhan skal rive dem ned og ikke bygge dem op.",
       "number": 5,
+      "text": "\fFor de giver ikke agt på JHVHs gerninger,\fog heller ikke på hans hænders værk,\fhan skal rive dem ned og ikke bygge dem op.",
       "version": 1457218800000
     },
     {
-      "text": "\fLovet være JHVH,\ffor han har hørt min tryglende røst.",
       "number": 6,
+      "text": "\fLovet være JHVH,\ffor han har hørt min tryglende røst.",
+      "title": "Lovprisning og tak",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVH er min styrke og mit skjold,\fpå ham har mit hjerte stolet,\fog jeg blev hjulpet så mit hjerte jublede,\fog med min sang vil jeg takke ham.",
       "number": 7,
+      "text": "\fJHVH er min styrke og mit skjold,\fpå ham har mit hjerte stolet,\fog jeg blev hjulpet så mit hjerte jublede,\fog med min sang vil jeg takke ham.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »ud af min sang«.",
+          "position": 123
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJHVH er styrke for sit folk,\fog han er en frelsende borg for sin salvede.",
       "number": 8,
+      "text": "\fJHVH er styrke for sit folk,\fog han er en frelsende borg for sin salvede.",
+      "footnotes": [
+        {
+          "text": "E: Den masoretiske tekst har *lāmô*: »for dem«. Rettelsen til *lᵊʕammô* (»for sit folk«) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.",
+          "position": 29
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fFrels dit folk,\fog velsign din arv,\fog vogt dem og bær dem til evig tid.",
       "number": 9,
+      "text": "\fFrels dit folk,\fog velsign din arv,\fog vogt dem og bær dem til evig tid.",
       "version": 1457218800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1457218800000
-    },
-    {
-      "text": "Bøn om hjælp",
-      "verse": 2,
-      "version": 1457218800000
-    },
-    {
-      "text": "Lovprisning og tak",
-      "verse": 6,
-      "version": 1457218800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Dvs.: Ignorer mig ikke!",
-      "type": "T",
-      "verse": 1,
-      "position": 84
-    },
-    {
-      "text": "Telthelligdommens (senere: templets) Allerhelligste.",
-      "type": "T",
-      "verse": 2,
-      "position": 116
-    },
-    {
-      "text": "Ordret: »ud af min sang«.",
-      "type": "T",
-      "verse": 7,
-      "position": 123
-    },
-    {
-      "text": "Den masoretiske tekst har *lāmô*: »for dem«. Rettelsen til *lᵊʕammô* (»for sit folk«) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.",
-      "type": "E",
-      "verse": 8,
-      "position": 29
     }
   ]
 }

@@ -5,95 +5,93 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fDerefter drog Jesus over til den anden side af Galilæas Sø, Tiberias-søen.",
       "number": 1,
+      "text": "Derefter drog Jesus over til den anden side af Galilæas Sø, Tiberias-søen.",
       "version": 1614726000000
     },
     {
-      "text": "En stor skare fulgte ham fordi de så de tegn han gjorde på de syge.",
       "number": 2,
+      "text": "En stor skare fulgte ham fordi de så de tegn han gjorde på de syge.",
       "version": 1614726000000
     },
     {
-      "text": "Men Jesus gik op på bjerget og satte sig der med sine disciple.",
       "number": 3,
+      "text": "Men Jesus gik op på bjerget og satte sig der med sine disciple.",
       "version": 1614726000000
     },
     {
-      "text": "Påsken, jødernes højtid, var nær.",
       "number": 4,
+      "text": "Påsken, jødernes højtid, var nær.",
       "version": 1614726000000
     },
     {
-      "text": "Da Jesus nu løftede blikket og så at en stor skare kom hen til ham, sagde han til Filip: »Hvor kan vi købe brød så alle disse kan få noget at spise?«",
       "number": 5,
+      "text": "Da Jesus nu løftede blikket og så at en stor skare kom hen til ham, sagde han til Filip: »Hvor kan vi købe brød så alle disse kan få noget at spise?«",
       "version": 1614726000000
     },
     {
-      "text": "Men dette sagde han for at prøve ham; for han vidste selv hvad han ville gøre.",
       "number": 6,
+      "text": "Men dette sagde han for at prøve ham; for han vidste selv hvad han ville gøre.",
       "version": 1614726000000
     },
     {
-      "text": "Filip svarede ham: »Brød for 200 denarer er ikke nok til at enhver kan få bare lidt.«",
       "number": 7,
+      "text": "Filip svarede ham: »Brød for 200 denarer er ikke nok til at enhver kan få bare lidt.«",
       "version": 1614726000000
     },
     {
-      "text": "En af hans disciple, Andreas, Simon Peters broder, sagde til ham:",
       "number": 8,
+      "text": "En af hans disciple, Andreas, Simon Peters broder, sagde til ham:",
       "version": 1614726000000
     },
     {
-      "text": "»Her er en lille dreng som har fem bygbrød og to småfisk; men hvad er det til så mange?«",
       "number": 9,
+      "text": "»Her er en lille dreng som har fem bygbrød og to småfisk; men hvad er det til så mange?«",
       "version": 1614726000000
     },
     {
-      "text": "Jesus sagde: »Få folk til at sætte sig ned.« Der var meget græs på stedet. Da satte mændene sig ned, omtrent 5.000 i alt.",
       "number": 10,
+      "text": "Jesus sagde: »Få folk til at sætte sig ned.« Der var meget græs på stedet. Da satte mændene sig ned, omtrent 5.000 i alt.",
       "version": 1614726000000
     },
     {
-      "text": "Så tog Jesus brødene og takkede og delte dem ud til dem der havde sat sig ned; ligeledes også af småfiskene, så meget de ville have.",
       "number": 11,
+      "text": "Så tog Jesus brødene og takkede og delte dem ud til dem der havde sat sig ned; ligeledes også af småfiskene, så meget de ville have.",
       "version": 1614726000000
     },
     {
-      "text": "Men da de var blevet mætte, sagde han til sine disciple: »Saml de tiloversblevne stykker sammen for at intet skal gå til spilde.«",
       "number": 12,
+      "text": "Men da de var blevet mætte, sagde han til sine disciple: »Saml de tiloversblevne stykker sammen for at intet skal gå til spilde.«",
       "version": 1614726000000
     },
     {
-      "text": "Da samlede de sammen og fyldte tolv kurve med det der var blevet tilovers af de fem bygbrød fra dem som havde fået mad.",
       "number": 13,
+      "text": "Da samlede de sammen og fyldte tolv kurve med det der var blevet tilovers af de fem bygbrød fra dem som havde fået mad.",
       "version": 1614726000000
     },
     {
-      "text": "Da nu folkene så det tegn han havde gjort, sagde de: »Han er i sandhed profeten der skal komme til verden.«",
       "number": 14,
+      "text": "Da nu folkene så det tegn han havde gjort, sagde de: »Han er i sandhed profeten der skal komme til verden.«",
       "version": 1614726000000
     },
     {
-      "text": "Da Jesus nu fornemmede at de ville komme og tage ham med magt for at gøre ham til konge, gik han atter op på bjerget, helt alene.",
       "number": 15,
+      "text": "Da Jesus nu fornemmede at de ville komme og tage ham med magt for at gøre ham til konge, gik han atter op på bjerget, helt alene.",
       "version": 1614726000000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

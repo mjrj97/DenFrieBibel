@@ -5,175 +5,167 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fDengang Akaz, Jotams søn, Uzzijas sønnesøn, var konge i Juda,\n\t\tdrog Arams konge Resin og Israels konge Peka, Remaljas søn, op mod Jerusalem for at føre krig imod den;\n\t\t\tmen de kunne ikke\n\t\t\t\tbesejre den.",
       "number": 1,
+      "text": "\fDengang Akaz, Jotams søn, Uzzijas sønnesøn, var konge i Juda,\t\tdrog Arams konge Resin og Israels konge Peka, Remaljas søn, op mod Jerusalem for at føre krig imod den;\t\t\tmen de kunne ikke\t\t\t\tbesejre den.",
+      "title": "Løftet om et tegn",
       "version": 1668034800000
     },
     {
-      "text": "\tDer gik melding til Davids hus,\n\t\t\t\tog man sagde:\n\t\t\t\t\t»Aram har lejret sig i Efraim.\n\t\t\t« Da skælvede hans hjerte og folkets hjerte,\n\t\t\t\tsom træerne i skoven skælver for vinden.",
       "number": 2,
+      "text": "\tDer gik melding til Davids hus,\t\t\t\tog man sagde:\t\t\t\t\t»Aram har lejret sig i Efraim.\t\t\t« Da skælvede hans hjerte og folkets hjerte,\t\t\t\tsom træerne i skoven skælver for vinden.",
       "version": 1668034800000
     },
     {
-      "text": "\t\tMen JHVH sagde til Esajas:\n\t\t\t»Gå nu ud,\n\t\t\t\t\tdu og din søn Shearjashub,\n\t\t\t\t\t\tog mød Akaz\n\t\t\t\t\tved enden af den øverste dams vandledning ved vejen langs vaskepladsen,",
       "number": 3,
+      "text": "\t\tMen JHVH sagde til Esajas:\t\t\t»Gå nu ud,\t\t\t\t\tdu og din søn Shearjashub,\t\t\t\t\t\tog mød Akaz\t\t\t\t\tved enden af den øverste dams vandledning ved vejen langs vaskepladsen,",
+      "footnotes": [
+        {
+          "text": "T: Shearjashub betyder »en rest skal vende om«.",
+          "position": 72
+        }
+      ],
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\tog sig til ham:\n\t\t\t\t\tTag dig i agt,\n\t\t\t\t\t\t\t\tog forhold dig i ro,\n\t\t\t\t\t\t\tfrygt ikke,\n\t\t\t\t\t\t\t\t\tog lad ikke dit hjerte blive modløst over disse to stykker rygende træ, over Resins og aramæernes og Remaljas søns rasende vrede.",
       "number": 4,
+      "text": "\t\t\t\tog sig til ham:\t\t\t\t\tTag dig i agt,\t\t\t\t\t\t\t\tog forhold dig i ro,\t\t\t\t\t\t\tfrygt ikke,\t\t\t\t\t\t\t\t\tog lad ikke dit hjerte blive modløst over disse to stykker rygende træ, over Resins og aramæernes og Remaljas søns rasende vrede.",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tFordi aramæerne og Efraim og Remaljas søn har lagt onde planer imod dig\n\t\t\t\t\t\t\t\t\tog sagt:",
       "number": 5,
+      "text": "\t\t\t\t\t\t\t\tFordi aramæerne og Efraim og Remaljas søn har lagt onde planer imod dig\t\t\t\t\t\t\t\t\tog sagt:",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t›Lad os drage op imod Juda\n\t\t\t\t\t\t\t\t\t\t\tog skræmme det\n\t\t\t\t\t\t\t\t\t\t\tog rive det til os,\n\t\t\t\t\t\t\t\t\t\t\t\tså vi kan gøre Tab’als søn til konge over det,‹",
       "number": 6,
+      "text": "\t\t\t\t\t\t\t\t\t\t›Lad os drage op imod Juda\t\t\t\t\t\t\t\t\t\t\tog skræmme det\t\t\t\t\t\t\t\t\t\t\tog rive det til os,\t\t\t\t\t\t\t\t\t\t\t\tså vi kan gøre Tab’als søn til konge over det,‹",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\tså siger Herren JHVH:\f\n\t\t\t\t\t\t\t›Det skal ikke lykkes\n\t\t\t\t\t\t\t\t\t\tog ikke ske!",
       "number": 7,
+      "text": "\t\t\t\t\t\tså siger Herren JHVH:\f\t\t\t\t\t\t\t›Det skal ikke lykkes\t\t\t\t\t\t\t\t\t\tog ikke ske!",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\tFor Damaskus er Arams hoved,\f\n\t\t\t\t\t\t\t\t\t\t\t\tog Resin er Damaskus' hoved;\f\n\t\t\t\t\t\t\t\t\t\t\tendnu femogtres år og så skal Efraim knuses,\fså det ikke længere er et folk.",
       "number": 8,
+      "text": "\f\t\t\t\t\t\t\t\t\tFor Damaskus er Arams hoved,\f\t\t\t\t\t\t\t\t\t\t\t\tog Resin er Damaskus' hoved;\f\t\t\t\t\t\t\t\t\t\t\tendnu femogtres år og så skal Efraim knuses,\fså det ikke længere er et folk.",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\t\tOg Samaria er Efraims hoved,\f\n\t\t\t\t\t\t\t\t\t\t\tog Remaljas søn er Samarias hoved.\f\n\t\t\t\t\t\t\t\tEr I ikke trofaste,\f\n\t\t\t\t\t\t\t\t\tvil jeg ikke være trofast mod jer.‹«",
       "number": 9,
+      "text": "\f\t\t\t\t\t\t\t\t\t\tOg Samaria er Efraims hoved,\f\t\t\t\t\t\t\t\t\t\t\tog Remaljas søn er Samarias hoved.\f\t\t\t\t\t\t\t\tEr I ikke trofaste,\f\t\t\t\t\t\t\t\t\tvil jeg ikke være trofast mod jer.‹«",
+      "footnotes": [
+        {
+          "text": "E: Sidste del af vers 9 bygger på et ordspil på *ˀᵃman*, der kan oversættes med troværdig, trofast og bekræfte. Første del af ordspillet er aktivt, dvs. det handler om Efraims trofasthed, mens anden del er passiv, dvs. det handler om en trofasthed mod eller bekræftelse af Efraim, sandsynligvis Guds fortsatte trofasthed mod Efraim.",
+          "position": 159
+        }
+      ],
       "version": 1668034800000
     },
     {
-      "text": "\f\t\tOg JHVH fortsatte\n\t\t\t\t\tmed at tale til Akaz:",
       "number": 10,
+      "text": "\f\t\tOg JHVH fortsatte\t\t\t\t\tmed at tale til Akaz:",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\t»Bed om et tegn fra JHVH, din Gud,\n\t\t\t\t\t\t\t\tså dybt som til dødsriget\n\t\t\t\t\t\t\t\t\teller så højt som til det høje!«",
       "number": 11,
+      "text": "\t\t\t\t\t\t\t»Bed om et tegn fra JHVH, din Gud,\t\t\t\t\t\t\t\tså dybt som til dødsriget\t\t\t\t\t\t\t\t\teller så højt som til det høje!«",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\tMen Akaz svarede:\n\t\t\t\t\tJeg vil ikke bede\n\t\t\t\t\t\tom noget og friste JHVH.«",
       "number": 12,
+      "text": "\t\t\t\tMen Akaz svarede:\t\t\t\t\tvil ikke bede\t\t\t\t\t\tom noget og friste JHVH.«",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\tDa sagde han:\n\t\t\t\t»Hør nu,\n\t\t\t\t\t\t\tDavids hus!\n\t\t\t\t\t\tEr det så lidt for jer\n\t\t\t\t\t\t\t\t\tat være mennesker til besvær,\n\t\t\t\t\t\t\t\tat I endda vil være min Gud til besvær?",
       "number": 13,
+      "text": "\t\t\tDa sagde han:\t\t\t\t»Hør nu,\t\t\t\t\t\t\tDavids hus!\t\t\t\t\t\tEr det så lidt for jer\t\t\t\t\t\t\t\t\tat være mennesker til besvær,\t\t\t\t\t\t\t\tat I endda vil være min Gud til besvær?",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\tDerfor skal Herren selv give jer et tegn:\n\t\t\t\t\t\t\t\t\tSe, jomfruen skal blive gravid\n\t\t\t\t\t\t\t\t\t\tog føde en søn, 12 og hun skal give ham navnet Immanuel.",
       "number": 14,
+      "text": "\t\t\t\t\t\t\tDerfor skal Herren selv give jer et tegn:\t\t\t\t\t\t\t\t\tSe, jomfruen skal blive gravid\t\t\t\t\t\t\t\t\t\tog føde en søn, 12 og hun skal give ham navnet Immanuel.",
+      "footnotes": [
+        {
+          "text": "T: Immanuel betyder »Gud med os«.",
+          "position": 153
+        }
+      ],
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tTykmælk og honning skal han spise\n\t\t\t\t\t\t\t\t\t\t\t\t\tfor at han skal forstå\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tat forkaste det onde\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog vælge det gode,",
       "number": 15,
+      "text": "\t\t\t\t\t\t\t\t\t\t\tTykmælk og honning skal han spise\t\t\t\t\t\t\t\t\t\t\t\t\tfor at han skal forstå\t\t\t\t\t\t\t\t\t\t\t\t\t\tat forkaste det onde\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog vælge det gode,",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tfor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tinden drengen forstår\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tat forkaste det onde\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog vælge det gode,\n\t\t\t\t\t\t\t\t\t\t\t\t\tskal det land,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\thvis to konger du gruer for, blive forladt.",
       "number": 16,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tfor\t\t\t\t\t\t\t\t\t\t\t\t\t\tinden drengen forstår\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tat forkaste det onde\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog vælge det gode,\t\t\t\t\t\t\t\t\t\t\t\t\tskal det land,\t\t\t\t\t\t\t\t\t\t\t\t\t\thvis to konger du gruer for, blive forladt.",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tOver dig og over dit folk og over din fars hus skal JHVH lade dage komme\n\t\t\t\t\t\t\t\t\t\tder ikke har været siden den dag\n\t\t\t\t\t\t\t\t\t\t\tEfraim faldt fra Juda –",
       "number": 17,
+      "text": "\t\t\t\t\t\t\t\tOver dig og over dit folk og over din fars hus skal JHVH lade dage komme\t\t\t\t\t\t\t\t\t\tder ikke har været siden den dag\t\t\t\t\t\t\t\t\t\t\tEfraim faldt fra Juda –9Assyriens konge.",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\tPå den dag\n\t\t\t\t\t\t\tskal JHVH fløjte ad fluerne\f\n\t\t\t\t\t\t\t\t\t\tved enden af Egyptens floder\f\n\t\t\t\t\t\t\t\t\tog ad bierne\n\t\t\t\t\t\t\t\t\t\ti Assyriens land,",
       "number": 18,
+      "text": "\f\t\t\t\t\tPå den dag\t\t\t\t\t\t\tskal JHVH fløjte ad fluerne\f\t\t\t\t\t\t\t\t\t\tved enden af Egyptens floder\f\t\t\t\t\t\t\t\t\tog ad bierne\t\t\t\t\t\t\t\t\t\ti Assyriens land,",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\tog de skal komme,\n\t\t\t\t\t\t\t\t\tog de skal alle slå sig ned\fi dalslugterne og klipperevnerne,\fi alle tornebuskene og ved alle vandingsstederne.\n\n",
       "number": 19,
+      "text": "\f\t\t\t\t\t\t\t\tog de skal komme,\t\t\t\t\t\t\t\t\tog de skal alle slå sig ned\fi dalslugterne og klipperevnerne,\fi alle tornebuskene og ved alle vandingsstederne.\f\n",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\t\tPå den dag skal Herren barbere hovedet og hårene på underkroppen med en barberkniv,\fsom han har lejet på den anden side af floden, hos kongen af Assyrien,\f\n\t\t\t\t\t\t\tog den skal også helt fjerne skægget.\n\n",
       "number": 20,
+      "text": "\f\t\t\t\t\t\tPå den dag skal Herren barbere hovedet og hårene på underkroppen med en barberkniv,\fsom han har lejet på den anden side af floden, hos kongen af Assyrien,\f\t\t\t\t\t\t\tog den skal også helt fjerne skægget.\f\n",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fødderne«.",
+          "position": 71
+        }
+      ],
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\tPå den dag\n\t\t\t\t\t\tskal en mand lade en kviekalv og to får leve",
       "number": 21,
+      "text": "\f\t\t\t\t\tPå den dag\t\t\t\t\t\tskal en mand lade en kviekalv og to får leve",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\tfordi de giver så meget\n\t\t\t\t\t\t\t\t\t\tmælk\n\t\t\t\t\t\t\t\t\tat han kan spise tykmælk;\f\n\t\t\t\t\t\t\t\tfor enhver der bliver tilbage i landet,\n\t\t\t\t\t\t\tskal spise tykmælk og honning.\n\n",
       "number": 22,
+      "text": "\f\t\t\t\t\t\t\t\tfordi de giver så meget\t\t\t\t\t\t\t\t\t\tmælk\t\t\t\t\t\t\t\t\tat han kan spise tykmælk;\f\t\t\t\t\t\t\t\tfor enhver der bliver tilbage i landet,\t\t\t\t\t\t\tskal spise tykmælk og honning.\f\n",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\tPå den dag\n\t\t\t\t\t\tskal hvert sted\n\t\t\t\t\t\t\t\t\t\thvor der var tusind vinstokke\f\n\t\t\t\t\t\t\t\t\ttil en værdi af tusind sekel sølv,\fblive til torn og tidsel.",
       "number": 23,
+      "text": "\f\t\t\t\t\tPå den dag\t\t\t\t\t\tskal hvert sted\t\t\t\t\t\t\t\t\t\thvor der var tusind vinstokke\f\t\t\t\t\t\t\t\t\ttil en værdi af tusind sekel sølv,\fblive til torn og tidsel.",
       "version": 1668034800000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\tMan skal gå derhen med bue og pil,\f\n\t\t\t\t\t\t\t\t\tfor hele landet skal blive til torn og tidsel.\f\n\t\t\t\t\t\t\t25 Og alle bjergene\n\t\t\t\t\t\t\t\t\t\thvor man hakker med hakke,\f\n\t\t\t\t\t\t\t\t\tskal man ikke gå til af frygt for torne og tidsler.\f\n\t\t\t\t\t\t\t\tDe skal kun være til at slippe kvæg løs på\fog til at blive trådt ned af får.",
       "number": 24,
+      "text": "\f\t\t\t\t\t\t\t\tMan skal gå derhen med bue og pil,\f\t\t\t\t\t\t\t\t\tfor hele landet skal blive til torn og tidsel.\f\t\t\t\t\t\t\t25 Og alle bjergene\t\t\t\t\t\t\t\t\t\thvor man hakker med hakke,\f\t\t\t\t\t\t\t\t\tskal man ikke gå til af frygt for torne og tidsler.\f\t\t\t\t\t\t\t\tDe skal kun være til at slippe kvæg løs på\fog til at blive trådt ned af får.",
       "version": 1668034800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Løftet om et tegn",
-      "verse": 1,
-      "version": 1668034800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Shearjashub betyder »en rest skal vende om«.",
-      "type": "T",
-      "verse": 3,
-      "position": 74
-    },
-    {
-      "text": "Sidste del af vers 9 bygger på et ordspil på *ˀᵃman*, der kan oversættes med troværdig, trofast og bekræfte. Første del af ordspillet er aktivt, dvs. det handler om Efraims trofasthed, mens anden del er passiv, dvs. det handler om en trofasthed mod eller bekræftelse af Efraim, sandsynligvis Guds fortsatte trofasthed mod Efraim.",
-      "type": "E",
-      "verse": 9,
-      "position": 162
-    },
-    {
-      "text": "Immanuel betyder »Gud med os«.",
-      "type": "T",
-      "verse": 14,
-      "position": 155
-    },
-    {
-      "text": "Ordret: »fødderne«.",
-      "type": "T",
-      "verse": 20,
-      "position": 71
     }
   ]
 }

@@ -5,101 +5,85 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang.\fDe bekæmpede mig hårdt fra min ungdom af\f– sådan skal Israel sige –",
       "number": 1,
+      "text": "Valfartssang.\fDe bekæmpede mig hårdt fra min ungdom af\f– sådan skal Israel sige –",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fde bekæmpede mig hårdt fra min ungdom af,\fog dog kunne de ikke overvinde mig.",
       "number": 2,
+      "text": "\fde bekæmpede mig hårdt fra min ungdom af,\fog dog kunne de ikke overvinde mig.",
+      "title": "Gud har bevaret sit folk",
       "version": 1504476000000
     },
     {
-      "text": "\fPå min ryg pløjede plovmænd,\fde trak deres furer lange.",
       "number": 3,
+      "text": "\fPå min ryg pløjede plovmænd,\fde trak deres furer lange.",
+      "footnotes": [
+        {
+          "text": "E: Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: »(plov)furer«.",
+          "position": 49
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fJHVH er retfærdig,\fhan huggede de ugudeliges reb over.",
       "number": 4,
+      "text": "\fJHVH er retfærdig,\fhan huggede de ugudeliges reb over.",
       "version": 1504476000000
     },
     {
-      "text": "\fDe skal blive til skamme og vige tilbage,\falle de som hader Zion.",
       "number": 5,
+      "text": "\fDe skal blive til skamme og vige tilbage,\falle de som hader Zion.",
+      "title": "Tillid til Guds sejr",
+      "footnotes": [
+        {
+          "text": "E: Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: »Lad dem blive til skamme … Lad dem blive som græs …«.",
+          "position": 14
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fDe skal blive som græs på tagene,\fsom er visnet før man har nået at rykke det op,",
       "number": 6,
+      "text": "\fDe skal blive som græs på tagene,\fsom er visnet før man har nået at rykke det op,",
+      "footnotes": [
+        {
+          "text": "E: Andre oversætter: »før det når at skyde op«. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (»som er visnet før man har nået at rykke det op«) til: *šeqqādim tišdōf*: »som østenvinden udtørrer«. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
+          "position": 82
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fsom høstmanden ikke får fyldt sin hånd med,\fog heller ikke den som binder neg, sin favn.",
       "number": 7,
+      "text": "\fsom høstmanden ikke får fyldt sin hånd med,\fog heller ikke den som binder neg, sin favn.",
       "version": 1504476000000
     },
     {
-      "text": "\fOg de som går forbi, siger ikke:\f»JHVHs velsignelse være med jer!«\fVi velsigner jer i JHVHs navn.",
       "number": 8,
+      "text": "\fOg de som går forbi, siger ikke:\f»JHVHs velsignelse være med jer!«\fVi velsigner jer i JHVHs navn.",
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "Gud har bevaret sit folk",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Tillid til Guds sejr",
-      "verse": 5,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: »(plov)furer«.",
-      "type": "E",
-      "verse": 3,
-      "position": 49
-    },
-    {
-      "text": "Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: »Lad dem blive til skamme … Lad dem blive som græs …«.",
-      "type": "E",
-      "verse": 5,
-      "position": 14
-    },
-    {
-      "text": "Andre oversætter: »før det når at skyde op«. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (»som er visnet før man har nået at rykke det op«) til: *šeqqādim tišdōf*: »som østenvinden udtørrer«. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
-      "type": "E",
-      "verse": 6,
-      "position": 82
     }
   ]
 }

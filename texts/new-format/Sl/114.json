@@ -5,94 +5,74 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fDa Israel drog ud af Egypten,\fJakobs hus fra et folk, som havde et uforståeligt sprog,",
       "number": 1,
+      "text": "Da Israel drog ud af Egypten,\fJakobs hus fra et folk, som havde et uforståeligt sprog,",
+      "title": "Folkets genfødelse ved udgangen fra Egypten",
       "version": 1499983200000
     },
     {
-      "text": "\fda blev Juda til hans helligdom,\fIsrael til hans herredømme.",
       "number": 2,
+      "text": "\fda blev Juda til hans helligdom,\fIsrael til hans herredømme.",
+      "footnotes": [
+        {
+          "text": "T: Grundtekstens: *mamšlôtāʸw* (»herredømme«) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
+          "position": 61
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fHavet så og flygtede,\fJordan vendte om og løb baglæns,",
       "number": 3,
+      "text": "\fHavet så og flygtede,\fJordan vendte om og løb baglæns,",
+      "title": "Guds undere",
       "version": 1499983200000
     },
     {
-      "text": "\fbjergene sprang som væddere,\fhøje som kid og lam.",
       "number": 4,
+      "text": "\fbjergene sprang som væddere,\fhøje som kid og lam.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »som småkvægs afkom«.",
+          "position": 50
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fHvad er der med dig, du hav, siden du flygtede,\fdu, Jordan, siden du vendte om og løb baglæns,",
       "number": 5,
+      "text": "\fHvad er der med dig, du hav, siden du flygtede,\fdu, Jordan, siden du vendte om og løb baglæns,",
+      "title": "Hvorfor?",
       "version": 1499983200000
     },
     {
-      "text": "\fI bjerge, siden I hoppede som væddere,\fI høje, som kid og lam?",
       "number": 6,
+      "text": "\fI bjerge, siden I hoppede som væddere,\fI høje, som kid og lam?",
       "version": 1499983200000
     },
     {
-      "text": "\fSkælv, du jord, for Herrens ansigt,\ffor Jakobs Guds ansigt,",
       "number": 7,
+      "text": "\fSkælv, du jord, for Herrens ansigt,\ffor Jakobs Guds ansigt,",
+      "title": "Herren er den mægtige",
       "version": 1499983200000
     },
     {
-      "text": "\fham som forvandler klippen til en vanddam,\fflint til et kildevæld!",
       "number": 8,
+      "text": "\fham som forvandler klippen til en vanddam,\fflint til et kildevæld!",
       "version": 1499983200000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Folkets genfødelse ved udgangen fra Egypten",
-      "verse": 1,
-      "version": 1499983200000
-    },
-    {
-      "text": "Guds undere",
-      "verse": 3,
-      "version": 1499983200000
-    },
-    {
-      "text": "Hvorfor?",
-      "verse": 5,
-      "version": 1499983200000
-    },
-    {
-      "text": "Herren er den mægtige",
-      "verse": 7,
-      "version": 1499983200000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Grundtekstens: *mamšlôtāʸw* (»herredømme«) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
-      "type": "T",
-      "verse": 2,
-      "position": 61
-    },
-    {
-      "text": "Ordret: »som småkvægs afkom«.",
-      "type": "T",
-      "verse": 4,
-      "position": 50
     }
   ]
 }

@@ -5,68 +5,99 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Christian Højgaard",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Christian Højgaard"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fJeg løftede atter mine øjne og fik øje på en flyvende skriftrulle. v2 Han sagde til mig: »Hvad ser du?« og jeg sagde: »Jeg ser en flyvende skriftrulle. Dens længde er tyve alen, og dens bredde er 10 alen.« v3 Da sagde han til mig: »Dette er den forbandelse, som udgår over hele landet, for enhver der stjæler, skal i henhold til den udryddes herfra, og enhver som sværger, skal i henhold til den udryddes derfra. v4 Jeg lod den udgå, siger Hærskarers JHVHv, og den skal komme til tyvens hus og huset hos den som sværger falsk ved mit navn. Den skal blive natten over i hans hus og fortære det; både dets tømmer og dets sten.«",
       "number": 1,
+      "text": "\fJeg løftede atter mine øjne og fik øje på en flyvende skriftrulle.",
+      "title": "Synet om den flyvende skriftrulle",
       "version": 1472594400000
     },
     {
-      "text": "\fEnglen, som talte med mig, gik frem og sagde til mig: »Løft dine øjne og se hvad det er som kommer til syne v6 Jeg sagde: »Hvad er det?« og han sagde: »Dette er den efa, som er kommet til syne.« Og han sagde: »Dette er deres øjne i hele landet.« v7 Og se, et låg af bly blev løftet op, og der var en kvinde, der sad midt i efaen. v8 Han sagde: »Dette er ugudeligheden,« og han kastede hende ned i efaen og kastede blyvægten for dens åbning. v9 Jeg løftede mine øjne og så to kvinder komme til syne. Der var vind i deres vinger, og de havde vinger som storkevinger. De løftede efaen op mellem jorden og himlen. v10 Jeg sagde til englen, som talte med mig: »Hvor fører de efaen hen?« v11: Og han sagde til mig: »Hen for at bygge et hus til hende i landet Sinear, så hun kan sættes der på sit sted, når det er opført.«",
+      "number": 2,
+      "text": "Han sagde til mig: »Hvad ser du?« og jeg sagde: »Jeg ser en flyvende skriftrulle. Dens længde er tyve alen, og dens bredde er 10 alen.«",
+      "footnotes": [
+        {
+          "text": "T: En alen svarer til cirka 50 cm.",
+          "position": 135
+        }
+      ],
+      "version": 1472594400000
+    },
+    {
+      "number": 3,
+      "text": "Da sagde han til mig: »Dette er den forbandelse, som udgår over hele landet, for enhver der stjæler, skal i henhold til den udryddes herfra, og enhver som sværger, skal i henhold til den udryddes derfra.",
+      "version": 1472594400000
+    },
+    {
+      "number": 4,
+      "text": "Jeg lod den udgå, siger Hærskarers JHVHv, og den skal komme til tyvens hus og huset hos den som sværger falsk ved mit navn. Den skal blive natten over i hans hus og fortære det; både dets tømmer og dets sten.«",
+      "version": 1472594400000
+    },
+    {
       "number": 5,
+      "text": "\fEnglen, som talte med mig, gik frem og sagde til mig: »Løft dine øjne og se hvad det er som kommer til syne",
+      "title": "Synet om kvinden i efaen",
+      "footnotes": [
+        {
+          "text": "E: *yaṣaˀ* betyder oftest »går ud«, men dækker et bredt betydningsspektrum. I denne sammenhæng giver det mest mening at forstå det som noget, som kommer til syne.",
+          "position": 108
+        }
+      ],
       "version": 1472594400000
-    }
-  ],
-  "titles": [
+    },
     {
-      "text": "Synet om den flyvende skriftrulle",
-      "verse": 1,
+      "number": 6,
+      "text": "Jeg sagde: »Hvad er det?« og han sagde: »Dette er den efa, som er kommet til syne.« Og han sagde: »Dette er deres øjne i hele landet.«",
+      "footnotes": [
+        {
+          "text": "T: En efa er et målebæger, der ofte blev brugt til at måle korn op med. En efa svarer til cirka 23 liter.",
+          "position": 58
+        },
+        {
+          "text": "E: Enkelte manuskripter, herunder LXX, har »ondskab«, der på hebraisk næsten er identisk med »øjne«. Men det er til gengæld svært at forklare, hvorfor en skribent skulle have rettet fra »ondskab« til »øjne«, så »øjne« er sandsynligvis det originale. Det kan også oversættes i retning af »udseende«, hvormed efaen forstås som ugudelighedens udseende.",
+          "position": 118
+        }
+      ],
       "version": 1472594400000
     },
     {
-      "text": "Synet om kvinden i efaen",
-      "verse": 2,
+      "number": 7,
+      "text": "Og se, et låg af bly blev løftet op, og der var en kvinde, der sad midt i efaen.",
       "version": 1472594400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "En alen svarer til cirka 50 cm.",
-      "type": "T",
-      "verse": 1,
-      "position": 206
     },
     {
-      "text": "*yaṣaˀ* betyder oftest »går ud«, men dækker et bredt betydningsspektrum. I denne sammenhæng giver det mest mening at forstå det som noget, som kommer til syne.",
-      "type": "E",
-      "verse": 5,
-      "position": 108
+      "number": 8,
+      "text": "Han sagde: »Dette er ugudeligheden,« og han kastede hende ned i efaen og kastede blyvægten for dens åbning.",
+      "version": 1472594400000
     },
     {
-      "text": "En efa er et målebæger, der ofte blev brugt til at måle korn op med. En efa svarer til cirka 23 liter.",
-      "type": "T",
-      "verse": 5,
-      "position": 170
+      "number": 9,
+      "text": "Jeg løftede mine øjne og så to kvinder komme til syne. Der var vind i deres vinger, og de havde vinger som storkevinger. De løftede efaen op mellem jorden og himlen.",
+      "version": 1472594400000
     },
     {
-      "text": "Enkelte manuskripter, herunder LXX, har »ondskab«, der på hebraisk næsten er identisk med »øjne«. Men det er til gengæld svært at forklare, hvorfor en skribent skulle have rettet fra »ondskab« til »øjne«, så »øjne« er sandsynligvis det originale. Det kan også oversættes i retning af »udseende«, hvormed efaen forstås som ugudelighedens udseende.",
-      "type": "E",
-      "verse": 5,
-      "position": 230
+      "number": 10,
+      "text": "Jeg sagde til englen, som talte med mig: »Hvor fører de efaen hen?«",
+      "version": 1472594400000
     },
     {
-      "text": "Sinear er et andet navn for Babylon.",
-      "type": "T",
-      "verse": 5,
-      "position": 761
+      "number": 11,
+      "text": "Og han sagde til mig: »Hen for at bygge et hus til hende i landet Sinear, så hun kan sættes der på sit sted, når det er opført.«",
+      "footnotes": [
+        {
+          "text": "T: Sinear er et andet navn for Babylon.",
+          "position": 73
+        }
+      ],
+      "version": 1472594400000
     }
   ]
 }

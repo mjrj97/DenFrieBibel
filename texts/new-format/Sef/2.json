@@ -5,187 +5,161 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     }
   ],
   "verses": [
     {
-      "text": "\fSaml dig, ja saml dig, du skamløse folk!",
       "number": 1,
+      "text": "\fSaml dig, ja saml dig, du skamløse folk!",
+      "title": "Kald til omvendelse",
       "version": 1518476400000
     },
     {
-      "text": "\fFørend beslutningen bliver udført\f– dagen forsvinder som avner –\fførend JHVHs brændende vrede kommer over jer,\fførend JHVHs vredes dag kommer over jer!",
       "number": 2,
+      "text": "\fFørend beslutningen bliver udført\f– dagen forsvinder som avner –\fførend JHVHs brændende vrede kommer over jer,\fførend JHVHs vredes dag kommer over jer!",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes med »ligesom avner forsvinder (på en) dag«, dvs. med »avner« som subjekt.",
+          "position": 63
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fSøg JHVH, alle I ydmyge i landet som holder hans bud!\fSøg retfærdighed, søg ydmyghed,\fmåske kan I blive skjult på JHVHs vredes dag!",
       "number": 3,
+      "text": "\fSøg JHVH, alle I ydmyge i landet som holder hans bud!\fSøg retfærdighed, søg ydmyghed,\fmåske kan I blive skjult på JHVHs vredes dag!",
       "version": 1518476400000
     },
     {
-      "text": "\fFor Gaza skal blive forladt,\fog Ashkalon skal blive lagt øde;\fAshdod skal blive drevet ud midt på dagen,\fEkron skal blive rykket op.",
       "number": 4,
+      "text": "\fFor Gaza skal blive forladt,\fog Ashkalon skal blive lagt øde;\fAshdod skal blive drevet ud midt på dagen,\fEkron skal blive rykket op.",
+      "footnotes": [
+        {
+          "text": "E: Ordret »Ashdod, de vil drive hende ud«.",
+          "position": 90
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fVe jer, I kystlandets indbyggere, kreternes folk!\fJHVHs ord er over dig, du Kana'an, filistrenes land!\fJeg vil ødelægge dig så ingen skal bo der.",
       "number": 5,
+      "text": "\fVe jer, I kystlandets indbyggere, kreternes folk!\fJHVHs ord er over dig, du Kana'an, filistrenes land!\fJeg vil ødelægge dig så ingen skal bo der.",
+      "title": "Dommen over nabofolkene",
       "version": 1518476400000
     },
     {
-      "text": "\fKystlandet skal blive til græsgange med brønde for hyrder og indhegninger til får.",
       "number": 6,
+      "text": "\fKystlandet skal blive til græsgange med brønde for hyrder og indhegninger til får.",
+      "footnotes": [
+        {
+          "text": "E: Ordret »hyrders brøndes græsgange og fåreflokkes indhegninger.« Konstruktionen er vanskelig, men det kan måske forklares ved at *kᵊrōt* »brønde« danner ordspil med *kᵊrētîm* »kreterne«. Kreternes bolig skal blive til hyrdernes græsgange.",
+          "position": 83
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fKysten skal tilhøre de tiloversblevne af Judas hus;\fpå den skal de græsse.\fI Ashkalons huse skal de hvile om aftenen,\ffor JHVH, deres Gud, skal besøge dem og omvende deres fangenskab.",
       "number": 7,
+      "text": "Kysten skal tilhøre de tiloversblevne af Judas hus;\fpå den skal de græsse.\fI Ashkalons huse skal de hvile om aftenen,\ffor JHVH, deres Gud, skal besøge dem og omvende deres fangenskab.",
+      "footnotes": [
+        {
+          "text": "E: Ordret »Judas hus' rest«.",
+          "position": 51
+        },
+        {
+          "text": "E: Her bruges samme ord *fqd* som i 1,7.9.12, men nu vendes udtrykket om til noget positivt.",
+          "position": 150
+        },
+        {
+          "text": "E: »omvende deres fangenskab« oversættes andre steder med »vende deres skæbne«. »Fangenskab« er en mere præcis oversættelse, og meningen er at Gud vender deres fangenskab til frihed.",
+          "position": 183
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fJeg har hørt Moabs spot og ammonitternes forhånelser,\fhvormed de spottede mit folk og udvidede ud over deres grænser.",
       "number": 8,
+      "text": "\fJeg har hørt Moabs spot og ammonitternes forhånelser,\fhvormed de spottede mit folk og udvidede ud over deres grænser.",
+      "footnotes": [
+        {
+          "text": "E: *wayyagdîlû ʕal*, der her er oversat med »udvidede«, oversættes andre steder i GT med »pralede/gjorde sig store«. I denne sammenhæng hænger det dog sammen med grænser, og der er sandsynligvis tale om udvidelse af landområde.",
+          "position": 118
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fDerfor, så sandt jeg lever, siger hærskarers JHVHv, Israels Gud:\fMoab skal blive som Sodoma og ammonitterne som Gomorra,\fet hjem for ukrudt,\fen saltgrube og en ødemark til evig tid.\fMit folks rest skal plyndre dem,\fog resten af mit folk skal tage dem i eje.",
       "number": 9,
+      "text": "\fDerfor, så sandt jeg lever, siger hærskarers JHVHv, Israels Gud:\fMoab skal blive som Sodoma og ammonitterne som Gomorra,\fet hjem for ukrudt,\fen saltgrube og en ødemark til evig tid.\fMit folks rest skal plyndre dem,\fog resten af mit folk skal tage dem i eje.",
+      "footnotes": [
+        {
+          "text": "E: Det er uklart, hvilken slags ukrudt der er tale om. Der kan være tale om tidsler eller brændenælder.",
+          "position": 141
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fDette skal ske dem på grund af deres hovmod,\ffordi de hånede og bar sig overmodigt ad over for Hærskarers JHVHvs folk.",
       "number": 10,
+      "text": "\fDette skal ske dem på grund af deres hovmod,\ffordi de hånede og bar sig overmodigt ad over for Hærskarers JHVHvs folk.",
       "version": 1518476400000
     },
     {
-      "text": "\fJHVH skal være frygtelig mod dem,\ffor han skal lade alle jordens guder sygne hen.\fDe skal tilbede ham fra alle folkenes øer, enhver fra sit sted.",
       "number": 11,
+      "text": "\fJHVH skal være frygtelig mod dem,\ffor han skal lade alle jordens guder sygne hen.\fDe skal tilbede ham fra alle folkenes øer, enhver fra sit sted.",
       "version": 1518476400000
     },
     {
-      "text": "\fOgså jer, kushitter, de er slået ihjel ved mit sværd.",
       "number": 12,
+      "text": "\fOgså jer, kushitter, de er slået ihjel ved mit sværd.",
       "version": 1518476400000
     },
     {
-      "text": "\fHan skal også strække sin hånd ud mod norden og ødelægge Assyrien;\fhan skal gøre Nineve til en ødemark, til et tørt land som ørkenen.",
       "number": 13,
+      "text": "\fHan skal også strække sin hånd ud mod norden og ødelægge Assyrien;\fhan skal gøre Nineve til en ødemark, til et tørt land som ørkenen.",
       "version": 1518476400000
     },
     {
-      "text": "\fFlokke af dyr skal ligge midt i den, alle slags vilde dyr,\fbåde pelikan og pindsvin skal tilbringe natten på dens søjlehoveder.\fEn stemme tuder i et vindue; grus ligger over dørtærsklen, for han har blottet dens cederpanel.",
       "number": 14,
+      "text": "\fFlokke af dyr skal ligge midt i den, alle slags vilde dyr,\fbåde pelikan og pindsvin skal tilbringe natten på dens søjlehoveder.\fEn stemme tuder i et vindue; grus ligger over dørtærsklen, for han har blottet dens cederpanel.",
+      "footnotes": [
+        {
+          "text": "T: Dvs. Nineve.",
+          "position": 37
+        },
+        {
+          "text": "E: Ordret »alle folkenes vilde dyr«.",
+          "position": 59
+        },
+        {
+          "text": "E: LXX oversætter med »kamelæon«, men både Peshitta og Vulgata oversætter med »pelikan«. Det kan også være en ugleart.",
+          "position": 72
+        },
+        {
+          "text": "E: Peshitta oversætter med »ugle«, men »pindsvin« er den mest traditionelle oversættelse.",
+          "position": 84
+        },
+        {
+          "text": "E: Eller »synger«.",
+          "position": 144
+        },
+        {
+          "text": "E: Eller »ruiner«.",
+          "position": 162
+        }
+      ],
       "version": 1518476400000
     },
     {
-      "text": "\fDette er den jublende by som boede trygt,\fog som sagde i sit hjerte: »Jeg og ingen uden mig.«\fHvordan er den blevet til en ødemark,\fet hvilested for vilde dyr?\fEnhver som går forbi den, vil pifte hånligt og ryste hånden.",
       "number": 15,
+      "text": "\fDette er den jublende by som boede trygt,\fog som sagde i sit hjerte: »Jeg og ingen uden mig.«\fHvordan er den blevet til en ødemark,\fet hvilested for vilde dyr?\fEnhver som går forbi den, vil pifte hånligt og ryste hånden.",
       "version": 1518476400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Kald til omvendelse",
-      "verse": 1,
-      "version": 1518476400000
-    },
-    {
-      "text": "Dommen over nabofolkene",
-      "verse": 5,
-      "version": 1518476400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes med »ligesom avner forsvinder (på en) dag«, dvs. med »avner« som subjekt.",
-      "type": "E",
-      "verse": 2,
-      "position": 63
-    },
-    {
-      "text": "Ordret »Ashdod, de vil drive hende ud«.",
-      "type": "E",
-      "verse": 4,
-      "position": 90
-    },
-    {
-      "text": "Ordret »hyrders brøndes græsgange og fåreflokkes indhegninger.« Konstruktionen er vanskelig, men det kan måske forklares ved at *kᵊrōt* »brønde« danner ordspil med *kᵊrētîm* »kreterne«. Kreternes bolig skal blive til hyrdernes græsgange.",
-      "type": "E",
-      "verse": 6,
-      "position": 83
-    },
-    {
-      "text": "Ordret »Judas hus' rest«.",
-      "type": "E",
-      "verse": 7,
-      "position": 52
-    },
-    {
-      "text": "Her bruges samme ord *fqd* som i 1,7.9.12, men nu vendes udtrykket om til noget positivt.",
-      "type": "E",
-      "verse": 7,
-      "position": 151
-    },
-    {
-      "text": "»omvende deres fangenskab« oversættes andre steder med »vende deres skæbne«. »Fangenskab« er en mere præcis oversættelse, og meningen er at Gud vender deres fangenskab til frihed.",
-      "type": "E",
-      "verse": 7,
-      "position": 184
-    },
-    {
-      "text": "*wayyagdîlû ʕal*, der her er oversat med »udvidede«, oversættes andre steder i GT med »pralede/gjorde sig store«. I denne sammenhæng hænger det dog sammen med grænser, og der er sandsynligvis tale om udvidelse af landområde.",
-      "type": "E",
-      "verse": 8,
-      "position": 118
-    },
-    {
-      "text": "Det er uklart, hvilken slags ukrudt der er tale om. Der kan være tale om tidsler eller brændenælder.",
-      "type": "E",
-      "verse": 9,
-      "position": 141
-    },
-    {
-      "text": "Dvs. Nineve.",
-      "type": "T",
-      "verse": 14,
-      "position": 37
-    },
-    {
-      "text": "Ordret »alle folkenes vilde dyr«.",
-      "type": "E",
-      "verse": 14,
-      "position": 59
-    },
-    {
-      "text": "LXX oversætter med »kamelæon«, men både Peshitta og Vulgata oversætter med »pelikan«. Det kan også være en ugleart.",
-      "type": "E",
-      "verse": 14,
-      "position": 72
-    },
-    {
-      "text": "Peshitta oversætter med »ugle«, men »pindsvin« er den mest traditionelle oversættelse.",
-      "type": "E",
-      "verse": 14,
-      "position": 84
-    },
-    {
-      "text": "Eller »synger«.",
-      "type": "E",
-      "verse": 14,
-      "position": 144
-    },
-    {
-      "text": "Eller »ruiner«.",
-      "type": "E",
-      "verse": 14,
-      "position": 162
     }
   ]
 }

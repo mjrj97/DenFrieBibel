@@ -5,129 +5,109 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
       "number": 1,
+      "text": "Til korlederen.\fAf Koras sønner. En salme.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fAlle folkeslag, klap i hænderne,\fjubel for Gud med frydefuld røst.",
       "number": 2,
+      "text": "\fAlle folkeslag, klap i hænderne,\fjubel for Gud med frydefuld røst.",
+      "title": "Lovprisning af den sejrende Gud",
+      "footnotes": [
+        {
+          "text": "T: Grundteksten har blot: »klap hånd«.",
+          "position": 33
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fFor JHVH, den Højeste, er frygtindgydende,\fen stor konge over hele jorden.",
       "number": 3,
+      "text": "\fFor JHVH, den Højeste, er frygtindgydende,\fen stor konge over hele jorden.",
       "version": 1457218800000
     },
     {
-      "text": "\fHan lægger folk under os,\fja, nationer under vore fødder.",
       "number": 4,
+      "text": "\fHan lægger folk under os,\fja, nationer under vore fødder.",
       "version": 1457218800000
     },
     {
-      "text": "\fHan udvælger vor arvelod til os,\fJakobs stolthed, som han elsker. Sela",
       "number": 5,
+      "text": "\fHan udvælger vor arvelod til os,\fJakobs stolthed, som han elsker. Sela",
+      "footnotes": [
+        {
+          "text": "N: Sela",
+          "position": 71
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fGud er draget op under jubelråb,\fJHVH til hornklang.",
       "number": 6,
+      "text": "\fGud er draget op under jubelråb,\fJHVH til hornklang.",
+      "title": "Lovprisningen af den almægtige konge",
       "version": 1457218800000
     },
     {
-      "text": "\fSyng for Gud, syng!\fSyng for vor konge, syng!",
       "number": 7,
+      "text": "\fSyng for Gud, syng!\fSyng for vor konge, syng!",
       "version": 1457218800000
     },
     {
-      "text": "\fFor Gud er hele jordens konge,\fsyng en maskil!",
       "number": 8,
+      "text": "\fFor Gud er hele jordens konge,\fsyng en maskil!",
+      "footnotes": [
+        {
+          "text": "T: Se note til overskriften til Sl 45. Her ofte oversat »hyldestsang«.",
+          "position": 47
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fGud er blevet konge over folkeslagene,\fGud har taget sæde på sin hellige trone.",
       "number": 9,
+      "text": "\fGud er blevet konge over folkeslagene,\fGud har taget sæde på sin hellige trone.",
       "version": 1457218800000
     },
     {
-      "text": "\fFolkenes fyrster er samlet,\fAbrahams Guds folk,\ffor jordens skjolde tilhører Gud,\fhøjt ophøjet.",
       "number": 10,
+      "text": "\fFolkenes fyrster er samlet,\fAbrahams Guds folk,\ffor jordens skjolde tilhører Gud,\fhøjt ophøjet.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »fornemme«.",
+          "position": 17
+        },
+        {
+          "text": "E: Linjen begynder på hebraisk med ordet: *ʕam* (»folk«) der har samme konsonanter som ordet: *ʕim* (»med«). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: »med Abrahams Guds fok«.",
+          "position": 48
+        },
+        {
+          "text": "E: I stedet for *māginnê-* (»skjolde«) har bl.a. Septuaginta enten forstået ordet billedligt som »herskere« eller har evt. læst *signê-*: »herskere«. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
+          "position": 68
+        }
+      ],
       "version": 1457218800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1457218800000
-    },
-    {
-      "text": "Lovprisning af den sejrende Gud",
-      "verse": 2,
-      "version": 1457218800000
-    },
-    {
-      "text": "Lovprisningen af den almægtige konge",
-      "verse": 6,
-      "version": 1457218800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Grundteksten har blot: »klap hånd«.",
-      "type": "T",
-      "verse": 2,
-      "position": 33
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 5,
-      "position": 71
-    },
-    {
-      "text": "Se note til overskriften til Sl 45. Her ofte oversat »hyldestsang«.",
-      "type": "T",
-      "verse": 8,
-      "position": 47
-    },
-    {
-      "text": "Kan også oversættes: »fornemme«.",
-      "type": "T",
-      "verse": 10,
-      "position": 17
-    },
-    {
-      "text": "Linjen begynder på hebraisk med ordet: *ʕam* (»folk«) der har samme konsonanter som ordet: *ʕim* (»med«). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: »med Abrahams Guds fok«.",
-      "type": "E",
-      "verse": 10,
-      "position": 48
-    },
-    {
-      "text": "I stedet for *māginnê-* (»skjolde«) har bl.a. Septuaginta enten forstået ordet billedligt som »herskere« eller har evt. læst *signê-*: »herskere«. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
-      "type": "E",
-      "verse": 10,
-      "position": 68
     }
   ]
 }

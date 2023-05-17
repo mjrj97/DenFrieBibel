@@ -5,87 +5,73 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fJHVH er konge!\fHan har klædt sig i højhed,\fJHVH har klædt sig, har rustet sig med styrke.\fJa, jorden er grundfæstet, den skal ikke rokkes.",
       "number": 1,
+      "text": "JHVH er konge!\fHan har klædt sig i højhed,\fJHVH har klædt sig, har rustet sig med styrke.\fJa, jorden er grundfæstet, den skal ikke rokkes.",
+      "title": "Guds kongedømme er evigt",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »omgjordet sig«.",
+          "position": 77
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDin trone står fast fra ældgammel tid,\ffra evighed er du.",
       "number": 2,
+      "text": "\fDin trone står fast fra ældgammel tid,\ffra evighed er du.",
       "version": 1500242400000
     },
     {
-      "text": "\fStrømme løftede, JHVHv,\fstrømme løftede deres røst,\fstrømme løfter deres drøn.",
       "number": 3,
+      "text": "\fStrømme løftede, JHVHv,\fstrømme løftede deres røst,\fstrømme løfter deres drøn.",
+      "title": "JHVH er kosmisk konge",
+      "footnotes": [
+        {
+          "text": "T: Egentlig om bølgers (voldsomme) brusen.",
+          "position": 79
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFremfor vældige vandes buldren,\fmajestætiske havets brændinger,\fer JHVH majestætisk i det Høje.",
       "number": 4,
+      "text": "\fFremfor vældige vandes buldren, \fmajestætiske havets brændinger,\fer JHVH majestætisk i det Høje.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »røst«.",
+          "position": 32
+        },
+        {
+          "text": "E: Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (»majestætiske/mægtige/herlige«) skal lægges til, om det er foregående linjes »vande« eller denne linjes »brændinger«.",
+          "position": 46
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fJHVHv, i evighed.",
       "number": 5,
+      "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fJHVHv, i evighed. ",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »i dages udstrækning«.",
+          "position": 90
+        }
+      ],
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Guds kongedømme er evigt",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "JHVH er kosmisk konge",
-      "verse": 3,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »omgjordet sig«.",
-      "type": "T",
-      "verse": 1,
-      "position": 78
-    },
-    {
-      "text": "Egentlig om bølgers (voldsomme) brusen.",
-      "type": "T",
-      "verse": 3,
-      "position": 79
-    },
-    {
-      "text": "Ordret: »røst«.",
-      "type": "T",
-      "verse": 4,
-      "position": 32
-    },
-    {
-      "text": "Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (»majestætiske/mægtige/herlige«) skal lægges til, om det er foregående linjes »vande« eller denne linjes »brændinger«.",
-      "type": "E",
-      "verse": 4,
-      "position": 45
-    },
-    {
-      "text": "Ordret: »i dages udstrækning«.",
-      "type": "T",
-      "verse": 5,
-      "position": 90
     }
   ]
 }

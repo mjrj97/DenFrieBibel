@@ -5,130 +5,108 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang.\fFra det dybe råber jeg til dig, JHVHv!",
       "number": 1,
+      "text": "Valfartssang.\fFra det dybe råber jeg til dig, JHVHv!",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        },
+        {
+          "text": "E: Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: »råbte jeg til dig«. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.",
+          "position": 32
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fHerre, hør på min røst,\flad dine ører være opmærksomme\fpå min tryglende røst.",
       "number": 2,
+      "text": "\fHerre, hør på min røst,\flad dine ører være opmærksomme\fpå min tryglende røst.",
+      "title": "Klage",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »på min tryglens (pluralis) røst«",
+          "position": 78
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fHvis du, JHVHv, vil vogte på skyld,\fHerre, hvem kan så bestå?",
       "number": 3,
+      "text": "\fHvis du, JHVHv, vil vogte på skyld,\fHerre, hvem kan så bestå?",
+      "footnotes": [
+        {
+          "text": "T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "position": 16
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fMen hos dig er tilgivelsen\ffor at du må frygtes.",
       "number": 4,
+      "text": "\fMen hos dig er tilgivelsen\ffor at du må frygtes.",
       "version": 1504476000000
     },
     {
-      "text": "\fJeg håber på JHVH,\fmin sjæl håber,\fog jeg venter på hans ord,",
       "number": 5,
+      "text": "\fJeg håber på JHVH,\fmin sjæl håber,\fog jeg venter på hans ord,",
+      "title": "Længselsfuld tillid",
+      "footnotes": [
+        {
+          "text": "E: Verberne i dette vers står i qatal, jf. note til v.1b.",
+          "position": 10
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fmin sjæl venter på Herren\fmere end vægtere på morgenen,\fvægtere på morgenen.",
       "number": 6,
+      "text": "\fmin sjæl venter på Herren\fmere end vægtere på morgenen,\fvægtere på morgenen.",
+      "footnotes": [
+        {
+          "text": "E: Der er ikke noget verbum i linjen. Det må enten underforstås fra foregående linje: »venter« (som fortsættelsen tyder på), eller linjen kan oversættes: »min sjæl er vendt til Herren«.",
+          "position": 16
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fIsrael, vent på JHVH,\ffor hos JHVH er nåden,\fog megen forløsning er hos ham.",
       "number": 7,
+      "text": "\fIsrael, vent på JHVH,\ffor hos JHVH er nåden,\fog megen forløsning er hos ham.",
+      "title": "Salmistens vidnesbyrd",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 44
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fOg han skal forløse Israel\ffra al dets skyld.",
       "number": 8,
+      "text": "\fOg han skal forløse Israel\ffra al dets skyld.",
+      "footnotes": [
+        {
+          "text": "T: Grundtekstens ord står i pluralis, der understreger vægten af »skyld«.",
+          "position": 46
+        }
+      ],
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "Klage",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Længselsfuld tillid",
-      "verse": 5,
-      "version": 1504476000000
-    },
-    {
-      "text": "Salmistens vidnesbyrd",
-      "verse": 7,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: »råbte jeg til dig«. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.",
-      "type": "E",
-      "verse": 1,
-      "position": 33
-    },
-    {
-      "text": "Ordret: »på min tryglens (pluralis) røst«",
-      "type": "T",
-      "verse": 2,
-      "position": 78
-    },
-    {
-      "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
-      "type": "T",
-      "verse": 3,
-      "position": 16
-    },
-    {
-      "text": "Verberne i dette vers står i qatal, jf. note til v.1b.",
-      "type": "E",
-      "verse": 5,
-      "position": 10
-    },
-    {
-      "text": "Der er ikke noget verbum i linjen. Det må enten underforstås fra foregående linje: »venter« (som fortsættelsen tyder på), eller linjen kan oversættes: »min sjæl er vendt til Herren«.",
-      "type": "E",
-      "verse": 6,
-      "position": 16
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 7,
-      "position": 44
-    },
-    {
-      "text": "Grundtekstens ord står i pluralis, der understreger vægten af »skyld«.",
-      "type": "T",
-      "verse": 8,
-      "position": 46
     }
   ]
 }

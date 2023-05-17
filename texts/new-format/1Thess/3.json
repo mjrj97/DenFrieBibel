@@ -1,42 +1,89 @@
 {
-  "book": " Paulus' Første Brev til Thessalonikerne",
+  "book": "Paulus' Første Brev til Thessalonikerne",
   "abbreviation": "1Thess",
   "chapter": 3,
   "translation": 50,
   "contributors": [
     {
-      "name": "Ulrik Sandborg-Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Ulrik Sandborg-Petersen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fDerfor, da vi ikke længere kunne holde det ud, besluttede vi at lades alene tilbage i Athen. v2 Og vi sendte Timotheus, vores broder og medtjener for Gud i Kristi evangelium, for at styrke jer og opmuntre jer i jeres tro, v3 så at ingen skulle blive rystet af disse trængsler; I ved jo selv, at dertil er vi bestemt. v4 For også mens vi var hos jer, forudsagde vi det for jer, at der ville komme forfølgelse, sådan som det også skete, som I jo ved. v5 På grund af dette sendte jeg også bud, da jeg ikke længere kunne holde det ud, for at få besked om jeres tro, at fristeren forhåbentlig ikke havde fristet jer, og vores slid havde været spildt.",
       "number": 1,
+      "text": "Derfor, da vi ikke længere kunne holde det ud, besluttede vi at lades alene tilbage i Athen.",
+      "footnotes": [
+        {
+          "text": "T: Se ApG 17,15.",
+          "position": 92
+        }
+      ],
       "version": 1494540000000
     },
     {
-      "text": "\fMen nu er Timotheus kommet til os fra jer, og har fortalt os de gode nyheder om jeres tro og kærlighed, og om, at I altid husker os for noget godt og længes efter at se os, ligesom vi længes efter at se jer. v7 Derfor er vi blevet trøstet, brødre, over jer og jeres tro, oven på al vores nød og trængsel. v8 For nu lever vi, hvis I står fast i Herren.  v9 For hvilken tak kunne vi bringe Gud for jer til gengæld for al den glæde, som vi glæder os med foran vores Gud, v10 når vi nat og dag overstrømmende beder om at måtte få jeres ansigt at se, og om at få lov at bringe de ting, som mangler i jeres tro, til fuldstændighed?",
+      "number": 2,
+      "text": "Og vi sendte Timotheus, vores broder og medtjener for Gud i Kristi evangelium, for at styrke jer og opmuntre jer i jeres tro,",
+      "version": 1494540000000
+    },
+    {
+      "number": 3,
+      "text": "så at ingen skulle blive rystet af disse trængsler; I ved jo selv, at dertil er vi bestemt.",
+      "version": 1494540000000
+    },
+    {
+      "number": 4,
+      "text": "For også mens vi var hos jer, forudsagde vi det for jer, at der ville komme forfølgelse, sådan som det også skete, som I jo ved.",
+      "version": 1494540000000
+    },
+    {
+      "number": 5,
+      "text": "På grund af dette sendte jeg også bud, da jeg ikke længere kunne holde det ud, for at få besked om jeres tro, at fristeren forhåbentlig ikke havde fristet jer, og vores slid havde været spildt.",
+      "version": 1494540000000
+    },
+    {
       "number": 6,
+      "text": "\fMen nu er Timotheus kommet til os fra jer, og har fortalt os de gode nyheder om jeres tro og kærlighed, og om, at I altid husker os for noget godt og længes efter at se os, ligesom vi længes efter at se jer.",
       "version": 1494540000000
     },
     {
-      "text": "\fMåtte han selv, vores Gud og Far og vores Herre, Jesus Kristus, styre vor vej til jer. v12 Måtte Herren give jer vækst og lade jer strømme over i kærligheden til hinanden og til alle, ligesom vi har den til jer, v13 så at han gør jeres hjerter faste og gør dem ulastelige i hellighed for Gud, vores far, når vor Herre Jesus kommer med alle sine hellige. Amen.",
-      "number": 11,
+      "number": 7,
+      "text": "Derfor er vi blevet trøstet, brødre, over jer og jeres tro, oven på al vores nød og trængsel.",
       "version": 1494540000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
+    },
     {
-      "text": "Se ApG 17,15.",
-      "type": "T",
-      "verse": 1,
-      "position": 93
+      "number": 8,
+      "text": "For nu lever vi, hvis I står fast i Herren.",
+      "version": 1494540000000
+    },
+    {
+      "number": 9,
+      "text": "For hvilken tak kunne vi bringe Gud for jer til gengæld for al den glæde, som vi glæder os med foran vores Gud,",
+      "version": 1494540000000
+    },
+    {
+      "number": 10,
+      "text": "når vi nat og dag overstrømmende beder om at måtte få jeres ansigt at se, og om at få lov at bringe de ting, som mangler i jeres tro, til fuldstændighed?",
+      "version": 1494540000000
+    },
+    {
+      "number": 11,
+      "text": "\fMåtte han selv, vores Gud og Far og vores Herre, Jesus Kristus, styre vor vej til jer.",
+      "version": 1494540000000
+    },
+    {
+      "number": 12,
+      "text": "Måtte Herren give jer vækst og lade jer strømme over i kærligheden til hinanden og til alle, ligesom vi har den til jer,",
+      "version": 1494540000000
+    },
+    {
+      "number": 13,
+      "text": "så at han gør jeres hjerter faste og gør dem ulastelige i hellighed for Gud, vores far, når vor Herre Jesus kommer med alle sine hellige. Amen.",
+      "version": 1494540000000
     }
   ]
 }

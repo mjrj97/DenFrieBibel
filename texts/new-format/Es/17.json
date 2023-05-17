@@ -5,150 +5,134 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fUdsagn om Damaskus.\fSe, Damaskus fjernes fra at være en by,\fog den skal blive en ruinhob.",
       "number": 1,
+      "text": "\fUdsagn om Damaskus. \fSe, Damaskus fjernes fra at være en by, \fog den skal blive en ruinhob.",
+      "title": "Guds dom over Aram og Nordriget",
       "version": 1681336800000
     },
     {
-      "text": "\fAro’ers byer bliver forladt;\fde skal være til fårehjorde,\fog de skal lejre sig der,\fog ingen skræmmer dem.",
       "number": 2,
+      "text": "\fAro’ers byer bliver forladt; \fde skal være til fårehjorde, \fog de skal lejre sig der, \fog ingen skræmmer dem.",
       "version": 1681336800000
     },
     {
-      "text": "\fOg fæstning forsvinder fra Efraim\fog kongedømme fra Damaskus\fog fra resten af Aram;\fde skal blive som Israels børns herlighed,\fsiger Hærskarers HERRE.",
       "number": 3,
+      "text": "\fOg fæstning forsvinder fra Efraim \fog kongedømme fra Damaskus \fog fra resten af Aram; \fde skal blive som Israels børns herlighed, \fsiger Hærskarers HERRE.",
+      "footnotes": [
+        {
+          "text": "N: Hærskarers",
+          "position": 155
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fOg det skal ske på den dag:\fDa skal Jakobs herlighed svinde,\fog hans køds fedme skal svinde ind.",
       "number": 4,
+      "text": "\fOg det skal ske på den dag: \fDa skal Jakobs herlighed svinde, \fog hans køds fedme skal svinde ind.",
       "version": 1681336800000
     },
     {
-      "text": "\fOg det skal gå som når en der høster, samler korn,\fog hans arm skærer aksene af;\fog det skal gå som når man samler aks\fi Refaims Dal.",
       "number": 5,
+      "text": "\fOg det skal gå som når en der høster, samler korn, \fog hans arm skærer aksene af; \fog det skal gå som når man samler aks \fi Refaims Dal.",
       "version": 1681336800000
     },
     {
-      "text": "\fMen der skal blive en efterslæt tilbage dér,\fsom når man slår oliven ned:\fTo-tre bær i trætoppen,\ffire–fem på dets frugtbare kviste,\fsådan er JHVHs, Israels Guds, udsagn.",
       "number": 6,
+      "text": "\fMen der skal blive en efterslæt tilbage dér, \fsom når man slår oliven ned: \fTo-tre bær i trætoppen, \ffire–fem på dets frugtbare kviste, \fsådan er JHVHs, Israels Guds, udsagn.",
       "version": 1681336800000
     },
     {
-      "text": "\fPå den dag skal mennesket se mod sin skaber, og dets øjne skal se hen til Israels Hellige.",
       "number": 7,
+      "text": "\fPå den dag skal mennesket se mod sin skaber, og dets øjne skal se hen til Israels Hellige.",
       "version": 1681336800000
     },
     {
-      "text": "Og det skal ikke se hen til altrene, dets hænders værk; og det dets fingre har lavet, skal det ikke se på, hverken Ashera-pælene eller røgelsesaltrene.",
       "number": 8,
+      "text": "Og det skal ikke se hen til altrene, dets hænders værk; og det dets fingre har lavet, skal det ikke se på, hverken Ashera-pælene eller røgelsesaltrene.",
+      "footnotes": [
+        {
+          "text": "T: Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med »røgelsesalter«. Andre foreslår: »sol-søjler«.",
+          "position": 151
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "På den dag skal dets stærke byer blive som de forladte skove og bjergtoppen, som de har forladt på grund af Israels børn, og der skal blive ørken.",
       "number": 9,
+      "text": "På den dag skal dets stærke byer blive som de forladte skove og bjergtoppen, som de har forladt på grund af Israels børn, og der skal blive ørken.",
+      "footnotes": [
+        {
+          "text": "E: Hebraisk: *kaʕᵃzûvat haḥōreš wᵊhāʔāmîr*. Mange vælger her at følge Septuaginta der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: »som hivvitternes og amoritternes byer«.",
+          "position": 76
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fFor du har glemt din frelses Gud\fog ikke husket på din styrkes klippe;\fderfor planter du skønheders planter\fog sætter en fremmeds vinranker.",
       "number": 10,
+      "text": "\fFor du har glemt din frelses Gud \fog ikke husket på din styrkes klippe; \fderfor planter du skønheders planter \fog sætter en fremmeds vinranker.",
+      "footnotes": [
+        {
+          "text": "E: I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.",
+          "position": 102
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fDen dag du planter, sætter du hegn omkring,\fog om morgenen får du din plantning til at blomstre;\fmen flygtet er høsten på en dag med sygdom\fog ulægelig smerte.",
       "number": 11,
+      "text": "\fDen dag du planter, sætter du hegn omkring, \fog om morgenen får du din plantning til at blomstre; \fmen flygtet er høsten på en dag med sygdom\fog ulægelig smerte.",
+      "footnotes": [
+        {
+          "text": "E: Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: »dæmning«. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: »er flygtet«.",
+          "position": 111
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fVe! Der er larm af mange folkeslag!\fDe larmer, som havenes larmen;\fet bulder af folkefærd!\fDe buldrer som mægtige vandes buldren.",
       "number": 12,
+      "text": "\fVe! Der er larm af mange folkeslag! \fDe larmer, som havenes larmen; \fet bulder af folkefærd! \fDe buldrer som mægtige vandes buldren.",
+      "title": "Ord mod Assur",
       "version": 1681336800000
     },
     {
-      "text": "\fFolkeslag buldrer som mange vandes buldren,\fmen han truer det\fså det flygter langt bort;\fdet jages som avner på bjergene af vind\fog som en kugletidsel af hvirvelvind.",
       "number": 13,
+      "text": "\fFolkeslag buldrer som mange vandes buldren, \fmen han truer det \fså det flygter langt bort; \fdet jages som avner på bjergene af vind \fog som en kugletidsel af hvirvelvind.",
+      "footnotes": [
+        {
+          "text": "E: Denne sætning mangler i mange håndskrifter.",
+          "position": 44
+        },
+        {
+          "text": "T: Teksten her og i det følgende står i singularis, så det må henvise til Assur.",
+          "position": 63
+        },
+        {
+          "text": "T: Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: »hjul«, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.",
+          "position": 155
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fVed aftenstid – se, der er rædsel!\fFørend morgen – de er ikke mere!\fDette er hvad de der plyndrer os, får,\fog deres lod, der røver fra os.",
       "number": 14,
+      "text": "\fVed aftenstid – se, der er rædsel! \fFørend morgen – de er ikke mere! \fDette er hvad de der plyndrer os, får, \fog deres lod, der røver fra os.",
       "version": 1681336800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Guds dom over Aram og Nordriget",
-      "verse": 1,
-      "version": 1681336800000
-    },
-    {
-      "text": "Ord mod Assur",
-      "verse": 12,
-      "version": 1681336800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 3,
-      "position": 151
-    },
-    {
-      "text": "Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med »røgelsesalter«. Andre foreslår: »sol-søjler«.",
-      "type": "T",
-      "verse": 8,
-      "position": 151
-    },
-    {
-      "text": "Hebraisk: *kaʕᵃzûvat haḥōreš wᵊhāʔāmîr*. Mange vælger her at følge Septuaginta der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: »som hivvitternes og amoritternes byer«.",
-      "type": "E",
-      "verse": 9,
-      "position": 76
-    },
-    {
-      "text": "I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.",
-      "type": "E",
-      "verse": 10,
-      "position": 100
-    },
-    {
-      "text": "Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: »dæmning«. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: »er flygtet«.",
-      "type": "E",
-      "verse": 11,
-      "position": 109
-    },
-    {
-      "text": "Denne sætning mangler i mange håndskrifter.",
-      "type": "E",
-      "verse": 13,
-      "position": 44
-    },
-    {
-      "text": "Teksten her og i det følgende står i singularis, så det må henvise til Assur.",
-      "type": "T",
-      "verse": 13,
-      "position": 62
-    },
-    {
-      "text": "Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: »hjul«, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.",
-      "type": "T",
-      "verse": 13,
-      "position": 151
     }
   ]
 }

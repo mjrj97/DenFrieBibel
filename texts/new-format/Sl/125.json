@@ -5,80 +5,64 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang.\fDe som stoler på JHVH,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
       "number": 1,
+      "text": "Valfartssang.\fDe som stoler på JHVH,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fJerusalem – der er bjerge omkring den,\fog JHVH er omkring sit folk\ffra nu af og til evig tid.",
       "number": 2,
+      "text": "\fJerusalem – der er bjerge omkring den,\fog JHVH er omkring sit folk\ffra nu af og til evig tid.",
+      "title": "Tillid til JHVHs omsorg",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »omkring hende«.",
+          "position": 39
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fFor uretfærdighedens scepter skal ikke hvile\fover de retfærdiges arvelod\ffor at de retfærdige ikke skal række\fderes hænder til uretfærdighed.",
       "number": 3,
+      "text": "\fFor uretfærdighedens scepter skal ikke hvile\fover de retfærdiges arvelod\ffor at de retfærdige ikke skal række\fderes hænder til uretfærdighed.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »ugudelighedens«",
+          "position": 21
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fGør vel, JHVHv, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
       "number": 4,
+      "text": "\fGør vel, JHVHv, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
+      "title": "Bøn",
       "version": 1504476000000
     },
     {
-      "text": "\fMen dem som slår ind på deres krogede veje,\fskal JHVH lade fare bort med dem som begår synd.\fFred over Israel!",
       "number": 5,
+      "text": "\fMen dem som slår ind på deres krogede veje,\fskal JHVH lade fare bort med dem som begår synd.\fFred over Israel!",
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "Tillid til JHVHs omsorg",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Bøn",
-      "verse": 4,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Ordret: »omkring hende«.",
-      "type": "T",
-      "verse": 2,
-      "position": 39
-    },
-    {
-      "text": "Kan også oversættes: »ugudelighedens«",
-      "type": "T",
-      "verse": 3,
-      "position": 21
     }
   ]
 }

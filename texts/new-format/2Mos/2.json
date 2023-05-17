@@ -5,251 +5,225 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fOg en mand af Levis slægt gik hen og tog en Levi-datter.",
       "number": 1,
+      "text": "Og en mand af Levis slægt gik hen og tog en Levi-datter.",
+      "title": "Moses’ fødsel",
+      "footnotes": [
+        {
+          "text": "T: *bayit* betyder ordret både »hus« og »familie/slægt«. Her er det det sidste, der er tale om.",
+          "position": 25
+        },
+        {
+          "text": "E: Underforstået: »til ægte«.",
+          "position": 56
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Kvinden blev gravid og fødte en søn, og hun så at han var dejlig, og hun skjulte ham i tre måneder.",
       "number": 2,
+      "text": "Kvinden blev gravid og fødte en søn, og hun så at han var dejlig, og hun skjulte ham i tre måneder.",
       "version": 1567634400000
     },
     {
-      "text": "Men da hun ikke længere kunne skjule ham, tog hun en kurv af siv og klinede den med asfalt og beg, og hun lagde barnet i den og anbragte den mellem sivene ved bredden af Nilen.",
       "number": 3,
+      "text": "Men da hun ikke længere kunne skjule ham, tog hun en kurv af siv og klinede den med asfalt og beg, og hun lagde barnet i den og anbragte den mellem sivene ved bredden af Nilen.",
+      "footnotes": [
+        {
+          "text": "E: Samme hebraiske ord bruges om Noas ark (1 Mos 6,14ff). *tēvāʰ* er egentlig et egyptisk ord som bruges om »kurv« eller »kasse/æske«.",
+          "position": 57
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Men hans søster stillede sig på afstand for at finde ud af, hvad der skete med ham.",
       "number": 4,
+      "text": "Men hans søster stillede sig på afstand for at finde ud af, hvad der skete med ham.",
       "version": 1567634400000
     },
     {
-      "text": "\fSå gik Faraos datter ned til Nilen for at bade mens hendes unge piger gik ved bredden af Nilen. Da så hun kurven midt i sivene, og hun sendte sin slavinde hen for at tage den.",
       "number": 5,
+      "text": "\fSå gik Faraos datter ned til Nilen for at bade mens hendes unge piger gik ved bredden af Nilen. Da så hun kurven midt i sivene, og hun sendte sin slavinde hen for at tage den.",
+      "title": "Faraos datter finder Moses",
       "version": 1567634400000
     },
     {
-      "text": "Da hun åbnede den, så hun babyen, og se: en dreng der græd; og hun ynkedes over ham og sagde: »Dette er en af hebræernes babyer.«",
       "number": 6,
+      "text": "Da hun åbnede den, så hun babyen, og se: en dreng der græd; og hun ynkedes over ham og sagde: »Dette er en af hebræernes babyer.«",
       "version": 1567634400000
     },
     {
-      "text": "Da sagde hans søster til Faraos datter: »Skal jeg gå hen og hente dig en kvinde til amme, af de hebraiske, så hun kan amme babyen for dig?«",
       "number": 7,
+      "text": "Da sagde hans søster til Faraos datter: »Skal jeg gå hen og hente dig en kvinde til amme, af de hebraiske, så hun kan amme babyen for dig?«",
       "version": 1567634400000
     },
     {
-      "text": "Faraos datter sagde til hende: »Gå!« Og den unge pige gik hen og kaldte på babyens mor.",
       "number": 8,
+      "text": "Faraos datter sagde til hende: »Gå!« Og den unge pige gik hen og kaldte på babyens mor.",
       "version": 1567634400000
     },
     {
-      "text": "Faraos datter sagde til hende: »Tag denne baby med og am ham for mig, så vil jeg give dig din løn.« Og kvinden tog babyen og ammede ham.",
       "number": 9,
+      "text": "Faraos datter sagde til hende: »Tag denne baby med og am ham for mig, så vil jeg give dig din løn.« Og kvinden tog babyen og ammede ham.",
       "version": 1567634400000
     },
     {
-      "text": "Da drengen var blevet stor, bragte hun ham til Faraos datter, og han blev hendes søn. Hun gav ham navnet Moses idet hun sagde: »For jeg har trukket ham op af vandet.«",
       "number": 10,
+      "text": "Da drengen var blevet stor, bragte hun ham til Faraos datter, og han blev hendes søn. Hun gav ham navnet Moses idet hun sagde: »For jeg har trukket ham op af vandet.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »hun kaldte hans navn Moses«",
+          "position": 110
+        },
+        {
+          "text": "E: Denne bemærkning er omdiskuteret. »Moses« var et almindeligt egyptisk navn som betyder: »søn«. Det indgår fx i mange faraoners navne. Den almindeligst accepterede forklaring er at det for det hebraiske øre har haft en anden, dybere mening: At Faraos datter kom til at profetere om Moses’ indsats: Han skal *trække* sit folk *op af vandet*. Den jødiske historiker Josefus hævdede at egypterne kaldte vand for *mo*, og den der redder fra vand, for *uses*.",
+          "position": 166
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "\fDa Moses var blevet voksen, skete det en dag at han gik ud til sine brødre og så på deres tvangsarbejde, og han så en egyptisk mand i færd med at slå en hebraisk mand af hans brødre ihjel.",
       "number": 11,
+      "text": "\f Da Moses var blevet voksen, skete det en dag at han gik ud til sine brødre og så på deres tvangsarbejde, og han så en egyptisk mand i færd med at slå en hebraisk mand af hans brødre ihjel.",
+      "title": "Moses’ flugt til Midjan",
+      "footnotes": [
+        {
+          "text": "T: Ordet »brødre« skal her ikke forstås bogstaveligt, men dækker over folkefæller.",
+          "position": 76
+        },
+        {
+          "text": "T: Verbet *nkh* i hif’il kan både betyde: »slå« og: »slå ihjel«. Brugen af samme ord i næste vers betyder dog nok at der her må være tænkt på det sidste, mens der i vers 13 er tænkt på det første. I vers 14 er der brugt et andet ord.",
+          "position": 151
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Da vendte han sig fra side til side og så at der intet menneske var, og han slog egypteren ihjel og skjulte ham i sandet.",
       "number": 12,
+      "text": "Da vendte han sig fra side til side og så at der intet menneske var, og han slog egypteren ihjel og skjulte ham i sandet.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »således og således«.",
+          "position": 35
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Næste dag gik han ud, og se, to hebraiske mænd sloges; da sagde han til ham som havde uret: »Hvorfor slår du din modpart?«",
       "number": 13,
+      "text": "Næste dag gik han ud, og se, to hebraiske mænd sloges; da sagde han til ham som havde uret: »Hvorfor slår du din modpart?«",
+      "footnotes": [
+        {
+          "text": "T: Ordet: »anden«.",
+          "position": 5
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Men han sagde: »Hvem har sat dig til hersker og dommer over os? Siger du at du vil dræbe mig, ligesom du dræbte egypteren?« Da blev Moses bange og sagde: »Sandelig, gerningen er blevet kendt.«",
       "number": 14,
+      "text": "Men han sagde: »Hvem har sat dig til hersker og dommer over os? Siger du at du vil dræbe mig, ligesom du dræbte egypteren?« Da blev Moses bange og sagde: »Sandelig, gerningen er blevet kendt.«",
       "version": 1567634400000
     },
     {
-      "text": "Da Farao hørte om denne gerning, søgte han at dræbe Moses; men Moses flygtede bort fra Farao og slog sig ned i landet Midjan og slog sig ned ved brønden.",
       "number": 15,
+      "text": "Da Farao hørte om denne gerning, søgte han at dræbe Moses; men Moses flygtede bort fra Farao og slog sig ned i landet Midjan og slog sig ned ved brønden.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fra Faraos ansigt«.",
+          "position": 92
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Præsten i Midjan havde syv døtre, og de kom og trak vand op og fyldte trugene for at vande deres fars småkvæg.",
       "number": 16,
+      "text": "Præsten i Midjan havde syv døtre, og de kom og trak vand op og fyldte trugene for at vande deres fars småkvæg.",
       "version": 1567634400000
     },
     {
-      "text": "Da kom hyrderne og jog dem væk; men Moses rejste sig og hjalp dem og vandede deres småkvæg.",
       "number": 17,
+      "text": "Da kom hyrderne og jog dem væk; men Moses rejste sig og hjalp dem og vandede deres småkvæg.",
       "version": 1567634400000
     },
     {
-      "text": "Da de kom til Re’uel, deres far, sagde han: »Hvorfor har I skyndt jer at komme i dag?«",
       "number": 18,
+      "text": "Da de kom til Re’uel, deres far, sagde han: »Hvorfor har I skyndt jer at komme i dag?«",
       "version": 1567634400000
     },
     {
-      "text": "De sagde: »En egyptisk mand reddede os fra hyrdernes hånd og trak desuden flittigt vand op for os og vandede småkvæget.«",
       "number": 19,
+      "text": "De sagde: »En egyptisk mand reddede os fra hyrdernes hånd og trak desuden flittigt vand op for os og vandede småkvæget.«",
       "version": 1567634400000
     },
     {
-      "text": "Han sagde til sine døtre: »Og hvor er han? Hvorfor forlod I dog den mand? Kald på ham, så han kan få noget at spise.«",
       "number": 20,
+      "text": "Han sagde til sine døtre: »Og hvor er han? Hvorfor forlod I dog den mand? Kald på ham, så han kan få noget at spise.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »så han kan spise brød«.",
+          "position": 117
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Moses besluttede sig for at slå sig ned hos manden; og han gav Sippora, sin datter, til Moses.",
       "number": 21,
+      "text": "Moses besluttede sig for at slå sig ned hos manden; og han gav Sippora, sin datter, til Moses.",
+      "footnotes": [
+        {
+          "text": "E: Underforstået: »til ægte«.",
+          "position": 94
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Hun fødte en søn, og han gav ham navnet Gershom, for han sagde: »Jeg er blevet fremmed i et fremmed land.«",
       "number": 22,
+      "text": "Hun fødte en søn, og han gav ham navnet Gershom, for han sagde: »Jeg er blevet fremmed i et fremmed land.«",
+      "footnotes": [
+        {
+          "text": "E: På hebraisk er der ordspil mellem »Gershom« (*gēršōm*) og »fremmed« (*gēr*).",
+          "position": 86
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "\fI løbet af al den tid døde kongen af Egypten, og Israels børn sukkede under arbejdet og klagede højlydt, og deres råb om hjælp på grund af arbejdet steg op til Gud.",
       "number": 23,
+      "text": "\fI løbet af al den tid døde kongen af Egypten, og Israels børn sukkede under arbejdet og klagede højlydt, og deres råb om hjælp på grund af arbejdet steg op til Gud.",
+      "title": "Gud vil se til sit folk",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »de mange dage«.",
+          "position": 22
+        }
+      ],
       "version": 1567634400000
     },
     {
-      "text": "Gud hørte deres jamren, og Gud huskede på sin pagt med Abraham, med Isak og med Jakob.",
       "number": 24,
+      "text": "Gud hørte deres jamren, og Gud huskede på sin pagt med Abraham, med Isak og med Jakob.",
       "version": 1567634400000
     },
     {
-      "text": "Og Gud så Israels børn, og Gud kendtes ved dem.",
       "number": 25,
+      "text": "Og Gud så Israels børn, og Gud kendtes ved dem.",
       "version": 1567634400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Moses’ fødsel",
-      "verse": 1,
-      "version": 1567634400000
-    },
-    {
-      "text": "Faraos datter finder Moses",
-      "verse": 5,
-      "version": 1567634400000
-    },
-    {
-      "text": "Moses’ flugt til Midjan",
-      "verse": 11,
-      "version": 1567634400000
-    },
-    {
-      "text": "Gud vil se til sit folk",
-      "verse": 23,
-      "version": 1567634400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "*bayit* betyder ordret både »hus« og »familie/slægt«. Her er det det sidste, der er tale om.",
-      "type": "T",
-      "verse": 1,
-      "position": 26
-    },
-    {
-      "text": "Underforstået: »til ægte«.",
-      "type": "E",
-      "verse": 1,
-      "position": 57
-    },
-    {
-      "text": "Samme hebraiske ord bruges om Noas ark (1 Mos 6,14ff). *tēvāʰ* er egentlig et egyptisk ord som bruges om »kurv« eller »kasse/æske«.",
-      "type": "E",
-      "verse": 3,
-      "position": 57
-    },
-    {
-      "text": "Ordret: »hun kaldte hans navn Moses«",
-      "type": "T",
-      "verse": 10,
-      "position": 110
-    },
-    {
-      "text": "Denne bemærkning er omdiskuteret. »Moses« var et almindeligt egyptisk navn som betyder: »søn«. Det indgår fx i mange faraoners navne. Den almindeligst accepterede forklaring er at det for det hebraiske øre har haft en anden, dybere mening: At Faraos datter kom til at profetere om Moses’ indsats: Han skal *trække* sit folk *op af vandet*. Den jødiske historiker Josefus hævdede at egypterne kaldte vand for *mo*, og den der redder fra vand, for *uses*.",
-      "type": "E",
-      "verse": 10,
-      "position": 166
-    },
-    {
-      "text": "Ordet »brødre« skal her ikke forstås bogstaveligt, men dækker over folkefæller.",
-      "type": "T",
-      "verse": 11,
-      "position": 75
-    },
-    {
-      "text": "Verbet *nkh* i hif’il kan både betyde: »slå« og: »slå ihjel«. Brugen af samme ord i næste vers betyder dog nok at der her må være tænkt på det sidste, mens der i vers 13 er tænkt på det første. I vers 14 er der brugt et andet ord.",
-      "type": "T",
-      "verse": 11,
-      "position": 150
-    },
-    {
-      "text": "Ordret: »således og således«.",
-      "type": "T",
-      "verse": 12,
-      "position": 35
-    },
-    {
-      "text": "Ordet: »anden«.",
-      "type": "T",
-      "verse": 13,
-      "position": 5
-    },
-    {
-      "text": "Ordret: »fra Faraos ansigt«.",
-      "type": "T",
-      "verse": 15,
-      "position": 92
-    },
-    {
-      "text": "Ordret: »så han kan spise brød«.",
-      "type": "T",
-      "verse": 20,
-      "position": 117
-    },
-    {
-      "text": "Underforstået: »til ægte«.",
-      "type": "E",
-      "verse": 21,
-      "position": 94
-    },
-    {
-      "text": "På hebraisk er der ordspil mellem »Gershom« (*gēršōm*) og »fremmed« (*gēr*).",
-      "type": "E",
-      "verse": 22,
-      "position": 86
-    },
-    {
-      "text": "Ordret: »de mange dage«.",
-      "type": "T",
-      "verse": 23,
-      "position": 22
     }
   ]
 }

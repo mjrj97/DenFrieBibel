@@ -5,50 +5,48 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fFor er det nogen ros at I udholder mishandling når I synder? Men hvis I udholder lidelse når I gør det gode – det finder nåde hos Gud.",
       "number": 20,
+      "text": "For er det nogen ros at I udholder mishandling når I synder? Men hvis I udholder lidelse når I gør det gode – det finder nåde hos Gud.",
       "version": 1617746400000
     },
     {
-      "text": "For det blev I kaldet til fordi også Kristus har lidt for jer og har efterladt jer et forbillede for at I skal følge i hans fodspor,",
       "number": 21,
+      "text": "For det blev I kaldet til fordi også Kristus har lidt for jer og har efterladt jer et forbillede for at I skal følge i hans fodspor,",
       "version": 1617746400000
     },
     {
-      "text": "han som ikke syndede, der blev heller ikke fundet bedrag i hans mund,",
       "number": 22,
+      "text": "han som ikke syndede, der blev heller ikke fundet bedrag i hans mund,",
       "version": 1617746400000
     },
     {
-      "text": "han som ikke gav igen når han blev udskældt, ikke truede da han led, men overgav det til ham som dømmer retfærdigt,",
       "number": 23,
+      "text": "han som ikke gav igen når han blev udskældt, ikke truede da han led, men overgav det til ham som dømmer retfærdigt,",
       "version": 1617746400000
     },
     {
-      "text": "han som selv bar vore synder på sit legeme op på træet for at vi, døde fra vore synder, skal leve for retfærdigheden, han ved hvis sår I er blevet helbredt.",
       "number": 24,
+      "text": "han som selv bar vore synder på sit legeme op på træet for at vi, døde fra vore synder, skal leve for retfærdigheden, han ved hvis sår I er blevet helbredt.",
       "version": 1617746400000
     },
     {
-      "text": "For I var som vildfarne får, men er nu vendt om til jeres sjæles hyrde og tilsynsmand.",
       "number": 25,
+      "text": "For I var som vildfarne får, men er nu vendt om til jeres sjæles hyrde og tilsynsmand.",
       "version": 1617746400000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

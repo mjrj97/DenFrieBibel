@@ -5,71 +5,112 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fHerrer! I skal behandle jeres slaver retfærdigt og ens fordi I ved at I også har en Herre i himlen.",
       "number": 1,
+      "text": "Herrer! I skal behandle jeres slaver retfærdigt og ens fordi I ved at I også har en Herre i himlen.",
       "version": 1680127200000
     },
     {
-      "text": "\fVær udholdende i bøn, årvågne i den med tak, v3 idet I på samme tid også beder for os om at Gud vil åbne os en dør for ordet så vi kan tale om Kristi hemmelighed, som jeg sidder fængslet for, v4 for at jeg kan åbenbare den sådan som jeg skal tale. v5 I skal vandre i visdom over for dem udenfor så I gør brug af det rette tidspunkt. v6 Jeres tale skal altid være nådefuld, krydret med salt, så I ved hvordan I skal svare hver enkelt.",
       "number": 2,
+      "text": "\fVær udholdende i bøn, årvågne i den med tak,",
+      "title": "Opfordring til bøn",
       "version": 1680127200000
     },
     {
-      "text": "\fTykikos, den elskede broder, tro tjener og medtjener i Herren, vil meddele jer alt vedrørende min situation, v8 ham sender jeg til jer med netop det formål for at I kan kende vores forhold, og han kan opmuntre jeres hjerter, v9 sammen med Onesimos, den tro og elskede broder, som er en af jer. De vil meddele jer alt herfra.",
+      "number": 3,
+      "text": "idet I på samme tid også beder for os om at Gud vil åbne os en dør for ordet så vi kan tale om Kristi hemmelighed, som jeg sidder fængslet for,",
+      "version": 1680127200000
+    },
+    {
+      "number": 4,
+      "text": "for at jeg kan åbenbare den sådan som jeg skal tale.",
+      "version": 1680127200000
+    },
+    {
+      "number": 5,
+      "text": "I skal vandre i visdom over for dem udenfor så I gør brug af det rette tidspunkt.",
+      "version": 1680127200000
+    },
+    {
+      "number": 6,
+      "text": "Jeres tale skal altid være nådefuld, krydret med salt, så I ved hvordan I skal svare hver enkelt.",
+      "version": 1680127200000
+    },
+    {
       "number": 7,
+      "text": "\fTykikos, den elskede broder, tro tjener og medtjener i Herren, vil meddele jer alt vedrørende min situation,",
+      "title": "Rejseplaner",
       "version": 1680127200000
     },
     {
-      "text": "\fAristark, min medfange, hilser jer,  og Markus, Barnabas’ fætter, (om hvem I har modtaget befalinger – tag imod ham, hvis han kommer til jer), v11 og Jesus, som kaldes Justus, som er af de omskårne. De er de eneste medarbejdere for Guds rige som er blevet til trøst for mig. v12 Epafras, som er en af jer, hilser jer, en Jesu Kristi tjener som altid kæmper for jer i sine bønner for at I kan stå fuldkomne og overbeviste med hensyn til al Guds vilje. v13 For jeg vidner om ham at han har meget arbejde for jer, for dem i Laodikea og dem i Hierapolis. v14 Lægen Lukas,  den elskede, hilser jer, og Demas.",
+      "number": 8,
+      "text": "ham sender jeg til jer med netop det formål for at I kan kende vores forhold, og han kan opmuntre jeres hjerter,",
+      "version": 1680127200000
+    },
+    {
+      "number": 9,
+      "text": "sammen med Onesimos, den tro og elskede broder, som er en af jer. De vil meddele jer alt herfra.",
+      "version": 1680127200000
+    },
+    {
       "number": 10,
+      "text": "\fAristark, min medfange, hilser jer, og Markus, Barnabas’ fætter, (om hvem I har modtaget befalinger – tag imod ham, hvis han kommer til jer),",
+      "title": "Hilsner",
       "version": 1680127200000
     },
     {
-      "text": "\fHils brødrene i Laodikea, og Nymfa og menigheden i hendes hus. v16 Når brevet er blevet læst op hos jer, så sørg for at det også bliver læst op i laodikensernes menighed, og at I også får oplæst brevet fra Laodikea. v17 Og sig til Arkippos: Se til at du udfylder den tjeneste som du modtog i Herren.",
+      "number": 11,
+      "text": "og Jesus, som kaldes Justus, som er af de omskårne. De er de eneste medarbejdere for Guds rige som er blevet til trøst for mig.",
+      "version": 1680127200000
+    },
+    {
+      "number": 12,
+      "text": "Epafras, som er en af jer, hilser jer, en Jesu Kristi tjener som altid kæmper for jer i sine bønner for at I kan stå fuldkomne og overbeviste med hensyn til al Guds vilje.",
+      "version": 1680127200000
+    },
+    {
+      "number": 13,
+      "text": "For jeg vidner om ham at han har meget arbejde for jer, for dem i Laodikea og dem i Hierapolis.",
+      "version": 1680127200000
+    },
+    {
+      "number": 14,
+      "text": "Lægen Lukas, den elskede, hilser jer, og Demas.",
+      "version": 1680127200000
+    },
+    {
       "number": 15,
+      "text": "\fHils brødrene i Laodikea, og Nymfa og menigheden i hendes hus.",
       "version": 1680127200000
     },
     {
-      "text": "\fHilsen med min egen, Paulus’, hånd. Husk mine lænker. Nåden være med jer.",
+      "number": 16,
+      "text": "Når brevet er blevet læst op hos jer, så sørg for at det også bliver læst op i laodikensernes menighed, og at I også får oplæst brevet fra Laodikea.",
+      "version": 1680127200000
+    },
+    {
+      "number": 17,
+      "text": "Og sig til Arkippos: Se til at du udfylder den tjeneste som du modtog i Herren.",
+      "version": 1680127200000
+    },
+    {
       "number": 18,
+      "text": "\fHilsen med min egen, Paulus’, hånd. Husk mine lænker. Nåden være med jer.",
+      "title": "Sluthilsen",
       "version": 1680127200000
     }
-  ],
-  "titles": [
-    {
-      "text": "Opfordring til bøn",
-      "verse": 2,
-      "version": 1680127200000
-    },
-    {
-      "text": "Rejseplaner",
-      "verse": 3,
-      "version": 1680127200000
-    },
-    {
-      "text": "Hilsner",
-      "verse": 8,
-      "version": 1680127200000
-    },
-    {
-      "text": "Sluthilsen",
-      "verse": 16,
-      "version": 1680127200000
-    }
-  ],
-  "footnotes": []
+  ]
 }

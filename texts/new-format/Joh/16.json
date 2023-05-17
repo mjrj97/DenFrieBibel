@@ -5,173 +5,170 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fDette har jeg talt til jer for at I ikke skal falde fra.",
       "number": 1,
+      "text": "Dette har jeg talt til jer for at I ikke skal falde fra.",
       "version": 1620165600000
     },
     {
-      "text": "De skal udelukke jer af synagogerne, ja, den tid skal komme hvor enhver som slår jer ihjel, skal mene at han dyrker Gud.",
       "number": 2,
+      "text": "De skal udelukke jer af synagogerne, ja, den tid skal komme hvor enhver som slår jer ihjel, skal mene at han dyrker Gud.",
       "version": 1620165600000
     },
     {
-      "text": "Og det skal de gøre fordi de hverken kender Faderen eller mig.",
       "number": 3,
+      "text": "Og det skal de gøre fordi de hverken kender Faderen eller mig.",
       "version": 1620165600000
     },
     {
-      "text": "Men dette har jeg talt til jer for at I, når timen kommer, skal huske at jeg har sagt jer det; men dette sagde jeg ikke til jer fra begyndelsen af fordi jeg var hos jer.",
       "number": 4,
+      "text": "Men dette har jeg talt til jer for at I, når timen kommer, skal huske at jeg har sagt jer det; men dette sagde jeg ikke til jer fra begyndelsen af fordi jeg var hos jer.",
       "version": 1620165600000
     },
     {
-      "text": "\fMen nu går jeg til ham som sendte mig, og ingen af jer spørger mig: ›Hvor går du hen?‹",
       "number": 5,
+      "text": "\fMen nu går jeg til ham som sendte mig, og ingen af jer spørger mig: ›Hvor går du hen?‹",
       "version": 1620165600000
     },
     {
-      "text": "Men fordi jeg har sagt dette til jer, har sorgen fyldt jeres hjerte.",
       "number": 6,
+      "text": "Men fordi jeg har sagt dette til jer, har sorgen fyldt jeres hjerte.",
       "version": 1620165600000
     },
     {
-      "text": "Men jeg siger jer sandheden: Det er godt for jer at jeg går bort, for går jeg ikke bort, kommer Talsmanden ikke til jer; men går jeg bort, så vil jeg sende ham til jer.",
       "number": 7,
+      "text": "Men jeg siger jer sandheden: Det er godt for jer at jeg går bort, for går jeg ikke bort, kommer Talsmanden ikke til jer; men går jeg bort, så vil jeg sende ham til jer.",
       "version": 1620165600000
     },
     {
-      "text": "Og når han kommer, skal han overbevise verden om synd og om retfærdighed og om dom.",
       "number": 8,
+      "text": "Og når han kommer, skal han overbevise verden om synd og om retfærdighed og om dom.",
       "version": 1620165600000
     },
     {
-      "text": "Om synd: at de ikke tror på mig;",
       "number": 9,
+      "text": "Om synd: at de ikke tror på mig;",
+      "footnotes": [
+        {
+          "text": "T: I stedet for »at« kan der i dette og de to næste vers oversættes: »fordi«.",
+          "position": 11
+        }
+      ],
       "version": 1620165600000
     },
     {
-      "text": "om retfærdighed: at jeg går til Faderen, og I ser mig ikke længere;",
       "number": 10,
+      "text": "om retfærdighed: at jeg går til Faderen, og I ser mig ikke længere;",
       "version": 1620165600000
     },
     {
-      "text": "og om dom: at denne verdens fyrste er dømt.",
       "number": 11,
+      "text": "og om dom: at denne verdens fyrste er dømt.",
       "version": 1620165600000
     },
     {
-      "text": "Jeg har endnu meget at sige jer; men I kan ikke bære det nu.",
       "number": 12,
+      "text": "Jeg har endnu meget at sige jer; men I kan ikke bære det nu.",
       "version": 1620165600000
     },
     {
-      "text": "Men når han, sandhedens Ånd, kommer, skal han vejlede jer i hele sandheden; for han skal ikke tale af sig selv, men hvad som helst han hører, skal han tale, og de kommende ting skal han forkynde jer.",
       "number": 13,
+      "text": "Men når han, sandhedens Ånd, kommer, skal han vejlede jer i hele sandheden; for han skal ikke tale af sig selv, men hvad som helst han hører, skal han tale, og de kommende ting skal han forkynde jer.",
       "version": 1620165600000
     },
     {
-      "text": "Han skal herliggøre mig; for han skal tage af mit og forkynde for jer.",
       "number": 14,
+      "text": "Han skal herliggøre mig; for han skal tage af mit og forkynde for jer.",
       "version": 1620165600000
     },
     {
-      "text": "Alt, hvad Faderen har, er mit; derfor sagde jeg, at han skal tage af mit og forkynde for jer.",
       "number": 15,
+      "text": "Alt, hvad Faderen har, er mit; derfor sagde jeg, at han skal tage af mit og forkynde for jer.",
       "version": 1620165600000
     },
     {
-      "text": "\fOm en kort tid ser I mig ikke længere, og atter om en kort tid skal I se mig.«",
       "number": 16,
+      "text": "\fOm en kort tid ser I mig ikke længere, og atter om en kort tid skal I se mig.«",
       "version": 1620165600000
     },
     {
-      "text": "Da sagde nogle af hans disciple til hinanden: »Hvad er det han siger til os: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig, og: Jeg går til Faderen?«",
       "number": 17,
+      "text": "Da sagde nogle af hans disciple til hinanden: »Hvad er det han siger til os: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig, og: Jeg går til Faderen?«",
       "version": 1620165600000
     },
     {
-      "text": "De sagde altså: »Hvad er det han siger: Om en kort tid? Vi forstår ikke hvad han taler om.«",
       "number": 18,
+      "text": "De sagde altså: »Hvad er det han siger: Om en kort tid? Vi forstår ikke hvad han taler om.«",
       "version": 1620165600000
     },
     {
-      "text": "Jesus vidste at de ville spørge ham, og han sagde til dem: »I spørger hinanden om det jeg sagde: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig.",
       "number": 19,
+      "text": "Jesus vidste at de ville spørge ham, og han sagde til dem: »I spørger hinanden om det jeg sagde: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig.",
       "version": 1620165600000
     },
     {
-      "text": "Sandelig, sandelig, siger jeg jer: I skal græde og jamre, men verden skal glæde sig; I skal sørge, men jeres sorg skal blive til glæde.",
       "number": 20,
+      "text": "Sandelig, sandelig, siger jeg jer: I skal græde og jamre, men verden skal glæde sig; I skal sørge, men jeres sorg skal blive til glæde.",
+      "footnotes": [
+        {
+          "text": "T: Det græske ord bruges især om dødsklage.",
+          "position": 57
+        }
+      ],
       "version": 1620165600000
     },
     {
-      "text": "Når kvinden skal føde, sørger hun fordi hendes time er kommet; men når hun har født barnet, husker hun ikke længere sin trængsel af glæde over at et menneske er født til verden.",
       "number": 21,
+      "text": "Når kvinden skal føde, sørger hun fordi hendes time er kommet; men når hun har født barnet, husker hun ikke længere sin trængsel af glæde over at et menneske er født til verden.",
       "version": 1620165600000
     },
     {
-      "text": "Også I sørger jo nu, men jeg skal se jer igen, og jeres hjerte skal glædes, og ingen skal tage jeres glæde fra jer.",
       "number": 22,
+      "text": "Også I sørger jo nu, men jeg skal se jer igen, og jeres hjerte skal glædes, og ingen skal tage jeres glæde fra jer.",
       "version": 1620165600000
     },
     {
-      "text": "På den dag skal I ikke spørge mig om noget. Sandelig, sandelig, siger jeg jer: hvis I beder Faderen om noget, skal han give jer det i mit navn.",
       "number": 23,
+      "text": "På den dag skal I ikke spørge mig om noget. Sandelig, sandelig, siger jeg jer: hvis I beder Faderen om noget, skal han give jer det i mit navn.",
       "version": 1620165600000
     },
     {
-      "text": "Hidtil har I ikke bedt om noget i mit navn; bed, og I skal få for at jeres glæde må blive fuldkommen.",
       "number": 24,
+      "text": "Hidtil har I ikke bedt om noget i mit navn; bed, og I skal få for at jeres glæde må blive fuldkommen.",
       "version": 1620165600000
     },
     {
-      "text": "Dette har jeg sagt til jer i lignelser; der kommer en tid hvor jeg ikke mere skal tale til jer i lignelser, men frit ud forkynde jer om Faderen.",
       "number": 25,
+      "text": "Dette har jeg sagt til jer i lignelser; der kommer en tid hvor jeg ikke mere skal tale til jer i lignelser, men frit ud forkynde jer om Faderen.",
       "version": 1620165600000
     },
     {
-      "text": "Den dag skal I bede i mit navn, og jeg siger ikke til jer at jeg vil bede Faderen for jer;",
       "number": 26,
+      "text": "Den dag skal I bede i mit navn, og jeg siger ikke til jer at jeg vil bede Faderen for jer;",
       "version": 1620165600000
     },
     {
-      "text": "for Faderen selv elsker jer fordi I har elsket mig og troet at jeg er udgået fra Gud.",
       "number": 27,
+      "text": "for Faderen selv elsker jer fordi I har elsket mig og troet at jeg er udgået fra Gud.",
       "version": 1620165600000
     },
     {
-      "text": "Jeg udgik fra Faderen og er kommen til verden; jeg forlader verden igen og går til Faderen.«",
       "number": 28,
+      "text": "Jeg udgik fra Faderen og er kommen til verden; jeg forlader verden igen og går til Faderen.«",
       "version": 1620165600000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "I stedet for »at« kan der i dette og de to næste vers oversættes: »fordi«.",
-      "type": "T",
-      "verse": 9,
-      "position": 11
-    },
-    {
-      "text": "Det græske ord bruges især om dødsklage.",
-      "type": "T",
-      "verse": 20,
-      "position": 57
     }
   ]
 }

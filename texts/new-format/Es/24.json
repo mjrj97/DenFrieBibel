@@ -5,256 +5,238 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fSe, JHVH hærger jorden og lægger den øde,\fhan vender op og ned på dens overflade\fog spreder dens beboere.",
       "number": 1,
+      "text": "Se, JHVH hærger jorden og lægger den øde, \fhan vender op og ned på dens overflade \fog spreder dens beboere.",
+      "title": "Verdens undergang – men da er JHVH på Zions bjerg",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes »landet«.",
+          "position": 22
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fOg som det skal gå med folket, sådan skal det gå med præsten,\fsom med trællen, sådan med hans herre,\fsom med trælkvinden, sådan med hendes frue,\fsom med køberen, sådan med sælgeren,\fsom med långiveren, sådan med låntageren,\fsom med skyldneren, sådan med ågerkarlen.",
       "number": 2,
+      "text": "\fOg som det skal gå med folket, sådan skal det gå med præsten, \fsom med trællen, sådan med hans herre, \fsom med trælkvinden, sådan med hendes frue, \fsom med køberen, sådan med sælgeren, \fsom med långiveren, sådan med låntageren, \fsom med skyldneren, sådan med ågerkarlen.",
       "version": 1681336800000
     },
     {
-      "text": "\fJorden skal lægges fuldstændig øde, og udplyndres helt; for JHVH har talt dette ord.",
       "number": 3,
+      "text": "\fJorden skal lægges fuldstændig øde, og udplyndres helt; for JHVH har talt dette ord.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »landet«.",
+          "position": 7
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "Jorden sørger, visner, verden sygner hen, visner, jordens fornemme sygner hen.",
       "number": 4,
+      "text": "Jorden sørger, visner, verden sygner hen, visner, jordens fornemme sygner hen.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »landet«.",
+          "position": 6
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "Jorden er også vanhelliget ved sine beboere, for de har overtrådt love, tilsidesat bud, brudt den evige pagt.",
       "number": 5,
+      "text": "Jorden er også vanhelliget ved sine beboere, for de har overtrådt love, tilsidesat bud, brudt den evige pagt.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »landet«.",
+          "position": 6
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "Derfor har forbandelse ædt jorden,\fog de, der bor på den, er skyldige;\fderfor svinder jordens beboere ind,\fog der bliver kun få mennesker tilbage.",
       "number": 6,
+      "text": "Derfor har forbandelse ædt jorden, \fog de, der bor på den, er skyldige; \fderfor svinder jordens beboere ind, \fog der bliver kun få mennesker tilbage.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »landet«.",
+          "position": 34
+        },
+        {
+          "text": "T: Andre oversætter: »må bøde«.",
+          "position": 71
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fMost sørger, vintræ visner,\falle med glad hjerte sukker.",
       "number": 7,
+      "text": "\fMost sørger, vintræ visner, \falle med glad hjerte sukker.",
       "version": 1681336800000
     },
     {
-      "text": "\fPaukers glædeslyd er stoppet,\fjublendes larm er standset,\fharpes glædesklang er stoppet.",
       "number": 8,
+      "text": "\fPaukers glædeslyd er stoppet, \fjublendes larm er standset, \fharpes glædesklang er stoppet.",
       "version": 1681336800000
     },
     {
-      "text": "\fDe drikker ikke vin under sang,\fstærk drik er besk for dem der drikker den.",
       "number": 9,
+      "text": "\fDe drikker ikke vin under sang, \fstærk drik er besk for dem der drikker den.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »øl«.",
+          "position": 44
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fTomhedens by er knust,\fhvert hus er lukket, så ingen går ind.",
       "number": 10,
+      "text": "\fTomhedens by er knust, \fhvert hus er lukket, så ingen går ind.",
       "version": 1681336800000
     },
     {
-      "text": "\fDer er klageråb på gaden over vinen,\fforsvundet er al glæde,\flandets fryd er borte.",
       "number": 11,
+      "text": "\fDer er klageråb på gaden over vinen, \fforsvundet er al glæde, \flandets fryd er borte.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »jordens«.",
+          "position": 71
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fTilbage i byen er kun ødelæggelse,\fog til splinter er porten smadret.\n\n",
       "number": 12,
+      "text": "\fTilbage i byen er kun ødelæggelse, \fog til splinter er porten smadret.\f\n",
       "version": 1681336800000
     },
     {
-      "text": "\fFor sådan skal det være på jorden,\fblandt folkene,\fsom når man slår oliven ned,\fsom efterslæt når vinhøsten slutter.",
       "number": 13,
+      "text": "\fFor sådan skal det være på jorden, \fblandt folkene, \fsom når man slår oliven ned, \fsom efterslæt når vinhøsten slutter.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »landet«.",
+          "position": 35
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fDe løfter deres røst, jubler,\fover JHVHs storhed;\fde råber højt af glæde fra vest.",
       "number": 14,
+      "text": "\fDe løfter deres røst, jubler, \fover JHVHs storhed;\fde råber højt af glæde fra vest.",
+      "footnotes": [
+        {
+          "text": "T: Dvs. de, der er blevet tilbage",
+          "position": 3
+        },
+        {
+          "text": "T: Kan også oversættes: »over havet«.",
+          "position": 84
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fDerfor, vis JHVH ære i Østen,\fpå havets fjerne kyster,\fJHVHs, Israels Guds navn!",
       "number": 15,
+      "text": "\fDerfor, vis JHVH ære i Østen,\fpå havets fjerne kyster, \fJHVHs, Israels Guds navn!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »i lysregioner«.",
+          "position": 30
+        },
+        {
+          "text": "T: Det hebraiske ord kan også betegne »fjerne øer«.",
+          "position": 55
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fFra jordens ende hører vi lovsange:\f»Pris til Den Retfærdige!«\fMen jeg måtte sige: »Jeg går til, jeg går til, ve mig!\fTroløse handler troløst,\fja, troløse handler meget troløst.«",
       "number": 16,
+      "text": "\fFra jordens ende hører vi lovsange: \f»Pris til Den Retfærdige!« \fMen jeg måtte sige: »Jeg går til, jeg går til, ve mig! \fTroløse handler troløst, \fja, troløse handler meget troløst.«",
       "version": 1681336800000
     },
     {
-      "text": "\fGru og grube og garn\fover dig, du jordens beboer!",
       "number": 17,
+      "text": "\fGru og grube og garn \fover dig, du jordens beboer!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fælde«.",
+          "position": 21
+        },
+        {
+          "text": "T: Kan også oversættes: »landets«.",
+          "position": 43
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fOg det skal ske at den der flygter fra gruens larm,\fskal falde i gruben,\fog den, der kommer op af grubens indre,\fskal fanges i garnet,\ffor vinduer i det høje bliver åbnet,\fog jordens grundvolde ryster.",
       "number": 18,
+      "text": "\fOg det skal ske at den der flygter fra gruens larm, \fskal falde i gruben, \fog den, der kommer op af grubens indre, \fskal fanges i garnet, \ffor vinduer i det høje bliver åbnet, \fog jordens grundvolde ryster.",
       "version": 1681336800000
     },
     {
-      "text": "\fJorden smadres helt,\fjorden splintres helt,\fjorden ryster voldsomt.",
       "number": 19,
+      "text": "\fJorden smadres helt, \fjorden splintres helt, \fjorden ryster voldsomt.",
       "version": 1681336800000
     },
     {
-      "text": "\fJorden dingler meget, som den fulde mand,\fog svajer som vagthytten;\fsvært tynges den\faf sin forbrydelse, så den falder\fog ikke skal rejse sig igen.\n\n",
       "number": 20,
+      "text": "\fJorden dingler meget, som den fulde mand, \fog svajer som vagthytten; \fsvært tynges den \faf sin forbrydelse, så den falder \fog ikke skal rejse sig igen.\f\n",
       "version": 1681336800000
     },
     {
-      "text": "\fDet skal ske på den dag at JHVH straffer\fdet højes hær i det høje\fog jordens konger på jorden.",
       "number": 21,
+      "text": "\fDet skal ske på den dag at JHVH straffer \fdet højes hær i det høje \fog jordens konger på jorden.",
+      "footnotes": [
+        {
+          "text": "E: Det er synonym for himlen.",
+          "position": 67
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fOg de skal samles sammen som fanger i et fangehul\fog blive låst inde i et fængsel,\fog efter mange dage bliver de straffet.",
       "number": 22,
+      "text": "\fOg de skal samles sammen som fanger i et fangehul \fog blive låst inde i et fængsel, \fog efter mange dage bliver de straffet.",
+      "footnotes": [
+        {
+          "text": "T: Ordret »cisterne«, men tørre cisterner brugtes som fængsler.",
+          "position": 50
+        },
+        {
+          "text": "T: Andre oversætter: »løsladt« eller: »benådiget«.",
+          "position": 125
+        }
+      ],
       "version": 1681336800000
     },
     {
-      "text": "\fMånen skal blive til skamme,\fog solen beskæmmes,\ffor Hærskarers HERRE er konge\fpå Zions bjerg og i Jerusalem,\fog foran hans ældste er der herlighed.",
       "number": 23,
+      "text": "\fMånen skal blive til skamme, \fog solen beskæmmes, \ffor Hærskarers HERRE er konge \fpå Zions bjerg og i Jerusalem, \fog foran hans ældste er der herlighed.",
+      "footnotes": [
+        {
+          "text": "N: Hærskarers",
+          "position": 72
+        }
+      ],
       "version": 1681336800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Verdens undergang – men da er JHVH på Zions bjerg",
-      "verse": 1,
-      "version": 1681336800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes »landet«.",
-      "type": "T",
-      "verse": 1,
-      "position": 23
-    },
-    {
-      "text": "Kan også oversættes: »landet«.",
-      "type": "T",
-      "verse": 3,
-      "position": 7
-    },
-    {
-      "text": "Kan også oversættes: »landet«.",
-      "type": "T",
-      "verse": 4,
-      "position": 6
-    },
-    {
-      "text": "Kan også oversættes: »landet«.",
-      "type": "T",
-      "verse": 5,
-      "position": 6
-    },
-    {
-      "text": "Kan også oversættes: »landet«.",
-      "type": "T",
-      "verse": 6,
-      "position": 34
-    },
-    {
-      "text": "Andre oversætter: »må bøde«.",
-      "type": "T",
-      "verse": 6,
-      "position": 70
-    },
-    {
-      "text": "Kan også oversættes: »øl«.",
-      "type": "T",
-      "verse": 9,
-      "position": 43
-    },
-    {
-      "text": "Kan også oversættes: »jordens«.",
-      "type": "T",
-      "verse": 11,
-      "position": 69
-    },
-    {
-      "text": "Kan også oversættes: »landet«.",
-      "type": "T",
-      "verse": 13,
-      "position": 35
-    },
-    {
-      "text": "Dvs. de, der er blevet tilbage",
-      "type": "T",
-      "verse": 14,
-      "position": 3
-    },
-    {
-      "text": "Kan også oversættes: »over havet«.",
-      "type": "T",
-      "verse": 14,
-      "position": 83
-    },
-    {
-      "text": "Ordret: »i lysregioner«.",
-      "type": "T",
-      "verse": 15,
-      "position": 30
-    },
-    {
-      "text": "Det hebraiske ord kan også betegne »fjerne øer«.",
-      "type": "T",
-      "verse": 15,
-      "position": 55
-    },
-    {
-      "text": "Ordret: »fælde«.",
-      "type": "T",
-      "verse": 17,
-      "position": 21
-    },
-    {
-      "text": "Kan også oversættes: »landets«.",
-      "type": "T",
-      "verse": 17,
-      "position": 42
-    },
-    {
-      "text": "Det er synonym for himlen.",
-      "type": "E",
-      "verse": 21,
-      "position": 66
-    },
-    {
-      "text": "Ordret »cisterne«,men tørre cisterner brugtes som fængsler.",
-      "type": "T",
-      "verse": 22,
-      "position": 50
-    },
-    {
-      "text": "Andre oversætter: »løsladt« eller: »benådiget«.",
-      "type": "T",
-      "verse": 22,
-      "position": 123
-    },
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 23,
-      "position": 70
     }
   ]
 }

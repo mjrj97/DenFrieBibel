@@ -5,76 +5,69 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen og Christian Canu Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen og Christian Canu Højgaard"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fGid mine ord dog måtte blive skrevet ned. Gid de måtte blive nedfældet i en bog.",
       "number": 23,
+      "text": "Gid mine ord dog måtte blive skrevet ned. Gid de måtte blive nedfældet i en bog.",
       "version": 1631484000000
     },
     {
-      "text": "Måtte de med en jerngriffel og med bly blive indhugget i klippen til evig tid!",
       "number": 24,
+      "text": "Måtte de med en jerngriffel og med bly blive indhugget i klippen til evig tid!",
       "version": 1631484000000
     },
     {
-      "text": "Men jeg ved at min løser lever, og til sidst skal han stå op over støvet.",
       "number": 25,
+      "text": "Men jeg ved at min løser lever, og til sidst skal han stå op over støvet.",
+      "footnotes": [
+        {
+          "text": "E: Ordet *qwm* bruges både i retslig sammenhæng om et vidne, der træder frem i en retssag, og som betegnelse for en teofani (fx Sef 3,8). Måske er begge motiver underforstået her.",
+          "position": 60
+        },
+        {
+          "text": "E: Ordet *ʕāfār* er omdiskuteret i sammenhængen. Det kan også oversættes: »jorden« eller: »graven«.",
+          "position": 73
+        }
+      ],
       "version": 1631484000000
     },
     {
-      "text": "Og når min hud således er skrællet af, skal jeg ud fra mit kød skue Gud,",
       "number": 26,
+      "text": "Og når min hud således er skrællet af, skal jeg ud fra mit kød skue Gud,",
+      "footnotes": [
+        {
+          "text": "E: Oversættelsen er stærkt omdiskuteret. Problemet knytter sig især til verbet: *niqqᵊf*, der er pi’el pluralis, skønt »hud« er singularis. Nogle vælger at forstå det ud fra hif’il formen, så oversættelsen kan blive: »Herefter skal dette være omgivet med min hud, og jeg skal ud fra mit kød skue Gud«.",
+          "position": 38
+        }
+      ],
       "version": 1631484000000
     },
     {
-      "text": "som jeg skal skue som den der er på min side, og som mine øjne skal se, og han er ikke en fremmed. Mit indre fortæres af længsel!",
       "number": 27,
+      "text": "som jeg skal skue som den der er på min side, og som mine øjne skal se, og han er ikke en fremmed. Mit indre fortæres af længsel!",
+      "footnotes": [
+        {
+          "text": "T: En anden mulighed er at oversætte: »og det er ikke en fremmed«, underforstået: det er Job og ikke en anden, der skal se Gud.",
+          "position": 98
+        },
+        {
+          "text": "T: Ordret: »Mine nyrer forgår i mit indre«.",
+          "position": 129
+        }
+      ],
       "version": 1631484000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Ordet *qwm* bruges både i retslig sammenhæng om et vidne, der træder frem i en retssag, og som betegnelse for en teofani (fx Sef 3,8). Måske er begge motiver underforstået her.",
-      "type": "E",
-      "verse": 25,
-      "position": 60
-    },
-    {
-      "text": "Ordet *ʕāfār* er omdiskuteret i sammenhængen. Det kan også oversættes: »jorden« eller: »graven«.",
-      "type": "E",
-      "verse": 25,
-      "position": 73
-    },
-    {
-      "text": "Oversættelsen er stærkt omdiskuteret. Problemet knytter sig især til verbet: *niqqᵊf*, der er pi’el pluralis, skønt »hud« er singularis. Nogle vælger at forstå det ud fra hif’il formen, så oversættelsen kan blive: »Herefter skal dette være omgivet med min hud, og jeg skal ud fra mit kød skue Gud«.",
-      "type": "E",
-      "verse": 26,
-      "position": 38
-    },
-    {
-      "text": "En anden mulighed er at oversætte: »og det er ikke en fremmed«, underforstået: det er Job og ikke en anden, der skal se Gud.",
-      "type": "T",
-      "verse": 27,
-      "position": 98
-    },
-    {
-      "text": "Ordret: »Mine nyrer forgår i mit indre«.",
-      "type": "T",
-      "verse": 27,
-      "position": 129
     }
   ]
 }

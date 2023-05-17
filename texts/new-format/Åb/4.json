@@ -1,40 +1,73 @@
 {
-  "book": " Johannes’ Åbenbaring",
+  "book": "Johannes’ Åbenbaring",
   "abbreviation": "Åb",
   "chapter": 4,
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fDerefter så jeg, og se der var en åben dør i himlen, og den første stemme jeg havde hørt tale til mig som en basun, sagde: »Stig herop, og jeg vil vise dig hvad der skal ske herefter.« v2 Straks var jeg i Ånden, og se, en trone stod i himlen, og der sad en på tronen, v3 og han som sad dér, havde et udseende ligesom jaspis og sarder, og en regnbue rundt om tronen havde et udseende ligesom smaragder. v4Rundt om tronen så jeg firetyve troner, og på tronerne sad der fireogtyve ældste, som var iført hvide klæder, og på deres hoveder havde de guldkroner. v5 Fra tronen udgik der lyn, bulder og tordenbrag, og foran tronen brænder syv ildfakler, det er Guds syv Ånder, v6 og foran tronen er der som et glashav ligesom krystal. Og midt for tronen og rundt om tronen var der fire livsvæsner fulde af øjne fortid og bagtil. v7 Det første livsvæsen var ligesom en løve, og det andet livsvæsen var ligesom en okse, og det tredje livsvæsen har et ansigt som et menneske, og det fjerde livsvæsen var ligesom en flyvende ørn. v8 De fire livsvæsner havde hver især seks vinger, der rundt om og på indersiden var fulde af øjne, og uden ophør siger de dag og nat:\f»Hellig, hellig, hellig er Herren, Gud, den Almægtige,\fHan som var, og som er, og som kommer.«",
       "number": 1,
+      "text": "\fDerefter så jeg, og se der var en åben dør i himlen, og den første stemme jeg havde hørt tale til mig som en basun, sagde: »Stig herop, og jeg vil vise dig hvad der skal ske herefter.«",
+      "title": "Tronvisionen",
       "version": 1648076400000
     },
     {
-      "text": "\fNår livsvæsnerne frembærer pris og ære og tak til ham som sidder på tronen, og som lever i evighedernes evigheder, v10 falder de firetyve ældste ned for ham som sidder på tronen, og de tilbeder ham som lever i evighedernes evigheder, og de kaster deres kroner ned for tronen og siger:\f»Værdig er du, vor Herre og Gud,\ftil at få prisen og æren og magten,\ffor du har skabt alt\fog på grund af din vilje var det, og blev det skabt.«",
-      "number": 9,
+      "number": 2,
+      "text": "Straks var jeg i Ånden, og se, en trone stod i himlen, og der sad en på tronen,",
       "version": 1648076400000
-    }
-  ],
-  "titles": [
+    },
     {
-      "text": "Tronvisionen",
-      "verse": 1,
+      "number": 3,
+      "text": "og han som sad dér, havde et udseende ligesom jaspis og sarder, og en regnbue rundt om tronen havde et udseende ligesom smaragder.",
+      "version": 1648076400000
+    },
+    {
+      "number": 4,
+      "text": "om tronen så jeg firetyve troner, og på tronerne sad der fireogtyve ældste, som var iført hvide klæder, og på deres hoveder havde de guldkroner.",
+      "version": 1648076400000
+    },
+    {
+      "number": 5,
+      "text": "Fra tronen udgik der lyn, bulder og tordenbrag, og foran tronen brænder syv ildfakler, det er Guds syv Ånder,",
+      "version": 1648076400000
+    },
+    {
+      "number": 6,
+      "text": "og foran tronen er der som et glashav ligesom krystal. Og midt for tronen og rundt om tronen var der fire livsvæsner fulde af øjne fortid og bagtil.",
+      "version": 1648076400000
+    },
+    {
+      "number": 7,
+      "text": "Det første livsvæsen var ligesom en løve, og det andet livsvæsen var ligesom en okse, og det tredje livsvæsen har et ansigt som et menneske, og det fjerde livsvæsen var ligesom en flyvende ørn.",
+      "version": 1648076400000
+    },
+    {
+      "number": 8,
+      "text": "De fire livsvæsner havde hver især seks vinger, der rundt om og på indersiden var fulde af øjne, og uden ophør siger de dag og nat:\f\t»Hellig, hellig, hellig er Herren, Gud, den Almægtige,\f\tHan som var, og som er, og som kommer.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 9,
+      "text": "\fNår livsvæsnerne frembærer pris og ære og tak til ham som sidder på tronen, og som lever i evighedernes evigheder,",
+      "version": 1648076400000
+    },
+    {
+      "number": 10,
+      "text": "falder de firetyve ældste ned for ham som sidder på tronen, og de tilbeder ham som lever i evighedernes evigheder, og de kaster deres kroner ned for tronen og siger:\f\t»Værdig er du, vor Herre og Gud,\f\ttil at få prisen og æren og magten,\f\tfor du har skabt alt\f\tog på grund af din vilje var det, og blev det skabt.«",
       "version": 1648076400000
     }
-  ],
-  "footnotes": []
+  ]
 }

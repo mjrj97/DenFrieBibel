@@ -5,80 +5,78 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fOg der skal ske tegn i sol og måne og stjerner, og på jorden skal folkene ængstes i rådvildhed over havets og bølgernes brusen,",
       "number": 25,
+      "text": "Og der skal ske tegn i sol og måne og stjerner, og på jorden skal folkene ængstes i rådvildhed over havets og bølgernes brusen,",
       "version": 1637535600000
     },
     {
-      "text": "mens mennesker går til af frygt og gru for det som kommer over jorden; for himlens kræfter skal rystes.",
       "number": 26,
+      "text": "mens mennesker går til af frygt og gru for det som kommer over jorden; for himlens kræfter skal rystes.",
       "version": 1637535600000
     },
     {
-      "text": "Da skal de se Menneskesønnen komme i en sky med kraft og megen herlighed.",
       "number": 27,
+      "text": "Da skal de se Menneskesønnen komme i en sky med kraft og megen herlighed.",
       "version": 1637535600000
     },
     {
-      "text": "Men når disse ting begynder at ske, skal I rette jer og løfte jeres hoveder, for jeres forløsning nærmer sig.«",
       "number": 28,
+      "text": "Men når disse ting begynder at ske, skal I rette jer og løfte jeres hoveder, for jeres forløsning nærmer sig.«",
       "version": 1637535600000
     },
     {
-      "text": "Og han fortalte dem en lignelse: »Se på figentræet og alle træerne;",
       "number": 29,
+      "text": "Og han fortalte dem en lignelse: »Se på figentræet og alle træerne;",
       "version": 1637535600000
     },
     {
-      "text": "så snart de springer ud, ser I det og ved af jer selv at sommeren nu er nær.",
       "number": 30,
+      "text": "så snart de springer ud, ser I det og ved af jer selv at sommeren nu er nær.",
       "version": 1637535600000
     },
     {
-      "text": "Således skal I også, når I ser disse ting ske, vide at Guds rige er nær.",
       "number": 31,
+      "text": "Således skal I også, når I ser disse ting ske, vide at Guds rige er nær.",
       "version": 1637535600000
     },
     {
-      "text": "Sandelig siger jeg jer: Denne slægt skal ikke forgå førend det er sket alt sammen.",
       "number": 32,
+      "text": "Sandelig siger jeg jer: Denne slægt skal ikke forgå førend det er sket alt sammen.",
       "version": 1637535600000
     },
     {
-      "text": "Himlen og jorden skal forgå; men mine ord skal på ingen måde forgå.",
       "number": 33,
+      "text": "Himlen og jorden skal forgå; men mine ord skal på ingen måde forgå.",
       "version": 1637535600000
     },
     {
-      "text": "Men vogt jer at jeres hjerter ikke på et tidspunkt sløves af svir og druk og dagligdagens bekymringer så den dag kommer pludseligt over jer",
       "number": 34,
+      "text": "Men vogt jer at jeres hjerter ikke på et tidspunkt sløves af svir og druk og dagligdagens bekymringer så den dag kommer pludseligt over jer",
       "version": 1637535600000
     },
     {
-      "text": "som en snare. For den skal pludselig komme over alle dem som bor på hele jordens flade.",
       "number": 35,
+      "text": "som en snare. For den skal pludselig komme over alle dem som bor på hele jordens flade.",
       "version": 1637535600000
     },
     {
-      "text": "Våg til enhver tid idet I beder, for at I må være i stand til at undslippe alt det der skal ske, og komme til at stå foran Menneskesønnen.«",
       "number": 36,
+      "text": "Våg til enhver tid idet I beder, for at I må være i stand til at undslippe alt det der skal ske, og komme til at stå foran Menneskesønnen.«",
       "version": 1637535600000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

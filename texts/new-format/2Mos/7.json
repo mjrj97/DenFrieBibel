@@ -5,221 +5,214 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fDa sagde JHVH til Moses: »Se, jeg har gjort dig til en gud for Farao, og Aron, din bror, skal være din profet.",
       "number": 1,
+      "text": "Da sagde JHVH til Moses: »Se, jeg har gjort dig til en gud for Farao, og Aron, din bror, skal være din profet.",
       "version": 1587506400000
     },
     {
-      "text": "Du skal tale alt det som jeg vil befale dig; men Aron, din bror, skal tale til Farao så han skal lade Israels børn drage ud af sit land.",
       "number": 2,
+      "text": "Du skal tale alt det som jeg vil befale dig; men Aron, din bror, skal tale til Farao så han skal lade Israels børn drage ud af sit land.",
       "version": 1587506400000
     },
     {
-      "text": "Men jeg vil forhærde Faraos hjerte og mangfoldiggøre mine tegn og mine undere i Egyptens land.",
       "number": 3,
+      "text": "Men jeg vil forhærde Faraos hjerte og mangfoldiggøre mine tegn og mine undere i Egyptens land.",
       "version": 1587506400000
     },
     {
-      "text": "Farao vil ikke høre på jer, men jeg vil lægge min hånd på Egypten, og jeg vil føre mine hærskarer, mit folk, Israels børn, ud af Egyptens land ved store straffedomme.",
       "number": 4,
+      "text": "Farao vil ikke høre på jer, men jeg vil lægge min hånd på Egypten, og jeg vil føre mine hærskarer, mit folk, Israels børn, ud af Egyptens land ved store straffedomme.",
       "version": 1587506400000
     },
     {
-      "text": "Og Egypten skal forstå at jeg er JHVH, når jeg rækker min hånd ud mod Egypten og fører Israels børn fra deres midte.«",
       "number": 5,
+      "text": "Og Egypten skal forstå at jeg er JHVH, når jeg rækker min hånd ud mod Egypten og fører Israels børn fra deres midte.«",
+      "footnotes": [
+        {
+          "text": "T: Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: »lære at kende / indse / vide«.",
+          "position": 22
+        }
+      ],
       "version": 1587506400000
     },
     {
-      "text": "Moses og Aron gjorde det. Således som JHVH havde befalet dem, sådan gjorde de.",
       "number": 6,
+      "text": "Moses og Aron gjorde det. Således som JHVH havde befalet dem, sådan gjorde de.",
       "version": 1587506400000
     },
     {
-      "text": "Moses var 80 år, og Aron var 83 år da de talte til Farao.",
       "number": 7,
+      "text": "Moses var 80 år, og Aron var 83 år da de talte til Farao.",
       "version": 1587506400000
     },
     {
-      "text": "\fSå sagde JHVH følgende til Moses og til Aron:",
       "number": 8,
+      "text": "\fSå sagde JHVH følgende  til Moses og til Aron:",
+      "title": "Moses’ stav bliver en slange",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »idet han sagde«.",
+          "position": 24
+        }
+      ],
       "version": 1587506400000
     },
     {
-      "text": "»Når Farao taler til jer og siger: ›Giv for jer et under!‹ da skal du sige til Aron: ›Tag din stav og kast den foran Farao.‹ Den vil blive til en slange.«",
       "number": 9,
+      "text": "»Når Farao taler til jer og siger: ›Giv for jer et under!‹ da skal du sige til Aron: ›Tag din stav og kast den foran Farao.‹ Den vil blive til en slange.«",
+      "footnotes": [
+        {
+          "text": "E: Meningen må være at Moses og Aron skal bevise deres sendelse og deres Guds magt ved et under.",
+          "position": 58
+        },
+        {
+          "text": "T: Ordret: »for Faraos ansigt.«",
+          "position": 124
+        },
+        {
+          "text": "T: Det hebraiske ord: *tannîn* skal i andre sammenhænge oversættes ved: »søuhyre« eller lignende. Det er formodentlig en frygtindgydende slange.",
+          "position": 154
+        }
+      ],
       "version": 1587506400000
     },
     {
-      "text": "Så kom Moses og Aron til Farao og gjorde således som JHVH havde befalet. Aron kastede sin stav foran Farao og foran hans tjenere, og den blev til en slange.",
       "number": 10,
+      "text": "Så kom Moses og Aron til Farao og gjorde således som JHVH havde befalet. Aron kastede sin stav foran Farao og foran hans tjenere, og den blev til en slange.",
       "version": 1587506400000
     },
     {
-      "text": "Men Farao kaldte også på vismændene og troldmændene, og også disse, Egyptens mirakelmagere, gjorde det samme med deres hemmelige kunster.",
       "number": 11,
+      "text": "Men Farao kaldte også på vismændene og troldmændene, og også disse, Egyptens mirakelmagere, gjorde det samme med deres hemmelige kunster.",
+      "footnotes": [
+        {
+          "text": "T: Betydningen af det hebraiske *ḥarṭōm* er omdiskuteret. Andre oversætter det: »sandsiger« eller »minister«.",
+          "position": 91
+        }
+      ],
       "version": 1587506400000
     },
     {
-      "text": "De kastede hver sin stav, og de blev til slanger. Men Arons stav slugte deres stave.",
       "number": 12,
+      "text": "De kastede hver sin stav, og de blev til slanger. Men Arons stav slugte deres stave.",
       "version": 1587506400000
     },
     {
-      "text": "Og Faraos hjerte blev hårdt så han ikke hørte på dem, sådan som JHVH havde talt.",
       "number": 13,
+      "text": "Og Faraos hjerte blev hårdt så han ikke hørte på dem, sådan som JHVH havde talt.",
       "version": 1587506400000
     },
     {
-      "text": "\fSå sagde JHVH til Moses: »Faraos hjerte er hårdt, han har nægtet at lade folket gå.",
       "number": 14,
+      "text": "\fSå sagde JHVH til Moses: »Faraos hjerte er hårdt, han har nægtet at lade folket gå.",
+      "title": "Første plage: Vand til blod",
       "version": 1587506400000
     },
     {
-      "text": "Gå til Farao om morgenen, se, han går ud til vandet, og du skal stille dig over for ham ved Nilens bred; og staven som blev forvandlet til en slange, skal du tage i din hånd.",
       "number": 15,
+      "text": "Gå til Farao om morgenen, se, han går ud til vandet, og du skal stille dig over for ham ved Nilens bred; og staven som blev forvandlet til en slange, skal du tage i din hånd.",
       "version": 1587506400000
     },
     {
-      "text": "Og du skal sige til ham: ›JHVH, hebræernes Gud, har sendt mig til dig for at sige: Lad mit folk gå så de kan dyrke mig i ørkenen. Men indtil nu har du ikke villet høre!",
       "number": 16,
+      "text": "Og du skal sige til ham: ›JHVH, hebræernes Gud, har sendt mig til dig for at sige: Lad mit folk gå så de kan dyrke mig i ørkenen. Men indtil nu har du ikke villet høre!",
       "version": 1587506400000
     },
     {
-      "text": "Således har JHVH sagt: Ved dette vil du vide at jeg er JHVH: Se, jeg slår med staven som er i min hånd, på vandet som er i Nilen, og det vil blive forvandlet til blod,",
       "number": 17,
+      "text": "Således har JHVH sagt: Ved dette vil du vide at jeg er JHVH: Se, jeg slår med staven som er i min hånd, på vandet som er i Nilen, og det vil blive forvandlet til blod,",
       "version": 1587506400000
     },
     {
-      "text": "og fiskene som er i Nilen, vil dø, og Nilen vil stinke så Egypten ikke kan drikke vand fra Nilen.‹«",
       "number": 18,
+      "text": "og fiskene som er i Nilen, vil dø, og Nilen vil stinke så Egypten ikke kan drikke vand fra Nilen.‹«",
       "version": 1587506400000
     },
     {
-      "text": "Og JHVH sagde til Moses: »Sig til Aron: ›Tag din stav og ræk din hånd ud over Egyptens vand, over deres floder, over deres kanaler og over deres damme og over alle deres vandsamlinger, så vil det blive til blod, og der skal være blod i hele Egyptens land, både i træ- og i stenkarrene.‹«",
       "number": 19,
+      "text": "Og JHVH sagde til Moses: »Sig til Aron: ›Tag din stav og ræk din hånd ud over Egyptens vand, over deres floder, over deres kanaler og over deres damme og over alle deres vandsamlinger, så vil det blive til blod, og der skal være blod i hele Egyptens land, både i træ- og i stenkarrene.‹«",
+      "footnotes": [
+        {
+          "text": "T: Der er formodentlig tænkt på vandreservoirer.",
+          "position": 183
+        },
+        {
+          "text": "T: Ordret blot: »både i træerne og stenene«.",
+          "position": 287
+        }
+      ],
       "version": 1587506400000
     },
     {
-      "text": "Moses og Aron gjorde sådan som JHVH havde befalet. Han løftede staven og slog vandet som var i Nilen, for Faraos øjne og for hans tjeneres øjne, og alt vandet som var i Nilen, blev forvandlet til blod.",
       "number": 20,
+      "text": "Moses og Aron gjorde sådan som JHVH havde befalet. Han løftede staven og slog vandet som var i Nilen, for Faraos øjne og for hans tjeneres øjne, og alt vandet som var i Nilen, blev forvandlet til blod.",
       "version": 1587506400000
     },
     {
-      "text": "Fiskene som var i Nilen, døde, og Nilen stank så Egypten ikke kunne drikke vand fra Nilen. Der var blod i hele Egyptens land.",
       "number": 21,
+      "text": "Fiskene som var i Nilen, døde, og Nilen stank så Egypten ikke kunne drikke vand fra Nilen. Der var blod i hele Egyptens land.",
       "version": 1587506400000
     },
     {
-      "text": "Men Egyptens mirakelmagere gjorde det samme med deres hemmelige kunster. Men Faraos hjerte blev hårdt så han ikke hørte på dem, som JHVH havde talt.",
       "number": 22,
+      "text": "Men Egyptens mirakelmagere gjorde det samme med deres hemmelige kunster. Men Faraos hjerte blev hårdt så han ikke hørte på dem, som JHVH havde talt.",
+      "footnotes": [
+        {
+          "text": "T: Se note til v.11.",
+          "position": 26
+        }
+      ],
       "version": 1587506400000
     },
     {
-      "text": "Farao vendte sig og gik til sit hus og rettede end ikke sit hjerte til dette.",
       "number": 23,
+      "text": "Farao vendte sig og gik til sit hus og rettede end ikke sit hjerte til dette.",
       "version": 1587506400000
     },
     {
-      "text": "Hele Egypten gravede omkring Nilen efter vand at drikke, for de kunne ikke drikke af Nilens vand.",
       "number": 24,
+      "text": "Hele Egypten gravede omkring Nilen efter vand at drikke, for de kunne ikke drikke af Nilens vand.",
       "version": 1587506400000
     },
     {
-      "text": "Og der forløb syv dage efter at JHVH havde slået Nilen.\fV26 JHVH sagde til Moses: »Gå ind til Farao, og du skal sige til ham: ›Sådan siger JHVH: ›Lad mit folk gå så de kan dyrke mig.",
       "number": 25,
+      "text": "Og der forløb syv dage efter at JHVH havde slået Nilen.",
       "version": 1587506400000
     },
     {
-      "text": "Hvis du nægter at lade dem gå, se, så slår jeg hele dit landområde med frøer.V28 Nilen skal vrimle med frøer, og de skal stige op og komme i dit hus og i dit sovekammer og på din seng og i dine tjeneres hus og blandt dit folk og i dine bageovne og i dine dejtrug.V29 Op på dig og på dit folk og på alle dine tjenere skal frøerne stige.‹«‹",
+      "number": 26,
+      "text": "\fJHVH sagde til Moses: »Gå ind til Farao, og du skal sige til ham: ›Sådan siger JHVH: ›Lad mit folk gå så de kan dyrke mig.",
+      "title": "Anden plage: Frøer",
+      "version": 1587506400000
+    },
+    {
       "number": 27,
-      "version": 1587506400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Moses’ stav bliver en slange",
-      "verse": 8,
+      "text": "Hvis du nægter at lade dem gå, se, så slår jeg hele dit landområde med frøer.",
       "version": 1587506400000
     },
     {
-      "text": "Første plage: Vand til blod",
-      "verse": 14,
+      "number": 28,
+      "text": "Nilen skal vrimle med frøer, og de skal stige op og komme i dit hus og i dit sovekammer og på din seng og i dine tjeneres hus og blandt dit folk og i dine bageovne og i dine dejtrug.",
       "version": 1587506400000
     },
     {
-      "text": "Anden plage: Frøer",
-      "verse": 26,
+      "number": 29,
+      "text": "Op på dig og på dit folk og på alle dine tjenere skal frøerne stige.‹«‹",
       "version": 1587506400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: »lære at kende / indse / vide«.",
-      "type": "T",
-      "verse": 5,
-      "position": 22
-    },
-    {
-      "text": "Ordret: »idet han sagde«.",
-      "type": "T",
-      "verse": 8,
-      "position": 24
-    },
-    {
-      "text": "Meningen må være at Moses og Aron skal bevise deres sendelse og deres Guds magt ved et under.",
-      "type": "E",
-      "verse": 9,
-      "position": 58
-    },
-    {
-      "text": "Ordret: »for Faraos ansigt.«",
-      "type": "T",
-      "verse": 9,
-      "position": 124
-    },
-    {
-      "text": "Det hebraiske ord: *tannîn* skal i andre sammenhænge oversættes ved: »søuhyre« eller lignende. Det er formodentlig en frygtindgydende slange.",
-      "type": "T",
-      "verse": 9,
-      "position": 154
-    },
-    {
-      "text": "Betydningen af det hebraiske *ḥarṭōm* er omdiskuteret. Andre oversætter det: »sandsiger« eller »minister«.",
-      "type": "T",
-      "verse": 11,
-      "position": 91
-    },
-    {
-      "text": "Der er formodentlig tænkt på vandreservoirer.",
-      "type": "T",
-      "verse": 19,
-      "position": 183
-    },
-    {
-      "text": "Ordret blot: »både i træerne og stenene«.",
-      "type": "T",
-      "verse": 19,
-      "position": 287
-    },
-    {
-      "text": "Se note til v.11.",
-      "type": "T",
-      "verse": 22,
-      "position": 26
     }
   ]
 }

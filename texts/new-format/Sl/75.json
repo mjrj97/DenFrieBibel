@@ -5,168 +5,138 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Al-tashket.\fSalme af Asaf. En sang.",
       "number": 1,
+      "text": "Til korlederen. Al-tashket.\fSalme af Asaf. En sang.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+          "position": 27
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fVi takker dig, Gud, vi takker,\fog dit navn er nært, dine undere fortæller om det.",
       "number": 2,
+      "text": "\fVi takker dig, Gud, vi takker,\fog dit navn er nært, dine undere fortæller om det.",
+      "title": "Tak",
+      "footnotes": [
+        {
+          "text": "E: I stedet for: *wᵊqārôv šᵊmexā* (»og dit navn er nært«) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: »og den der påkalder dit navn, (fortæller om dine undere)«. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: »og vi påkalder dit navn«.",
+          "position": 52
+        },
+        {
+          "text": "T: Kan også oversættes: »de/man fortæller om dine undere«.",
+          "position": 82
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\f»Når jeg griber den fastsatte tid,\fvil jeg dømme retfærdigt,",
       "number": 3,
+      "text": "\f»Når jeg griber den fastsatte tid,\fvil jeg dømme retfærdigt,",
+      "title": "Guds tale",
       "version": 1500242400000
     },
     {
-      "text": "\fLad jorden og alle dens beboere ryste,\fjeg har dog selv sat dens søjler på plads«. Sela",
       "number": 4,
+      "text": "\fLad jorden og alle dens beboere ryste,\fjeg har dog selv sat dens søjler på plads«. Sela\f@Kaldet til omvendelse@",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »Når«.",
+          "position": 4
+        },
+        {
+          "text": "N: Sela",
+          "position": 88
+        },
+        {
+          "text": "E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.",
+          "position": 111
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fJeg sagde til de overmodige: »Vær ikke overmodige!«\fOg til de ugudelige: »Løft ikke horn!",
       "number": 5,
+      "text": "Jeg sagde til de overmodige: »Vær ikke overmodige!«\fOg til de ugudelige: »Løft ikke horn!",
+      "title": "Kaldet til omvendelse{E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.}",
+      "footnotes": [
+        {
+          "text": "T: Formodentlig er der især tænkt på gudløse.",
+          "position": 28
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fLøft ikke jeres horn mod det høje,\ftal ikke frækt med knejsende nakke!«",
       "number": 6,
+      "text": "\fLøft ikke jeres horn mod det høje,\ftal ikke frækt med knejsende nakke!«",
+      "footnotes": [
+        {
+          "text": "T: »ikke« står ikke her i grundteksten, men dækkes af »ikke« i første linje i dette dobbelte udsagn.",
+          "position": 44
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFor ikke fra øst eller fra vest,\fog heller ikke fra ørken er der ophøjelse.",
       "number": 7,
+      "text": "\fFor ikke fra øst eller fra vest,\fog heller ikke fra ørken er der ophøjelse.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »opgang«.",
+          "position": 17
+        },
+        {
+          "text": "T: Ordret: »undergang«.",
+          "position": 33
+        },
+        {
+          "text": "E: Grundteksten har: »fra ørkenens bjerge«, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (»bjerge«) opfattes så bedre som infinitiv hif’il af verbet *rwm*: »ophøje/ophøjelse«.",
+          "position": 76
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFor Gud er den som dømmer,\fhan fornedrer den ene og ophøjer den anden.",
       "number": 8,
+      "text": "\fFor Gud er den som dømmer,\fhan fornedrer den ene og ophøjer den anden.",
       "version": 1500242400000
     },
     {
-      "text": "\fFor der er et bæger i JHVHs hånd\fmed skummende vin, fuldt af krydderier,\fog han skænker ud deraf,\fselv dets bundfald må de slubre i sig og drikke, alle jordens ugudelige.",
       "number": 9,
+      "text": "\fFor der er et bæger i JHVHs hånd\fmed skummende vin, fuldt af krydderier,\fog han skænker ud deraf,\fselv dets bundfald må de slubre i sig og drikke, alle jordens ugudelige.",
       "version": 1500242400000
     },
     {
-      "text": "\fMen jeg vil forkynde for evigt,\fjeg vil lovsynge Jakobs Gud.",
       "number": 10,
+      "text": "\fMen jeg vil forkynde for evigt,\fjeg vil lovsynge Jakobs Gud.",
+      "title": "Lovprisning",
       "version": 1500242400000
     },
     {
-      "text": "\fOg jeg vil hugge alle de ugudeliges horn af,\fen retfærdigs horn skal ophøjes.",
       "number": 11,
+      "text": "\fOg jeg vil hugge alle de ugudeliges horn af,\fen retfærdigs horn skal ophøjes.",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Tak",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Guds tale",
-      "verse": 3,
-      "version": 1500242400000
-    },
-    {
-      "text": "Kaldet til omvendelse{E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.}",
-      "verse": 5,
-      "version": 1500242400000
-    },
-    {
-      "text": "Lovprisning",
-      "verse": 10,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
-      "type": "E",
-      "verse": 1,
-      "position": 28
-    },
-    {
-      "text": "I stedet for: *wᵊqārôv šᵊmexā* (»og dit navn er nært«) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: »og den der påkalder dit navn, (fortæller om dine undere)«. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: »og vi påkalder dit navn«.",
-      "type": "E",
-      "verse": 2,
-      "position": 52
-    },
-    {
-      "text": "Kan også oversættes: »de/man fortæller om dine undere«.",
-      "type": "T",
-      "verse": 2,
-      "position": 82
-    },
-    {
-      "text": "Kan også oversættes: »Når«.",
-      "type": "T",
-      "verse": 4,
-      "position": 4
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 4,
-      "position": 88
-    },
-    {
-      "text": "Formodentlig er der især tænkt på gudløse.",
-      "type": "T",
-      "verse": 5,
-      "position": 29
-    },
-    {
-      "text": "»ikke« står ikke her i grundteksten, men dækkes af »ikke« i første linje i dette dobbelte udsagn.",
-      "type": "T",
-      "verse": 6,
-      "position": 44
-    },
-    {
-      "text": "Ordret: »opgang«.",
-      "type": "T",
-      "verse": 7,
-      "position": 17
-    },
-    {
-      "text": "Ordret: »undergang«.",
-      "type": "T",
-      "verse": 7,
-      "position": 33
-    },
-    {
-      "text": "Grundteksten har: »fra ørkenens bjerge«, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (»bjerge«) opfattes så bedre som infinitiv hif’il af verbet *rwm*: »ophøje/ophøjelse«.",
-      "type": "E",
-      "verse": 7,
-      "position": 76
     }
   ]
 }

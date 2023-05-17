@@ -5,105 +5,85 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     }
   ],
   "verses": [
     {
-      "text": "\fEn salme af David.\fJHVH er min hyrde,\n\t\t\tjeg skal intet mangle.",
       "number": 1,
+      "text": "\fEn salme af David.\f\fJHVH er min hyrde,\t\t\tjeg skal intet mangle.",
+      "title": "Overskrift",
       "version": 1466114400000
     },
     {
-      "text": "\f\t\tHan lader mig ligge i grønne græsgange;\f\n\t\t\than leder mig til hvilens vande.",
       "number": 2,
+      "text": "\f\t\tHan lader mig ligge i grønne græsgange;\f\t\t\than leder mig til hvilens vande.",
+      "title": "David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt",
+      "footnotes": [
+        {
+          "text": "E: Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.",
+          "position": 77
+        }
+      ],
       "version": 1466114400000
     },
     {
-      "text": "\f\t\t\t\t\tHan giver min sjæl nye kræfter;\f\n\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
       "number": 3,
+      "text": "\f\t\t\t\t\tHan giver min sjæl nye kræfter;\f\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
+      "footnotes": [
+        {
+          "text": "E: Stier der fører til målet for Guds trofaste retfærdigheds skyld.",
+          "position": 78
+        }
+      ],
       "version": 1466114400000
     },
     {
-      "text": "\f\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens dal,\f\n\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\f\n\t\t\t\t\t\t\tfor du er med mig;\f\n\t\t\t\t\t\t\t\t\tdin kæp og din stav,\n\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
       "number": 4,
+      "text": "\f\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens  dal,\f\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\f\t\t\t\t\t\t\tfor du er med mig;\f\t\t\t\t\t\t\t\t\tdin kæp og din stav,\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
+      "footnotes": [
+        {
+          "text": "E: *ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwet* (»død«). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
+          "position": 46
+        }
+      ],
       "version": 1466114400000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\tDu dækker bord for mig\ffor øjnene af mine fjender;\f\n\t\t\t\t\t\t\t\t\t\tdu har salvet mit hoved med olie,\f\n\t\t\t\t\t\t\t\t\tmit bæger flyder over.",
       "number": 5,
+      "text": "\f\t\t\t\t\t\t\t\tDu dækker bord for mig\ffor øjnene af mine fjender;\f\t\t\t\t\t\t\t\t\t\tdu har salvet mit hoved med olie,\f\t\t\t\t\t\t\t\t\tmit bæger flyder over.",
+      "title": "Trøst og glæde i JHVH, som er den gæstfrie vært",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »over for«",
+          "position": 45
+        }
+      ],
       "version": 1466114400000
     },
     {
-      "text": "\f\tKun godhed og nåde skal følge mig\falle mine livsdage,\f\n\t\tog jeg skal blive i JHVHs hus\fhele livet.",
       "number": 6,
+      "text": "\f\tKun godhed og nåde skal følge mig\falle mine livsdage,\f\t\tog jeg skal blive i JHVHs hus\fhele livet.",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 20
+        },
+        {
+          "text": "E: *wᵊšavtî* betyder: »og jeg skal vende tilbage«. Det passer dårligt til den følgende præposition *bᵊ* (»i«). Man vokaliserer ofte * wᵊšivtî*: »og min boen« eller *wᵊyāšavtî*: »og jeg skal bo«.",
+          "position": 75
+        },
+        {
+          "text": "T: Egentlig: »i dages udstrækning«, dvs. »alle dage, hele livet«.",
+          "position": 98
+        }
+      ],
       "version": 1466114400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1466114400000
-    },
-    {
-      "text": "David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt",
-      "verse": 2,
-      "version": 1466114400000
-    },
-    {
-      "text": "Trøst og glæde i JHVH, som er den gæstfrie vært",
-      "verse": 5,
-      "version": 1466114400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.",
-      "type": "E",
-      "verse": 2,
-      "position": 78
-    },
-    {
-      "text": "Stier der fører til målet for Guds trofaste retfærdigheds skyld.",
-      "type": "E",
-      "verse": 3,
-      "position": 79
-    },
-    {
-      "text": "*ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwet* (»død«). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
-      "type": "E",
-      "verse": 4,
-      "position": 46
-    },
-    {
-      "text": "Ordret: »over for«",
-      "type": "T",
-      "verse": 5,
-      "position": 45
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 6,
-      "position": 20
-    },
-    {
-      "text": "*wᵊšavtî* betyder: »og jeg skal vende tilbage«. Det passer dårligt til den følgende præposition *bᵊ* (»i«). Man vokaliserer ofte * wᵊšivtî*: »og min boen« eller *wᵊyāšavtî*: »og jeg skal bo«.",
-      "type": "E",
-      "verse": 6,
-      "position": 76
-    },
-    {
-      "text": "Egentlig: »i dages udstrækning«, dvs. »alle dage, hele livet«.",
-      "type": "T",
-      "verse": 6,
-      "position": 99
     }
   ]
 }

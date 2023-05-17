@@ -5,88 +5,220 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fEfter at han var steget ombord i båden, sejlede han over og kom til sin egen by. v2 Og se, de bar en lam som lå på en seng, hen til ham, og da Jesus så deres tro, sagde han til den lamme: »Vær ved godt mod, søn, dine synder tilgives dig.« v3 Og se, nogle skriftlærde sagde ved sig selv: »Han spotter Gud.« v4 Da Jesus så deres tanker, sagde han: »Hvorfor tænker I ondt i jeres hjerter? v5 For hvad er lettest at sige: Dine synder tilgives dig, eller at sige: Rejs dig op og gå omkring? v6 Men for at I skal vide at Menneskesønnen har fuldmagt på jorden til at tilgive synder« – så siger han til den lamme: »Rejs dig op, tag din seng og gå hjem.« v7 Og han rejste sig op og gik hjem. v8 Men da skarerne så det, frygtede de, og de priste Gud, som havde givet en sådan fuldmagt til mennesker.",
       "number": 1,
+      "text": "\fEfter at han var steget ombord i båden, sejlede han over og kom til sin egen by.",
+      "title": "Helbredelsen af den lamme",
       "version": 1622152800000
     },
     {
-      "text": "\fDa Jesus gik videre derfra, så han en mand, som hedder Matthæus, side ved toldboden, og han sagde til ham: »Følg mig.« Og han rejste sig og fulgte ham. v10 Mens han lå til bords i hans hus, se, da kom mange toldere og syndere og lå til bords med Jesus og hans disciple. v11 Da farisæerne så det, sagde de til hans disciple:»Hvorfor spiser jeres lærer sammen med toldere og syndere?« v12 Men da han hørte det, sagde han: »De raske har ikke brug for læge, men de syge. v13 Men gå bort og lær hvad det betyder: Jeg vil barmhjertighed og ikke slagtoffer. For jeg er ikke kommet for at kalde retfærdige, men syndere.«",
+      "number": 2,
+      "text": "Og se, de bar en lam som lå på en seng, hen til ham, og da Jesus så deres tro, sagde han til den lamme: »Vær ved godt mod, søn, dine synder tilgives dig.«",
+      "version": 1622152800000
+    },
+    {
+      "number": 3,
+      "text": "Og se, nogle skriftlærde sagde ved sig selv: »Han spotter Gud.«",
+      "footnotes": [
+        {
+          "text": "N: Skriftlærd",
+          "position": 24
+        }
+      ],
+      "version": 1622152800000
+    },
+    {
+      "number": 4,
+      "text": "Da Jesus så deres tanker, sagde han: »Hvorfor tænker I ondt i jeres hjerter?",
+      "version": 1622152800000
+    },
+    {
+      "number": 5,
+      "text": "For hvad er lettest at sige: Dine synder tilgives dig, eller at sige: Rejs dig op og gå omkring?",
+      "version": 1622152800000
+    },
+    {
+      "number": 6,
+      "text": "Men for at I skal vide at Menneskesønnen har fuldmagt på jorden til at tilgive synder« – så siger han til den lamme: »Rejs dig op, tag din seng og gå hjem.«",
+      "version": 1622152800000
+    },
+    {
+      "number": 7,
+      "text": "Og han rejste sig op og gik hjem.",
+      "version": 1622152800000
+    },
+    {
+      "number": 8,
+      "text": "Men da skarerne så det, frygtede de, og de priste Gud, som havde givet en sådan fuldmagt til mennesker.",
+      "version": 1622152800000
+    },
+    {
       "number": 9,
+      "text": "\fDa Jesus gik videre derfra, så han en mand, som hedder Matthæus, side ved toldboden, og han sagde til ham: »Følg mig.« Og han rejste sig og fulgte ham.",
+      "title": "Kaldelsen af Matthæus",
       "version": 1622152800000
     },
     {
-      "text": "\fDa kom Johannes’ disciple til ham og sagde: »Hvorfor faster vi og farisæerne meget, men dine disciple faster ikke?« v15 Jesus sagde til dem: »Kan brudesvendene sørge, så længe brudgommen er hos dem? Men der skal komme dage da brudgommen er taget fra dem, og da skal de faste. v16 Ingen sætter en lap af et stykke ukrympet stof på en gammel kappe, for lappen river noget fra kappen, og huller bliver værre. v17 Man hælder ikke ny vin på gamle lædersække, ellers sprænges sækkene, og vinen spildes, og lædersækkene ødelægges. Men man hælder ny vin på nye lædersække, og begge bliver bevaret.«",
+      "number": 10,
+      "text": "Mens han lå til bords i hans hus, se, da kom mange toldere og syndere og lå til bords med Jesus og hans disciple.",
+      "version": 1622152800000
+    },
+    {
+      "number": 11,
+      "text": "Da farisæerne så det, sagde de til hans disciple:»Hvorfor spiser jeres lærer sammen med toldere og syndere?«",
+      "version": 1622152800000
+    },
+    {
+      "number": 12,
+      "text": "Men da han hørte det, sagde han: »De raske har ikke brug for læge, men de syge.",
+      "version": 1622152800000
+    },
+    {
+      "number": 13,
+      "text": "Men gå bort og lær hvad det betyder: Jeg vil barmhjertighed og ikke slagtoffer. For jeg er ikke kommet for at kalde retfærdige, men syndere.«",
+      "version": 1622152800000
+    },
+    {
       "number": 14,
+      "text": "\fDa kom Johannes’ disciple til ham og sagde: »Hvorfor faster vi og farisæerne meget, men dine disciple faster ikke?«",
+      "title": "Om gammelt og nyt",
       "version": 1622152800000
     },
     {
-      "text": "\fMens han talte om dette til dem, kom en synagogeforstander hen til ham, faldt ned for ham og sagde: »Min datter er lige nu død, men kom og læg din hånd på hende, og så vil hun leve.« v19 Jesus rejste sig, og han og hans disciple fulgte ham. v20 Og se, en kvinde som havde lidt af blødninger i tolv år, kom til ham bagfra og rørte ved kvasten på hans kappe, v21 for hun sagde ved sig selv: »Hvis jeg blot rører ved hans kappe, bliver jeg frelst.« v22 Men da Jesus vendte sig og så hende, sagde han: »Vær ved godt mod, datter, din tro har frelst dig« Og kvinden blev frelst fra den time. v23 Da Jesus kom til synagogeforstanderens hus og så fløjtespillerne og den larmende skare, v24 sagde han: »Gå bort, for pigen er ikke død, men sover.« Og de lo af ham. v25 Men da skaren var blevet drevet bort, gik han ind og greb hendes hånd, og pigen rejste sig op. v26 Rygtet om det kom ud i hele den del af landet.",
+      "number": 15,
+      "text": "Jesus sagde til dem: »Kan brudesvendene sørge, så længe brudgommen er hos dem? Men der skal komme dage da brudgommen er taget fra dem, og da skal de faste.",
+      "version": 1622152800000
+    },
+    {
+      "number": 16,
+      "text": "Ingen sætter en lap af et stykke ukrympet stof på en gammel kappe, for lappen river noget fra kappen, og huller bliver værre.",
+      "version": 1622152800000
+    },
+    {
+      "number": 17,
+      "text": "Man hælder ikke ny vin på gamle lædersække, ellers sprænges sækkene, og vinen spildes, og lædersækkene ødelægges. Men man hælder ny vin på nye lædersække, og begge bliver bevaret.«",
+      "version": 1622152800000
+    },
+    {
       "number": 18,
+      "text": "\fMens han talte om dette til dem, kom en synagogeforstander hen til ham, faldt ned for ham og sagde: »Min datter er lige nu død, men kom og læg din hånd på hende, og så vil hun leve.«",
+      "title": "Helbredelsen af synagogeforstanderens datter og kvinden med blødninger",
       "version": 1622152800000
     },
     {
-      "text": "\fDa Jesus gik videre derfra, fulgte to blinde efter ham, og de råbte: »Forbarm dig over os, Davids søn.« v28 Men da han var kommet ind i huset, kom de blinde til ham, og Jesus sagde til dem: »Tror I at jeg kan gøre dette?« De sagde til ham: »Ja, Herre!« v29 Da rørte han ved deres øjne og sagde: »Det skal ske jer efter jeres tro.« v30 Og deres øjne blev åbnet. Jesus talte strengt til dem: »Se til at ingen får det at vide.« v31 Men de gik ud og udbredte rygtet om ham i hele den del af landet. v32 Men da disse var gået ud, bragte man ham et stumt menneske som var besat. v33 Og da dæmonen var blevet uddrevet, talte den stumme. Skarerne undrede sig: »Aldrig er sådan noget set i Israel.« v34 Men farisæerne sagde: »Han uddriver dæmoner ved dæmonernes fyrste.«",
+      "number": 19,
+      "text": "Jesus rejste sig, og han og hans disciple fulgte ham.",
+      "version": 1622152800000
+    },
+    {
+      "number": 20,
+      "text": "Og se, en kvinde som havde lidt af blødninger i tolv år, kom til ham bagfra og rørte ved kvasten på hans kappe,",
+      "version": 1622152800000
+    },
+    {
+      "number": 21,
+      "text": "for hun sagde ved sig selv: »Hvis jeg blot rører ved hans kappe, bliver jeg frelst.«",
+      "version": 1622152800000
+    },
+    {
+      "number": 22,
+      "text": "Men da Jesus vendte sig og så hende, sagde han: »Vær ved godt mod, datter, din tro har frelst dig« Og kvinden blev frelst fra den time.",
+      "version": 1622152800000
+    },
+    {
+      "number": 23,
+      "text": "Da Jesus kom til synagogeforstanderens hus og så fløjtespillerne og den larmende skare,",
+      "version": 1622152800000
+    },
+    {
+      "number": 24,
+      "text": "sagde han: »Gå bort, for pigen er ikke død, men sover.« Og de lo af ham.",
+      "version": 1622152800000
+    },
+    {
+      "number": 25,
+      "text": "Men da skaren var blevet drevet bort, gik han ind og greb hendes hånd, og pigen rejste sig op.",
+      "version": 1622152800000
+    },
+    {
+      "number": 26,
+      "text": "Rygtet om det kom ud i hele den del af landet.",
+      "version": 1622152800000
+    },
+    {
       "number": 27,
+      "text": "\fDa Jesus gik videre derfra, fulgte to blinde efter ham, og de råbte: »Forbarm dig over os, Davids søn.«",
+      "title": "To blinde og en besat",
       "version": 1622152800000
     },
     {
-      "text": "\fJesus drog omkring i alle byerne og landsbyerne og underviste i deres synagoger og forkyndte evangeliet om Riget, og han helbredte enhver sygdom og enhver lidelse. v36 Men da Jesus så skarerne, fik han medlidenhed med dem, for de var vanrygtede og forkomne som får der ikke har en hyrde. v37 Da sagde han til sine disciple: »Høsten er stor, men arbejderne få. v38 Bed derfor høstens herre om at sende arbejdere ud til sin høst.«",
+      "number": 28,
+      "text": "Men da han var kommet ind i huset, kom de blinde til ham, og Jesus sagde til dem: »Tror I at jeg kan gøre dette?« De sagde til ham: »Ja, Herre!«",
+      "version": 1622152800000
+    },
+    {
+      "number": 29,
+      "text": "Da rørte han ved deres øjne og sagde: »Det skal ske jer efter jeres tro.«",
+      "version": 1622152800000
+    },
+    {
+      "number": 30,
+      "text": "Og deres øjne blev åbnet. Jesus talte strengt til dem: »Se til at ingen får det at vide.«",
+      "version": 1622152800000
+    },
+    {
+      "number": 31,
+      "text": "Men de gik ud og udbredte rygtet om ham i hele den del af landet.",
+      "version": 1622152800000
+    },
+    {
+      "number": 32,
+      "text": "Men da disse var gået ud, bragte man ham et stumt menneske som var besat.",
+      "version": 1622152800000
+    },
+    {
+      "number": 33,
+      "text": "Og da dæmonen var blevet uddrevet, talte den stumme. Skarerne undrede sig: »Aldrig er sådan noget set i Israel.«",
+      "version": 1622152800000
+    },
+    {
+      "number": 34,
+      "text": "Men farisæerne sagde: »Han uddriver dæmoner ved dæmonernes fyrste.«",
+      "version": 1622152800000
+    },
+    {
       "number": 35,
-      "version": 1622152800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Helbredelsen af den lamme",
-      "verse": 1,
+      "text": "\fJesus drog omkring i alle byerne og landsbyerne og underviste i deres synagoger og forkyndte evangeliet om Riget, og han helbredte enhver sygdom og enhver lidelse.",
+      "title": "Den store høst",
       "version": 1622152800000
     },
     {
-      "text": "Kaldelsen af Matthæus",
-      "verse": 2,
+      "number": 36,
+      "text": "Men da Jesus så skarerne, fik han medlidenhed med dem, for de var vanrygtede og forkomne som får der ikke har en hyrde.",
       "version": 1622152800000
     },
     {
-      "text": "Om gammelt og nyt",
-      "verse": 10,
+      "number": 37,
+      "text": "Da sagde han til sine disciple: »Høsten er stor, men arbejderne få.",
       "version": 1622152800000
     },
     {
-      "text": "Helbredelsen af synagogeforstanderens datter og kvinden med blødninger",
-      "verse": 15,
+      "number": 38,
+      "text": "Bed derfor høstens herre om at sende arbejdere ud til sin høst.«",
       "version": 1622152800000
-    },
-    {
-      "text": "To blinde og en besat",
-      "verse": 19,
-      "version": 1622152800000
-    },
-    {
-      "text": "Den store høst",
-      "verse": 28,
-      "version": 1622152800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Skriftlærd",
-      "type": "N",
-      "verse": 1,
-      "position": 267
     }
   ]
 }

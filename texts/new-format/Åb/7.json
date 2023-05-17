@@ -1,70 +1,104 @@
 {
-  "book": " Johannes’ Åbenbaring",
+  "book": "Johannes’ Åbenbaring",
   "abbreviation": "Åb",
   "chapter": 7,
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fDerefter så jeg fire engle stå på jordens fire hjørner, og de holdt jordens fire vinde for at ingen vind skulle blæse på jorden eller på havet eller på noget træ. v2 Jeg så en anden engel stige op fra solens opgang med den levende Guds segl, og han råbte med høj stemme til de fire engle som det var blevet givet at skade jorden og havet, v3 og han sagde: »Skad ikke jorden eller havet eller træerne før vi har beseglet vores Guds tjenere på deres pander.« v4 Og jeg hørte tallet på de beseglede, 144.000, som var beseglet af alle Israels børn stammer:",
       "number": 1,
+      "text": "\fDerefter så jeg fire engle stå på jordens fire hjørner, og de holdt jordens fire vinde for at ingen vind skulle blæse på jorden eller på havet eller på noget træ.",
+      "title": "De 144.000 beseglede",
       "version": 1648076400000
     },
     {
-      "text": "\faf Juda stamme 12.000 beseglede,\faf Rubens stamme 12.000,\faf Gads stamme 12.000,",
+      "number": 2,
+      "text": "Jeg så en anden engel stige op fra solens opgang med den levende Guds segl, og han råbte med høj stemme til de fire engle som det var blevet givet at skade jorden og havet,",
+      "version": 1648076400000
+    },
+    {
+      "number": 3,
+      "text": "og han sagde: »Skad ikke jorden eller havet eller træerne før vi har beseglet vores Guds tjenere på deres pander.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 4,
+      "text": "Og jeg hørte tallet på de beseglede, 144.000, som var beseglet af alle Israels børn stammer:",
+      "version": 1648076400000
+    },
+    {
       "number": 5,
+      "text": "\faf Juda stamme 12.000 beseglede,\faf Rubens stamme 12.000,\faf Gads stamme 12.000,",
       "version": 1648076400000
     },
     {
-      "text": "\faf Asers stamme 12.000,\faf Naftalis stamme 12.000,\faf Manasses stamme 12.000,",
       "number": 6,
+      "text": "\faf Asers stamme 12.000,\faf Naftalis stamme 12.000,\faf Manasses stamme 12.000,",
       "version": 1648076400000
     },
     {
-      "text": "\faf Simeons stamme 12.000,\faf Levis stamme 12.000,\faf Issakars stamme 12.000,",
       "number": 7,
+      "text": "\faf Simeons stamme 12.000,\faf Levis stamme 12.000,\faf Issakars stamme 12.000,",
       "version": 1648076400000
     },
     {
-      "text": "\faf Zebulons stamme 12.000,\faf Josefs stamme 12.000,\faf Benjamins stamme 12.000 beseglede.",
       "number": 8,
+      "text": "\faf Zebulons stamme 12.000,\faf Josefs stamme 12.000,\faf Benjamins stamme 12.000 beseglede.",
       "version": 1648076400000
     },
     {
-      "text": "\fDerefter så jeg, og se en stor skare, som ingen kunne tælle, af alle nationer og stammer og folk og sprog stod foran tronen og foran lammet iført lange hvide klæder og med palmegrene i deres hænder, v10 og de råbte med høj stemme: »Frelsen tilhører vores Gud som sidder på tronen, og Lammet.« v11 Alle englene stod rundt om tronen og om de ældste og de fire livsvæsner, og de faldt ned for tronen på deres ansigt og tilbad Gud, v12 og de sagde:\f»Amen. Velsignelsen og herligheden og visdommen og takken og æren og kraften\fog styrken tilhører vores Gud i evighedernes evigheder. Amen«",
       "number": 9,
+      "text": "\fDerefter så jeg, og se en stor skare, som ingen kunne tælle, af alle nationer og stammer og folk og sprog stod foran tronen og foran lammet iført lange hvide klæder og med palmegrene i deres hænder,",
+      "title": "Den store hvide flok",
       "version": 1648076400000
     },
     {
-      "text": "\fEn af de ældste tog til orde og sagde til mig: »Hvem er de som er iført lange hvide klæder, og hvorfra er de kommet?« Jeg sagde til ham: »Min herre, du ved det.« Han sagde til mig:\f»Det er dem som kommer fra den store trængsel, og de har vasket deres klæder\fog gjort dem hvide i Lammets blod.\fv15 Derfor er de foran Guds trone\fog tjener ham dag og nat i hans tempel,\fog han som sidder på tronen, slår sit telt op over dem.\fv16 De hverken sulter eller tørster mere,\fsolen eller nogen hede falder ikke mere på dem,\fv17 for Lammet som står midt for tronen, vogter dem,\fog han leder dem til livets kilder med vand,\fog Gud tørrer hver tåre af deres øjne.«",
+      "number": 10,
+      "text": "og de råbte med høj stemme: »Frelsen tilhører vores Gud som sidder på tronen, og Lammet.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 11,
+      "text": "Alle englene stod rundt om tronen og om de ældste og de fire livsvæsner, og de faldt ned for tronen på deres ansigt og tilbad Gud,",
+      "version": 1648076400000
+    },
+    {
+      "number": 12,
+      "text": "og de sagde: \f\t»Amen. Velsignelsen og herligheden og visdommen og takken og æren og kraften \fog styrken tilhører vores Gud i evighedernes evigheder. Amen«",
+      "version": 1648076400000
+    },
+    {
       "number": 13,
-      "version": 1648076400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "De 144.000 beseglede",
-      "verse": 1,
+      "text": "\fEn af de ældste tog til orde og sagde til mig: »Hvem er de som er iført lange hvide klæder, og hvorfra er de kommet?« Jeg sagde til ham: »Min herre, du ved det.« Han sagde til mig:\f\t»Det er dem som kommer fra den store trængsel, og de har vasket deres klæder\f\tog gjort dem hvide i Lammets blod.",
       "version": 1648076400000
     },
     {
-      "text": "Den store hvide flok",
-      "verse": 9,
+      "number": 15,
+      "text": "\fDerfor er de foran Guds trone\f\tog tjener ham dag og nat i hans tempel,\f\tog han som sidder på tronen, slår sit telt op over dem.",
+      "version": 1648076400000
+    },
+    {
+      "number": 16,
+      "text": "\fDe hverken sulter eller tørster mere,\f\tsolen eller nogen hede falder ikke mere på dem,",
+      "version": 1648076400000
+    },
+    {
+      "number": 17,
+      "text": "\ffor Lammet som står midt for tronen, vogter dem,\f\tog han leder dem til livets kilder med vand, \f\tog Gud tørrer hver tåre af deres øjne.«",
       "version": 1648076400000
     }
-  ],
-  "footnotes": []
+  ]
 }

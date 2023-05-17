@@ -5,83 +5,78 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fFor så mange som drives af Guds Ånd, er Guds børn.",
       "number": 14,
+      "text": "For så mange som drives af Guds Ånd, er Guds børn.",
       "version": 1645570800000
     },
     {
-      "text": "I modtog jo ikke en trælleånd som atter leder til frygt, men I modtog en barnekårs ånd, i hvilken vi råber: Abba, Far!",
       "number": 15,
+      "text": "I modtog jo ikke en trælleånd som atter leder til frygt, men I modtog en barnekårs ånd, i hvilken vi råber: Abba, Far!",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »stadig«.",
+          "position": 39
+        },
+        {
+          "text": "T: Det græske ord betegner en adoption.",
+          "position": 82
+        }
+      ],
       "version": 1645570800000
     },
     {
-      "text": "Ånden selv vidner med vores ånd om at vi er Guds børn.",
       "number": 16,
+      "text": "Ånden selv vidner med vores ånd om at vi er Guds børn.",
       "version": 1645570800000
     },
     {
-      "text": "Men når vi er børn, er vi også arvinger, Guds arvinger og Kristi medarvinger, om ellers vi lider med ham for også at herliggøres med ham.",
       "number": 17,
+      "text": "Men når vi er børn, er vi også arvinger, Guds arvinger og Kristi medarvinger, om ellers vi lider med ham for også at herliggøres med ham.",
       "version": 1645570800000
     },
     {
-      "text": "\fFor jeg holder på at den nærværende tids lidelser ikke er at regne for noget imod den herlighed som skal åbenbares på os.",
       "number": 18,
+      "text": "\fFor jeg holder på at den nærværende tids lidelser ikke er at regne for noget imod den herlighed som skal åbenbares på os.",
       "version": 1645570800000
     },
     {
-      "text": "For skabningen afventer med inderlig længsel Guds børns åbenbaring.",
       "number": 19,
+      "text": "For skabningen afventer med inderlig længsel Guds børns åbenbaring.",
       "version": 1645570800000
     },
     {
-      "text": "For skabningen blev underlagt forgængeligheden, ikke med egen vilje, men for hans skyld som lagde den derunder, med håb",
       "number": 20,
+      "text": "For skabningen blev underlagt forgængeligheden, ikke med egen vilje, men for hans skyld som lagde den derunder, med håb",
       "version": 1645570800000
     },
     {
-      "text": "om at også skabningen selv skal blive frigjort fra trældommen under fordærvet til Guds børns frihed i herligheden.",
       "number": 21,
+      "text": "om at også skabningen selv skal blive frigjort fra trældommen under fordærvet til Guds børns frihed i herligheden.",
       "version": 1645570800000
     },
     {
-      "text": "For vi ved at hele skabningen stadig sammen sukker og sammen er i smerte.",
       "number": 22,
+      "text": "For vi ved at hele skabningen stadig sammen sukker og sammen er i smerte.",
       "version": 1645570800000
     },
     {
-      "text": "Dog ikke bare den, men også vi som har Åndens førstegrøde, også vi sukker ved os selv idet vi forventer barnekår, vores legemes forløsning.",
       "number": 23,
+      "text": "Dog ikke bare den, men også vi som har Åndens førstegrøde, også vi sukker ved os selv idet vi forventer barnekår, vores legemes forløsning.",
       "version": 1645570800000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »stadig«.",
-      "type": "T",
-      "verse": 15,
-      "position": 39
-    },
-    {
-      "text": "Det græske ord betegner en adoption.",
-      "type": "T",
-      "verse": 15,
-      "position": 82
     }
   ]
 }

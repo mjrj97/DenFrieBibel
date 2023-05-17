@@ -5,248 +5,222 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fDa kana’anæeren, Arads konge, som boede i Sydlandet, hørte at Israel kom ad Atarim-vejen, gik han i kamp mod Israel og førte nogle af dem bort i fangenskab.",
       "number": 1,
+      "text": "\fDa kana’anæeren, Arads konge, som boede i Sydlandet, hørte at Israel kom ad Atarim-vejen, gik han i kamp mod Israel og førte nogle af dem bort i fangenskab.",
+      "title": "Arads konge slår Israel. De beder til Gud og overvinder ham.",
       "version": 1651183200000
     },
     {
-      "text": "Da aflagde Israel et løfte til JHVH og sagde: »Hvis du giver dette folk i min magt, vil jeg lægge band over deres byer.«",
       "number": 2,
+      "text": "Da aflagde Israel et løfte til JHVH og sagde: »Hvis du giver dette folk i min magt, vil jeg lægge band over deres byer.«",
       "version": 1651183200000
     },
     {
-      "text": "JHVH hørte Israels røst og overgav kana’anæerne til dem, og man bandlyste dem og deres byer og gav stedet navnet Horma.",
       "number": 3,
+      "text": "JHVH hørte Israels røst og overgav kana’anæerne til dem, og man bandlyste dem og deres byer og gav stedet navnet Horma.",
       "version": 1651183200000
     },
     {
-      "text": "\fSå rejste de af sted fra bjerget Hor i retning af Sivhavet\n\t\tfor at drage uden om Edoms land.\n\tPå vejen tabte folket tålmodigheden,",
       "number": 4,
+      "text": "\fSå rejste de af sted fra bjerget Hor i retning af Sivhavet\t\tfor at drage uden om Edoms land.\tPå vejen tabte folket tålmodigheden,",
+      "title": "Israelitterne beklager sig atter og bliver bidt af slanger. De som ser hen til bronzeslangen, bliver raske.",
+      "footnotes": [
+        {
+          "text": "E: Vendingen *wattiqṣar nefeš-hāʕām* betyder helt ordret »folkets sjæl blev forkortet« og er mere end bare lidt utilfredshed. Måske rammer begrebet »sjæl« her en betydning i retning af »at tabe/miste besindelsen.« Vendingen bruges om Guds utålmodighed med Israel i Dom 10,16.",
+          "position": 130
+        }
+      ],
       "version": 1651183200000
     },
     {
-      "text": "\tog folket talte imod Gud og imod Moses\n\t\t»Hvorfor førte I os ud af Egypten\n\t\t\t\tfor at dø i ørkenen?\n\t\t\tFor her er ingen brød\n\t\t\t\t\tog ingen vand,\n\t\t\t\tog vi afskyr den elendige mad.«",
       "number": 5,
+      "text": "\tog folket talte imod Gud og imod Moses \t\t»Hvorfor førte I os ud af Egypten\t\t\t\tfor at dø i ørkenen?\t\t\tFor her er ingen brød\t\t\t\t\tog ingen vand,\t\t\t\tog vi afskyr den elendige mad.«",
+      "footnotes": [
+        {
+          "text": "E: Præpositionen i *dabbēr bᵊ* »meddele i« har også betydning »imod« i 4 Mos 12,1.",
+          "position": 40
+        },
+        {
+          "text": "E: Vendingen *wᵊnafšēnû qāṣāʰ bᵊ* »vores sjæl føler afsky over« bruger igen *nefeš* »sjæl« i en allusion til v 5.",
+          "position": 158
+        }
+      ],
       "version": 1651183200000
     },
     {
-      "text": "\tDa sendte HERREN giftige slanger ind blandt folket,\n\t\tog de bed folket,\n\t\t\tog en mængde af Israels folk døde.",
       "number": 6,
+      "text": "\tDa sendte HERREN giftige slanger ind blandt folket,\t\tog de bed folket,\t\t\tog en mængde af Israels folk døde.",
+      "footnotes": [
+        {
+          "text": "T: Den hebraiske tekst har ordret »en mængde af folket fra Israel.« ",
+          "position": 102
+        }
+      ],
       "version": 1651183200000
     },
     {
-      "text": "\tSå kom folket til Moses,\n\t\tog sagde:\n\t\t\t»Vi har syndet,\n\t\t\t\t\tfor vi har talt imod HERREN og imod dig.\n\t\t\t\tBed til HERREN\n\t\t\t\t\tat han vil fjerne slangerne fra os.«\n\tDa bad Moses for folket,",
       "number": 7,
+      "text": "\tSå kom folket til Moses,\t\tog sagde:\t\t\t»Vi har syndet,\t\t\t\t\tfor vi har talt imod HERREN og imod dig.\t\t\t\tBed til HERREN\t\t\t\t\tat han vil fjerne slangerne fra os.«\tDa bad Moses for folket,",
       "version": 1651183200000
     },
     {
-      "text": "\t\tog HERREN sagde til Moses:\n\t\t\t»Lav en giftslange\n\t\t\t\t\tog sæt den på en stang.\n\t\t\t\tDer skal ske det at enhver som er blevet bidt\n\t\t\t\t\tog ser på den,\n\t\t\t\t\t\tskal forblive i live.«",
       "number": 8,
+      "text": "\t\tog HERREN sagde til Moses:\t\t\t»Lav en giftslange\t\t\t\t\tog sæt den på en stang.\t\t\t\tDer skal ske det at enhver som er blevet bidt\t\t\t\t\tog ser på den,\t\t\t\t\t\tskal forblive i live.«",
       "version": 1651183200000
     },
     {
-      "text": "\tSå lavede Moses en bronzeslange\n\t\tog satte den på en stang,\n\t\t\tog så skete der det\n\t\t\t\tat når en slange havde bidt nogen,\n\t\t\t\t\tog han så hen på bronzeslangen,\n\t\t\t\t\t\tda forblev han i live.",
       "number": 9,
+      "text": "\tSå lavede Moses en bronzeslange\t\tog satte den på en stang,\t\t\tog så skete der det\t\t\t\tat når en slange havde bidt nogen,\t\t\t\t\tog han så hen på bronzeslangen,\t\t\t\t\t\tda forblev han i live.",
       "version": 1651183200000
     },
     {
-      "text": "\fIsraelitterne brød op derfra, og de slog lejr i Obot.",
       "number": 10,
+      "text": "\fbrød op derfra, og de slog lejr i Obot.",
+      "title": "Beskrivelse af flere af israelitternes rejser.",
       "version": 1651183200000
     },
     {
-      "text": "De brød op fra Obot og slog lejr ved Ijje-ha-Abarim i ørkenen øst for Moab.",
       "number": 11,
+      "text": "De brød op fra Obot og slog lejr ved Ijje-ha-Abarim i ørkenen øst for Moab.",
       "version": 1651183200000
     },
     {
-      "text": "Derfra brød de op og slog lejr i Zered-dalen.",
       "number": 12,
+      "text": "Derfra brød de op og slog lejr i Zered-dalen.",
       "version": 1651183200000
     },
     {
-      "text": "Derfra brød de op og slog lejr på denne side af Arnon, som går gennem ørkenen, og som går ud fra amoritternes land, for Arnon var grænsen mellem Moab og amoritterne.",
       "number": 13,
+      "text": "Derfra brød de op og slog lejr på denne side af Arnon, som går gennem ørkenen, og som går ud fra amoritternes land, for Arnon var grænsen mellem Moab og amoritterne.",
       "version": 1651183200000
     },
     {
-      "text": "Derfor omtales  i Bogen om JHVHs Krige Vaheb i Sufa,  Arnons flodlejer,",
       "number": 14,
+      "text": "Derfor omtales i Bogen om JHVHs Krige Vaheb i Sufa, Arnons flodlejer,",
       "version": 1651183200000
     },
     {
-      "text": "og skråningerne op til bosættelsen ved Ar, der markerer grænsen ind til Moab.",
       "number": 15,
+      "text": "og skråningerne op til bosættelsen ved Ar, der markerer grænsen ind til Moab.",
       "version": 1651183200000
     },
     {
-      "text": "Derfra rejste de til Be’er. Det er den brønd som JHVH talte om til Moses: »Saml folket, og jeg vil give dem vand.«",
       "number": 16,
+      "text": "Derfra rejste de til Be’er. Det er den brønd som JHVH talte om til Moses: »Saml folket, og jeg vil give dem vand.«",
       "version": 1651183200000
     },
     {
-      "text": "Da sang Israel denne sang: »Kom op, brønd! Syng om den.",
       "number": 17,
+      "text": "Da sang Israel denne sang: »Kom op, brønd! Syng om den.",
       "version": 1651183200000
     },
     {
-      "text": "Brønden som er gravet af stammelederne, kastet af de ædle blandt folket, med kongespir og herskerstave!« Fra ørkenen rejste de til Mattana,",
       "number": 18,
+      "text": "Brønden som er gravet af stammelederne, kastet af de ædle blandt folket, med kongespir og herskerstave!« Fra ørkenen rejste de til Mattana,",
       "version": 1651183200000
     },
     {
-      "text": "og fra Mattana til Nahaliel, fra Nahaliel til Bamot",
       "number": 19,
+      "text": "og fra Mattana til Nahaliel, fra Nahaliel til Bamot",
       "version": 1651183200000
     },
     {
-      "text": "og fra Bamot til den dal som er i Moabs land, mod Pisgas tinde, der skuer ud over ørkenen.",
       "number": 20,
+      "text": "og fra Bamot til den dal som er i Moabs land, mod Pisgas tinde, der skuer ud over ørkenen.",
       "version": 1651183200000
     },
     {
-      "text": "\fIsrael sendte bud til Sihon, amoritternes konge, og lod sige:",
       "number": 21,
+      "text": "\fIsrael sendte bud til Sihon, amoritternes konge, og lod sige:",
+      "title": "Sihon vil ikke lade israelitterne rejse gennem sit rige og besejres af dem.",
       "version": 1651183200000
     },
     {
-      "text": "»Lad mig rejse gennem dit land, vi vil ikke bøje ind på nogen mark eller gennem nogen vingård, vi vil ikke drikke vand af nogen brønd, vi vil drage ad Kongevejen, indtil vi er kommet igennem dit landområde.«",
       "number": 22,
+      "text": "»Lad mig rejse gennem dit land, vi vil ikke bøje ind på nogen mark eller gennem nogen vingård, vi vil ikke drikke vand af nogen brønd, vi vil drage ad Kongevejen, indtil vi er kommet igennem dit landområde.«",
       "version": 1651183200000
     },
     {
-      "text": "Sihon ville ikke give Israel lov til at gå gennem sit landområde, men Sihon samlede hele sit folk og drog ud mod Israel i ørkenen og kom til Jasa. Og han kæmpede mod Israel.",
       "number": 23,
+      "text": "Sihon ville ikke give Israel lov til at gå gennem sit landområde, men Sihon samlede hele sit folk og drog ud mod Israel i ørkenen og kom til Jasa. Og han kæmpede mod Israel.",
       "version": 1651183200000
     },
     {
-      "text": "Men Israel slog ham med sværd og indtog hans land som ejendom, fra Arnon til Jabbok, men kun til ammonitternes land, for ammonitternes grænse var befæstet.",
       "number": 24,
+      "text": "Men Israel slog ham med sværd og indtog hans land som ejendom, fra Arnon til Jabbok, men kun til ammonitternes land, for ammonitternes grænse var befæstet.",
+      "footnotes": [
+        {
+          "text": "T: Teksten har ordret »slå med sværdets æg«. Denne vending bruges her i den generelle betydning af »hugge ned i (voldsom) kamp« eller »besejre i et (blodigt) slag.«",
+          "position": 29
+        }
+      ],
       "version": 1651183200000
     },
     {
-      "text": "Så indtog Israel alle disse byer, og Israel tog bolig i alle amoritternes byer, i Heshbon og alle dens tilhørende byer.",
       "number": 25,
+      "text": "Så indtog Israel alle disse byer, og Israel tog bolig i alle amoritternes byer, i Heshbon og alle dens tilhørende byer.",
       "version": 1651183200000
     },
     {
-      "text": "For Heshbon var amoritterkongen Sihons by, og han havde kæmpet mod moabitternes forrige konge og havde taget alt hans land fra ham lige til Arnon.",
       "number": 26,
+      "text": "For Heshbon var amoritterkongen Sihons by, og han havde kæmpet mod moabitternes forrige konge og havde taget alt hans land fra ham lige til Arnon.",
       "version": 1651183200000
     },
     {
-      "text": "Derfor synger skjaldene: »Kom til Heshbon! Sihons by skal bygges og grundfæstes.",
       "number": 27,
+      "text": "Derfor synger skjaldene: »Kom til Heshbon! Sihons by skal bygges og grundfæstes.",
       "version": 1651183200000
     },
     {
-      "text": "For der er gået en ild ud af Heshbon, en flamme af Sihons by, den har fortæret Ar i Moab, opslugt Arnons høje.",
       "number": 28,
+      "text": "For der er gået en ild ud af Heshbon, en flamme af Sihons by, den har fortæret Ar i Moab, opslugt Arnons høje.",
       "version": 1651183200000
     },
     {
-      "text": "Ve dig, Moab! Du Kemoshs folk er fortabt! Han har gjort sine sønner til flygtninge og sine døtre til fanger for Sihon, amoritternes konge.",
       "number": 29,
+      "text": "Ve dig, Moab! Du Kemoshs folk er fortabt! Han har gjort sine sønner til flygtninge og sine døtre til fanger for Sihon, amoritternes konge.",
       "version": 1651183200000
     },
     {
-      "text": "Og vi har skudt dem ned. Heshbon er tabt, helt til Dibon, og vi har lagt dem øde indtil Nofa, som når til Medeba.«",
       "number": 30,
+      "text": "Og vi har skudt dem ned. Heshbon er tabt, helt til Dibon, og vi har lagt dem øde indtil Nofa, som når til Medeba.«",
       "version": 1651183200000
     },
     {
-      "text": "Så tog Israel bolig i amoritternes land.",
       "number": 31,
+      "text": "Så tog Israel bolig i amoritternes land.",
       "version": 1651183200000
     },
     {
-      "text": "Moses sendte folk for at udspionere Jazer, og de indtog dens tilhørende byer, og han fordrev de amoritter som var der.",
       "number": 32,
+      "text": "Moses sendte folk for at udspionere Jazer, og de indtog dens tilhørende byer, og han fordrev de amoritter som var der.",
       "version": 1651183200000
     },
     {
-      "text": "\fDe vendte sig og drog op ad vejen til Bashan. Da drog Og, kongen af Bashan, ud imod dem med hele sit folk til Edre’i for at kæmpe mod dem.",
       "number": 33,
+      "text": "\fDe vendte sig og drog op ad vejen til Bashan. Da drog Og, kongen af Bashan, ud imod dem med hele sit folk til Edre’i for at kæmpe mod dem.",
+      "title": "Og, kongen af Bashan, overvindes på lignende måde.",
       "version": 1651183200000
     },
     {
-      "text": "JHVH sagde til Moses: »Frygt ikke for ham, for jeg har givet ham i din magt, og hele hans folk og hans land, og du skal gøre ved ham som du gjorde ved amoritterkongen Sihon, som boede i Heshbon.«",
       "number": 34,
+      "text": "JHVH sagde til Moses: »Frygt ikke for ham, for jeg har givet ham i din magt, og hele hans folk og hans land, og du skal gøre ved ham som du gjorde ved amoritterkongen Sihon, som boede i Heshbon.«",
       "version": 1651183200000
     },
     {
-      "text": "De slog ham og hans sønner og hele hans folk så at man ikke lod nogen blive tilbage, og de indtog hans land som ejendom.",
       "number": 35,
+      "text": "De slog ham og hans sønner og hele hans folk så at man ikke lod nogen blive tilbage, og de indtog hans land som ejendom.",
       "version": 1651183200000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Arads konge slår Israel. De beder til Gud og overvinder ham.",
-      "verse": 1,
-      "version": 1651183200000
-    },
-    {
-      "text": "Israelitterne beklager sig atter og bliver bidt af slanger. De som ser hen til bronzeslangen, bliver raske.",
-      "verse": 4,
-      "version": 1651183200000
-    },
-    {
-      "text": "Beskrivelse af flere af israelitternes rejser.",
-      "verse": 10,
-      "version": 1651183200000
-    },
-    {
-      "text": "Sihon vil ikke lade israelitterne rejse gennem sit rige og besejres af dem.",
-      "verse": 21,
-      "version": 1651183200000
-    },
-    {
-      "text": "Og, kongen af Bashan, overvindes på lignende måde.",
-      "verse": 33,
-      "version": 1651183200000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Vendingen *wattiqṣar nefeš-hāʕām* betyder helt ordret »folkets sjæl blev forkortet« og er mere end bare lidt utilfredshed. Måske rammer begrebet »sjæl« her en betydning i retning af »at tabe/miste besindelsen.« Vendingen bruges om Guds utålmodighed med Israel i Dom 10,16.",
-      "type": "E",
-      "verse": 4,
-      "position": 132
-    },
-    {
-      "text": "Præpositionen i *dabbēr bᵊ* »meddele i« har også betydning »imod« i 4 Mos 12,1.",
-      "type": "E",
-      "verse": 5,
-      "position": 40
-    },
-    {
-      "text": "Vendingen *wᵊnafšēnû qāṣāʰ bᵊ* »vores sjæl føler afsky over« bruger igen *nefeš* »sjæl« i en allusion til v 5.",
-      "type": "E",
-      "verse": 5,
-      "position": 163
-    },
-    {
-      "text": "Den hebraiske tekst har ordret »en mængde af folket fra Israel.« ",
-      "type": "T",
-      "verse": 6,
-      "position": 104
-    },
-    {
-      "text": "Teksten har ordret »slå med sværdets æg«. Denne vending bruges her i den generelle betydning af »hugge ned i (voldsom) kamp« eller »besejre i et (blodigt) slag.«",
-      "type": "T",
-      "verse": 24,
-      "position": 29
     }
   ]
 }

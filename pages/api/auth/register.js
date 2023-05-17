@@ -1,6 +1,6 @@
 import { registerValidation } from '@/src/auth/Validation';
 import { arrayResult, objectResult } from '@/src/db/parser';
-import { connection } from '@/src/db/connection';
+import { connection } from '@/src/db/connection.js';
 import { serialize } from 'cookie';
 import bcrypt from 'bcrypt';
 import crypto from 'crypto';

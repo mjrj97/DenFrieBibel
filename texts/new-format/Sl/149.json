@@ -5,97 +5,85 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fHalleluja!\fSyng for JHVH en ny sang,\fhans lovsang i de frommes forsamling!",
       "number": 1,
+      "text": "Halleluja!\fSyng for JHVH en ny sang,\fhans lovsang i de frommes forsamling!",
+      "title": "Syng for frelseren!",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »menighed«.",
+          "position": 74
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fIsrael skal glæde sig over sin skaber,\fZions sønner skal juble over deres konge!",
       "number": 2,
+      "text": "\fIsrael skal glæde sig over sin skaber,\fZions sønner skal juble over deres konge!",
+      "footnotes": [
+        {
+          "text": "E: Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
+          "position": 39
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fDe skal lovprise hans navn med dans,\ftil pauke og citer skal de lovsynge ham.",
       "number": 3,
+      "text": "\fDe skal lovprise hans navn med dans,\ftil pauke og citer skal de lovsynge ham.",
       "version": 1493330400000
     },
     {
-      "text": "\fFor JHVH har velbehag i sit folk,\fhan pryder de ydmyge med frelse.",
       "number": 4,
+      "text": "\fFor JHVH har velbehag i sit folk,\fhan pryder de ydmyge med frelse.",
       "version": 1493330400000
     },
     {
-      "text": "\fDe fromme skal juble i herlighed,\fde skal synge med jubel på deres lejer.",
       "number": 5,
+      "text": "\fDe fromme skal juble i herlighed,\fde skal synge med jubel på deres lejer.",
+      "title": "Syng for dommeren",
+      "footnotes": [
+        {
+          "text": "E: Mange fortolkere og oversættere finder omtalen af »leje« umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (»på deres lejer«) til: *ʕal-mišmᵊrôtām*: »i deres familier« eller: *ʕal-maʕarᵊxôtām*: »i deres slagrækker«. Andre foreslår at opfatte den masoretiske teksts »leje« som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
+          "position": 74
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fDer er hyldestsang til Gud i deres strube\fog tveægget sværd i deres hånd",
       "number": 6,
+      "text": "\fDer er hyldestsang til Gud i deres strube\fog tveægget sværd i deres hånd",
       "version": 1493330400000
     },
     {
-      "text": "\ftil at udføre hævn over folkene,\fstraf over folkeslagene;",
       "number": 7,
+      "text": "\ftil at udføre hævn over folkene,\fstraf over folkeslagene;",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »hedningerne«.",
+          "position": 33
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\ftil at binde deres konger med lænker,\fderes fornemme med fodlænker af jern;",
       "number": 8,
+      "text": "\ftil at binde deres konger med lænker,\fderes fornemme med fodlænker af jern;",
       "version": 1493330400000
     },
     {
-      "text": "\ftil at fuldbyrde på dem den dom som står skrevet!\fDet er en ære for alle hans fromme.\fHalleluja!",
       "number": 9,
+      "text": "\ftil at fuldbyrde på dem den dom som står skrevet!\fDet er en ære for alle hans fromme.\fHalleluja!",
       "version": 1493330400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Syng for frelseren!",
-      "verse": 1,
-      "version": 1493330400000
-    },
-    {
-      "text": "Syng for dommeren",
-      "verse": 5,
-      "version": 1493330400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »menighed«.",
-      "type": "T",
-      "verse": 1,
-      "position": 75
-    },
-    {
-      "text": "Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
-      "type": "E",
-      "verse": 2,
-      "position": 39
-    },
-    {
-      "text": "Mange fortolkere og oversættere finder omtalen af »leje« umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (»på deres lejer«) til: *ʕal-mišmᵊrôtām*: »i deres familier« eller: *ʕal-maʕarᵊxôtām*: »i deres slagrækker«. Andre foreslår at opfatte den masoretiske teksts »leje« som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
-      "type": "E",
-      "verse": 5,
-      "position": 74
-    },
-    {
-      "text": "Kan også oversættes: »hedningerne«.",
-      "type": "T",
-      "verse": 7,
-      "position": 33
     }
   ]
 }

@@ -5,160 +5,146 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fBoaz var da gået hen til byporten\n\tog havde sat sig der,\n\t\tog se løseren,\n\t\t\tsom Boaz havde talt om,\n\tgik forbi.\n\tHan sagde til ham:\n\t\t\t»Kom herhen,\n\t\t\tsæt dig her,\n\t\t\t\tmin ven.«\n\t\tHan kom derhen\n\t\tog satte sig.",
       "number": 1,
+      "text": "\fBoaz var da gået hen til byporten\tog havde sat sig der,\t\tog se løseren,\t\t\tsom Boaz havde talt om,\tgik forbi.\tHan sagde til ham:\t\t\t»Kom herhen,\t\t\tsæt dig her,\t\t\t\tmin ven.«\t\tHan kom derhen\t\tog satte sig.",
+      "title": "I byens ældstes påhør spørger Boaz den anden arving om han vil løskøbe No'omis mark og tage Ruth til kone; men da han ikke vil, lover Boaz at gifte sig med hende, og de ønsker ham tillykke.",
       "version": 1668034800000
     },
     {
-      "text": "\tHan fik fat på ti af de ældste i byen\n\tog sagde:\n\t\t\t»Sæt jer her.«\n\t\tOg de satte sig.",
       "number": 2,
+      "text": "\tHan fik fat på ti af de ældste i byen\tog sagde:\t\t\t»Sæt jer her.«\t\tOg de satte sig.",
       "version": 1668034800000
     },
     {
-      "text": "\tDa sagde han til løseren:\n\t\t\t»Det jordstykke\n\t\t\t\t\t\tsom tilhørte vores bror Elimelek,\n\t\t\t\t\thar No'omi,\n\t\t\t\t\t\tsom er kommet tilbage fra Moab,\n\t\t\t\t\tsat til salg.",
       "number": 3,
+      "text": "\tDa sagde han til løseren:\t\t\t»Det jordstykke\t\t\t\t\t\tsom tilhørte vores bror Elimelek,\t\t\t\t\thar No'omi,\t\t\t\t\t\tsom er kommet tilbage fra Moab,\t\t\t\t\tsat til salg.",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\tDerfor erklærer jeg nu:\n\t\t\t\t\t›Jeg meddeler dig hermed\n\t\t\t\t\t\tfølgende:\n\t\t\t\t\t\t\tKøb det i overværelse af dem der sidder her, mit folks ældste.‹\n\t\t\t\t\t\t\t\tDersom du vil løskøbe det,\n\t\t\t\t\t\t\t\t\t\tløskøb det,\n\t\t\t\t\t\t\t\t\tmen dersom du ikke vil løskøbe det,\n\t\t\t\t\t\t\t\t\t\tså sig mig det,\n\t\t\t\t\t\t\t\t\t\t\t\tså jeg kan vide det.\n\t\t\t\t\t\t\t\t\t\t\tFor der er ingen anden\n\t\t\t\t\t\t\t\t\t\t\t\t\ttil at løskøbe det\n\t\t\t\t\t\t\t\t\t\t\tend dig\n\t\t\t\t\t\t\t\t\t\t\t\tog efter dig mig selv.\n\t\t« Han sagde:\n\t\t\t»Jeg vil løskøbe det.«",
       "number": 4,
+      "text": "\t\t\t\tDerfor erklærer jeg nu:\t\t\t\t\t›Jeg meddeler dig hermed\t\t\t\t\t\tfølgende:\t\t\t\t\t\t\tKøb det i overværelse af dem der sidder her, mit folks ældste.‹\t\t\t\t\t\t\t\tDersom du vil løskøbe det,\t\t\t\t\t\t\t\t\t\tløskøb det,\t\t\t\t\t\t\t\t\tmen dersom du ikke vil løskøbe det,\t\t\t\t\t\t\t\t\t\tså sig mig det,\t\t\t\t\t\t\t\t\t\t\t\tså jeg kan vide det.\t\t\t\t\t\t\t\t\t\t\tFor der er ingen anden\t\t\t\t\t\t\t\t\t\t\t\t\ttil at løskøbe det\t\t\t\t\t\t\t\t\t\t\tend dig\t\t\t\t\t\t\t\t\t\t\t\tog efter dig mig selv.\t\t« Han sagde:\t\t\t»Jeg vil løskøbe det.«",
+      "footnotes": [
+        {
+          "text": "E: *waˀᵃnî ʔāmartî* »og jeg har sagt« kan tolkes som et handlingsverbum af juridisk bindende karakter.",
+          "position": 26
+        },
+        {
+          "text": "E: *ʔegleʰ ʔoznxā lēˀmōr* »jeg åbenbarer dine ører sigende« opfattes bedst som en juridisk gyldig kundgørelse.",
+          "position": 70
+        }
+      ],
       "version": 1668034800000
     },
     {
-      "text": "\tBoaz sagde:\n\t\t»Den dag\n\t\t\t\tdu køber jorden af No'omi,\n\t\t\tkøber du også moabitten Ruth, den afdødes hustru,\n\t\t\t\tfor at oprejse den afdøde et navn over hans arvelod.«",
       "number": 5,
+      "text": "\tBoaz sagde:\t\t»Den dag\t\t\t\tdu køber jorden af No'omi,\t\t\tkøber du også moabitten Ruth, den afdødes hustru,\t\t\t\tfor at oprejse den afdøde et navn over hans arvelod.«",
       "version": 1668034800000
     },
     {
-      "text": "\tDa sagde løseren:\n\t\t\t»Jeg kan ikke\n\t\t\t\t\t\tløskøbe det,\n\t\t\t\t\tfor så vil jeg forringe min egen arvelod.\n\t\t\t\tBrug du min løskøbelsesret,\n\t\t\t\t\tfor jeg vil ikke\n\t\t\t\t\t\tløskøbe det.«",
       "number": 6,
+      "text": "\tDa sagde løseren:\t\t\t»Jeg kan ikke\t\t\t\t\t\tløskøbe det,\t\t\t\t\tfor så vil jeg forringe min egen arvelod.\t\t\t\tBrug du min løskøbelsesret,\t\t\t\t\tfor jeg vil ikke\t\t\t\t\t\tløskøbe det.«",
       "version": 1668034800000
     },
     {
-      "text": "\t\tI gamle dage var det sædvane i Israel ved løskøbelse og byttehandel\n\t\t\t\t\tat den ene som tegn på gennemførelsen af handlen\n\t\t\t\ttog sin sko af\n\t\t\t\t\tog gav den til den anden.\n\t\t\tDet gjaldt som bevisførelse i Israel.",
       "number": 7,
+      "text": "\t\tI gamle dage var det sædvane i Israel ved løskøbelse og byttehandel\t\t\t\t\tat den ene som tegn på gennemførelsen af handlen\t\t\t\ttog sin sko af\t\t\t\t\tog gav den til den anden.\t\t\tDet gjaldt som bevisførelse i Israel.",
       "version": 1668034800000
     },
     {
-      "text": "\tLøseren sagde til Boaz:\n\t\t\t»Køb du det.«\n\t\tOg han tog sin sko af.",
       "number": 8,
+      "text": "\tLøseren sagde til Boaz:\t\t\t»Køb du det.«\t\tOg han tog sin sko af.",
       "version": 1668034800000
     },
     {
-      "text": "\tDa sagde Boaz til de ældste og til alt folket:\n\t\t»I er i dag vidner på\n\t\t\tat jeg\n\t\t\t\t\t\taf No'omi har købt alt de\n\t\t\t\t\t\tsom tilhørte Elimelek,\n\t\t\t\t\tog alt det\n\t\t\t\t\t\t\tsom tilhørte Kiljon og Maklon.",
       "number": 9,
+      "text": "\tDa sagde Boaz til de ældste og til alt folket:\t\t»I er i dag vidner på\t\t\tat jeg\t\t\t\t\t\taf No'omi har købt alt de\t\t\t\t\t\tsom tilhørte Elimelek,\t\t\t\t\tog alt det\t\t\t\t\t\t\tsom tilhørte Kiljon og Maklon.",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\tOg jeg har ydermere taget moabitten Ruth, Maklons hustru, til hustru\n\t\t\t\t\tfor at oprejse et navn for den afdøde over hans arvelod,\n\t\t\t\t\t\tfor at den dødes navn ikke skal udslettes blandt hans brødre og fra hans hjembys port.\n\t\tDet er I i dag vidner på.«",
       "number": 10,
+      "text": "\t\t\t\tOg jeg har ydermere taget moabitten Ruth, Maklons hustru, til hustru\t\t\t\t\tfor at oprejse et navn for den afdøde over hans arvelod,\t\t\t\t\t\tfor at den dødes navn ikke skal udslettes blandt hans brødre og fra hans hjembys port.\t\tDet er I i dag vidner på.«",
       "version": 1668034800000
     },
     {
-      "text": "\tOg alt folket\n\t\t\t\tsom var i porten,\n\t\t\tog de ældste sagde:\n\t\t»Vi er vidner.\n\t\t\tMå JHVH give at den kvinde der kommer ind i dit hus,\n\t\t\t\t\t\tbliver som Rakel og som Lea,\n\t\t\t\t\t\t\tder begge byggede Israels hus.\n\t\t\t\t\tMå du blive mægtig i Efrata\n\t\t\t\t\t\tog berømt i Betlehem!",
       "number": 11,
+      "text": "\tOg alt folket\t\t\t\tsom var i porten,\t\t\tog de ældste sagde:\t\t»Vi er vidner.\t\t\tMå JHVH give at den kvinde der kommer ind i dit hus,\t\t\t\t\t\tbliver som Rakel og som Lea,\t\t\t\t\t\t\tder begge byggede Israels hus.\t\t\t\t\tMå du blive mægtig i Efrata\t\t\t\t\t\tog berømt i Betlehem!",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\tOg må dit hus blive ligesom Perez' hus,\n\t\t\t\t\t\than som Tamar fødte Juda,\n\t\t\t\t\tved den efterkommer\n\t\t\t\t\t\tsom JHVH skal give dig af denne unge kvinde.«",
       "number": 12,
+      "text": "\t\t\t\tOg må dit hus blive ligesom Perez' hus,\t\t\t\t\t\than som Tamar fødte Juda,\t\t\t\t\tved den efterkommer\t\t\t\t\t\tsom JHVH skal give dig af denne unge kvinde.«",
       "version": 1668034800000
     },
     {
-      "text": "\fSå tog Boaz Ruth\n\t\tsom sin hustru\n\tog han gik ind til hende.\n\t\tJHVH lod hende blive gravid,\n\tog hun fødte en søn.",
       "number": 13,
+      "text": "\fSå tog Boaz Ruth\t\tsom sin hustru\tog han gik ind til hende.\t\tJHVH lod hende blive gravid,\tog hun fødte en søn.",
+      "title": "Boaz tager Ruth til kone, og hun føder en søn som No'omi opfostrer; hans efterslægt opremses indtil kong David.",
+      "footnotes": [
+        {
+          "text": "E: Udtrykket er en eufemisme for seksuelt samvær, dvs. han var sammen med sin kone.",
+          "position": 58
+        }
+      ],
       "version": 1668034800000
     },
     {
-      "text": "Da sagde kvinderne til No'omi:\n\t\t»Velsignet være JHVH,\n\t\t\t\tsom ikke lod dig mangle en løser i dag.\n\t\t\tHans navn være priset i Israel!",
       "number": 14,
+      "text": "Da sagde kvinderne til No'omi:\t\t»Velsignet være JHVH,\t\t\t\tsom ikke lod dig mangle en løser i dag.\t\t\tHans navn være priset i Israel!",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\tOg han skal givet dig livet tilbage\n\t\t\t\t\t\tog være din forsørger i din alderdom,\n\t\t\t\tfor din svigerdatter,\n\t\t\t\t\t\t\tsom elskede dig,\n\t\t\t\t\t\thar født ham.\n\t\t\t\t\tHun er dig mere værd end syv sønner.«",
       "number": 15,
+      "text": "\t\t\t\t\tOg han skal givet dig livet tilbage\t\t\t\t\t\tog være din forsørger i din alderdom,\t\t\t\tfor din svigerdatter,\t\t\t\t\t\t\tsom elskede dig,\t\t\t\t\t\thar født ham.\t\t\t\t\tHun er dig mere værd end syv sønner.«",
       "version": 1668034800000
     },
     {
-      "text": "\tOg No'omi tog barnet\n\t\tpå sit skød,\n\t\t\tog hun blev hans plejemor.",
       "number": 16,
+      "text": "\tOg No'omi tog barnet\t\tpå sit skød,\t\t\tog hun blev hans plejemor.",
       "version": 1668034800000
     },
     {
-      "text": "\tNabokonerne gav ham et navn\n\t\t\tog sagde:\n\t\t\t\t»No'omi har fået en søn.«\n\t\tDe kaldte ham Obed.\n\t\t\tHan blev far til Isaj, Davids far.",
       "number": 17,
+      "text": "\tNabokonerne gav ham et navn\t\t\tog sagde:\t\t\t\t»No'omi har fået en søn.«\t\tDe kaldte ham Obed.\t\t\tHan blev far til Isaj, Davids far.",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\tDette er Perez' slægt:\n\t\t\t\t\tPerez fik Hesron,",
       "number": 18,
+      "text": "\t\t\t\tDette er Perez' slægt:\t\t\t\t\tPerez fik Hesron,",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\tHezron fik Ram,\n\t\t\t\t\t\tog Ram fik Amminadab,",
       "number": 19,
+      "text": "\t\t\t\t\t\tHezron fik Ram,\t\t\t\t\t\tog Ram fik Amminadab,",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\tAmminadab fik Nakshon,\n\t\t\t\t\t\tog Nakshon fik Salma,",
       "number": 20,
+      "text": "\t\t\t\t\t\tAmminadab fik Nakshon,\t\t\t\t\t\tog Nakshon fik Salma,",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\tSalma fik Boaz,\n\t\t\t\t\t\tog Boaz fik Obed,",
       "number": 21,
+      "text": "\t\t\t\t\t\tSalma fik Boaz,\t\t\t\t\t\tog Boaz fik Obed,",
       "version": 1668034800000
     },
     {
-      "text": "\t\t\t\t\t\tog Obed fik Isaj,\n\t\t\t\t\t\tog Isaj fik David.",
       "number": 22,
+      "text": "\t\t\t\t\t\tog Obed fik Isaj,\t\t\t\t\t\tog Isaj fik David.",
       "version": 1668034800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "I byens ældstes påhør spørger Boaz den anden arving om han vil løskøbe No'omis mark og tage Ruth til kone; men da han ikke vil, lover Boaz at gifte sig med hende, og de ønsker ham tillykke.",
-      "verse": 1,
-      "version": 1668034800000
-    },
-    {
-      "text": "Boaz tager Ruth til kone, og hun føder en søn som No'omi opfostrer; hans efterslægt opremses indtil kong David.",
-      "verse": 13,
-      "version": 1668034800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "*waˀᵃnî ʔāmartî* »og jeg har sagt« kan tolkes som et handlingsverbum af juridisk bindende karakter.",
-      "type": "E",
-      "verse": 4,
-      "position": 26
-    },
-    {
-      "text": "*ʔegleʰ ʔoznxā lēˀmōr* »jeg åbenbarer dine ører sigende« opfattes bedst som en juridisk gyldig kundgørelse.",
-      "type": "E",
-      "verse": 4,
-      "position": 72
-    },
-    {
-      "text": "Udtrykket er en eufemisme for seksuelt samvær, dvs. han var sammen med sin kone.",
-      "type": "E",
-      "verse": 13,
-      "position": 60
     }
   ]
 }

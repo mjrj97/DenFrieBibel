@@ -5,61 +5,49 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fLovpris JHVH, alle folk!\fPris ham, alle folkeslag!",
       "number": 1,
+      "text": "Lovpris JHVH, alle folk!\fPris ham, alle folkeslag!",
+      "title": "Lovpris JHVH",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »hedninger«, men det er næppe meningen her.",
+          "position": 24
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fFor hans nåde mod os har været mægtig,\fog JHVHs troskab varer til evig tid.\fHalleluja!",
       "number": 2,
+      "text": "\fFor hans nåde mod os har været mægtig,\fog JHVHs troskab varer til evig tid.\fHalleluja! ",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 14
+        },
+        {
+          "text": "T: Kan også oversættes: »sandhed«.",
+          "position": 56
+        },
+        {
+          "text": "T: Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 118.",
+          "position": 88
+        }
+      ],
       "version": 1499983200000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Lovpris JHVH",
-      "verse": 1,
-      "version": 1499983200000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »hedninger«, men det er næppe meningen her.",
-      "type": "T",
-      "verse": 1,
-      "position": 25
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 2,
-      "position": 14
-    },
-    {
-      "text": "Kan også oversættes: »sandhed«.",
-      "type": "T",
-      "verse": 2,
-      "position": 56
-    },
-    {
-      "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 118.",
-      "type": "T",
-      "verse": 2,
-      "position": 88
     }
   ]
 }

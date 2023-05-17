@@ -5,191 +5,179 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fJHVH sagde til Moses:",
       "number": 1,
-      "version": 1500328800000
-    },
-    {
-      "text": "»Byd israelitterne og sig til dem: ›Når I kommer til Kana’an, da skal det være det land som skal være jer til arv, nemlig Kana’ans land efter dets grænser.",
-      "number": 2,
-      "version": 1500328800000
-    },
-    {
-      "text": "På sydsiden skal I have Sins ørken til Edom, og jeres grænse mod syd skal mod øst gå fra enden af Salthavet.",
-      "number": 3,
-      "version": 1500328800000
-    },
-    {
-      "text": "Jeres landegrænse skal gå syd om Akrabbim-passet og videre til Sin og den skal være syd for Kadesh-Barnea. Så skal den gå ud til Hasar-Addar og videre over til Asmon.",
-      "number": 4,
-      "version": 1500328800000
-    },
-    {
-      "text": "Grænsen skal gå om fra Asmon til Egyptens bæk og skal ende ved havet.",
-      "number": 5,
-      "version": 1500328800000
-    },
-    {
-      "text": "Angående landegrænsen mod vest, skal Det Store Hav være jeres grænse. Det skal være jeres landegrænse mod vest.",
-      "number": 6,
-      "version": 1500328800000
-    },
-    {
-      "text": "Dette skal være jeres landegrænse mod nord: I skal lægge jeres grænse fra Det Store Hav til bjerget Hor.",
-      "number": 7,
-      "version": 1500328800000
-    },
-    {
-      "text": "Fra bjerget Hor skal I føre grænsen hen mod Lebo-Hamat, og grænsen skal ende ved Sedad.",
-      "number": 8,
-      "version": 1500328800000
-    },
-    {
-      "text": "Landegrænsen skal gå ud til Zifron, og den skal ende ved Hasar-Enan. Dette skal være jeres landegrænse mod nord.",
-      "number": 9,
-      "version": 1500328800000
-    },
-    {
-      "text": "I skal måle jeres landegrænse mod øst fra Hasar-Enan til Shefam.",
-      "number": 10,
-      "version": 1500328800000
-    },
-    {
-      "text": "Landegrænsen skal gå ned fra Shefam til Ribla øst for Ajin, og landegrænsen skal gå ned og røre siden af Kinnerets Hav mod øst.",
-      "number": 11,
-      "version": 1500328800000
-    },
-    {
-      "text": "Landegrænsen skal gå ned til Jordan, og den skal ende ved Salthavet. Dette skal være jeres lands grænser hele vejen rundt.‹«",
-      "number": 12,
-      "version": 1500328800000
-    },
-    {
-      "text": "Moses befalede israelitterne: »Dette er det land som I skal tage i arv ved lodkastning, og som JHVH befalede at give de ni stammer og den halve stamme,",
-      "number": 13,
-      "version": 1500328800000
-    },
-    {
-      "text": "for rubenitternes stamme efter deres fædrenehuse og gaditternes stamme efter deres fædrenehuse, de har fået, og Manasses halve stamme, de har fået deres arv.",
-      "number": 14,
-      "version": 1500328800000
-    },
-    {
-      "text": "De to stammer og den halve stamme, de har fået deres arv på denne side af Jordan lige over for Jeriko mod øst.«",
-      "number": 15,
-      "version": 1500328800000
-    },
-    {
       "text": "\fJHVH sagde til Moses:",
+      "title": "JHVH belærer Moses om Kana’ans landemærker og grænser.",
+      "version": 1500328800000
+    },
+    {
+      "number": 2,
+      "text": "»Byd israelitterne og sig til dem: ›Når I kommer til Kana’an, da skal det være det land som skal være jer til arv, nemlig Kana’ans land efter dets grænser.",
+      "version": 1500328800000
+    },
+    {
+      "number": 3,
+      "text": "På sydsiden skal I have Sins ørken til Edom, og jeres grænse mod syd skal mod øst gå fra enden af Salthavet.",
+      "footnotes": [
+        {
+          "text": "T: Dvs. Det Døde Hav.",
+          "position": 108
+        }
+      ],
+      "version": 1500328800000
+    },
+    {
+      "number": 4,
+      "text": "Jeres landegrænse skal gå syd om Akrabbim-passet og videre til Sin og den skal være syd for Kadesh-Barnea. Så skal den gå ud til Hasar-Addar og videre over til Asmon.",
+      "version": 1500328800000
+    },
+    {
+      "number": 5,
+      "text": "Grænsen skal gå om fra Asmon til Egyptens bæk og skal ende ved havet.",
+      "footnotes": [
+        {
+          "text": "T: Dvs. Middelhavet.",
+          "position": 69
+        }
+      ],
+      "version": 1500328800000
+    },
+    {
+      "number": 6,
+      "text": "Angående landegrænsen mod vest, skal Det Store Hav være jeres grænse. Det skal være jeres landegrænse mod vest.",
+      "version": 1500328800000
+    },
+    {
+      "number": 7,
+      "text": "Dette skal være jeres landegrænse mod nord: I skal lægge jeres grænse fra Det Store Hav til bjerget Hor.",
+      "version": 1500328800000
+    },
+    {
+      "number": 8,
+      "text": "Fra bjerget Hor skal I føre grænsen hen mod Lebo-Hamat, og grænsen skal ende ved Sedad.",
+      "version": 1500328800000
+    },
+    {
+      "number": 9,
+      "text": "Landegrænsen skal gå ud til Zifron, og den skal ende ved Hasar-Enan. Dette skal være jeres landegrænse mod nord.",
+      "version": 1500328800000
+    },
+    {
+      "number": 10,
+      "text": "I skal måle jeres landegrænse mod øst fra Hasar-Enan til Shefam.",
+      "version": 1500328800000
+    },
+    {
+      "number": 11,
+      "text": "Landegrænsen skal gå ned fra Shefam til Ribla øst for Ajin, og landegrænsen skal gå ned og røre siden af Kinnerets Hav mod øst.",
+      "footnotes": [
+        {
+          "text": "T: Som ellers kaldes Genesaret. Luk 5,1 flg. 5 Mos 3,17.",
+          "position": 118
+        }
+      ],
+      "version": 1500328800000
+    },
+    {
+      "number": 12,
+      "text": "Landegrænsen skal gå ned til Jordan, og den skal ende ved Salthavet. Dette skal være jeres lands grænser hele vejen rundt.‹«",
+      "version": 1500328800000
+    },
+    {
+      "number": 13,
+      "text": "Moses befalede israelitterne: »Dette er det land som I skal tage i arv ved lodkastning, og som JHVH befalede at give de ni stammer og den halve stamme,",
+      "version": 1500328800000
+    },
+    {
+      "number": 14,
+      "text": "for rubenitternes stamme efter deres fædrenehuse og gaditternes stamme efter deres fædrenehuse, de har fået, og Manasses halve stamme, de har fået deres arv.",
+      "version": 1500328800000
+    },
+    {
+      "number": 15,
+      "text": "De to stammer og den halve stamme, de har fået deres arv på denne side af Jordan lige over for Jeriko mod øst.«",
+      "version": 1500328800000
+    },
+    {
       "number": 16,
+      "text": "\fJHVH sagde til Moses:",
+      "title": "JHVH udnævner tolv mænd som skal dele landet ud blandt israelitterne.",
       "version": 1500328800000
     },
     {
-      "text": "»Dette er navnene på de mænd som skal dele landet til arv mellem jer: Præsten Eleazar og Josva, Nuns søn.",
       "number": 17,
+      "text": "»Dette er navnene på de mænd som skal dele landet til arv mellem jer: Præsten Eleazar og Josva, Nuns søn.",
       "version": 1500328800000
     },
     {
-      "text": "Og I skal tage en leder fra hver stamme til at dele landet til arv.",
       "number": 18,
+      "text": "Og I skal tage en leder fra hver stamme til at dele landet til arv.",
       "version": 1500328800000
     },
     {
-      "text": "Dette er navnene på mændene: Af Judas stamme Kaleb, Jefunnes søn,",
       "number": 19,
+      "text": "Dette er navnene på mændene: Af Judas stamme Kaleb, Jefunnes søn,",
       "version": 1500328800000
     },
     {
-      "text": "af simeonitternes stamme Samuel, Ammihuds søn,",
       "number": 20,
+      "text": "af simeonitternes stamme Samuel, Ammihuds søn,",
       "version": 1500328800000
     },
     {
-      "text": "af Benjamins stamme Elidad, Kisions søn,",
       "number": 21,
+      "text": "af Benjamins stamme Elidad, Kisions søn,",
       "version": 1500328800000
     },
     {
-      "text": "af danitternes stamme, en leder, Bukki, Joglis søn,",
       "number": 22,
+      "text": "af danitternes stamme, en leder, Bukki, Joglis søn,",
       "version": 1500328800000
     },
     {
-      "text": "af Josefs børn, af manassitternes stamme, en leder, Hanniel, Efods søn,",
       "number": 23,
+      "text": "af Josefs børn, af manassitternes stamme, en leder, Hanniel, Efods søn,",
       "version": 1500328800000
     },
     {
-      "text": "af efraimitternes stamme, en leder, Kemuel, Siftans søn,",
       "number": 24,
+      "text": "af efraimitternes stamme, en leder, Kemuel, Siftans søn,",
       "version": 1500328800000
     },
     {
-      "text": "af zebulonitternes stamme, en leder, Elisafan, Parnaks søn,",
       "number": 25,
+      "text": "af zebulonitternes stamme, en leder, Elisafan, Parnaks søn,",
       "version": 1500328800000
     },
     {
-      "text": "af issakaritternes stamme, en leder, Paltiel, Azzans søn,",
       "number": 26,
+      "text": "af issakaritternes stamme, en leder, Paltiel, Azzans søn,",
       "version": 1500328800000
     },
     {
-      "text": "af asheritternes stamme, en leder, Akihud, Shelomis søn,",
       "number": 27,
+      "text": "af asheritternes stamme, en leder, Akihud, Shelomis søn,",
       "version": 1500328800000
     },
     {
-      "text": "af naftalitternes stamme, en leder, Pdael, Ammihuds søn.«",
       "number": 28,
+      "text": "af naftalitternes stamme, en leder, Pdael, Ammihuds søn.«",
       "version": 1500328800000
     },
     {
-      "text": "Det var disse mænd som JHVH bød at dele arven mellem israelitterne i Kana’an.",
       "number": 29,
+      "text": "Det var disse mænd som JHVH bød at dele arven mellem israelitterne i Kana’an.",
       "version": 1500328800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "JHVH belærer Moses om Kana’ans landemærker og grænser.",
-      "verse": 1,
-      "version": 1500328800000
-    },
-    {
-      "text": "JHVH udnævner tolv mænd som skal dele landet ud blandt israelitterne.",
-      "verse": 16,
-      "version": 1500328800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Dvs. Det Døde Hav.",
-      "type": "T",
-      "verse": 3,
-      "position": 108
-    },
-    {
-      "text": "Dvs. Middelhavet.",
-      "type": "T",
-      "verse": 5,
-      "position": 69
-    },
-    {
-      "text": "Som ellers kaldes Genesaret. Luk 5,1 flg. 5 Mos 3,17.",
-      "type": "T",
-      "verse": 11,
-      "position": 118
     }
   ]
 }

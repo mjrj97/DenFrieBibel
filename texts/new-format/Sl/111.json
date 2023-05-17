@@ -5,141 +5,119 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fHalleluja!\fJeg vil takke JHVH af hele mit hjerte\fi oprigtiges kreds og menighed.",
       "number": 1,
+      "text": "Halleluja!\fJeg vil takke JHVH af hele mit hjerte\fi oprigtiges kreds og menighed.",
+      "title": "Jeg vil takke JHVH",
       "version": 1499983200000
     },
     {
-      "text": "\fJHVHs gerninger er store,\fværd at udforske for alle som glæder sig over dem.",
       "number": 2,
+      "text": "\fJHVHs gerninger er store,\fværd at udforske for alle som glæder sig over dem.",
+      "title": "Begrundelse for lovsangen",
+      "footnotes": [
+        {
+          "text": "E: *dᵊrûšîm* er participium passiv der må opfattes gerundivisk (»værd at udforske/som bør udforskes«). Andre oversætter dog: »søgt/erfaret«.",
+          "position": 43
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fHans værk er højhed og pragt,\fog hans retfærdighed består til evig tid.",
       "number": 3,
+      "text": "\fHans værk er højhed og pragt,\fog hans retfærdighed består til evig tid.",
       "version": 1499983200000
     },
     {
-      "text": "\fHan har frembragt et minde for sine undere,\fnådig og barmhjertig er JHVH.",
       "number": 4,
+      "text": "\fHan har frembragt et minde for sine undere,\fnådig og barmhjertig er JHVH.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »gjort«.",
+          "position": 18
+        },
+        {
+          "text": "E: Linjen kan også oversættes: »Han har fastsat en proklamation af sine undere«. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.",
+          "position": 44
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fHan gav føde til dem som frygter ham,\fhan husker for evigt sin pagt.",
       "number": 5,
+      "text": "\fHan gav føde til dem som frygter ham,\fhan husker for evigt sin pagt.",
       "version": 1499983200000
     },
     {
-      "text": "\fHan forkyndte sine gerningers kraft for sit folk,\fnemlig at han ville give dem folkenes arvelod.",
       "number": 6,
+      "text": "\fHan forkyndte sine gerningers kraft for sit folk,\fnemlig at han ville give dem folkenes arvelod.",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes: »da han gav«. Den sandsynlige mening er dog at linjen skal gengive indholdet i den forkyndelse der blev nævnt i foregående linje.",
+          "position": 75
+        },
+        {
+          "text": "T: Kan også oversættes: »hedningernes«.",
+          "position": 88
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fHans hænders gerninger er sandhed og ret,\falle hans forordninger er til at stole på,",
       "number": 7,
+      "text": "\fHans hænders gerninger er sandhed og ret,\falle hans forordninger er til at stole på,",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »trofasthed«.",
+          "position": 34
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\furokkelige for altid og evigt,\ftil at blive holdt i sandhed og redeligt.",
       "number": 8,
+      "text": "\furokkelige for altid og evigt,\ftil at blive holdt i sandhed og redeligt.",
+      "footnotes": [
+        {
+          "text": "E: Participiet: *ʕᵃśûyim* må her opfattes gerundivisk. Andre oversætter dog: »de er givet/fastlagt«.",
+          "position": 50
+        },
+        {
+          "text": "E: Ofte retter man dog vokaliseringen af: *yāšār* (»redelig«) til: *yōšer*: »redelighed/oprigtighed«.",
+          "position": 73
+        }
+      ],
       "version": 1499983200000
     },
     {
-      "text": "\fHan sendte sit folk forløsning,\fhan fastsatte sin pagt for evigt.\fHans navn er helligt og frygtindgydende.",
       "number": 9,
+      "text": "\fHan sendte sit folk forløsning,\fhan fastsatte sin pagt for evigt.\fHans navn er helligt og frygtindgydende.",
       "version": 1499983200000
     },
     {
-      "text": "\fFrygt for JHVH er visdoms begyndelse,\fgod indsigt har alle som handler efter dem;\fhans pris består for altid.",
       "number": 10,
+      "text": "\fFrygt for JHVH er visdoms begyndelse,\fgod indsigt har alle som handler efter dem;\fhans pris består for altid.",
+      "title": "Sand visdom",
+      "footnotes": [
+        {
+          "text": "T: Det er en henvisning til »forordninger« i v.7.",
+          "position": 82
+        }
+      ],
       "version": 1499983200000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Jeg vil takke JHVH",
-      "verse": 1,
-      "version": 1499983200000
-    },
-    {
-      "text": "Begrundelse for lovsangen",
-      "verse": 2,
-      "version": 1499983200000
-    },
-    {
-      "text": "Sand visdom",
-      "verse": 10,
-      "version": 1499983200000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "*dᵊrûšîm* er participium passiv der må opfattes gerundivisk (»værd at udforske/som bør udforskes«). Andre oversætter dog: »søgt/erfaret«.",
-      "type": "E",
-      "verse": 2,
-      "position": 43
-    },
-    {
-      "text": "Ordret: »gjort«.",
-      "type": "T",
-      "verse": 4,
-      "position": 18
-    },
-    {
-      "text": "Linjen kan også oversættes: »Han har fastsat en proklamation af sine undere«. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.",
-      "type": "E",
-      "verse": 4,
-      "position": 44
-    },
-    {
-      "text": "Kan også oversættes: »da han gav«. Den sandsynlige mening er dog at linjen skal gengive indholdet i den forkyndelse der blev nævnt i foregående linje.",
-      "type": "E",
-      "verse": 6,
-      "position": 75
-    },
-    {
-      "text": "Kan også oversættes: »hedningernes«.",
-      "type": "T",
-      "verse": 6,
-      "position": 88
-    },
-    {
-      "text": "Kan også oversættes: »trofasthed«.",
-      "type": "T",
-      "verse": 7,
-      "position": 34
-    },
-    {
-      "text": "Participiet: *ʕᵃśûyim* må her opfattes gerundivisk. Andre oversætter dog: »de er givet/fastlagt«.",
-      "type": "E",
-      "verse": 8,
-      "position": 50
-    },
-    {
-      "text": "Ofte retter man dog vokaliseringen af: *yāšār* (»redelig«) til: *yōšer*: »redelighed/oprigtighed«.",
-      "type": "E",
-      "verse": 8,
-      "position": 73
-    },
-    {
-      "text": "Det er en henvisning til »forordninger« i v.7.",
-      "type": "T",
-      "verse": 10,
-      "position": 82
     }
   ]
 }

@@ -1,115 +1,236 @@
 {
-  "book": " Markusevangeliet",
+  "book": "Markusevangeliet",
   "abbreviation": "Mark",
   "chapter": 4,
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fHan begyndte igen at undervise ved søen, og en meget stor skare samledes om ham, så han gik ombord i en båd og satte sig i den ude på søen; og hele skaren var på land ved søen. v2 Han underviste dem meget i lignelser og sagde til dem i sin undervisning: v3 »Hør her: Se, en sædemand gik ud for at så, v4 og det skete mens han såede, at noget faldt på vejen, og fuglene kom og spiste det. v5 Noget faldt på klippegrund hvor det ikke havde meget jord; og det kom straks op fordi det ikke havde dyb jord. v6 Da solen steg op, blev det svedet af, og fordi det ikke havde rod, visnede det. v7 Noget faldt blandt tidsler, og tidslerne voksede op og kvalte det, og det bar ikke frugt. v8 Noget faldt i god jord og bar frugt; det skød op og voksede, og ét bar tredive og ét tres og ét hundrede fold.« v9 Han sagde: »Den der har ører at høre med, skal høre!«",
       "number": 1,
+      "text": "\fHan begyndte igen at undervise ved søen, og en meget stor skare samledes om ham, så han gik ombord i en båd og satte sig i den ude på søen; og hele skaren var på land ved søen.",
+      "title": "Lignelsen om sædemanden",
       "version": 1667170800000
     },
     {
-      "text": "\fDa han blev alene, spurgte de som var omkring ham sammen med de tolv, ham om lignelserne. v11 Han sagde til dem: »Til jer er Guds riges hemmelighed blevet givet; men for dem udenfor bliver alt i lignelser v12 for at de, når de ser, skal se og ikke indse, og når de hører, skal de høre og ikke forstå, for at de ikke skal omvende sig og få tilgivelse.«",
+      "number": 2,
+      "text": "Han underviste dem meget i lignelser og sagde til dem i sin undervisning:",
+      "version": 1667170800000
+    },
+    {
+      "number": 3,
+      "text": "»Hør her: Se, en sædemand gik ud for at så,",
+      "version": 1667170800000
+    },
+    {
+      "number": 4,
+      "text": "og det skete mens han såede, at noget faldt på vejen, og fuglene kom og spiste det.",
+      "version": 1667170800000
+    },
+    {
+      "number": 5,
+      "text": "Noget faldt på klippegrund hvor det ikke havde meget jord; og det kom straks op fordi det ikke havde dyb jord.",
+      "version": 1667170800000
+    },
+    {
+      "number": 6,
+      "text": "Da solen steg op, blev det svedet af, og fordi det ikke havde rod, visnede det.",
+      "version": 1667170800000
+    },
+    {
+      "number": 7,
+      "text": "Noget faldt blandt tidsler, og tidslerne voksede op og kvalte det, og det bar ikke frugt.",
+      "version": 1667170800000
+    },
+    {
+      "number": 8,
+      "text": "Noget faldt i god jord og bar frugt; det skød op og voksede, og ét bar tredive og ét tres og ét hundrede fold.«",
+      "version": 1667170800000
+    },
+    {
+      "number": 9,
+      "text": "Han sagde: »Den der har ører at høre med, skal høre!«",
+      "version": 1667170800000
+    },
+    {
       "number": 10,
+      "text": "\fDa han blev alene, spurgte de som var omkring ham sammen med de tolv, ham om lignelserne.",
+      "title": "Lignelsernes virkning",
       "version": 1667170800000
     },
     {
-      "text": "\fHan sagde til dem: »Forstår I ikke denne lignelse? Hvordan vil I så forstå alle de andre lignelser? v14 Sædemanden sår ordet. v15 De på vejen er dem hvor ordet bliver sået, og når de hører det, kommer Satan straks og tager det ord bort som er blevet sået i dem. v16 De som bliver sået på klippegrunden, er dem som, når de hører ordet, straks tager imod det med glæde; v17 de har dog ikke rod i sig, men holder ud en tid, og så når trængsel eller forfølgelse kommer på grund af ordet, falder de straks fra. v18 De andre som bliver sået blandt tidsler, er dem som har hørt ordet, v19 og når denne verdens bekymringer og rigdommens bedrag og de øvrige begæringer kommer ind, kvæler de ordet, og det bliver uden frugt. v20 De der blev sået i god jord, er dem som hører ordet, tager imod det og bærer frugt, én tredive og én tres og én hundrede fold.«",
+      "number": 11,
+      "text": "Han sagde til dem: »Til jer er Guds riges hemmelighed blevet givet; men for dem udenfor bliver alt i lignelser",
+      "version": 1667170800000
+    },
+    {
+      "number": 12,
+      "text": "for at de, når de ser, skal se og ikke indse, og når de hører, skal de høre og ikke forstå, for at de ikke skal omvende sig og få tilgivelse.«",
+      "version": 1667170800000
+    },
+    {
       "number": 13,
+      "text": "\fHan sagde til dem: »Forstår I ikke denne lignelse? Hvordan vil I så forstå alle de andre lignelser?",
+      "title": "Udlægning af lignelsen om sædemanden",
       "version": 1667170800000
     },
     {
-      "text": "\fHan sagde til dem: »Mon lyset kommer ind for at blive sat under skæppen eller under sengen? Mon ikke for at blive sat på lysestagen? v22 For der er ikke noget skjult uden at det vil blive åbenbaret, og det blev heller ikke gemt uden at det vil komme frem i lyset. v23 Hvis nogen har ører at høre med, skal han høre!«",
+      "number": 14,
+      "text": "Sædemanden sår ordet.",
+      "version": 1667170800000
+    },
+    {
+      "number": 15,
+      "text": "De på vejen er dem hvor ordet bliver sået, og når de hører det, kommer Satan straks og tager det ord bort som er blevet sået i dem.",
+      "version": 1667170800000
+    },
+    {
+      "number": 16,
+      "text": "De som bliver sået på klippegrunden, er dem som, når de hører ordet, straks tager imod det med glæde;",
+      "version": 1667170800000
+    },
+    {
+      "number": 17,
+      "text": "de har dog ikke rod i sig, men holder ud en tid, og så når trængsel eller forfølgelse kommer på grund af ordet, falder de straks fra.",
+      "version": 1667170800000
+    },
+    {
+      "number": 18,
+      "text": "De andre som bliver sået blandt tidsler, er dem som har hørt ordet,",
+      "version": 1667170800000
+    },
+    {
+      "number": 19,
+      "text": "og når denne verdens bekymringer og rigdommens bedrag og de øvrige begæringer kommer ind, kvæler de ordet, og det bliver uden frugt.",
+      "version": 1667170800000
+    },
+    {
+      "number": 20,
+      "text": "De der blev sået i god jord, er dem som hører ordet, tager imod det og bærer frugt, én tredive og én tres og én hundrede fold.«",
+      "version": 1667170800000
+    },
+    {
       "number": 21,
+      "text": "\fHan sagde til dem: »Mon lyset kommer ind for at blive sat under skæppen eller under sengen? Mon ikke for at blive sat på lysestagen?",
+      "title": "Lignelsen om lyset",
       "version": 1667170800000
     },
     {
-      "text": "\fHan sagde til dem: »Læg mærke til hvad I hører! Med det mål I måler med, vil I få tilmålt, og I vil få endnu mere. v25 For den som har, til ham vil der blive givet; og den som ikke har, fra ham vil endog det han har, blive taget.«",
+      "number": 22,
+      "text": "For der er ikke noget skjult uden at det vil blive åbenbaret, og det blev heller ikke gemt uden at det vil komme frem i lyset.",
+      "version": 1667170800000
+    },
+    {
+      "number": 23,
+      "text": "Hvis nogen har ører at høre med, skal han høre!«",
+      "version": 1667170800000
+    },
+    {
       "number": 24,
+      "text": "\fHan sagde til dem: »Læg mærke til hvad I hører! Med det mål I måler med, vil I få tilmålt, og I vil få endnu mere.",
+      "title": "Lignelsen om målet",
       "version": 1667170800000
     },
     {
-      "text": "\fHan sagde: »Guds rige er ligesom når en mand har kastet sæden i jorden, v27 og han sover og står op, nat og dag, og sæden spirer og bliver høj, hvordan ved han ikke selv. v28 Af sig selv bærer jorden frugt, først strå, derefter aks, derefter fuld kerne i akset; v29 men når frugten er moden, sender han straks seglen ud, for høsten er kommet.«",
+      "number": 25,
+      "text": "For den som har, til ham vil der blive givet; og den som ikke har, fra ham vil endog det han har, blive taget.«",
+      "version": 1667170800000
+    },
+    {
       "number": 26,
+      "text": "\fHan sagde: »Guds rige er ligesom når en mand har kastet sæden i jorden,",
+      "title": "Lignelsen om sædens vækst",
       "version": 1667170800000
     },
     {
-      "text": "\fHan sagde: »Hvordan skal vi sammenligne Guds rige, eller hvilken lignelse skal vi bruge om det? v31 Det er som et sennepskorn der, når det sås i jorden, er mindre end alle andre frø på jorden, v32 og når det er sået, vokser det op og bliver større end alle urterne og får store grene så himlens fugle kan bygge rede under dets skygge.«",
+      "number": 27,
+      "text": "og han sover og står op, nat og dag, og sæden spirer og bliver høj, hvordan ved han ikke selv.",
+      "version": 1667170800000
+    },
+    {
+      "number": 28,
+      "text": "Af sig selv bærer jorden frugt, først strå, derefter aks, derefter fuld kerne i akset;",
+      "version": 1667170800000
+    },
+    {
+      "number": 29,
+      "text": "men når frugten er moden, sender han straks seglen ud, for høsten er kommet.«",
+      "version": 1667170800000
+    },
+    {
       "number": 30,
+      "text": "\fHan sagde: »Hvordan skal vi sammenligne Guds rige, eller hvilken lignelse skal vi bruge om det?",
+      "title": "Lignelsen om sennepsfrøet",
       "version": 1667170800000
     },
     {
-      "text": "\fMed mange af den slags lignelser talte han ordet til dem, i den udstrækning de kunne forstå det. v34 Men uden lignelser talte han ikke til dem; men alene for sine discple udlagde han alt.",
+      "number": 31,
+      "text": "Det er som et sennepskorn der, når det sås i jorden, er mindre end alle andre frø på jorden,",
+      "version": 1667170800000
+    },
+    {
+      "number": 32,
+      "text": "og når det er sået, vokser det op og bliver større end alle urterne og får store grene så himlens fugle kan bygge rede under dets skygge.«",
+      "version": 1667170800000
+    },
+    {
       "number": 33,
+      "text": "\fMed mange af den slags lignelser talte han ordet til dem, i den udstrækning de kunne forstå det.",
+      "title": "Om lignelsernes brug",
       "version": 1667170800000
     },
     {
-      "text": "\fDa det var blevet aften den dag, sagde han til dem: »Lad os tage over til den anden side!« v36 De forlod skaren og tog ham med som han sad i båden, og der var andre både med ham. v37 Da kom der en kraftig stormvind, og bølgerne slog ind i båden så båden allerede var ved at blive fyldt. v38 Jesus var i bagstavnen og sov på en hynde, og de vækkede ham og sagde til ham: »Lærer! Er du ligeglad med at vi går under?« v39 Han rejste sig, truede ad vinden og sagde til søen: »Ti, vær stille!« Og vinden lagde sig, og det blev helt stille. v40 Han sagde til dem: »Hvorfor er I bange? Har I endnu ikke tro?« v41 De blev grebet af en stor frygt og sagde til hinanden: »Hvem er dog han så at både vinden og søen adlyder ham?«",
+      "number": 34,
+      "text": "Men uden lignelser talte han ikke til dem; men alene for sine discple udlagde han alt.",
+      "version": 1667170800000
+    },
+    {
       "number": 35,
+      "text": "\fDa det var blevet aften den dag, sagde han til dem: »Lad os tage over til den anden side!«",
+      "title": "Stormen på søen",
+      "version": 1667170800000
+    },
+    {
+      "number": 36,
+      "text": "De forlod skaren og tog ham med som han sad i båden, og der var andre både med ham.",
+      "version": 1667170800000
+    },
+    {
+      "number": 37,
+      "text": "Da kom der en kraftig stormvind, og bølgerne slog ind i båden så båden allerede var ved at blive fyldt.",
+      "version": 1667170800000
+    },
+    {
+      "number": 38,
+      "text": "Jesus var i bagstavnen og sov på en hynde, og de vækkede ham og sagde til ham: »Lærer! Er du ligeglad med at vi går under?«",
+      "version": 1667170800000
+    },
+    {
+      "number": 39,
+      "text": "Han rejste sig, truede ad vinden og sagde til søen: »Ti, vær stille!« Og vinden lagde sig, og det blev helt stille.",
+      "version": 1667170800000
+    },
+    {
+      "number": 40,
+      "text": "Han sagde til dem: »Hvorfor er I bange? Har I endnu ikke tro?«",
+      "version": 1667170800000
+    },
+    {
+      "number": 41,
+      "text": "De blev grebet af en stor frygt og sagde til hinanden: »Hvem er dog han så at både vinden og søen adlyder ham?«",
       "version": 1667170800000
     }
-  ],
-  "titles": [
-    {
-      "text": "Lignelsen om sædemanden",
-      "verse": 1,
-      "version": 1667170800000
-    },
-    {
-      "text": "Lignelsernes virkning",
-      "verse": 2,
-      "version": 1667170800000
-    },
-    {
-      "text": "Udlægning af lignelsen om sædemanden",
-      "verse": 11,
-      "version": 1667170800000
-    },
-    {
-      "text": "Lignelsen om lyset",
-      "verse": 14,
-      "version": 1667170800000
-    },
-    {
-      "text": "Lignelsen om målet",
-      "verse": 22,
-      "version": 1667170800000
-    },
-    {
-      "text": "Lignelsen om sædens vækst",
-      "verse": 25,
-      "version": 1667170800000
-    },
-    {
-      "text": "Lignelsen om sennepsfrøet",
-      "verse": 27,
-      "version": 1667170800000
-    },
-    {
-      "text": "Om lignelsernes brug",
-      "verse": 31,
-      "version": 1667170800000
-    },
-    {
-      "text": "Stormen på søen",
-      "verse": 34,
-      "version": 1667170800000
-    }
-  ],
-  "footnotes": []
+  ]
 }

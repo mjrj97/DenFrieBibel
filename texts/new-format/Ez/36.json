@@ -5,35 +5,33 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fJeg vil give jer et nyt hjerte, og en ny ånd vil jeg give i jeres indre; jeg vil fjerne stenhjertet fra jeres krop og give jer et hjerte af kød.",
       "number": 26,
+      "text": "Jeg vil give jer et nyt hjerte, og en ny ånd vil jeg give i jeres indre; jeg vil fjerne stenhjertet fra jeres krop og give jer et hjerte af kød.",
       "version": 1618956000000
     },
     {
-      "text": "Jeg vil give min ånd i jeres indre og gøre så I vandrer efter mine love og holder mine bud og handler efter dem.",
       "number": 27,
+      "text": "Jeg vil give min ånd i jeres indre og gøre så I vandrer efter mine love og holder mine bud og handler efter dem.",
       "version": 1618956000000
     },
     {
-      "text": "Og I skal bo i det land som jeg har givet jeres fædre, og I skal være mit folk, og jeg vil være jeres Gud.",
       "number": 28,
+      "text": "Og I skal bo i det land som jeg har givet jeres fædre, og I skal være mit folk, og jeg vil være jeres Gud.",
       "version": 1618956000000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

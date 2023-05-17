@@ -5,48 +5,43 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fJHVH sagde til Abram: »Drag ud af dit land og fra din slægt og din fars hus til det land som jeg vil vise dig.",
       "number": 1,
+      "text": "JHVH sagde til Abram: »Drag ud af dit land og fra din slægt og din fars hus til det land som jeg vil vise dig.",
       "version": 1639954800000
     },
     {
-      "text": "Og jeg vil gøre dig til et stort folk og velsigne dig og gøre dit navn stort, og du skal være en velsignelse.",
       "number": 2,
+      "text": "Og jeg vil gøre dig til et stort folk og velsigne dig og gøre dit navn stort, og du skal være en velsignelse.",
       "version": 1639954800000
     },
     {
-      "text": "Jeg vil velsigne dem som velsigner dig, og den som forbander dig, vil jeg forbande; og i dig skal alle slægter på jorden velsignes.",
       "number": 3,
+      "text": "Jeg vil velsigne dem som velsigner dig, og den som forbander dig, vil jeg forbande; og i dig skal alle slægter på jorden velsignes.",
+      "footnotes": [
+        {
+          "text": "T: Der bruges her to forskellige hebraiske ord for »forbande«. Det første kan oversættes med »ringeagte« eller »erklærer for forbandet«.",
+          "position": 83
+        },
+        {
+          "text": "T: Kan også oversættes: »og ved dig skal alle jordens slægter velsigne sig«.",
+          "position": 131
+        }
+      ],
       "version": 1639954800000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Der bruges her to forskellige hebraiske ord for »forbande«. Det første kan oversættes med »ringeagte« eller »erklærer for forbandet«.",
-      "type": "T",
-      "verse": 3,
-      "position": 83
-    },
-    {
-      "text": "Kan også oversættes: »og ved dig skal alle jordens slægter velsigne sig«.",
-      "type": "T",
-      "verse": 3,
-      "position": 131
     }
   ]
 }

@@ -1,208 +1,199 @@
 {
-  "book": " Paulus' Første Brev til Korintherne",
+  "book": "Paulus' Første Brev til Korintherne",
   "abbreviation": "1Kor",
   "chapter": 11,
   "translation": 50,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fMen jeg roser jer, fordi I husker mig i alt og holder fast ved overleveringerne, sådan som jeg har overleveret dem til jer.",
       "number": 2,
+      "text": "\fMen jeg roser jer, fordi I husker mig i alt og holder fast ved overleveringerne, sådan som jeg har overleveret dem til jer.",
       "version": 1539036000000
     },
     {
-      "text": "Men jeg vil, at I skal vide, at Kristus er enhver mands hoved; men manden er kvindens hoved; men Gud er Kristi hoved.",
       "number": 3,
+      "text": "Men jeg vil, at I skal vide, at Kristus er enhver mands hoved; men manden er kvindens hoved; men Gud er Kristi hoved.",
       "version": 1539036000000
     },
     {
-      "text": "Enhver Mand, der beder eller profeterer med tildækket hoved, bringer skam over sit hoved.",
       "number": 4,
+      "text": "Enhver Mand, der beder eller profeterer med tildækket hoved, bringer skam over sit hoved.",
       "version": 1539036000000
     },
     {
-      "text": "Men enhver kvinde, der beder eller profeterer med utildækket hoved, beskæmmer sit hoved; for det er det samme, som om hun var klippet skaldet.",
       "number": 5,
+      "text": "Men enhver kvinde, der beder eller profeterer med utildækket hoved, beskæmmer sit hoved; for det er det samme, som om hun var klippet skaldet.",
       "version": 1539036000000
     },
     {
-      "text": "For når en kvinde ikke dækker sig til, så lad hende også klippe sit hår af; men er det usømmeligt for en kvinde at blive klippet eller kronraget, så skal hun dække sig til.",
       "number": 6,
+      "text": "For når en kvinde ikke dækker sig til, så lad hende også klippe sit hår af; men er det usømmeligt for en kvinde at blive klippet eller kronraget, så skal hun dække sig til.",
       "version": 1539036000000
     },
     {
-      "text": "For en mand bør ikke dække sit hoved til, eftersom han er Guds billede og ære; men kvinden er mandens ære.",
       "number": 7,
+      "text": "For en mand bør ikke dække sit hoved til, eftersom han er Guds billede og ære; men kvinden er mandens ære.",
       "version": 1539036000000
     },
     {
-      "text": "Mand kommer jo ikke af kvinde, men kvinde af mand.",
       "number": 8,
+      "text": "Mand kommer jo ikke af kvinde, men kvinde af mand.",
       "version": 1539036000000
     },
     {
-      "text": "Manden er jo heller ikke skabt for kvindens skyld, men kvinden for mandens skyld.",
       "number": 9,
+      "text": "Manden er jo heller ikke skabt for kvindens skyld, men kvinden for mandens skyld.",
       "version": 1539036000000
     },
     {
-      "text": "Derfor bør kvinden have et ærbødighedstegn paa hovedet for englenes skyld.",
       "number": 10,
+      "text": "Derfor bør kvinden have et ærbødighedstegn paa hovedet for englenes skyld.",
       "version": 1539036000000
     },
     {
-      "text": "Dog er i Herren hverken kvinde uden mand eller mand uden kvinde noget.",
       "number": 11,
+      "text": "Dog er i Herren hverken kvinde uden mand eller mand uden kvinde noget.",
       "version": 1539036000000
     },
     {
-      "text": "For ligesom kvinden er af manden, sådan er også manden ved kvinden; men alt sammen er det af Gud.",
       "number": 12,
+      "text": "For ligesom kvinden er af manden, sådan er også manden ved kvinden; men alt sammen er det af Gud.",
       "version": 1539036000000
     },
     {
-      "text": "Døm selv: Er det sømmeligt, at en kvinde beder til Gud med utildækket hoved?",
       "number": 13,
+      "text": "Døm selv: Er det sømmeligt, at en kvinde beder til Gud med utildækket hoved?",
       "version": 1539036000000
     },
     {
-      "text": "Lærer ikke også selve naturen jer, at når en mand går med langt hår, er det en vanære for ham,",
       "number": 14,
+      "text": "Lærer ikke også selve naturen jer, at når en mand går med langt hår, er det en vanære for ham,",
       "version": 1539036000000
     },
     {
-      "text": "men når en kvinde bærer langt hår, er det en ære for hende; for det lange hår er givet hende som et slør.",
       "number": 15,
+      "text": "men når en kvinde bærer langt hår, er det en ære for hende; for det lange hår er givet hende som et slør.",
       "version": 1539036000000
     },
     {
-      "text": "Men har nogen lyst til at strides om det, så er det ikke noget, vi har for vane, og Guds menigheder heller ikke.",
       "number": 16,
+      "text": "Men har nogen lyst til at strides om det, så er det ikke noget, vi har for vane, og Guds menigheder heller ikke.",
       "version": 1539036000000
     },
     {
-      "text": "\fMen idet jeg giver følgende formaning, roser jeg ikke, at I kommer sammen, ikke til det bedre, men til det værre.",
       "number": 17,
+      "text": "\fMen idet jeg giver følgende formaning, roser jeg ikke, at I kommer sammen, ikke til det bedre, men til det værre.",
       "version": 1539036000000
     },
     {
-      "text": "For det første hører jeg nemlig, at der er splittelser iblandt jer, når I samles i kirke; og til dels tror jeg det.",
       "number": 18,
+      "text": "For det første hører jeg nemlig, at der er splittelser iblandt jer, når I samles i kirke; og til dels tror jeg det.",
       "version": 1539036000000
     },
     {
-      "text": "for der må endda være kliker iblandt jer, for at de prøvede kan blive åbenlyse iblandt jer.",
       "number": 19,
+      "text": "for der må endda være kliker iblandt jer, for at de prøvede kan blive åbenlyse iblandt jer.",
       "version": 1539036000000
     },
     {
-      "text": "Når I så kommer sammen, er det ikke Herrens nadver, I spiser.",
       "number": 20,
+      "text": "Når I så kommer sammen, er det ikke Herrens nadver, I spiser.",
       "version": 1539036000000
     },
     {
-      "text": "For under spisningen tager hver og én sit eget måltid i forvejen, og den ene sulter, den anden drikker sig fuld.",
       "number": 21,
+      "text": "For under spisningen tager hver og én sit eget måltid i forvejen, og den ene sulter, den anden drikker sig fuld.",
       "version": 1539036000000
     },
     {
-      "text": "Har I da ikke huse til at spise og drikke i? Eller foragter I Guds menighed og gør dem til skamme, der ikke har noget? Hvad skal jeg sige jer? Skal jeg rose jer? I dette her roser jeg jer ikke.",
       "number": 22,
+      "text": "Har I da ikke huse til at spise og drikke i? Eller foragter I Guds menighed og gør dem til skamme, der ikke har noget? Hvad skal jeg sige jer? Skal jeg rose jer? I dette her roser jeg jer ikke.",
       "version": 1539036000000
     },
     {
-      "text": "For jeg har modtaget fra Herren, hvad jeg også har overleveret jer: At Herren Jesus i den nat, da han blev forrådt, tog brød,",
       "number": 23,
+      "text": "For jeg har modtaget fra Herren, hvad jeg også har overleveret jer: At Herren Jesus i den nat, da han blev forrådt, tog brød,",
       "version": 1539036000000
     },
     {
-      "text": "takkede og brød det og sagde: »Dette er mit legeme, der er for jer; gør dette til minde om mig!«",
       "number": 24,
+      "text": "takkede og brød det og sagde: »Dette er mit legeme, der er for jer; gør dette til minde om mig!«",
       "version": 1539036000000
     },
     {
-      "text": "På samme måde tog han også bægeret efter aftensmåltidet og sagde: »Dette bæger er den nye pagt i mit blod; gør dette, så tit som I drikker den, til minde om mig!«",
       "number": 25,
+      "text": "På samme måde tog han også bægeret efter aftensmåltidet og sagde: »Dette bæger er den nye pagt i mit blod; gør dette, så tit som I drikker den, til minde om mig!«",
       "version": 1539036000000
     },
     {
-      "text": "For så tit, som I spiser dette brød og drikker bægeret, forkynder I Herrens død, indtil han kommer.",
       "number": 26,
+      "text": "For så tit, som I spiser dette brød og drikker bægeret, forkynder I Herrens død, indtil han kommer.",
       "version": 1539036000000
     },
     {
-      "text": "Derfor, den, der spiser bødet eller drikker Herrens bæger uværdigt, pådrager sig skyld over for Herrens legeme og blod.",
       "number": 27,
+      "text": "Derfor, den, der spiser bødet eller drikker Herrens bæger uværdigt, pådrager sig skyld over for Herrens legeme og blod.",
       "version": 1539036000000
     },
     {
-      "text": "Men hvert menneske må prøve sig selv, og sådan skal han spise af brødet og drikke af bægeret!",
       "number": 28,
+      "text": "Men hvert menneske må prøve sig selv, og sådan skal han spise af brødet og drikke af bægeret!",
       "version": 1539036000000
     },
     {
-      "text": "For den, der spiser og drikker, spiser og drikker sig selv en dom til, når han ikke er opmærksom på legemet.",
       "number": 29,
+      "text": "For den, der spiser og drikker, spiser og drikker sig selv en dom til, når han ikke er opmærksom på legemet.",
+      "footnotes": [
+        {
+          "text": "T: dvs. Herrens legeme.",
+          "position": 108
+        }
+      ],
       "version": 1539036000000
     },
     {
-      "text": "Derfor er mange skrøbelige og syge iblandt jer, og en del sover hen.",
       "number": 30,
+      "text": "Derfor er mange skrøbelige og syge iblandt jer, og en del sover hen.",
       "version": 1539036000000
     },
     {
-      "text": "Men hvis vi bedømte os selv, blev vi ikke dømt.",
       "number": 31,
+      "text": "Men hvis vi bedømte os selv, blev vi ikke dømt.",
       "version": 1539036000000
     },
     {
-      "text": "Men når vi dømmes, opdrages vi af Herren, for at vi ikke skal fordømmes sammen med verden.",
       "number": 32,
+      "text": "Men når vi dømmes, opdrages vi af Herren, for at vi ikke skal fordømmes sammen med verden.",
       "version": 1539036000000
     },
     {
-      "text": "Derfor, mine brødre, når I kommer sammen til måltid, vent så på hinanden!",
       "number": 33,
+      "text": "Derfor, mine brødre, når I kommer sammen til måltid, vent så på hinanden!",
       "version": 1539036000000
     },
     {
-      "text": "Når nogen sulter, skal han spise hjemme, for at I ikke skal komme sammen til dom. Men det andet skal jeg give forskrifter for, når jeg kommer.",
       "number": 34,
+      "text": "Når nogen sulter, skal han spise hjemme, for at I ikke skal komme sammen til dom. Men det andet skal jeg give forskrifter for, når jeg kommer.",
+      "footnotes": [
+        {
+          "text": "T: dvs. pådrage jer straf ved det.",
+          "position": 81
+        }
+      ],
       "version": 1539036000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Kvinderne skal have hovedet tildækket ved gudstjenesten, men ikke mændene, hvad der stemmer både med det forhold mellem mænd og kvinder, der blev bestemt ved skabelsen, og med de herskende sædvaner, 2-16. Apostelen kritiserer visse uskikke ved deres kærlighedsmåltider og formaner til den rette og værdige deltagelse i den hellige nadver; misbruges den, straffes det, 17-34.",
-      "verse": 1,
-      "version": 1539036000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "dvs. Herrens legeme.",
-      "type": "T",
-      "verse": 29,
-      "position": 108
-    },
-    {
-      "text": "dvs. pådrage jer straf ved det.",
-      "type": "T",
-      "verse": 34,
-      "position": 81
     }
   ]
 }

@@ -5,91 +5,171 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fNår I altså er blevet oprejst med Kristus, så søg det foroven, hvor Kristus sidder ved Guds højre hånd. v2 Stræb efter det foroven, ikke efter det på jorden. v3 For I er døde, og jeres liv er blevet skjult sammen med Kristus i Gud. v4 Når Kristus, jeres liv, er blevet åbenbaret, vil I også blive åbenbaret sammen med ham i herlighed.",
       "number": 1,
+      "text": "\fNår I altså er blevet oprejst med Kristus, så søg det foroven, hvor Kristus sidder ved Guds højre hånd.",
+      "title": "Søg det foroven",
       "version": 1680127200000
     },
     {
-      "text": "\fDræb altså de jordiske lemmer: Utugt, urenhed, lidenskab, ond lyst og griskhed, som er afgudsdyrkelse, v6 på grund af dem kommer Guds vrede over ulydighedens børn. v7 I dem vandrede I også engang, da I levede i dem, v8 men nu skal også I aflægge alt dette: Vrede, harme, ondskab, bespottelse og skamløs tale, v9 lyv ikke for hinanden, for I har aflagt det gamle menneske sammen med dets praksis, v10 og I har iført jer det nye, som fornyes til erkendelse efter hans billede som skabte det. v11 Her er der ikke græker og jøde, omskåren og uomskåren, barbar, skyter, slave og fri, men Kristus er alt og i alle.",
+      "number": 2,
+      "text": "Stræb efter det foroven, ikke efter det på jorden.",
+      "version": 1680127200000
+    },
+    {
+      "number": 3,
+      "text": "For I er døde, og jeres liv er blevet skjult sammen med Kristus i Gud.",
+      "version": 1680127200000
+    },
+    {
+      "number": 4,
+      "text": "Når Kristus, jeres liv, er blevet åbenbaret, vil I også blive åbenbaret sammen med ham i herlighed.",
+      "version": 1680127200000
+    },
+    {
       "number": 5,
+      "text": "\fDræb altså de jordiske lemmer: Utugt, urenhed, lidenskab, ond lyst og griskhed, som er afgudsdyrkelse,",
+      "title": "Aflæg synden",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »som (er) på jorden«",
+          "position": 23
+        }
+      ],
       "version": 1680127200000
     },
     {
-      "text": "\fIfør jer altså som Guds udvalgte, hellige og elskede, inderlig barmhjertighed, godhed, ydmyghed, mildhed og tålmodighed, v13 så I bærer over med hinanden, og så I tilgiver hinanden, hvis nogen har noget at bebrejde en anden; ligesom også Herren tilgav jer, således skal også I gøre. v14 Men ifør jer over alt dette kærligheden, som er fuldkommenhedens bånd. v15 Og Guds fred skal råde i jeres hjerter, den blev I også kaldet til i ét legeme, og vær taknemmelige. v16 Lad Kristi ord bo i rigt mål blandt jer, idet I med al visdom underviser og vejleder hinanden, idet I synger med tak i jeres hjerter for Gud med sange, hymner og åndelige sange, v17 og alt det I gør i ord og gerning, skal I gøre i Herrens navn, idet I takker Gud Fader ved ham.",
+      "number": 6,
+      "text": "på grund af dem kommer Guds vrede over ulydighedens børn.",
+      "version": 1680127200000
+    },
+    {
+      "number": 7,
+      "text": "I dem vandrede I også engang, da I levede i dem,",
+      "version": 1680127200000
+    },
+    {
+      "number": 8,
+      "text": "men nu skal også I aflægge alt dette: Vrede, harme, ondskab, bespottelse og skamløs tale,",
+      "version": 1680127200000
+    },
+    {
+      "number": 9,
+      "text": "lyv ikke for hinanden, for I har aflagt det gamle menneske sammen med dets praksis,",
+      "version": 1680127200000
+    },
+    {
+      "number": 10,
+      "text": "og I har iført jer det nye, som fornyes til erkendelse efter hans billede som skabte det.",
+      "version": 1680127200000
+    },
+    {
+      "number": 11,
+      "text": "Her er der ikke græker og jøde, omskåren og uomskåren, barbar, skyter, slave og fri, men Kristus er alt og i alle.",
+      "version": 1680127200000
+    },
+    {
       "number": 12,
+      "text": "\fIfør jer altså som Guds udvalgte, hellige og elskede, inderlig barmhjertighed, godhed, ydmyghed, mildhed og tålmodighed,",
+      "title": "Ifør jer kærligheden",
       "version": 1680127200000
     },
     {
-      "text": "\fHustruer! I skal underordne jer under jeres mænd, som det er ret i Herren. v19 Mænd! Elsk jeres hustruer og vær ikke bitre mod dem. v20 Børn! Adlyd jeres forældre i alt, for dette er kærkomment i Herren. v21 Fædre! Provoker ikke jeres børn for at de ikke skal blive modløse.",
+      "number": 13,
+      "text": "så I bærer over med hinanden, og så I tilgiver hinanden, hvis nogen har noget at bebrejde en anden; ligesom også Herren tilgav jer, således skal også I gøre.",
+      "version": 1680127200000
+    },
+    {
+      "number": 14,
+      "text": "Men ifør jer over alt dette kærligheden, som er fuldkommenhedens bånd.",
+      "version": 1680127200000
+    },
+    {
+      "number": 15,
+      "text": "Og Guds fred skal råde i jeres hjerter, den blev I også kaldet til i ét legeme, og vær taknemmelige.",
+      "version": 1680127200000
+    },
+    {
+      "number": 16,
+      "text": "Lad Kristi ord bo i rigt mål blandt jer, idet I med al visdom underviser og vejleder hinanden, idet I synger med tak i jeres hjerter for Gud med sange, hymner og åndelige sange,",
+      "version": 1680127200000
+    },
+    {
+      "number": 17,
+      "text": "og alt det I gør i ord og gerning, skal I gøre i Herrens navn, idet I takker Gud Fader ved ham.",
+      "footnotes": [
+        {
+          "text": "E: Der mangler et verbum, og her er indsat en imperativ »skal I gøre«; en alternativ mulighed er et supplere med et participium »idet I gør«: »og idet I gør alt det, I gør …«",
+          "position": 62
+        }
+      ],
+      "version": 1680127200000
+    },
+    {
       "number": 18,
+      "text": "\fHustruer! I skal underordne jer under jeres mænd, som det er ret i Herren.",
+      "title": "En husorden",
       "version": 1680127200000
     },
     {
-      "text": "\fSlaver! Adlyd jeres jordiske herrer i alt, ikke med øjentjeneste som nogle, der behager mennesker, men med hjertets oprigtighed, idet I frygter Herren. v23 Det I gør, skal I gøre af hjertet som for Herren og ikke for mennesker, v24 fordi I ved at I vil modtage arven som løn. Tjen Herren Kristus, v25 for den som gør uret, vil få den uret igen han gjorde, og der vil ikke være personsanseelse.",
+      "number": 19,
+      "text": "Mænd! Elsk jeres hustruer og vær ikke bitre mod dem.",
+      "version": 1680127200000
+    },
+    {
+      "number": 20,
+      "text": "Børn! Adlyd jeres forældre i alt, for dette er kærkomment i Herren.",
+      "version": 1680127200000
+    },
+    {
+      "number": 21,
+      "text": "Fædre! Provoker ikke jeres børn for at de ikke skal blive modløse.",
+      "version": 1680127200000
+    },
+    {
       "number": 22,
-      "version": 1680127200000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Søg det foroven",
-      "verse": 1,
-      "version": 1680127200000
-    },
-    {
-      "text": "Aflæg synden",
-      "verse": 2,
+      "text": "\fSlaver! Adlyd jeres jordiske  herrer i alt, ikke med øjentjeneste som nogle, der behager mennesker, men med hjertets oprigtighed, idet I frygter Herren.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »efter kødet«.",
+          "position": 30
+        }
+      ],
       "version": 1680127200000
     },
     {
-      "text": "Ifør jer kærligheden",
-      "verse": 6,
+      "number": 23,
+      "text": "Det I gør, skal I gøre af hjertet som for Herren og ikke for mennesker,",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »af sjælen«",
+          "position": 33
+        }
+      ],
       "version": 1680127200000
     },
     {
-      "text": "En husorden",
-      "verse": 13,
+      "number": 24,
+      "text": "fordi I ved at I vil modtage arven som løn. Tjen Herren Kristus,",
       "version": 1680127200000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »som (er) på jorden«",
-      "type": "T",
-      "verse": 5,
-      "position": 23
     },
     {
-      "text": "Der mangler et verbum, og her er indsat en imperativ »skal I gøre«; en alternativ mulighed er et supplere med et participium »idet I gør«: »og idet I gør alt det, I gør …«",
-      "type": "E",
-      "verse": 12,
-      "position": 712
-    },
-    {
-      "text": "Ordret: »efter kødet«.",
-      "type": "T",
-      "verse": 22,
-      "position": 30
-    },
-    {
-      "text": "Ordret: »af sjælen«",
-      "type": "T",
-      "verse": 22,
-      "position": 191
+      "number": 25,
+      "text": "for den som gør uret, vil få den uret igen han gjorde, og der vil ikke være personsanseelse.",
+      "version": 1680127200000
     }
   ]
 }

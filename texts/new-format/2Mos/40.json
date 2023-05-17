@@ -5,239 +5,223 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fJHVH talte til Moses:",
       "number": 1,
+      "text": "JHVH talte til Moses:",
+      "title": "Befalingen om at rejse helligdommen",
       "version": 1616022000000
     },
     {
-      "text": "»På den første måneds første dag  skal du rejse forsamlingsteltets bolig.",
       "number": 2,
+      "text": "»På den første måneds første dag skal du rejse forsamlingsteltets bolig.",
       "version": 1616022000000
     },
     {
-      "text": "Der skal du sætte Vidnesbyrdets ark og dække for arken med forhænget.",
       "number": 3,
+      "text": "Der skal du sætte Vidnesbyrdets ark og dække for arken med forhænget.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal bringe bordet og stille det som hører til på det, op i række, og du skal bringe lysestagen og sætte dens lamper op.",
       "number": 4,
+      "text": "Du skal bringe bordet og stille det som hører til på det, op i række, og du skal bringe lysestagen og sætte dens lamper op.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal sætte guldalteret til røgelse foran Vidnesbyrdets ark og anbringe tæppet for boligens indgang.",
       "number": 5,
+      "text": "Du skal sætte guldalteret til røgelse foran Vidnesbyrdets ark og anbringe tæppet for boligens indgang.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal sætte brændofferalteret foran indgangen til forsamlingsteltets bolig.",
       "number": 6,
+      "text": "Du skal sætte brændofferalteret foran indgangen til forsamlingsteltets bolig.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal sætte bækkenet mellem forsamlingsteltet og alteret, og du skal komme vand deri.",
       "number": 7,
+      "text": "Du skal sætte bækkenet mellem forsamlingsteltet og alteret, og du skal komme vand deri.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal sætte forgården op hele vejen rundt og hænge tæppet for forgårdens port.",
       "number": 8,
+      "text": "Du skal sætte forgården op hele vejen rundt og hænge tæppet for forgårdens port.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal tage salvningsolien og salve boligen og alt det som er i den; og du skal hellige den og alle dens redskaber; så skal det være helligt.",
       "number": 9,
+      "text": "Du skal tage salvningsolien og salve boligen og alt det som er i den; og du skal hellige den og alle dens redskaber; så skal det være helligt.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal salve brændofferalteret og alle dets redskaber; og du skal hellige alteret, så skal alteret være højhelligt.",
       "number": 10,
+      "text": "Du skal salve brændofferalteret og alle dets redskaber; og du skal hellige alteret, så skal alteret være højhelligt.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal salve bækkenet og dets sokkel, og du skal hellige det.",
       "number": 11,
+      "text": "Du skal salve bækkenet og dets sokkel, og du skal hellige det.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal føre Aron og hans sønner frem til forsamlingsteltets indgang, og du skal vaske dem med vand.",
       "number": 12,
+      "text": "Du skal føre Aron og hans sønner frem til forsamlingsteltets indgang, og du skal vaske dem med vand.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal iføre Aron de hellige klæder, og du skal salve ham og hellige ham så han kan gøre præstetjeneste for mig.",
       "number": 13,
+      "text": "Du skal iføre Aron de hellige klæder, og du skal salve ham og hellige ham så han kan gøre præstetjeneste for mig.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal føre hans sønner frem, og du skal iføre dem kjortler.",
       "number": 14,
+      "text": "Du skal føre hans sønner frem, og du skal iføre dem kjortler.",
       "version": 1616022000000
     },
     {
-      "text": "Du skal salve dem, ligesom du salvede deres far, så de kan gøre præstetjeneste for mig; og det skal ske for at deres salvning skal blive dem til en evig præstetjeneste gennem deres slægter.«",
       "number": 15,
+      "text": "Du skal salve dem, ligesom du salvede deres far, så de kan gøre præstetjeneste for mig; og det skal ske for at deres salvning skal blive dem til en evig præstetjeneste gennem deres slægter.«",
       "version": 1616022000000
     },
     {
-      "text": "\fMoses gjorde det; efter alt hvad JHVH havde befalet ham, sådan gjorde han.",
       "number": 16,
+      "text": "\fMoses gjorde det; efter alt hvad JHVH havde befalet ham, sådan gjorde han.",
+      "title": "Helligdommen rejses",
       "version": 1616022000000
     },
     {
-      "text": "Og det skete i den første måned i det andet år, på den første dag i måneden, da blev boligen rejst.",
       "number": 17,
+      "text": "Og det skete i den første måned i det andet år, på den første dag i måneden, da blev boligen rejst.",
       "version": 1616022000000
     },
     {
-      "text": "Moses rejste boligen, han anbragte dens fodstykker, satte dens planker i, anbragte dens tværlægter og rejste dens stolper.",
       "number": 18,
+      "text": "Moses rejste boligen, han anbragte dens fodstykker, satte dens planker i, anbragte dens tværlægter og rejste dens stolper.",
       "version": 1616022000000
     },
     {
-      "text": "Han spændte teltet ud over boligen og lagde teltets dække hen over det, sådan som JHVH havde befalet Moses.",
       "number": 19,
+      "text": "Han spændte teltet ud over boligen og lagde teltets dække hen over det, sådan som JHVH havde befalet Moses.",
       "version": 1616022000000
     },
     {
-      "text": "Så tog han Vidnesbyrdet og lagde det i arken og anbragte bærestængerne på arken; og han satte sonedækket oven på arken.",
       "number": 20,
+      "text": "Så tog han Vidnesbyrdet og lagde det i arken og anbragte bærestængerne på arken; og han satte sonedækket oven på arken.",
       "version": 1616022000000
     },
     {
-      "text": "Han bragte arken ind i boligen og satte tæppets forhæng op så det dækkede for Vidnesbyrdets ark, sådan som JHVH havde befalet Moses.",
       "number": 21,
+      "text": "Han bragte arken ind i boligen og satte tæppets forhæng op så det dækkede for Vidnesbyrdets ark, sådan som JHVH havde befalet Moses.",
       "version": 1616022000000
     },
     {
-      "text": "Han satte bordet i forsamlingsteltet, ved teltets side mod nord, uden for forhænget.",
       "number": 22,
+      "text": "Han satte bordet i forsamlingsteltet, ved teltets side mod nord, uden for forhænget.",
       "version": 1616022000000
     },
     {
-      "text": "Han lagde brød i række på det for JHVHs ansigt, sådan som JHVH havde befalet Moses.",
       "number": 23,
+      "text": "Han lagde brød i række på det for JHVHs ansigt, sådan som JHVH havde befalet Moses.",
       "version": 1616022000000
     },
     {
-      "text": "Han satte lysestagen i forsamlingsteltet, over for bordet, ved teltets side mod syd.",
       "number": 24,
+      "text": "Han satte lysestagen i forsamlingsteltet, over for bordet, ved teltets side mod syd.",
       "version": 1616022000000
     },
     {
-      "text": "Han satte lamperne op for JHVHs ansigt, sådan som JHVH havde befalet Moses.",
       "number": 25,
+      "text": "Han satte lamperne op for JHVHs ansigt, sådan som JHVH havde befalet Moses.",
       "version": 1616022000000
     },
     {
-      "text": "Han satte guldalteret i forsamlingsteltet foran forhænget,",
       "number": 26,
+      "text": "Han satte guldalteret i forsamlingsteltet foran forhænget,",
       "version": 1616022000000
     },
     {
-      "text": "og han brændte vellugtende røgelse på det, sådan som JHVH havde befalet Moses.",
       "number": 27,
+      "text": "og han brændte vellugtende røgelse på det, sådan som JHVH havde befalet Moses.",
       "version": 1616022000000
     },
     {
-      "text": "Han anbragte tæppet for boligens indgang.",
       "number": 28,
+      "text": "Han anbragte tæppet for boligens indgang.",
       "version": 1616022000000
     },
     {
-      "text": "Brændofferalteret anbragte han ved indgangen til forsamlingsteltets bolig og ofrede brændofferet og afgrødeofferet på det, sådan som JHVH havde befalet Moses.",
       "number": 29,
+      "text": "Brændofferalteret anbragte han ved indgangen til forsamlingsteltets bolig og ofrede brændofferet og afgrødeofferet på det, sådan som JHVH havde befalet Moses.",
+      "footnotes": [
+        {
+          "text": "E: Rent, bagt eller stegt mel, der brændes. Det hebraiske ord er: *minḥāʰ*. Man kan overveje oversættelsen: »kornoffer«, se 3 Mos 2,1-16.",
+          "position": 114
+        }
+      ],
       "version": 1616022000000
     },
     {
-      "text": "Han anbragte bækkenet mellem forsamlingsteltet og alteret og kom vand i det til at vaske sig i.",
       "number": 30,
+      "text": "Han anbragte bækkenet mellem forsamlingsteltet og alteret og kom vand i det til at vaske sig i.",
       "version": 1616022000000
     },
     {
-      "text": "Moses og Aron og hans sønner vaskede deres hænder og deres fødder i det;",
       "number": 31,
+      "text": "Moses og Aron og hans sønner vaskede deres hænder og deres fødder i det;",
       "version": 1616022000000
     },
     {
-      "text": "når de gik ind i forsamlingsteltet, og når de kom nær til alteret, vaskede de sig, sådan som JHVH havde befalet Moses.",
       "number": 32,
+      "text": "når de gik ind i forsamlingsteltet, og når de kom nær til alteret, vaskede de sig, sådan som JHVH havde befalet Moses.",
       "version": 1616022000000
     },
     {
-      "text": "Og han rejste forgården rundt om boligen og alteret og satte tæppet op for forgårdens port. Sådan fuldførte Moses arbejdet.",
       "number": 33,
+      "text": "Og han rejste forgården rundt om boligen og alteret og satte tæppet op for forgårdens port. Sådan fuldførte Moses arbejdet.",
       "version": 1616022000000
     },
     {
-      "text": "\fSå dækkede skyen forsamlingsteltet, og JHVHs herlighed fyldte boligen.",
       "number": 34,
+      "text": "\fSå dækkede skyen forsamlingsteltet, og JHVHs herlighed fyldte boligen.",
+      "title": "JHVH tager bolig i helligdommen",
       "version": 1616022000000
     },
     {
-      "text": "Moses kunne ikke gå ind i forsamlingsteltet, for skyen lå over det, og JHVHs herlighed fyldte boligen.",
       "number": 35,
+      "text": "Moses kunne ikke gå ind i forsamlingsteltet, for skyen lå over det, og JHVHs herlighed fyldte boligen.",
       "version": 1616022000000
     },
     {
-      "text": "Når skyen løftede sig fra boligen, brød Israels børn op på alle deres vandringer.",
       "number": 36,
+      "text": "Når skyen løftede sig fra boligen, brød Israels børn op på alle deres vandringer.",
+      "footnotes": [
+        {
+          "text": "T:Det hebraiske ord (*massaʕ*) betyder egentlig: »opbrud (fra en lejr)«.",
+          "position": 81
+        }
+      ],
       "version": 1616022000000
     },
     {
-      "text": "Men hvis skyen ikke løftede sig, brød de ikke op før den dag den løftede sig.",
       "number": 37,
+      "text": "Men hvis skyen ikke løftede sig, brød de ikke op før den dag den løftede sig.",
       "version": 1616022000000
     },
     {
-      "text": "For JHVHs sky var over boligen om dagen, og om natten var der ild i den for øjnene af hele Israels hus på alle deres vandringer.",
       "number": 38,
+      "text": "For JHVHs sky var over boligen om dagen, og om natten var der ild i den for øjnene af hele Israels hus på alle deres vandringer.",
       "version": 1616022000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Befalingen om at rejse helligdommen",
-      "verse": 1,
-      "version": 1616022000000
-    },
-    {
-      "text": "Helligdommen rejses",
-      "verse": 16,
-      "version": 1616022000000
-    },
-    {
-      "text": "JHVH tager bolig i helligdommen",
-      "verse": 34,
-      "version": 1616022000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Rent, bagt eller stegt mel, der brændes. Det hebraiske ord er: *minḥāʰ*. Man kan overveje oversættelsen: »kornoffer«, se 3 Mos 2,1-16.",
-      "type": "E",
-      "verse": 29,
-      "position": 114
-    },
-    {
-      "text": "et hebraiske ord (*massaʕ*) betyder egentlig: »opbrud (fra en lejr)«.",
-      "type": "T",
-      "verse": 36,
-      "position": 81
     }
   ]
 }

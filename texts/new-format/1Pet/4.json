@@ -5,45 +5,43 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fMen alle tings ende er nær. Vær derfor besindige og ædru så I kan bede!",
       "number": 7,
+      "text": "Men alle tings ende er nær. Vær derfor besindige og ædru så I kan bede!",
       "version": 1620165600000
     },
     {
-      "text": "Hav fremfor alt en inderlig kærlighed til hinanden; for kærlighed skjuler en mangfoldighed af synder.",
       "number": 8,
+      "text": "Hav fremfor alt en inderlig kærlighed til hinanden; for kærlighed skjuler en mangfoldighed af synder.",
       "version": 1620165600000
     },
     {
-      "text": "Vær gæstfrie mod hinanden uden knurren.",
       "number": 9,
+      "text": "Vær gæstfrie mod hinanden uden knurren.",
       "version": 1620165600000
     },
     {
-      "text": "Med hver den nådegave I har fået, skal I tjene hinanden som gode husholdere over Guds mangfoldige nåde.",
       "number": 10,
+      "text": "Med hver den nådegave I har fået, skal I tjene hinanden som gode husholdere over Guds mangfoldige nåde.",
       "version": 1620165600000
     },
     {
-      "text": "Taler nogen, skal han tale som udsagn fra Gud; har nogen en tjeneste, skal han tjene som Gud giver ham styrke til, for at Gud må æres i alle ting ved Jesus Kristus, som æren og magten tilhører i evighedernes evigheder! Amen.",
       "number": 11,
+      "text": "Taler nogen, skal han tale som udsagn fra Gud; har nogen en tjeneste, skal han tjene som Gud giver ham styrke til, for at Gud må æres i alle ting ved Jesus Kristus, som æren og magten tilhører i evighedernes evigheder! Amen.",
       "version": 1620165600000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

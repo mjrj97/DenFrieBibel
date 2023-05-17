@@ -5,50 +5,48 @@
   "translation": 50,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fVi har erkendt og troet den kærlighed som Gud har til os. Gud er kærlighed, og den som bliver i kærligheden, bliver i Gud, og Gud bliver i ham.",
       "number": 16,
+      "text": "Vi har erkendt og troet den kærlighed som Gud har til os. Gud er kærlighed, og den som bliver i kærligheden, bliver i Gud, og Gud bliver i ham.",
       "version": 1622152800000
     },
     {
-      "text": "Deri er kærligheden fuldkommen hos os så at vi har frimodighed på dommens dag, for ligesom han er, sådan er også vi i denne verden.",
       "number": 17,
+      "text": "Deri er kærligheden fuldkommen hos os så at vi har frimodighed på dommens dag, for ligesom han er, sådan er også vi i denne verden.",
       "version": 1622152800000
     },
     {
-      "text": "Frygt er ikke i kærligheden, men den fuldkomne kærlighed driver frygten ud; for frygt venter straf; men den som frygter, er ikke fuldkommen i kærligheden.",
       "number": 18,
+      "text": "Frygt er ikke i kærligheden, men den fuldkomne kærlighed driver frygten ud; for frygt venter straf; men den som frygter, er ikke fuldkommen i kærligheden.",
       "version": 1622152800000
     },
     {
-      "text": "Vi elsker fordi han elskede os først.",
       "number": 19,
+      "text": "Vi elsker fordi han elskede os først.",
       "version": 1622152800000
     },
     {
-      "text": "Hvis nogen siger: »Jeg elsker Gud,« og hader sin bror, er han en løgner; for den der ikke elsker sin bror, som han har set, hvordan kan han elske Gud, som han ikke har set?",
       "number": 20,
+      "text": "Hvis nogen siger: »Jeg elsker Gud,« og hader sin bror, er han en løgner; for den der ikke elsker sin bror, som han har set, hvordan kan han elske Gud, som han ikke har set?",
       "version": 1622152800000
     },
     {
-      "text": "Og dette bud har vi fra ham: At den som elsker Gud, skal også elske sin broder.",
       "number": 21,
+      "text": "Og dette bud har vi fra ham: At den som elsker Gud, skal også elske sin broder.",
       "version": 1622152800000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

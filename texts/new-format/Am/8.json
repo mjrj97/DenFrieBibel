@@ -5,47 +5,44 @@
   "translation": 50,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fHør dette, I, som knuser den fattige og søger at gøre ende på de ringe i landet;",
       "number": 4,
+      "text": "Hør dette, I, som knuser den fattige og søger at gøre ende på de ringe i landet;",
+      "footnotes": [
+        {
+          "text": "T: Oversættelsen er lidt usikker, men dette er den rimeligste forståelse af den hebraiske sætningskonstruktion.",
+          "position": 58
+        }
+      ],
       "version": 1649109600000
     },
     {
-      "text": "I som siger: Hvornår er nymånen gået forbi så vi kan sælge korn, og sabbaten så vi kan åbne op for kornforråd; så vi kan gøre efaen lille, og sekelen stor og forfalske bedrageriske vægtskåle?",
       "number": 5,
+      "text": "I som siger: Hvornår er nymånen gået forbi så vi kan sælge korn, og sabbaten så vi kan åbne op for kornforråd; så vi kan gøre efaen lille, og sekelen stor og forfalske bedrageriske vægtskåle?",
       "version": 1649109600000
     },
     {
-      "text": "Så vi kan købe de svage for penge og en fattig for et par sandaler og sælge affaldskorn?",
       "number": 6,
+      "text": "Så vi kan købe de svage for penge og en fattig for et par sandaler og sælge affaldskorn?",
       "version": 1649109600000
     },
     {
-      "text": "\fJHVH har svoret ved Jakobs stolthed: »Jeg skal aldrig glemme alle deres gerninger.«",
       "number": 7,
+      "text": "\fJHVH har svoret ved Jakobs stolthed: »Jeg skal aldrig glemme alle deres gerninger.«",
       "version": 1649109600000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Oversættelsen er lidt usikker, men dette er den rimeligste forståelse af den hebraiske sætningskonstruktion.",
-      "type": "T",
-      "verse": 4,
-      "position": 59
     }
   ]
 }

@@ -5,107 +5,85 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Af David.\fEn tåbe siger i sit hjerte: »Der er ingen Gud«.\fDe udfører fordærvelig, afskyelig gerning,\fder er ingen der gør godt.",
       "number": 1,
+      "text": "Til korlederen. Af David.\fEn tåbe siger i sit hjerte: »Der er ingen Gud«.\fDe udfører fordærvelig, afskyelig gerning,\fder er ingen der gør godt.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fJHVH skuede ned fra himlen\fpå menneskene,\ffor at se om der var en forstandig,\fen der søgte Gud.",
       "number": 2,
+      "text": "JHVH skuede ned fra himlen\fpå menneskene,\ffor at se om der var en forstandig,\fen der søgte Gud.",
+      "title": "Klage over menneskers fordærvede tilstand",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Adams børn/menneskes børn«.",
+          "position": 41
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fDe er alle kommet på afveje,\falle er fordærvede,\fingen gør godt,\fend ikke en eneste.",
       "number": 3,
+      "text": "\fDe er alle kommet på afveje,\falle er fordærvede,\fingen gør godt,\fend ikke en eneste.",
       "version": 1504476000000
     },
     {
-      "text": "\fMon de ikke ved det, alle de der begår synd,\fde der æder mit folk, som åd de brød?\fde kaldte ikke på JHVH.",
       "number": 4,
+      "text": "\fMon de ikke ved det, alle de der begår synd,\fde der æder mit folk, som åd de brød?\fde kaldte ikke på JHVH.",
+      "title": "Gud er dommer og frelser",
       "version": 1504476000000
     },
     {
-      "text": "\fDa skal de gribes af stor rædsel,\ffor Gud er med en retfærdigs slægt.",
       "number": 5,
+      "text": "\fDa skal de gribes af stor rædsel,\ffor Gud er med en retfærdigs slægt.",
+      "footnotes": [
+        {
+          "text": "E: Perfektiv skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det, der vil ske. Ellers skal der oversættes: »Da var de grebet af stor rædsel«.",
+          "position": 34
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fGør blot den hjælpeløses plan til skamme,\ffor JHVH er dog hans tilflugt.",
       "number": 6,
+      "text": "\fGør blot den hjælpeløses plan til skamme,\ffor JHVH er dog hans tilflugt.",
       "version": 1504476000000
     },
     {
-      "text": "\fGid Israels frelse må komme fra Zion!\fNår JHVH vender sit folks lod,\fskal Jakob juble, Israel skal glæde sig.",
       "number": 7,
+      "text": "\fGid Israels frelse må komme fra Zion!\fNår JHVH vender sit folks lod,\fskal Jakob juble, Israel skal glæde sig.",
+      "title": "Bøn om frelse",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »hvem giver«, men det er en almindelig ønskeformel.",
+          "position": 4
+        },
+        {
+          "text": "E: Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det er afledt af roden * šbh* (»tage til fange«), altså: »fangenskab«. Nu peges der oftest på roden *šwb* (egtl.: »vende tilbage«), her: »lod« eller evt. »ændre forholdene/situationen«.",
+          "position": 69
+        }
+      ],
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "Klage over menneskers fordærvede tilstand",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Gud er dommer og frelser",
-      "verse": 4,
-      "version": 1504476000000
-    },
-    {
-      "text": "Bøn om frelse",
-      "verse": 7,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Ordret: »Adams børn/menneskes børn«.",
-      "type": "T",
-      "verse": 2,
-      "position": 42
-    },
-    {
-      "text": "Perfektiv skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det, der vil ske. Ellers skal der oversættes: »Da var de grebet af stor rædsel«.",
-      "type": "E",
-      "verse": 5,
-      "position": 34
-    },
-    {
-      "text": "Ordret: »hvem giver«, men det er en almindelig ønskeformel.",
-      "type": "T",
-      "verse": 7,
-      "position": 4
-    },
-    {
-      "text": "Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det er afledt af roden * šbh* (»tage til fange«), altså: »fangenskab«. Nu peges der oftest på roden *šwb* (egtl.: »vende tilbage«), her: »lod« eller evt. »ændre forholdene/situationen«.",
-      "type": "E",
-      "verse": 7,
-      "position": 69
     }
   ]
 }

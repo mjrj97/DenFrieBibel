@@ -5,210 +5,178 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\fSalme af David.",
       "number": 1,
+      "text": "Til korlederen.\fSalme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDengang profeten Natan kom til ham efter at han var gået ind til Batseba.",
       "number": 2,
+      "text": "\fDengang profeten Natan kom til ham efter at han var gået ind til Batseba.",
       "version": 1500242400000
     },
     {
-      "text": "\fVær mig nådig, Gud, efter din nåde,\fudslet mine overtrædelser efter din store barmhjertighed!",
       "number": 3,
+      "text": "\fVær mig nådig, Gud, efter din nåde,\fudslet mine overtrædelser efter din store barmhjertighed!",
+      "title": "Bøn om tilgivelse",
       "version": 1500242400000
     },
     {
-      "text": "\fVask mig fuldstændig ren for min skyld,\fog rens mig for min synd!",
       "number": 4,
+      "text": "\fVask mig fuldstændig ren for min skyld,\fog rens mig for min synd!",
       "version": 1500242400000
     },
     {
-      "text": "\fFor mine overtrædelser kender jeg,\fog min synd har jeg altid for øje.",
       "number": 5,
+      "text": "\fFor mine overtrædelser kender jeg,\fog min synd har jeg altid for øje.",
+      "footnotes": [
+        {
+          "text": "E: Meningen er at hans synd altid er nærværende og bevidst for ham.",
+          "position": 70
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fMod dig, mod dig alene, har jeg syndet\fog gjort det der er ondt i dine øjne,\fså du er retfærdig når du taler,\fer ren når du dømmer.",
       "number": 6,
+      "text": "\fMod dig, mod dig alene, har jeg syndet\fog gjort det der er ondt i dine øjne,\fså du er retfærdig når du taler,\fer ren når du dømmer.",
+      "title": "Syndsbekendelse",
+      "footnotes": [
+        {
+          "text": "E: Meningen med ordet *lᵊmaʕan* er omdiskuteret. Oftest betyder det »for at«, og således forstår mange fortolkere det her. Meningen er så, at menneskets syndighed og især dets syndserkendelse ophøjer og fremhæver Guds ære og barmhjertighed (Rom 11,32-22). I nogle tilfælde angiver *lᵊmaʕan* dog også en følge (som forudsat her). Nogle fortolkere oversætter: »derfor«.",
+          "position": 80
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fSe, jeg er født i skyld,\fog min mor undfangede mig i synd.",
       "number": 7,
+      "text": "\fSe, jeg er født i skyld,\fog min mor undfangede mig i synd.",
+      "footnotes": [
+        {
+          "text": "E: Det er ikke moderens skyld og synd der er tale om, men det ondes gådefulde magt i hele menneskets liv.",
+          "position": 59
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fSe, du ønskede sandhed i det dunkle,\fog du lærer mig visdom i det skjulte!",
       "number": 8,
+      "text": "\fSe, du ønskede sandhed i det dunkle,\fog du lærer mig visdom i det skjulte!",
+      "footnotes": [
+        {
+          "text": "T: Betydningen af *ṭuḥôt* er usikker. Ordet forekommer kun her og Job 38,36. Nærliggende muligheder er »nyre, indre, det dunkle«.",
+          "position": 37
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fRens mig for synd med isop så jeg bliver ren,\fvask mig så jeg bliver hvidere end sne.",
       "number": 9,
+      "text": "\fRens mig for synd med isop så jeg bliver ren,\fvask mig så jeg bliver hvidere end sne.",
+      "title": "Ny bøn om tilgivelse",
       "version": 1500242400000
     },
     {
-      "text": "\fLad mig høre fryd og glæde,\flad de knogler juble, som du knuste.",
       "number": 10,
+      "text": "\fLad mig høre fryd og glæde,\flad de knogler juble, som du knuste.",
       "version": 1500242400000
     },
     {
-      "text": "\fSkjul dit ansigt for mine synder\fog udslet al min skyld!",
       "number": 11,
+      "text": "\fSkjul dit ansigt for mine synder\fog udslet al min skyld!",
       "version": 1500242400000
     },
     {
-      "text": "\fSkab mig et rent hjerte, Gud,\fog forny en fast ånd i mig.",
       "number": 12,
+      "text": "\fSkab mig et rent hjerte, Gud,\fog forny en fast ånd i mig.",
+      "title": "Bøn om indre fornyelse",
       "version": 1500242400000
     },
     {
-      "text": "\fKast mig ikke bort fra dit ansigt,\fog tag ikke din hellige ånd fra mig!",
       "number": 13,
+      "text": "\fKast mig ikke bort fra dit ansigt,\fog tag ikke din hellige ånd fra mig!",
       "version": 1500242400000
     },
     {
-      "text": "\fLad glæden over din frelse vende tilbage til mig,\fog støt mig med en villig ånd!",
       "number": 14,
+      "text": "\fLad glæden over din frelse vende tilbage til mig,\fog støt mig med en villig ånd!",
       "version": 1500242400000
     },
     {
-      "text": "\fJeg vil lære overtrædere dine veje,\fog syndere skal omvende sig til dig.",
       "number": 15,
+      "text": "\fJeg vil lære overtrædere dine veje,\fog syndere skal omvende sig til dig.",
+      "title": "Løfte om vidnesbyrd, lovsang og ret offer",
       "version": 1500242400000
     },
     {
-      "text": "\fFri mig fra blodskyld, Gud, min frelses Gud!\fSå skal min tunge jublende prise din retfærdighed.",
       "number": 16,
+      "text": "\fFri mig fra blodskyld, Gud, min frelses Gud!\fSå skal min tunge jublende prise din retfærdighed.",
+      "footnotes": [
+        {
+          "text": "T: Ordret blot: »blod« pluralis.",
+          "position": 22
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHerre! åben mine læber,\fså skal min mund forkynde din pris.",
       "number": 17,
+      "text": "\fHerre! åben mine læber,\fså skal min mund forkynde din pris.",
       "version": 1500242400000
     },
     {
-      "text": "\fFor du har ikke lyst til slagtoffer, ellers ville jeg bringe ét,\fbrændoffer har du ikke behag i.",
       "number": 18,
+      "text": "\fFor du har ikke lyst til slagtoffer, ellers ville jeg bringe ét,\fbrændoffer har du ikke behag i.",
+      "footnotes": [
+        {
+          "text": "E: Denne sætning udgøres i grundteksten blot af ét ord: * wᵊʔettēnāʰ*, der er knyttet til v.18a. Mange vælger dog at flytte accenten under det til det foregående ord så det knyttes til v.18b, der så må oversættes: »og bringer jeg et brændoffer, har du ikke behag i det«.",
+          "position": 65
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fOfre for Gud er en sønderbrudt ånd,\fet sønderbrudt og sønderknust hjerte vil Gud ikke foragte.",
       "number": 19,
+      "text": "\fOfre for Gud er en sønderbrudt ånd,\fet sønderbrudt og sønderknust hjerte vil Gud ikke foragte.",
+      "footnotes": [
+        {
+          "text": "T: Mange vælger at ændre vokaliseringen af *zivᵊḥê* (egtl. »slagtofre«) til: *zivᵊḥî*: »mit offer«.",
+          "position": 5
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGør vel imod Zion efter dit velbehag,\fopbyg Jerusalems mure!",
       "number": 20,
+      "text": "\fGør vel imod Zion efter dit velbehag,\fopbyg Jerusalems mure!",
+      "title": "Bøn for Zion",
       "version": 1500242400000
     },
     {
-      "text": "\fDa skal du have behag i retfærdigheds ofre,\fbrændoffer og heloffer;\fda vil tyre blive bragt op på dit alter.",
       "number": 21,
+      "text": "\fDa skal du have behag i retfærdigheds ofre,\fbrændoffer og heloffer;\fda vil tyre blive bragt op på dit alter.",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Bøn om tilgivelse",
-      "verse": 3,
-      "version": 1500242400000
-    },
-    {
-      "text": "Syndsbekendelse",
-      "verse": 6,
-      "version": 1500242400000
-    },
-    {
-      "text": "Ny bøn om tilgivelse",
-      "verse": 9,
-      "version": 1500242400000
-    },
-    {
-      "text": "Bøn om indre fornyelse",
-      "verse": 12,
-      "version": 1500242400000
-    },
-    {
-      "text": "Løfte om vidnesbyrd, lovsang og ret offer",
-      "verse": 15,
-      "version": 1500242400000
-    },
-    {
-      "text": "Bøn for Zion",
-      "verse": 20,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Meningen er at hans synd altid er nærværende og bevidst for ham.",
-      "type": "E",
-      "verse": 5,
-      "position": 70
-    },
-    {
-      "text": "Meningen med ordet *lᵊmaʕan* er omdiskuteret. Oftest betyder det »for at«, og således forstår mange fortolkere det her. Meningen er så, at menneskets syndighed og især dets syndserkendelse ophøjer og fremhæver Guds ære og barmhjertighed (Rom 11,32-22). I nogle tilfælde angiver *lᵊmaʕan* dog også en følge (som forudsat her). Nogle fortolkere oversætter: »derfor«.",
-      "type": "E",
-      "verse": 6,
-      "position": 80
-    },
-    {
-      "text": "Det er ikke moderens skyld og synd der er tale om, men det ondes gådefulde magt i hele menneskets liv.",
-      "type": "E",
-      "verse": 7,
-      "position": 59
-    },
-    {
-      "text": "Betydningen af *ṭuḥôt* er usikker. Ordet forekommer kun her og Job 38,36. Nærliggende muligheder er »nyre, indre, det dunkle«.",
-      "type": "T",
-      "verse": 8,
-      "position": 37
-    },
-    {
-      "text": "Ordret blot: »blod« pluralis.",
-      "type": "T",
-      "verse": 16,
-      "position": 22
-    },
-    {
-      "text": "Denne sætning udgøres i grundteksten blot af ét ord: * wᵊʔettēnāʰ*, der er knyttet til v.18a. Mange vælger dog at flytte accenten under det til det foregående ord så det knyttes til v.18b, der så må oversættes: »og bringer jeg et brændoffer, har du ikke behag i det«.",
-      "type": "E",
-      "verse": 18,
-      "position": 65
-    },
-    {
-      "text": "Mange vælger at ændre vokaliseringen af *zivᵊḥê* (egtl. »slagtofre«) til: *zivᵊḥî*: »mit offer«.",
-      "type": "T",
-      "verse": 19,
-      "position": 5
     }
   ]
 }

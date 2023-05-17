@@ -1,53 +1,80 @@
 {
-  "book": " Paulus' Første Brev til Thessalonikerne",
+  "book": "Paulus' Første Brev til Thessalonikerne",
   "abbreviation": "1Thess",
   "chapter": 1,
   "translation": 50,
   "contributors": [
     {
-      "name": "Ulrik Sandborg-Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Ulrik Sandborg-Petersen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fFra Paulus, Silvanus og Timotheus. Til Thessalonikernes menighed i Gud Fader og Herren Jesus Kristus. Nåde være med jer, og fred.",
       "number": 1,
+      "text": "Fra Paulus, Silvanus og Timotheus. Til Thessalonikernes menighed i Gud Fader og Herren Jesus Kristus. Nåde være med jer, og fred.",
+      "footnotes": [
+        {
+          "text": "E: Mange håndskrifter tilføjer desuden: »fra Gud, vor Far, og Herren Jesus Kristus.«",
+          "position": 129
+        }
+      ],
       "version": 1494540000000
     },
     {
-      "text": "\fVi takker altid Gud for jer alle, når vi nævner jer i vores bønner.  Uophørligt v3 husker vi, for Guds, vor Faders, ansigt, jeres arbejde i troen, jeres slid i kærligheden, og jeres udholdenhed i håbet til vores Herre, Jesus Kristus.",
       "number": 2,
+      "text": "\fVi takker altid Gud for jer alle, når vi nævner jer i vores bønner. Uophørligt",
       "version": 1494540000000
     },
     {
-      "text": "\fVi er jo forvisset om jeres udvælgelse, brødre, I som er elskede af Gud. v5 For vort evangelium kom ikke til jer med ord alene, men også med kraft og med Helligånden og med fuld forvisning, ligesom I også ved, hvordan vi opførte os over for jer, for jeres skyld.",
+      "number": 3,
+      "text": "husker vi, for Guds, vor Faders, ansigt, jeres arbejde i troen, jeres slid i kærligheden, og jeres udholdenhed i håbet til vores Herre, Jesus Kristus.",
+      "version": 1494540000000
+    },
+    {
       "number": 4,
+      "text": "\fVi er jo forvisset om jeres udvælgelse, brødre, I som er elskede af Gud.",
       "version": 1494540000000
     },
     {
-      "text": "\fOg I blev efterlignere af os, ja, af Herren, da I jo modtog Ordet under mange trængsler og med glæde i Helligånden, v7 så at I er blevet et forbillede for alle de troende i Makedonien og i Akaja. v8 For ud fra jer har Herrens Ord jo lydt klart, ikke alene i Makedonien og Akaja, men alle vegne er jeres tro på Gud kommet ud, så vi ikke behøver sige noget om den. v9 For de fortæller nemlig selv om os, hvilken slags modtagelse vi fik hos jer, og hvorledes I omvendte jer fra afguderne til Gud, for at tjene den levende og sande Gud, v10 og for at forvente hans Søn fra himlene. Ham som han oprejste fra de døde, Jesus, som frier os fra den vrede, som kommer.",
+      "number": 5,
+      "text": "For vort evangelium kom ikke til jer med ord alene, men også med kraft og med Helligånden og med fuld forvisning, ligesom I også ved, hvordan vi opførte os over for jer, for jeres skyld.",
+      "version": 1494540000000
+    },
+    {
       "number": 6,
+      "text": "\fOg I blev efterlignere af os, ja, af Herren, da I jo modtog Ordet under mange trængsler og med glæde i Helligånden,",
       "version": 1494540000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Mange håndskrifter tilføjer desuden: »fra Gud, vor Far, og Herren Jesus Kristus.«",
-      "type": "E",
-      "verse": 1,
-      "position": 130
     },
     {
-      "text": "Ordret, »indgang«.",
-      "type": "T",
-      "verse": 6,
-      "position": 427
+      "number": 7,
+      "text": "så at I er blevet et forbillede for alle de troende i Makedonien og i Akaja.",
+      "version": 1494540000000
+    },
+    {
+      "number": 8,
+      "text": "For ud fra jer har Herrens Ord jo lydt klart, ikke alene i Makedonien og Akaja, men alle vegne er jeres tro på Gud kommet ud, så vi ikke behøver sige noget om den.",
+      "version": 1494540000000
+    },
+    {
+      "number": 9,
+      "text": "For de fortæller nemlig selv om os, hvilken slags modtagelse vi fik hos jer, og hvorledes I omvendte jer fra afguderne til Gud, for at tjene den levende og sande Gud,",
+      "footnotes": [
+        {
+          "text": "T: Ordret, »indgang«.",
+          "position": 60
+        }
+      ],
+      "version": 1494540000000
+    },
+    {
+      "number": 10,
+      "text": "og for at forvente hans Søn fra himlene. Ham som han oprejste fra de døde, Jesus, som frier os fra den vrede, som kommer.",
+      "version": 1494540000000
     }
   ]
 }

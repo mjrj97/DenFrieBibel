@@ -5,70 +5,62 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fSkaf mig ret, Gud!\fog før min sag imod et folk uden mildhed,\fred mig fra en bedragerisk og uretfærdig mand!",
       "number": 1,
+      "text": "Skaf mig ret, Gud!\fog før min sag imod et folk uden mildhed,\fred mig fra en bedragerisk og uretfærdig mand!",
+      "title": "Bøn om at måtte komme til Gud igen",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »døm mig«.",
+          "position": 13
+        }
+      ],
       "version": 1614207600000
     },
     {
-      "text": "\fFor du, min tilflugts Gud,\fhvorfor har du forkastet mig?\fHvorfor skal jeg gå omkring og sørge,\fidet en fjende trænger mig?",
       "number": 2,
+      "text": "\fFor du, min tilflugts Gud,\fhvorfor har du forkastet mig?\fHvorfor skal jeg gå omkring og sørge,\fidet en fjende trænger mig?",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fæstnings«.",
+          "position": 22
+        }
+      ],
       "version": 1614207600000
     },
     {
-      "text": "\fSend dit lys og din sandhed\fså de kan lede mig,\fde må bringe mig til dit hellige bjerg\fog til dine boliger.",
       "number": 3,
+      "text": "\fSend dit lys og din sandhed\fså de kan lede mig,\fde må bringe mig til dit hellige bjerg\fog til dine boliger.",
+      "footnotes": [
+        {
+          "text": "T: Der er formodentlig tænkt på templet, hvor pluralis skal understrege storheden, rigdommen og helligheden i Guds tempel.",
+          "position": 108
+        }
+      ],
       "version": 1614207600000
     },
     {
-      "text": "\fSå kommer jeg til Guds alter,\ftil min glædes og jubels Gud,\fog vil takke dig med citer,\fGud, min Gud!",
       "number": 4,
+      "text": "\fSå kommer jeg til Guds alter,\ftil min glædes og jubels Gud,\fog vil takke dig med citer,\fGud, min Gud!",
       "version": 1614207600000
     },
     {
-      "text": "\fHvorfor er du nedbøjet, min sjæl?\fOg hvorfor er du i oprør i mig?\fVent på Gud, for jeg skal takke ham på ny,\fmit ansigts frelse og min Gud.",
       "number": 5,
+      "text": "\fHvorfor er du nedbøjet, min sjæl?\fOg hvorfor er du i oprør i mig?\fVent på Gud, for jeg skal takke ham på ny,\fmit ansigts frelse og min Gud.",
       "version": 1614207600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Bøn om at måtte komme til Gud igen",
-      "verse": 1,
-      "version": 1614207600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »døm mig«.",
-      "type": "T",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Ordret: »fæstnings«.",
-      "type": "T",
-      "verse": 2,
-      "position": 22
-    },
-    {
-      "text": "Der er formodentlig tænkt på templet, hvor pluralis skal understrege storheden, rigdommen og helligheden i Guds tempel.",
-      "type": "T",
-      "verse": 3,
-      "position": 108
     }
   ]
 }

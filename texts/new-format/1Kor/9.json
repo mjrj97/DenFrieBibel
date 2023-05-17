@@ -1,190 +1,182 @@
 {
-  "book": " Paulus' Første Brev til Korintherne",
+  "book": "Paulus' Første Brev til Korintherne",
   "abbreviation": "1Kor",
   "chapter": 9,
   "translation": 50,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fEr jeg ikke fri? Er jeg ikke apostel? Har jeg ikke set Jesus, vor Herre? Er I ikke min gerning i Herren?",
       "number": 1,
+      "text": "\fEr jeg ikke fri? Er jeg ikke apostel? Har jeg ikke set Jesus, vor Herre? Er I ikke min gerning i Herren?",
+      "title": "Som eksempel på, hvordan man bør indskrænke sin personlige frihed, minder Paulus om, at han for så meget bedre at kunne fremme evangeliets sag har givet afkald på sin selvfølgelige ret til at få løn af menighederne, 1-18, ligesom han har indrettet sig efter alle for deres frelses skyld, 19-23. Som væddeløbere bør læserne ligesom han selv anstrenge sig og øve sig i afholdenhed for at vinde sejrskransen, 24-27.",
       "version": 1643670000000
     },
     {
-      "text": "Er jeg ikke apostel for andre, så er jeg det dog i det mindste for jer; for det er jer, der er seglet på min apostelgerning i Herren.",
       "number": 2,
+      "text": "Er jeg ikke apostel for andre, så er jeg det dog i det mindste for jer; for det er jer, der er seglet på min apostelgerning i Herren.",
       "version": 1643670000000
     },
     {
-      "text": "Det er mit forsvar imod dem, der bedømmer mig.",
       "number": 3,
+      "text": "Det er mit forsvar imod dem, der bedømmer mig.",
       "version": 1643670000000
     },
     {
-      "text": "Har vi ikke ret til at spise og drikke?",
       "number": 4,
+      "text": "Har vi ikke ret til at spise og drikke?",
       "version": 1643670000000
     },
     {
-      "text": "Har vi ikke ret til at tage en søster med omkring som kone ligesom de andre apostle og Herrens brødre og Kefas?",
       "number": 5,
+      "text": "Har vi ikke ret til at tage en søster med omkring som kone ligesom de andre apostle og Herrens brødre og Kefas?",
+      "footnotes": [
+        {
+          "text": "T: dvs. en kristen kvinde.",
+          "position": 37
+        }
+      ],
       "version": 1643670000000
     },
     {
-      "text": "Eller har kun jeg og Barnabas ingen ret til at lade være med at arbejde?",
       "number": 6,
+      "text": "Eller har kun jeg og Barnabas ingen ret til at lade være med at arbejde?",
       "version": 1643670000000
     },
     {
-      "text": "Hvem gør vel nogen sinde krigstjeneste for egen løn? Hvem planter en vingård og spiser ikke dens frugt? Eller hvem vogter en hjord og nyder ikke af hjordens mælk?",
       "number": 7,
+      "text": "Hvem gør vel nogen sinde krigstjeneste for egen løn? Hvem planter en vingård og spiser ikke dens frugt? Eller hvem vogter en hjord og nyder ikke af hjordens mælk?",
       "version": 1643670000000
     },
     {
-      "text": "Siger jeg mon det her rent menneskeligt, eller siger loven det ikke også?",
       "number": 8,
+      "text": "Siger jeg mon det her rent menneskeligt, eller siger loven det ikke også?",
       "version": 1643670000000
     },
     {
-      "text": "For i Moseloven står der skrevet: »Du må ikke binde munden til på en okse, der tærsker.« Er det okserne, Gud bekymrer sig om,",
       "number": 9,
+      "text": "For i Moseloven står der skrevet: »Du må ikke binde munden til på en okse, der tærsker.« Er det okserne, Gud bekymrer sig om,",
       "version": 1643670000000
     },
     {
-      "text": "eller siger han det ikke helt og holdent med henblik på os? Det var jo for vores skyld, det blev skrevet, siden den, der pløjer, bør pløje i håb, og den, der tærsker, bør gøre det i håb om at få sin del.",
       "number": 10,
+      "text": "eller siger han det ikke helt og holdent med henblik på os? Det var jo for vores skyld, det blev skrevet, siden den, der pløjer, bør pløje i håb, og den, der tærsker, bør gøre det i håb om at få sin del.",
       "version": 1643670000000
     },
     {
-      "text": "Når vi har sået de åndelige ting hos jer, er det da noget stort, hvis vi høster jeres kødelige?",
       "number": 11,
+      "text": "Når vi har sået de åndelige ting hos jer, er det da noget stort, hvis vi høster jeres kødelige?",
+      "footnotes": [
+        {
+          "text": "T: dvs. det, der hører denne verden til",
+          "position": 94
+        }
+      ],
       "version": 1643670000000
     },
     {
-      "text": "Hvis andre har den rettighed hos jer, kunne vi så ikke have den endnu mere? Vi har dog ikke brugt denne ret; men vi tåler alt, for at vi ikke skal lægge nogen hindring i vejen for Kristi evangelium.",
       "number": 12,
+      "text": "Hvis andre har den rettighed hos jer, kunne vi så ikke have den endnu mere? Vi har dog ikke brugt denne ret; men vi tåler alt, for at vi ikke skal lægge nogen hindring i vejen for Kristi evangelium.",
       "version": 1643670000000
     },
     {
-      "text": "Ved I ikke, at de, der udfører de hellige tjenester, får deres mad fra helligdommen, de, der tjener ved alteret, får deres del af alteret?",
       "number": 13,
+      "text": "Ved I ikke, at de, der udfører de hellige tjenester, får deres mad fra helligdommen, de, der tjener ved alteret, får deres del af alteret?",
       "version": 1643670000000
     },
     {
-      "text": "Sådan har Herren også bestemt for dem, der forkynder evangeliet, at de skal leve af evangeliet.",
       "number": 14,
+      "text": "Sådan har Herren også bestemt for dem, der forkynder evangeliet, at de skal leve af evangeliet.",
       "version": 1643670000000
     },
     {
-      "text": "Jeg derimod har ikke gjort brug af noget af dette her. Jeg skriver dog ikke dette, for at det skal gå mig sådan; for jeg vil hellere dø, end at nogen skulle gøre min ros til intet.",
       "number": 15,
+      "text": "Jeg derimod har ikke gjort brug af noget af dette her. Jeg skriver dog ikke dette, for at det skal gå mig sådan; for jeg vil hellere dø, end at nogen skulle gøre min ros til intet.",
       "version": 1643670000000
     },
     {
-      "text": "For hvis jeg forkynder evangeliet, har jeg ikke noget at rose mig af; det er nemlig en nødvendighed, der er pålagt mig, for ve mig, hvis jeg ikke forkynder det!",
       "number": 16,
+      "text": "For hvis jeg forkynder evangeliet, har jeg ikke noget at rose mig af; det er nemlig en nødvendighed, der er pålagt mig, for ve mig, hvis jeg ikke forkynder det!",
       "version": 1643670000000
     },
     {
-      "text": "Gør jeg nemlig dette af fri vilje, får jeg løn; men har jeg imod min vilje fået en forvaltergerning betroet,",
       "number": 17,
+      "text": "Gør jeg nemlig dette af fri vilje, får jeg løn; men har jeg imod min vilje fået en forvaltergerning betroet,",
+      "footnotes": [
+        {
+          "text": "T: dvs. så er jeg ligesom en træl.",
+          "position": 108
+        }
+      ],
       "version": 1643670000000
     },
     {
-      "text": "hvad er da min løn? For at jeg, når jeg forkynder evangeliet, skal fremsætte det for intet, så at jeg ikke gør brug af min ret i evangeliet.",
       "number": 18,
+      "text": "hvad er da min løn? For at jeg, når jeg forkynder evangeliet, skal fremsætte det for intet, så at jeg ikke gør brug af min ret i evangeliet.",
       "version": 1643670000000
     },
     {
-      "text": "\fFor selvom jeg er fri over for alle, har jeg dog gjort mig selv til tjener for alle, for at jeg kunne vinde så mange flere.",
       "number": 19,
+      "text": "\fFor selvom jeg er fri over for alle, har jeg dog gjort mig selv til tjener for alle, for at jeg kunne vinde så mange flere.",
       "version": 1643670000000
     },
     {
-      "text": "Og for jøderne er jeg blevet som en jøde, for at jeg kunne vinde jøder; for dem under loven som en under loven, skønt jeg ikke selv er under loven, for at jeg kunne vinde dem, der er under loven;",
       "number": 20,
+      "text": "Og for jøderne er jeg blevet som en jøde, for at jeg kunne vinde jøder; for dem under loven som en under loven, skønt jeg ikke selv er under loven, for at jeg kunne vinde dem, der er under loven;",
       "version": 1643670000000
     },
     {
-      "text": "for dem uden for loven som en uden for loven, skønt jeg ikke er uden lov for Gud, men under Kristi lov, for at jeg kunne vinde dem, der er uden for loven.",
       "number": 21,
+      "text": "for dem uden for loven som en uden for loven, skønt jeg ikke er uden lov for Gud, men under Kristi lov, for at jeg kunne vinde dem, der er uden for loven.",
       "version": 1643670000000
     },
     {
-      "text": "Jeg er blevet skrøbelig for de skrøbelige, for at jeg kunne vinde de skrøbelige; jeg er blevet alt for alle, for at jeg i hvert fald kunne frelse nogle.",
       "number": 22,
+      "text": "Jeg er blevet skrøbelig for de skrøbelige, for at jeg kunne vinde de skrøbelige; jeg er blevet alt for alle, for at jeg i hvert fald kunne frelse nogle.",
       "version": 1643670000000
     },
     {
-      "text": "Men alt gør jeg for evangeliets skyld, for at jeg kan få del i det.",
       "number": 23,
+      "text": "Men alt gør jeg for evangeliets skyld, for at jeg kan få del i det.",
       "version": 1643670000000
     },
     {
-      "text": "\fVed I ikke at de der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Løb sådan at I kan vinde den.",
       "number": 24,
+      "text": "\fVed I ikke at de der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Løb sådan at I kan vinde den.",
       "version": 1643670000000
     },
     {
-      "text": "Enhver der deltager i konkurrencer, er afholdende i alt; de altså for at få en krans der visner, men vi en der ikke visner.",
       "number": 25,
+      "text": "Enhver der deltager i konkurrencer, er afholdende i alt; de altså for at få en krans der visner, men vi en der ikke visner.",
       "version": 1643670000000
     },
     {
-      "text": "Jeg løber derfor ikke som hen i det uvisse; jeg bokser som en der ikke slår ud i luften;",
       "number": 26,
+      "text": "Jeg løber derfor ikke som hen i det uvisse; jeg bokser som en der ikke slår ud i luften;",
       "version": 1643670000000
     },
     {
-      "text": "men jeg er hård ved mit legeme og holder det i trældom for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.",
       "number": 27,
+      "text": "men jeg er hård ved mit legeme og holder det i trældom for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.",
+      "footnotes": [
+        {
+          "text": "T: »slår i ansigtet«, ordret: »slår under øjet«.",
+          "position": 19
+        }
+      ],
       "version": 1643670000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Som eksempel på, hvordan man bør indskrænke sin personlige frihed, minder Paulus om, at han for så meget bedre at kunne fremme evangeliets sag har givet afkald på sin selvfølgelige ret til at få løn af menighederne, 1-18, ligesom han har indrettet sig efter alle for deres frelses skyld, 19-23. Som væddeløbere bør læserne ligesom han selv anstrenge sig og øve sig i afholdenhed for at vinde sejrskransen, 24-27.",
-      "verse": 1,
-      "version": 1643670000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "dvs. en kristen kvinde.",
-      "type": "T",
-      "verse": 5,
-      "position": 37
-    },
-    {
-      "text": "dvs. det, der hører denne verden til",
-      "type": "T",
-      "verse": 11,
-      "position": 94
-    },
-    {
-      "text": "dvs. så er jeg ligesom en træl.",
-      "type": "T",
-      "verse": 17,
-      "position": 108
-    },
-    {
-      "text": "»slår i ansigtet«, ordret: »slår under øjet«.",
-      "type": "T",
-      "verse": 27,
-      "position": 19
     }
   ]
 }

@@ -5,171 +5,135 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fSalme af David.\fJHVHv, jeg råber til dig, skynd dig til mig,\flyt til min røst når jeg kalder på dig.",
       "number": 1,
+      "text": "Salme af David.\fJHVHv, jeg råber til dig, skynd dig til mig,\flyt til min røst når jeg kalder på dig.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "T: Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.",
+          "position": 32
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fLad min bøn gælde som et røgelsesoffer for dit ansigt,\fmine løftede hænder som et aftenafgrødeoffer.",
       "number": 2,
+      "text": "\fLad min bøn gælde som et røgelsesoffer for dit ansigt,\fmine løftede hænder som et aftenafgrødeoffer.",
+      "title": "Råb om bønhørelse",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »være tilberedt«.",
+          "position": 18
+        },
+        {
+          "text": "T: Ordret: »min hænders opløften«.",
+          "position": 75
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fJHVHv, sæt vagt ved min mund,\fvogt mine læbers dør.",
       "number": 3,
+      "text": "\fJHVHv, sæt vagt ved min mund,\fvogt mine læbers dør.",
+      "title": "Bøn om styrke mod fristelsen",
       "version": 1493330400000
     },
     {
-      "text": "\fBøj ikke mit hjerte til en ond sag,\ftil at udføre gerninger i ugudelighed\fmed mænd som handler ondt,\fog lad mig ikke få smag for deres lækkerbiskener!",
       "number": 4,
+      "text": "\fBøj ikke mit hjerte til en ond sag,\ftil at udføre gerninger i ugudelighed\fmed mænd som handler ondt,\fog lad mig ikke få smag for deres lækkerbiskener!",
       "version": 1493330400000
     },
     {
-      "text": "\fLad en retfærdig slå mig i nåde og revse mig,\fsådan olie til hovedet skal mit hoved ikke afvise,\ffor min bøn er stadig rettet mod deres ondskab.",
       "number": 5,
+      "text": "\fLad en retfærdig slå mig i nåde og revse mig,\fsådan olie til hovedet skal mit hoved ikke afvise,\ffor min bøn er stadig rettet mod deres ondskab.",
+      "title": "Bøn om at blive befriet fra det ondes magt",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 32
+        },
+        {
+          "text": "E: Sætningen og oversættelsen er omdiskuteret. I denne oversættelse er ordet »sådan« underforstået. Meningen er da at revselsen er som gæstevenskabets olie. Septuaginta, som følges af mange, har ikke læst: *rōˀš* (»hovedet«), men: *rāšāʕ*: »gudløs, uretfærdig«. Samtidig er det nødvendigt at rette verbet: *yānî* (»afvise«) til: *yᵊnāʔ*: »skal smykke«. Oversættelsen bliver: »en gudløs’/uretfærdigs olie skal ikke smykke mit hoved«. En tredje mulighed er at *rōˀš* (»hovedet«) her skal forstås som: »toppen, det bedste«, og verbet: *yānî* (»afvise«) også her rettes til: *yᵊnāʔ*: »skal smykke«. Det giver oversættelsen: »Må den fineste olie ikke smykke mit hoved«.",
+          "position": 97
+        },
+        {
+          "text": "E: Ordret: »for stadig og min bøn mod/under(i deres ondskab)«. Tilknytningspartiklen: *wᵊ* (»og«) bruges undertiden til at knytte to udtryk nært sammen, her er det: »stadig« og: »min bøn«. Der kan evt. også oversættes: »for min bøn varer ved trods deres ondskab«.",
+          "position": 145
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fDeres herskere skal styrtes i hænderne på klippen,\fog de skal høre at mine ord var liflige.",
       "number": 6,
+      "text": "\fDeres herskere skal styrtes i hænderne på klippen,\fog de skal høre at mine ord var liflige.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »dommere«. Israels dommere var egentlig folkets ledere.",
+          "position": 15
+        },
+        {
+          "text": "E: Verset er omdiskuteret. Verberne står i qatal, der oftest skal oversættes ved fortid, men her er de formodentlig udtryk for en vished om fremtiden. En anden mulig oversættelse er: »Hvis de blev styrtet i hænderne på klippen, deres herskere, / ville de høre at mine ord var liflige«. En del oversættere vil slette ordet: *selaʕ* (»klippe«). Det letter teksten, men er uden støtte i håndskrifter eller gamle oversættelser. En tredje mulighed er at opfatte »klippe« som synonym for Gud og *šōfᵊṭêhem* (»deres herskere/dommere«) som pluralis majestatis. Det vil give oversættelsen: »Når de er faldet i hænderne på Klippen, deres dommer, skal de erfare at mine ord var liflige«.",
+          "position": 92
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fSom når en pløjer og bryder jorden op,\fer vore knogler spredte ved Dødsrigets gab.",
       "number": 7,
+      "text": "\fSom når en pløjer og bryder jorden op,\fer vore knogler spredte ved Dødsrigets gab.",
+      "footnotes": [
+        {
+          "text": "E: Den gamle syriske oversættelse og nogle håndskrifter til Septuaginta har: »deres knogler«, på hebraisk: *ʕaṣmêhem* i stedet for: *ʕᵃṣāmênû*. Det giver god mening, men fejlskrivningen er vanskelig at forklare. Den masoretiske tekst må betyde at Davids og alle de frommes kræfter er fuldstændig udtømte. Menneskelig set er de besejret.",
+          "position": 55
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fJa, til dig, JHVHv, Herre, er mine øjne rettet,\fhos dig har jeg søgt tilflugt, giv mig ikke hen i døden!",
       "number": 8,
+      "text": "\fJa, til dig, JHVHv, Herre, er mine øjne rettet,\fhos dig har jeg søgt tilflugt, giv mig ikke hen i døden!",
+      "title": "Sammenfattende bøn",
+      "footnotes": [
+        {
+          "text": "E: Masoreterne har her ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
+          "position": 20
+        },
+        {
+          "text": "T: Ordret: »udgyd ikke min sjæl«.",
+          "position": 105
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fBevar mig fra kraften i den fælde som de har lagt ud for mig,\fog fra deres snare som handler syndigt.",
       "number": 9,
+      "text": "\fBevar mig fra kraften i den fælde som de har lagt ud for mig,\fog fra deres snare som handler syndigt.",
       "version": 1493330400000
     },
     {
-      "text": "\fLad de ugudelige falde i egen fælde,\fmens jeg selv samtidig slipper fri.",
       "number": 10,
+      "text": "\fLad de ugudelige falde i egen fælde,\fmens jeg selv samtidig slipper fri.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »uretfærdige«.",
+          "position": 17
+        },
+        {
+          "text": "T: Ordret: »hans/sine fælder«. Meningen er sandsynligvis: »hver i sin egen fælde«.",
+          "position": 37
+        }
+      ],
       "version": 1493330400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1493330400000
-    },
-    {
-      "text": "Råb om bønhørelse",
-      "verse": 2,
-      "version": 1493330400000
-    },
-    {
-      "text": "Bøn om styrke mod fristelsen",
-      "verse": 3,
-      "version": 1493330400000
-    },
-    {
-      "text": "Bøn om at blive befriet fra det ondes magt",
-      "verse": 5,
-      "version": 1493330400000
-    },
-    {
-      "text": "Sammenfattende bøn",
-      "verse": 8,
-      "version": 1493330400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.",
-      "type": "T",
-      "verse": 1,
-      "position": 33
-    },
-    {
-      "text": "Ordret: »være tilberedt«.",
-      "type": "T",
-      "verse": 2,
-      "position": 18
-    },
-    {
-      "text": "Ordret: »min hænders opløften«.",
-      "type": "T",
-      "verse": 2,
-      "position": 75
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 5,
-      "position": 32
-    },
-    {
-      "text": "Sætningen og oversættelsen er omdiskuteret. I denne oversættelse er ordet »sådan« underforstået. Meningen er da at revselsen er som gæstevenskabets olie.Septuaginta, som følges af mange, har ikke læst: *rōˀš* (»hovedet«), men: *rāšāʕ*: »gudløs, uretfærdig«. Samtidig er det nødvendigt at rette verbet: *yānî* (»afvise«) til: *yᵊnāʔ*: »skal smykke«. Oversættelsen bliver: »en gudløs’/uretfærdigs olie skal ikke smykke mit hoved«.En tredje mulighed er at *rōˀš* (»hovedet«) her skal forstås som: »toppen, det bedste«, og verbet: *yānî* (»afvise«) også her rettes til: *yᵊnāʔ*: »skal smykke«. Det giver oversættelsen: »Må den fineste olie ikke smykke mit hoved«.",
-      "type": "E",
-      "verse": 5,
-      "position": 97
-    },
-    {
-      "text": "Ordret: »for stadig og min bøn mod/under(i deres ondskab)«. Tilknytningspartiklen: *wᵊ* (»og«) bruges undertiden til at knytte to udtryk nært sammen, her er det: »stadig« og: »min bøn«. Der kan evt. også oversættes: »for min bøn varer ved trods deres ondskab«.",
-      "type": "E",
-      "verse": 5,
-      "position": 145
-    },
-    {
-      "text": "Ordret: »dommere«. Israels dommere var egentlig folkets ledere.",
-      "type": "T",
-      "verse": 6,
-      "position": 15
-    },
-    {
-      "text": "Verset er omdiskuteret. Verberne står i qatal, der oftest skal oversættes ved fortid, men her er de formodentlig udtryk for en vished om fremtiden.En anden mulig oversættelse er: »Hvis de blev styrtet i hænderne på klippen, deres herskere, / ville de høre at mine ord var liflige«. En del oversættere vil slette ordet: *selaʕ* (»klippe«). Det letter teksten, men er uden støtte i håndskrifter eller gamle oversættelser.En tredje mulighed er at opfatte »klippe« som synonym for Gud og *šōfᵊṭêhem* (»deres herskere/dommere«) som pluralis majestatis. Det vil give oversættelsen: »Når de er faldet i hænderne på Klippen, deres dommer, skal de erfare at mine ord var liflige«.",
-      "type": "E",
-      "verse": 6,
-      "position": 92
-    },
-    {
-      "text": "Den gamle syriske oversættelse og nogle håndskrifter til Septuaginta har: »deres knogler«, på hebraisk: *ʕaṣmêhem* i stedet for: *ʕᵃṣāmênû*. Det giver god mening, men fejlskrivningen er vanskelig at forklare. Den masoretiske tekst må betyde at Davids og alle de frommes kræfter er fuldstændig udtømte. Menneskelig set er de besejret.",
-      "type": "E",
-      "verse": 7,
-      "position": 55
-    },
-    {
-      "text": "Masoreterne har her ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
-      "type": "E",
-      "verse": 8,
-      "position": 20
-    },
-    {
-      "text": "Ordret: »udgyd ikke min sjæl«.",
-      "type": "T",
-      "verse": 8,
-      "position": 105
-    },
-    {
-      "text": "Kan også oversættes: »uretfærdige«.",
-      "type": "T",
-      "verse": 10,
-      "position": 17
-    },
-    {
-      "text": "Ordret: »hans/sine fælder«. Meningen er sandsynligvis: »hver i sin egen fælde«.",
-      "type": "T",
-      "verse": 10,
-      "position": 37
     }
   ]
 }

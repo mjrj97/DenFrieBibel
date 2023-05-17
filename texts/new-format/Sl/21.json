@@ -5,166 +5,144 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\fSalme af David.",
       "number": 1,
+      "text": "Til korlederen.\fSalme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHv! Over din styrke glæder kongen sig,\fog over din frelse - hvor jubler han højt!",
       "number": 2,
+      "text": "\fJHVHv! Over din styrke glæder kongen sig,\fog over din frelse - hvor jubler han højt!",
+      "title": "Tak for JHVHs godhed mod kongen",
       "version": 1457218800000
     },
     {
-      "text": "\fDu har givet ham, hvad hans hjerte ønskede,\fog ikke nægtet ham det hans læber bad om. Sela",
       "number": 3,
+      "text": "\fDu har givet ham, hvad hans hjerte ønskede,\fog ikke nægtet ham det hans læber bad om. Sela",
+      "footnotes": [
+        {
+          "text": "N: Sela",
+          "position": 91
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fFor du kommer ham i møde med velsignelser, fulde af godhed,\fdu sætter en krone af fint guld på hans hoved.",
       "number": 4,
+      "text": "\fFor du kommer ham i møde med velsignelser, fulde af godhed,\fdu sætter en krone af fint guld på hans hoved.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »godheds velsignelser«.",
+          "position": 60
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fHan bad dig om liv, og du gav ham det,\fen række af dage for evigt og altid.",
       "number": 5,
+      "text": "\fHan bad dig om liv, og du gav ham det,\fen række af dage for evigt og altid.",
       "version": 1457218800000
     },
     {
-      "text": "\fStor er hans ære ved din frelse,\fdu lægger højhed og herlighed på ham.",
       "number": 6,
+      "text": "\fStor er hans ære ved din frelse,\fdu lægger højhed og herlighed på ham.",
       "version": 1457218800000
     },
     {
-      "text": "\fFor du gør ham til velsignelser for altid,\fdu fylder ham med glæde for dit ansigt.",
       "number": 7,
+      "text": "\fFor du gør ham til velsignelser for altid,\fdu fylder ham med glæde for dit ansigt.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »du glæder ham med glæde«.",
+          "position": 67
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fFor kongen stoler på JHVH,\fog ved den Højestes nåde skal han ikke rokkes.",
       "number": 8,
+      "text": "\fFor kongen stoler på JHVH,\fog ved den Højestes nåde skal han ikke rokkes.",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 52
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fDin hånd skal finde alle dine fjender,\fdin højre hånd skal finde dem der hader dig.",
       "number": 9,
+      "text": "\fDin hånd skal finde alle dine fjender,\fdin højre hånd skal finde dem der hader dig.",
+      "title": "Med Guds hjælp skal kongen også fremover besejre sine og folkets fjender",
       "version": 1457218800000
     },
     {
-      "text": "\fDu skal gøre dem som en brændende ovn når du viser dit ansigt,\fJHVH skal opsluge dem i sin vrede,\fog ild skal fortære dem.",
       "number": 10,
+      "text": "\fDu skal gøre dem som en brændende ovn når du viser dit ansigt,\fJHVH skal opsluge dem i sin vrede,\fog ild skal fortære dem.",
+      "footnotes": [
+        {
+          "text": "E: Der er flere tekstmæssige vanskeligheder i verset. Ifølge den adskillende accent går første halvvers hertil. Det er usædvanlig langt. Og derved er det et problem at afgøre hvor »JHVH« hører til. Hvis det hører til »viser dit ansigt«, er verset dog talt til JHVH i modsætning til de omkringstående vers. Derfor den valgte oversættelse.",
+          "position": 98
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fDu skal udslette deres afkom af jorden\fog deres sæd blandt menneskers børn.",
       "number": 11,
+      "text": "\fDu skal udslette deres afkom  af jorden\fog deres sæd blandt menneskers børn.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »frugt«",
+          "position": 30
+        },
+        {
+          "text": "T: Ordret: »Adams børn«.",
+          "position": 77
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fSkønt de har planlagt ondt imod dig,\fspundet rænker – så vil de intet formå.",
       "number": 12,
+      "text": "\fSkønt de har planlagt ondt imod dig,\fspundet rænker – så vil de intet formå.",
       "version": 1457218800000
     },
     {
-      "text": "\fFor du skal slå dem på flugt,\fdu sigter med dine buestrenge mod deres ansigt.",
       "number": 13,
+      "text": "\fFor du skal slå dem på flugt,\fdu sigter med dine buestrenge mod deres ansigt.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Du gør dem til ryg«.",
+          "position": 30
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fRejs dig, JHVHv, i din styrke!\fVi vil prise din vælde med sang og spil.",
       "number": 14,
+      "text": "\fRejs dig, JHVHv, i din styrke!\fVi vil prise din vælde med sang og spil.",
+      "title": "Afsluttende bøn og lovprisning",
       "version": 1457218800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1457218800000
-    },
-    {
-      "text": "Tak for JHVHs godhed mod kongen",
-      "verse": 2,
-      "version": 1457218800000
-    },
-    {
-      "text": "Med Guds hjælp skal kongen også fremover besejre sine og folkets fjender",
-      "verse": 9,
-      "version": 1457218800000
-    },
-    {
-      "text": "Afsluttende bøn og lovprisning",
-      "verse": 14,
-      "version": 1457218800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 3,
-      "position": 91
-    },
-    {
-      "text": "Ordret: »godheds velsignelser«.",
-      "type": "T",
-      "verse": 4,
-      "position": 60
-    },
-    {
-      "text": "Ordret: »du glæder ham med glæde«.",
-      "type": "T",
-      "verse": 7,
-      "position": 67
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 8,
-      "position": 52
-    },
-    {
-      "text": "Der er flere tekstmæssige vanskeligheder i verset. Ifølge den adskillende accent går første halvvers hertil. Det er usædvanlig langt. Og derved er det et problem at afgøre hvor »JHVH« hører til. Hvis det hører til »viser dit ansigt«, er verset dog talt til JHVH i modsætning til de omkringstående vers. Derfor den valgte oversættelse.",
-      "type": "E",
-      "verse": 10,
-      "position": 98
-    },
-    {
-      "text": "Ordret: »frugt«",
-      "type": "T",
-      "verse": 11,
-      "position": 30
-    },
-    {
-      "text": "Ordret: »Adams børn«.",
-      "type": "T",
-      "verse": 11,
-      "position": 77
-    },
-    {
-      "text": "Ordret: »Du gør dem til ryg«.",
-      "type": "T",
-      "verse": 13,
-      "position": 30
     }
   ]
 }

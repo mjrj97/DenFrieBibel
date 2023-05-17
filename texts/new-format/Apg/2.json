@@ -5,94 +5,91 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fDa dagen for pinsefesten kom, var de alle samlet på samme sted.",
       "number": 1,
+      "text": "Da dagen for pinsefesten kom, var de alle samlet på samme sted.",
       "version": 1620770400000
     },
     {
-      "text": "Pludselig kom der fra himlen en lyd som af en stærk vind og fyldte hele huset hvor de sad.",
       "number": 2,
+      "text": "Pludselig kom der fra himlen en lyd som af en stærk vind og fyldte hele huset hvor de sad.",
       "version": 1620770400000
     },
     {
-      "text": "Tunger som af ild viste sig for dem og fordelte sig og satte sig på hver enkelt af dem.",
       "number": 3,
+      "text": "Tunger som af ild viste sig for dem og fordelte sig og satte sig på hver enkelt af dem.",
       "version": 1620770400000
     },
     {
-      "text": "De blev alle fyldte med Helligånden, og de begyndte at tale på andre tungemål, alt efter hvad Ånden gav dem at sige.",
       "number": 4,
+      "text": "De blev alle fyldte med Helligånden, og de begyndte at tale på andre tungemål, alt efter hvad Ånden gav dem at sige.",
+      "footnotes": [
+        {
+          "text": "T: Det græske ord bruges især om begejstret, henreven tale.",
+          "position": 78
+        }
+      ],
       "version": 1620770400000
     },
     {
-      "text": "\fNu boede der i Jerusalem gudfrygtige jødiske mænd af alle folkeslag under himlen.",
       "number": 5,
+      "text": "\fNu boede der i Jerusalem gudfrygtige jødiske mænd af alle folkeslag under himlen.",
       "version": 1620770400000
     },
     {
-      "text": "Da denne lyd kom, strømmede mængden sammen og blev forvirret; for hver enkelt af dem hørte dem tale på sit eget sprog.",
       "number": 6,
+      "text": "Da denne lyd kom, strømmede mængden sammen og blev forvirret; for hver enkelt af dem hørte dem tale på sit eget sprog.",
       "version": 1620770400000
     },
     {
-      "text": "De blev forbavsede og forundrede og sagde: »Hør, er alle de som taler, ikke galilæere?",
       "number": 7,
+      "text": "De blev forbavsede og forundrede og sagde: »Hør, er alle de som taler, ikke galilæere?",
       "version": 1620770400000
     },
     {
-      "text": "Hvordan kan vi da høre dem tale, hver på vort eget modersmål,",
       "number": 8,
+      "text": "Hvordan kan vi da høre dem tale, hver på vort eget modersmål,",
       "version": 1620770400000
     },
     {
-      "text": "vi partere og medere og elamitter, og vi som bor i Mesopotamien, Judæa og Kappadokien, Pontus og Asien,",
       "number": 9,
+      "text": "vi partere og medere og elamitter, og vi som bor i Mesopotamien, Judæa og Kappadokien, Pontus og Asien,",
+      "footnotes": [
+        {
+          "text": "T: Dvs: den vestlige del af Lilleasien.",
+          "position": 103
+        }
+      ],
       "version": 1620770400000
     },
     {
-      "text": "i Frygien og Pamfylien, Egypten og Libyens egne ved Kyrene, og vi tilrejste romere,",
       "number": 10,
+      "text": "i Frygien og Pamfylien, Egypten og Libyens egne ved Kyrene, og vi tilrejste romere,",
       "version": 1620770400000
     },
     {
-      "text": "jøder og proselytter, kretere og arabere, vi hører dem tale om Guds store gerninger på vores egne tungemål?«",
       "number": 11,
+      "text": "jøder og proselytter, kretere og arabere, vi hører dem tale om Guds store gerninger på vores egne tungemål?«",
+      "footnotes": [
+        {
+          "text": "T: Betegnelsen for dem af den jødiske tros tilhængere som ikke er jøder af fødsel.",
+          "position": 21
+        }
+      ],
       "version": 1620770400000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Det græske ord bruges især om begejstret, henreven tale.",
-      "type": "T",
-      "verse": 4,
-      "position": 78
-    },
-    {
-      "text": "Dvs: den vestlige del af Lilleasien.",
-      "type": "T",
-      "verse": 9,
-      "position": 103
-    },
-    {
-      "text": "Betegnelsen for dem af den jødiske tros tilhængere som ikke er jøder af fødsel.",
-      "type": "T",
-      "verse": 11,
-      "position": 21
     }
   ]
 }

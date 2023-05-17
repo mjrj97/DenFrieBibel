@@ -5,40 +5,38 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fFor alt hvad der hidtil er skrevet, er skrevet for at vi skulle lære af det, for at vi kan fastholde håbet ved den udholdenhed og trøst som skrifterne giver.",
       "number": 4,
+      "text": "For alt hvad der hidtil er skrevet, er skrevet for at vi skulle lære af det, for at vi kan fastholde håbet ved den udholdenhed og trøst som skrifterne giver.",
       "version": 1637535600000
     },
     {
-      "text": "Må udholdenhedens og trøstens Gud give jer at være enige indbyrdes, som Kristus Jesus vil det,",
       "number": 5,
+      "text": "Må udholdenhedens og trøstens Gud give jer at være enige indbyrdes, som Kristus Jesus vil det,",
       "version": 1637535600000
     },
     {
-      "text": "for at I enigt med én mund kan prise Gud og vor Herres Jesu Kristi far.",
       "number": 6,
+      "text": "for at I enigt med én mund kan prise Gud og vor Herres Jesu Kristi far.",
       "version": 1637535600000
     },
     {
-      "text": "Tag derfor imod hinanden, ligesom også Kristus har taget imod os til Guds ære.",
       "number": 7,
+      "text": "Tag derfor imod hinanden, ligesom også Kristus har taget imod os til Guds ære.",
       "version": 1637535600000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

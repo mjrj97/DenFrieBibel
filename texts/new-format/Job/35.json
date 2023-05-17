@@ -5,131 +5,123 @@
   "translation": 50,
   "contributors": [
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Nicolai Winther-Nielsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fElihu forsatte så\n\tmed at svare:",
       "number": 1,
+      "text": "Elihu forsatte så\tmed at svare:",
+      "title": "Elihu anklager Job.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t»Har du mon tænkt på dette i forhold til retten:\n\t\t\t\tDu sagt:\n\t\t\t\t\t\t›Min retfærdighed er fra Gud,‹",
       "number": 2,
+      "text": "\t\t»Har du mon tænkt på dette i forhold til retten:\t\t\t\tDu sagt:\t\t\t\t\t\t›Min retfærdighed er fra Gud,‹",
+      "footnotes": [
+        {
+          "text": "E: Denne ordrette oversættelse kunne tolkes på mange andre måder: Jeg er mere retfærdig end Gud, jeg er retfærdig uden Gud eller jeg vil få ret i forhold til Gud.",
+          "position": 98
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\tskønt du siger:\n\t\t\t\t\t\t\t\t›Hvad gavner det mig?\n\t\t\t\t\t\t\t\t\tHvordan får jeg gavn af at undgå synd?‹",
       "number": 3,
+      "text": "\t\t\t\t\tskønt du siger:\t\t\t\t\t\t\t\t›Hvad gavner det mig?\t\t\t\t\t\t\t\t\tHvordan får jeg gavn af at undgå synd?‹",
+      "footnotes": [
+        {
+          "text": "E: Oversættelsen af kî »for, fordi, at, når, skønt« vil helt afhænge af fortolkningen af sammenhængen og læsningen af bogen.",
+          "position": 20
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\f\t\t\t\t\t\t\tJeg vil svare dig igen med ord\n\t\t\t\t\t\t\t\t\tog dine venner med dig:",
       "number": 4,
+      "text": "\t\t\t\t\t\t\tJeg vil svare dig igen med ord\t\t\t\t\t\t\t\t\tog dine venner med dig:",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tKig op mod himlen\n\t\t\t\t\t\t\t\t\t\t\tog se;\n\t\t\t\t\t\t\t\t\t\t\tbetragt skyerne,\n\t\t\t\t\t\t\t\t\t\tde ligger højt over dig.",
       "number": 5,
+      "text": "\t\t\t\t\t\t\t\tKig op mod himlen\t\t\t\t\t\t\t\t\t\t\tog se;\t\t\t\t\t\t\t\t\t\t\tbetragt skyerne,\t\t\t\t\t\t\t\t\t\tde ligger højt over dig.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tHvis du har syndet,\n\t\t\t\t\t\t\t\t\t\t\thvad kunne du udføre iforhold til ham?\n\t\t\t\t\t\t\t\t\t\tEr dine overtrædelser mange,\n\t\t\t\t\t\t\t\t\t\t\thvad kunne du gøre imod ham?",
       "number": 6,
+      "text": "\t\t\t\t\t\t\t\t\tHvis du har syndet,\t\t\t\t\t\t\t\t\t\t\thvad kunne du udføre iforhold til ham?\t\t\t\t\t\t\t\t\t\tEr dine overtrædelser mange,\t\t\t\t\t\t\t\t\t\t\thvad kunne du gøre imod ham?",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tMen hvis du har ret,\n\t\t\t\t\t\t\t\t\t\t\thvad kunne du så give ham\n\t\t\t\t\t\t\t\t\t\t\t\teller hvad ville han da tage imod fra din hånd?",
       "number": 7,
+      "text": "\t\t\t\t\t\t\t\t\tMen hvis du har ret,\t\t\t\t\t\t\t\t\t\t\thvad kunne du så give ham\t\t\t\t\t\t\t\t\t\t\t\teller hvad ville han da tage imod fra din hånd?",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tFor et menneske som dig, hvad ville din ugudelighed gælde,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\teller for en menneskesøn din retfærdighed?",
       "number": 8,
+      "text": "\t\t\t\t\t\t\t\t\t\tFor et menneske som dig, hvad ville din ugudelighed gælde,\t\t\t\t\t\t\t\t\t\t\t\t\t\teller for en menneskesøn din retfærdighed?",
       "version": 1668726000000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tOver de mange tilfælde af undertrykkelse råber de,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tde skriger om hjælp på grund af de mægtiges arm.",
       "number": 9,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tOver de mange tilfælde af undertrykkelse råber de,\t\t\t\t\t\t\t\t\t\t\t\t\t\tde skriger om hjælp på grund af de mægtiges arm.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tMen ingen siger:\n\t\t\t\t\t\t\t\t\t\t\t\t\t›Hvor er Gud som skabte mig,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\than som giver lovsange om natten,",
       "number": 10,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tMen ingen siger:\t\t\t\t\t\t\t\t\t\t\t\t\t›Hvor er Gud som skabte mig,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\than som giver lovsange om natten,",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tsom belærer os bedre end dyrene på jorden\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog gør os visere end himlens fugle?‹",
       "number": 11,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tsom belærer os bedre end dyrene på jorden\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog gør os visere end himlens fugle?‹",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tDa råber de,\n\t\t\t\t\t\t\t\t\t\t\t\t\tmen han svarer ikke på grund af de ondes hovmod.",
       "number": 12,
+      "text": "\t\t\t\t\t\t\t\t\t\t\tDa råber de,\t\t\t\t\t\t\t\t\t\t\t\t\tmen han svarer ikke på grund af de ondes hovmod.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tDog, falskhed lytter Gud ikke til,\n\t\t\t\t\t\t\t\t\t\t\t\t\tog den Almægtige kigger ikke efter den.",
       "number": 13,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tDog, falskhed lytter Gud ikke til,\t\t\t\t\t\t\t\t\t\t\t\t\tog den Almægtige kigger ikke efter den.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\tMon du da for alvor vil sige:\n\t\t\t\t\t\t\t\t›Du må ikke kigge.‹\n\t\t\t\t\t\t\tRetten er jo sat i hans nærvær,\n\t\t\t\t\t\t\t\tog du skal bare vente på ham!",
       "number": 14,
+      "text": "\t\t\t\t\t\tMon du da for alvor vil sige:\t\t\t\t\t\t\t\t›Du må ikke kigge.‹\t\t\t\t\t\t\tRetten er jo sat i hans nærvær,\t\t\t\t\t\t\t\tog du skal bare vente på ham!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »for hans ansigt«.",
+          "position": 100
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\f\t\t\tMen nu,\n\t\t\t\tfordi hans vrede ikke straffer,\n\t\t\t\t\t\tog han ikke går op i overmodet,",
       "number": 15,
+      "text": "\t\t\tMen nu,\t\t\t\tfordi hans vrede ikke straffer,\t\t\t\t\t\tog han ikke går op i overmodet,",
+      "footnotes": [
+        {
+          "text": "E: Hebraisk: *wᵊlōˀ-yādaʕ bappaš mᵊʔōd* »ikke kender (personligt)/vedkender sig tåbelighed særlig meget.«",
+          "position": 82
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\tså åbner Job sin mund med tom snak,\n\t\t\t\t\t\than kommer med mange ord uden forstand.«",
       "number": 16,
+      "text": "\t\t\t\t\tså åbner Job sin mund med tom snak,\t\t\t\t\t\than kommer med mange ord uden forstand.«",
       "version": 1668726000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Elihu anklager Job.",
-      "verse": 1,
-      "version": 1668726000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Denne ordrette oversættelse kunne tolkes på mange andre måder: Jeg er mere retfærdig end Gud, jeg er retfærdig uden Gud eller jeg vil få ret i forhold til Gud.",
-      "type": "E",
-      "verse": 2,
-      "position": 100
-    },
-    {
-      "text": "Oversættelsen af  kî »for, fordi, at, når, skønt« vil helt afhænge af fortolkningen af sammenhængen og læsningen af bogen.",
-      "type": "E",
-      "verse": 3,
-      "position": 20
-    },
-    {
-      "text": "Ordret: »for hans ansigt«.",
-      "type": "T",
-      "verse": 14,
-      "position": 102
-    },
-    {
-      "text": "Hebraisk: *wᵊlōˀ-yādaʕ bappaš mᵊʔōd* »ikke kender (personligt)/vedkender sig tåbelighed særlig meget.«",
-      "type": "E",
-      "verse": 15,
-      "position": 85
     }
   ]
 }

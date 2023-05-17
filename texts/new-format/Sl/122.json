@@ -5,135 +5,111 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang. Af David.\fJeg glædede mig over dem som sagde til mig:\f»Vi vil gå til JHVHs hus.«",
       "number": 1,
+      "text": "Valfartssang. Af David.\fJeg glædede mig over dem som sagde til mig:\f»Vi vil gå til JHVHs hus.«",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fVore fødder har stået\fi dine porte, Jerusalem!",
       "number": 2,
+      "text": "\fVore fødder har stået\fi dine porte, Jerusalem!",
+      "title": "I Jerusalems porte",
+      "footnotes": [
+        {
+          "text": "E: Oversættelsen af verberne er omdiskuteret. Det drejer sig om participiet: *ʕōmᵊdôt* (ordret: »stående«) og hjælpeverbet i qatal: *hāyû* (ordret: »var«). Participiet er formodentlig her udtryk for varighed. Det naturligste er at oversætte ved fortid, men mange nyere oversættere vælger at oversætte ved nutid: »Nu står vore fødder«.",
+          "position": 22
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fJerusalem, som er bygget\fsom en by der er stærkt sammenføjet,",
       "number": 3,
+      "text": "\fJerusalem, som er bygget\fsom en by der er stærkt sammenføjet,",
+      "title": "Lovprisning af Jerusalem",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »som en by der er sammenføjet for sig sammen«. Meningen er formodentlig at den er kompakt og uindtagelig. Septuaginta har i stedet for: *šeḥubbᵊrāʰ-llāh* (»der er sammenføjet for sig«) læst: *šeḥevrāh*: »(som en by) hvor dens menighed (samles)«. Denne læsemåde følges af nogle oversættere.",
+          "position": 62
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fhvortil stammerne drog op,\fJHVHs  stammer.\fDet er en vedtægt for Israel,\ftakkende at prise JHVHs navn.",
       "number": 4,
+      "text": "\fhvortil stammerne drog op,\fJHVHs stammer.\fDet er en vedtægt for Israel,\ftakkende at prise JHVHs navn.",
+      "footnotes": [
+        {
+          "text": "T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "position": 33
+        },
+        {
+          "text": "E: Ordet: *ʕēdût* må i en del sammenhænge oversættes: »vidnesbyrd«, men her angiver det formodentlig en højtidelig givet og modtaget forordning.",
+          "position": 60
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fDer stod dommersæder,\ftroner til Davids hus.",
       "number": 5,
+      "text": "\fDer stod dommersæder,\ftroner til Davids hus.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »sæder til dom/retssag«",
+          "position": 22
+        },
+        {
+          "text": "T: Ordret: »sæder«, det er samme ord som i foregående linje.",
+          "position": 29
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fBed om Jerusalems fred:\f»Må de som elsker dig, leve trygt.",
       "number": 6,
+      "text": "\fBed om Jerusalems fred:\f»Må de som elsker dig, leve trygt.",
+      "title": "Bøn for Jerusalem",
       "version": 1504476000000
     },
     {
-      "text": "\fMå der være fred på din ringmur,\ftryghed i dine paladser!«",
       "number": 7,
+      "text": "\fMå der være fred på din ringmur,\ftryghed i dine paladser!«",
+      "footnotes": [
+        {
+          "text": "T: Det hebraiske ord, der står her (*ʔarmôn*), bruges om store, sikre boliger, hvorfor det undertiden oversættes: »borge«.",
+          "position": 59
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fFor mine brødres og mine venners skyld\fvil jeg sige: »Fred være i dig!«",
       "number": 8,
+      "text": "\fFor mine brødres og mine venners skyld\fvil jeg sige: »Fred være i dig!«",
       "version": 1504476000000
     },
     {
-      "text": "\fFor JHVHs, vor Guds, hus' skyld\fvil jeg søge dit bedste.",
       "number": 9,
+      "text": "\fFor JHVHs, vor Guds, hus' skyld\fvil jeg søge dit bedste.",
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "I Jerusalems porte",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Lovprisning af Jerusalem",
-      "verse": 3,
-      "version": 1504476000000
-    },
-    {
-      "text": "Bøn for Jerusalem",
-      "verse": 6,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Oversættelsen af verberne er omdiskuteret. Det drejer sig om participiet: *ʕōmᵊdôt* (ordret: »stående«) og hjælpeverbet i qatal: *hāyû* (ordret: »var«). Participiet er formodentlig her udtryk for varighed. Det naturligste er at oversætte ved fortid, men mange nyere oversættere vælger at oversætte ved nutid: »Nu står vore fødder«.",
-      "type": "E",
-      "verse": 2,
-      "position": 22
-    },
-    {
-      "text": "Ordret: »som en by der er sammenføjet for sig sammen«. Meningen er formodentlig at den er kompakt og uindtagelig. Septuaginta har i stedet for: *šeḥubbᵊrāʰ-llāh* (»der er sammenføjet for sig«) læst: *šeḥevrāh*: »(som en by) hvor dens menighed (samles)«. Denne læsemåde følges af nogle oversættere.",
-      "type": "E",
-      "verse": 3,
-      "position": 62
-    },
-    {
-      "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
-      "type": "T",
-      "verse": 4,
-      "position": 33
-    },
-    {
-      "text": "Ordet: *ʕēdût* må i en del sammenhænge oversættes: »vidnesbyrd«, men her angiver det formodentlig en højtidelig givet og modtaget forordning.",
-      "type": "E",
-      "verse": 4,
-      "position": 61
-    },
-    {
-      "text": "Ordret: »sæder til dom/retssag«",
-      "type": "T",
-      "verse": 5,
-      "position": 22
-    },
-    {
-      "text": "Ordret: »sæder«, det er samme ord som i foregående linje.",
-      "type": "T",
-      "verse": 5,
-      "position": 29
-    },
-    {
-      "text": "Det hebraiske ord, der står her (*ʔarmôn*), bruges om store, sikre boliger, hvorfor det undertiden oversættes: »borge«.",
-      "type": "T",
-      "verse": 7,
-      "position": 59
     }
   ]
 }

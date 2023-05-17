@@ -5,131 +5,111 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fSyng for JHVH en ny sang,\fsyng for JHVH hele jorden!",
       "number": 1,
+      "text": "Syng for JHVH en ny sang,\fsyng for JHVH hele jorden!",
+      "title": "Opfordring til lovsang",
       "version": 1500242400000
     },
     {
-      "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
       "number": 2,
+      "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »velsign«.",
+          "position": 20
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFortæl om hans herlighed blandt folkene,\fblandt alle folkeslagene om hans undere.",
       "number": 3,
+      "text": "\fFortæl om hans herlighed blandt folkene,\fblandt alle folkeslagene om hans undere.",
       "version": 1500242400000
     },
     {
-      "text": "\fFor JHVH er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
       "number": 4,
+      "text": "\fFor JHVH er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
+      "title": "For Gud er stor",
       "version": 1500242400000
     },
     {
-      "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
       "number": 5,
+      "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
+      "footnotes": [
+        {
+          "text": "T: Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
+          "position": 47
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHøjhed og pragt er for hans ansigt,\fmagt og herlighed i hans helligdom.",
       "number": 6,
+      "text": "\fHøjhed og pragt er for hans ansigt,\fmagt og herlighed i hans helligdom.",
       "version": 1500242400000
     },
     {
-      "text": "\fGiv JHVH, I folkeslagenes slægter,\fgiv JHVH ære og magt!",
       "number": 7,
+      "text": "\fGiv JHVH, I folkeslagenes slægter,\fgiv JHVH ære og magt!",
+      "title": "Opfordring til tilbedelse",
       "version": 1500242400000
     },
     {
-      "text": "\fGiv JHVH hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
       "number": 8,
+      "text": "\fGiv JHVH hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
       "version": 1500242400000
     },
     {
-      "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
       "number": 9,
+      "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
+      "footnotes": [
+        {
+          "text": "E: Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "position": 41
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fSig blandt folkene: »JHVH er konge!«\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
       "number": 10,
+      "text": "\fSig blandt folkene: »JHVH er konge!«\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
       "version": 1500242400000
     },
     {
-      "text": "\fHimlen skal glæde sig, og jorden skal juble,\fhavet og dets fylde skal larme,",
       "number": 11,
+      "text": "\fHimlen skal glæde sig, og jorden skal juble,\fhavet og dets fylde skal larme,",
+      "title": "Opfordring til jubel",
       "version": 1500242400000
     },
     {
-      "text": "\fmark og alt hvad der er derpå, skal fryde sig,\fda skal alle skovens træer juble",
       "number": 12,
+      "text": "\fmark og alt hvad der er derpå, skal fryde sig, \fda skal alle skovens træer juble",
       "version": 1500242400000
     },
     {
-      "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
       "number": 13,
+      "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »trofasthed«.",
+          "position": 142
+        }
+      ],
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Opfordring til lovsang",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "For Gud er stor",
-      "verse": 4,
-      "version": 1500242400000
-    },
-    {
-      "text": "Opfordring til tilbedelse",
-      "verse": 7,
-      "version": 1500242400000
-    },
-    {
-      "text": "Opfordring til jubel",
-      "verse": 11,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »velsign«.",
-      "type": "T",
-      "verse": 2,
-      "position": 20
-    },
-    {
-      "text": "Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
-      "type": "T",
-      "verse": 5,
-      "position": 47
-    },
-    {
-      "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
-      "type": "E",
-      "verse": 9,
-      "position": 41
-    },
-    {
-      "text": "Kan også oversættes: »trofasthed«.",
-      "type": "T",
-      "verse": 13,
-      "position": 142
     }
   ]
 }

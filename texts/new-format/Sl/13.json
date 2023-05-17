@@ -5,89 +5,73 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\n\tSalme af David.",
       "number": 1,
+      "text": "Til korlederen.\tSalme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\fHvor længe,\n\t\t\t\t\tJHVHv,\n\t\t\t\tvil du evigt glemme mig?\f\n\t\t\tHvor længe vil du skjule dit ansigt for mig?",
       "number": 2,
+      "text": "\fHvor længe,\t\t\t\t\tJHVHv,\t\t\t\tvil du evigt glemme mig?\f\t\t\tHvor længe vil du skjule dit ansigt for mig?",
+      "title": "Hvor længe?",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tHvor længe skal jeg have bekymringer i min sjæl,\f\n\t\t\t\t\t\tdagligt have sorg i mit hjerte?\f\n\t\t\t\t\tHvor længe skal min fjende triumfere over mig?",
       "number": 3,
+      "text": "\f\t\t\t\tHvor længe skal jeg have bekymringer i min sjæl,\f\t\t\t\t\t\tdagligt have sorg i mit hjerte?\f\t\t\t\t\tHvor længe skal min fjende triumfere over mig?",
+      "footnotes": [
+        {
+          "text": "T: *ʕēṣôt* betyder normalt »planer«. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: »smerter«.",
+          "position": 41
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\tSe til mig,\n\t\t\tsvar mig,\n\t\t\t\tJHVHv min Gud!\f\n\t\tGiv mine øjne lys\n\t\t\t\t\tså jeg ikke sover ind i døden,",
       "number": 4,
+      "text": "\f\t\tSe til mig,\t\t\tsvar mig,\t\t\t\tJHVHv min Gud!\f\t\tGiv mine øjne lys\t\t\t\t\tså jeg ikke sover ind i døden,",
+      "title": "Klagende bøn",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tså ikke min fjende skal sige:\n\t\t\t\t\t\t»Jeg vandt over ham«,\f\n\t\t\t\t\tmin modstander juble over\n\t\t\t\t\t\tat jeg snubler.",
       "number": 5,
+      "text": "\t\t\t\tså ikke min fjende skal sige:\t\t\t\t\t\t»Jeg vandt over ham«,\f\t\t\t\t\tmin modstander juble over\t\t\t\t\t\tat jeg snubler.",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\tMen jeg stoler på din nåde,\f\n\t\t\t\tmit hjerte skal juble over din frelse.\f\n\tJeg vil synge for JHVH,\f\n\t\tfor han har gjort vel imod mig.",
       "number": 6,
+      "text": "\f\t\t\tMen jeg stoler på din nåde,\f\t\t\t\tmit hjerte skal juble over din frelse.\f\tJeg vil synge for JHVH,\f\t\tfor han har gjort vel imod mig.",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 30
+        }
+      ],
       "version": 1666562400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1666562400000
-    },
-    {
-      "text": "Hvor længe?",
-      "verse": 2,
-      "version": 1666562400000
-    },
-    {
-      "text": "Klagende bøn",
-      "verse": 4,
-      "version": 1666562400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "*ʕēṣôt* betyder normalt »planer«. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: »smerter«.",
-      "type": "T",
-      "verse": 3,
-      "position": 41
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 6,
-      "position": 30
     }
   ]
 }

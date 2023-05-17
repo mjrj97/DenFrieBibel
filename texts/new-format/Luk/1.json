@@ -5,104 +5,95 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fMen i den sjette måned blev englen Gabriel sendt fra Gud til en by i Galilæa, som hedder Nazaret,",
       "number": 26,
+      "text": "\fMen i den sjette måned blev englen Gabriel sendt fra Gud til en by i Galilæa, som hedder Nazaret,",
       "version": 1615330800000
     },
     {
-      "text": "til en jomfru som var trolovet med en mand ved navn Josef, af Davids hus; og jomfruens navn var Maria.",
       "number": 27,
+      "text": "til en jomfru som var trolovet med en mand ved navn Josef, af Davids hus; og jomfruens navn var Maria.",
+      "footnotes": [
+        {
+          "text": "T: En trolovelse var langt mere bindende end vore dages forlovelser.",
+          "position": 30
+        }
+      ],
       "version": 1615330800000
     },
     {
-      "text": "Englen kom ind til hende og sagde: »Vær hilset, du benådede, Herren er med dig!«",
       "number": 28,
+      "text": "Englen kom ind til hende og sagde: »Vær hilset, du benådede, Herren er med dig!«",
       "version": 1615330800000
     },
     {
-      "text": "Men hun blev forfærdet over de ord og spekulerede over hvad det var for en hilsen.",
       "number": 29,
+      "text": "Men hun blev forfærdet over de ord og spekulerede over hvad det var for en hilsen.",
       "version": 1615330800000
     },
     {
-      "text": "Englen sagde til hende: »Frygt ikke, Maria! For du har fundet nåde hos Gud.",
       "number": 30,
+      "text": "Englen sagde til hende: »Frygt ikke, Maria! For du har fundet nåde hos Gud.",
       "version": 1615330800000
     },
     {
-      "text": "Se, du skal undfange og føde en søn, og du skal kalde ham Jesus.",
       "number": 31,
+      "text": "Se, du skal undfange og føde en søn, og du skal kalde ham Jesus.",
       "version": 1615330800000
     },
     {
-      "text": "Han skal være stor og kaldes den Højestes søn; og Gud Herren skal give ham Davids, hans faders trone.",
       "number": 32,
+      "text": "Han skal være stor og kaldes den Højestes søn; og Gud Herren skal give ham Davids, hans faders trone.",
       "version": 1615330800000
     },
     {
-      "text": "Og han skal være konge over Jakobs hus for evigt, og der skal ikke være ende på hans kongedømme.«",
       "number": 33,
+      "text": "Og han skal være konge over Jakobs hus for evigt, og der skal ikke være ende på hans kongedømme.«",
       "version": 1615330800000
     },
     {
-      "text": "Men Maria sagde til englen: »Hvordan skal det gå til, da jeg ikke har været sammen med nogen mand?«",
       "number": 34,
+      "text": "Men Maria sagde til englen: »Hvordan skal det gå til, da jeg ikke har været sammen med nogen mand?«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »kender«.",
+          "position": 86
+        }
+      ],
       "version": 1615330800000
     },
     {
-      "text": "Englen svarede hende: »Helligånden skal komme over dig, og den Højestes kraft skal overskygge dig; derfor skal også det hellige som fødes, kaldes Guds Søn.",
       "number": 35,
+      "text": "Englen svarede hende: »Helligånden skal komme over dig, og den Højestes kraft skal overskygge dig; derfor skal også det hellige som fødes, kaldes Guds Søn.",
       "version": 1615330800000
     },
     {
-      "text": "Og se, Elisabeth din slægtning, hun har også undfanget en søn i sin alderdom, og hun som kaldes ufrugtbar, er nu i sjette måned.",
       "number": 36,
+      "text": "Og se, Elisabeth din slægtning, hun har også undfanget en søn i sin alderdom, og hun som kaldes ufrugtbar, er nu i sjette måned.",
       "version": 1615330800000
     },
     {
-      "text": "For intet er umuligt for Gud.«",
       "number": 37,
+      "text": "For intet er umuligt for Gud.«",
       "version": 1615330800000
     },
     {
-      "text": "Men Maria sagde: »Se, jeg er Herrens tjenerinde; det ske mig efter dit ord!« Så forlod englen hende.",
       "number": 38,
+      "text": "Men Maria sagde: »Se, jeg er Herrens tjenerinde; det ske mig efter dit ord!« Så forlod englen hende.",
       "version": 1615330800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Englen Gabriel bebuder Jesu fødsel",
-      "verse": 1,
-      "version": 1615330800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "En trolovelse var langt mere bindende end vore dages forlovelser.",
-      "type": "T",
-      "verse": 27,
-      "position": 30
-    },
-    {
-      "text": "Ordret: »kender«.",
-      "type": "T",
-      "verse": 34,
-      "position": 86
     }
   ]
 }

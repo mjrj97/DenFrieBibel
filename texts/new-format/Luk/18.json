@@ -5,57 +5,54 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fMen til nogle som stolede på sig selv at de var retfærdige, og foragtede de andre, fortalte han denne lignelse:",
       "number": 9,
+      "text": "Men til nogle som stolede på sig selv at de var retfærdige, og foragtede de andre, fortalte han denne lignelse:",
       "version": 1647817200000
     },
     {
-      "text": "»To mænd gik op til helligdommen for at bede; den ene var en farisæer, og den anden en tolder.",
       "number": 10,
+      "text": "»To mænd gik op til helligdommen for at bede; den ene var en farisæer, og den anden en tolder.",
       "version": 1647817200000
     },
     {
-      "text": "Farisæeren trådte frem og bad ved sig selv således: ›Gud! Jeg takker dig fordi jeg ikke er som de andre mennesker, røvere, uretfærdige, ægteskabsbrydere, eller som denne tolder.",
       "number": 11,
+      "text": "Farisæeren trådte frem og bad ved sig selv således: ›Gud! Jeg takker dig fordi jeg ikke er som de andre mennesker, røvere, uretfærdige, ægteskabsbrydere, eller som denne tolder.",
       "version": 1647817200000
     },
     {
-      "text": "Jeg faster to gange om ugen, jeg giver tiende af alt hvad jeg tjener.‹",
       "number": 12,
+      "text": "Jeg faster to gange om ugen, jeg giver tiende af alt hvad jeg tjener.‹",
       "version": 1647817200000
     },
     {
-      "text": "Men tolderen stod langt borte og ville end ikke løfte øjnene mod himlen, men slog sig for brystet og sagde: ›Gud, vær mig, synderen, nådig!‹",
       "number": 13,
+      "text": "Men tolderen stod langt borte og ville end ikke løfte øjnene mod himlen, men slog sig for brystet og sagde: ›Gud, vær mig, synderen, nådig!‹",
       "version": 1647817200000
     },
     {
-      "text": "Jeg siger jer: Han gik retfærdiggjort hjem til sit hus i modsætning til den anden; for enhver som ophøjer sig selv, skal ydmyges; men den som ydmyger sig selv, skal ophøjes.«",
       "number": 14,
+      "text": "Jeg siger jer: Han gik retfærdiggjort hjem til sit hus i modsætning til den anden; for enhver som ophøjer sig selv, skal ydmyges; men den som ydmyger sig selv, skal ophøjes.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »gik ned«. Helligdommen (og Jerusalem) lå på et bjerg, jf. vers 10.",
+          "position": 22
+        }
+      ],
       "version": 1647817200000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Ordret: »gik ned«. Helligdommen (og Jerusalem) lå på et bjerg, jf. vers 10.",
-      "type": "T",
-      "verse": 14,
-      "position": 22
     }
   ]
 }

@@ -5,128 +5,110 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\fMaskil af David.",
       "number": 1,
+      "text": "Til korlederen.\fMaskil af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "position": 22
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDengang edomiten Do’eg kom og fortalte Saul: David er kommet til Akimeleks hus.",
       "number": 2,
+      "text": "\fDengang edomiten Do’eg kom og fortalte Saul: David er kommet til Akimeleks hus.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fortalte Saul og sagde til ham:«.",
+          "position": 45
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHvorfor roser du dig af ondskab, du stærke?\fGuds nåde varer hele dagen.",
       "number": 3,
+      "text": "\fHvorfor roser du dig af ondskab, du stærke?\fGuds nåde varer hele dagen.",
+      "title": "Profetiske trusselsord",
+      "footnotes": [
+        {
+          "text": "T: Der kunne også oversættes: »du helt« der må opfattes ironisk spottende.",
+          "position": 44
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu planlægger ondskab, din tunge er\fsom en hvæsset ragekniv,\fdu som begår svig!",
       "number": 4,
+      "text": "\fDu planlægger ondskab, din tunge er\fsom en hvæsset ragekniv,\fdu som begår svig!",
       "version": 1500242400000
     },
     {
-      "text": "\fDu elskede ondt frem for godt,\fløgn frem for retfærdig tale. Sela",
       "number": 5,
+      "text": "\fDu elskede ondt frem for godt,\fløgn frem for retfærdig tale. Sela",
+      "footnotes": [
+        {
+          "text": "N: Sela",
+          "position": 66
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu elskede alle fordærvelige ord,\fdu svigefulde tunge!",
       "number": 6,
+      "text": "\fDu elskede alle fordærvelige ord,\fdu svigefulde tunge!",
       "version": 1500242400000
     },
     {
-      "text": "\fDog, Gud skal ødelægge dig for evigt,\fhan skal snuppe dig op og udrydde dig af teltet,\frykke dig op med rode fra de levendes land. Sela",
       "number": 7,
+      "text": "\fDog, Gud skal ødelægge dig for evigt,\fhan skal snuppe dig op og udrydde dig af teltet,\frykke dig op med rode fra de levendes land. Sela",
+      "footnotes": [
+        {
+          "text": "T: Strengt taget står »telt« uden artikel. Der kan enten være tænkt på Guds »telt« (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: »dit telt«.",
+          "position": 87
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fOg de retfærdige skal se det og frygte,\fog de skal le ad ham:",
       "number": 8,
+      "text": "\fOg de retfærdige skal se det og frygte,\fog de skal le ad ham:",
       "version": 1500242400000
     },
     {
-      "text": "\fSe den mand, der ikke gør Gud til sit værn,\fmen forlader sig på sin store rigdom,\fføler sig stærk ved sin ondskab!",
       "number": 9,
+      "text": "\fSe den mand, der ikke gør Gud til sit værn,\fmen forlader sig på sin store rigdom,\fføler sig stærk ved sin ondskab!",
       "version": 1500242400000
     },
     {
-      "text": "\fMen jeg er som et grønt oliventræ i Guds hus,\fjeg har forladt mig på Guds nåde\ffor evigt og altid.",
       "number": 10,
+      "text": "\fMen jeg er som et grønt oliventræ i Guds hus,\fjeg har forladt mig på Guds nåde\ffor evigt og altid.",
+      "title": "Afsluttende vidnesbyrd og tak",
       "version": 1500242400000
     },
     {
-      "text": "\fJeg vil takke dig for evigt\ffor at du gjorde det.\fOg jeg vil håbe på dit navn\f- for det er godt –\fi nærvær af dine fromme.",
       "number": 11,
+      "text": "\fJeg vil takke dig for evigt\ffor at du gjorde det.\fOg jeg vil håbe på dit navn\f- for det er godt –\fi nærvær af dine fromme.",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Profetiske trusselsord",
-      "verse": 3,
-      "version": 1500242400000
-    },
-    {
-      "text": "Afsluttende vidnesbyrd og tak",
-      "verse": 10,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
-      "type": "E",
-      "verse": 1,
-      "position": 23
-    },
-    {
-      "text": "Ordret: »fortalte Saul og sagde til ham:«.",
-      "type": "T",
-      "verse": 2,
-      "position": 45
-    },
-    {
-      "text": "Der kunne også oversættes: »du helt« der må opfattes ironisk spottende.",
-      "type": "T",
-      "verse": 3,
-      "position": 44
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 5,
-      "position": 66
-    },
-    {
-      "text": "Strengt taget står »telt« uden artikel. Der kan enten være tænkt på Guds »telt« (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: »dit telt«.",
-      "type": "T",
-      "verse": 7,
-      "position": 87
     }
   ]
 }

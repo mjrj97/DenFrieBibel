@@ -5,254 +5,251 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fMen det skete i de dage at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden.",
       "number": 1,
+      "text": "Men det skete i de dage at der udgik en befaling fra kejser Augustus om at holde folketælling i hele verden.",
       "version": 1641855600000
     },
     {
-      "text": "(Denne første folketælling skete mens Kvirinius var statholder i Syrien.)",
       "number": 2,
+      "text": "(Denne første folketælling skete mens Kvirinius var statholder i Syrien.)",
       "version": 1641855600000
     },
     {
-      "text": "Og alle drog hen for at lade sig indskrive, hver til sin by.",
       "number": 3,
+      "text": "Og alle drog hen for at lade sig indskrive, hver til sin by.",
       "version": 1641855600000
     },
     {
-      "text": "Også Josef drog op fra Galilæa, fra byen Nazaret, til Judæa til Davids by, som kaldes Betlehem, fordi han var af Davids hus og slægt,",
       "number": 4,
+      "text": "Også Josef drog op fra Galilæa, fra byen Nazaret, til Judæa til Davids by, som kaldes Betlehem, fordi han var af Davids hus og slægt,",
       "version": 1641855600000
     },
     {
-      "text": "for at lade sig indskrive sammen med Maria, sin forlovede, som var gravid.",
       "number": 5,
+      "text": "for at lade sig indskrive sammen med Maria, sin forlovede, som var gravid.",
       "version": 1641855600000
     },
     {
-      "text": "Men mens de var der, kom tiden da hun skulle føde.",
       "number": 6,
+      "text": "Men mens de var der, kom tiden da hun skulle føde.",
       "version": 1641855600000
     },
     {
-      "text": "Og hun fødte sin søn, den førstefødte, og svøbte ham og lagde ham i en krybbe, for der var ikke plads til dem i herberget.",
       "number": 7,
+      "text": "Og hun fødte sin søn, den førstefødte, og svøbte ham og lagde ham i en krybbe, for der var ikke plads til dem i herberget.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »gæsteværelset« eller »ovensalen«.",
+          "position": 122
+        }
+      ],
       "version": 1641855600000
     },
     {
-      "text": "I den samme egn var der hyrder som lå ude på marken og holdt nattevagt over deres hjord.",
       "number": 8,
+      "text": "I den samme egn var der hyrder som lå ude på marken og holdt nattevagt over deres hjord.",
       "version": 1641855600000
     },
     {
-      "text": "Og en Herrens engel stod for dem, og Herrens herlighed skinnede om dem, og de blev meget bange.",
       "number": 9,
+      "text": "Og en Herrens engel stod for dem, og Herrens herlighed skinnede om dem, og de blev meget bange.",
       "version": 1641855600000
     },
     {
-      "text": "Engelen sagde til dem: »Frygt ikke, for se, jeg forkynder jer en stor glæde som skal være for hele folket.",
       "number": 10,
+      "text": "Engelen sagde til dem: »Frygt ikke, for se, jeg forkynder jer en stor glæde som skal være for hele folket.",
       "version": 1641855600000
     },
     {
-      "text": "For i dag er der født jer en frelser, som er Kristus, Herren, i Davids by.",
       "number": 11,
+      "text": "For i dag er der født jer en frelser, som er Kristus, Herren, i Davids by.",
       "version": 1641855600000
     },
     {
-      "text": "Og dette skal I have som tegn: I skal finde et barn der er svøbt og ligger i en krybbe.«",
       "number": 12,
+      "text": "Og dette skal I have som tegn: I skal finde et barn der er svøbt og ligger i en krybbe.«",
       "version": 1641855600000
     },
     {
-      "text": "Og pludselig var der med engelen en himmelsk hærskare som priste Gud og sagde:",
       "number": 13,
+      "text": "Og pludselig var der med engelen en himmelsk hærskare som priste Gud og sagde:",
       "version": 1641855600000
     },
     {
-      "text": "»Ære være Gud i det højeste, og fred på jorden i mennesker med velbehag!«",
       "number": 14,
+      "text": "»Ære være Gud i det højeste, og fred på jorden i mennesker med velbehag!«",
       "version": 1641855600000
     },
     {
-      "text": "\fOg da otte dage var gået så han skulle omskæres, fik han navnet Jesus, som han var blevet kaldt af engelen før han blev undfanget i sin mors liv.",
       "number": 21,
+      "text": "\fOg da otte dage var gået så han skulle omskæres, fik han navnet Jesus, som han var blevet kaldt af engelen før han blev undfanget i sin mors liv.",
       "version": 1641855600000
     },
     {
-      "text": "\fOg se, der var en mand i Jerusalem ved navn Simeon, og denne mand var retfærdig og gudfrygtig og forventede Israels trøst, og Helligånden var over ham.",
       "number": 25,
+      "text": "\fOg se, der var en mand i Jerusalem ved navn Simeon, og denne mand var retfærdig og gudfrygtig og forventede Israels trøst, og Helligånden var over ham.",
       "version": 1641855600000
     },
     {
-      "text": "Det var blevet åbenbaret ham af Helligånden at han ikke skulle se døden, førend han havde set Herrens salvede.",
       "number": 26,
+      "text": "Det var blevet åbenbaret ham af Helligånden at han ikke skulle se døden, førend han havde set Herrens salvede.",
       "version": 1641855600000
     },
     {
-      "text": "Og han kom, drevet af Ånden, til Helligdommen, og da forældrene bragte barnet Jesus ind for at gøre med ham som det var skik efter loven,",
       "number": 27,
+      "text": "Og han kom, drevet af Ånden, til Helligdommen, og da forældrene bragte barnet Jesus ind for at gøre med ham som det var skik efter loven,",
       "version": 1641855600000
     },
     {
-      "text": "tog han det i sine arme og lovpriste Gud og sagde:",
       "number": 28,
+      "text": "tog han det i sine arme og lovpriste Gud og sagde:",
       "version": 1641855600000
     },
     {
-      "text": "»Nu lader du din tjener gå bort, Herre, i fred efter dit ord.",
       "number": 29,
+      "text": "»Nu lader du din tjener gå bort, Herre, i fred efter dit ord.",
       "version": 1641855600000
     },
     {
-      "text": "For mine øjne har set din frelse,",
       "number": 30,
+      "text": "For mine øjne har set din frelse,",
       "version": 1641855600000
     },
     {
-      "text": "som du har beredt for alle folkeslagene,",
       "number": 31,
+      "text": "som du har beredt for alle folkeslagene,",
       "version": 1641855600000
     },
     {
-      "text": "et lys til åbenbaring for hedninger og en herlighed for dit folk Israel.«",
       "number": 32,
+      "text": "et lys til åbenbaring for hedninger og en herlighed for dit folk Israel.«",
       "version": 1641855600000
     },
     {
-      "text": "Hans far og mor undrede sig over det der blev sagt om ham.",
       "number": 33,
+      "text": "Hans far og mor undrede sig over det der blev sagt om ham.",
       "version": 1641855600000
     },
     {
-      "text": "Og Simeon velsignede dem og sagde til Maria, hans mor: »Se, han er sat til fald og oprejsning for mange i Israel og til et tegn som modsiges,",
       "number": 34,
+      "text": "Og Simeon velsignede dem og sagde til Maria, hans mor: »Se, han er sat til fald og oprejsning for mange i Israel og til et tegn som modsiges,",
       "version": 1641855600000
     },
     {
-      "text": "- ja, også din egen sjæl skal et sværd gennembore! - for at mange hjerters tanker skal komme frem i lyset.«",
       "number": 35,
+      "text": "- ja, også din egen sjæl skal et sværd gennembore! - for at mange hjerters tanker skal komme frem i lyset.«",
       "version": 1641855600000
     },
     {
-      "text": "Og der var Anna, en profetinde, Fanuels datter, af Ashers stamme; hun var højt oppe i årene, havde levet syv år med sin mand efter sin jomfrutid",
       "number": 36,
+      "text": "Og der var Anna, en profetinde, Fanuels datter, af Ashers stamme; hun var højt oppe i årene, havde levet syv år med sin mand efter sin jomfrutid",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fremskreden i mange dage«.",
+          "position": 92
+        }
+      ],
       "version": 1641855600000
     },
     {
-      "text": "og var nu en enke på 84 år, og hun veg ikke fra Helligdommen hvor hun tjente med faste og bønner nat og dag.",
       "number": 37,
+      "text": "og var nu en enke på 84 år, og hun veg ikke fra Helligdommen hvor hun tjente med faste og bønner nat og dag.",
       "version": 1641855600000
     },
     {
-      "text": "I samme stund trådte hun frem og priste Gud og talte om ham til alle som forventede Jerusalems forløsning.",
       "number": 38,
+      "text": "I samme stund trådte hun frem og priste Gud og talte om ham til alle som forventede Jerusalems forløsning.",
       "version": 1641855600000
     },
     {
-      "text": "\fDa de havde fuldført det hele efter Herrens lov, vendte de tilbage til Galilæa til deres egen by Nazaret.",
       "number": 39,
+      "text": "\fDa de havde fuldført det hele efter Herrens lov, vendte de tilbage til Galilæa til deres egen by Nazaret.",
       "version": 1641855600000
     },
     {
-      "text": "Men det lille barn voksede og blev stærkt, fuld af visdom; og Guds nåde var over det.",
       "number": 40,
+      "text": "Men det lille barn voksede og blev stærkt, fuld af visdom; og Guds nåde var over det.",
       "version": 1641855600000
     },
     {
-      "text": "\fHvert år rejste hans forældre til Jerusalem til påskefesten.",
       "number": 41,
+      "text": "\fHvert år rejste hans forældre til Jerusalem til påskefesten.",
       "version": 1641855600000
     },
     {
-      "text": "Også da han var blevet tolv år gammel, drog de derop som det var sædvane ved festen,",
       "number": 42,
+      "text": "Også da han var blevet tolv år gammel, drog de derop som det var sædvane ved festen,",
       "version": 1641855600000
     },
     {
-      "text": "og da de havde tilendebragt dagene, blev drengen Jesus i Jerusalem da de drog hjem, og hans forældre opdagede det ikke.",
       "number": 43,
+      "text": "og da de havde tilendebragt dagene, blev drengen Jesus i Jerusalem da de drog hjem, og hans forældre opdagede det ikke.",
       "version": 1641855600000
     },
     {
-      "text": "Men da de troede at han var i rejsefølget, kom de en dags rejse frem, og de ledte efter ham blandt deres slægtninge og bekendte.",
       "number": 44,
+      "text": "Men da de troede at han var i rejsefølget, kom de en dags rejse frem, og de ledte efter ham blandt deres slægtninge og bekendte.",
       "version": 1641855600000
     },
     {
-      "text": "Da de ikke fandt ham, vendte de tilbage til Jerusalem og ledte efter ham.",
       "number": 45,
+      "text": "Da de ikke fandt ham, vendte de tilbage til Jerusalem og ledte efter ham.",
       "version": 1641855600000
     },
     {
-      "text": "Og efter tre dage fandt de ham i templet, hvor han sad midt mellem lærerne og både hørte på dem og udspurgte dem.",
       "number": 46,
+      "text": "Og efter tre dage fandt de ham i templet, hvor han sad midt mellem lærerne og både hørte på dem og udspurgte dem.",
       "version": 1641855600000
     },
     {
-      "text": "Men alle som hørte ham, undrede sig meget over hans forstand og svar.",
       "number": 47,
+      "text": "Men alle som hørte ham, undrede sig meget over hans forstand og svar.",
       "version": 1641855600000
     },
     {
-      "text": "Da de så ham, blev de forfærdede; og hans mor sagde til ham: »Barn! Hvorfor gjorde du sådan imod os? Se, din far og jeg har fortvivlet ledt efter dig.«",
       "number": 48,
+      "text": "Da de så ham, blev de forfærdede; og hans mor sagde til ham: »Barn! Hvorfor gjorde du sådan imod os? Se, din far og jeg har fortvivlet ledt efter dig.«",
       "version": 1641855600000
     },
     {
-      "text": "Han sagde til dem: »Hvorfor ledte I efter mig? Har I ikke vidst at jeg bør være hos min far?«",
       "number": 49,
+      "text": "Han sagde til dem: »Hvorfor ledte I efter mig? Har I ikke vidst at jeg bør være hos min far?«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »i det af min fars«. Der kan være underforstået et ord. I sammenhængen kan der være tænkt på »i min fars hus« (templet). Andre muligheder er »i min fars gerning« eller eventuelt blot: »i det der tilhører min far«.",
+          "position": 93
+        }
+      ],
       "version": 1641855600000
     },
     {
-      "text": "Og de forstod ikke det han sagde til dem.",
       "number": 50,
+      "text": "Og de forstod ikke det han sagde til dem.",
       "version": 1641855600000
     },
     {
-      "text": "Og han drog ned med dem og kom til Nazaret og var lydig mod dem. Hans mor gemte alle ordene i sit hjerte.",
       "number": 51,
+      "text": "Og han drog ned med dem og kom til Nazaret og var lydig mod dem. Hans mor gemte alle ordene i sit hjerte.",
       "version": 1641855600000
     },
     {
-      "text": "Jesus gik frem i visdom og vækst og yndest hos Gud og mennesker.",
       "number": 52,
+      "text": "Jesus gik frem i visdom og vækst og yndest hos Gud og mennesker.",
       "version": 1641855600000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »gæsteværelset« eller »ovensalen«.",
-      "type": "T",
-      "verse": 7,
-      "position": 122
-    },
-    {
-      "text": "Ordret: »fremskreden i mange dage«.",
-      "type": "T",
-      "verse": 36,
-      "position": 92
-    },
-    {
-      "text": "Ordret: »i det af min fars«. Der kan være underforstået et ord. I sammenhængen kan der være tænkt på »i min fars hus« (templet). Andre muligheder er »i min fars gerning« eller eventuelt blot: »i det der tilhører min far«.",
-      "type": "T",
-      "verse": 49,
-      "position": 93
     }
   ]
 }

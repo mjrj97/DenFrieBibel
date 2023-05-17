@@ -5,223 +5,199 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fDu hævnens Gud, JHVHv,\fdu hævnens Gud, træd frem i stråleglans!",
       "number": 1,
+      "text": "Du hævnens Gud, JHVHv,\fdu hævnens Gud, træd frem i stråleglans!",
+      "title": "Kollektiv klage",
+      "footnotes": [
+        {
+          "text": "T: Både her og i næste linje står grundtekstens ord for »hævn« i pluralis, der formodentlig skal understrege styrken i Guds hævn.",
+          "position": 10
+        },
+        {
+          "text": "E: Verbet: *hôfîaʕ* kan også opfattes som hif’il perfektum: »er trådt frem i stråleglans«. I så fald kan oversættelsen lyde: »Hævnens Gud, JHVH, hævnens Gud, er trådt frem i stråleglans!«",
+          "position": 63
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fRejs dig, du jordens dommer,\fgengæld hovmodige deres handling.",
       "number": 2,
+      "text": "\fRejs dig, du jordens dommer,\fgengæld hovmodige deres handling.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »bring handling tilbage over hovmodige«.",
+          "position": 63
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fHvor længe skal ugudelige, JHVHv,\fhvor længe skal ugudelige juble?",
       "number": 3,
+      "text": "\fHvor længe skal ugudelige, JHVHv,\fhvor længe skal ugudelige juble?",
       "version": 1646002800000
     },
     {
-      "text": "\fDe raser, de taler frækt,\falle der begår synd, praler.",
       "number": 4,
+      "text": "\fDe raser, de taler frækt,\falle der begår synd, praler.",
       "version": 1646002800000
     },
     {
-      "text": "\fDe knuser dit folk, JHVHv,\fog undertrykker din arv.",
       "number": 5,
+      "text": "\fDe knuser dit folk, JHVHv,\fog undertrykker din arv.",
       "version": 1646002800000
     },
     {
-      "text": "\fEnke og fremmed dræber de\fog myrder faderløse.",
       "number": 6,
+      "text": "\fEnke og fremmed dræber de\fog myrder faderløse.",
       "version": 1646002800000
     },
     {
-      "text": "\fOg de siger: »JHVH ser det ikke,\fog Jakobs Gud bemærker det ikke.«",
       "number": 7,
+      "text": "\fOg de siger: »JHVH ser det ikke,\fog Jakobs Gud bemærker det ikke.«",
+      "footnotes": [
+        {
+          "text": "T: Grundteksten har kortformen: *yāh* (»Jah«), der findes en del steder i poetiske tekster.",
+          "position": 19
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fVær fornuftige, I tåber blandt folket!\fOg I tåber, hvornår vil I blive kloge?",
       "number": 8,
+      "text": "\fVær fornuftige, I tåber blandt folket!\fOg I tåber, hvornår vil I blive kloge?",
+      "title": "Bebrejdelse mod de onde",
       "version": 1646002800000
     },
     {
-      "text": "\fHan som planter øre, mon han ikke skulle høre?\fEller han som danner øje, mon han ikke skulle se?",
       "number": 9,
+      "text": "\fHan som planter øre, mon han ikke skulle høre?\fEller han som danner øje, mon han ikke skulle se?",
       "version": 1646002800000
     },
     {
-      "text": "\fHan som opdrager folkeslag, mon han ikke kan straffe?\fHan som lærer et menneske kundskab!",
       "number": 10,
+      "text": "\fHan som opdrager folkeslag, mon han ikke kan straffe?\fHan som lærer et menneske kundskab!",
+      "footnotes": [
+        {
+          "text": "E: Det er omdiskuteret om denne sætning skal afsluttes med et spørgsmålstegn, eller om sætningen: »mon han ikke kan straffe?« skal regnes som underforstået som eftersætning her. Nogle fortolkere mener også at der må være faldet et *m* (»uden«) ud i versets sidste ord: *dāʕat* (»kundskab«, så der skal stå: *middāʕat*: »(skulle han, som lærer et menneske,) være uden kundskab?«.",
+          "position": 90
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fJHVH kender et menneskes tanker,\ffor de er vindpust.",
       "number": 11,
+      "text": "\fJHVH kender et menneskes tanker,\ffor de er vindpust.",
+      "footnotes": [
+        {
+          "text": "E: Det er mennesker, ikke tankerne, der betegnes som et vindpust, fuldstændig gennemskuelige for Gud.",
+          "position": 53
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fSalig er den mand som du, JHVH, opdrager,\fog den du underviser efter din lov",
       "number": 12,
+      "text": "\fSalig er den mand som du, JHVH,  opdrager,\fog den du underviser efter din lov",
+      "title": "Opmuntring til de fromme",
+      "footnotes": [
+        {
+          "text": "T: Grundteksten har kortformen: *yāh* (»Jah«), der findes en del steder i poetiske tekster.",
+          "position": 33
+        },
+        {
+          "text": "N: lov",
+          "position": 78
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\ffor at skaffe ham ro for onde dage,\findtil der bliver gravet en grav for den ugudelige.",
       "number": 13,
+      "text": "\ffor at skaffe ham ro for onde dage,\findtil der bliver gravet en grav for den ugudelige.",
       "version": 1646002800000
     },
     {
-      "text": "\fFor JHVH vil ikke forstøde sit folk\fog ikke forlade sin arv.",
       "number": 14,
+      "text": "\fFor JHVH vil ikke forstøde sit folk\fog ikke forlade sin arv.",
       "version": 1646002800000
     },
     {
-      "text": "\fFor retten skal vende tilbage til retfærdighed,\fog alle de oprigtige af hjertet skal følge den.",
       "number": 15,
+      "text": "\fFor retten skal vende tilbage til retfærdighed,\fog alle de oprigtige af hjertet skal følge den.",
       "version": 1646002800000
     },
     {
-      "text": "\fHvem står op for mig imod onde?\fHvem står mig bi imod dem som udøver synd?",
       "number": 16,
+      "text": "\fHvem står op for mig imod onde?\fHvem står mig bi imod dem som udøver synd?",
+      "title": "Salmistens egen klage, tillid og tak",
       "version": 1646002800000
     },
     {
-      "text": "\fHvis ikke JHVH havde været en hjælp for mig,\fhavde min sjæl næsten boet i stilhed.",
       "number": 17,
+      "text": "\fHvis ikke JHVH havde været en hjælp for mig,\fhavde min sjæl næsten boet i stilhed.",
+      "footnotes": [
+        {
+          "text": "T: Det er betegnelse for dødsriget.",
+          "position": 83
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fHvis jeg sagde: »Min fod vaklede,«\fstøttede din trofasthed mig, JHVHv.",
       "number": 18,
+      "text": "\fHvis jeg sagde: »Min fod vaklede,«\fstøttede din trofasthed mig, JHVHv.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »nåde«.",
+          "position": 59
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fDa jeg havde mange bekymringer i mit inderste,\fglædede din trøst min sjæl.",
       "number": 19,
+      "text": "\fDa jeg havde mange bekymringer i mit inderste,\fglædede din trøst min sjæl.",
       "version": 1646002800000
     },
     {
-      "text": "\fKan fordærvelsens trone slutte forbund med dig,\fden som skaber lidelse på grundlag af dekret?",
       "number": 20,
+      "text": "\fKan fordærvelsens trone slutte forbund med dig,\fden som skaber lidelse på grundlag af dekret?",
+      "footnotes": [
+        {
+          "text": "E: Sætningen kan også oversættes: »som skaber lidelse i strid med loven«. Sådan oversættes den af mange. Problemet er at præpositionen *ʕal* kun sjældent har betydning i retning af: »i strid med/imod«, men oftest skal oversættes: »over/på«.",
+          "position": 94
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "\fDe angriber en retfærdigs sjæl,\fog de dømmer uskyldigt blod skyldigt.",
       "number": 21,
+      "text": "\fDe angriber en retfærdigs sjæl,\fog de dømmer uskyldigt blod skyldigt.",
       "version": 1646002800000
     },
     {
-      "text": "\fMen JHVH blev en fæstning for mig,\fog min Gud blev min tilflugtsklippe.",
       "number": 22,
+      "text": "\fMen JHVH blev en fæstning for mig,\fog min Gud blev min tilflugtsklippe.",
       "version": 1646002800000
     },
     {
-      "text": "\fHan vil lade deres synd vende tilbage over dem selv\fog vil udslette dem i deres ondskab.\fJHVH, vor Gud, vil udslette dem.",
       "number": 23,
+      "text": "\fHan vil lade deres synd vende tilbage over dem selv\fog vil udslette dem i deres ondskab.\fJHVH, vor Gud, vil udslette dem.",
       "version": 1646002800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Kollektiv klage",
-      "verse": 1,
-      "version": 1646002800000
-    },
-    {
-      "text": "Bebrejdelse mod de onde",
-      "verse": 8,
-      "version": 1646002800000
-    },
-    {
-      "text": "Opmuntring til de fromme",
-      "verse": 12,
-      "version": 1646002800000
-    },
-    {
-      "text": "Salmistens egen klage, tillid og tak",
-      "verse": 16,
-      "version": 1646002800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Både her og i næste linje står grundtekstens ord for »hævn« i pluralis, der formodentlig skal understrege styrken i Guds hævn.",
-      "type": "T",
-      "verse": 1,
-      "position": 11
-    },
-    {
-      "text": "Verbet: *hôfîaʕ* kan også opfattes som hif’il perfektum: »er trådt frem i stråleglans«. I så fald kan oversættelsen lyde: »Hævnens Gud, JHVH, hævnens Gud, er trådt frem i stråleglans!«",
-      "type": "E",
-      "verse": 1,
-      "position": 64
-    },
-    {
-      "text": "Ordret: »bring handling tilbage over hovmodige«.",
-      "type": "T",
-      "verse": 2,
-      "position": 63
-    },
-    {
-      "text": "Grundteksten har kortformen: *yāh* (»Jah«), der findes en del steder i poetiske tekster.",
-      "type": "T",
-      "verse": 7,
-      "position": 19
-    },
-    {
-      "text": "Det er omdiskuteret om denne sætning skal afsluttes med et spørgsmålstegn, eller om sætningen: »mon han ikke kan straffe?« skal regnes som underforstået som eftersætning her. Nogle fortolkere mener også at der må være faldet et *m* (»uden«) ud i versets sidste ord: *dāʕat* (»kundskab«, så der skal stå: *middāʕat*: »(skulle han, som lærer et menneske,) være uden kundskab?«.",
-      "type": "E",
-      "verse": 10,
-      "position": 90
-    },
-    {
-      "text": "Det er mennesker, ikke tankerne, der betegnes som et vindpust, fuldstændig gennemskuelige for Gud.",
-      "type": "E",
-      "verse": 11,
-      "position": 53
-    },
-    {
-      "text": "Grundteksten har kortformen: *yāh* (»Jah«), der findes en del steder i poetiske tekster.",
-      "type": "T",
-      "verse": 12,
-      "position": 33
-    },
-    {
-      "text": "lov",
-      "type": "N",
-      "verse": 12,
-      "position": 78
-    },
-    {
-      "text": "Det er betegnelse for dødsriget.",
-      "type": "T",
-      "verse": 17,
-      "position": 83
-    },
-    {
-      "text": "Kan også oversættes: »nåde«.",
-      "type": "T",
-      "verse": 18,
-      "position": 59
-    },
-    {
-      "text": "Sætningen kan også oversættes: »som skaber lidelse i strid med loven«. Sådan oversættes den af mange. Problemet er at præpositionen *ʕal* kun sjældent har betydning i retning af: »i strid med/imod«, men oftest skal oversættes: »over/på«.",
-      "type": "E",
-      "verse": 20,
-      "position": 94
     }
   ]
 }

@@ -5,33 +5,30 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     }
   ],
   "verses": [
     {
-      "text": "\fSådan siger JHVH: Den vise skal ikke rose sig af sin visdom, og den stærke skal ikke rose sig af sin styrke, den rige skal ikke rose sig af sin rigdom;",
       "number": 22,
+      "text": "Sådan siger JHVH: Den vise skal ikke rose sig af sin visdom, og den stærke skal ikke rose sig af sin styrke, den rige skal ikke rose sig af sin rigdom;",
       "version": 1643670000000
     },
     {
-      "text": "men den som vil rose sig, skal rose sig af dette: at forstå og kende mig, at jeg er JHVH som udøver nåde, ret og retfærdighed på jorden; for det behager mig, siger JHVH.",
       "number": 23,
+      "text": "men den som vil rose sig, skal rose sig af dette: at forstå og kende mig, at jeg er JHVH som udøver nåde, ret og retfærdighed på jorden; for det behager mig, siger JHVH.",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 105
+        }
+      ],
       "version": 1643670000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 23,
-      "position": 105
     }
   ]
 }

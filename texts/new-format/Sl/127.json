@@ -5,86 +5,68 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang. Af Salomo.\fHvis JHVH ikke bygger huset,\fvil de som bygger på det, have arbejdet forgæves.\fHvis JHVH ikke våger over byen,\fvil vægteren have våget forgæves.",
       "number": 1,
+      "text": "Valfartssang. Af Salomo.\fHvis JHVH ikke bygger huset,\fvil de som bygger på det, have arbejdet forgæves.\fHvis JHVH ikke våger over byen,\fvil vægteren have våget forgæves.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        }
+      ],
       "version": 1492552800000
     },
     {
-      "text": "\fDet er forgæves for jer\fat stå tidligt op,\fat vente længe med at sidde,\fat spise sliddets brød –\fså meget giver han den han elsker, mens han sover.",
       "number": 2,
+      "text": "\fDet er forgæves for jer\fat stå tidligt op,\fat vente længe med at sidde,\fat spise sliddets brød –\fså meget giver han den han elsker, mens han sover.",
+      "title": "JHVHs velsignelse over hus og arbejde",
       "version": 1492552800000
     },
     {
-      "text": "\fSe, sønner er en gave fra JHVH,\fmoderlivets frugt er en løn.",
       "number": 3,
+      "text": "\fSe, sønner er en gave fra JHVH,\fmoderlivets frugt er en løn.",
+      "title": "JHVHs velsignelse over hjemmet",
+      "footnotes": [
+        {
+          "text": "T: Grundtekstens ord bruges især om arvelod, ejendom og jordbesiddelse.",
+          "position": 22
+        }
+      ],
       "version": 1492552800000
     },
     {
-      "text": "\fSom pile i en krigers hånd,\fsådan er ungdommens sønner.",
       "number": 4,
+      "text": "\fSom pile i en krigers hånd,\fsådan er ungdommens sønner.",
       "version": 1492552800000
     },
     {
-      "text": "\fLykkelig den mand som har fyldt sit kogger med dem;\fde skal ikke blive til skamme,\fnår de taler med fjender i porten.",
       "number": 5,
+      "text": "\fLykkelig den mand som har fyldt sit kogger med dem;\fde skal ikke blive til skamme,\fnår de taler med fjender i porten.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »salig«. Det er dog næppe relevant her.",
+          "position": 9
+        },
+        {
+          "text": "T: Porten i bymuren var en større bygning, der også fungerede som retssal og byrådssal.",
+          "position": 118
+        }
+      ],
       "version": 1492552800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1492552800000
-    },
-    {
-      "text": "JHVHs velsignelse over hus og arbejde",
-      "verse": 2,
-      "version": 1492552800000
-    },
-    {
-      "text": "JHVHs velsignelse over hjemmet",
-      "verse": 3,
-      "version": 1492552800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Grundtekstens ord bruges især om arvelod, ejendom og jordbesiddelse.",
-      "type": "T",
-      "verse": 3,
-      "position": 22
-    },
-    {
-      "text": "Kan også oversættes: »salig«. Det er dog næppe relevant her.",
-      "type": "T",
-      "verse": 5,
-      "position": 9
-    },
-    {
-      "text": "Porten i bymuren var en større bygning, der også fungerede som retssal og byrådssal.",
-      "type": "T",
-      "verse": 5,
-      "position": 118
     }
   ]
 }

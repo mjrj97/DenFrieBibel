@@ -5,79 +5,66 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Claus Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Claus Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fNår du kommer til det land som JHVH din Gud giver dig, skal du ikke tage ved lære og gøre disse folks afskyeligheder.",
       "number": 9,
+      "text": "Når du kommer til det land som JHVH din Gud giver dig, skal du ikke tage ved lære og gøre disse folks afskyeligheder.",
       "version": 1614294000000
     },
     {
-      "text": "Der må ikke findes nogen hos dig som lader sin søn eller datter gå gennem ilden eller som beskæftiger sig med spådomme, er sandsiger eller tager varsler eller øver trolddom,",
       "number": 10,
+      "text": "Der må ikke findes nogen hos dig som lader sin søn eller datter gå gennem ilden eller som beskæftiger sig med spådomme, er sandsiger eller tager varsler eller øver trolddom,",
       "version": 1614294000000
     },
     {
-      "text": "eller fremsiger besværgelser eller rådspørger dødes ånder og spiritistiske medier eller rådfører sig med døde.",
       "number": 11,
+      "text": "eller fremsiger besværgelser eller rådspørger dødes ånder og spiritistiske medier eller rådfører sig med døde.",
       "version": 1614294000000
     },
     {
-      "text": "For enhver som gør disse ting, er en afskyelighed for JHVH, og på grund af disse afskyeligheder fordriver JHVH din Gud dem fra dit ansigt.",
       "number": 12,
+      "text": "For enhver som gør disse ting, er en afskyelighed for JHVH, og på grund af disse afskyeligheder fordriver JHVH din Gud dem fra dit ansigt.",
       "version": 1614294000000
     },
     {
-      "text": "Du skal være fuldkommen for JHVH din Gud.",
       "number": 13,
+      "text": "Du skal være fuldkommen for JHVH din Gud.",
+      "footnotes": [
+        {
+          "text": "E: Det hebraiske *ʕim* skal i de fleste sammenhænge oversættes: »med/sammen med«, i nogle tilfælde dog: »ligesom«, i enkelte tilfælde: »som«.",
+          "position": 27
+        }
+      ],
       "version": 1614294000000
     },
     {
-      "text": "For disse folk som du skal fordrive, de hører på dem der driver trolddom og spådomme; men dig har JHVH din Gud ikke tilladt noget sådant.",
       "number": 14,
+      "text": "For disse folk som du skal fordrive, de hører på dem der driver trolddom og spådomme; men dig har JHVH din Gud ikke tilladt noget sådant.",
+      "footnotes": [
+        {
+          "text": "T: Traditionelt oversat: »hedninger«.",
+          "position": 14
+        }
+      ],
       "version": 1614294000000
     },
     {
-      "text": "\fJHVH din Gud vil oprejse dig en profet af din midte, af dine brødre, en som mig; ham skal I høre på.",
       "number": 15,
+      "text": "\fJHVH din Gud vil oprejse dig en profet af din midte, af dine brødre, en som mig; ham skal I høre på.",
+      "title": "Gud vil sende dem en stor profet",
       "version": 1614294000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Israelitterne må ikke følge hedningernes afgudsdyrkelse",
-      "verse": 1,
-      "version": 1614294000000
-    },
-    {
-      "text": "Gud vil sende dem en stor profet",
-      "verse": 15,
-      "version": 1614294000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Det hebraiske *ʕim* skal i de fleste sammenhænge oversættes: »med/sammen med«, i nogle tilfælde dog: »ligesom«, i enkelte tilfælde: »som«.",
-      "type": "E",
-      "verse": 13,
-      "position": 27
-    },
-    {
-      "text": "Traditionelt oversat: »hedninger«.",
-      "type": "T",
-      "verse": 14,
-      "position": 14
     }
   ]
 }

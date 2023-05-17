@@ -1,6 +1,9 @@
 import { readFileSync, existsSync } from 'fs';
 
-const handler = (req, res) => {
+import { arrayResult, objectResult } from '@/src/db/parser';
+import { connection } from '@/src/db/connection.js';
+
+const handler = async (req, res) => {
     let result = {
         content: undefined,
         errors: []
@@ -13,6 +16,9 @@ const handler = (req, res) => {
     
         let text = { errors: [] };
         let books = JSON.parse(readFileSync('./texts/new-format/books.json')).books;
+
+        const test = arrayResult(await connection.query('SELECT * FROM Book'));
+        console.log(test);
     
         if (book) {
             if (book.toLowerCase() === "all") {
@@ -25,6 +31,7 @@ const handler = (req, res) => {
                 if (found) {
                     if (chapter) {
                         if (chapter <= found.chapters.length && chapter > 0) {
+
                             let path = './texts/new-format/' + book + '/' + chapter + '.json';
                             if (existsSync(path)) {
                                 text = JSON.parse(readFileSync(path));

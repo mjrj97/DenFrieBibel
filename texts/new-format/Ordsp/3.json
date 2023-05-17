@@ -5,90 +5,85 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fHold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
       "number": 27,
+      "text": "Hold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fra dens herre/ejer«, altså: »fra dem som den tilkommer«.",
+          "position": 60
+        },
+        {
+          "text": "T: Ordret: »magt«.",
+          "position": 87
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "Sig ikke til din næste: »Gå bort og kom igen, og i morgen vil jeg give,« når du dog har det.",
       "number": 28,
+      "text": "Sig ikke til din næste: »Gå bort og kom igen, og i morgen vil jeg give,« når du dog har det.",
       "version": 1646002800000
     },
     {
-      "text": "Udtænk ikke ondt mod din næste når han bor trygt hos dig.",
       "number": 29,
+      "text": "Udtænk ikke ondt mod din næste når han bor trygt hos dig.",
       "version": 1646002800000
     },
     {
-      "text": "Anklag ikke et menneske uden grund når han ikke har gjort dig ondt.",
       "number": 30,
+      "text": "Anklag ikke et menneske uden grund når han ikke har gjort dig ondt.",
       "version": 1646002800000
     },
     {
-      "text": "\fMisund ikke en voldsmand, og vælg ikke nogen af alle hans veje!",
       "number": 31,
+      "text": "\fMisund ikke en voldsmand, og vælg ikke nogen af alle hans veje!",
       "version": 1646002800000
     },
     {
-      "text": "For den falske mand er en vederstyggelighed for HERREN, men han har fortrolig omgang med de oprigtige.",
       "number": 32,
+      "text": "For den falske mand er en vederstyggelighed for HERREN, men han har fortrolig omgang med de oprigtige.",
       "version": 1646002800000
     },
     {
-      "text": "HERRENS forbandelse er over den ugudeliges hus, men han velsigner de retfærdiges bolig.",
       "number": 33,
+      "text": "HERRENS forbandelse er over den ugudeliges hus, men han velsigner de retfærdiges bolig.",
       "version": 1646002800000
     },
     {
-      "text": "Mens han vil spotte spotterne, vil han vise de ydmyge gunst.",
       "number": 34,
+      "text": "Mens han vil spotte spotterne, vil han vise de ydmyge gunst.",
+      "footnotes": [
+        {
+          "text": "E: Den hebraiske konsonanttekst skal oversættes: »de undertrykte«, men vokaliseringen forudsætter: »de ydmyge«.",
+          "position": 53
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "De vise skal arve ære, men skam ophøjer tåber.",
       "number": 35,
+      "text": "De vise skal arve ære, men skam ophøjer tåber.",
+      "footnotes": [
+        {
+          "text": "E: Den hebraiske formulering er omdiskuteret. Ofte oversættes: »men tåberne ophøjer skam«, men grundtekstens verbum står i singularis, hvorved »skam« må være subjekt.",
+          "position": 46
+        }
+      ],
       "version": 1646002800000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Ordret: »fra dens herre/ejer«, altså: »fra dem som den tilkommer«.",
-      "type": "T",
-      "verse": 27,
-      "position": 61
-    },
-    {
-      "text": "Ordret: »magt«.",
-      "type": "T",
-      "verse": 27,
-      "position": 88
-    },
-    {
-      "text": "Den hebraiske konsonanttekst skal oversættes: »de undertrykte«, men vokaliseringen forudsætter: »de ydmyge«.",
-      "type": "E",
-      "verse": 34,
-      "position": 53
-    },
-    {
-      "text": "Den hebraiske formulering er omdiskuteret. Ofte oversættes: »men tåberne ophøjer skam«, men grundtekstens verbum står i singularis, hvorved »skam« må være subjekt.",
-      "type": "E",
-      "verse": 35,
-      "position": 46
     }
   ]
 }

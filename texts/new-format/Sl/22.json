@@ -5,298 +5,272 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Efter  »Morgenrødens hind«.\fSalme af David.",
       "number": 1,
+      "text": "Til korlederen. Efter »Morgenrødens hind«.\fSalme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Hebraisk: *ʕal-ʔayyelet haššaḥar*. Det kan være en anvisning på at denne salme skal synges på samme melodi eller måde som den (for os) ukendte salme: »Morgenrødens hind«. En anden mulighed er at det er angivelse af at den skal synges og bedes om morgenen, evt. lige før solopgang.",
+          "position": 42
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fMin Gud, min Gud! Hvorfor har du forladt mig?\fFjernt fra min frelse er mit skrigs ord.",
       "number": 2,
+      "text": "\fMin Gud, min Gud! Hvorfor har du forladt mig?\fFjernt fra min frelse er mit skrigs ord.",
+      "title": "Klage i gudsforladthedens nød",
+      "footnotes": [
+        {
+          "text": "E: Meningen må være, at skriget ikke når den frelsende Gud. Mange retter *mîyšûʕātî* (»fra min frelse«) til: *mîššawʕātî*: »fra mit råb om hjælp« og underforstår et »og« og et »du«: »Du er langt borte fra mit råb om hjælp og fra mit skrig«.",
+          "position": 87
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fMin Gud, jeg råber om dagen, men du svarer ikke,\fog om natten, men jeg bliver ikke beroliget.",
       "number": 3,
+      "text": "\fMin Gud, jeg råber om dagen, men du svarer ikke,\fog om natten, men jeg bliver ikke beroliget.",
       "version": 1504476000000
     },
     {
-      "text": "\fMen du er hellig,\ftronende på Israels lovsange!",
       "number": 4,
+      "text": "\fMen du er hellig,\ftronende på Israels lovsange!",
+      "footnotes": [
+        {
+          "text": "E: Mange vælger at flytte den delende accent fra *qādôš* (»hellig«)til *yôšēv* (»tronende«) og læse *haqqādôš*: »den hellige«: »Men du troner som den hellige, (du) Israels lovsange«.",
+          "position": 48
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fVore fædre stolede på dig,\fde stolede på dig, og du befriede dem.",
       "number": 5,
+      "text": "\fVore fædre stolede på dig,\fde stolede på dig, og du befriede dem.",
       "version": 1504476000000
     },
     {
-      "text": "\fTil dig råbte de og blev reddet,\fde stolede på dig og blev ikke gjort til skamme.",
       "number": 6,
+      "text": "\fTil dig råbte de og blev reddet,\fde stolede på dig og blev ikke gjort til skamme.",
       "version": 1504476000000
     },
     {
-      "text": "\fMen jeg er en orm og ikke en mand,\ftil spot for mennesker og foragtet af folk.",
       "number": 7,
+      "text": "\fMen jeg er en orm og ikke en mand,\ftil spot for mennesker og foragtet af folk.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »menneskes spot og folks foragt«.",
+          "position": 79
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fAlle der ser mig, spotter mig,\fde vrænger mund, de ryster på hovedet:",
       "number": 8,
+      "text": "\fAlle der ser mig, spotter mig,\fde vrænger mund, de ryster på hovedet:",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »De laver en spalte med læben«.",
+          "position": 48
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\f»Vælt det på JHVH, lad ham befri ham,\fhan må redde ham, for han har velbehag i ham«!",
       "number": 9,
+      "text": "\f»Vælt det på JHVH, lad ham befri ham,\fhan må redde ham, for han har velbehag i ham«!",
+      "footnotes": [
+        {
+          "text": "T: Mange vælger at ændre vokaliseringen af *gōl* (»vælt!«) til *gal*: »han har væltet«.",
+          "position": 19
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fDu er dog den som drog mig af moders liv,\fdu gav mig tryghed ved min moders bryster.",
       "number": 10,
+      "text": "\fDu er dog den som drog mig af moders liv,\fdu gav mig tryghed ved min moders bryster.",
       "version": 1504476000000
     },
     {
-      "text": "\fPå dig blev jeg kastet fra fødslen,\ffra min moders liv er du min Gud.",
       "number": 11,
+      "text": "\fPå dig blev jeg kastet fra fødslen,\ffra min moders liv er du min Gud.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »fra moderskød«",
+          "position": 35
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fVær ikke fjernt fra mig, for nød er nær,\ffor der er ingen hjælper.",
       "number": 12,
+      "text": "\fVær ikke fjernt fra mig, for nød er nær,\ffor der er ingen hjælper.",
       "version": 1504476000000
     },
     {
-      "text": "\fMange tyre har indesluttet mig,\fBashans stærke har omringet mig.",
       "number": 13,
+      "text": "\fMange tyre har indesluttet mig,\fBashans stærke  har omringet mig.",
+      "footnotes": [
+        {
+          "text": "T: Underforstået: bøfler",
+          "position": 48
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fDe har spærret deres gab op imod mig\fsom en løve der river og brøler.",
       "number": 14,
+      "text": "\fDe har spærret deres gab op imod mig\fsom en løve der river og brøler.",
       "version": 1504476000000
     },
     {
-      "text": "\fJeg er udøst som vand,\fog alle mine knogler er vredet af led,\fmit hjerte er blevet som voks,\fdet er smeltet midt i mit indre.",
       "number": 15,
+      "text": "\fJeg er udøst som vand,\fog alle mine knogler er vredet af led,\fmit hjerte er blevet som voks,\fdet er smeltet midt i mit indre.",
       "version": 1504476000000
     },
     {
-      "text": "\fMin kraft er tørret som et potteskår,\fmin tunge er klæbet til mine gummer,\fdu har lagt mig ned i dødens støv.",
       "number": 16,
+      "text": "Min kraft er tørret som et potteskår,\fmin tunge er klæbet til mine gummer,\fdu har lagt mig ned i dødens støv.",
+      "footnotes": [
+        {
+          "text": "E: Oftest regner man med, at to konsonanter er byttet om, så der i stedet for *kōḥî* (»min kraft«) skal læses *ḥikkî*: »min gane«. Rettelsen har dog ingen støtte i gamle håndskrifter.",
+          "position": 9
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fFor hunde har omringet mig,\fen flok af ugerningsmænd har slået kreds omkring mig,\fde har gennemboret mine hænder og mine fødder.",
       "number": 17,
+      "text": "\fFor hunde har omringet mig,\fen flok af ugerningsmænd har slået kreds omkring mig,\fde har gennemboret mine hænder og mine fødder.",
+      "footnotes": [
+        {
+          "text": "E: Den hebraiske tekst har *kāˀᵃrî*: »som en løve«. Hvis den er rigtig, må meningen være at fjenderne har slået kreds omkring ham og »som en løve« holder hans »hænder og fødder« fast. Med støtte bl.a. i de gamle oversættelser retter man oftest til *kāˀᵃrû*: »de har gennemboret« idet man forudsætter at de har oversat den originale tekst. Denne forståelse støttes nu også af en stump af et hebraisk manuskript der er fundet i en hule Nahal Hever nær Det Døde Hav. Manuskriptstumpen dateres til 1. århundrede e.Kr. (oftest) eller 1. århundrede f.Kr. Den er i alle tilfælde ca. 1000 år ældre end det ældste eksisterende hebraiske manuskript – det ældste, Codex Aleppo fra ca. 930 e.Kr., mangler bl.a. Sl 22, og det samme gælder Salmerullen fra Qumran.",
+          "position": 101
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fJeg kan tælle alle mine knogler,\fde ser på mig med skadefryd.",
       "number": 18,
+      "text": "\fJeg kan tælle alle mine knogler,\fde ser på mig med skadefryd.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »de ser, ser med lyst på mig«.",
+          "position": 62
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fDe deler mine klæder imellem sig\fog kaster lod om min klædning.",
       "number": 19,
+      "text": "\fDe deler mine klæder imellem sig\fog kaster lod om min klædning.",
       "version": 1504476000000
     },
     {
-      "text": "\fMen du, JHVHv, vær ikke langt borte!\fMin styrke, skynd dig at komme mig til hjælp!",
       "number": 20,
+      "text": "\fMen du, JHVHv, vær ikke langt borte!\fMin styrke, skynd dig at komme mig til hjælp!",
+      "title": "Bøn om frelse",
       "version": 1504476000000
     },
     {
-      "text": "\fRed min sjæl fra sværdet,\fmin eneste fra hundes vold!",
       "number": 21,
+      "text": "\fRed min sjæl fra sværdet,\fmin eneste fra hundes vold!",
+      "footnotes": [
+        {
+          "text": "T: Her formodentlig i betydningen »mit liv«.",
+          "position": 13
+        },
+        {
+          "text": "T: Dvs. »sjæl/liv«.",
+          "position": 37
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fFrels mig fra løvens gab\fog fra bøflers horn!\fDu har svaret mig.",
       "number": 22,
+      "text": "\fFrels mig fra løvens gab\fog fra bøflers horn!\fDu har svaret mig.",
       "version": 1504476000000
     },
     {
-      "text": "\fJeg vil forkynde dit navn for mine brødre,\fmidt i forsamlingen vil jeg lovprise dig.",
       "number": 23,
+      "text": "\fJeg vil forkynde dit navn for mine brødre,\fmidt i forsamlingen vil jeg lovprise dig.",
+      "title": "Taksigelse for Guds hjælp",
       "version": 1504476000000
     },
     {
-      "text": "\fI som frygter JHVH, lovpris ham!\fAl Jakobs sæd, I skal ære ham,\fog I skal frygte ham, al Israels sæd!",
       "number": 24,
+      "text": "\fI som frygter JHVH, lovpris ham!\fAl Jakobs sæd, I skal ære ham,\fog I skal frygte ham, al Israels sæd!",
       "version": 1504476000000
     },
     {
-      "text": "\fFor han har ikke foragtet og ikke afskyet\fden hjælpeløses elendighed,\fog han skjulte ikke sit ansigt for ham,\fmen da han råbte til ham om hjælp, hørte han.",
       "number": 25,
+      "text": "\fFor han har ikke foragtet og ikke afskyet\fden hjælpeløses elendighed,\fog han skjulte ikke sit ansigt for ham,\fmen da han råbte til ham om hjælp, hørte han.",
       "version": 1504476000000
     },
     {
-      "text": "\fFra dig kommer min lovsang i en stor forsamling,\fjeg vil indfri mine løfter foran dem som frygter ham.",
       "number": 26,
+      "text": "\fFra dig kommer min lovsang i en stor forsamling,\fjeg vil indfri mine løfter foran dem som frygter ham.",
       "version": 1504476000000
     },
     {
-      "text": "\fDe ydmyge skal spise og mættes,\fde som søger JHVH, skal prise ham.\fMå jeres hjerte leve for evigt!",
       "number": 27,
+      "text": "\fDe ydmyge skal spise og mættes,\fde som søger JHVH, skal prise ham.\fMå jeres hjerte leve for evigt!",
       "version": 1504476000000
     },
     {
-      "text": "\fAlle jordens ender skal huske på og omvende sig til JHVH,\fog alle folks slægter skal kaste sig ned for dit ansigt.",
       "number": 28,
+      "text": "\fAlle jordens ender skal huske på og omvende sig til JHVH,\fog alle folks slægter skal kaste sig ned for dit ansigt.",
       "version": 1504476000000
     },
     {
-      "text": "\fFor kongemagten tilhører JHVH,\fog han hersker over folkene.",
       "number": 29,
+      "text": "\fFor kongemagten tilhører JHVH,\fog han hersker over folkene.",
       "version": 1504476000000
     },
     {
-      "text": "\fAlle jordens mægtige spiste og tilbad,\falle, der stiger ned i støvet, skal falde på knæ for hans ansigt,\fog den, som ikke har holdt sin sjæl i live.",
       "number": 30,
+      "text": "\fAlle jordens mægtige spiste og tilbad,\falle, der stiger ned i støvet, skal falde på knæ for hans ansigt,\fog den, som ikke har holdt sin sjæl i live.",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »Alle jordens fede spiste og kastede sig ned«. Ofte retter man *dišnê* (»fede«) til: *jᵊšenê*: »de der sover (i jorden)« og oversætter verberne som fremtid. Samtidig rettes versets første ord *ʔāxᵊlû* (»de spiste«) til *ʔāx lô*: »Ja, for ham« og det indledende *w* (»og«) i det følgende ord slettes som diplografi. Linjen lyder så: »Ja, alle, der sover i jorden, skal kaste sig ned for ham«. Rettelserne har dog ingen støtte i håndskrifter eller gamle oversættelser.",
+          "position": 39
+        },
+        {
+          "text": "E: Med støtte i enkelte håndskrifter og gamle oversættelser rettes ofte denne linjes hebraiske tekst *wᵊnafšô lōˀ ḥiyyāʰ* til *wᵊnafš î lō ḥiyyāʰ*: »Men min sjæl lever for ham«. I mange nyere oversættelser er denne sætning også overført til vers 31.",
+          "position": 149
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fEfterkommerne skal tjene ham,\fder skal fortælles om Herren til efterslægten.",
       "number": 31,
+      "text": "\fEfterkommerne skal tjene ham,\fder skal fortælles om Herren til efterslægten.",
       "version": 1504476000000
     },
     {
-      "text": "\fDe skal komme og forkynde hans retfærdighed\ffor et folk der fødes.\fFor han har gjort det.",
       "number": 32,
+      "text": "\fDe skal komme og forkynde hans retfærdighed\ffor et folk der fødes.\fFor han har gjort det.",
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "Klage i gudsforladthedens nød",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Bøn om frelse",
-      "verse": 20,
-      "version": 1504476000000
-    },
-    {
-      "text": "Taksigelse for Guds hjælp",
-      "verse": 23,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Hebraisk: *ʕal-ʔayyelet haššaḥar*. Det kan være en anvisning på at denne salme skal synges på samme melodi eller måde som den (for os) ukendte salme: »Morgenrødens hind«. En anden mulighed er at det er angivelse af at den skal synges og bedes om morgenen, evt. lige før solopgang.",
-      "type": "E",
-      "verse": 1,
-      "position": 44
-    },
-    {
-      "text": "Meningen må være, at skriget ikke når den frelsende Gud. Mange retter *mîyšûʕātî* (»fra min frelse«) til: *mîššawʕātî*: »fra mit råb om hjælp« og underforstår et »og« og et »du«: »Du er langt borte fra mit råb om hjælp og fra mit skrig«.",
-      "type": "E",
-      "verse": 2,
-      "position": 87
-    },
-    {
-      "text": "Mange vælger at flytte den delende accent fra *qādôš* (»hellig«)til *yôšēv* (»tronende«) og læse *haqqādôš*: »den hellige«: »Men du troner som den hellige, (du) Israels lovsange«.",
-      "type": "E",
-      "verse": 4,
-      "position": 48
-    },
-    {
-      "text": "Ordret: »menneskes spot og folks foragt«.",
-      "type": "T",
-      "verse": 7,
-      "position": 79
-    },
-    {
-      "text": "Ordret: »De laver en spalte med læben«.",
-      "type": "T",
-      "verse": 8,
-      "position": 48
-    },
-    {
-      "text": "Mange vælger at ændre vokaliseringen af *gōl* (»vælt!«) til *gal*: »han har væltet«.",
-      "type": "T",
-      "verse": 9,
-      "position": 19
-    },
-    {
-      "text": "Ordret: »fra moderskød«",
-      "type": "T",
-      "verse": 11,
-      "position": 35
-    },
-    {
-      "text": "Underforstået: bøfler",
-      "type": "T",
-      "verse": 13,
-      "position": 48
-    },
-    {
-      "text": "Oftest regner man med, at to konsonanter er byttet om, så der i stedet for *kōḥî* (»min kraft«) skal læses *ḥikkî*: »min gane«. Rettelsen har dog ingen støtte i gamle håndskrifter.",
-      "type": "E",
-      "verse": 16,
-      "position": 10
-    },
-    {
-      "text": "Den hebraiske tekst har *kāˀᵃrî*: »som en løve«. Hvis den er rigtig, må meningen være at fjenderne har slået kreds omkring ham og »som en løve« holder hans »hænder og fødder« fast. Med støtte bl.a. i de gamle oversættelser retter man oftest til *kāˀᵃrû*: »de har gennemboret« idet man forudsætter at de har oversat den originale tekst. Denne forståelse støttes nu også af en stump af et hebraisk manuskript der er fundet i en hule Nahal Hever nær Det Døde Hav. Manuskriptstumpen dateres til 1. århundrede e.Kr. (oftest) eller 1. århundrede f.Kr. Den er i alle tilfælde ca. 1000 år ældre end det ældste eksisterende hebraiske manuskript – det ældste, Codex Aleppo fra ca. 930 e.Kr., mangler bl.a. Sl 22, og det samme gælder Salmerullen fra Qumran.",
-      "type": "E",
-      "verse": 17,
-      "position": 101
-    },
-    {
-      "text": "Ordret: »de ser, ser med lyst på mig«.",
-      "type": "T",
-      "verse": 18,
-      "position": 62
-    },
-    {
-      "text": "Her formodentlig i betydningen »mit liv«.",
-      "type": "T",
-      "verse": 21,
-      "position": 13
-    },
-    {
-      "text": "Dvs. »sjæl/liv«.",
-      "type": "T",
-      "verse": 21,
-      "position": 37
-    },
-    {
-      "text": "Ordret: »Alle jordens fede spiste og kastede sig ned«. Ofte retter man *dišnê* (»fede«) til: *jᵊšenê*: »de der sover (i jorden)« og oversætter verberne som fremtid. Samtidig rettes versets første ord *ʔāxᵊlû* (»de spiste«) til *ʔāx lô*: »Ja, for ham« og det indledende *w* (»og«) i det følgende ord slettes som diplografi. Linjen lyder så: »Ja, alle, der sover i jorden, skal kaste sig ned for ham«. Rettelserne har dog ingen støtte i håndskrifter eller gamle oversættelser.",
-      "type": "E",
-      "verse": 30,
-      "position": 39
-    },
-    {
-      "text": "Med støtte i enkelte håndskrifter og gamle oversættelser rettes ofte denne linjes hebraiske tekst *wᵊnafšô lōˀ ḥiyyāʰ* til *wᵊnafš î lō ḥiyyāʰ*: »Men min sjæl lever for ham«. I mange nyere oversættelser er denne sætning også overført til vers 31.",
-      "type": "E",
-      "verse": 30,
-      "position": 149
     }
   ]
 }

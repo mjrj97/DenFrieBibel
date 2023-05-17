@@ -5,75 +5,57 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang.\fTil dig har jeg løftet mine øjne,\fdu som troner i himlen!",
       "number": 1,
+      "text": "Valfartssang.\fTil dig har jeg løftet mine øjne,\fdu som troner i himlen!",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fSe, som trælles øjne\fer rettet mod deres herrers hånd,\fsom en trælkvindes øjne\fer rettet mod hendes frues hånd,\fsådan er vore øjne rettet mod JHVH, vor Gud,\findtil han er os nådig.",
       "number": 2,
+      "text": "\fSe, som trælles øjne\fer rettet mod deres herrers hånd,\fsom en trælkvindes øjne\fer rettet mod hendes frues hånd,\fsådan er vore øjne rettet mod JHVH, vor Gud,\findtil han er os nådig.",
+      "title": "De troendes tillid og forventning",
       "version": 1504476000000
     },
     {
-      "text": "\fVær os nådig, JHVHv, vær os nådig,\ffor vi er voldsomt mættede med foragt!",
       "number": 3,
+      "text": "\fVær os nådig, JHVHv, vær os nådig,\ffor vi er voldsomt mættede med foragt!",
+      "title": "Vær os nådig!",
       "version": 1504476000000
     },
     {
-      "text": "\fVor sjæl er overmæt\faf spotten, de sorgløse,\fforagten fra stolte.",
       "number": 4,
+      "text": "\fVor sjæl er overmæt\faf spotten, de sorgløse,\fforagten fra stolte.",
+      "footnotes": [
+        {
+          "text": "E: Udtrykket kan måske betyde: »af spotten, nemlig fra de sorgløse«. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (»de sorgløse«) ser ud til at have læst: *laššaˀᵃnannîm*: »fra de sorgløse«.",
+          "position": 45
+        },
+        {
+          "text": "E: Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (»fra stolte«) skal deles i to ord: *ligᵊʔê yônîm*: »fra undertrykkeres stolte« = »fra stolte blandt undertrykkere«.",
+          "position": 66
+        }
+      ],
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "De troendes tillid og forventning",
-      "verse": 2,
-      "version": 1504476000000
-    },
-    {
-      "text": "Vær os nådig!",
-      "verse": 3,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Udtrykket kan måske betyde: »af spotten, nemlig fra de sorgløse«. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (»de sorgløse«) ser ud til at have læst: *laššaˀᵃnannîm*: »fra de sorgløse«.",
-      "type": "E",
-      "verse": 4,
-      "position": 45
-    },
-    {
-      "text": "Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (»fra stolte«) skal deles i to ord: *ligᵊʔê yônîm*: »fra undertrykkeres stolte« = »fra stolte blandt undertrykkere«.",
-      "type": "E",
-      "verse": 4,
-      "position": 66
     }
   ]
 }

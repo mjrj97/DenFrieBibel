@@ -5,128 +5,116 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fHalleluja!\fLovpris JHVH fra himlen,\flovpris ham i det høje!",
       "number": 1,
+      "text": "Halleluja!\fLovpris JHVH fra himlen,\flovpris ham i det høje!",
+      "title": "Lovpris JHVH fra himlen",
       "version": 1493330400000
     },
     {
-      "text": "\fLovpris ham, alle hans engle,\flovpris ham, hele hans hærskare!",
       "number": 2,
+      "text": "\fLovpris ham, alle hans engle,\flovpris ham, hele hans hærskare!",
+      "footnotes": [
+        {
+          "text": "E: Konsonantteksten forudsætter singularis (»hele hans hærskare«), men masoreternes vokalisering peger på pluralis: »alle hans hærskarer«.",
+          "position": 63
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fLovpris ham, sol og måne,\flovpris ham, alle lysets stjerner!",
       "number": 3,
+      "text": "\fLovpris ham, sol og måne,\flovpris ham, alle lysets stjerner!",
       "version": 1493330400000
     },
     {
-      "text": "\fLovpris ham, himlenes himmel,\fog I vande som er over himlen!",
       "number": 4,
+      "text": "\fLovpris ham, himlenes himmel,\fog I vande som er over himlen!",
       "version": 1493330400000
     },
     {
-      "text": "\fDe skal lovprise JHVHs navn,\ffor han befalede, og de blev skabt.",
       "number": 5,
+      "text": "\fDe skal lovprise JHVHs navn,\ffor han befalede, og de blev skabt.",
       "version": 1493330400000
     },
     {
-      "text": "\fOg han har stillet dem hen for altid, for evigt,\fhan gav en lov, og den skal ikke ophæves.",
       "number": 6,
+      "text": "\fOg han har stillet dem hen for altid, for evigt,\fhan gav en lov, og den skal ikke ophæves.",
+      "footnotes": [
+        {
+          "text": "E: Mange oversættere retter: *yaʕᵃvôr* (»ophæves«, ordret: »gå forbi«) til pluralis: *yaʕᵃvrû*, så oversættelsen bliver: »(han gav en lov/grænse) de (ikke) må overskride«.",
+          "position": 91
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fLovpris JHVH fra jorden,\fI søuhyrer og alle dyb,",
       "number": 7,
+      "text": "\fLovpris JHVH fra jorden,\fI søuhyrer og alle dyb,",
+      "title": "Lovpris JHVH fra jorden",
       "version": 1493330400000
     },
     {
-      "text": "\fild og hagl, sne og røg\fstormvind som udfører hans ord,",
       "number": 8,
+      "text": "\fild og hagl, sne og røg\fstormvind som udfører hans ord,",
       "version": 1493330400000
     },
     {
-      "text": "\fI bjerge og alle høje,\ffrugttræer og alle cedertræer,",
       "number": 9,
+      "text": "\fI bjerge og alle høje,\ffrugttræer og alle cedertræer,",
       "version": 1493330400000
     },
     {
-      "text": "\fvildtet og alt kvæg,\fkrybdyr og vingede fugle!",
       "number": 10,
+      "text": "\fvildtet og alt kvæg,\fkrybdyr og vingede fugle!",
       "version": 1493330400000
     },
     {
-      "text": "\fJordens konger og alle folk,\ffyrster og alle jordens dommere,",
       "number": 11,
+      "text": "\fJordens konger og alle folk,\ffyrster og alle jordens dommere,",
       "version": 1493330400000
     },
     {
-      "text": "\funge mænd og også piger,\fgamle med unge:",
       "number": 12,
+      "text": "\funge mænd og også piger,\fgamle med unge:",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »jomfruer«.",
+          "position": 25
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fDe skal lovprise JHVHs navn,\ffor hans navn alene er ophøjet,\fhans højhed er over jorden og himlen.",
       "number": 13,
+      "text": "\fDe skal lovprise JHVHs navn,\ffor hans navn alene er ophøjet,\fhans højhed er over jorden og himlen.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »majestæt«.",
+          "position": 73
+        }
+      ],
       "version": 1493330400000
     },
     {
-      "text": "\fHan har løftet et horn for sit folk,\fhan der er en lovsang for alle sine fromme,\ffor Israels børn, det folk der står ham nær.\fHalleluja!",
       "number": 14,
+      "text": "\fHan har løftet et horn for sit folk,\fhan der er en lovsang for alle sine fromme,\ffor Israels børn, det folk der står ham nær.\fHalleluja!",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »hans nærheds folk« eller: »folk af den der står ham nær«. Mange ændrer dog vokaliseringen af: *qᵊrōvô* (»den der står ham nær/hans nærhed«) til: *qᵊrōvāʸw*: »dem der står ham nær«.",
+          "position": 126
+        }
+      ],
       "version": 1493330400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Lovpris JHVH fra himlen",
-      "verse": 1,
-      "version": 1493330400000
-    },
-    {
-      "text": "Lovpris JHVH fra jorden",
-      "verse": 7,
-      "version": 1493330400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Konsonantteksten forudsætter singularis (»hele hans hærskare«), men masoreternes vokalisering peger på pluralis: »alle hans hærskarer«.",
-      "type": "E",
-      "verse": 2,
-      "position": 63
-    },
-    {
-      "text": "Mange oversættere retter: *yaʕᵃvôr* (»ophæves«, ordret: »gå forbi«) til pluralis: *yaʕᵃvrû*, så oversættelsen bliver: »(han gav en lov/grænse) de (ikke) må overskride«.",
-      "type": "E",
-      "verse": 6,
-      "position": 91
-    },
-    {
-      "text": "Kan også oversættes: »jomfruer«.",
-      "type": "T",
-      "verse": 12,
-      "position": 25
-    },
-    {
-      "text": "Kan også oversættes: »majestæt«.",
-      "type": "T",
-      "verse": 13,
-      "position": 73
-    },
-    {
-      "text": "Ordret: »hans nærheds folk« eller: »folk af den der står ham nær«. Mange ændrer dog vokaliseringen af: *qᵊrōvô* (»den der står ham nær/hans nærhed«) til: *qᵊrōvāʸw*: »dem der står ham nær«.",
-      "type": "E",
-      "verse": 14,
-      "position": 126
     }
   ]
 }

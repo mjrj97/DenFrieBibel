@@ -5,118 +5,94 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Med strengespil.\fEn salme. En sang.",
       "number": 1,
+      "text": "Til korlederen. Med strengespil.\fEn salme. En sang.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGud være os nådig og velsigne os,\fhan lade sit ansigt lyse hos os, Sela",
       "number": 2,
+      "text": "\fGud være os nådig og velsigne os,\fhan lade sit ansigt lyse hos os, Sela",
+      "title": "Velsign!",
+      "footnotes": [
+        {
+          "text": "E: Den hebraiske tekst har her ikke præpositionen *ʔel* (»over/hen imod«, 4 Mos 6,25), men: *ʔēt*: »hos/med«.",
+          "position": 63
+        },
+        {
+          "text": "N: Sela",
+          "position": 72
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fså man kan kende din vej på jorden,\fdin frelse blandt alle folkeslag!",
       "number": 3,
+      "text": "\fså man kan kende din vej på jorden,\fdin frelse blandt alle folkeslag!",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »hedninger«, men det er næppe det der er lagt vægt på her.",
+          "position": 70
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFolkene skal prise dig, Gud,\falle folk skal prise dig.",
       "number": 4,
-      "version": 1500242400000
-    },
-    {
-      "text": "\fFolkeslag skal glæde sig og juble,\ffor du dømmer folkene retfærdigt,\fog du leder folkeslag på jorden. Sela",
-      "number": 5,
-      "version": 1500242400000
-    },
-    {
       "text": "\fFolkene skal prise dig, Gud,\falle folk skal prise dig.",
+      "title": "Alle skal prise Gud",
+      "version": 1500242400000
+    },
+    {
+      "number": 5,
+      "text": "\fFolkeslag skal glæde sig og juble,\ffor du dømmer folkene retfærdigt,\fog du leder folkeslag på jorden. Sela",
+      "version": 1500242400000
+    },
+    {
       "number": 6,
+      "text": "\fFolkene skal prise dig, Gud,\falle folk skal prise dig.",
       "version": 1500242400000
     },
     {
-      "text": "\fLandet har givet sin afgrøde.\fGud, vor Gud, velsigne os.",
       "number": 7,
+      "text": "\fLandet har givet sin afgrøde.\fGud, vor Gud, velsigne os.",
+      "title": "Gud har velsignet – velsign igen!",
+      "footnotes": [
+        {
+          "text": "T: Det er omdiskuteret om der her skal oversættes »landet« eller »jorden«. Sidstnævnte bruges dog ikke om agerjord.",
+          "position": 7
+        },
+        {
+          "text": "T: *yᵊvārēx* kan opfattes som enten jussiv (her, som i v.2) eller som yiqtol: »vil velsigne«. Begge oversættelser giver god mening.",
+          "position": 53
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGud velsigne os,\fog alle jordens ender skal frygte ham.",
       "number": 8,
+      "text": "\fGud velsigne os,\fog alle jordens ender skal frygte ham.",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Velsign!",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Alle skal prise Gud",
-      "verse": 4,
-      "version": 1500242400000
-    },
-    {
-      "text": "Gud har velsignet – velsign igen!",
-      "verse": 7,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Den hebraiske tekst har her ikke præpositionen *ʔel* (»over/hen imod«, 4 Mos 6,25), men: *ʔēt*: »hos/med«.",
-      "type": "E",
-      "verse": 2,
-      "position": 63
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 2,
-      "position": 72
-    },
-    {
-      "text": "Kan også oversættes: »hedninger«, men det er næppe det der er lagt vægt på her.",
-      "type": "T",
-      "verse": 3,
-      "position": 70
-    },
-    {
-      "text": "Det er omdiskuteret om der her skal oversættes »landet« eller »jorden«. Sidstnævnte bruges dog ikke om agerjord.",
-      "type": "T",
-      "verse": 7,
-      "position": 7
-    },
-    {
-      "text": "*yᵊvārēx* kan opfattes som enten jussiv (her, som i v.2) eller som yiqtol: »vil velsigne«. Begge oversættelser giver god mening.",
-      "type": "T",
-      "verse": 7,
-      "position": 53
     }
   ]
 }

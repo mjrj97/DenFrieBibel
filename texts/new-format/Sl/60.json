@@ -5,190 +5,164 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Al-shushan-edut.\fAf David. Miktam. Til belæring.",
       "number": 1,
+      "text": "Til korlederen. Al-shushan-edut.\fAf David. Miktam. Til belæring.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "T: Ordret må det betyde: »på liljens vidnesbyrd« eller: »på liljen; et vidnesbyrd«. Det er formodentlig en melodiangivelse, men meningen med det kendes ikke mere.",
+          "position": 32
+        },
+        {
+          "text": "T: Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-59) fastholde en alvorlig situation i folkets erindring.",
+          "position": 50
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDengang han førte krig mod Aram-Naharajim og Aram-Soba, og Joab kom tilbage og slog Edom i Saltdalen, tolv tusinde.",
       "number": 2,
+      "text": "\fDengang han førte krig mod Aram-Naharajim og Aram-Soba, og Joab kom tilbage og slog Edom i Saltdalen, tolv tusinde.",
       "version": 1500242400000
     },
     {
-      "text": "\fGud, du har forkastet os, du har nedbrudt os,\fdu blev vred; genrejs os!",
       "number": 3,
+      "text": "\fGud, du har forkastet os, du har nedbrudt os,\fdu blev vred; genrejs os!",
+      "title": "Klage",
+      "footnotes": [
+        {
+          "text": "E: Meningen her med verbet *tᵊšôvēv lānû* er omdiskuteret. Andre oversætter: »vend tilbage til os«.",
+          "position": 72
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu har bragt landet til at skælve, du har delt det,\flæg dets brud, for det vakler!",
       "number": 4,
+      "text": "\fDu har bragt landet til at skælve, du har delt det,\flæg dets brud, for det vakler!",
+      "footnotes": [
+        {
+          "text": "T: Det er usikkert om der her skal oversættes: »jorden«. I sammenhængen er der dog tale om Israels folk og derfor formodentlig også om dets land.",
+          "position": 20
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu lod dit folk opleve grusomhed,\fdu gav os vin at drikke så at vi tumlede.",
       "number": 5,
+      "text": "\fDu lod dit folk opleve grusomhed,\fdu gav os vin at drikke så at vi tumlede.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »se«.",
+          "position": 23
+        },
+        {
+          "text": "T: Ordret: »du gav os vin tummel at drikke«.",
+          "position": 76
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu har givet dem som frygter dig, et banner\fat flygte til for buen. Sela",
       "number": 6,
+      "text": "\fDu har givet dem som frygter dig, et banner\fat flygte til for buen. Sela",
+      "footnotes": [
+        {
+          "text": "N: Sela",
+          "position": 73
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFor at dine elskede må blive reddet,\fså frels med din højre hånd, og svar os!",
       "number": 7,
+      "text": "\fFor at dine elskede må blive reddet,\fså frels med din højre hånd, og svar os!",
+      "footnotes": [
+        {
+          "text": "T: Konsonantteksten har »os«, mens masoreterne med vokalerne har forudsat »mig«. I sammenhængen er der tale om hele folket.",
+          "position": 78
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGud har talt i sin helligdom:\f»Jeg vil juble, jeg vil udstykke Sikem\fog udmåle Sukkots dal.",
       "number": 8,
+      "text": "\fGud har talt i sin helligdom:\f»Jeg vil juble, jeg vil udstykke Sikem\fog udmåle Sukkots dal.",
+      "title": "Guds løfte",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »hellighed«.",
+          "position": 30
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fMig tilhører Gilead, og mig tilhører Manasse,\fog Efraim er mit hoveds hjelm,\fJuda er min herskerstav.",
       "number": 9,
+      "text": "\fMig tilhører Gilead, og mig tilhører Manasse,\fog Efraim er mit hoveds hjelm,\fJuda er min herskerstav.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »værn«.",
+          "position": 77
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fMoab er mit vaskefad,\fpå Edom vil jeg kaste min sandal,\fover mig skal du bryde ud i jubel, Filistæa!«",
       "number": 10,
+      "text": "\fMoab er mit vaskefad,\fpå Edom vil jeg kaste min sandal,\fover mig skal du bryde ud i jubel, Filistæa!«",
+      "footnotes": [
+        {
+          "text": "E: Mange oversættere vælger – med et par af de gamle oversættelser – at følge teksten i Sl 108,10: *ʕᵃlê-fᵊlešet ʔetrôʕāʕ*: »jeg vil bryde ud i jubel/råbe i triumf over Filistæa!«, frem for den masoretiske tekst her: *ʕālay pᵊlešet hitrōʕāʕî*",
+          "position": 102
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHvem vil føre mig til en befæstet by?\fHvem har ledt mig til Edom?",
       "number": 11,
+      "text": "\fHvem vil føre mig til en befæstet by?\fHvem har ledt mig til Edom?",
+      "title": "Klage og bøn",
+      "footnotes": [
+        {
+          "text": "T: Mange følger Septuaginta og retter *nāḥanî* (»har ledt mig«) til: *janḥēnî*: »vil/skal lede mig«.",
+          "position": 56
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fMon ikke du, Gud, har forkastet os?\fog vil du, Gud, ikke drage ud med vore hære?",
       "number": 12,
+      "text": "\fMon ikke du, Gud, har forkastet os?\fog vil du, Gud, ikke drage ud med vore hære?",
       "version": 1500242400000
     },
     {
-      "text": "\fBring os hjælp mod en fjende,\ffor menneskers hjælp er værdiløs.",
       "number": 13,
+      "text": "\fBring os hjælp mod en fjende,\ffor menneskers hjælp er værdiløs.",
       "version": 1500242400000
     },
     {
-      "text": "\fVed Guds hjælp vil vi vinde styrke,\fog han skal træde vore fjender ned.",
       "number": 14,
+      "text": "\fVed Guds hjælp vil vi vinde styrke,\fog han skal træde vore fjender ned.",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Klage",
-      "verse": 3,
-      "version": 1500242400000
-    },
-    {
-      "text": "Guds løfte",
-      "verse": 8,
-      "version": 1500242400000
-    },
-    {
-      "text": "Klage og bøn",
-      "verse": 11,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Ordret må det betyde: »på liljens vidnesbyrd« eller: »på liljen; et vidnesbyrd«. Det er formodentlig en melodiangivelse, men meningen med det kendes ikke mere.",
-      "type": "T",
-      "verse": 1,
-      "position": 33
-    },
-    {
-      "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-59) fastholde en alvorlig situation i folkets erindring.",
-      "type": "T",
-      "verse": 1,
-      "position": 51
-    },
-    {
-      "text": "Meningen her med verbet *tᵊšôvēv lānû* er omdiskuteret. Andre oversætter: »vend tilbage til os«.",
-      "type": "E",
-      "verse": 3,
-      "position": 72
-    },
-    {
-      "text": "Det er usikkert om der her skal oversættes: »jorden«. I sammenhængen er der dog tale om Israels folk og derfor formodentlig også om dets land.",
-      "type": "T",
-      "verse": 4,
-      "position": 20
-    },
-    {
-      "text": "Ordret: »se«.",
-      "type": "T",
-      "verse": 5,
-      "position": 23
-    },
-    {
-      "text": "Ordret: »du gav os vin tummel at drikke«.",
-      "type": "T",
-      "verse": 5,
-      "position": 76
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 6,
-      "position": 73
-    },
-    {
-      "text": "Konsonantteksten har »os«, mens masoreterne med vokalerne har forudsat »mig«. I sammenhængen er der tale om hele folket.",
-      "type": "T",
-      "verse": 7,
-      "position": 78
-    },
-    {
-      "text": "Kan også oversættes: »hellighed«.",
-      "type": "T",
-      "verse": 8,
-      "position": 30
-    },
-    {
-      "text": "Ordret: »værn«.",
-      "type": "T",
-      "verse": 9,
-      "position": 77
-    },
-    {
-      "text": "Mange oversættere vælger – med et par af de gamle oversættelser – at følge teksten i Sl 108,10: *ʕᵃlê-fᵊlešet ʔetrôʕāʕ*: »jeg vil bryde ud i jubel/råbe i triumf over Filistæa!«, frem for den masoretiske tekst her: *ʕālay pᵊlešet hitrōʕāʕî*",
-      "type": "E",
-      "verse": 10,
-      "position": 102
-    },
-    {
-      "text": "Mange følger Septuaginta og retter *nāḥanî* (»har ledt mig«) til: *janḥēnî*: »vil/skal lede mig«.",
-      "type": "T",
-      "verse": 11,
-      "position": 56
     }
   ]
 }

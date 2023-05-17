@@ -5,127 +5,103 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fSalme af David.\fGiv JHVH, I Guds sønner,\fgiv JHVH ære og styrke!",
       "number": 1,
+      "text": "Salme af David.\fGiv JHVH, I Guds sønner,\fgiv JHVH ære og styrke!",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: »gudssønner«.",
+          "position": 40
+        },
+        {
+          "text": "E: Ordet *ʕōz* kan også oversættes »lovprisning / hæder«. I sammenhængen er det dog vigtigt at understrege Guds magt.",
+          "position": 64
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fGiv JHVH hans navns ære,\fkast jer ned for JHVH i hellig klædning.",
       "number": 2,
+      "text": "\fGiv JHVH hans navns ære,\fkast jer ned for JHVH i hellig klædning.",
+      "title": "Ære være Gud!",
+      "footnotes": [
+        {
+          "text": "E: Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "position": 66
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fHerrens røst er over vandene.\fÆrens Gud får det til at tordne,\fJHVH er over de vældige vande.",
       "number": 3,
+      "text": "\fHerrens røst er over vandene.\fÆrens Gud får det til at tordne,\fJHVH er over de vældige vande.",
+      "title": "Åbenbaringen af JHVHs magt og herlighed",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHs røst er med kraft,\fJHVHs røst er med herlighed.",
       "number": 4,
+      "text": "\fJHVHs røst er med kraft,\fJHVHs røst er med herlighed.",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHs røst splintrer cedertræer,\fog JHVH smadrer Libanons cedre.",
       "number": 5,
+      "text": "\fJHVHs røst splintrer cedertræer,\fog JHVH smadrer Libanons cedre.",
       "version": 1457218800000
     },
     {
-      "text": "\fOg han får dem til at springe som en kalv,\fLibanon og Sirjon som vildoksers kalv.",
       "number": 6,
+      "text": "\fOg han får dem til at springe som en kalv,\fLibanon og Sirjon som vildoksers kalv.",
+      "footnotes": [
+        {
+          "text": "E: Af hensyn til parallelismen slettes ofte bogstavet *m* (»dem«) i *yarqîdēm* (»og får dem til at springe«), og den skillende accent flyttes hen under »Libanon«, så sætningen lyder: »Og han får Libanon til at springe som en kalv«.",
+          "position": 43
+        },
+        {
+          "text": "T: Dvs. Hermon.",
+          "position": 61
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHs røst slår ned med ildsluer.",
       "number": 7,
+      "text": "\fJHVHs røst slår ned med ildsluer.",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHs røst får ørken til at skælve,\fJHVH får Kadesh’ ørken til at skælve.",
       "number": 8,
+      "text": "\fJHVHs røst får ørken til at skælve,\fJHVH får Kadesh’ ørken til at skælve.",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHs røst får hinder til at føde\fog afbarker skove.\fMen i hans tempel siger de alle: »Ære!«",
       "number": 9,
+      "text": "\fJHVHs røst får hinder til at føde\fog afbarker skove.\fMen i hans tempel siger de alle: »Ære!«",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVH har taget sæde over vandfloden,\fog JHVH troner som konge i evighed.",
       "number": 10,
+      "text": "\fJHVH har taget sæde over vandfloden,\fog JHVH troner som konge i evighed.",
+      "title": "Afsluttende lovprisning",
       "version": 1457218800000
     },
     {
-      "text": "\fJHVH skal give sit folk styrke,\fJHVH skal velsigne sit folk med fred.",
       "number": 11,
+      "text": "\fJHVH skal give sit folk styrke,\fJHVH skal velsigne sit folk med fred.",
       "version": 1457218800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1457218800000
-    },
-    {
-      "text": "Ære være Gud!",
-      "verse": 2,
-      "version": 1457218800000
-    },
-    {
-      "text": "Åbenbaringen af JHVHs magt og herlighed",
-      "verse": 3,
-      "version": 1457218800000
-    },
-    {
-      "text": "Afsluttende lovprisning",
-      "verse": 10,
-      "version": 1457218800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: »gudssønner«.",
-      "type": "E",
-      "verse": 1,
-      "position": 41
-    },
-    {
-      "text": "Ordet *ʕōz* kan også oversættes »lovprisning / hæder«. I sammenhængen er det dog vigtigt at understrege Guds magt.",
-      "type": "E",
-      "verse": 1,
-      "position": 65
-    },
-    {
-      "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
-      "type": "E",
-      "verse": 2,
-      "position": 66
-    },
-    {
-      "text": "Af hensyn til parallelismen slettes ofte bogstavet *m* (»dem«) i *yarqîdēm* (»og får dem til at springe«), og den skillende accent flyttes hen under »Libanon«, så sætningen lyder: »Og han får Libanon til at springe som en kalv«.",
-      "type": "E",
-      "verse": 6,
-      "position": 43
-    },
-    {
-      "text": "Dvs. Hermon.",
-      "type": "T",
-      "verse": 6,
-      "position": 61
     }
   ]
 }

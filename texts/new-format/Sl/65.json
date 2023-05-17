@@ -5,208 +5,180 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\fSalme af David. En sang.",
       "number": 1,
+      "text": "Til korlederen.\fSalme af David. En sang.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fLovprisning tilkommer dig,\fGud på Zion,\fog til dig indfrier man løfter.",
       "number": 2,
+      "text": "\fLovprisning tilkommer dig,\fGud på Zion,\fog til dig indfrier man løfter.",
+      "title": "Lovsangprisning for Guds tilgivelse og fællesskab",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »For dig er stilhed en lovprisning« eller: »For dig er der stilhed, lovprisning«. Da der i det følgende ikke er tale om stilhed, men hørlig lovprisning, følger man oftest Septuaginta og den gamle syriske oversættelse og retter vokaliseringen af *dumiyyāʰ* (»stilhed«) til *dōmiyyāʰ*: »det der tilkommer en«.",
+          "position": 27
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu som hører bøn,\ftil dig kan alle mennesker komme.",
       "number": 3,
+      "text": "\fDu som hører bøn,\ftil dig kan alle mennesker komme.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »alt kød«",
+          "position": 45
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fSyndernes byrde er blevet for tung for mig,\fvore overtrædelser, dem vil du tilgive!",
       "number": 4,
+      "text": "\fSyndernes byrde er blevet for tung for mig,\fvore overtrædelser, dem vil du tilgive!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »sag, anliggende«.",
+          "position": 16
+        },
+        {
+          "text": "E: Mange oversættere vælger at dele v.3-4 anderledes, så oversættelsen lyder: »Du hører bøn. / Til dig kan alle mennesker komme / for deres synders skyld. / Vore overtrædelser er blevet for tunge for os, / men du tilgiver dem«. Ordet »skyld« har dog ikke støtte i den hebraiske tekst. Andre foreslår: »Du som hører bøn. / Til dig bringer alle mennesker / deres synders byrde. / Vore overtrædelser …« (men *yāvōʔû* (»kan komme«) må da rettes til * yāvîʔû*: »bringer«).",
+          "position": 84
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fLykkelig er den som du udvælger og lader komme nær,\fså han må bo i dine forgårde.\fVi skal mættes med godhed i dit hus,\fdit hellige tempel.",
       "number": 5,
+      "text": "\fLykkelig er den som du udvælger og lader komme nær,\fså han må bo i dine forgårde.\fVi skal mættes med godhed i dit hus,\fdit hellige tempel.",
+      "footnotes": [
+        {
+          "text": "T: Tidligere oversat: »salig«.",
+          "position": 9
+        },
+        {
+          "text": "T: Ordret: »dit tempels helligdom«.",
+          "position": 139
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fMed frygtindgydende gerninger svarer du os i retfærdighed,\fvor frelses Gud,\fdu som er tilflugt for alle jordens ender\fog for det fjerneste hav.",
       "number": 6,
+      "text": "\fMed frygtindgydende gerninger svarer du os i retfærdighed,\fvor frelses Gud,\fdu som er tilflugt for alle jordens ender\fog for det fjerneste hav.",
+      "title": "Lovsang for Guds skabelse og omsorg",
+      "footnotes": [
+        {
+          "text": "E: *yām* (»hav«) står i singularis, mens *rᵊḥōqîm* (»fjerne«) står i pluralis, der formentlig betegner superlativ. Ellers kan der oversættes: »for de fjerne egnes hav«.",
+          "position": 144
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHan som grundfæster bjergene i sin kraft,\fvæbnet med styrke;",
       "number": 7,
+      "text": "\fHan som grundfæster bjergene i sin kraft,\fvæbnet med styrke;",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »omgjordet«.",
+          "position": 49
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fhan som stiller havenes brusen,\fderes bølgers brusen og folkenes larm.",
       "number": 8,
+      "text": "\fhan som stiller havenes brusen,\fderes bølgers brusen og folkenes larm.",
       "version": 1500242400000
     },
     {
-      "text": "\fSå de som bor ved verdens ender, skal frygte for dine tegn,\fdu får øst og vest til at juble.",
       "number": 9,
+      "text": "\fSå de som bor ved verdens ender, skal frygte for dine tegn,\fdu får øst og vest til at juble.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »de yderste«.",
+          "position": 33
+        },
+        {
+          "text": "T: Ordret: »morgenens og aftenens udgangssted«.",
+          "position": 79
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu har taget dig af landet og givet det overflod,\fdu gør det meget rigt;\fGuds bæk er fuld af vand,\fdu sørger for deres korn,\ffor sådan lægger du det til rette.",
       "number": 10,
+      "text": "\fDu har taget dig af landet og givet det overflod,\fdu gør det meget rigt;\fGuds bæk er fuld af vand,\fdu sørger for deres korn,\ffor sådan lægger du det til rette.",
+      "title": "Lovsang for frugtbarhed",
+      "footnotes": [
+        {
+          "text": "T: Andre oversætter: »givet regn«, men grundbetydningen er formodentlig: »lade strømme over«.",
+          "position": 50
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fIdet du vander dets plovfurer,\fjævner pløjejordens klumper,\fblødgør du jorden med regnskyl,\fdu velsigner dens afgrøde.",
       "number": 11,
+      "text": "\fIdet du vander dets plovfurer,\fjævner pløjejordens klumper,\fblødgør du jorden med regnskyl,\fdu velsigner dens afgrøde.",
+      "footnotes": [
+        {
+          "text": "T: Verberne i verset kan enten læses som infinitiv absolutus (denne oversættelse, ordret: »vandende«) eller som imperativ.",
+          "position": 15
+        },
+        {
+          "text": "E: Ordret blot: »den«, der viser tilbage til v.10, hvor *hāʔāreṣ* blev oversat: »landet«, men også kan betyde: »jorden«, om end det ikke specifikt er agerjorden.",
+          "position": 78
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu har kronet året med dine gode gaver,\fog dine spor skal drive af fedme.",
       "number": 12,
+      "text": "\fDu har kronet året med dine gode gaver,\fog dine spor skal drive af fedme.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Du har kronet din godheds år«.",
+          "position": 40
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fGræsgange i ørken skal dryppe,\fog højene skal klæde sig i jubel.",
       "number": 13,
+      "text": "\fGræsgange i ørken skal dryppe,\fog højene skal klæde sig i jubel.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »omgjorde sig«, jævnfør v.7.",
+          "position": 56
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fEngene er klædt med småkvæget,\fog dalene skal dække sig til med korn.\fDe skal juble, ja, synge.",
       "number": 14,
+      "text": "\fEngene er klædt med småkvæget,\fog dalene skal dække sig til med korn.\fDe skal juble, ja, synge.",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Lovsangprisning for Guds tilgivelse og fællesskab",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Lovsang for Guds skabelse og omsorg",
-      "verse": 6,
-      "version": 1500242400000
-    },
-    {
-      "text": "Lovsang for frugtbarhed",
-      "verse": 10,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Ordret: »For dig er stilhed en lovprisning« eller: »For dig er der stilhed, lovprisning«. Da der i det følgende ikke er tale om stilhed, men hørlig lovprisning, følger man oftest Septuaginta og den gamle syriske oversættelse og retter vokaliseringen af *dumiyyāʰ* (»stilhed«) til *dōmiyyāʰ*: »det der tilkommer en«.",
-      "type": "E",
-      "verse": 2,
-      "position": 27
-    },
-    {
-      "text": "Ordret: »alt kød«",
-      "type": "T",
-      "verse": 3,
-      "position": 45
-    },
-    {
-      "text": "Ordret: »sag, anliggende«.",
-      "type": "T",
-      "verse": 4,
-      "position": 16
-    },
-    {
-      "text": "Mange oversættere vælger at dele v.3-4 anderledes, så oversættelsen lyder: »Du hører bøn. / Til dig kan alle mennesker komme / for deres synders skyld. / Vore overtrædelser er blevet for tunge for os, / men du tilgiver dem«. Ordet »skyld« har dog ikke støtte i den hebraiske tekst. Andre foreslår: »Du som hører bøn. / Til dig bringer alle mennesker / deres synders byrde. / Vore overtrædelser …« (men *yāvōʔû* (»kan komme«) må da rettes til * yāvîʔû*: »bringer«).",
-      "type": "E",
-      "verse": 4,
-      "position": 84
-    },
-    {
-      "text": "Tidligere oversat: »salig«.",
-      "type": "T",
-      "verse": 5,
-      "position": 9
-    },
-    {
-      "text": "Ordret: »dit tempels helligdom«.",
-      "type": "T",
-      "verse": 5,
-      "position": 139
-    },
-    {
-      "text": "*yām* (»hav«) står i singularis, mens *rᵊḥōqîm* (»fjerne«) står i pluralis, der formentlig betegner superlativ. Ellers kan der oversættes: »for de fjerne egnes hav«.",
-      "type": "E",
-      "verse": 6,
-      "position": 144
-    },
-    {
-      "text": "Ordret: »omgjordet«.",
-      "type": "T",
-      "verse": 7,
-      "position": 49
-    },
-    {
-      "text": "Ordret: »de yderste«.",
-      "type": "T",
-      "verse": 9,
-      "position": 33
-    },
-    {
-      "text": "Ordret: »morgenens og aftenens udgangssted«.",
-      "type": "T",
-      "verse": 9,
-      "position": 79
-    },
-    {
-      "text": "Andre oversætter: »givet regn«, men grundbetydningen er formodentlig: »lade strømme over«.",
-      "type": "T",
-      "verse": 10,
-      "position": 50
-    },
-    {
-      "text": "Verberne i verset kan enten læses som infinitiv absolutus (denne oversættelse, ordret: »vandende«) eller som imperativ.",
-      "type": "T",
-      "verse": 11,
-      "position": 15
-    },
-    {
-      "text": "Ordret blot: »den«, der viser tilbage til v.10, hvor *hāʔāreṣ* blev oversat: »landet«, men også kan betyde: »jorden«, om end det ikke specifikt er agerjorden.",
-      "type": "E",
-      "verse": 11,
-      "position": 78
-    },
-    {
-      "text": "Ordret: »Du har kronet din godheds år«.",
-      "type": "T",
-      "verse": 12,
-      "position": 40
-    },
-    {
-      "text": "Ordret: »omgjorde sig«, jævnfør v.7.",
-      "type": "T",
-      "verse": 13,
-      "position": 56
     }
   ]
 }

@@ -3,13 +3,25 @@ import Head from 'next/head'
 
 import Checkbox from '@/components/main/Checkbox';
 import Select from '@/components/main/Select';
-import StandardSettings from '@/src/data/settings';
 
 const Reading = () => {
   const godNames = ["Herren", "HERREN", "Jahve", "JHVH"];
   const fonts = ["Helvetica", "Merriweather"];
 
-  const [settings, setSettings] = useState(StandardSettings ? StandardSettings : {});
+  const [settings, setSettings] = useState({
+    showVerseNumber: true,
+    showChapterInVerse: false,
+    showTitles: true,
+    showGeneralFootnotes: true,
+    showAcademicFootnotes: true,
+    showFootnotesAtBottom: true,
+    showContributors: true,
+    oneVersePerLine: false,
+    extraLineSpacing: false,
+    exegeticLayout: false,
+    godsName: "Herren",
+    font: "Helvetica"
+  });
 
   useEffect(() => {
     const data = localStorage.getItem("settings");

@@ -5,68 +5,65 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fDa Josefs brødre så at deres far var død, sagde de: »Hvis nu Josef hader os, så vil han helt sikkert gengælde os for alt det onde vi har gjort mod ham.«",
       "number": 15,
+      "text": "Da Josefs brødre så at deres far var død, sagde de: »Hvis nu Josef hader os, så vil han helt sikkert gengælde os for alt det onde vi har gjort mod ham.«",
       "version": 1634680800000
     },
     {
-      "text": "De sendte nogen hen for at sige til Josef: »Før din far døde, gav han denne befaling:",
       "number": 16,
+      "text": "De sendte nogen hen for at sige til Josef: »Før din far døde, gav han denne befaling:",
       "version": 1634680800000
     },
     {
-      "text": "›Dette skal I sige til Josef: Vi beder dig, tilgiv dog dine brødre deres overtrædelse og deres synd da de handlede ondt mod dig. Vi beder dig, tilgiv nu din fars Guds tjenere deres overtrædelse.‹« Josef græd over deres ord til ham.",
       "number": 17,
+      "text": "›Dette skal I sige til Josef: Vi beder dig, tilgiv dog dine brødre deres overtrædelse og deres synd da de handlede ondt mod dig. Vi beder dig, tilgiv nu din fars Guds tjenere deres overtrædelse.‹« Josef græd over deres ord til ham.",
       "version": 1634680800000
     },
     {
-      "text": "Hans brødre kom også selv hen og faldt ned foran ham og sagde: »Se, vi er dine tjenere!«",
       "number": 18,
+      "text": "Hans brødre kom også selv hen og faldt ned foran ham og sagde: »Se, vi er dine tjenere!«",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »trælle«, men grundteksten har samme ord som i vers 17.",
+          "position": 87
+        }
+      ],
       "version": 1634680800000
     },
     {
-      "text": "Men Josef sagde til dem: »Frygt ikke; for er jeg i Guds sted?",
       "number": 19,
+      "text": "Men Josef sagde til dem: »Frygt ikke; for er jeg i Guds sted?",
       "version": 1634680800000
     },
     {
-      "text": "I planlagde ondt mod mig; Gud planlagde det til det gode for at udføre hvad der er sket denne dag: at holde mange mennesker i live.",
       "number": 20,
+      "text": "I planlagde ondt mod mig; Gud planlagde det til det gode for at udføre hvad der er sket denne dag: at holde mange mennesker i live.",
       "version": 1634680800000
     },
     {
-      "text": "Så frygt nu ikke, jeg vil sørge for jer og jeres børn.« Så trøstede han dem og talte kærligt med dem.",
       "number": 21,
+      "text": "Så frygt nu ikke, jeg vil sørge for jer og jeres børn.« Så trøstede han dem og talte kærligt med dem.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »talte til deres hjerte«.",
+          "position": 101
+        }
+      ],
       "version": 1634680800000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »trælle«, men grundteksten har samme ord som i vers 17.",
-      "type": "T",
-      "verse": 18,
-      "position": 87
-    },
-    {
-      "text": "Ordret: »talte til deres hjerte«.",
-      "type": "T",
-      "verse": 21,
-      "position": 101
     }
   ]
 }

@@ -1,35 +1,78 @@
 {
-  "book": " Johannes’ Åbenbaring",
+  "book": "Johannes’ Åbenbaring",
   "abbreviation": "Åb",
   "chapter": 10,
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fJeg så en anden stærk engel stige ned fra himlen klædt i en sky, og regnbuen var over hans hoved, og hans ansigt var som solen og hans fødder som ildsøjler, v2 og i sin hånd havde han en lille, åben bogrulle. Han satte sin højre fod på havet og den venstre fod på jorden, v3 og han råbte med høj stemme, ligesom en løve brøler, og da han havde råbt, lod de syv tordener deres stemme lyde. v4 Da de syv tordener havde talt, ville jeg skrive, og jeg hørte en stemme fra himlen sige: »Forsegl det som de syv tordener sagde, og skriv det ikke.« v5 Englen som jeg så stå på havet og på jorden, løftede sin højre hånd mod himlen, v6 og han svor ved ham som lever i evighedernes evigheder, han som skabte himlen og det som er i den, og jorden og det som er på den, og havet og det som er i det: »Der vil ikke mere være nogen udsættelse, v7 men i de dage, når den syvende engels stemme lyder, når han blæser i basun, er Guds hemmelighed fuldendt som han har forkyndt for sine tjenere, profeterne.« v8 Den stemme som jeg havde hørt fra himlen, talte igen med mig og sagde: »Gå og tag den åbne bogrulle i den engels hånd som står på havet og på jorden.« v9 og jeg gik hen til englen og sagde til ham at han skulle give mig den lille bogrulle. Han sagde til mig: »Tag og slug den, og den vil gøre din mave bitter, og i din mund vil den være sød som honning.« v10 Jeg tog den lille bogrulle af englens hånd og slugte den, og i min mund var den som sød honning, og da jeg havde slugt den, blev min mave bitter. v11 Man siger til mig: »Du skal igen profetere om folk og nationer og sprog og mange konger.«",
       "number": 1,
+      "text": "\fJeg så en anden stærk engel stige ned fra himlen klædt i en sky, og regnbuen var over hans hoved, og hans ansigt var som solen og hans fødder som ildsøjler,",
+      "title": "Englen med den lille bogrulle",
       "version": 1648076400000
-    }
-  ],
-  "titles": [
+    },
     {
-      "text": "Englen med den lille bogrulle",
-      "verse": 1,
+      "number": 2,
+      "text": "og i sin hånd havde han en lille, åben bogrulle. Han satte sin højre fod på havet og den venstre fod på jorden,",
+      "version": 1648076400000
+    },
+    {
+      "number": 3,
+      "text": "og han råbte med høj stemme, ligesom en løve brøler, og da han havde råbt, lod de syv tordener deres stemme lyde.",
+      "version": 1648076400000
+    },
+    {
+      "number": 4,
+      "text": "Da de syv tordener havde talt, ville jeg skrive, og jeg hørte en stemme fra himlen sige: »Forsegl det som de syv tordener sagde, og skriv det ikke.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 5,
+      "text": "Englen som jeg så stå på havet og på jorden, løftede sin højre hånd mod himlen,",
+      "version": 1648076400000
+    },
+    {
+      "number": 6,
+      "text": "og han svor ved ham som lever i evighedernes evigheder, han som skabte himlen og det som er i den, og jorden og det som er på den, og havet og det som er i det: »Der vil ikke mere være nogen udsættelse,",
+      "version": 1648076400000
+    },
+    {
+      "number": 7,
+      "text": "men i de dage, når den syvende engels stemme lyder, når han blæser i basun, er Guds hemmelighed fuldendt som han har forkyndt for sine tjenere, profeterne.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 8,
+      "text": "Den stemme som jeg havde hørt fra himlen, talte igen med mig og sagde: »Gå og tag den åbne bogrulle i den engels hånd som står på havet og på jorden.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 9,
+      "text": "og jeg gik hen til englen og sagde til ham at han skulle give mig den lille bogrulle. Han sagde til mig: »Tag og slug den, og den vil gøre din mave bitter, og i din mund vil den være sød som honning.«",
+      "version": 1648076400000
+    },
+    {
+      "number": 10,
+      "text": "Jeg tog den lille bogrulle af englens hånd og slugte den, og i min mund var den som sød honning, og da jeg havde slugt den, blev min mave bitter.",
+      "version": 1648076400000
+    },
+    {
+      "number": 11,
+      "text": "Man siger til mig: »Du skal igen profetere om folk og nationer og sprog og mange konger.«",
       "version": 1648076400000
     }
-  ],
-  "footnotes": []
+  ]
 }

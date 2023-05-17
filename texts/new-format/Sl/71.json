@@ -5,263 +5,231 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fHos dig, JHVHv, har jeg søgt tilflugt,\flad mig aldrig blive gjort til skamme!",
       "number": 1,
+      "text": "Hos dig, JHVHv, har jeg søgt tilflugt,\flad mig aldrig blive gjort til skamme!",
+      "title": "Bøn om hjælp",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »må jeg ikke blive gjort til skamme i evighed«.",
+          "position": 77
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fRed mig ved din retfærdighed og befri mig,\fbøj dit øre til mig og frels mig!",
       "number": 2,
+      "text": "\fRed mig ved din retfærdighed og befri mig,\fbøj dit øre til mig og frels mig!",
       "version": 1537653600000
     },
     {
-      "text": "\fVær mig en klippe til bolig,\fsom du har befalet mig altid at gå hen til, for at frelse mig.\fJa, du er min klippe og min fæstning.",
       "number": 3,
+      "text": "\fVær mig en klippe til bolig,\fsom du har befalet mig altid at gå hen til, for at frelse mig.\fJa, du er min klippe og min fæstning.",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »boligs klippe«. De gamle oversættelser og en del håndskrifter har dog (som Sl 31,3): »tilflugtsklippe« (*māʕôz* i stedet for *māʕôn*.",
+          "position": 29
+        },
+        {
+          "text": "E: Septuaginta har læst (som Sl 31,3): *lᵊvêt mᵊṣûdôt*: »en befæstet borg/et befæstet hus« i stedet for: *lāvôʔ tāmîd ṣiwwîtā* (»som du har befalet mig altid at gå hen til«).",
+          "position": 92
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fMin Gud, befri mig fra en ugudeligs hånd,\ffra den uretfærdiges og undertrykkerens greb.",
       "number": 4,
+      "text": "\fMin Gud, befri mig fra en ugudeligs hånd,\ffra den uretfærdiges og undertrykkerens greb.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »af dens hule hånd, som handler uretfærdigt og undertrykker«.",
+          "position": 88
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fFor du er mit håb, Herre,\fJHVHv, du er min tillid fra min ungdom af!",
       "number": 5,
+      "text": "\fFor du er mit håb, Herre,\fJHVHv, du er min tillid fra min ungdom af!",
+      "title": "Erfaring af Guds omsorg",
       "version": 1537653600000
     },
     {
-      "text": "\fTil dig har jeg støttet mig fra moders liv,\ffra min moders skød har du taget mig;\fmin lovsang er altid om dig.",
       "number": 6,
+      "text": "\fTil dig har jeg støttet mig fra moders liv,\ffra min moders skød har du taget mig;\fmin lovsang er altid om dig.",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af verbet *gôzî* (»taget mig«) er usikker. Oftest afledes det af roden *gzh*, der ikke forekommer andre steder i GT. Det betyder formodentlig: »skære af/skære fra/tage fra«. Med støtte i Septuaginta rettes ofte til: *ʕôzî*: »mit værn« (»fra moders skød var du mit værn«).",
+          "position": 82
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fJeg har været som et under for mange,\fmen du er min stærke tilflugt.",
       "number": 7,
+      "text": "\fJeg har været som et under for mange,\fmen du er min stærke tilflugt.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »min tilflugt i styrke«.",
+          "position": 69
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fMin mund skal fyldes med din lovsang,\fhele dagen med din pris.",
       "number": 8,
+      "text": "\fMin mund skal fyldes med din lovsang,\fhele dagen med din pris.",
       "version": 1537653600000
     },
     {
-      "text": "\fForkast mig ikke i alderdommens tid,\fforlad mig ikke, når min kraft forlader mig!",
       "number": 9,
+      "text": "\fForkast mig ikke i alderdommens tid,\fforlad mig ikke, når min kraft forlader mig!",
+      "title": "Bøn og klage",
       "version": 1537653600000
     },
     {
-      "text": "\fFor mine fjender talte om mig,\fog de som lurede på mit liv, rådførte sig med hinanden,",
       "number": 10,
+      "text": "\fFor mine fjender talte om mig,\fog de som lurede på mit liv, rådførte sig med hinanden,",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »overvågede«, men i sammenhængen i ond hensigt.",
+          "position": 48
+        },
+        {
+          "text": "T: Ordret: »min sjæl«.",
+          "position": 60
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fidet de sagde: »Gud har forladt ham,\fforfølg og grib ham,\ffor der er ingen, som redder.«",
       "number": 11,
+      "text": "\fidet de sagde: »Gud har forladt ham,\fforfølg og grib ham,\ffor der er ingen, som redder.«",
       "version": 1537653600000
     },
     {
-      "text": "\fGud, vær ikke langt fra mig,\fmin Gud, skynd dig at komme mig til hjælp!",
       "number": 12,
+      "text": "\fGud, vær ikke langt fra mig,\fmin Gud, skynd dig at komme mig til hjælp!",
       "version": 1537653600000
     },
     {
-      "text": "\fDe skal blive til skamme, gå til grunde,\fde som forfølger mit liv;\flad dem som søger min ulykke, klæde sig i hån og skændsel.",
       "number": 13,
+      "text": "\fDe skal blive til skamme, gå til grunde,\fde som forfølger mit liv;\flad dem som søger min ulykke, klæde sig i hån og skændsel.",
+      "footnotes": [
+        {
+          "text": "E: Mange vælger at rette: *yixlû* (»skal gå til grunde«) til: *yikkālᵊmû*: »skal blive til skændsel«.",
+          "position": 41
+        },
+        {
+          "text": "T: Ordret: «min sjæl«",
+          "position": 67
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fMen jeg vil altid vente,\fog al din pris vil jeg mangfoldiggøre.",
       "number": 14,
+      "text": "\fMen jeg vil altid vente,\fog al din pris vil jeg mangfoldiggøre.",
+      "title": "Håb til Gud",
       "version": 1537653600000
     },
     {
-      "text": "\fMin mund skal fortælle om din retfærdighed,\fhele dagen om din frelse,\ffor jeg ved ikke tal derpå.",
       "number": 15,
+      "text": "\fMin mund skal fortælle om din retfærdighed,\fhele dagen om din frelse,\ffor jeg ved ikke tal derpå.",
+      "footnotes": [
+        {
+          "text": "E: Ordet *sᵊfōrôt* (»tal«) forekommer kun her i GT, og der er usikkerhed om betydningen. Septuaginta har forstået det som »skrifter« eller »sager«, mens andre gamle oversættelser har forstået det som »antal«. Roden *spr* betyder: »tælle/skrive«, så »tal« eller »antal« synes at være den bedste oversættelse.",
+          "position": 91
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fJeg vil komme frem med Herrens, JHVHs, vældige gerninger,\fjeg vil prisende omtale din retfærdighed, din alene.",
       "number": 16,
+      "text": "\fJeg vil komme frem med Herrens, JHVHs, vældige gerninger,\fjeg vil prisende omtale din retfærdighed, din alene.",
       "version": 1537653600000
     },
     {
-      "text": "\fGud, du har undervist mig fra min ungdom af,\fog indtil nu beretter jeg om dine undere.",
       "number": 17,
+      "text": "\fGud, du har undervist mig fra min ungdom af,\fog indtil nu beretter jeg om dine undere.",
       "version": 1537653600000
     },
     {
-      "text": "\fHelt indtil alderdommen og de grå hår,\fGud, må du ikke forlade mig,\fså jeg kan berette om din arm til slægten,\fom din vælde til enhver som kommer.",
       "number": 18,
+      "text": "\fHelt indtil alderdommen og de grå hår,\fGud, må du ikke forlade mig,\fså jeg kan berette om din arm til slægten,\fom din vælde til enhver som kommer.",
+      "footnotes": [
+        {
+          "text": "E: I stedet for: *lᵊdôr lᵊxol-yāvôʔ* (»til slægten, til enhver som kommer«) læser man ofte med Septuaginta: *lᵊxol-dôr yāvôʔ*: »til enhver slægt som kommer«. Den foregående linje bliver derved lidt kortere, og man trækker ordene »din vælde« over i v.19.",
+          "position": 147
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fOg din retfærdighed, Gud, når til det høje;\fdu som har gjort store ting,\fGud, hvem er som du?",
       "number": 19,
+      "text": "\fOg din retfærdighed, Gud, når til det høje;\fdu som har gjort store ting,\fGud, hvem er som du?",
       "version": 1537653600000
     },
     {
-      "text": "\fDu som har ladet os se mange trængsler og ulykker,\fdu vil gøre os levende igen\fog hente mig op igen fra jordens dybder.",
       "number": 20,
+      "text": "\fDu som har ladet os se mange trængsler og ulykker,\fdu vil gøre os levende igen\fog hente mig op igen fra jordens dybder.",
+      "footnotes": [
+        {
+          "text": "T: Konsonantteksten har pluralis (»os«) her og i næste linje, mens vokalerne angiver singularis (»mig«).",
+          "position": 20
+        },
+        {
+          "text": "E: Grundteksten har »jordens havdybder«. Som regel retter man *tᵊhōmôt* (»havdybder«, i singularis betegner det »urdybet«) til *taḥᵊttîyyôt*: »dybder« - eller man går ud fra at det må være meningen med *tᵊhōmôt*.",
+          "position": 120
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fStyrk min storhed\fog trøst mig igen!",
       "number": 21,
+      "text": "\fStyrk min storhed\fog trøst mig igen!",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes: »vend om, trøst mig!«",
+          "position": 37
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fDa vil også jeg takke dig med harpespil\ffor din trofasthed, min Gud!\fJeg vil lovsynge dig med citer,\fdu Israels Hellige!",
       "number": 22,
+      "text": "\fDa vil også jeg takke dig med harpespil\ffor din trofasthed, min Gud!\fJeg vil lovsynge dig med citer,\fdu Israels Hellige!",
+      "title": "Løfte om lovsang",
+      "footnotes": [
+        {
+          "text": "T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
+          "position": 60
+        }
+      ],
       "version": 1537653600000
     },
     {
-      "text": "\fMine læber skal juble når jeg lovsynger dig,\fja, min sjæl, som du har udfriet.",
       "number": 23,
+      "text": "\fMine læber skal juble når jeg lovsynger dig,\fja, min sjæl, som du har udfriet.",
       "version": 1537653600000
     },
     {
-      "text": "\fOg min tunge skal hele dagen\ftale om din retfærdighed;\ffor de er blevet til skamme, ja, de er blevet ydmyget,\fde som stræbte efter min ulykke.",
       "number": 24,
+      "text": "\fOg min tunge skal hele dagen\ftale om din retfærdighed;\ffor de er blevet til skamme, ja, de er blevet ydmyget,\fde som stræbte efter min ulykke.",
       "version": 1537653600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Bøn om hjælp",
-      "verse": 1,
-      "version": 1537653600000
-    },
-    {
-      "text": "Erfaring af Guds omsorg",
-      "verse": 5,
-      "version": 1537653600000
-    },
-    {
-      "text": "Bøn og klage",
-      "verse": 9,
-      "version": 1537653600000
-    },
-    {
-      "text": "Håb til Gud",
-      "verse": 14,
-      "version": 1537653600000
-    },
-    {
-      "text": "Løfte om lovsang",
-      "verse": 22,
-      "version": 1537653600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »må jeg ikke blive gjort til skamme i evighed«.",
-      "type": "T",
-      "verse": 1,
-      "position": 78
-    },
-    {
-      "text": "Ordret: »boligs klippe«. De gamle oversættelser og en del håndskrifter har dog (som Sl 31,3): »tilflugtsklippe« (*māʕôz* i stedet for *māʕôn*.",
-      "type": "E",
-      "verse": 3,
-      "position": 29
-    },
-    {
-      "text": "Septuaginta har læst (som Sl 31,3): *lᵊvêt mᵊṣûdôt*: »en befæstet borg/et befæstet hus« i stedet for: *lāvôʔ tāmîd ṣiwwîtā* (»som du har befalet mig altid at gå hen til«).",
-      "type": "E",
-      "verse": 3,
-      "position": 92
-    },
-    {
-      "text": "Ordret: »af dens hule hånd, som handler uretfærdigt og undertrykker«.",
-      "type": "T",
-      "verse": 4,
-      "position": 88
-    },
-    {
-      "text": "Betydningen af verbet *gôzî* (»taget mig«) er usikker. Oftest afledes det af roden *gzh*, der ikke forekommer andre steder i GT. Det betyder formodentlig: »skære af/skære fra/tage fra«. Med støtte i Septuaginta rettes ofte til: *ʕôzî*: »mit værn« (»fra moders skød var du mit værn«).",
-      "type": "E",
-      "verse": 6,
-      "position": 82
-    },
-    {
-      "text": "Ordret: »min tilflugt i styrke«.",
-      "type": "T",
-      "verse": 7,
-      "position": 69
-    },
-    {
-      "text": "Ordret: »overvågede«, men i sammenhængen i ond hensigt.",
-      "type": "T",
-      "verse": 10,
-      "position": 48
-    },
-    {
-      "text": "Ordret: »min sjæl«.",
-      "type": "T",
-      "verse": 10,
-      "position": 60
-    },
-    {
-      "text": "Mange vælger at rette: *yixlû* (»skal gå til grunde«) til: *yikkālᵊmû*: »skal blive til skændsel«.",
-      "type": "E",
-      "verse": 13,
-      "position": 41
-    },
-    {
-      "text": "Ordret: «min sjæl«",
-      "type": "T",
-      "verse": 13,
-      "position": 67
-    },
-    {
-      "text": "Ordet *sᵊfōrôt* (»tal«) forekommer kun her i GT, og der er usikkerhed om betydningen. Septuaginta har forstået det som »skrifter« eller »sager«, mens andre gamle oversættelser har forstået det som »antal«. Roden *spr* betyder: »tælle/skrive«, så »tal« eller »antal« synes at være den bedste oversættelse.",
-      "type": "E",
-      "verse": 15,
-      "position": 91
-    },
-    {
-      "text": "I stedet for: *lᵊdôr lᵊxol-yāvôʔ* (»til slægten, til enhver som kommer«) læser man ofte med Septuaginta: *lᵊxol-dôr yāvôʔ*: »til enhver slægt som kommer«. Den foregående linje bliver derved lidt kortere, og man trækker ordene »din vælde« over i v.19.",
-      "type": "E",
-      "verse": 18,
-      "position": 147
-    },
-    {
-      "text": "Konsonantteksten har pluralis (»os«) her og i næste linje, mens vokalerne angiver singularis (»mig«).",
-      "type": "T",
-      "verse": 20,
-      "position": 20
-    },
-    {
-      "text": "Grundteksten har »jordens havdybder«. Som regel retter man *tᵊhōmôt* (»havdybder«, i singularis betegner det »urdybet«) til *taḥᵊttîyyôt*: »dybder« - eller man går ud fra at det må være meningen med *tᵊhōmôt*.",
-      "type": "E",
-      "verse": 20,
-      "position": 120
-    },
-    {
-      "text": "Kan også oversættes: »vend om, trøst mig!«",
-      "type": "E",
-      "verse": 21,
-      "position": 37
-    },
-    {
-      "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
-      "type": "T",
-      "verse": 22,
-      "position": 60
     }
   ]
 }

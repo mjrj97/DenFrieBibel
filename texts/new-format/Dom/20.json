@@ -5,129 +5,264 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen, Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen, Christian Højgaard"
     }
   ],
   "verses": [
     {
-      "text": "\fDa drog alle israelitterne ud, lige fra Dan til Be'ersheba og Gileads land, så menigheden kunnesamles alle som én hos JHVH i Mispa. v2 Lederne for hele folket, alle Israels stammer, stillede sigfrem for Guds folks forsamling: 400.000 bevæbnede fodfolk.",
       "number": 1,
+      "text": "\fDa drog alle israelitterne ud, lige fra Dan til Be'ersheba og Gileads land, så menigheden kunne samles alle som én hos JHVH i Mispa.",
+      "title": "Israel samles i Mispa og rådslår over den onde gerning som mændene i Gibea har udført",
       "version": 1457564400000
     },
     {
-      "text": "\fOg benjaminitterne hørte at israelitterne var draget op til Mispa.\fIsraelitterne sagde: »Fortæl os: Hvordan er denne onde handling sket?«",
+      "number": 2,
+      "text": "Lederne for hele folket, alle Israels stammer, stillede sig frem for Guds folks forsamling: 400.000 bevæbnede fodfolk.",
+      "version": 1457564400000
+    },
+    {
       "number": 3,
+      "text": "\fOg benjaminitterne hørte at israelitterne var draget op til Mispa. \fIsraelitterne sagde: »Fortæl os: Hvordan er denne onde handling sket?«",
       "version": 1457564400000
     },
     {
-      "text": "\fLevitten, ham der havde været gift med den kvinde der var blevet myrdet, svarede da: »Jeg og minmedhustru kom til Gibea, som hører til Benjamins stamme, for at overnatte der. v5 Om natten gikmændene i Gibea sammen imod mig og omringede huset. De havde tænkt sig at slå mig ihjel, og demishandlede min medhustru så slemt at hun er død. v6 Da tog jeg min medhustru og skar hende op ogsendte hendes lemmer ud til alle Israels arvelodder; for det er en skændselsgerning de her harudført i Israel. v7 Alle I israelitter, tal nu om det og træf en beslutning!«\fden skændige handling, hvilket de ikke vil, men samler sig i stedet til krig==",
       "number": 4,
+      "text": "\fLevitten, ham der havde været gift med den kvinde der var blevet myrdet, svarede da: »Jeg og min medhustru kom til Gibea, som hører til Benjamins stamme, for at overnatte der.",
       "version": 1457564400000
     },
     {
-      "text": "\fDa gjorde hele folket sig rede og sagde: »Ingen skal gå til sit telt, og ingen skal gå hjemherfra. v9 Men dette vil vi gøre mod Gibea: Vi vil drage mod byen efter at have kastet lod. v10 Vitager 10 mand for hver 100 af alle Israels stammer, og 100 af hver 1000, 1000 af hver 10.000, deskal hente forsyninger til folket så de kan tage til Gibea i Benjamin for at gengælde byen denskændselsgerning den har udført i Israel.«",
+      "number": 5,
+      "text": "Om natten gik mændene i Gibea sammen imod mig og omringede huset. De havde tænkt sig at slå mig ihjel, og de mishandlede min medhustru så slemt at hun er død.",
+      "version": 1457564400000
+    },
+    {
+      "number": 6,
+      "text": "Da tog jeg min medhustru og skar hende op og sendte hendes lemmer ud til alle Israels arvelodder; for det er en skændselsgerning de her har udført i Israel.",
+      "version": 1457564400000
+    },
+    {
+      "number": 7,
+      "text": "Alle I israelitter, tal nu om det og træf en beslutning!«",
+      "version": 1457564400000
+    },
+    {
       "number": 8,
+      "text": "\fDa gjorde hele folket sig rede og sagde: »Ingen skal gå til sit telt, og ingen skal gå hjem herfra.",
+      "title": "Israel ruster sig mod Benjamin, men anmoder dog først om at få udleveret de mænd som har begået den skændige handling, hvilket de ikke vil, men samler sig i stedet til krig",
       "version": 1457564400000
     },
     {
-      "text": "\fSå samlede alle Israels mænd sig og drog mod byen i samlet flok. v12 Israels stammer sendte mændtil alle Benjamins slægter og lod sige: »Hvad er det for en ondskab der er begået iblandt jer? v13Udlever nu de ondsindede mænd i Gibea, så vi kan henrette dem og fjerne det onde fra Israel.«\fMen benjaminitterne ville ikke høre på deres brødre, israelitterne. v14 Benjaminitterne blev hentetfra byerne til Gibea for at drage i krig mod israelitterne. v15 Den dag blev benjaminitterne frabyerne talt. Der var 26.000 bevæbnede mænd foruden indbyggerne i Gibea som blev optalt til 700udvalgte mænd. v16 Iblandt alle disse folk var der 700 udvalgte mænd som var venstrehåndede. Hver afdem kunne med deres stenslynge kaste og ramme plet hver gang. v17 Men mændene af Israel, ud over demaf Benjamins stamme, blev talt til 400.000 sværdførende mænd. De var alle krigere.\fslået==",
+      "number": 9,
+      "text": "Men dette vil vi gøre mod Gibea: Vi vil drage mod byen efter at have kastet lod.",
+      "version": 1457564400000
+    },
+    {
+      "number": 10,
+      "text": "Vi tager 10 mand for hver 100 af alle Israels stammer, og 100 af hver 1000, 1000 af hver 10.000, de skal hente forsyninger til folket så de kan tage til Gibea i Benjamin for at gengælde byen den skændselsgerning den har udført i Israel.«",
+      "version": 1457564400000
+    },
+    {
       "number": 11,
+      "text": "\fSå samlede alle Israels mænd sig og drog mod byen i samlet flok.",
       "version": 1457564400000
     },
     {
-      "text": "\fSå gjorde de sig klar og drog op til Guds hus med et spørgsmål til Gud. Israelitternesagde: »Hvem skal drage op for os for at begynde krigen mod benjaminitterne?«\fOg JHVH svarede: »Juda skal begynde.«",
+      "number": 12,
+      "text": "Israels stammer sendte mænd til alle Benjamins slægter og lod sige: »Hvad er det for en ondskab der er begået iblandt jer?",
+      "version": 1457564400000
+    },
+    {
+      "number": 13,
+      "text": "nu de ondsindede mænd i Gibea, så vi kan henrette dem og fjerne det onde fra Israel.«\fMen benjaminitterne ville ikke høre på deres brødre, israelitterne.",
+      "version": 1457564400000
+    },
+    {
+      "number": 14,
+      "text": "Benjaminitterne blev hentet fra byerne til Gibea for at drage i krig mod israelitterne.",
+      "version": 1457564400000
+    },
+    {
+      "number": 15,
+      "text": "Den dag blev benjaminitterne fra byerne talt. Der var 26.000 bevæbnede mænd foruden indbyggerne i Gibea som blev optalt til 700 udvalgte mænd.",
+      "version": 1457564400000
+    },
+    {
+      "number": 16,
+      "text": "Iblandt alle disse folk var der 700 udvalgte mænd som var venstrehåndede. Hver af dem kunne med deres stenslynge kaste og ramme plet hver gang.",
+      "version": 1457564400000
+    },
+    {
+      "number": 17,
+      "text": "Men mændene af Israel, ud over dem af Benjamins stamme, blev talt til 400.000 sværdførende mænd. De var alle krigere.",
+      "version": 1457564400000
+    },
+    {
       "number": 18,
+      "text": "\fSå gjorde de sig klar og drog op til Guds hus med et spørgsmål til Gud. Israelitterne sagde: »Hvem skal drage op for os for at begynde krigen mod benjaminitterne?«\fOg JHVH svarede: »Juda skal begynde.«",
+      "title": "Efter at have spurgt JHVH til råds drager de andre israelitter to gange mod Benjamin og bliver slået",
+      "footnotes": [
+        {
+          "text": "E: Næsten alle moderne oversættelser gengiver *vêt-ʔēl* med »Betel«; hvis forslaget i 1871 følges, kan israelitterne uden videre være taget op til Shilo, hvor telthelligdommen befinder sig (jf. Jos 18).",
+          "position": 46
+        }
+      ],
       "version": 1457564400000
     },
     {
-      "text": "\fSå gjorde israelitterne sig rede om morgenen, og de slog lejr tæt ved Gibea. v20 Enhver mand afIsrael gik i krig mod benjaminitterne, og enhver mand af Israel gik i stilling for at føre krig modGibea. v21 Da gjorde benjaminitterne udfald fra Gibea, og samme dag slog de 22.000 af Israels mændtil jorden. v22 Men Israels mænd mandede sig op og stillede sig atter op til slag det samme sted somde var gået i stilling den første dag.",
       "number": 19,
+      "text": "\fSå gjorde israelitterne sig rede om morgenen, og de slog lejr tæt ved Gibea.",
       "version": 1457564400000
     },
     {
-      "text": "\fIsraelitterne drog hen og græd for JHVHs ansigt indtil aften, og de spurgte JHVH til råds:»Skal vi blive ved med at drage i krig mod vore brødre benjaminitterne?«\fJHVH sagde: »Drag op imod dem!«",
+      "number": 20,
+      "text": "Enhver mand af Israel gik i krig mod benjaminitterne, og enhver mand af Israel gik i stilling for at føre krig mod Gibea.",
+      "version": 1457564400000
+    },
+    {
+      "number": 21,
+      "text": "Da gjorde benjaminitterne udfald fra Gibea, og samme dag slog de 22.000 af Israels mænd til jorden.",
+      "version": 1457564400000
+    },
+    {
+      "number": 22,
+      "text": "Men Israels mænd mandede sig op og stillede sig atter op til slag det samme sted som de var gået i stilling den første dag.",
+      "version": 1457564400000
+    },
+    {
       "number": 23,
+      "text": "\fIsraelitterne drog hen og græd for JHVHs ansigt indtil aften, og de spurgte JHVH til råds: »Skal vi blive ved med at drage i krig mod vore brødre benjaminitterne?«\fJHVH sagde: »Drag op imod dem!«",
       "version": 1457564400000
     },
     {
-      "text": "\fIsraelitterne nærmede sig benjaminitterne på den anden dag. v25 Benjaminitterne gjorde udfaldfra Gibea mod dem på den anden dag, og de slog endnu 18.000 af israelitterne til jorden. Alle dissevar bevæbnede mænd.\fstammen, undtagen 600 mand==",
       "number": 24,
+      "text": "\fIsraelitterne nærmede sig benjaminitterne på den anden dag.",
       "version": 1457564400000
     },
     {
-      "text": "\fDa drog alle israelitterne op, ja, hele folket, og kom til Guds hus og græd og blev dér forJHVHs ansigt. De fastede hele dagen indtil aften, og de ofrede brændofre og takofre for JHVHsansigt. v27 Israelitterne rådspurgte JHVH. På den tid var Guds pagts ark dér.\fv28 Pinehas, en søn af Arons søn Eleasar, stod på den tid for hans ansigt og sagde: »Skal jegblive ved med at drage i krig mod mine brødre benjaminitterne, eller skal jeg holde op?«\fJHVH svarede: »Drag op, for i morgen vil jeg give ham i din magt.«",
+      "number": 25,
+      "text": "Benjaminitterne gjorde udfald fra Gibea mod dem på den anden dag, og de slog endnu 18.000 af israelitterne til jorden. Alle disse var bevæbnede mænd.",
+      "version": 1457564400000
+    },
+    {
       "number": 26,
+      "text": "\fDa drog alle israelitterne op, ja, hele folket, og kom til Guds hus og græd og blev dér for JHVHs ansigt. De fastede hele dagen indtil aften, og de ofrede brændofre og takofre for JHVHs ansigt.",
+      "title": "Israelitterne ydmyger sig for JHVH som lover dem sejr; de slår benjaminitterne og udrydder hele stammen, undtagen 600 mand",
       "version": 1457564400000
     },
     {
-      "text": "\fIsrael lagde nu en deling i baghold ved Gibea, v30 og resten af israelitterne drog op modbenjaminitterne på den tredje dag, og de gik i stilling ved Gibea som de havde gjort to gange før.",
+      "number": 27,
+      "text": "Israelitterne rådspurgte JHVH. På den tid var Guds pagts ark dér.",
+      "version": 1457564400000
+    },
+    {
+      "number": 28,
+      "text": "\fPinehas, en søn af Arons søn Eleasar, stod på den tid for hans ansigt og sagde: »Skal jeg blive ved med at drage i krig mod mine brødre benjaminitterne, eller skal jeg holde op?«\fJHVH svarede: »Drag op, for i morgen vil jeg give ham i din magt.«",
+      "version": 1457564400000
+    },
+    {
       "number": 29,
+      "text": "\fIsrael lagde nu en deling i baghold ved Gibea,",
       "version": 1457564400000
     },
     {
-      "text": "Da gjorde benjaminitterne udfald mod folket, de rykkede ud fra byen, og ligesom de to tidligeregange begyndte de at slå nogle af folket ned på åbent land langs vejene, hvoraf en løber op tilBetel og en til Gibea, omkring tredive israelitter.",
+      "number": 30,
+      "text": "og resten af israelitterne drog op mod benjaminitterne på den tredje dag, og de gik i stilling ved Gibea som de havde gjort to gange før.",
+      "version": 1457564400000
+    },
+    {
       "number": 31,
+      "text": "Da gjorde benjaminitterne udfald mod folket, de rykkede ud fra byen, og ligesom de to tidligere gange begyndte de at slå nogle af folket ned på åbent land langs vejene, hvoraf en løber op til Betel og en til Gibea, omkring tredive israelitter.",
       "version": 1457564400000
     },
     {
-      "text": "\fDa sagde benjaminitterne: »Vi har besejret dem ligesom de første gange.«\fMen israelitterne sagde: »Lad os flygte, så vi kan lokke dem væk fra byen ud på vejene.« v33 Dagjorde alle israelitterne sig klar og gik i stilling i Ba'al-Tamar. Israelitterne fra bagholdet komud fra deres skjul ved Ma're-Geba. v34 Samtidig drog 10.000 mand, der var udvalgt blandt heleIsraels folk, ud mod Gibea, og kampen blev hård. Byen vidste ikke at ulykken skulle ramme den. v35Så slog JHVH benjaminitterne for Israels ansigt, og den dag dræbte israelitterne 25.100 mænd afBenjamins stamme; de var alle var bevæbnede. v36 Benjaminitterne indså nu at de var slået.\fIsraelitterne havde givet benjaminitterne plads fordi de stolede på det baghold de havde lagt vedGibea. v37 Mændene fra bagholdet skyndte sig frem og overfaldt Gibea. De drog ind og stak hele byenned med sværdet.",
       "number": 32,
+      "text": "\fDa sagde benjaminitterne: »Vi har besejret dem ligesom de første gange.« \fMen israelitterne sagde: »Lad os flygte, så vi kan lokke dem væk fra byen ud på vejene.«",
       "version": 1457564400000
     },
     {
-      "text": "\fIsraelitterne havde aftalt med mændene fra bagholdet at de skulle lade en høj røgsky stige opfra byen, v39 og nu vendte israelitterne om. Benjaminitterne var begyndt at slå israelitterne ned,omkring 30 mand, for de sagde: »De er sandelig besejret for vores ansigt, ligesom i det førsteslag.«",
+      "number": 33,
+      "text": "Da gjorde alle israelitterne sig klar og gik i stilling i Ba'al-Tamar. Israelitterne fra bagholdet kom ud fra deres skjul ved Ma're-Geba.",
+      "version": 1457564400000
+    },
+    {
+      "number": 34,
+      "text": "Samtidig drog 10.000 mand, der var udvalgt blandt hele Israels folk, ud mod Gibea, og kampen blev hård. Byen vidste ikke at ulykken skulle ramme den.",
+      "version": 1457564400000
+    },
+    {
+      "number": 35,
+      "text": "slog JHVH benjaminitterne for Israels ansigt, og den dag dræbte israelitterne 25.100 mænd af Benjamins stamme; de var alle var bevæbnede.",
+      "version": 1457564400000
+    },
+    {
+      "number": 36,
+      "text": "Benjaminitterne indså nu at de var slået.\fIsraelitterne havde givet benjaminitterne plads fordi de stolede på det baghold de havde lagt ved Gibea.",
+      "version": 1457564400000
+    },
+    {
+      "number": 37,
+      "text": "Mændene fra bagholdet skyndte sig frem og overfaldt Gibea. De drog ind og stak hele byen ned med sværdet.",
+      "version": 1457564400000
+    },
+    {
       "number": 38,
+      "text": "\fIsraelitterne havde aftalt med mændene fra bagholdet at de skulle lade en høj røgsky stige op fra byen,",
       "version": 1457564400000
     },
     {
-      "text": "\fDa begyndte en høj røgsøjle at stige op fra byen, og benjaminitterne så bagud og opdagede at røgsteg op mod himlen fra hele byen. v41 Israelitterne vendte om, og benjaminitterne var forfærdede,for de indså at ulykken ville ramme dem. v42 De flygtede for israelitterne ad vejen til ørkenen, mendet lykkedes dem ikke at undslippe kampen, og midt imellem dem huggede mændene fra byerne dem ned.",
+      "number": 39,
+      "text": "og nu vendte israelitterne om. Benjaminitterne var begyndt at slå israelitterne ned, omkring 30 mand, for de sagde: »De er sandelig besejret for vores ansigt, ligesom i det første slag.«",
+      "version": 1457564400000
+    },
+    {
       "number": 40,
+      "text": "\fDa begyndte en høj røgsøjle at stige op fra byen, og benjaminitterne så bagud og opdagede at røg steg op mod himlen fra hele byen.",
       "version": 1457564400000
     },
     {
-      "text": "De omringede benjamitterne og forfulgte dem. Hvor de var faldet, trådte de dem under fode indtilde var øst for Gibea.",
+      "number": 41,
+      "text": "Israelitterne vendte om, og benjaminitterne var forfærdede, for de indså at ulykken ville ramme dem.",
+      "version": 1457564400000
+    },
+    {
+      "number": 42,
+      "text": "De flygtede for israelitterne ad vejen til ørkenen, men det lykkedes dem ikke at undslippe kampen, og midt imellem dem huggede mændene fra byerne dem ned.",
+      "version": 1457564400000
+    },
+    {
       "number": 43,
+      "text": "De omringede benjamitterne og forfulgte dem. Hvor de var faldet, trådte de dem under fode indtil de var øst for Gibea.",
       "version": 1457564400000
     },
     {
-      "text": "\fDer faldt 18.000 benjaminitter; de var alle krigere. v45 Da de vendte om og flygtede mod ørkenentil Rimmons klippe, slog israelitterne 5000 mand ude på vejene og forfulgte dem indtil Gideom, og deslog 2000 af dem. v46 Den dag faldt der 25.000 bevæbnede mænd af Benjamins stamme. De var allekrigere. v47 600 mænd vendte om og flygtede mod ørkenen til Rimmons klippe, og de blev på Rimmonsklippe i fire måneder. v48 Israelitterne vendte tilbage til benjaminitterne og slog dem ned medsværdet, både folket fra byerne og kvæget, ja, alt hvad der fandtes, og alle de byer der var, sattede ild på.",
       "number": 44,
-      "version": 1457564400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Israel samles i Mispa og rådslår over den onde gerning som mændene i Gibea har udført",
-      "verse": 1,
+      "text": "\fDer faldt 18.000 benjaminitter; de var alle krigere.",
       "version": 1457564400000
     },
     {
-      "text": "Israel ruster sig mod Benjamin, men anmoder dog først om at få udleveret de mænd som har begå",
-      "verse": 5,
+      "number": 45,
+      "text": "Da de vendte om og flygtede mod ørkenen til Rimmons klippe, slog israelitterne 5000 mand ude på vejene og forfulgte dem indtil Gideom, og de slog 2000 af dem.",
       "version": 1457564400000
     },
     {
-      "text": "Efter at have spurgt JHVH til råds drager de andre israelitter to gange mod Benjamin og bliv",
-      "verse": 12,
+      "number": 46,
+      "text": "Den dag faldt der 25.000 bevæbnede mænd af Benjamins stamme. De var alle krigere.",
       "version": 1457564400000
     },
     {
-      "text": "Israelitterne ydmyger sig for JHVH som lover dem sejr; de slår benjaminitterne og udrydder he",
-      "verse": 25,
+      "number": 47,
+      "text": "600 mænd vendte om og flygtede mod ørkenen til Rimmons klippe, og de blev på Rimmons klippe i fire måneder.",
       "version": 1457564400000
-    }
-  ],
-  "footnotes": [
+    },
     {
-      "text": "Næsten alle moderne oversættelser gengiver*vêt-ʔēl* med »Betel«; hvis forslaget i 1871 følges, kan israelitterne uden videre være taget optil Shilo, hvor telthelligdommen befinder sig (jf. Jos 18).",
-      "type": "E",
-      "verse": 18,
-      "position": 46
+      "number": 48,
+      "text": "Israelitterne vendte tilbage til benjaminitterne og slog dem ned med sværdet, både folket fra byerne og kvæget, ja, alt hvad der fandtes, og alle de byer der var, satte de ild på.",
+      "version": 1457564400000
     }
   ]
 }

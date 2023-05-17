@@ -5,174 +5,148 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Til Jedutun.\fSalme af David.",
       "number": 1,
+      "text": "Til korlederen. Til Jedutun.\fSalme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Jedutun var efter Davids bestemmelse sammen med Asaf og Heman overhoved for og stamfader til tempelsangerne (1 Krøn 25,1-3; 2 Krøn 5,12; 35,15). Han er formentlig den samme som Etan (1 Krøn 15,19). Overskriften her betyder formodentlig at salmen skal synges af Jedutun og hans tempelsangere.",
+          "position": 28
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fKun for Gud er min sjæl stille,\ffra ham kommer min frelse.",
       "number": 2,
+      "text": "\fKun for Gud er min sjæl stille,\ffra ham kommer min frelse.",
+      "title": "Tillid til Gud trods fjendernes anslag",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Kun til Gud stilhed min sjæl«.",
+          "position": 32
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fKun han er min klippe og min frelse,\fmin fæstning; jeg skal ikke rokkes meget.",
       "number": 3,
+      "text": "\fKun han er min klippe og min frelse,\fmin fæstning; jeg skal ikke rokkes meget.",
       "version": 1500242400000
     },
     {
-      "text": "\fHvor længe vil I storme ind på en mand\f- I vil alle myrde -\fder er som en hældende væg,\fen væltet mur?",
       "number": 4,
+      "text": "\fHvor længe vil I storme ind på en mand\f- I vil alle myrde -\fder er som en hældende væg,\fen væltet mur?",
+      "footnotes": [
+        {
+          "text": "E: Det er omdiskuteret om roden i *tᵊhôttû* er *hwt* (»storme imod«) eller *htt* (»overdænge med bebrejdelser«. Det første er dog sandsynligst.",
+          "position": 24
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDe planlægger kun at støde ham ned fra hans højhed,\fde finder behag i løgn,\fmed deres mund velsigner de,\fmen i deres indre forbander de. Sela",
       "number": 5,
+      "text": "\fDe planlægger kun at støde ham ned fra hans højhed,\fde finder behag i løgn,\fmed deres mund velsigner de,\fmen i deres indre forbander de. Sela",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »De finder kun behag i at planlægge at støde ham ned fra hans højhed«. Der er flere problemer i verset. Linjen er lang og knudret, og man vælger som regel at lade grundtekstens sidste ord, »de finder behag i«, høre til næste linje, der dog så også deles i to (som her). Desuden retter nogle oversættere *miśśᵊʔētô* (»fra hans højhed«) til: *maśśuʔôt*: »fordærv/svig«: »De ønsker kun fordærv/svig« eller »de finder kun behag i fordærv/svig«.",
+          "position": 52
+        },
+        {
+          "text": "N: Sela",
+          "position": 142
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fKun for Gud skal du være stille, min sjæl,\ffor fra ham er mit håb.",
       "number": 6,
+      "text": "\fKun for Gud skal du være stille, min sjæl,\ffor fra ham er mit håb.",
       "version": 1500242400000
     },
     {
-      "text": "\fKun han er min klippe og min frelse,\fmin fæstning; jeg skal ikke rokkes.",
       "number": 7,
+      "text": "\fKun han er min klippe og min frelse,\fmin fæstning; jeg skal ikke rokkes.",
       "version": 1500242400000
     },
     {
-      "text": "\fPå Gud beror min frelse og min ære,\fmin sikkerheds klippe, min tilflugt er i Gud.",
       "number": 8,
+      "text": "\fPå Gud beror min frelse og min ære,\fmin sikkerheds klippe, min tilflugt er i Gud.",
       "version": 1500242400000
     },
     {
-      "text": "\fStol på ham til enhver tid, du folk,\fudøs jeres hjerte for hans ansigt,\fGud er vor tilflugt. Sela",
       "number": 9,
+      "text": "\fStol på ham til enhver tid, du folk,\fudøs jeres hjerte for hans ansigt,\fGud er vor tilflugt. Sela",
       "version": 1500242400000
     },
     {
-      "text": "Kun et vindpust er mennesker,\ffolk af rang er blændværk;\fpå vægten stiger de til vejrs,\fde er alle mindre end et vindpust.",
       "number": 10,
+      "text": "Kun et vindpust er mennesker,\ffolk af rang er blændværk;\fpå vægten stiger de til vejrs,\fde er alle mindre end et vindpust.",
+      "title": "Stol på Gud",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Adams sønner/menneskes sønner«.",
+          "position": 29
+        },
+        {
+          "text": "T: Ordret: »mands sønner«.",
+          "position": 42
+        },
+        {
+          "text": "T: Ordret: »løgn«.",
+          "position": 56
+        },
+        {
+          "text": "T: Ordret: »i vægtskålene«.",
+          "position": 66
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fStol ikke på undertrykkelse,\fog sæt ikke tomt håb til røvet bytte!\fHvis rigdom vokser, så stol ikke på den!",
       "number": 11,
+      "text": "\fStol ikke på undertrykkelse,\fog sæt ikke tomt håb til røvet bytte!\fHvis rigdom vokser, så stol ikke på den!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »ret ikke hjertet dertil«.",
+          "position": 108
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fÉn gang har Gud talt,\fto gange, dette har jeg hørt:\fAt styrke tilhører Gud.",
       "number": 12,
+      "text": "\fÉn gang har Gud talt,\fto gange, dette har jeg hørt:\fAt styrke tilhører Gud.",
       "version": 1500242400000
     },
     {
-      "text": "\fOg: Hos dig, Herre, er der nåde.\fFor du vil gengælde et menneske efter hans gerning.",
       "number": 13,
+      "text": "\fOg: Hos dig, Herre, er der nåde.\fFor du vil gengælde et menneske efter hans gerning.",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 32
+        }
+      ],
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Tillid til Gud trods fjendernes anslag",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Stol på Gud",
-      "verse": 10,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Jedutun var efter Davids bestemmelse sammen med Asaf og Heman overhoved for og stamfader til tempelsangerne (1 Krøn 25,1-3; 2 Krøn 5,12; 35,15). Han er formentlig den samme som Etan (1 Krøn 15,19). Overskriften her betyder formodentlig at salmen skal synges af Jedutun og hans tempelsangere.",
-      "type": "E",
-      "verse": 1,
-      "position": 29
-    },
-    {
-      "text": "Ordret: »Kun til Gud stilhed min sjæl«.",
-      "type": "T",
-      "verse": 2,
-      "position": 32
-    },
-    {
-      "text": "Det er omdiskuteret om roden i *tᵊhôttû* er *hwt* (»storme imod«) eller *htt* (»overdænge med bebrejdelser«. Det første er dog sandsynligst.",
-      "type": "E",
-      "verse": 4,
-      "position": 24
-    },
-    {
-      "text": "Ordret: »De finder kun behag i at planlægge at støde ham ned fra hans højhed«. Der er flere problemer i verset. Linjen er lang og knudret, og man vælger som regel at lade grundtekstens sidste ord, »de finder behag i«, høre til næste linje, der dog så også deles i to (som her). Desuden retter nogle oversættere *miśśᵊʔētô* (»fra hans højhed«) til: *maśśuʔôt*: »fordærv/svig«: »De ønsker kun fordærv/svig« eller »de finder kun behag i fordærv/svig«.",
-      "type": "E",
-      "verse": 5,
-      "position": 52
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 5,
-      "position": 142
-    },
-    {
-      "text": "Ordret: »Adams sønner/menneskes sønner«.",
-      "type": "T",
-      "verse": 10,
-      "position": 29
-    },
-    {
-      "text": "Ordret: »mands sønner«.",
-      "type": "T",
-      "verse": 10,
-      "position": 42
-    },
-    {
-      "text": "Ordret: »løgn«.",
-      "type": "T",
-      "verse": 10,
-      "position": 56
-    },
-    {
-      "text": "Ordret: »i vægtskålene«.",
-      "type": "T",
-      "verse": 10,
-      "position": 66
-    },
-    {
-      "text": "Ordret: »ret ikke hjertet dertil«.",
-      "type": "T",
-      "verse": 11,
-      "position": 108
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 13,
-      "position": 32
     }
   ]
 }

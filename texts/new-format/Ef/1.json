@@ -5,76 +5,158 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fPaulus, ved Guds vilje Kristi Jesu apostel, hilser de hellige, som er i Efesos, de troende i Kristus Jesus: v2 Nåde være med jer og fred fra Gud, vores far, og Herren Jesus Kristus.",
       "number": 1,
+      "text": "\fPaulus, ved Guds vilje Kristi Jesu apostel, hilser de hellige, som er i Efesos, de troende i Kristus Jesus:",
+      "title": "Forord",
       "version": 1679007600000
     },
     {
-      "text": "\fPriset være Gud, vores Herre Jesu Kristi far, som har velsignet os med hele den åndelige velsignelse i det himmelske, i Kristus, v4 ligesom han har udvalgt os i ham før verdens grundlæggelse til at være hellige og fejlfrie over for ham. I kærlighed v5 og efter sin gode vilje har han forudbestemt os til en status som barn hos sig ved Jesus Kristus v6 for at vi skal prise hans herlige nåde, som han har givet os i den elskede. v7 I ham har vi løskøbelsen ved hans blod, tilgivelsen af synderne, efter hans nådes rigdom v8 som han har givet os i overflod med al visdom og indsigt, v9 da han ifølge den beslutning, som han havde truffet hos sig selv, meddelte os sin viljes hemmelighed v10 om en frelsesplan i tidernes fylde, nemlig at sammenfatte alt i Kristus, både det i himlene og det på jorden. v11 I ham blev vi også udvalgt til at være hans del, forudbestemt til det efter hans beslutning, ham som virker alt efter sin viljesafgørelse, v12 for at vi, som tidligere havde håbet på Kristus, skulle være til lovprisning for hans herlighed. v13 I ham blev også I, da I hørte sandhedens ord, evangeliet om jeres frelse, i ham blev også I, da I kom til tro, beseglet med den lovede Helligånd, v14 som er et pant på vores arv, indtil løskøbelsen af hans ejendom, til lovprisning for hans herlighed.",
+      "number": 2,
+      "text": "Nåde være med jer og fred fra Gud, vores far, og Herren Jesus Kristus.",
+      "version": 1679007600000
+    },
+    {
       "number": 3,
+      "text": "\fPriset være Gud, vores Herre Jesu Kristi far, som har velsignet os med hele den åndelige velsignelse i det himmelske, i Kristus,",
+      "title": "Lovprisning",
       "version": 1679007600000
     },
     {
-      "text": "\fDerfor, efter at jeg har hørt om jeres tro på Herren Jesus og om jeres kærlighed til alle de hellige, v16 er jeg ikke holdt op med at takke for jer når jeg nævner jer i mine bønner v17 om at vores Herre Jesu Kristi Gud, herlighedens far, vil give jer visdoms og åbenbarings ånd i erkendelsen af ham v18 og oplyste øjne i jeres hjerter så at I kan forstå det håb han har kaldet jer til, hvor rig hans herlige arv er i de hellige, v19 og hvor overvældende hans krafts styrke er mod os, som tror på grund af hans store styrkes virkekraft. v20 Den virkede han med i Kristus da han oprejste ham fra de døde og satte ham ved sin højre hånd i det himmelske, v21 højt over enhver magt og myndighed og kraft og hersker og ethvert navn som nævnes, ikke alene i denne tidsalder, men også i den kommende tidsalder, v22 og alt lagde han under hans fødder, og han gav ham som hoved over alt til menigheden, v23 som er hans krop, fylden af ham som fylder alt i alle.",
+      "number": 4,
+      "text": "ligesom han har udvalgt os i ham før verdens grundlæggelse til at være hellige og fejlfrie over for ham. I kærlighed",
+      "footnotes": [
+        {
+          "text": "T: Der er indsat et punktum da »I kærlighed« kan høre sammen med det følgende og passer bedre der,",
+          "position": 104
+        }
+      ],
+      "version": 1679007600000
+    },
+    {
+      "number": 5,
+      "text": "og efter sin gode vilje har han forudbestemt os til en status som barn hos sig ved Jesus Kristus",
+      "version": 1679007600000
+    },
+    {
+      "number": 6,
+      "text": "for at vi skal prise hans herlige nåde, som han har givet os i den elskede.",
+      "version": 1679007600000
+    },
+    {
+      "number": 7,
+      "text": "I ham har vi løskøbelsen ved hans blod, tilgivelsen af synderne, efter hans nådes rigdom",
+      "version": 1679007600000
+    },
+    {
+      "number": 8,
+      "text": "som han har givet os i overflod med al visdom og indsigt,",
+      "version": 1679007600000
+    },
+    {
+      "number": 9,
+      "text": "da han ifølge den beslutning, som han havde truffet hos sig selv, meddelte os sin viljes hemmelighed",
+      "version": 1679007600000
+    },
+    {
+      "number": 10,
+      "text": "om en frelsesplan i tidernes fylde, nemlig at sammenfatte alt i Kristus, både det i himlene og det på jorden.",
+      "version": 1679007600000
+    },
+    {
+      "number": 11,
+      "text": "I ham blev vi også udvalgt til at være hans del, forudbestemt til det efter hans beslutning, ham som virker alt efter sin viljesafgørelse,",
+      "footnotes": [
+        {
+          "text": "E: I slutningen af vers 10 står der »i ham« som sandsynligvis hører sammen med begyndelsen på vers 11: »I ham, i hvem«.",
+          "position": 5
+        },
+        {
+          "text": "T: Ordet betyder at bestemme ved lodkastning og i passiv at blive ramt af loddet, og meningen er sandsynligvis at den loddet falder på, tilhører Gud.",
+          "position": 48
+        }
+      ],
+      "version": 1679007600000
+    },
+    {
+      "number": 12,
+      "text": "for at vi, som tidligere havde håbet på Kristus, skulle være til lovprisning for hans herlighed.",
+      "version": 1679007600000
+    },
+    {
+      "number": 13,
+      "text": "I ham blev også I, da I hørte sandhedens ord, evangeliet om jeres frelse, i ham blev også I, da I kom til tro, beseglet med den lovede Helligånd,",
+      "version": 1679007600000
+    },
+    {
+      "number": 14,
+      "text": "som er et pant på vores arv, indtil løskøbelsen af hans ejendom, til lovprisning for hans herlighed.",
+      "version": 1679007600000
+    },
+    {
       "number": 15,
-      "version": 1679007600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Forord",
-      "verse": 1,
+      "text": "\fDerfor, efter at jeg har hørt om jeres tro på Herren Jesus og om jeres kærlighed til alle de hellige,",
+      "title": "Bøn for menigheden",
       "version": 1679007600000
     },
     {
-      "text": "Lovprisning",
-      "verse": 2,
+      "number": 16,
+      "text": "er jeg ikke holdt op med at takke for jer når jeg nævner jer i mine bønner",
       "version": 1679007600000
     },
     {
-      "text": "Bøn for menigheden",
-      "verse": 4,
+      "number": 17,
+      "text": "om at vores Herre Jesu Kristi Gud, herlighedens far, vil give jer visdoms og åbenbarings ånd i erkendelsen af ham",
       "version": 1679007600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Der er indsat et punktum da »I kærlighed« kan høre sammen med det følgende og passer bedre der,",
-      "type": "T",
-      "verse": 3,
-      "position": 237
     },
     {
-      "text": "I slutningen af vers 10 står der »i ham« som sandsynligvis hører sammen med begyndelsen på vers 11: »I ham, i hvem«.",
-      "type": "E",
-      "verse": 3,
-      "position": 809
+      "number": 18,
+      "text": "og oplyste øjne i jeres hjerter så at I kan forstå det håb han har kaldet jer til, hvor rig hans herlige arv er i de hellige,",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »hans kaldelses håb«. ",
+          "position": 82
+        }
+      ],
+      "version": 1679007600000
     },
     {
-      "text": "Ordet betyder at bestemme ved lodkastning og i passiv at blive ramt af loddet, og meningen er sandsynligvis at den loddet falder på, tilhører Gud.",
-      "type": "T",
-      "verse": 3,
-      "position": 852
+      "number": 19,
+      "text": "og hvor overvældende hans krafts styrke er mod os, som tror på grund af hans store styrkes virkekraft.",
+      "version": 1679007600000
     },
     {
-      "text": "Ordret: »hans kaldelses håb«. ",
-      "type": "T",
-      "verse": 15,
-      "position": 386
+      "number": 20,
+      "text": "Den virkede han med i Kristus da han oprejste ham fra de døde og satte ham ved sin højre hånd i det himmelske,",
+      "version": 1679007600000
+    },
+    {
+      "number": 21,
+      "text": "højt over enhver magt og myndighed og kraft og hersker og ethvert navn som nævnes, ikke alene i denne tidsalder, men også i den kommende tidsalder,",
+      "version": 1679007600000
+    },
+    {
+      "number": 22,
+      "text": "og alt lagde han under hans fødder, og han gav ham som hoved over alt til menigheden,",
+      "version": 1679007600000
+    },
+    {
+      "number": 23,
+      "text": "som er hans krop, fylden af ham som fylder alt i alle.",
+      "version": 1679007600000
     }
   ]
 }

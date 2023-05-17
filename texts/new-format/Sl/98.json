@@ -5,115 +5,93 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fEn salme.\fSyng for JHVH en ny sang,\f\n\t\tfor han har gjort undere;\f\n\t\t\thans højre hånd og hans hellige arm\fudøvede frelsen for ham.",
       "number": 1,
+      "text": "En salme.\fSyng for JHVH en ny sang,\f\t\tfor han har gjort undere;\f\t\t\thans højre hånd og hans hellige arm\fudøvede frelsen for ham.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »hans helligheds arm«.",
+          "position": 102
+        },
+        {
+          "text": "T: Kan også oversættes: »skaffede ham sejr«. For forståelsens skyld er der her byttet om på linjerne. Egentlig: »hans højre hånd udøvede frelsen for ham / og hans hellige arm«.",
+          "position": 127
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\tJHVH har kundgjort sin frelse,\f\n\t\t\tfor folkenes øjne\fhar han åbenbaret sin retfærdighed.",
       "number": 2,
+      "text": "\f\tJHVH har kundgjort sin frelse,\f\t\t\tfor folkenes øjne\fhar han åbenbaret sin retfærdighed.",
+      "title": "Syng for JHVH!",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\n\t\tAlle jordens ender\fhar set vor Guds frelse.",
       "number": 3,
+      "text": "\f\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\t\tAlle jordens ender\fhar set vor Guds frelse.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »sandhed«",
+          "position": 46
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\fBryd ud i fryderåd for JHVH,\n\thele jorden!\fBryd ud i jubel,\n\tfryd jer,\n\tsyng!",
       "number": 4,
+      "text": "\fBryd ud i fryderåd for JHVH,\thele jorden!\fBryd ud i jubel,\tfryd jer,\tsyng!",
+      "title": "Bryd ud i jubel for JHVH!",
       "version": 1666562400000
     },
     {
-      "text": "\fLovsyng JHVH til citer,\f\n\t\ttil citer og høj sang,",
       "number": 5,
+      "text": "\fLovsyng JHVH til citer,\f\t\ttil citer og høj sang,",
       "version": 1666562400000
     },
     {
-      "text": "\f\ttil trompeter og hornklang;\fbryd ud i fryderåb for kongens, JHVHs, ansigt!",
       "number": 6,
+      "text": "\f\ttil trompeter og hornklang;\fbryd ud i fryderåb for kongens, JHVHs, ansigt!",
       "version": 1666562400000
     },
     {
-      "text": "\f\tHavet og dets fylde skal larme,\f\n\t\t\t\tverden og de som bor i den!",
       "number": 7,
+      "text": "\f\tHavet og dets fylde skal larme,\f\t\t\t\tverden og de som bor i den!",
+      "title": "JHVH kommer!",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\tStrømme skal klappe i hænderne,\f\n\t\t\t\t\tbjerge skal sammen juble",
       "number": 8,
+      "text": "\f\t\t\tStrømme skal klappe i hænderne,\f\t\t\t\t\tbjerge skal sammen juble",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »skal klappe hånd«.",
+          "position": 35
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tfor JHVHs ansigt;\n\t\tfor han kommer\f\n\t\t\t\tfor at dømme jorden.\f\n\t\t\tHan skal dømme verden med retfærdighed\f\n\t\t\t\tog folkeslagene med retskaffenhed.",
       "number": 9,
+      "text": "\f\t\t\t\tfor JHVHs ansigt;\t\tfor han kommer\f\t\t\t\tfor at dømme jorden.\f\t\t\tHan skal dømme verden med retfærdighed\f\t\t\t\tog folkeslagene med retskaffenhed.",
       "version": 1666562400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1666562400000
-    },
-    {
-      "text": "Syng for JHVH!",
-      "verse": 2,
-      "version": 1666562400000
-    },
-    {
-      "text": "Bryd ud i jubel for JHVH!",
-      "verse": 4,
-      "version": 1666562400000
-    },
-    {
-      "text": "JHVH kommer!",
-      "verse": 7,
-      "version": 1666562400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »hans helligheds arm«.",
-      "type": "T",
-      "verse": 1,
-      "position": 105
-    },
-    {
-      "text": "Kan også oversættes: »skaffede ham sejr«. For forståelsens skyld er der her byttet om på linjerne. Egentlig: »hans højre hånd udøvede frelsen for ham / og hans hellige arm«.",
-      "type": "T",
-      "verse": 1,
-      "position": 130
-    },
-    {
-      "text": "Kan også oversættes: »sandhed«",
-      "type": "T",
-      "verse": 3,
-      "position": 46
-    },
-    {
-      "text": "Ordret: »skal klappe hånd«.",
-      "type": "T",
-      "verse": 8,
-      "position": 35
     }
   ]
 }

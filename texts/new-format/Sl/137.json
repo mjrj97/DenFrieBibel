@@ -5,142 +5,120 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fVed Babylons floder,\n\t\t\t\tdér sad vi,\n\t\t\t\t\tog vi græd\f\n\t\t\t\t\t\tnår vi mindedes Zion.",
       "number": 1,
+      "text": "Ved Babylons floder,\t\t\t\tdér sad vi,\t\t\t\t\tog vi græd\f\t\t\t\t\t\tnår vi mindedes Zion.",
+      "title": "Nøden i eksilet",
+      "footnotes": [
+        {
+          "text": "T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.",
+          "position": 20
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\tI poplerne i landet\fhængte vi vore citere.",
       "number": 2,
+      "text": "\f\t\t\tI poplerne i landet\fhængte vi vore citere.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »i dets midte«.",
+          "position": 23
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\t\tFor dér krævede\fvore fangevogtere at vi skulle synge,\f\n\t\t\t\t\t\t\tog vore plageånder at vi skulle være glade:\f\n\t\t\t\t\t\t»Syng for os\faf Zions sange!«",
       "number": 3,
+      "text": "\f\t\t\t\t\tFor dér krævede\fvore fangevogtere at vi skulle synge,\f\t\t\t\t\t\t\tog vore plageånder at vi skulle være glade:\f\t\t\t\t\t\t»Syng for os\faf Zions sange!«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »de som holdt os fangne«.",
+          "position": 39
+        },
+        {
+          "text": "E: Grundtekstens: *tôlol* (»plageånd«) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.",
+          "position": 85
+        },
+        {
+          "text": "T: Ordret blot: »(krævede) glæde«.",
+          "position": 110
+        },
+        {
+          "text": "E: *šîr* (»sange«) er egentlig singularis, men må opfattes kollektivt som: »sange«.",
+          "position": 146
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tHvordan skulle vi synge JHVHs sang\fpå fremmed jord?",
       "number": 4,
+      "text": "\f\t\t\t\tHvordan skulle vi synge JHVHs sang\fpå fremmed jord?",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\tHvis jeg glemmer dig,\n\t\t\t\tJerusalem,\f\n\t\t\tgid min højre så må svigte;",
       "number": 5,
+      "text": "\f\t\tHvis jeg glemmer dig,\t\t\t\tJerusalem,\f\t\t\tgid min højre så må svigte;",
+      "title": "Kærlighedserklæring til Jerusalem",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »må glemme«. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: »gid du (Gud) så må glemme min højre«. Oftest retter man nu verbet *tiškaḥ* (»må glemme«) til: *tikḥaš* eller: *tᵊkaḥēš*: »gid … må skrumpe ind/lammes«.",
+          "position": 69
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\tgid min tunge må klæbe til min gane\f\n\t\t\t\t\thvis jeg ikke husker dig,\f\n\t\t\t\thvis jeg ikke ophøjer Jerusalem\fover min højeste glæde.",
       "number": 6,
+      "text": "\f\t\t\tgid min tunge må klæbe til min gane\f\t\t\t\t\thvis jeg ikke husker dig,\f\t\t\t\thvis jeg ikke ophøjer Jerusalem\fover min højeste glæde.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »over min glædes hoved/tinde«.",
+          "position": 130
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tJHVHv,\n\thusk\n\t\t\tEdoms sønner\ffor Jerusalems dag,\f\n\t\t\t\tda de sagde:\f\n\t\t\t\t\t»Riv ned,\n\t\t\t\t\triv ned til dens grund.«",
       "number": 7,
+      "text": "\f\t\t\t\tJHVHv,\thusk\t\t\tEdoms sønner\ffor Jerusalems dag,\f\t\t\t\tda de sagde:\f\t\t\t\t\t»Riv ned,\t\t\t\t\triv ned til dens grund.«",
+      "title": "Straf over Edom og Babylon",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »til grunden i den«.",
+          "position": 112
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\tBabylons datter,\n\t\t\t\tsom skal ødelægges!\f\n\t\t\tLykkelig\n\t\t\t\tden som gengælder dig\fdin gerning\n\t\t\t\t\tsom du gjorde mod os.",
       "number": 8,
+      "text": "\f\t\tBabylons datter,\t\t\t\tsom skal ødelægges!\f\t\t\tLykkelig\t\t\t\tden som gengælder dig\fdin gerning\t\t\t\t\tsom du gjorde mod os.",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes: »du ødelagte«. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (»som skal ødelægges/er ødelagt«) til: *haššādôdāʰ*: »ødelæggersken/du ødelæggerske«.",
+          "position": 42
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\tLykkelig\n\t\t\t\tden som griber\n\t\t\t\t\tog knuser\fdine børn mod klippen.",
       "number": 9,
+      "text": "\f\t\t\tLykkelig\t\t\t\tden som griber\t\t\t\t\tog knuser\fdine børn mod klippen.",
       "version": 1666562400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Nøden i eksilet",
-      "verse": 1,
-      "version": 1666562400000
-    },
-    {
-      "text": "Kærlighedserklæring til Jerusalem",
-      "verse": 5,
-      "version": 1666562400000
-    },
-    {
-      "text": "Straf over Edom og Babylon",
-      "verse": 7,
-      "version": 1666562400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.",
-      "type": "T",
-      "verse": 1,
-      "position": 21
-    },
-    {
-      "text": "Ordret: »i dets midte«.",
-      "type": "T",
-      "verse": 2,
-      "position": 23
-    },
-    {
-      "text": "Ordret: »de som holdt os fangne«.",
-      "type": "T",
-      "verse": 3,
-      "position": 39
-    },
-    {
-      "text": "Grundtekstens: *tôlol* (»plageånd«) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.",
-      "type": "E",
-      "verse": 3,
-      "position": 86
-    },
-    {
-      "text": "Ordret blot: »(krævede) glæde«.",
-      "type": "T",
-      "verse": 3,
-      "position": 111
-    },
-    {
-      "text": "*šîr* (»sange«) er egentlig singularis, men må opfattes kollektivt som: »sange«.",
-      "type": "E",
-      "verse": 3,
-      "position": 148
-    },
-    {
-      "text": "Ordret: »må glemme«. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: »gid du (Gud) så må glemme min højre«. Oftest retter man nu verbet *tiškaḥ* (»må glemme«) til: *tikḥaš* eller: *tᵊkaḥēš*: »gid … må skrumpe ind/lammes«.",
-      "type": "E",
-      "verse": 5,
-      "position": 71
-    },
-    {
-      "text": "Ordret: »over min glædes hoved/tinde«.",
-      "type": "T",
-      "verse": 6,
-      "position": 132
-    },
-    {
-      "text": "Ordret: »til grunden i den«.",
-      "type": "T",
-      "verse": 7,
-      "position": 117
-    },
-    {
-      "text": "Kan også oversættes: »du ødelagte«. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (»som skal ødelægges/er ødelagt«) til: *haššādôdāʰ*: »ødelæggersken/du ødelæggerske«.",
-      "type": "E",
-      "verse": 8,
-      "position": 43
     }
   ]
 }

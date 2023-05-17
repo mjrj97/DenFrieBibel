@@ -5,68 +5,68 @@ import { Tooltip } from 'react-tooltip'
 import VerseNumber from './VerseNumber';
 import SectionTitle from './SectionTitle';
 
-function Verse({ verseNumber, verseText, footnotes, onSelected, settings, title}) {
+function Verse({ verse, index, onSelected, settings}) {
     const parts = [];
     
     const addVerseNumber = (verseNumber) => {
-        parts.push(!settings || settings.showVerseNumber ? <VerseNumber key={"vn" + verseNumber} onClick={(e) => onSelected(verseNumber, e)} number={verseNumber}/> : <></>);
+        parts.push(settings.showVerseNumber ? <VerseNumber key={"vn" + verseNumber} onClick={(e) => onSelected(verseNumber, e)} number={verseNumber}/> : <></>);
     }
 
-    if (footnotes.length > 0) {
-        for (let i = 0; i < footnotes.length; i++) {
-            let start = i == 0 ? 0 : footnotes[i-1].position;
-            let end = footnotes[i].position;
+    if (verse.footnotes && verse.footnotes.length > 0) {
+        for (let i = 0; i < verse.footnotes.length; i++) {
+            let start = i == 0 ? 0 : verse.footnotes[i-1].position;
+            let end = verse.footnotes[i].position;
 
-            let slice = FormatText(verseText.slice(start, end), settings);
+            let slice = FormatText(verse.text.slice(start, end), settings);
             const trimmed = slice.trimStart();
             const diff = slice.length - trimmed.length;
             if (i == 0)
             {
                 if (diff > 0) {
                     let beginning = slice.substring(0, diff);
-                    if (verseNumber == 1 || (settings.showTitles && title))
+                    if (index == 0 || (settings.showTitles && verse.title))
                         beginning = beginning.replace(/\n/g, "");
-                    parts.push(<span key={footnotes.length + "pA" + verseNumber}>{beginning}</span>);
+                    parts.push(<span key={verse.footnotes.length + "pA" + verse.number}>{beginning}</span>);
                 }
-                addVerseNumber(verseNumber);
+                addVerseNumber(verse.number);
             }
-            parts.push(<span key={i + "p" + verseNumber}>{trimmed}</span>);
+            parts.push(<span key={i + "p" + verse.number}>{trimmed}</span>);
 
-            const tooltipID = verseNumber + footnotes[i].type + footnotes[i].designation;
-            const tooltipText = FormatText(footnotes[i].text);
+            const tooltipID = verse.number + verse.footnotes[i].type + verse.footnotes[i].designation;
+            const tooltipText = FormatText(verse.footnotes[i].text);
             const footnote = (
                 <span id={tooltipID} key={tooltipID} className='fakeOffset'>
                     <Tooltip id={tooltipID} className='footnote'/>
                     <sup className='ignore'>
-                        [<a href={"#b" + tooltipID} data-tooltip-id={tooltipID} data-tooltip-content={tooltipText}>{footnotes[i].designation}</a>]
+                        [<a href={"#b" + tooltipID} data-tooltip-id={tooltipID} data-tooltip-content={tooltipText}>{verse.footnotes[i].designation}</a>]
                     </sup>
                 </span>
             );
             
-            if ((settings.showAcademicFootnotes && footnotes[i].type == "E") || (settings.showGeneralFootnotes && footnotes[i].type == "T"))
+            if ((settings.showAcademicFootnotes && verse.footnotes[i].type == "E") || (settings.showGeneralFootnotes && verse.footnotes[i].type == "T"))
                 parts.push(footnote);
         }
 
-        let slice = FormatText(verseText.slice(footnotes[footnotes.length - 1].position, verseText.length), settings);
-        parts.push(<span key={footnotes.length + "p" + verseNumber}>{slice + " "}</span>);
+        let slice = FormatText(verse.text.slice(verse.footnotes[verse.footnotes.length - 1].position, verse.text.length), settings);
+        parts.push(<span key={verse.footnotes.length + "p" + verse.number}>{slice + " "}</span>);
     }
     else {
-        const text = FormatText(verseText, settings);
+        const text = FormatText(verse.text, settings);
         const trimmed = text.trimStart();
         const diff = text.length - trimmed.length;
         if (diff > 0) {
             let beginning = text.substring(0, diff);
-            if (verseNumber == 1 || (settings.showTitles && title))
+            if (index == 0 || (settings.showTitles && verse.title))
                 beginning = beginning.replace(/\n/g, "");
-            parts.push(<span key={footnotes.length + "pA" + verseNumber}>{beginning}</span>);
+            parts.push(<span key={0 + "pA" + verse.number}>{beginning}</span>);
         }
-        addVerseNumber(verseNumber);
-        parts.push(<span key={footnotes.length + "pB" + verseNumber}>{trimmed + " "}</span>);
+        addVerseNumber(verse.number);
+        parts.push(<span key={0 + "pB" + verse.number}>{trimmed + " "}</span>);
     }
 
     return (
         <>
-            {title && settings.showTitles ? <SectionTitle>{title}</SectionTitle> : <></>}
+            {verse.title && settings.showTitles ? <SectionTitle>{verse.title}</SectionTitle> : <></>}
             <span className='verseLine'>
                 {parts}
             </span>

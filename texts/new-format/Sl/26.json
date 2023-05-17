@@ -5,142 +5,112 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fAf David.\fSkaf mig ret, JHVHv,\ffor jeg har vandret i min uskyld,\fog på JHVH har jeg stolet,\fjeg skal ikke vakle.",
       "number": 1,
+      "text": "Af David.\fSkaf mig ret, JHVHv,\ffor jeg har vandret i min uskyld,\fog på JHVH har jeg stolet, \fjeg skal ikke vakle.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »Døm mig« i betydningen: »Bedøm mig« parallelt med vers 2.",
+          "position": 23
+        },
+        {
+          "text": "T: Kan også oversættes: »uden at vakle«.",
+          "position": 113
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fPrøv mig, JHVHv, og test mig,\fransag mine nyrer og mit hjerte.",
       "number": 2,
+      "text": "\fPrøv mig, JHVHv, og test mig,\fransag mine nyrer og mit hjerte.",
+      "title": "Bøn om hjælp",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »prøv ved at smelte « (som metalsmelteren).",
+          "position": 37
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fFor din nåde har jeg for mine øjne,\fog jeg har vandret i din sandhed.",
       "number": 3,
+      "text": "\fFor din nåde har jeg for mine øjne,\fog jeg har vandret i din sandhed.",
+      "title": "David søger ikke venskab med onde",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 13
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJeg har ikke siddet hos løgnagtige mænd,\fog jeg vil ikke komme hos lumske.",
       "number": 4,
+      "text": "\fJeg har ikke siddet hos løgnagtige mænd,\fog jeg vil ikke komme hos lumske.",
       "version": 1457218800000
     },
     {
-      "text": "\fJeg har hadet ugerningsmænds forsamling,\fog hos ugudelige vil jeg ikke sidde.",
       "number": 5,
+      "text": "\fJeg har hadet ugerningsmænds forsamling,\fog hos ugudelige vil jeg ikke sidde.",
       "version": 1457218800000
     },
     {
-      "text": "\fJeg vil vaske mine hænder i uskyld,\fog jeg vil gå omkring dit alter, JHVHv,",
       "number": 6,
+      "text": "\fJeg vil vaske mine hænder i uskyld,\fog jeg vil gå omkring dit alter, JHVHv,",
+      "title": "David længes kun efter at være Gud nær",
       "version": 1457218800000
     },
     {
-      "text": "\ffor at lade taksigelses røst lyde,\fog for at fortælle om alle dine undere.",
       "number": 7,
+      "text": "\ffor at lade taksigelses røst lyde,\fog for at fortælle om alle dine undere.",
+      "footnotes": [
+        {
+          "text": "E: Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: »høre« (»for at høre lyden af …«), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).",
+          "position": 35
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJHVHv, jeg elsker dit hus’ bo\fog stedet for din herligheds bolig.",
       "number": 8,
+      "text": "\fJHVHv, jeg elsker dit hus’ bo\fog stedet for din herligheds bolig.",
       "version": 1457218800000
     },
     {
-      "text": "\fRiv ikke min sjæl bort med syndere,\feller mit liv med blodtørstige folk",
       "number": 9,
+      "text": "\fRiv ikke min sjæl bort med syndere,\feller mit liv med blodtørstige folk",
+      "title": "Ny bøn om hjælp",
       "version": 1457218800000
     },
     {
-      "text": "\fi hvis hænder der er skændsel,\fog hvis højre hånd er fuld af bestikkelse.",
       "number": 10,
+      "text": "\fi hvis hænder der er skændsel,\fog hvis højre hånd er fuld af bestikkelse.",
       "version": 1457218800000
     },
     {
-      "text": "\fMen jeg vil vandre i min uskyld,\fforløs mig og vær mig nådig!",
       "number": 11,
+      "text": "\fMen jeg vil vandre i min uskyld,\fforløs mig og vær mig nådig!",
       "version": 1457218800000
     },
     {
-      "text": "\fMin fod har stået på fast grund,\fi forsamlinger vil jeg prise JHVH.",
       "number": 12,
+      "text": "\fMin fod har stået på fast grund,\fi forsamlinger vil jeg prise JHVH.",
+      "title": "Vished om Guds hjælp",
       "version": 1457218800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1457218800000
-    },
-    {
-      "text": "Bøn om hjælp",
-      "verse": 2,
-      "version": 1457218800000
-    },
-    {
-      "text": "David søger ikke venskab med onde",
-      "verse": 3,
-      "version": 1457218800000
-    },
-    {
-      "text": "David længes kun efter at være Gud nær",
-      "verse": 6,
-      "version": 1457218800000
-    },
-    {
-      "text": "Ny bøn om hjælp",
-      "verse": 9,
-      "version": 1457218800000
-    },
-    {
-      "text": "Vished om Guds hjælp",
-      "verse": 12,
-      "version": 1457218800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »Døm mig« i betydningen: »Bedøm mig« parallelt med vers 2.",
-      "type": "T",
-      "verse": 1,
-      "position": 24
-    },
-    {
-      "text": "Kan også oversættes: »uden at vakle«.",
-      "type": "T",
-      "verse": 1,
-      "position": 113
-    },
-    {
-      "text": "Ordret: »prøv ved at smelte « (som metalsmelteren).",
-      "type": "T",
-      "verse": 2,
-      "position": 37
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 3,
-      "position": 13
-    },
-    {
-      "text": "Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: »høre« (»for at høre lyden af …«), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).",
-      "type": "E",
-      "verse": 7,
-      "position": 35
     }
   ]
 }

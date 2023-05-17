@@ -5,212 +5,178 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fEn bøn af David.\fHør, JHVHv, på retfærdighed!\fLyt opmærksomt til min klage,\fhør på min bøn\ffra mine læber uden svig.",
       "number": 1,
+      "text": "En bøn af David.\fHør, JHVHv, på retfærdighed!\fLyt opmærksomt til min klage,\fhør på min bøn\ffra mine læber uden svig.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Meningen: »Hør på bønnen for en retfærdig sag«.",
+          "position": 45
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fLad min ret udgå fra dit ansigt,\flad dine øjne iagttage med retskaffenhed.",
       "number": 2,
+      "text": "Lad min ret udgå fra dit ansigt,\flad dine øjne iagttage med retskaffenhed.",
+      "title": "Bøn om hjælp",
       "version": 1475704800000
     },
     {
-      "text": "\fDu har prøvet mit hjerte, set nøje efter om natten,\fransaget mig: Du finder intet.\fJeg har besluttet at min mund ikke skal forsynde sig.",
       "number": 3,
+      "text": "\fDu har prøvet mit hjerte, set nøje efter om natten,\fransaget mig: Du finder intet.\fJeg har besluttet at min mund ikke skal forsynde sig.",
+      "title": "Forsikring om uskyld i den konkrete sag",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »prøvet ved at smelte mig«.",
+          "position": 61
+        },
+        {
+          "text": "T: Underforstået »intet skændigt«. Ofte vokaliseres dog (med LXX) *zammōtî* (»jeg tænkte«) i næste linje som: *zimmātî*: »min (påståede) skændselsdåd«, der trækkes ind i denne linje.",
+          "position": 83
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fHvad angår menneskets handlinger,\fså har jeg ved dine læbers ord\fvogtet mig for voldsmandens stier.",
       "number": 4,
+      "text": "\fHvad angår menneskets handlinger,\fså har jeg ved dine læbers ord\fvogtet mig for voldsmandens stier.",
+      "footnotes": [
+        {
+          "text": "T: Dvs. hvad end mennesker gjorde.",
+          "position": 34
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fMine skridt holdt sig til dine spor,\fmine skridt vaklede ikke.",
       "number": 5,
+      "text": "\fMine skridt holdt sig til dine spor,\fmine skridt vaklede ikke.",
       "version": 1475704800000
     },
     {
-      "text": "\fJeg har råbt til dig, for du vil svare mig, Gud!\fBøj dit øre til mig, hør mine ord!",
       "number": 6,
+      "text": "\fJeg har råbt til dig, for du vil svare mig, Gud!\fBøj dit øre til mig, hør mine ord!",
+      "title": "Ny bøn om hjælp mod stærke fjender",
+      "footnotes": [
+        {
+          "text": "E: Imperfektiv angiver her, at Gud plejer at svare.",
+          "position": 39
+        },
+        {
+          "text": "T: Ordret: »min tale«",
+          "position": 84
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fVis din underfulde nåde,\fdu som med din højre hånd frelser dem som søger tilflugt for modstandere.",
       "number": 7,
+      "text": "\fVis din underfulde nåde,\fdu som med din højre hånd frelser dem som søger tilflugt for modstandere.",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 24
+        },
+        {
+          "text": "E: Versets sidste fire ord oversættes forskelligt. Umiddelbart oplagt på grund af ordenes rækkefølge er: »du frelser dem der søger tilflugt for dem der rejser sig mod din højre hånd (= mod din magt/mod din frelse)«. Oftere oversættes som her eller: »du frelser dem som søger tilflugt i din højre hånd for modstandere«.",
+          "position": 99
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fVogt mig som en øjesten,\fskjul mig i dine vingers skygge",
       "number": 8,
+      "text": "\fVogt mig som en øjesten,\fskjul mig i dine vingers skygge",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »pusling af øjets datter«.",
+          "position": 25
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\ffor de ugudelige som har øvet vold mod mig,\ffor mine fjender som begærligt omringer mig.",
       "number": 9,
+      "text": "\ffor de ugudelige som har øvet vold mod mig,\ffor mine fjender som begærligt omringer mig.",
       "version": 1475704800000
     },
     {
-      "text": "\fDe har lukket deres hjerte til med fedt,\fmed deres mund taler de i hovmod.",
       "number": 10,
+      "text": "\fDe har lukket deres hjerte til med fedt,\fmed deres mund taler de i hovmod.",
+      "footnotes": [
+        {
+          "text": "E: *ḥelbāmô ssāgᵊrû* ordret: »Deres fedt har de lukket«. Fedtlaget, der beskytter indvoldene, blev regnet for sæde for følelserne. Meningen kan være: »de er ufølsomme«. Ofte retter man (dog uden støtte i nogen tekst) til: *ḥelæv libbāmô ssāgᵊrû*: »De har lukket deres hjerte til med fedt«.",
+          "position": 41
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fHvor vi end går, har de nu omringet mig,\fderes øjne er rettet mod at kaste mig til jorden.",
       "number": 11,
+      "text": "\fHvor vi end går, har de nu omringet mig, \fderes øjne er rettet mod at kaste mig til jorden.",
+      "footnotes": [
+        {
+          "text": "E: *ʔaššurênû* ordret: »vore skridt«. Der er afvigende formuleringer i en del håndskrifter og gamle oversættelser. Evt. kan der stå: *ʔiššudunî*: »de har opsporet mig« eller: *jᵊšurûnî*: »de lurer på mig«.",
+          "position": 17
+        },
+        {
+          "text": "E: »mig« står ikke i den hebraiske tekst, men er formodentlig underforstået. Sætningen kan dog også forstås mere generelt: »De er opsatte på at kaste alle modstandere til jorden«.",
+          "position": 80
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fHan ligner en løve der hungrer efter rov,\fog en ungløve der sidder i skjul.",
       "number": 12,
+      "text": "\fHan ligner en løve der hungrer efter rov,\fog en ungløve der sidder i skjul.",
       "version": 1475704800000
     },
     {
-      "text": "\fRejs dig, JHVHv, træd op imod hans ansigt, kast ham ned,\ffrels min sjæl fra den ugudelige ved dit sværd,",
       "number": 13,
+      "text": "\fRejs dig, JHVHv, træd op imod hans ansigt, kast ham ned,\ffrels min sjæl fra den ugudelige ved dit sværd,",
       "version": 1475704800000
     },
     {
-      "text": "\ffra folk ved din hånd,\fJHVHv! fra folk hvis del i livet er af verden,\fog fyld deres bug med det du har gemt,\flad deres børn mættes\fog efterlade deres rest til deres småbørn.",
       "number": 14,
+      "text": "\ffra folk ved din hånd,\fJHVHv! fra folk hvis del i livet er af verden,\fog fyld deres bug med det du har gemt,\flad deres børn mættes\fog efterlade deres rest til deres småbørn.",
+      "footnotes": [
+        {
+          "text": "E: Versets første halvdel er omdiskuteret. Den stakåndede sætningsbygning kan afspejle at David har mistet kontrollen over sine følelser, men især synes der at mangle et verbum i dette halvvers. Det er foreslået, at *mimᵊtîm* (»fra folk«) kan være fejlskrivning for *mᵊmîtām*: »Dræb dem«, altså: »dræb dem ved din hånd, JHVHv, dræb dem fra verden, fra deres andel i livet«.",
+          "position": 70
+        }
+      ],
       "version": 1475704800000
     },
     {
-      "text": "\fJeg skal i retfærdighed skue dit ansigt,\fmættes af din skikkelse når jeg vågner.",
       "number": 15,
+      "text": "\fJeg skal i retfærdighed skue dit ansigt,\fmættes af din skikkelse når jeg vågner.",
+      "title": "Bøn om livgivende fællesskab med Gud",
+      "footnotes": [
+        {
+          "text": "E: Her er der tænkt på den retfærdighed, Gud skænker, altså på Guds troskab i pagten.",
+          "position": 24
+        },
+        {
+          "text": "E: David kan have tænkt på opvågnen fra døden.",
+          "position": 81
+        }
+      ],
       "version": 1475704800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1475704800000
-    },
-    {
-      "text": "Bøn om hjælp",
-      "verse": 2,
-      "version": 1475704800000
-    },
-    {
-      "text": "Forsikring om uskyld i den konkrete sag",
-      "verse": 3,
-      "version": 1475704800000
-    },
-    {
-      "text": "Ny bøn om hjælp mod stærke fjender",
-      "verse": 6,
-      "version": 1475704800000
-    },
-    {
-      "text": "Bøn om livgivende fællesskab med Gud",
-      "verse": 15,
-      "version": 1475704800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Meningen: »Hør på bønnen for en retfærdig sag«.",
-      "type": "E",
-      "verse": 1,
-      "position": 46
-    },
-    {
-      "text": "Ordret: »prøvet ved at smelte mig«.",
-      "type": "T",
-      "verse": 3,
-      "position": 61
-    },
-    {
-      "text": "Underforstået »intet skændigt«. Ofte vokaliseres dog (med LXX) *zammōtî* (»jeg tænkte«) i næste linje som: *zimmātî*: »min (påståede) skændselsdåd«, der trækkes ind i denne linje.",
-      "type": "T",
-      "verse": 3,
-      "position": 83
-    },
-    {
-      "text": "Dvs. hvad end mennesker gjorde.",
-      "type": "T",
-      "verse": 4,
-      "position": 34
-    },
-    {
-      "text": "Imperfektiv angiver her, at Gud plejer at svare.",
-      "type": "E",
-      "verse": 6,
-      "position": 39
-    },
-    {
-      "text": "Ordret: »min tale«",
-      "type": "T",
-      "verse": 6,
-      "position": 84
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 7,
-      "position": 24
-    },
-    {
-      "text": "Versets sidste fire ord oversættes forskelligt. Umiddelbart oplagt på grund af ordenes rækkefølge er: »du frelser dem der søger tilflugt for dem der rejser sig mod din højre hånd (= mod din magt/mod din frelse)«. Oftere oversættes som her eller: »du frelser dem som søger tilflugt i din højre hånd for modstandere«.",
-      "type": "E",
-      "verse": 7,
-      "position": 99
-    },
-    {
-      "text": "Ordret: »pusling af øjets datter«.",
-      "type": "T",
-      "verse": 8,
-      "position": 25
-    },
-    {
-      "text": "*ḥelbāmô ssāgᵊrû* ordret: »Deres fedt har de lukket«. Fedtlaget, der beskytter indvoldene, blev regnet for sæde for følelserne. Meningen kan være: »de er ufølsomme«. Ofte retter man (dog uden støtte i nogen tekst) til: *ḥelæv libbāmô ssāgᵊrû*: »De har lukket deres hjerte til med fedt«.",
-      "type": "E",
-      "verse": 10,
-      "position": 41
-    },
-    {
-      "text": "*ʔaššurênû* ordret: »vore skridt«. Der er afvigende formuleringer i en del håndskrifter og gamle oversættelser. Evt. kan der stå: *ʔiššudunî*: »de har opsporet mig« eller: *jᵊšurûnî*: »de lurer på mig«.",
-      "type": "E",
-      "verse": 11,
-      "position": 17
-    },
-    {
-      "text": "»mig« står ikke i den hebraiske tekst, men er formodentlig underforstået. Sætningen kan dog også forstås mere generelt: »De er opsatte på at kaste alle modstandere til jorden«.",
-      "type": "E",
-      "verse": 11,
-      "position": 79
-    },
-    {
-      "text": "Versets første halvdel er omdiskuteret. Den stakåndede sætningsbygning kan afspejle at David har mistet kontrollen over sine følelser, men især synes der at mangle et verbum i dette halvvers. Det er foreslået, at *mimᵊtîm* (»fra folk«) kan være fejlskrivning for *mᵊmîtām*: »Dræb dem«, altså: »dræb dem ved din hånd, JHVHv, dræb dem fra verden, fra deres andel i livet«.",
-      "type": "E",
-      "verse": 14,
-      "position": 70
-    },
-    {
-      "text": "Her er der tænkt på den retfærdighed, Gud skænker, altså på Guds troskab i pagten.",
-      "type": "E",
-      "verse": 15,
-      "position": 24
-    },
-    {
-      "text": "David kan have tænkt på opvågnen fra døden.",
-      "type": "E",
-      "verse": 15,
-      "position": 81
     }
   ]
 }

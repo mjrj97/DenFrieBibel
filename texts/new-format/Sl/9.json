@@ -5,198 +5,160 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Al-muth-labben. Salme af David.",
       "number": 1,
+      "text": "Til korlederen. Al-muth-labben. Salme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum, der betyder »dirigere«.",
+          "position": 14
+        },
+        {
+          "text": "T: Musikalsk anvisning af ukendt betydning. Ordret: »Efter død for sønnen«.",
+          "position": 30
+        }
+      ],
       "version": 1486335600000
     },
     {
-      "text": "\fJeg vil takke JHVH af hele mit hjerte,\fjeg vil fortælle om alle dine underfulde gerninger.",
       "number": 2,
+      "text": "\fJeg vil takke JHVH af hele mit hjerte,\fjeg vil fortælle om alle dine underfulde gerninger.",
+      "title": "Tak for frelse fra fjenderne",
       "version": 1486335600000
     },
     {
-      "text": "\fJeg vil glæde mig og fryde mig over dig,\fjeg vil lovsynge dit navn, du Højeste!",
       "number": 3,
+      "text": "\fJeg vil glæde mig og fryde mig over dig,\fjeg vil lovsynge dit navn, du Højeste!",
       "version": 1486335600000
     },
     {
-      "text": "\fNår mine fjender kommer tilbage,\fvil de snuble og gå til grunde for dit ansigt.",
       "number": 4,
+      "text": "\fNår mine fjender kommer tilbage,\fvil de snuble og gå til grunde for dit ansigt.",
       "version": 1486335600000
     },
     {
-      "text": "\fFor du har påtaget dig min retssag og min ret,\fdu har sat dig på tronen, retfærdige dommer.",
       "number": 5,
+      "text": "\fFor du har påtaget dig min retssag og min ret,\fdu har sat dig på tronen, retfærdige dommer.",
       "version": 1486335600000
     },
     {
-      "text": "\fDu truede folkene, du tilintetgjorde den ugudelige,\fdu udslettede deres navn for evigt og altid.",
       "number": 6,
+      "text": "\fDu truede folkene, du tilintetgjorde den ugudelige,\fdu udslettede deres navn for evigt og altid.",
       "version": 1486335600000
     },
     {
-      "text": "\fFjenderne, de er tilintetgjort, de er ruiner i evighed,\fbyerne har du lagt øde, deres minde er udslettet.",
       "number": 7,
+      "text": "Fjenderne, de er tilintetgjort, de er ruiner i evighed,\fbyerne har du lagt øde, deres minde er udslettet.",
       "version": 1486335600000
     },
     {
-      "text": "\fMen JHVH skal trone for evigt,\fhan har rejst sin trone til dom.",
       "number": 8,
+      "text": "\fMen JHVH skal trone for evigt,\fhan har rejst sin trone til dom.",
+      "title": "JHVH er en retfærdig og nådig dommer",
       "version": 1486335600000
     },
     {
-      "text": "\fHan skal dømme verden med retfærdighed,\fhan skal fælde redelig dom over folkene.",
       "number": 9,
+      "text": "\fHan skal dømme verden med retfærdighed,\fhan skal fælde redelig dom over folkene.",
       "version": 1486335600000
     },
     {
-      "text": "\fOg må JHVH være en borg for den undertrykte,\fen borg i trængselstider!",
       "number": 10,
+      "text": "\fOg må JHVH være en borg for den undertrykte, \fen borg i trængselstider!",
       "version": 1486335600000
     },
     {
-      "text": "\fDe skal stole på dig, de der kender dit navn,\ffor du har ikke svigtet dem der søger dig, JHVHv!",
       "number": 11,
+      "text": "\fDe skal stole på dig, de der kender dit navn,\ffor du har ikke svigtet dem der søger dig, JHVHv!",
       "version": 1486335600000
     },
     {
-      "text": "\fLovsyng JHVH, der bor på Zion,\fforkynd blandt folkene om hans gerninger!",
       "number": 12,
+      "text": "\fLovsyng JHVH, der bor på Zion,\fforkynd blandt folkene om hans gerninger!",
+      "title": "Lovprisning",
       "version": 1486335600000
     },
     {
-      "text": "\fFor han som hævner blod, husker dem,\fhan har ikke glemt de elendiges skrig.",
       "number": 13,
+      "text": "\fFor han som hævner blod, husker dem,\fhan har ikke glemt de elendiges skrig.",
       "version": 1486335600000
     },
     {
-      "text": "\fVær mig nådig, JHVHv, se min plage fra dem der hader mig,\fdu som løfter mig op fra dødens porte,",
       "number": 14,
+      "text": "\fVær mig nådig, JHVHv, se min plage fra dem der hader mig,\fdu som løfter mig op fra dødens porte,",
+      "title": "Bøn",
       "version": 1486335600000
     },
     {
-      "text": "\ffor at jeg kan fortælle al din pris i Zions datters porte.\fJeg skal juble over din frelse!",
       "number": 15,
+      "text": "\ffor at jeg kan fortælle al din pris i Zions datters porte.\fJeg skal juble over din frelse!",
       "version": 1486335600000
     },
     {
-      "text": "\fFolkene faldt selv i den grav de gravede,\fi det net de skjulte, blev deres fod fanget.",
       "number": 16,
+      "text": "\fFolkene faldt selv i den grav de gravede,\fi det net de skjulte, blev deres fod fanget.",
+      "title": "Gud dømmer retfærdigt",
       "version": 1486335600000
     },
     {
-      "text": "\fJHVH har givet sig til kende, han har holdt dom,\fved sine hænders gerning fanger han den ugudelige. Higgajon. Sela",
       "number": 17,
+      "text": "\fJHVH har givet sig til kende, han har holdt dom,\fved sine hænders gerning fanger han den ugudelige. Higgajon . Sela",
+      "footnotes": [
+        {
+          "text": "E: Man ændrer ofte vokaliseringen af *nôqēš* (»fanger«) til *nôqaš* (»fanges«) så oversættelsen bliver: »den ugudelige fanges ved sine hænders gerning«.",
+          "position": 99
+        },
+        {
+          "text": "T: Musikudtryk med ukendt betydning, måske dog strengespil, jf. Sl 92,4.",
+          "position": 110
+        },
+        {
+          "text": "N: Sela",
+          "position": 116
+        }
+      ],
       "version": 1486335600000
     },
     {
-      "text": "\fDe ugudelige skal vende tilbage til dødsriget,\falle folkeslag der glemmer Gud.",
       "number": 18,
+      "text": "\fDe ugudelige skal vende tilbage til dødsriget,\falle folkeslag der glemmer Gud.",
+      "title": "Bøn om frelse",
+      "footnotes": [
+        {
+          "text": "T: Hebraisk: »sheol«.",
+          "position": 46
+        }
+      ],
       "version": 1486335600000
     },
     {
-      "text": "\fFor en fattig glemmes ikke for evigt,\fde hjælpeløses håb er ikke for altid tilintetgjort.",
       "number": 19,
+      "text": "\fFor en fattig glemmes ikke for evigt,\fde hjælpeløses håb er ikke for altid tilintetgjort.",
       "version": 1486335600000
     },
     {
-      "text": "\fRejs dig, JHVHv, lad ikke et menneske blive mægtigt,\flad folkene dømmes for dit ansigt!",
       "number": 20,
+      "text": "Rejs dig, JHVHv, lad ikke et menneske blive mægtigt,\flad folkene dømmes for dit ansigt!",
       "version": 1486335600000
     },
     {
-      "text": "\fSæt, JHVHv! skræk i dem,\flad folkene kende at de er mennesker. Sela",
       "number": 21,
+      "text": "\fSæt, JHVHv! skræk i dem,\flad folkene kende at de er mennesker. Sela",
       "version": 1486335600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1486335600000
-    },
-    {
-      "text": "Tak for frelse fra fjenderne",
-      "verse": 2,
-      "version": 1486335600000
-    },
-    {
-      "text": "JHVH er en retfærdig og nådig dommer",
-      "verse": 8,
-      "version": 1486335600000
-    },
-    {
-      "text": "Lovprisning",
-      "verse": 12,
-      "version": 1486335600000
-    },
-    {
-      "text": "Bøn",
-      "verse": 14,
-      "version": 1486335600000
-    },
-    {
-      "text": "Gud dømmer retfærdigt",
-      "verse": 16,
-      "version": 1486335600000
-    },
-    {
-      "text": "Bøn om frelse",
-      "verse": 18,
-      "version": 1486335600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum, der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 15
-    },
-    {
-      "text": "Musikalsk anvisning af ukendt betydning. Ordret: »Efter død for sønnen«.",
-      "type": "T",
-      "verse": 1,
-      "position": 31
-    },
-    {
-      "text": "Man ændrer ofte vokaliseringen af *nôqēš* (»fanger«) til *nôqaš* (»fanges«) så oversættelsen bliver: »den ugudelige fanges ved sine hænders gerning«.",
-      "type": "E",
-      "verse": 17,
-      "position": 99
-    },
-    {
-      "text": "Musikudtryk med ukendt betydning, måske dog strengespil, jf. Sl 92,4.",
-      "type": "T",
-      "verse": 17,
-      "position": 110
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 17,
-      "position": 116
-    },
-    {
-      "text": "Hebraisk: »sheol«.",
-      "type": "T",
-      "verse": 18,
-      "position": 46
     }
   ]
 }

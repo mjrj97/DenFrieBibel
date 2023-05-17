@@ -5,51 +5,111 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fBrødre, hvis et menneske er blevet grebet i et fejltrin, skal I åndelige hjælpe denne til rette i en mild ånd, og pas på dig selv, at ikke også du bliver fristet og falder. v2 Bær hinandens byrder, og således opfylder I Kristi lov. v3 For hvis nogen mener at han er noget, skønt han intet er, bedrager han sig selv. v4 Men enhver skal prøve sin egen gerning, og så skal han have grund til ros på grund af sig selv alene og ikke på grund af den anden, v5 for enhver skal bære sin egen byrde.",
       "number": 1,
+      "text": "Brødre, hvis et menneske er blevet grebet i et fejltrin, skal I åndelige hjælpe denne til rette i en mild ånd, og pas på dig selv, at ikke også du bliver fristet og falder.",
+      "title": "Bær hinandens byrder",
       "version": 1639695600000
     },
     {
-      "text": "\fMen den som undervises i ordet, skal give den som underviser, del i alle goder. v7 Lad jer ikke bedrage. Gud lader sig ikke spotte. For det et menneske sår, skal det også høste. v8 Det vil sige, den som sår i sit eget kød, skal høste fordærv af kødet, men den som sår i Ånden, skal høste evigt liv af Ånden. v9 Men når vi gør det gode, lad os da ikke blive trætte, for vi skal høste til rette tid hvis vi ikke bliver trætte. v10 Altså! mens vi har tid, så lad os gøre det gode mod alle, men mest mod troens fæller.",
+      "number": 2,
+      "text": "Bær hinandens byrder, og således opfylder I Kristi lov.",
+      "version": 1639695600000
+    },
+    {
+      "number": 3,
+      "text": "For hvis nogen mener at han er noget, skønt han intet er, bedrager han sig selv.",
+      "version": 1639695600000
+    },
+    {
+      "number": 4,
+      "text": "Men enhver skal prøve sin egen gerning, og så skal han have grund til ros på grund af sig selv alene og ikke på grund af den anden,",
+      "version": 1639695600000
+    },
+    {
+      "number": 5,
+      "text": "for enhver skal bære sin egen byrde.",
+      "version": 1639695600000
+    },
+    {
       "number": 6,
+      "text": "\fMen den som undervises i ordet, skal give den som underviser, del i alle goder.",
+      "title": "Gør godt mod andre",
       "version": 1639695600000
     },
     {
-      "text": "\fSe, med hvor store bogstaver jeg skriver med min egen hånd. v12 Alle de som vil nyde anseelse i kødet, forsøger at tvinge jer til at lade jer omskære, udelukkende for at de ikke skal blive forfulgt på grund af Kristi kors. v13 For dem som lader sig omskære, overholder ikke engang selv loven, men de vil have at I lader jer omskære, for at de kan rose sig af jeres kød. v14 Men det skal ikke ske for mig at jeg roser mig af andet end vores herre Jesu Kristi kors, ved hvem verden er blevet korsfæstet for mig og jeg for verden. v15 For hverken omskærelse eller manglende omskærelse betyder noget, men en ny skabning. v16 Og alle de som vil vandre efter denne regel, fred og barmhjertighed være over dem og over Guds Israel. v17 For fremtiden skal ingen volde mig besvær, for jeg bærer Jesu sårmærker på min krop. v18 Vor Herre Jesu Kristi nåde være med jeres ånd, brødre. Amen",
+      "number": 7,
+      "text": "Lad jer ikke bedrage. Gud lader sig ikke spotte. For det et menneske sår, skal det også høste.",
+      "version": 1639695600000
+    },
+    {
+      "number": 8,
+      "text": "Det vil sige, den som sår i sit eget kød, skal høste fordærv af kødet, men den som sår i Ånden, skal høste evigt liv af Ånden.",
+      "version": 1639695600000
+    },
+    {
+      "number": 9,
+      "text": "Men når vi gør det gode, lad os da ikke blive trætte, for vi skal høste til rette tid hvis vi ikke bliver trætte.",
+      "version": 1639695600000
+    },
+    {
+      "number": 10,
+      "text": "Altså! mens vi har tid, så lad os gøre det gode mod alle, men mest mod troens fæller.",
+      "version": 1639695600000
+    },
+    {
       "number": 11,
-      "version": 1639695600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Bær hinandens byrder",
-      "verse": 1,
+      "text": "\fSe, med hvor store bogstaver jeg skriver med min egen hånd.",
+      "title": "Afslutning",
       "version": 1639695600000
     },
     {
-      "text": "Gør godt mod andre",
-      "verse": 2,
+      "number": 12,
+      "text": "Alle de som vil nyde anseelse i kødet, forsøger at tvinge jer til at lade jer omskære, udelukkende for at de ikke skal blive forfulgt på grund af Kristi kors.",
       "version": 1639695600000
     },
     {
-      "text": "Afslutning",
-      "verse": 7,
+      "number": 13,
+      "text": "For dem som lader sig omskære, overholder ikke engang selv loven, men de vil have at I lader jer omskære, for at de kan rose sig af jeres kød.",
+      "version": 1639695600000
+    },
+    {
+      "number": 14,
+      "text": "Men det skal ikke ske for mig at jeg roser mig af andet end vores herre Jesu Kristi kors, ved hvem verden er blevet korsfæstet for mig og jeg for verden.",
+      "version": 1639695600000
+    },
+    {
+      "number": 15,
+      "text": "For hverken omskærelse eller manglende omskærelse betyder noget, men en ny skabning.",
+      "version": 1639695600000
+    },
+    {
+      "number": 16,
+      "text": "Og alle de som vil vandre efter denne regel, fred og barmhjertighed være over dem og over Guds Israel.",
+      "version": 1639695600000
+    },
+    {
+      "number": 17,
+      "text": "For fremtiden skal ingen volde mig besvær, for jeg bærer Jesu sårmærker på min krop.",
+      "version": 1639695600000
+    },
+    {
+      "number": 18,
+      "text": "Vor Herre Jesu Kristi nåde være med jeres ånd, brødre. Amen",
       "version": 1639695600000
     }
-  ],
-  "footnotes": []
+  ]
 }

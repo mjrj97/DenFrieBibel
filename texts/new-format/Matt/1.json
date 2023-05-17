@@ -5,60 +5,163 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fSlægtsbog for Jesus Kristus, Davids søn, Abrahams søn. v2 Abraham blev far til Isak, og Isak blev far til Jakob, og Jakob blev far til Juda og hans brødre, v3 og Juda blev med Tamar far til Peres og Zera, og Peres blev far til Hesron, og Hesron blev far til Ram, v4 og Ram blev far til Amminadab, og Amminadab blev far til Nakshon, og Nakshon blev far til Salmon, v5 og Salmon blev med Rahab far til Boaz, og Boaz blev med Ruth far til Obed, og Obed blev far til Isaj, v6 og Isaj blev far til David, kongen. Og David blev med Urias’ hustru far til Salomo, v7 og Salomo blev far til Rehabeam, og Rehabeam blev far til Abiud, og Abiud blev far til Asaf, v8 og Asaf blev far til Joshafat, og Joshafat blev far til Joram, og Joram blev far til Uzzija, v9 og Uzzija blev far til Jotam, og Jotam blev far til Akaz, og Akaz blev far til Hizkija, v10 og Hizkija blev far til Manasse, og Manasse blev far til Amos, og Amos blev far til Josija, v11 og Josija blev far til Jekonja og hans brødre under bortførelsen til Babylon. v12 Og efter bortførelsen til Babylon blev Jekonja far til Shealtiel, og Shealtiel blev far til Zerubbabel, v13 og Zerubbabel blev far til Abiud, og Abiud blev far til Eljakim, og Eljakim blev far til Azor, v14 og Azor blev far til Sadok, og Sadok blev far til Akim, og Akim blev far til Eliud, v15 og Eliud blev far til Eleazar, og Eleazar blev far til Mattan, og Mattan blev far til Jakob, v16 og Jakob blev far til Josef, Marias mand, af hende blev Jesus født, han som kaldes Kristus. v17 Altså: Alle slægtled fra Abraham indtil David er fjorten slægtled, og fra David indtil bortførelsen til Babylon fjorten slægtled, og fra bortførelsen til Babylon indtil Kristus fjorten slægtled.",
       "number": 1,
+      "text": "Slægtsbog for Jesus Kristus, Davids søn, Abrahams søn.",
+      "title": "Jesu slægtsbog",
       "version": 1667170800000
     },
     {
-      "text": "\fMen Jesu Kristi fødsel var således: Mens hans mor Maria var forlovet med Josef, og før de var flyttet sammen, viste det sig at hun var blevet gravid ved Helligånden. v19 Men fordi Josef, hendes mand, var retfærdig og ikke ville bringe skam over hende, besluttede han at lade sig skille fra hende i hemmelighed. v20 Men mens han tænkte på dette, se, da viste en Herrens engel sig for ham i en drøm og sagde: »Josef, Davids søn, frygt ikke for at tage Maria, din hustru, hjem til dig. For det som er blevet til i hende, er af Helligånden. v21 Men hun skal føde en søn, og du skal give ham navnet Jesus, for han skal frelse sit folk fra deres synder.« v22 Men alt dette er sket for at det skal opfyldes som er blevet talt af Herren ved profeten, som sagde: v23 »Se, jomfruen skal blive gravid, og hun skal føde en søn, og man skal give ham navnet Immanuel,« som betyder: Gud med os. v24 Men da Josef var vågnet af sin søvn, gjorde han som Herrens engel havde befalet, og han tog sin hustru hjem til sig, v25 og han kendte hende ikke før hun havde født sin søn, og han gav ham navnet Jesus.",
+      "number": 2,
+      "text": "Abraham blev far til Isak, og Isak blev far til Jakob, og Jakob blev far til Juda og hans brødre,",
+      "footnotes": [
+        {
+          "text": "T: »Blev far til« kan bruges om far og søn, far og sønnesøn og far og oldebarn",
+          "position": 26
+        }
+      ],
+      "version": 1667170800000
+    },
+    {
+      "number": 3,
+      "text": "og Juda blev med Tamar far til Peres og Zera, og Peres blev far til Hesron, og Hesron blev far til Ram,",
+      "version": 1667170800000
+    },
+    {
+      "number": 4,
+      "text": "og Ram blev far til Amminadab, og Amminadab blev far til Nakshon, og Nakshon blev far til Salmon,",
+      "version": 1667170800000
+    },
+    {
+      "number": 5,
+      "text": "og Salmon blev med Rahab far til Boaz, og Boaz blev med Ruth far til Obed, og Obed blev far til Isaj,",
+      "version": 1667170800000
+    },
+    {
+      "number": 6,
+      "text": "og Isaj blev far til David, kongen. Og David blev med Urias’ hustru far til Salomo,",
+      "version": 1667170800000
+    },
+    {
+      "number": 7,
+      "text": "og Salomo blev far til Rehabeam, og Rehabeam blev far til Abiud, og Abiud blev far til Asaf,",
+      "version": 1667170800000
+    },
+    {
+      "number": 8,
+      "text": "og Asaf blev far til Joshafat, og Joshafat blev far til Joram, og Joram blev far til Uzzija,",
+      "version": 1667170800000
+    },
+    {
+      "number": 9,
+      "text": "og Uzzija blev far til Jotam, og Jotam blev far til Akaz, og Akaz blev far til Hizkija,",
+      "version": 1667170800000
+    },
+    {
+      "number": 10,
+      "text": "og Hizkija blev far til Manasse, og Manasse blev far til Amos, og Amos blev far til Josija,",
+      "version": 1667170800000
+    },
+    {
+      "number": 11,
+      "text": "og Josija blev far til Jekonja og hans brødre under bortførelsen til Babylon.",
+      "version": 1667170800000
+    },
+    {
+      "number": 12,
+      "text": "Og efter bortførelsen til Babylon blev Jekonja far til Shealtiel, og Shealtiel blev far til Zerubbabel,",
+      "version": 1667170800000
+    },
+    {
+      "number": 13,
+      "text": "og Zerubbabel blev far til Abiud, og Abiud blev far til Eljakim, og Eljakim blev far til Azor,",
+      "version": 1667170800000
+    },
+    {
+      "number": 14,
+      "text": "og Azor blev far til Sadok, og Sadok blev far til Akim, og Akim blev far til Eliud,",
+      "version": 1667170800000
+    },
+    {
+      "number": 15,
+      "text": "og Eliud blev far til Eleazar, og Eleazar blev far til Mattan, og Mattan blev far til Jakob,",
+      "version": 1667170800000
+    },
+    {
+      "number": 16,
+      "text": "og Jakob blev far til Josef, Marias mand, af hende blev Jesus født, han som kaldes Kristus.",
+      "version": 1667170800000
+    },
+    {
+      "number": 17,
+      "text": "Altså: Alle slægtled fra Abraham indtil David er fjorten slægtled, og fra David indtil bortførelsen til Babylon fjorten slægtled, og fra bortførelsen til Babylon indtil Kristus fjorten slægtled.",
+      "version": 1667170800000
+    },
+    {
       "number": 18,
-      "version": 1667170800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Jesu slægtsbog",
-      "verse": 1,
+      "text": "\fMen Jesu Kristi fødsel var således: Mens hans mor Maria var forlovet med Josef, og før de var flyttet sammen, viste det sig at hun var blevet gravid ved Helligånden.",
+      "title": "Jesu fødsel",
       "version": 1667170800000
     },
     {
-      "text": "Jesu fødsel",
-      "verse": 2,
+      "number": 19,
+      "text": "Men fordi Josef, hendes mand, var retfærdig og ikke ville bringe skam over hende, besluttede han at lade sig skille fra hende i hemmelighed.",
       "version": 1667170800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "»Blev far til« kan bruges om far og søn, far og sønnesøn og far og oldebarn",
-      "type": "T",
-      "verse": 1,
-      "position": 85
     },
     {
-      "text": "Es 7,14",
-      "type": "H",
-      "verse": 18,
-      "position": 754
+      "number": 20,
+      "text": "Men mens han tænkte på dette, se, da viste en Herrens engel sig for ham i en drøm og sagde: »Josef, Davids søn, frygt ikke for at tage Maria, din hustru, hjem til dig. For det som er blevet til i hende, er af Helligånden.",
+      "version": 1667170800000
     },
     {
-      "text": "Ordet »kendte« bruges her om et seksuelt forhold.",
-      "type": "T",
-      "verse": 18,
-      "position": 1019
+      "number": 21,
+      "text": "Men hun skal føde en søn, og du skal give ham navnet Jesus, for han skal frelse sit folk fra deres synder.«",
+      "version": 1667170800000
+    },
+    {
+      "number": 22,
+      "text": "Men alt dette er sket for at det skal opfyldes som er blevet talt af Herren ved profeten, som sagde:",
+      "footnotes": [
+        {
+          "text": "H: Es 7,14",
+          "position": 100
+        }
+      ],
+      "version": 1667170800000
+    },
+    {
+      "number": 23,
+      "text": "»Se, jomfruen skal blive gravid, og hun skal føde en søn, og man skal give ham navnet Immanuel,« som betyder: Gud med os.",
+      "version": 1667170800000
+    },
+    {
+      "number": 24,
+      "text": "Men da Josef var vågnet af sin søvn, gjorde han som Herrens engel havde befalet, og han tog sin hustru hjem til sig,",
+      "version": 1667170800000
+    },
+    {
+      "number": 25,
+      "text": "og han kendte hende ikke før hun havde født sin søn, og han gav ham navnet Jesus.",
+      "footnotes": [
+        {
+          "text": "T: Ordet »kendte« bruges her om et seksuelt forhold.",
+          "position": 13
+        }
+      ],
+      "version": 1667170800000
     }
   ]
 }

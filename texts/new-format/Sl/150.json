@@ -5,75 +5,59 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fHalleluja!\fLovpris Gud i hans helligdom,\flovpris ham i hans vældes himmelhvælving!",
       "number": 1,
+      "text": "Halleluja!\fLovpris Gud i hans helligdom,\flovpris ham i hans vældes himmelhvælving!",
+      "title": "Jord og himmel skal lovprise Guds storhed",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes: »hans hellighed«, men i sammenhængen er der formodentlig tænkt på templet.",
+          "position": 40
+        }
+      ],
       "version": 1504476000000
     },
     {
-      "text": "\fLovpris ham for hans mægtige gerninger,\flovpris ham i overensstemmelse med hans vældige storhed!",
       "number": 2,
+      "text": "\fLovpris ham for hans mægtige gerninger,\flovpris ham i overensstemmelse med hans vældige storhed!",
       "version": 1504476000000
     },
     {
-      "text": "\fLovpris ham med stød i basun,\flovpris ham med harpe og citer,",
       "number": 3,
+      "text": "\fLovpris ham med stød i basun,\flovpris ham med harpe og citer,",
+      "title": "Lovprisning med stort orkester",
       "version": 1504476000000
     },
     {
-      "text": "\flovpris ham med pauke og dans,\flovpris ham med strengespil og fløjte,",
       "number": 4,
+      "text": "\flovpris ham med pauke og dans,\flovpris ham med strengespil og fløjte,",
       "version": 1504476000000
     },
     {
-      "text": "\flovpris ham med klingende cymbler,\flovpris ham med rungende cymbler!",
       "number": 5,
+      "text": "\flovpris ham med klingende cymbler,\flovpris ham med rungende cymbler!",
       "version": 1504476000000
     },
     {
-      "text": "\fAlt som har ånde, skal lovprise JHVH!\fHalleluja!",
       "number": 6,
+      "text": "\fAlt som har ånde, skal lovprise JHVH!\fHalleluja!",
+      "title": "Alle skal lovprise JHVH",
+      "footnotes": [
+        {
+          "text": "T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "position": 38
+        }
+      ],
       "version": 1504476000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Jord og himmel skal lovprise Guds storhed",
-      "verse": 1,
-      "version": 1504476000000
-    },
-    {
-      "text": "Lovprisning med stort orkester",
-      "verse": 3,
-      "version": 1504476000000
-    },
-    {
-      "text": "Alle skal lovprise JHVH",
-      "verse": 6,
-      "version": 1504476000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Kan også oversættes: »hans hellighed«, men i sammenhængen er der formodentlig tænkt på templet.",
-      "type": "E",
-      "verse": 1,
-      "position": 41
-    },
-    {
-      "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
-      "type": "T",
-      "verse": 6,
-      "position": 38
     }
   ]
 }

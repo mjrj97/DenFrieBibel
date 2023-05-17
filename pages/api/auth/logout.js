@@ -1,4 +1,4 @@
-import { connection } from '@/src/db/connection';
+import { connection } from '@/src/db/connection.js';
 import { serialize } from 'cookie';
 
 const handler = async (req, res) => {

@@ -5,151 +5,125 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fIsrael opholdt sig i Shittim, og folket begyndte at hore med moabitternes døtre.",
       "number": 1,
+      "text": "\fIsrael opholdt sig i Shittim, og folket begyndte at hore med moabitternes døtre.",
+      "title": "De moabitiske kvinder lokker israelitterne til hor og afguderi. Afgudsdyrkerne slås ihjel.",
       "version": 1496181600000
     },
     {
-      "text": "De indbød folket til deres guders offermåltider. Folket spiste, og de tilbad deres guder.",
       "number": 2,
+      "text": "De indbød folket til deres guders offermåltider. Folket spiste, og de tilbad deres guder.",
       "version": 1496181600000
     },
     {
-      "text": "Israel knyttede sig til Ba’al-Peor. Da blussede JHVHs vrede op imod Israel.",
       "number": 3,
+      "text": "Israel knyttede sig til Ba’al-Peor. Da blussede JHVHs vrede op imod Israel.",
       "version": 1496181600000
     },
     {
-      "text": "JHVH sagde til Moses: »Hent alle overhovederne for folket, og lad dem henrette på en pæl i fuldt dagslys for JHVH, så skal JHVHs brændende vrede vendes fra Israel.«",
       "number": 4,
+      "text": "JHVH sagde til Moses: »Hent alle overhovederne for folket, og lad dem henrette på en pæl i fuldt dagslys for JHVH, så skal JHVHs brændende vrede vendes fra Israel.«",
       "version": 1496181600000
     },
     {
-      "text": "Moses sagde til Israels dommere: »Hver af jer skal slå de af sine folk ihjel som har holdt sig til Ba’al-Peor.«",
       "number": 5,
+      "text": "Moses sagde til Israels dommere: »Hver af jer skal slå de af sine folk ihjel som har holdt sig til Ba’al-Peor.«",
       "version": 1496181600000
     },
     {
-      "text": "Og se bare, en israelit kom og førte en midjanitisk kvinde hen til sine brødre, for øjnene af Moses og hele israelitternes forsamling, mens de sad og græd ved indgangen til forsamlingsteltet.",
       "number": 6,
+      "text": "Og se bare, en israelit kom og førte en midjanitisk kvinde hen til sine brødre, for øjnene af Moses og hele israelitternes forsamling, mens de sad og græd ved indgangen til forsamlingsteltet.",
       "version": 1496181600000
     },
     {
-      "text": "\fPinehas, der var søn af Eleazar, præsten Arons søn, så det, og han stillede sig op midt i forsamlingen og tog et spyd i hånden.",
       "number": 7,
+      "text": "\fPinehas, der var søn af Eleazar, præsten Arons søn, så det, og han stillede sig op midt i forsamlingen og tog et spyd i hånden.",
+      "title": "Pinehas stiller Guds vrede.",
       "version": 1496181600000
     },
     {
-      "text": "Han gik ind efter den israelitiske mand ind i teltet og stak spyddet gennem dem begge, både den israelitiske mand og kvinden, så det gik gennem hendes liv. Da forlod plagen israelitterne.",
       "number": 8,
+      "text": "Han gik ind efter den israelitiske mand ind i teltet og stak spyddet gennem dem begge, både den israelitiske mand og kvinden, så det gik gennem hendes liv. Da forlod plagen israelitterne.",
       "version": 1496181600000
     },
     {
-      "text": "Under denne plage døde 24.000.",
       "number": 9,
+      "text": "Under denne plage døde 24.000.",
       "version": 1496181600000
     },
     {
-      "text": "\fJHVH sagde til Moses:",
       "number": 10,
-      "version": 1496181600000
-    },
-    {
-      "text": "»Pinehas, der er søn af Eleazar, præsten Arons søn, har vendt min vrede fra israelitterne, for han var optændt af lidenskab for mig midt iblandt dem, så at jeg ikke i min lidenskabelighed gjorde en ende på israelitterne.",
-      "number": 11,
-      "version": 1496181600000
-    },
-    {
-      "text": "Derfor skal du sige: »Se, jeg laver en fredspagt med ham.",
-      "number": 12,
-      "version": 1496181600000
-    },
-    {
-      "text": "Han og hans efterkommere skal have en pagt om et evigt præstedømme, fordi han var lidenskabeligt jaloux for sin Gud og skaffede soning for israelitterne.«",
-      "number": 13,
-      "version": 1496181600000
-    },
-    {
-      "text": "\fMen navnet på den dræbte israelitiske mand, som blev slået ned sammen med den midjanitiske kvinde, var Zimri, søn af Salu og leder af et af simeonitternes fædrenehuse.",
-      "number": 14,
-      "version": 1496181600000
-    },
-    {
-      "text": "Og navnet på den dræbte midjanitiske kvinde var Kozbi, datter af Sur. Han var leder af et fædrenehus blandt midjanitterne.",
-      "number": 15,
-      "version": 1496181600000
-    },
-    {
       "text": "\fJHVH sagde til Moses:",
+      "title": "JHVH lover Pinehas et evigt præstedømme.",
+      "version": 1496181600000
+    },
+    {
+      "number": 11,
+      "text": "»Pinehas, der er søn af Eleazar, præsten Arons søn, har vendt min vrede fra israelitterne, for han var optændt af lidenskab for mig midt iblandt dem, så at jeg ikke i min lidenskabelighed gjorde en ende på israelitterne.",
+      "footnotes": [
+        {
+          "text": "T: Tidligere oversat med »nidkær«.",
+          "position": 123
+        },
+        {
+          "text": "T: Tidligere oversat med »nidkærhed«.",
+          "position": 187
+        }
+      ],
+      "version": 1496181600000
+    },
+    {
+      "number": 12,
+      "text": "Derfor skal du sige: »Se, jeg laver en fredspagt med ham.",
+      "version": 1496181600000
+    },
+    {
+      "number": 13,
+      "text": "Han og hans efterkommere skal have en pagt om et evigt præstedømme, fordi han var lidenskabeligt jaloux for sin Gud og skaffede soning for israelitterne.«",
+      "version": 1496181600000
+    },
+    {
+      "number": 14,
+      "text": "\fMen navnet på den dræbte israelitiske mand, som blev slået ned sammen med den midjanitiske kvinde, var Zimri, søn af Salu og leder af et af simeonitternes fædrenehuse.",
+      "title": "Navnet på den Pinehas dræbte.",
+      "version": 1496181600000
+    },
+    {
+      "number": 15,
+      "text": "Og navnet på den dræbte midjanitiske kvinde var Kozbi, datter af Sur. Han var leder af et fædrenehus blandt midjanitterne.",
+      "version": 1496181600000
+    },
+    {
       "number": 16,
+      "text": "\fJHVH sagde til Moses:",
+      "title": "Moses skal angribe midjanitterne fordi de har forført folket.",
       "version": 1496181600000
     },
     {
-      "text": "»Angrib midjanitterne og slå dem.",
       "number": 17,
+      "text": "»Angrib midjanitterne og slå dem.",
       "version": 1496181600000
     },
     {
-      "text": "For de angreb jer med deres lumske handlinger i sagen med Peor og med Kozbi, den midjanitiske leders datter, deres kvindelige slægtning, som blev dræbt på den dag da plagen indtraf på grund af Peor.",
       "number": 18,
+      "text": "For de angreb jer med deres lumske handlinger i sagen med Peor og med Kozbi, den midjanitiske leders datter, deres kvindelige slægtning, som blev dræbt på den dag da plagen indtraf på grund af Peor.",
+      "footnotes": [
+        {
+          "text": "T: Teksten bruger her udtrykket »søster« i den bredere betydning af en beslægtet kvinde eller landsmand.",
+          "position": 136
+        }
+      ],
       "version": 1496181600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "De moabitiske kvinder lokker israelitterne til hor og afguderi. Afgudsdyrkerne slås ihjel.",
-      "verse": 1,
-      "version": 1496181600000
-    },
-    {
-      "text": "Pinehas stiller Guds vrede.",
-      "verse": 7,
-      "version": 1496181600000
-    },
-    {
-      "text": "JHVH lover Pinehas et evigt præstedømme.",
-      "verse": 10,
-      "version": 1496181600000
-    },
-    {
-      "text": "Navnet på den Pinehas dræbte.",
-      "verse": 14,
-      "version": 1496181600000
-    },
-    {
-      "text": "Moses skal angribe midjanitterne fordi de har forført folket.",
-      "verse": 16,
-      "version": 1496181600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Tidligere oversat med »nidkær«.",
-      "type": "T",
-      "verse": 11,
-      "position": 123
-    },
-    {
-      "text": "Tidligere oversat med »nidkærhed«.",
-      "type": "T",
-      "verse": 11,
-      "position": 187
-    },
-    {
-      "text": "Teksten bruger her udtrykket »søster« i den bredere betydning af en beslægtet kvinde eller landsmand.",
-      "type": "T",
-      "verse": 18,
-      "position": 136
     }
   ]
 }

@@ -5,271 +5,245 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fHERREN sagde til mig:\n\t\t\t»Tag dig en stor tavle\n\t\t\t\t\tog skriv på den med menneskeskrift:\n\t\t\t\t\t\t›Hurtigt bytte - hastigt rov‹.",
       "number": 1,
+      "text": "\fHERREN sagde til mig:\t\t\t»Tag dig en stor tavle\t\t\t\t\tog skriv på den med menneskeskrift:\t\t\t\t\t\t›Hurtigt bytte - hastigt rov‹.",
+      "title": "Truslen fra Assyrien. JHVH kalder folket til omvendelse",
+      "footnotes": [
+        {
+          "text": "T: Meningen er: »med tydelig, alment læselig skrift«",
+          "position": 87
+        },
+        {
+          "text": "E: Hebraisk: *lᵊmahēr šālāl ḥāš baz*. Det indledende *lᵊ* er ikke oversat. Det bruges på mindesten til at angive at den er »for …«.",
+          "position": 123
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\t\t\t\tOg jeg vil skaffe mig pålidelige vidner: Urija, præsten, og Zekarja, Jeberekjas søn.«",
       "number": 2,
+      "text": "\t\t\t\tOg jeg vil skaffe mig pålidelige vidner: Urija, præsten, og Zekarja, Jeberekjas søn.«",
       "version": 1675983600000
     },
     {
-      "text": "\t\tSå gik jeg ind til profetinden,\n\t\t\t\tog hun blev gravid\n\t\t\t\tog fødte en søn;\n\t\t\tog HERREN sagde til mig:\n\t\t\t\t»Kald ham: Hurtigt bytte - hastigt rov,",
       "number": 3,
+      "text": "\t\tSå gik jeg ind til profetinden,\t\t\t\tog hun blev gravid\t\t\t\tog fødte en søn;\t\t\tog HERREN sagde til mig:\t\t\t\t»Kald ham: Hurtigt bytte - hastigt rov,",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »nærmede mig«. Formuleringen dækker over intimt samvær.",
+          "position": 20
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\t\t\t\t\tfor\n\t\t\t\t\t\t\tfør barnet forstår\n\t\t\t\t\t\t\t\tat kalde ›Min far og min mor!‹\n\t\t\t\t\t\tskal man bringe Damaskus’ rigdom og Samarias bytte hen til kongen af Assyrien«",
       "number": 4,
+      "text": "\t\t\t\t\tfor\t\t\t\t\t\t\tfør barnet forstår\t\t\t\t\t\t\t\tat kalde ›Min far og min mor!‹\t\t\t\t\t\tskal man bringe Damaskus’ rigdom og Samarias bytte hen til kongen af Assyrien«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »hen foran Assyriens konges ansigt«.",
+          "position": 155
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\tJHVH fortsatte\n\t\t\tmed at tale til mig\n\t\t\t\tog sagde:",
       "number": 5,
+      "text": "\tJHVH fortsatte\t\t\tmed at tale til mig\t\t\t\tog sagde:",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t»Fordi dette folk\fhar forkastet\fSiloas vande\n\t\t\t\t\t\t\tder flyder sagte,\f\n\t\t\t\t\t\t\t\tog der er glæde over Resin\fog Remaljas søn,",
       "number": 6,
+      "text": "\f\t\t\t\t\t»Fordi dette folk \fhar forkastet \fSiloas vande\t\t\t\t\t\t\tder flyder sagte,\t\t\t\t\t\t\t\tog der er glæde over Resin  og Remaljas søn,",
+      "footnotes": [
+        {
+          "text": "E: Der er foreslået forskellige rettelser til den hebraiske tekst, mest oplagt: *mᵊśôś ʔet* til: *māsôs miśśʔet*: »har mistet modet«. Rettelsen har dog ingen støtte i hebraiske håndskrifter.",
+          "position": 99
+        },
+        {
+          "text": "T: Ordret: »med«.",
+          "position": 104
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\tse, derfor lader Herren flodens vande kommer over dem,\fde mægtige og mange\f– Assyriens konge og hele hans herlighed –\f\n\t\t\t\t\t\t\t\tog den skal stige op over alle sine flodlejer\f\n\t\t\t\t\t\t\t\tog gå over alle sine bredder;",
       "number": 7,
+      "text": "\f\t\t\t\t\t\tse, derfor lader Herren flodens vande kommer over dem, \fde mægtige og mange \f– Assyriens konge og hele hans herlighed – \f\t\t\t\t\t\t\t\tog den skal stige op over alle sine flodlejer \f\t\t\t\t\t\t\t\tog gå over alle sine bredder;",
+      "footnotes": [
+        {
+          "text": "T: Det er Eufrat.",
+          "position": 38
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\tden trænger ind i Juda,\f\n\t\t\t\t\t\t\toversvømmer\n\t\t\t\t\t\t\t\t\tog går op over;\f\n\t\t\t\t\t\t\t\tden skal nå til halsen.\f\n\t\t\t\t\t\t\t\t\tOg hans spredte vinger\fskal fylde dit land så langt det er.\f\n\t\t\t\t\t\t\t\t\t\tGud med os!",
       "number": 8,
+      "text": "\f\t\t\t\t\t\t\t\tden trænger ind i Juda, \f\t\t\t\t\t\t\toversvømmer\t\t\t\t\t\t\t\t\tog går op over; \f\t\t\t\t\t\t\t\tden skal nå til halsen. \f\t\t\t\t\t\t\t\t\tOg hans spredte vinger \fskal fylde dit land så langt det er. \f\t\t\t\t\t\t\t\t\t\tGud med os!",
+      "footnotes": [
+        {
+          "text": "T: Der er muligvis tænkt på at vandet stiger over højene.",
+          "position": 76
+        },
+        {
+          "text": "T: Kan også oversættes: »dens«. Det hebraiske ord kan gå på både assyrerkongen og floden.",
+          "position": 127
+        },
+        {
+          "text": "E: Hebraisk: *ʕimmānû ʔēl*. I 7,14 og Matt 1,23 er det opfattet som navn på den kommende søn. På hebraisk er det to ord – det er usikkert om det her og i vers 10 er et navn eller en bøn eller tillidserklæring.",
+          "position": 203
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\tHandl ondt,\n\t\t\t\t\t\t\tI folkeslag,\n\t\t\t\t\t\tmen bliv forfærdede!\f\n\t\t\t\t\tLyt efter,\n\t\t\t\t\t\talle jordens fjerne egne!\f\n\t\t\t\tSpænd bæltet,\n\t\t\t\t\tmen I skal blive forfærdede!\f\n\t\t\t\tSpænd bæltet,\n\t\t\t\t\tmen I skal blive forfærdede!",
       "number": 9,
+      "text": "\f\t\tHandl ondt,\t\t\t\t\t\t\tI folkeslag,\t\t\t\t\t\tmen bliv forfærdede! \f\t\t\t\t\tLyt efter,\t\t\t\t\t\talle jordens fjerne egne! \f\t\t\t\tSpænd bæltet,\t\t\t\t\tmen I skal blive forfærdede! \f\t\t\t\tSpænd bæltet,\t\t\t\t\tmen I skal blive forfærdede!",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\tLæg en plan,\n\t\t\t\t\tmen den vil blive til intet!\f\n\t\t\t\tUdsted en ordre,\f\n\t\t\t\t\tmen den vil ikke blive udført!\f\n\t\t\t\t\t\tFor Gud er med os!«",
       "number": 10,
+      "text": "\f\t\t\t\tLæg en plan,\t\t\t\t\tmen den vil blive til intet! \f\t\t\t\tUdsted en ordre, \f\t\t\t\t\tmen den vil ikke blive udført! \f\t\t\t\t\t\tFor Gud er med os!«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »tal et ord«.",
+          "position": 72
+        },
+        {
+          "text": "T: Hebraisk: »Immanuel«.",
+          "position": 136
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\tFor sådan sagde JHVH til mig da hans hånd overmandede mig,\n\t\t\t\t\t\tog han advarede mig\n\t\t\t\t\t\t\tmod at vandre på dette folks vej:",
       "number": 11,
+      "text": "\f\t\t\tFor sådan sagde JHVH til mig da hans hånd overmandede mig,\t\t\t\t\t\tog han advarede mig\t\t\t\t\t\t\tmod at vandre på dette folks vej:",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t»I skal ikke kalde alt det sammensværgelse\f\n\t\t\t\t\t\t\t\tsom dette folk kalder sammensværgelse!\f\n\t\t\t\t\t\t\tFrygt ikke det som det frygter,\f\n\t\t\t\tog nær ikke rædsel!",
       "number": 12,
+      "text": "\f\t\t\t\t\t\t»I skal ikke kalde alt det sammensværgelse \f\t\t\t\t\t\t\t\tsom dette folk kalder sammensværgelse! \f\t\t\t\t\t\t\tFrygt ikke det som det frygter, \f\t\t\t\tog nær ikke rædsel!",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\tHærskarers HERRE,\n\t\t\t\t\t\t\t\t\than skal være hellig for jer;\f\n\t\t\t\t\t\t\t\than skal være genstand for jeres frygt,\f\n\t\t\t\t\t\t\t\tog han skal være jeres rædsel.",
       "number": 13,
+      "text": "\f\t\t\t\tHærskarers HERRE,\t\t\t\t\t\t\t\t\than skal være hellig for jer; \f\t\t\t\t\t\t\t\than skal være genstand for jeres frygt, \f\t\t\t\t\t\t\t\tog han skal være jeres rædsel.",
+      "footnotes": [
+        {
+          "text": "N: Hærskarers",
+          "position": 22
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\tFor han skal være en helligdom,\f\n\t\t\t\t\t\t\t\tmen også en anstødssten og en klippe man snubler over,\ffor Israels to huse,\f\n\t\t\t\t\t\t\t\t\ten fælde og en snare for Jerusalems indbyggere.",
       "number": 14,
+      "text": "\f\t\t\t\t\t\t\tFor han skal være en helligdom, \f\t\t\t\t\t\t\t\tmen også en anstødssten og en klippe man snubler over, \ffor Israels to huse, \f\t\t\t\t\t\t\t\t\ten fælde og en snare for Jerusalems indbyggere.",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\t\tMange skal snuble\f\n\t\t\t\t\t\t\t\t\t\t\tog falde\n\t\t\t\t\t\t\t\t\t\t\tog kvæstes\f\n\t\t\t\t\t\t\t\t\t\t\tog gå i fælden\n\t\t\t\t\t\t\t\t\t\t\tog fanges.",
       "number": 15,
+      "text": "\f\t\t\t\t\t\t\t\t\t\tMange skal snuble \f\t\t\t\t\t\t\t\t\t\t\tog falde\t\t\t\t\t\t\t\t\t\t\tog kvæstes \f\t\t\t\t\t\t\t\t\t\t\tog gå i fælden\t\t\t\t\t\t\t\t\t\t\tog fanges.",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\tBind til for vidnesbyrdet,\f\n\t\t\t\t\t\t\t\tforsegl loven hos mine disciple!«",
       "number": 16,
+      "text": "\f\t\t\t\t\t\tBind til for vidnesbyrdet,\f\t\t\t\t\t\t\t\tforsegl loven hos mine disciple!«",
+      "footnotes": [
+        {
+          "text": "T: Det hebraiske ord »tora« kan også i sammenhængen oversættes: »belæring/vejledning«. Disse betydninger ligger også i det hebraiske ord.",
+          "position": 55
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\tSå jeg vil vente på JHVH,\f\n\t\t\t\t\t\t\t\t\t\t\tder skjuler sit ansigt for Jakobs hus,\f\n\t\t\t\t\t\t\t\t\t\tog jeg vil håbe på ham.",
       "number": 17,
+      "text": "\f\t\t\t\t\t\t\t\t\tSå jeg vil vente på JHVH, \f\t\t\t\t\t\t\t\t\t\t\tder skjuler sit ansigt for Jakobs hus,\f\t\t\t\t\t\t\t\t\t\tog jeg vil håbe på ham.",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\tSe, her er jeg og de børn\f\n\t\t\t\t\t\t\t\t\tsom JHVH har givet mig,\n\t\t\t\t\t\t\t\ttil tegn og varsler i Israelfra Hærskarers HERRE,\f\n\t\t\t\t\t\t\t\t\tder bor på Zions bjerg.",
       "number": 18,
+      "text": "\f\t\t\t\t\t\t\tSe, her er jeg og de børn \f\t\t\t\t\t\t\t\t\tsom JHVH har givet mig,\t\t\t\t\t\t\t\ttil tegn og varsler i Israel fra Hærskarers HERRE,\f\t\t\t\t\t\t\t\t\tder bor på Zions bjerg.",
+      "footnotes": [
+        {
+          "text": "N: Hærskarers",
+          "position": 125
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\tOg når de siger til jer:\n\t\t\t\t\t\t\t»Konsulter dødemanerne og sandsigerne,\n\t\t\t\t\t\t\t\tder hvisker\n\t\t\t\t\t\t\t\t\tog mumler.\n\t\t\t\t\t\t« Skal et folk ikke søge til sin Gud?\n\t\t\t\t\t\t\t\tSøge til de døde frem for de levende?",
       "number": 19,
+      "text": "\f\t\t\t\t\tOg når de siger til jer:\t\t\t\t\t\t\t»Konsulter dødemanerne og sandsigerne,\t\t\t\t\t\t\t\tder hvisker\t\t\t\t\t\t\t\t\tog mumler.\t\t\t\t\t\t« Skal et folk ikke søge til sin Gud?\t\t\t\t\t\t\t\tSøge til de døde frem for de levende?",
+      "footnotes": [
+        {
+          "text": "T: Meningen må være at folket skal svare: »Skal et folk ikke …«",
+          "position": 125
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\t»Til loven og til vidnesbyrdet!«\f\n\t\t\t\t\t\t\tHvis de ikke siger sådan,\f\n\t\t\t\t\t\t\t\t\ter der ikke nogen morgenrøde for dem.",
       "number": 20,
+      "text": "\f\t\t\t\t\t\t\t\t\t»Til loven og til vidnesbyrdet!« \f\t\t\t\t\t\t\tHvis de ikke siger sådan, \f\t\t\t\t\t\t\t\t\ter der ikke nogen morgenrøde for dem.",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\tHan skal drage igennem det,\n\t\t\t\t\t\t\t\t\tplaget\n\t\t\t\t\t\t\t\t\t\tog sulten;\f\n\t\t\t\t\t\t\t\tog\n\t\t\t\t\t\t\t\t\tnår han sulter,\n\t\t\t\t\t\t\t\t\t\tvil han blive rasende\f\n\t\t\t\t\t\t\t\t\t\tog forbande sin konge og sin Gud.\f\n\t\t\t\t\t\t\t\t\t\tOg er han vendt mod det høje,",
       "number": 21,
+      "text": "\f\t\t\t\t\t\t\t\tHan skal drage igennem det,\t\t\t\t\t\t\t\t\tplaget\t\t\t\t\t\t\t\t\t\tog sulten; \f\t\t\t\t\t\t\t\tog\t\t\t\t\t\t\t\t\tnår han sulter,\t\t\t\t\t\t\t\t\t\tvil han blive rasende \f\t\t\t\t\t\t\t\t\t\tog forbande sin konge og sin Gud. \f\t\t\t\t\t\t\t\t\t\tOg er han vendt mod det høje,",
+      "footnotes": [
+        {
+          "text": "T: Landet.",
+          "position": 36
+        }
+      ],
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\teller vil han se hen til jorden,\f\n\t\t\t\t\t\t\t\t\t\t\tse, så er der nød og mørke,\ftrængsels mørke,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog han er stødt ud i mulm.",
       "number": 22,
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\teller vil han se hen til jorden, \f\t\t\t\t\t\t\t\t\t\t\tse, så er der nød og mørke, \ftrængsels mørke, \f\t\t\t\t\t\t\t\t\t\t\t\t\tog han er stødt ud i mulm.",
       "version": 1675983600000
     },
     {
-      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tMen der skal ikke være mørke over det,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thvor der er trængsel nu.\f\n\t\t\t\t\t\t\t\t\t\t\t\tLigesom han i den første tid bragte vanære over Zebulons landog Naftalis land,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tsådan vil han i den sidste tid bringe ære\fover Vejen langs Havet,\fpå den anden side af Jordan,\ffolkeslagenes Galilæa.",
       "number": 23,
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tMen der skal ikke være mørke over det,  \f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thvor der er trængsel nu. \f\t\t\t\t\t\t\t\t\t\t\t\tLigesom han i den første tid bragte vanære over Zebulons land og Naftalis land, \f\t\t\t\t\t\t\t\t\t\t\t\t\tsådan vil han i den sidste tid bringe ære \fover Vejen langs Havet, \fpå den anden side af Jordan, \ffolkeslagenes  Galilæa.",
+      "title": "Davidssønnens fødsel og virke",
+      "footnotes": [
+        {
+          "text": "T: Landet.",
+          "position": 54
+        },
+        {
+          "text": "T: Ordret: »Havets Vej«.",
+          "position": 269
+        },
+        {
+          "text": "T: Kan også oversættes: »hedningernes«.",
+          "position": 315
+        }
+      ],
       "version": 1675983600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Truslen fra Assyrien. JHVH kalder folket til omvendelse",
-      "verse": 1,
-      "version": 1675983600000
-    },
-    {
-      "text": "Davidssønnens fødsel og virke",
-      "verse": 23,
-      "version": 1675983600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Meningen er: »med tydelig, alment læselig skrift«",
-      "type": "T",
-      "verse": 1,
-      "position": 89
-    },
-    {
-      "text": "Hebraisk: *lᵊmahēr šālāl ḥāš baz*. Det indledende *lᵊ* er ikke oversat. Det bruges på mindesten til at angive at den er »for …«.",
-      "type": "E",
-      "verse": 1,
-      "position": 126
-    },
-    {
-      "text": "Ordret: »nærmede mig«. Formuleringen dækker over intimt samvær.",
-      "type": "T",
-      "verse": 3,
-      "position": 20
-    },
-    {
-      "text": "Ordret: »hen foran Assyriens konges ansigt«.",
-      "type": "T",
-      "verse": 4,
-      "position": 158
-    },
-    {
-      "text": "Der er foreslået forskellige rettelser til den hebraiske tekst, mest oplagt: *mᵊśôś ʔet* til: *māsôs miśśʔet*: »har mistet modet«. Rettelsen har dog ingen støtte i hebraiske håndskrifter.",
-      "type": "E",
-      "verse": 6,
-      "position": 100
-    },
-    {
-      "text": "Ordret: »med«.",
-      "type": "T",
-      "verse": 6,
-      "position": 105
-    },
-    {
-      "text": "Det er Eufrat.",
-      "type": "T",
-      "verse": 7,
-      "position": 38
-    },
-    {
-      "text": "Der er muligvis tænkt på at vandet stiger over højene.",
-      "type": "T",
-      "verse": 8,
-      "position": 77
-    },
-    {
-      "text": "Kan også oversættes: »dens«. Det hebraiske ord kan gå på både assyrerkongen og floden.",
-      "type": "T",
-      "verse": 8,
-      "position": 128
-    },
-    {
-      "text": "Hebraisk: *ʕimmānû ʔēl*. I 7,14 og Matt 1,23 er det opfattet som navn på den kommende søn. På hebraisk er det to ord – det er usikkert om det her og i vers 10 er et navn eller en bøn eller tillidserklæring.",
-      "type": "E",
-      "verse": 8,
-      "position": 203
-    },
-    {
-      "text": "Ordret: »tal et ord«.",
-      "type": "T",
-      "verse": 10,
-      "position": 73
-    },
-    {
-      "text": "Hebraisk: »Immanuel«.",
-      "type": "T",
-      "verse": 10,
-      "position": 137
-    },
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 13,
-      "position": 22
-    },
-    {
-      "text": "Det hebraiske ord »tora« kan også i sammenhængen oversættes: »belæring/vejledning«. Disse betydninger ligger også i det hebraiske ord.",
-      "type": "T",
-      "verse": 16,
-      "position": 56
-    },
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 18,
-      "position": 125
-    },
-    {
-      "text": "Meningen må være at folket skal svare: »Skal et folk ikke …«",
-      "type": "T",
-      "verse": 19,
-      "position": 129
-    },
-    {
-      "text": "Landet.",
-      "type": "T",
-      "verse": 21,
-      "position": 36
-    },
-    {
-      "text": "Landet.",
-      "type": "T",
-      "verse": 23,
-      "position": 54
-    },
-    {
-      "text": "Ordret: »Havets Vej«.",
-      "type": "T",
-      "verse": 23,
-      "position": 267
-    },
-    {
-      "text": "Kan også oversættes: »hedningernes«.",
-      "type": "T",
-      "verse": 23,
-      "position": 311
     }
   ]
 }

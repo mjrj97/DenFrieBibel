@@ -5,153 +5,125 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen. Med strengespil.\fAf David.",
       "number": 1,
+      "text": "Til korlederen. Med strengespil.\fAf David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHør min klage, Gud!\fLyt opmærksomt til min bøn!",
       "number": 2,
+      "text": "\fHør min klage, Gud!\fLyt opmærksomt til min bøn!",
+      "title": "Klage og tillidsfuld bøn",
+      "footnotes": [
+        {
+          "text": "E: Det er omdiskuteret om *rinnāʰ* her betegner jubelråb eller klageråb.",
+          "position": 15
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFra jordens ende\fråber jeg til dig\fnår mit hjerte bliver svagt.\fDu skal føre mig op på en klippe som er for høj for mig.",
       "number": 3,
+      "text": "\fFra jordens ende\fråber jeg til dig\fnår mit hjerte bliver svagt.\fDu skal føre mig op på en klippe som er for høj for mig.",
+      "footnotes": [
+        {
+          "text": "E: Kan også oversættes: »fra landets yderste grænse«. Her måske mere udtryk for Davids afmagt end for hans opholdssted.",
+          "position": 12
+        },
+        {
+          "text": "T: Andre oversætter: »som er højere end mig«.",
+          "position": 121
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFor du har været min tilflugt,\fet fæstningstårn mod fjenden.",
       "number": 4,
+      "text": "\fFor du har været min tilflugt,\fet fæstningstårn mod fjenden.",
       "version": 1500242400000
     },
     {
-      "text": "\fJeg vil nyde gæstevenskab i dit telt i al evighed,\fjeg vil søge tilflugt under dine vingers skjul. Sela",
       "number": 5,
+      "text": "\fJeg vil nyde gæstevenskab i dit telt i al evighed,\fjeg vil søge tilflugt under dine vingers skjul. Sela",
+      "footnotes": [
+        {
+          "text": "E: Den der blev modtaget som »gæst« hos orientaleren, fik tilsagt venskab og beskyttelse. Gæsten kunne vide sig helt under værtens beskyttelse og omsorg.",
+          "position": 26
+        },
+        {
+          "text": "N: Sela",
+          "position": 104
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fFor du, Gud, har hørt mine løfter,\fdu har givet mig arveret med dem som frygter dit navn.",
       "number": 6,
+      "text": "\fFor du, Gud, har hørt mine løfter,\fdu har givet mig arveret med dem som frygter dit navn.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »du har givet deres arveret, som frygter dit navn«. Præciseringen »mig« må underforstås. Sætningen er dog også omdiskuteret på grund af ordet *yᵊruššat* (»arveret/ejendom«) der er i genitivforbindelse med eftersætningen. Ofte foreslås en rettelse: *ˀᵃrešet*: »begær/bøn/ønske«: »Du opfylder deres ønske, som frygter dit navn«.",
+          "position": 90
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fDu føjer dage til kongens dage,\fhans år skal være som mange slægtled!",
       "number": 7,
+      "text": "\fDu føjer dage til kongens dage,\fhans år skal være som mange slægtled!",
+      "title": "Bøn for kongen",
+      "footnotes": [
+        {
+          "text": "T: Ofte foreslås det at opfatte yiqtol her som jussiv: »Føj dage …«.",
+          "position": 9
+        },
+        {
+          "text": "T: Ordret: »som slægt og slægt«.",
+          "position": 70
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fHan skal trone evigt for Guds ansigt,\ffastsæt at nåde og trofasthed skal beskytte ham!",
       "number": 8,
+      "text": "\fHan skal trone evigt for Guds ansigt,\ffastsæt at nåde og trofasthed skal beskytte ham!",
+      "footnotes": [
+        {
+          "text": "N: nåde",
+          "position": 54
+        },
+        {
+          "text": "T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
+          "position": 68
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fSå vil jeg lovsynge dit navn til evig tid,\findfri mine løfter dag for dag.",
       "number": 9,
+      "text": "\fSå vil jeg lovsynge dit navn til evig tid,\findfri mine løfter dag for dag.",
+      "title": "Løfte om lovsang",
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Klage og tillidsfuld bøn",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Bøn for kongen",
-      "verse": 7,
-      "version": 1500242400000
-    },
-    {
-      "text": "Løfte om lovsang",
-      "verse": 9,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Det er omdiskuteret om *rinnāʰ* her betegner jubelråb eller klageråb.",
-      "type": "E",
-      "verse": 2,
-      "position": 15
-    },
-    {
-      "text": "Kan også oversættes: »fra landets yderste grænse«. Her måske mere udtryk for Davids afmagt end for hans opholdssted.",
-      "type": "E",
-      "verse": 3,
-      "position": 12
-    },
-    {
-      "text": "Andre oversætter: »som er højere end mig«.",
-      "type": "T",
-      "verse": 3,
-      "position": 121
-    },
-    {
-      "text": "Den der blev modtaget som »gæst« hos orientaleren, fik tilsagt venskab og beskyttelse. Gæsten kunne vide sig helt under værtens beskyttelse og omsorg.",
-      "type": "E",
-      "verse": 5,
-      "position": 26
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 5,
-      "position": 104
-    },
-    {
-      "text": "Ordret: »du har givet deres arveret, som frygter dit navn«. Præciseringen »mig« må underforstås. Sætningen er dog også omdiskuteret på grund af ordet *yᵊruššat* (»arveret/ejendom«) der er i genitivforbindelse med eftersætningen. Ofte foreslås en rettelse: *ˀᵃrešet*: »begær/bøn/ønske«: »Du opfylder deres ønske, som frygter dit navn«.",
-      "type": "T",
-      "verse": 6,
-      "position": 90
-    },
-    {
-      "text": "Ofte foreslås det at opfatte yiqtol her som jussiv: »Føj dage …«.",
-      "type": "T",
-      "verse": 7,
-      "position": 9
-    },
-    {
-      "text": "Ordret: »som slægt og slægt«.",
-      "type": "T",
-      "verse": 7,
-      "position": 70
-    },
-    {
-      "text": "nåde",
-      "type": "N",
-      "verse": 8,
-      "position": 54
-    },
-    {
-      "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
-      "type": "T",
-      "verse": 8,
-      "position": 68
     }
   ]
 }

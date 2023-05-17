@@ -5,191 +5,179 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fEt udsagn om Babylonien, som Esajas, Amos' søn, skuede.",
       "number": 1,
+      "text": "Et udsagn om Babylonien, som Esajas, Amos' søn, skuede.",
+      "title": "Profeti om Babylonien",
+      "footnotes": [
+        {
+          "text": "T: Der er tænkt på en profetisk vision.",
+          "position": 55
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fRejs banner på et nøgent bjerg,\fråb højt til dem,\fvink med hånden, så de går ind\fad fyrsternes porte!",
       "number": 2,
+      "text": "\fRejs banner på et nøgent bjerg, \fråb højt til dem, \fvink med hånden, så de går ind \fad fyrsternes porte!",
       "version": 1674774000000
     },
     {
-      "text": "\fJeg har givet befaling til mine indviede\fog har også kaldet mine helte til at tjene min vrede\f– de som jubler over min storhed.",
       "number": 3,
+      "text": "\fJeg har givet befaling til mine indviede \fog har også kaldet mine helte til at tjene min vrede \f– de som jubler over min storhed.",
       "version": 1674774000000
     },
     {
-      "text": "\fDer høres en larm på bjergene\fsom af et stort folk,\fder høres kongerigers bulder,\ffolkeslag der samles;\fHærskarers HERRE mønstrer\fen krigshær.",
       "number": 4,
+      "text": "\fDer høres en larm på bjergene \fsom af et stort folk, \fder høres kongerigers bulder,\ffolkeslag der samles; \fHærskarers HERRE mønstrer \fen krigshær.",
+      "footnotes": [
+        {
+          "text": "N: Hærskarers",
+          "position": 124
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fDe kommer fra et land langt borte,\ffra himlens ende,\fJHVH og hans vredes redskab,\ffor at ødelægge hele landet.",
       "number": 5,
+      "text": "\fDe kommer fra et land langt borte, \ffra himlens ende, \fJHVH og hans vredes redskab, \ffor at ødelægge hele landet.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »hele jorden«, men i sammenhængen er der tale om Babylonien.",
+          "position": 114
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fI skal jamre, for JHVHs dag er nær,\fsom en ødelæggelse fra Den Almægtige skal den komme.",
       "number": 6,
+      "text": "\fI skal jamre, for JHVHs dag er nær, \fsom en ødelæggelse fra Den Almægtige skal den komme.",
       "version": 1674774000000
     },
     {
-      "text": "\fDerfor skal alle hænder blive slappe\fog hvert menneskehjerte blive modløst.",
       "number": 7,
+      "text": "\fDerfor skal alle hænder blive slappe \fog hvert menneskehjerte blive modløst.",
       "version": 1674774000000
     },
     {
-      "text": "\fOg de skal forfærdes,\fveer og smerter skal gribe dem,\fde skal vride sig som den der føder,\fde skal se forfærdede på hinanden,\fderes ansigter er blussende ansigter.",
       "number": 8,
+      "text": "\fOg de skal forfærdes, \fveer og smerter skal gribe dem, \fde skal vride sig som den der føder, \fde skal se forfærdede på hinanden, \fderes ansigter er blussende ansigter.",
       "version": 1674774000000
     },
     {
-      "text": "\fSe, JHVHs dag kommer frygtelig, med harme og glødende vrede,\ffor at lægge landet øde\fog udrydde dets syndere fra det.",
       "number": 9,
+      "text": "\fSe, JHVHs dag kommer frygtelig, med harme og glødende vrede, \ffor at lægge landet øde \fog udrydde dets syndere fra det.",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »jorden«.",
+          "position": 82
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fFor himlens stjerner og dens stjernebilleder\fskal ikke lade deres lys stråle,\fsolen er mørk når den står op,\fog månen skal ikke lade sit lys skinne.",
       "number": 10,
+      "text": "\fFor himlens stjerner og dens stjernebilleder \fskal ikke lade deres lys stråle, \fsolen er mørk når den står op, \fog månen skal ikke lade sit lys skinne.",
       "version": 1674774000000
     },
     {
-      "text": "\fJeg vil straffe verden for ondskab\fog gudløse for deres misgerning;\fog jeg vil gøre ende på overmodiges hovmod,\fog voldsmænds overmod vil jeg ydmyge.",
       "number": 11,
+      "text": "\fJeg vil straffe verden for ondskab \fog gudløse for deres misgerning; \fog jeg vil gøre ende på overmodiges hovmod, \fog voldsmænds overmod vil jeg ydmyge.",
       "version": 1674774000000
     },
     {
-      "text": "\fJeg vil gøre et menneske sjældnere end lutret guld\fog en mand sjældnere end Ofir-guld.",
       "number": 12,
+      "text": "\fJeg vil gøre et menneske sjældnere end lutret guld \fog en mand sjældnere end Ofir-guld.",
       "version": 1674774000000
     },
     {
-      "text": "\fDerfor vil jeg få himle til at ryste,\fog jorden skal rystes bort fra sit sted\fved Hærskarers HERRES harme\fog på hans glødende vredes dag.",
       "number": 13,
+      "text": "\fDerfor vil jeg få himle til at ryste, \fog jorden skal rystes bort fra sit sted \fved Hærskarers HERRES harme \fog på hans glødende vredes dag.",
+      "footnotes": [
+        {
+          "text": "N: Hærskarers",
+          "position": 102
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fSom en jaget gazelle\fog som får ingen samler,\fskal de vende sig hver til sit folk\fog flygte hver til sit land.",
       "number": 14,
+      "text": "\fSom en jaget gazelle \fog som får ingen samler, \fskal de vende sig hver til sit folk \fog flygte hver til sit land.",
       "version": 1674774000000
     },
     {
-      "text": "\fEnhver der bliver fundet, skal gennembores,\fog enhver der gribes, skal falde for sværdet.",
       "number": 15,
+      "text": "\fEnhver der bliver fundet, skal gennembores, \fog enhver der gribes, skal falde for sværdet.",
       "version": 1674774000000
     },
     {
-      "text": "\fOg deres børn skal knuses\ffor deres øjne,\fderes huse plyndres\fog deres kvinder voldtages.",
       "number": 16,
+      "text": "\fOg deres børn skal knuses \ffor deres øjne, \fderes huse plyndres \fog deres kvinder voldtages.",
       "version": 1674774000000
     },
     {
-      "text": "\fSe, mod dem ophidser jeg Medien,\fder ikke regner sølv for noget,\fog guld – det har de ikke lyst til.",
       "number": 17,
+      "text": "\fSe, mod dem ophidser jeg Medien, \fder ikke regner sølv for noget, \fog guld – det har de ikke lyst til.",
       "version": 1674774000000
     },
     {
-      "text": "\fMen buer skal gøre det af med drenge,\fog moderlivs frugt skal de ikke vise barmhjertighed,\fderes øje skal ikke skåne børn.",
       "number": 18,
+      "text": "\fMen buer skal gøre det af med drenge, \fog moderlivs frugt skal de ikke vise barmhjertighed, \fderes øje skal ikke skåne børn.",
       "version": 1674774000000
     },
     {
-      "text": "\fOg Babylonien, kongerigers pragt,\fkaldæeres stolte pryd,\fskal blive som da Gud ødelagde Sodoma\fog Gomorra.",
       "number": 19,
+      "text": "\fOg Babylonien, kongerigers pragt, \fkaldæeres stolte pryd, \fskal blive som da Gud ødelagde Sodoma \fog Gomorra.",
       "version": 1674774000000
     },
     {
-      "text": "\fDet skal aldrig mere bebos,\fog ingen skal bosætte sig dér i slægt efter slægt,\fingen araber skal slå telt op,\fog hyrder holder ikke hvil der.",
       "number": 20,
+      "text": "\fDet skal aldrig mere bebos, \fog ingen skal bosætte sig dér i slægt efter slægt, \fingen araber skal slå telt op, \fog hyrder holder ikke hvil der.",
       "version": 1674774000000
     },
     {
-      "text": "\fMen ørkendyr skal ligge der,\fog deres huse skal fyldes af ugler,\fdér skal strudses afkom tage bolig,\fog bukketrolde springer omkring der.",
       "number": 21,
+      "text": "\fMen ørkendyr skal ligge der, \fog deres huse skal fyldes af ugler, \fdér skal strudses afkom tage bolig, \fog bukketrolde springer omkring der.",
+      "footnotes": [
+        {
+          "text": "T: Det vides ikke præcis hvilke dyr der er tale om.",
+          "position": 13
+        },
+        {
+          "text": "T: Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med »ugle«, andre gætter på »sjakaler«.",
+          "position": 66
+        },
+        {
+          "text": "T: Bukkelignende dæmoner.",
+          "position": 119
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fHyæner skal hyle i borgene\fog sjakaler i herlige paladser;\fdet varer ikke længe før dets tid kommer,\fog dets dage skal ikke forlænges.",
       "number": 22,
+      "text": "\fHyæner skal hyle i borgene \fog sjakaler i herlige paladser; \fdet varer ikke længe før dets tid kommer, \fog dets dage skal ikke forlænges.",
+      "footnotes": [
+        {
+          "text": "E: Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: »mod dets/hans enker«. De gamle oversættelser har: »i paladserne/borgene«. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: »i dets borge«.",
+          "position": 27
+        }
+      ],
       "version": 1674774000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Profeti om Babylonien",
-      "verse": 1,
-      "version": 1674774000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Der er tænkt på en profetisk vision.",
-      "type": "T",
-      "verse": 1,
-      "position": 56
-    },
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 4,
-      "position": 121
-    },
-    {
-      "text": "Kan også oversættes: »hele jorden«, men i sammenhængen er der tale om Babylonien.",
-      "type": "T",
-      "verse": 5,
-      "position": 111
-    },
-    {
-      "text": "Kan også oversættes: »jorden«.",
-      "type": "T",
-      "verse": 9,
-      "position": 81
-    },
-    {
-      "text": "Hærskarers",
-      "type": "N",
-      "verse": 13,
-      "position": 100
-    },
-    {
-      "text": "Det vides ikke præcis hvilke dyr der er tale om.",
-      "type": "T",
-      "verse": 21,
-      "position": 13
-    },
-    {
-      "text": "Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med »ugle«, andre gætter på »sjakaler«.",
-      "type": "T",
-      "verse": 21,
-      "position": 65
-    },
-    {
-      "text": "Bukkelignende dæmoner.",
-      "type": "T",
-      "verse": 21,
-      "position": 116
-    },
-    {
-      "text": "Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: »mod dets/hans enker«. De gamle oversættelser har: »i paladserne/borgene«. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: »i dets borge«.",
-      "type": "E",
-      "verse": 22,
-      "position": 27
     }
   ]
 }

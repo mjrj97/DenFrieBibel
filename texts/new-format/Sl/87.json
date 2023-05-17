@@ -5,132 +5,106 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fAf Koras sønner. En salme. En sang.\fHans grundlagte by er på hellige bjerge.",
       "number": 1,
+      "text": "Af Koras sønner. En salme. En sang.\fHans grundlagte by er på hellige bjerge.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Ordret: »Hans grundlæggelse på hellige bjerge«. Der er flere rettelsesforslag (som dog næppe er nødvendige), enklest dog at rette: *yᵊsûdātô* (»hans grundlæggelse«) til: *yāsôd ʕîrô*: »han har grundlagt sin by«.",
+          "position": 76
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fJHVH elsker Zions porte\ffrem for alle Jakobs boliger.",
       "number": 2,
+      "text": "\fJHVH elsker Zions porte\ffrem for alle Jakobs boliger.",
+      "title": "Lovprisning af Zion",
       "version": 1500242400000
     },
     {
-      "text": "\fHerlige ting er sagt om dig,\fdu Guds by! Sela",
       "number": 3,
+      "text": "\fHerlige ting er sagt om dig,\fdu Guds by! Sela",
+      "footnotes": [
+        {
+          "text": "E: Præpositionen *bᵊ* kan betyde både »om« og »i«, og begge betydninger giver mening her. Men betydningen »om« er den almindeligste i forbindelse med verbet *dbr* (»sige«.",
+          "position": 24
+        },
+        {
+          "text": "N: Sela",
+          "position": 46
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fJeg vil nævne Rahab og Babylon blandt dem som kender mig,\fog også Filistæa og Tyrus samt Kush:\f»Denne, han er født dér.«",
       "number": 4,
+      "text": "\fJeg vil nævne Rahab og Babylon blandt dem som kender mig,\fog også Filistæa og Tyrus samt Kush:\f»Denne, han er født dér.«",
+      "title": "Zion – et bedehus for alle folk",
+      "footnotes": [
+        {
+          "text": "T: Dermed menes Egypten. Sl 89,10-11; Es 30,7; 51,9-10.",
+          "position": 20
+        },
+        {
+          "text": "T: Ordret: »se«.",
+          "position": 66
+        },
+        {
+          "text": "T: Det er Nubien, tidligere ofte oversat Etiopien.",
+          "position": 95
+        },
+        {
+          "text": "T: Det er hvert af de nævnte folk.",
+          "position": 103
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fMen om Zion skal der siges: »Hver og en er født i hende,\fog han, den Højeste, skal befæste hende.«",
       "number": 5,
+      "text": "\fMen om Zion skal der siges: »Hver og en er født i hende,\fog han, den Højeste, skal befæste hende.«",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »mand og mand«",
+          "position": 40
+        },
+        {
+          "text": "T: Det er henvisning til »Zion«.",
+          "position": 57
+        }
+      ],
       "version": 1500242400000
     },
     {
-      "text": "\fJHVH skal tælle, når han skriver folkene op:\f»Denne er født dér.« Sela",
       "number": 6,
+      "text": "\fJHVH skal tælle, når han skriver folkene op:\f»Denne er født dér.« Sela",
       "version": 1500242400000
     },
     {
-      "text": "\fOg dansende synger de:\f»Alle mine kilder er i dig.«",
       "number": 7,
+      "text": "\fOg dansende synger de:\f»Alle mine kilder er i dig.«",
+      "footnotes": [
+        {
+          "text": "E: Ordret blot: »Og syngende som dansende«. Meningen er enten, at de danser mens de synger, eller at de synger med samme glæde og jubel som dansende udstråler, eller at både syngende og dansende udtrykker det der ligger i den følgende sætning.",
+          "position": 23
+        }
+      ],
       "version": 1500242400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1500242400000
-    },
-    {
-      "text": "Lovprisning af Zion",
-      "verse": 2,
-      "version": 1500242400000
-    },
-    {
-      "text": "Zion – et bedehus for alle folk",
-      "verse": 4,
-      "version": 1500242400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Ordret: »Hans grundlæggelse på hellige bjerge«. Der er flere rettelsesforslag (som dog næppe er nødvendige), enklest dog at rette: *yᵊsûdātô* (»hans grundlæggelse«) til: *yāsôd ʕîrô*: »han har grundlagt sin by«.",
-      "type": "E",
-      "verse": 1,
-      "position": 77
-    },
-    {
-      "text": "Præpositionen *bᵊ* kan betyde både »om« og »i«, og begge betydninger giver mening her. Men betydningen »om« er den almindeligste i forbindelse med verbet *dbr* (»sige«.",
-      "type": "E",
-      "verse": 3,
-      "position": 24
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 3,
-      "position": 46
-    },
-    {
-      "text": "Dermed menes Egypten. Sl 89,10-11; Es 30,7; 51,9-10.",
-      "type": "T",
-      "verse": 4,
-      "position": 20
-    },
-    {
-      "text": "Ordret: »se«.",
-      "type": "T",
-      "verse": 4,
-      "position": 66
-    },
-    {
-      "text": "Det er Nubien, tidligere ofte oversat Etiopien.",
-      "type": "T",
-      "verse": 4,
-      "position": 95
-    },
-    {
-      "text": "Det er hvert af de nævnte folk.",
-      "type": "T",
-      "verse": 4,
-      "position": 103
-    },
-    {
-      "text": "Ordret: »mand og mand«",
-      "type": "T",
-      "verse": 5,
-      "position": 40
-    },
-    {
-      "text": "Det er henvisning til »Zion«.",
-      "type": "T",
-      "verse": 5,
-      "position": 57
-    },
-    {
-      "text": "Ordret blot: »Og syngende som dansende«. Meningen er enten, at de danser mens de synger, eller at de synger med samme glæde og jubel som dansende udstråler, eller at både syngende og dansende udtrykker det der ligger i den følgende sætning.",
-      "type": "E",
-      "verse": 7,
-      "position": 23
     }
   ]
 }

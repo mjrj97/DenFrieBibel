@@ -5,51 +5,44 @@
   "translation": 50,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fEnhver som tror at Jesus er Kristus, er født af Gud; og enhver som elsker den der har født ham, elsker også den som er født af ham.",
       "number": 1,
+      "text": "\fEnhver som tror at Jesus er Kristus, er født af Gud; og enhver som elsker den der har født ham, elsker også den som er født af ham.",
+      "title": "Den som tror på Kristus, er født af Gud og overvinder verden",
       "version": 1617141600000
     },
     {
-      "text": "Deraf ved vi at vi elsker Guds børn, når vi elsker Gud og holder hans bud.",
       "number": 2,
+      "text": "Deraf ved vi at vi elsker Guds børn, når vi elsker Gud og holder hans bud.",
       "version": 1617141600000
     },
     {
-      "text": "For det er kærlighed til Gud at vi holder hans bud; og hans bud er ikke svære;",
       "number": 3,
+      "text": "For det er kærlighed til Gud at vi holder hans bud; og hans bud er ikke svære;",
       "version": 1617141600000
     },
     {
-      "text": "for alt det som er født af Gud, overvinder verden; og dette er den sejr som har overvundet verden: vores tro.",
       "number": 4,
+      "text": "for alt det som er født af Gud, overvinder verden; og dette er den sejr som har overvundet verden: vores tro.",
       "version": 1617141600000
     },
     {
-      "text": "Hvem er den som overvinder verden, andre end den som tror at Jesus er Guds søn?",
       "number": 5,
+      "text": "Hvem er den som overvinder verden, andre end den som tror at Jesus er Guds søn?",
       "version": 1617141600000
     }
-  ],
-  "titles": [
-    {
-      "text": "Den som tror på Kristus, er født af Gud og overvinder verden",
-      "verse": 1,
-      "version": 1617141600000
-    }
-  ],
-  "footnotes": []
+  ]
 }

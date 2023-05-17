@@ -5,82 +5,60 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fValfartssang.\fKom, pris JHVH,\falle JHVHs tjenere\fsom står i JHVHs hus\fom natten.",
       "number": 1,
+      "text": "Valfartssang.\fKom, pris JHVH,\falle JHVHs tjenere\fsom står i JHVHs hus\fom natten.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Se note til Sl 120,1.",
+          "position": 13
+        },
+        {
+          "text": "T: Ordret: »Se!«, men sammen med en imperativ angiver det en opfordring eller et foranstillet udråbstegn.",
+          "position": 18
+        },
+        {
+          "text": "T: Kan også oversættes: »velsign«.",
+          "position": 23
+        },
+        {
+          "text": "E: *ballêlôt* ordret: »om nætterne«. Det er omdiskuteret hvad pluralis skal betegne her. Nogle oversætter: »nat efter nat«, andre: »i nattevagterne«, andre: »i den dybeste nat«.",
+          "position": 80
+        }
+      ],
       "version": 1492725600000
     },
     {
-      "text": "\fLøft jeres hænder mod helligdommen,\fog pris JHVH!",
       "number": 2,
+      "text": "\fLøft jeres hænder mod helligdommen,\fog pris JHVH!",
+      "title": "Lovprisning af Herren",
+      "footnotes": [
+        {
+          "text": "T: Kan også oversættes: »velsign«.",
+          "position": 44
+        }
+      ],
       "version": 1492725600000
     },
     {
-      "text": "\fJHVH velsigne dig fra Zion,\fhan som skabte himmel og jord.",
       "number": 3,
+      "text": "\fJHVH velsigne dig fra Zion,\fhan som skabte himmel og jord.",
+      "title": "Velsignelse",
       "version": 1492725600000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1492725600000
-    },
-    {
-      "text": "Lovprisning af Herren",
-      "verse": 2,
-      "version": 1492725600000
-    },
-    {
-      "text": "Velsignelse",
-      "verse": 3,
-      "version": 1492725600000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Se note til Sl 120,1.",
-      "type": "E",
-      "verse": 1,
-      "position": 14
-    },
-    {
-      "text": "Ordret: »Se!«, men sammen med en imperativ angiver det en opfordring eller et foranstillet udråbstegn.",
-      "type": "T",
-      "verse": 1,
-      "position": 19
-    },
-    {
-      "text": "Kan også oversættes: »velsign«.",
-      "type": "T",
-      "verse": 1,
-      "position": 24
-    },
-    {
-      "text": "*ballêlôt* ordret: »om nætterne«. Det er omdiskuteret hvad pluralis skal betegne her. Nogle oversætter: »nat efter nat«, andre: »i nattevagterne«, andre: »i den dybeste nat«.",
-      "type": "E",
-      "verse": 1,
-      "position": 81
-    },
-    {
-      "text": "Kan også oversættes: »velsign«.",
-      "type": "T",
-      "verse": 2,
-      "position": 44
     }
   ]
 }

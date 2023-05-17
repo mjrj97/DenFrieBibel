@@ -5,118 +5,156 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen, Christian Højgaard",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen, Christian Højgaard"
     }
   ],
   "verses": [
     {
-      "text": "\fJHVHs engel drog op fra Gilgal til Bokim og sagde: »Jeg har ført jer op fra Egypten og bragt jertil det land som jeg lovede jeres fædre, og jeg sagde: ›Jeg vil aldrig i evighed bryde min pagt medjer. v2 I skal ikke indgå aftaler med dette lands indbyggere. I skal ødelægge deres altre.‹ Men Ihørte ikke på mig. Hvad er det I har gjort? v3 Da sagde jeg også: ›Jeg vil ikke drive dem væk frajer, men de skal være som en pisk over nakken på jer, og deres guder skal være som en fælde forjer.‹«",
       "number": 1,
+      "text": "\fJHVHs engel drog op fra Gilgal til Bokim og sagde: »Jeg har ført jer op fra Egypten og bragt jer til det land som jeg lovede jeres fædre, og jeg sagde: ›Jeg vil aldrig i evighed bryde min pagt med jer.",
+      "title": "JHVHs engel straffer Israel fordi de ikke fordrev kana'anæerne",
       "version": 1457564400000
     },
     {
-      "text": "\fDa JHVHs engel havde talt sådan til israelitterne, græd folket højlydt.\ftjente de JHVH en kort tid, men siden faldt de fra og tilstanden forværredes.==",
+      "number": 2,
+      "text": "I skal ikke indgå aftaler med dette lands indbyggere. I skal ødelægge deres altre.‹ Men I hørte ikke på mig. Hvad er det I har gjort?",
+      "version": 1457564400000
+    },
+    {
+      "number": 3,
+      "text": "Da sagde jeg også: ›Jeg vil ikke drive dem væk fra jer, men de skal være som en pisk over nakken på jer, og deres guder skal være som en fælde for jer.‹«",
+      "version": 1457564400000
+    },
+    {
       "number": 4,
+      "text": "\fDa JHVHs engel havde talt sådan til israelitterne, græd folket højlydt.",
       "version": 1457564400000
     },
     {
-      "text": "\fDe kaldet stedet for Bokim og de ofrede til JHVH der. v6 DaJosva havde sendt folket af sted, gik israelitterne hver til sin arvelod for at tage landet ibesiddelse.",
       "number": 5,
+      "text": "\fDe kaldet stedet for Bokim og de ofrede til JHVH der.",
+      "title": "Israel var lydig mod JHVH så længe Josva levede, og når Gud kaldte en til at være dommer for dem, tjente de JHVH en kort tid, men siden faldt de fra og tilstanden forværredes.{E: Teksten i vers 5 hører sammen med det forudgående. Det er almindeligt at opfatte 2,6-3,6 som den anden indledning til bogen, lige forud for fortællingerne om dommerne.}",
+      "footnotes": [
+        {
+          "text": "T: Det betyder »de grædende«.",
+          "position": 27
+        }
+      ],
       "version": 1457564400000
     },
     {
-      "text": "\fFolket tjente JHVH så længe Josva levede, og så længe de ældste levede, dem der havde overlevetJosva og havde set de store gerninger som JHVH havde gjort mod Israel.",
+      "number": 6,
+      "text": "Da Josva havde sendt folket af sted, gik israelitterne hver til sin arvelod for at tage landet i besiddelse.",
+      "version": 1457564400000
+    },
+    {
       "number": 7,
+      "text": "\fFolket tjente JHVH så længe Josva levede, og så længe de ældste levede, dem der havde overlevet Josva og havde set de store gerninger som JHVH havde gjort mod Israel.",
       "version": 1457564400000
     },
     {
-      "text": "\fMen da JHVHs tjener Josva, Nuns søn, var død, 110 år gammel, v9 og de havde begravet ham på hansarvelod i Timnat-Heres på Efraims Bjerge nord for Ga'ash-bjerget, v10 og da hele hans generation vargået til deres fædre, voksede en ny generation op efter dem. Denne generation kendte ikke JHVH og deting han havde gjort for Israel.",
       "number": 8,
+      "text": "\fMen da JHVHs tjener Josva, Nuns søn, var død, 110 år gammel,",
       "version": 1457564400000
     },
     {
-      "text": "\fDa handlede israelitterne ondt i JHVHs øjne, og de dyrkede Ba'alerne. v12 De forlod JHVH, deresfædres Gud, som havde ført dem ud af Egypten, og de fulgte andre guder. De tilbad de samme guder somde folk, der boede blandt dem, og de krænkede JHVH. v13 De forlod JHVH og dyrkede Ba'al og Astarte.",
+      "number": 9,
+      "text": "og de havde begravet ham på hans arvelod i Timnat-Heres på Efraims Bjerge nord for Ga'ash-bjerget,",
+      "version": 1457564400000
+    },
+    {
+      "number": 10,
+      "text": "og da hele hans generation var gået til deres fædre, voksede en ny generation op efter dem. Denne generation kendte ikke JHVH og de ting han havde gjort for Israel.",
+      "version": 1457564400000
+    },
+    {
       "number": 11,
+      "text": "\fDa handlede israelitterne ondt i JHVHs øjne, og de dyrkede Ba'alerne.",
       "version": 1457564400000
     },
     {
-      "text": "\fDa blussede JHVHs vrede op over Israel, og han lod røvere overfalde dem og plyndre dem.Værgeløse udleverede han dem til nabofolkene, og de kunne ikke holde stand mod deres fjender. v15Hver gang de drog ud, brugte JHVH sin magt til deres ulykke, sådan som han havde sagt og lovet demunder ed. Og de blev presset til det yderste.",
+      "number": 12,
+      "text": "De forlod JHVH, deres fædres Gud, som havde ført dem ud af Egypten, og de fulgte andre guder. De tilbad de samme guder som de folk, der boede blandt dem, og de krænkede JHVH.",
+      "version": 1457564400000
+    },
+    {
+      "number": 13,
+      "text": "De forlod JHVH og dyrkede Ba'al og Astarte.",
+      "version": 1457564400000
+    },
+    {
       "number": 14,
+      "text": "\fDa blussede JHVHs vrede op over Israel, og han lod røvere overfalde dem og plyndre dem. Værgeløse udleverede han dem til nabofolkene, og de kunne ikke holde stand mod deres fjender.",
       "version": 1457564400000
     },
     {
-      "text": "\fJHVH oprejste dommere som frelste folket fra røverne. v17 Men de adlød heller ikke dommerne, forde horede med andre guder og tilbad dem. Hurtigt veg de bort fra den vej som deres fædre havdevandret på. Deres fædre havde adlydt JHVHs bud, men det gjorde folket ikke længere.",
+      "number": 15,
+      "text": "gang de drog ud, brugte JHVH sin magt til deres ulykke, sådan som han havde sagt og lovet dem under ed. Og de blev presset til det yderste.",
+      "footnotes": [
+        {
+          "text": "E: Hebraisk *wayyēṣer lāhem mᵊʔōd* »det.blev.snæver for dem såre« blev i 1871 oversat »og de bleve saare ængstede«, mens DO92 har »de kom i stor nød«. Forslaget her tager højde for det umulige i situationen. I Frihedskampen blev det oversat »Israelitterne kunne ikke stille noget op«",
+          "position": 139
+        }
+      ],
+      "version": 1457564400000
+    },
+    {
       "number": 16,
+      "text": "\fJHVH oprejste dommere som frelste folket fra røverne.",
       "version": 1457564400000
     },
     {
-      "text": "\fNår JHVH gav dem dommere, var JHVH med dommeren, og han frelste dem fra deres fjender så længeden dommer levede. For JHVH fik medlidenhed med dem når de klagede over deres undertrykkere ogforfølgere. v19 Men når dommeren døde, handlede de igen ondt og endog værre end deres fædre. Defulgte andre guder, dyrkede dem og tilbad dem, og de holdt ikke op med deres gerninger eller vegbort fra deres trodsige vej.",
+      "number": 17,
+      "text": "Men de adlød heller ikke dommerne, for de horede med andre guder og tilbad dem. Hurtigt veg de bort fra den vej som deres fædre havde vandret på. Deres fædre havde adlydt JHVHs bud, men det gjorde folket ikke længere.",
+      "version": 1457564400000
+    },
+    {
       "number": 18,
+      "text": "\fNår JHVH gav dem dommere, var JHVH med dommeren, og han frelste dem fra deres fjender så længe den dommer levede. For JHVH fik medlidenhed med dem når de klagede over deres undertrykkere og forfølgere.",
       "version": 1457564400000
     },
     {
-      "text": "\fJHVHs vrede blussede op mod Israel, og han sagde: »Eftersom dette folk har overtrådt den pagtsom jeg pålagde deres fædre, og de ikke har adlydt min røst, v21 vil jeg heller ikke fortsætte medat fordrive de folk som Josva efterlod da han døde. v22 Jeg vil bruge dem til at sætte Israel påprøve for at se om de vil blive på JHVHs vej og vandre på den ligesom deres fædre omhyggeligtgjorde.«",
+      "number": 19,
+      "text": "Men når dommeren døde, handlede de igen ondt og endog værre end deres fædre. De fulgte andre guder, dyrkede dem og tilbad dem, og de holdt ikke op med deres gerninger eller veg bort fra deres trodsige vej.",
+      "footnotes": [
+        {
+          "text": "E: Ordret oversættelse. Allerede GT1931 forbedrer til »genstridige Færd« og DO92 til »trodsig adfærd«",
+          "position": 205
+        }
+      ],
+      "version": 1457564400000
+    },
+    {
       "number": 20,
+      "text": "\fJHVHs vrede blussede op mod Israel, og han sagde: »Eftersom dette folk har overtrådt den pagt som jeg pålagde deres fædre, og de ikke har adlydt min røst,",
+      "title": "JHVH lod fjenderne blive i landet for at bruge dem til at sætte Israel på prøve",
       "version": 1457564400000
     },
     {
-      "text": "\fSå lod JHVH folkene blive. Han fordrev dem ikke i hast, og han havde ikke givet dem i Josvas magt.",
+      "number": 21,
+      "text": "vil jeg heller ikke fortsætte med at fordrive de folk som Josva efterlod da han døde.",
+      "version": 1457564400000
+    },
+    {
+      "number": 22,
+      "text": "Jeg vil bruge dem til at sætte Israel på prøve for at se om de vil blive på JHVHs vej og vandre på den ligesom deres fædre omhyggeligt gjorde.«",
+      "footnotes": [
+        {
+          "text": "E: Verset er blevet oversat vidt forskelligt op igennem tiden, og 1871 er næsten præcis: »om de vilde tage Vare paa Herrens Vej, at vandre paa den, ligesom deres Fædre toge Vare derpaa, eller ej.« Webb oversætter »- [to see] whether they would observe the way of Yahweh by walking in it as their fathers did, or not.«",
+          "position": 143
+        }
+      ],
+      "version": 1457564400000
+    },
+    {
       "number": 23,
+      "text": "\fSå lod JHVH folkene blive. Han fordrev dem ikke i hast, og han havde ikke givet dem i Josvas magt.",
       "version": 1457564400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "JHVHs engel straffer Israel fordi de ikke fordrev kana'anæerne",
-      "verse": 1,
-      "version": 1457564400000
-    },
-    {
-      "text": "Israel var lydig mod JHVH så længe Josva levede, og når Gud kaldte en til at være dommer for de",
-      "verse": 5,
-      "version": 1457564400000
-    },
-    {
-      "text": "JHVH lod fjenderne blive i landet for at bruge dem til at sætte Israel på prøve",
-      "verse": 19,
-      "version": 1457564400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Teksten i vers 5hører sammen med det forudgående. Det er almindeligt at opfatte 2,6-3,6 som den anden indledning tilbogen, lige forud for fortællingerne om dommerne.",
-      "type": "E",
-      "verse": 4,
-      "position": 150
-    },
-    {
-      "text": "Det betyder »de grædende«.",
-      "type": "T",
-      "verse": 5,
-      "position": 27
-    },
-    {
-      "text": "Hebraisk *wayyēṣer lāhem mᵊʔōd* »det.blev.snæverfor dem såre« blev i 1871 oversat »og de bleve saare ængstede«, mens DO92 har »de kom i stornød«. Forslaget her tager højde for det umulige i situationen. I Frihedskampen blev det oversat»Israelitterne kunne ikke stille noget op«",
-      "type": "E",
-      "verse": 14,
-      "position": 328
-    },
-    {
-      "text": "Ordret oversættelse. Allerede GT1931 forbedrer til »genstridigeFærd« og DO92 til »trodsig adfærd«",
-      "type": "E",
-      "verse": 18,
-      "position": 408
-    },
-    {
-      "text": "Verset er blevet oversat vidt forskelligt op igennem tiden, og 1871 er næsten præcis:»om de vilde tage Vare paa Herrens Vej, at vandre paa den, ligesom deres Fædre toge Vare derpaa,eller ej.« Webb oversætter »- [to see] whether they would observe the way of Yahweh by walking init as their fathers did, or not.«",
-      "type": "E",
-      "verse": 20,
-      "position": 389
     }
   ]
 }

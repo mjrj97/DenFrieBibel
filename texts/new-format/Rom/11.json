@@ -5,45 +5,43 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fFor Gud har indesluttet alle i ulydighed for at han kunne forbarme sig over alle.",
       "number": 32,
+      "text": "For Gud har indesluttet alle i ulydighed for at han kunne forbarme sig over alle.",
       "version": 1621375200000
     },
     {
-      "text": "Oh, dyb af Guds rigdom og visdom og kundskab! Hvor uransagelige er hans domme og uudgrundelige hans veje!",
       "number": 33,
+      "text": "Oh, dyb af Guds rigdom og visdom og kundskab! Hvor uransagelige er hans domme og uudgrundelige hans veje!",
       "version": 1621375200000
     },
     {
-      "text": "For hvem har kendt Herrens sind? Eller hvem er blevet hans rådgiver?",
       "number": 34,
+      "text": "For hvem har kendt Herrens sind? Eller hvem er blevet hans rådgiver?",
       "version": 1621375200000
     },
     {
-      "text": "Eller hvem har givet ham først så at der skulle gives ham til gengæld?",
       "number": 35,
+      "text": "Eller hvem har givet ham først så at der skulle gives ham til gengæld?",
       "version": 1621375200000
     },
     {
-      "text": "For af ham og ved ham og til ham er alle ting; ham være ære i evighed! Amen.",
       "number": 36,
+      "text": "For af ham og ved ham og til ham er alle ting; ham være ære i evighed! Amen.",
       "version": 1621375200000
     }
-  ],
-  "titles": [],
-  "footnotes": []
+  ]
 }

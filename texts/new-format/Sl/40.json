@@ -5,157 +5,141 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\fSalme af David.",
       "number": 1,
+      "text": "Til korlederen.\fSalme af David.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«",
+          "position": 15
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJeg har håbet fast på JHVH,\fog han bøjede sig til mig og hørte mit skrig om hjælp.",
       "number": 2,
+      "text": "\fJeg har håbet fast på JHVH,\fog han bøjede sig til mig og hørte mit skrig om hjælp.",
+      "title": "Lovprisning og taksigelse",
       "version": 1457218800000
     },
     {
-      "text": "\fOg han trak mig op af undergangens grav,\faf det skidne dynd,\fog han satte mine fødder på en klippe,\fhan gjorde mine skridt faste.",
       "number": 3,
+      "text": "\fOg han trak mig op af undergangens grav,\faf det skidne dynd,\fog han satte mine fødder på en klippe,\fhan gjorde mine skridt faste.",
+      "footnotes": [
+        {
+          "text": "T: Andre oversætter: »brusende«",
+          "position": 35
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fOg han lagde en ny sang i min mund,\fen lovsang til vor Gud.\fMange skal se og frygte,\fog de skal stole på JHVH.",
       "number": 4,
+      "text": "\fOg han lagde en ny sang i min mund,\fen lovsang til vor Gud.\fMange skal se og frygte,\fog de skal stole på JHVH.",
       "version": 1457218800000
     },
     {
-      "text": "\fSalig den mand som har sat sin tillid til JHVH\fog ikke vender sig til hovmodige\fog til dem som er viklet ind i løgn.",
       "number": 5,
+      "text": "\fSalig den mand som har sat sin tillid til JHVH\fog ikke vender sig til hovmodige\fog til dem som er viklet ind i løgn.",
       "version": 1457218800000
     },
     {
-      "text": "\fStore ting har du gjort, du,\fJHVHv, min Gud, dine undere\fog dine tanker for os –\fingen kan sammenlignes med dig.\fLad mig forkynde og tale:\f»De er flere, end man kan tælle«.",
       "number": 6,
+      "text": "\fStore ting har du gjort, du,\fJHVHv, min Gud, dine undere\fog dine tanker for os –\fingen kan sammenlignes med dig.\fLad mig forkynde og tale:\f»De er flere, end man kan tælle«.",
+      "footnotes": [
+        {
+          "text": "E: De to verber i korhortativ kunne også oversættes: »hvis jeg ville forkynde og tale, så er de flere …«",
+          "position": 139
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fSlagtoffer og afgrødeoffer har du ikke lyst til,\f- du har gravet ører til mig -\fbrændoffer og syndoffer har du ikke fordret.",
       "number": 7,
+      "text": "\fSlagtoffer og afgrødeoffer har du ikke lyst til,\f- du har gravet ører til mig -\fbrændoffer og syndoffer har du ikke fordret.",
+      "footnotes": [
+        {
+          "text": "T: Sætningen er dunkel. Men meningen kan være, at Gud har givet den lydhørhed han ønsker frem for ofre",
+          "position": 78
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fDa sagde jeg: »Se, jeg er kommet.\fI bogrullen er der skrevet om mig.",
       "number": 8,
+      "text": "\fDa sagde jeg: »Se, jeg er kommet.\fI bogrullen er der skrevet om mig.",
       "version": 1457218800000
     },
     {
-      "text": "\fJeg har lyst til at gøre din vilje, min Gud,\fog din lov er midt i mit indre.«",
       "number": 9,
+      "text": "\fJeg har lyst til at gøre din vilje, min Gud,\fog din lov er midt i mit indre.«",
+      "footnotes": [
+        {
+          "text": "N: lov",
+          "position": 56
+        }
+      ],
       "version": 1457218800000
     },
     {
-      "text": "\fJeg har forkyndt godt budskab om retfærdighed\fi en stor forsamling,\fse, jeg vil ikke lukke mine læber,\fJHVHv, det ved du.",
       "number": 10,
+      "text": "\fJeg har forkyndt godt budskab om retfærdighed\fi en stor forsamling,\fse, jeg vil ikke lukke mine læber,\fJHVHv, det ved du.",
       "version": 1457218800000
     },
     {
-      "text": "\fJeg har ikke skjult din retfærdighed\finde i mit hjerte,\fjeg har talt om din trofasthed og din frelse,\fjeg har ikke fortiet din nåde og din sandhed\ffor en stor forsamling.",
       "number": 11,
+      "text": "\fJeg har ikke skjult din retfærdighed\finde i mit hjerte,\fjeg har talt om din trofasthed og din frelse,\fjeg har ikke fortiet din nåde og din sandhed\ffor en stor forsamling.",
       "version": 1457218800000
     },
     {
-      "text": "\fDu, JHVH! vil ikke holde din barmhjertighed tilbage fra mig,\fdin nåde og din sandhed vil altid beskytte mig.",
       "number": 12,
+      "text": "\fDu, JHVH! vil ikke holde din barmhjertighed tilbage fra mig,\fdin nåde og din sandhed vil altid beskytte mig.",
+      "title": "Klage og bøn",
       "version": 1457218800000
     },
     {
-      "text": "\fFor ulykker har omspændt mig,\fså der intet tal er derpå,\fmine synder har indhentet mig,\fså jeg ikke kan se;\fde er flere end hårene på mit hoved,\fog mit hjerte har forladt mig.",
       "number": 13,
+      "text": "\fFor ulykker har omspændt mig,\fså der intet tal er derpå,\fmine synder har indhentet mig,\fså jeg ikke kan se;\fde er flere end hårene på mit hoved,\fog mit hjerte har forladt mig.",
       "version": 1457218800000
     },
     {
-      "text": "\fVær nådig, JHVHv, og red mig,\fJHVHv, skynd dig til hjælp for mig.",
       "number": 14,
+      "text": "\fVær nådig, JHVHv, og red mig,\fJHVHv, skynd dig til hjælp for mig.",
       "version": 1457218800000
     },
     {
-      "text": "\fLad alle dem blive til skam og spot\fsom efterstræber min sjæl for at udrydde den,\flad dem vige tilbage og blive til skamme,\fde som vil mig ondt.",
       "number": 15,
+      "text": "\fLad alle dem blive til skam og spot\fsom efterstræber min sjæl for at udrydde den,\flad dem vige tilbage og blive til skamme,\fde som vil mig ondt.",
       "version": 1457218800000
     },
     {
-      "text": "\fLad dem forfærdes som løn for deres skændsel,\fde som siger til mig: »Ha, ha!«",
       "number": 16,
+      "text": "\fLad dem forfærdes som løn for deres skændsel,\fde som siger til mig: »Ha, ha!«",
       "version": 1457218800000
     },
     {
-      "text": "\fLad dem frydes og glædes i dig,\falle som søger dig;\fde skal altid sige: »JHVH viser sin storhed!«\fde som elsker din frelse.",
       "number": 17,
+      "text": "Lad dem frydes og glædes i dig,\falle som søger dig;\fde skal altid sige: »JHVH viser sin storhed!«\fde som elsker din frelse.",
       "version": 1457218800000
     },
     {
-      "text": "\fSelv om jeg er hjælpeløs og fattig,\fvil Herren tænke på mig.\fMin hjælper og befrier er du;\fmin Gud! tøv ikke!",
       "number": 18,
+      "text": "\fSelv om jeg er hjælpeløs og fattig,\fvil Herren tænke på mig.\fMin hjælper og befrier er du;\fmin Gud! tøv ikke!",
       "version": 1457218800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1457218800000
-    },
-    {
-      "text": "Lovprisning og taksigelse",
-      "verse": 2,
-      "version": 1457218800000
-    },
-    {
-      "text": "Klage og bøn",
-      "verse": 12,
-      "version": 1457218800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Andre oversætter: »brusende«",
-      "type": "T",
-      "verse": 3,
-      "position": 35
-    },
-    {
-      "text": "De to verber i korhortativ kunne også oversættes: »hvis jeg ville forkynde og tale, så er de flere …«",
-      "type": "E",
-      "verse": 6,
-      "position": 139
-    },
-    {
-      "text": "Sætningen er dunkel. Men meningen kan være, at Gud har givet den lydhørhed han ønsker frem for ofre",
-      "type": "T",
-      "verse": 7,
-      "position": 78
-    },
-    {
-      "text": "lov",
-      "type": "N",
-      "verse": 9,
-      "position": 56
     }
   ]
 }

@@ -5,92 +5,177 @@
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fDa blev Jesus af Ånden ført til ørkenen for at blive fristet af Djævelen. v2 Da han havde fastet i fyrre dage og fyrre nætter, sultede han til sidst. v3 Og fristeren kom og sagde til ham: »Når du er Guds Søn, så sig at disse sten dér skal blive til brød.« v4 Men han svarede: »Der står skrevet: ›Mennesket skal ikke leve af brød alene, men af hvert ord som udgår af Guds mund.‹« v5 Da tog Djævelen ham med sig til den hellige by og stillede ham på templets tinde, v6 og han sagde til ham: »Når du er Guds Søn, så kast dig ned, for der står skrevet: ›Han skal befale sine engle med henblik på dig, og de skal bære dig på hænder for at du ikke skal støde din fod mod en sten.‹« v7 Jesus sagde til ham: »Der står også skrevet: ›Du må ikke friste Herren, din Gud.‹« v8 Igen tog Djævelen ham med sig op på et meget højt bjerg og viste ham alle verdens riger og deres herlighed, v9 og han sagde til ham: »Alt dette vil jeg give dig, hvis du kaster dig ned og tilbeder mig.« v10 Så sagde Jesus til ham: »Gå bort, Satan, for der står skrevet: ›Du skal tilbede din Herren Gud og tjene ham alene.‹« v11. Da forlod Djævelen ham, og se, engle kom og tjente ham.",
       "number": 1,
+      "text": "Da blev Jesus af Ånden ført til ørkenen for at blive fristet af Djævelen.",
+      "title": "Jesu fristelse",
       "version": 1617832800000
     },
     {
-      "text": "\fMen da han hørte at Johannes var blevet udleveret som fange, drog han bort til Galilæa. v13 Og han forlod Nazaret og kom og bosatte sig i Kapernaum ved Søen i Zebulons og Naftalis områder, v14 for at det skulle opfyldes som er blevet talt ved Esajas, profeten, som sagde: v15 »Zebulons land og Naftalis land, vejen til søen, på den anden side Jordan, hedningernes Galilæa, v16 det folk som sad i mørke, har set et stort lys, og for dem som sidder i dødens land og skygge, for dem er et lys steget op.« v17 Fra da af begyndte Jesus at forkynde, og han sagde: »Omvend jer, for Himlenes rige er kommet nær.«",
+      "number": 2,
+      "text": "Da han havde fastet i fyrre dage og fyrre nætter, sultede han til sidst.",
+      "version": 1617832800000
+    },
+    {
+      "number": 3,
+      "text": "Og fristeren kom og sagde til ham: »Når du er Guds Søn, så sig at disse sten dér skal blive til brød.«",
+      "version": 1617832800000
+    },
+    {
+      "number": 4,
+      "text": "Men han svarede: »Der står skrevet: ›Mennesket skal ikke leve af brød alene, men af hvert ord som udgår af Guds mund.‹«",
+      "footnotes": [
+        {
+          "text": "H: 5 Mos 8,3.",
+          "position": 35
+        }
+      ],
+      "version": 1617832800000
+    },
+    {
+      "number": 5,
+      "text": "Da tog Djævelen ham med sig til den hellige by og stillede ham på templets tinde,",
+      "version": 1617832800000
+    },
+    {
+      "number": 6,
+      "text": "og han sagde til ham: »Når du er Guds Søn, så kast dig ned, for der står skrevet: ›Han skal befale sine engle med henblik på dig, og de skal bære dig på hænder for at du ikke skal støde din fod mod en sten.‹«",
+      "footnotes": [
+        {
+          "text": "H: Sl 91,11-12.",
+          "position": 81
+        }
+      ],
+      "version": 1617832800000
+    },
+    {
+      "number": 7,
+      "text": "Jesus sagde til ham: »Der står også skrevet: ›Du må ikke friste Herren, din Gud.‹«",
+      "footnotes": [
+        {
+          "text": "H: 5 Mos 6,16.",
+          "position": 44
+        }
+      ],
+      "version": 1617832800000
+    },
+    {
+      "number": 8,
+      "text": "Igen tog Djævelen ham med sig op på et meget højt bjerg og viste ham alle verdens riger og deres herlighed,",
+      "version": 1617832800000
+    },
+    {
+      "number": 9,
+      "text": "og han sagde til ham: »Alt dette vil jeg give dig, hvis du kaster dig ned og tilbeder mig.«",
+      "version": 1617832800000
+    },
+    {
+      "number": 10,
+      "text": "Så sagde Jesus til ham: »Gå bort, Satan, for der står skrevet: ›Du skal tilbede din Herren Gud og tjene ham alene.‹«",
+      "footnotes": [
+        {
+          "text": "H: 5 Mos 6,13.",
+          "position": 62
+        }
+      ],
+      "version": 1617832800000
+    },
+    {
+      "number": 11,
+      "text": "Da forlod Djævelen ham, og se, engle kom og tjente ham.",
+      "version": 1617832800000
+    },
+    {
       "number": 12,
+      "text": "\fMen da han hørte at Johannes var blevet udleveret som fange, drog han bort til Galilæa.",
+      "title": "Jesu mission i Galilæa",
       "version": 1617832800000
     },
     {
-      "text": "\fMens han vandrede langs Galilæas Sø, så han to brødre, Simon, som kaldes Peter, og Andreas, hans bror, i færd med at kaste net i søen, for de var fiskere. v19 Og han sagde til dem: »Kom, følg mig, for jeg vil gøre jer til menneskefiskere.« v20 Straks forlod de garnene og fulgte ham. v21 Da han gik videre derfra, så han to andre brødre, Jakob, Zebedæus’ søn, og Johannes, hans bror, i båden sammen med Zebedæus, deres far, i færd med at ordne deres garn, og han kaldte dem. v22 Straks forlod de båden og deres far og fulgte ham.",
+      "number": 13,
+      "text": "Og han forlod Nazaret og kom og bosatte sig i Kapernaum ved Søen i Zebulons og Naftalis områder,",
+      "version": 1617832800000
+    },
+    {
+      "number": 14,
+      "text": "for at det skulle opfyldes som er blevet talt ved Esajas, profeten, som sagde:",
+      "footnotes": [
+        {
+          "text": "H: Es 8,23; Es 9,1.",
+          "position": 78
+        }
+      ],
+      "version": 1617832800000
+    },
+    {
+      "number": 15,
+      "text": "»Zebulons land og Naftalis land, vejen til søen, på den anden side Jordan, hedningernes Galilæa,",
+      "version": 1617832800000
+    },
+    {
+      "number": 16,
+      "text": "det folk som sad i mørke, har set et stort lys, og for dem som sidder i dødens land og skygge, for dem er et lys steget op.«",
+      "version": 1617832800000
+    },
+    {
+      "number": 17,
+      "text": "Fra da af begyndte Jesus at forkynde, og han sagde: »Omvend jer, for Himlenes rige er kommet nær.«",
+      "version": 1617832800000
+    },
+    {
       "number": 18,
+      "text": "\fMens han vandrede langs Galilæas Sø, så han to brødre, Simon, som kaldes Peter, og Andreas, hans bror, i færd med at kaste net i søen, for de var fiskere.",
+      "title": "Kaldelsen af de første disciple",
       "version": 1617832800000
     },
     {
-      "text": "\fHan gik omkring i hele Galilæa idet han underviste i deres synagoger, og idet han forkyndte evangeliet om Riget, og idet han helbredte enhver sygdom og enhver svaghed i folket. v24 Og rygtet om ham kom ud i hele Syrien, og alle deres syge som led af forskellige sygdomme og lidelser, bragte de til ham, og de kom også med besatte og månesyge og lamme, og han helbredte dem. v25 Og store skarer fulgte ham fra Galilæa, Dekapolis, Jerusalem, Judæa og fra den anden side af Jordan.",
+      "number": 19,
+      "text": "Og han sagde til dem: »Kom, følg mig, for jeg vil gøre jer til menneskefiskere.«",
+      "version": 1617832800000
+    },
+    {
+      "number": 20,
+      "text": "Straks forlod de garnene og fulgte ham.",
+      "version": 1617832800000
+    },
+    {
+      "number": 21,
+      "text": "Da han gik videre derfra, så han to andre brødre, Jakob, Zebedæus’ søn, og Johannes, hans bror, i båden sammen med Zebedæus, deres far, i færd med at ordne deres garn, og han kaldte dem.",
+      "version": 1617832800000
+    },
+    {
+      "number": 22,
+      "text": "Straks forlod de båden og deres far og fulgte ham.",
+      "version": 1617832800000
+    },
+    {
       "number": 23,
-      "version": 1617832800000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Jesu fristelse",
-      "verse": 1,
+      "text": "\fHan gik omkring i hele Galilæa idet han underviste i deres synagoger, og idet han forkyndte evangeliet om Riget, og idet han helbredte enhver sygdom og enhver svaghed i folket.",
+      "title": "Forkyndelse og helbredelser i Galilæa",
       "version": 1617832800000
     },
     {
-      "text": "Jesu mission i Galilæa",
-      "verse": 2,
+      "number": 24,
+      "text": "Og rygtet om ham kom ud i hele Syrien, og alle deres syge som led af forskellige sygdomme og lidelser, bragte de til ham, og de kom også med besatte og månesyge og lamme, og han helbredte dem.",
       "version": 1617832800000
     },
     {
-      "text": "Kaldelsen af de første disciple",
-      "verse": 13,
+      "number": 25,
+      "text": "Og store skarer fulgte ham fra Galilæa, Dekapolis, Jerusalem, Judæa og fra den anden side af Jordan.",
       "version": 1617832800000
-    },
-    {
-      "text": "Forkyndelse og helbredelser i Galilæa",
-      "verse": 19,
-      "version": 1617832800000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "5 Mos 8,3.",
-      "type": "H",
-      "verse": 1,
-      "position": 295
-    },
-    {
-      "text": "Sl 91,11-12.",
-      "type": "H",
-      "verse": 1,
-      "position": 549
-    },
-    {
-      "text": "5 Mos 6,16.",
-      "type": "H",
-      "verse": 1,
-      "position": 724
-    },
-    {
-      "text": "5 Mos 6,13.",
-      "type": "H",
-      "verse": 1,
-      "position": 1035
-    },
-    {
-      "text": "Es 8,23; Es 9,1.",
-      "type": "H",
-      "verse": 12,
-      "position": 272
     }
   ]
 }

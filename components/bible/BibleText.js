@@ -2,10 +2,22 @@ import React, { useEffect, useState } from 'react';
 
 import Loading from '../main/Loading';
 import Verse from './Verse';
-import StandardSettings from '@/src/data/settings';
 
-function BibleText (props) {
-    const [settings, setSettings] = useState(StandardSettings);
+function BibleText ({ text, onSelectionChange }) {
+    const [settings, setSettings] = useState({
+        showVerseNumber: true,
+        showChapterInVerse: false,
+        showTitles: true,
+        showGeneralFootnotes: true,
+        showAcademicFootnotes: true,
+        showFootnotesAtBottom: true,
+        showContributors: true,
+        oneVersePerLine: false,
+        extraLineSpacing: false,
+        exegeticLayout: false,
+        godsName: "Herren",
+        font: "Helvetica"
+    });
 
     useEffect(() => {
       const data = localStorage.getItem("settings");
@@ -14,26 +26,22 @@ function BibleText (props) {
       }
     }, []);
 
-    let lines = [];
+    let bibleText;
+    let verses = [];
+
     let generalFootnoteElements = [];
     let academicFootnoteElements = [];
     let contributors = [];
 
     let translationLevel = "";
     let lastChange;
-
-    let verses;
-    let subtitles;
-    let footnotes;
     
     const alphabet = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
     let alphabetCount = 0;
     let numberCount = 1;
 
-    if (props.text !== undefined) {
-        verses = props.text.verses;
-        subtitles = props.text.titles;
-        footnotes = props.text.footnotes === undefined ? [] : props.text.footnotes;
+    if (text) {
+        verses = text.verses;
 
         if (verses && verses.length > 0) {
             lastChange = 0;
@@ -44,7 +52,7 @@ function BibleText (props) {
             lastChange = new Date(lastChange).toLocaleDateString("da-DK", {year: 'numeric', month: '2-digit', day: '2-digit'}).replace(/\./g, "-");
         }
         
-        let translation = props.text.translation;
+        let translation = text.translation;
         if (translation == 0) {
             translationLevel = "Ikke begyndt";
         }
@@ -61,68 +69,46 @@ function BibleText (props) {
             translationLevel = "Færdig";
         }
 
-        if (props.text.contributors && props.text.contributors.length > 0) {
-            for (let i = 0; i < props.text.contributors.length; i++) {
-                let contributor = props.text.contributors[i];
+        if (text.contributors && text.contributors.length > 0) {
+            for (let i = 0; i < text.contributors.length; i++) {
+                let contributor = text.contributors[i];
                 contributors.push(<div key={"contributor" + i}><small><strong>{contributor.type}:</strong> <a href="#">{contributor.name}</a></small><br/></div>);
             }
         }
 
-        if (footnotes !== undefined) {
-            for (let i = 0; i < footnotes.length; i++) {
-                if (footnotes[i].type == "E") {
-                    footnotes[i].designation = alphabet[alphabetCount];
-                    alphabetCount++;
-                    academicFootnoteElements.push(<><small><strong>[<a id={"b" + footnotes[i].verse + footnotes[i].type + footnotes[i].designation} href={"#" + footnotes[i].verse + footnotes[i].type + footnotes[i].designation}>{footnotes[i].designation}</a>]</strong> {footnotes[i].text}</small><br/></>);
-                }
-                else {
-                    footnotes[i].designation = numberCount;
-                    numberCount++;
-                    generalFootnoteElements.push(<><small><strong>[<a id={"b" + footnotes[i].verse + footnotes[i].type + footnotes[i].designation} href={"#" + footnotes[i].verse + footnotes[i].type + footnotes[i].designation}>{footnotes[i].designation}</a>]</strong> {footnotes[i].text}</small><br/></>);
+        if (verses) {
+            for (let i = 0; i < verses.length; i++) {
+                const verse = verses[i];
+                if (verse.footnotes) {
+                    for (let j = 0; j < verse.footnotes.length; j++) {
+                        const footnote = verse.footnotes[j];
+                        if (footnote.type == "E") {
+                            footnote.designation = alphabet[alphabetCount];
+                            alphabetCount++;
+                            academicFootnoteElements.push(<><small><strong>[<a id={"b" + verse.number + footnote.type + footnote.designation} href={"#" + verse.number + footnote.type + footnote.designation}>{footnote.designation}</a>]</strong> {footnote.text}</small><br/></>);
+                        }
+                        else {
+                            footnote.designation = numberCount;
+                            numberCount++;
+                            generalFootnoteElements.push(<><small><strong>[<a id={"b" + verse.number + footnote.type + footnote.designation} href={"#" + verse.number + footnote.type + footnote.designation}>{footnote.designation}</a>]</strong> {footnote.text}</small><br/></>);
+                        }
+                    }
                 }
             }
-        }
-    }
 
-    if (verses !== undefined) {
-        for (let i = 0; i < verses.length; i++) {
-            let currentVerse = verses[i];
-            let title = subtitles.find(({verse}) => verse === currentVerse.number);
-
-            lines.push({ 
-                text: currentVerse.text, 
-                title: title ? title.text : undefined,
-                number: currentVerse.number 
+            bibleText = verses.map((verse, i) => {
+                return (<Verse onSelected={onSelectionChange} 
+                            key={"v" + verse.number + "c" + text.chapter}
+                            verse={verse}
+                            index={i}
+                            settings={settings}/>);
             });
         }
     }
 
-    //https://stackoverflow.com/questions/6582233/hash-in-anchor-tags
-    let bibleText = (
-        (lines.length !== 0) ? (
-            lines.map((line, i) => {
-                let verse = line;
-                let footnotesInVerse = [];
-
-                for (let j = 0; j < footnotes.length; j++) {
-                    if (footnotes[j].verse === verse.number)
-                        footnotesInVerse.push(footnotes[j]);
-                }
-
-                return (<Verse onSelected={props.onSelectionChange} 
-                            key={"v" + verse.number + "c" + props.text.chapter}
-                            title={verse.title} verseNumber={verse.number}
-                            footnotes={footnotesInVerse}
-                            verseText={verse.text}
-                            settings={settings}/>);
-            }
-        )
-        ) : ""
-    )
-
     return (
         <div className='py-0'>
-            {bibleText === "" ? (
+            {!bibleText ? (
                 <div className='d-flex justify-content-center'>
                     <Loading/>
                 </div>

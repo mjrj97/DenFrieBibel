@@ -5,161 +5,158 @@
   "translation": 25,
   "contributors": [
     {
-      "name": "Trine Tøndering",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Endnu ikke sket"
     }
   ],
   "verses": [
     {
-      "text": "\fMen han sagde også til disciplene: »Der var en rig mand som havde en godsforvalter, og denne blev beskyldt over for ham som en der øslede med hans ejendom.",
       "number": 1,
+      "text": "Men han sagde også til disciplene: »Der var en rig mand som havde en godsforvalter, og denne blev beskyldt over for ham som en der øslede med hans ejendom.",
       "version": 1646002800000
     },
     {
-      "text": "Han kaldte på ham og sagde til ham: ›Hvad er det jeg hører om dig? Aflæg regnskab for din forvaltning, for du kan ikke længere være godsforvalter.‹",
       "number": 2,
+      "text": "Han kaldte på ham og sagde til ham: ›Hvad er det jeg hører om dig? Aflæg regnskab for din forvaltning, for du kan ikke længere være godsforvalter.‹",
       "version": 1646002800000
     },
     {
-      "text": "Men godsforvalteren sagde ved sig selv: ›Hvad skal jeg gøre når nu min herre tager forvaltningen fra mig? Grave har jeg ikke kræfter til, tigge skammer jeg mig ved.",
       "number": 3,
+      "text": "Men godsforvalteren sagde ved sig selv: ›Hvad skal jeg gøre når nu min herre tager forvaltningen fra mig? Grave har jeg ikke kræfter til, tigge skammer jeg mig ved.",
       "version": 1646002800000
     },
     {
-      "text": "Nu ved jeg hvad jeg vil gøre for at de skal modtage mig i deres huse, når jeg bliver sat fra forvaltningen.‹",
       "number": 4,
+      "text": "Nu ved jeg hvad jeg vil gøre for at de skal modtage mig i deres huse, når jeg bliver sat fra forvaltningen.‹",
       "version": 1646002800000
     },
     {
-      "text": "Han kaldte hver enkelt af sin herres skyldnere til sig og sagde til den første: ›Hvor meget skylder du min herre?‹",
       "number": 5,
+      "text": "Han kaldte hver enkelt af sin herres skyldnere til sig og sagde til den første: ›Hvor meget skylder du min herre?‹",
       "version": 1646002800000
     },
     {
-      "text": "Han sagde: ›100 ankre olie.‹ Han sagde til ham: ›Tag dit gældsbrev, og sæt dig hurtigt ned og skriv 50!‹",
       "number": 6,
+      "text": "Han sagde: ›100 ankre olie.‹ Han sagde til ham: ›Tag dit gældsbrev, og sæt dig hurtigt ned og skriv 50!‹",
+      "footnotes": [
+        {
+          "text": "T: Det græske ord er et mål for flydende varer svarende til 36,4 liter.",
+          "position": 21
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "Derefter sagde han til en anden: ›Men du, hvor meget skylder du?‹ Han sagde: ›100 mål hvede.‹ Han siger til ham: ›Tag dit gældsbrev og skriv 80!‹",
       "number": 7,
+      "text": "Derefter sagde han til en anden: ›Men du, hvor meget skylder du?‹ Han sagde: ›100 mål hvede.‹ Han siger til ham: ›Tag dit gældsbrev og skriv 80!‹",
+      "footnotes": [
+        {
+          "text": "T: Det græske ord er et mål for både tørre og flydende varer svarende til 364 liter.",
+          "position": 85
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "Herren roste den uærlige godsforvalter fordi han havde handlet klogt; for denne verdens børn er klogere end lysets børn over for deres egen slægt.",
       "number": 8,
+      "text": "Herren roste den uærlige godsforvalter fordi han havde handlet klogt; for denne verdens børn er klogere end lysets børn over for deres egen slægt.",
+      "footnotes": [
+        {
+          "text": "T: Det græske ord er udtryk for denne (gudløse) tidsalder.",
+          "position": 87
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "Jeg siger jer: Skaf jer venner ved hjælp af uretfærdighedens mammon for at de, når det er forbi med den, må modtage jer i de evige boliger.",
       "number": 9,
+      "text": "Jeg siger jer: Skaf jer venner ved hjælp af uretfærdighedens mammon for at de, når det er forbi med den, må modtage jer i de evige boliger.",
       "version": 1646002800000
     },
     {
-      "text": "\fDer var en rig mand som klædte sig i purpur og fint linned og levede hver dag i fryd og herlighed.",
       "number": 19,
+      "text": "\fDer var en rig mand som klædte sig i purpur og fint linned og levede hver dag i fryd og herlighed.",
       "version": 1646002800000
     },
     {
-      "text": "Men en fattig mand ved navn Lazarus lå ved hans port og var fuld af sår",
       "number": 20,
+      "text": "Men en fattig mand ved navn Lazarus lå ved hans port og var fuld af sår",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »kastet hen«.",
+          "position": 38
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "og ønskede at spise sig mæt i det som faldt fra den riges spisebord; men selv hundene kom og slikkede hans sår.",
       "number": 21,
+      "text": "og ønskede at spise sig mæt i det som faldt fra den riges spisebord; men selv hundene kom og slikkede hans sår.",
       "version": 1646002800000
     },
     {
-      "text": "Nu skete det at den fattige døde, og af englene blev han båret hen i Abrahams skød; og den rige døde også og blev begravet.",
       "number": 22,
+      "text": "Nu skete det at den fattige døde, og af englene blev han båret hen i Abrahams skød; og den rige døde også og blev begravet.",
       "version": 1646002800000
     },
     {
-      "text": "Da han slog øjnene op i dødsriget, hvor han var i pine, ser han Abraham langt borte og Lazarus i hans skød.",
       "number": 23,
+      "text": "Da han slog øjnene op i dødsriget, hvor han var i pine, ser han Abraham langt borte og Lazarus i hans skød.",
+      "footnotes": [
+        {
+          "text": "T: På græsk: »Hades«.",
+          "position": 34
+        }
+      ],
       "version": 1646002800000
     },
     {
-      "text": "Han råbte: »Far Abraham! Forbarm dig over mig og send Lazarus så han kan dyppe det yderste af sin finger i vand og læske min tunge; for jeg pines i denne ild.«",
       "number": 24,
+      "text": "Han råbte: »Far Abraham! Forbarm dig over mig og send Lazarus så han kan dyppe det yderste af sin finger i vand og læske min tunge; for jeg pines i denne ild.«",
       "version": 1646002800000
     },
     {
-      "text": "Men Abraham sagde: »Barn! Husk på at du har fået dit gode i din livstid, og Lazarus ligeså det onde; men nu trøstes han her, og du pines.",
       "number": 25,
+      "text": "Men Abraham sagde: »Barn! Husk på at du har fået dit gode i din livstid, og Lazarus ligeså det onde; men nu trøstes han her, og du pines.",
       "version": 1646002800000
     },
     {
-      "text": "Desuden er der lagt en stor afgrund mellem os og jer for at de som vil herfra over til jer, ikke skal kunne det, og de heller ikke skal kunne komme derfra over til os.«",
       "number": 26,
+      "text": "Desuden er der lagt en stor afgrund mellem os og jer for at de som vil herfra over til jer, ikke skal kunne det, og de heller ikke skal kunne komme derfra over til os.«",
       "version": 1646002800000
     },
     {
-      "text": "Men han sagde: »Så beder jeg dig, far, at du vil sende ham til min fars hus —",
       "number": 27,
+      "text": "Men han sagde: »Så beder jeg dig, far, at du vil sende ham til min fars hus —",
       "version": 1646002800000
     },
     {
-      "text": "for jeg har fem brødre — så at han kan vidne for dem for at ikke også de skal komme i dette pinested.«",
       "number": 28,
+      "text": "for jeg har fem brødre — så at han kan vidne for dem for at ikke også de skal komme i dette pinested.«",
       "version": 1646002800000
     },
     {
-      "text": "Men Abraham sagde: »De har Moses og profeterne, dem skal de høre!«",
       "number": 29,
+      "text": "Men Abraham sagde: »De har Moses og profeterne, dem skal de høre!«",
       "version": 1646002800000
     },
     {
-      "text": "Men han sagde: »Nej, far Abraham! Men hvis nogen fra de døde kommer til dem, vil de omvende sig.«",
       "number": 30,
+      "text": "Men han sagde: »Nej, far Abraham! Men hvis nogen fra de døde kommer til dem, vil de omvende sig.«",
       "version": 1646002800000
     },
     {
-      "text": "Men han sagde til ham: »Hvis de ikke hører Moses og profeterne, så lader de sig heller ikke overbevise hvis nogen opstår fra de døde.«",
       "number": 31,
+      "text": "Men han sagde til ham: »Hvis de ikke hører Moses og profeterne, så lader de sig heller ikke overbevise hvis nogen opstår fra de døde.«",
       "version": 1646002800000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Det græske ord er et mål for flydende varer svarende til 36,4 liter.",
-      "type": "T",
-      "verse": 6,
-      "position": 21
-    },
-    {
-      "text": "Det græske ord er et mål for både tørre og flydende varer svarende til 364 liter.",
-      "type": "T",
-      "verse": 7,
-      "position": 85
-    },
-    {
-      "text": "Det græske ord er udtryk for denne (gudløse) tidsalder.",
-      "type": "T",
-      "verse": 8,
-      "position": 87
-    },
-    {
-      "text": "Ordret: »kastet hen«.",
-      "type": "T",
-      "verse": 20,
-      "position": 38
-    },
-    {
-      "text": "På græsk: »Hades«.",
-      "type": "T",
-      "verse": 23,
-      "position": 34
     }
   ]
 }

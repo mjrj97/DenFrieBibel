@@ -5,184 +5,158 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     },
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Nicolai Winther-Nielsen"
     },
     {
-      "name": "Mikkel Kølkær",
-      "type": "Eksegetisk layout"
+      "type": "Eksegetisk layout",
+      "name": "Mikkel Kølkær"
     }
   ],
   "verses": [
     {
-      "text": "\fTil korlederen.\f\n\t\t\tAf Koras sønner.\n\t\tAl-alamot.\n\tEn sang.",
       "number": 1,
+      "text": "Til korlederen.\f\t\t\tAf Koras sønner.\t\tAl-alamot.\tEn sang.",
+      "title": "Overskrift",
+      "footnotes": [
+        {
+          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "position": 15
+        },
+        {
+          "text": "E: Betydningen af dette udtryk er ukendt, egtl.: »efter de unge kvinder/på unge kvinders vis«. Udtrykket betyder muligvis at salmen skulle synges af sopranerne, eller at den skulle synges på samme melodi som en anden salme, der begyndte med ordet »alamot«.",
+          "position": 47
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\fGud er for os tilflugt og værn,\fnærværende\n\t\t\t\tsom en hjælp i trængsler, ja, meget.",
       "number": 2,
+      "text": "\fGud er for os tilflugt og værn,\fnærværende\t\t\t\tsom en hjælp i trængsler, ja, meget.",
+      "title": "Gud er tilflugt mod naturens luner",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »forefundet«.",
+          "position": 43
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\tDerfor vil vi ikke frygte,\n\t\t\t\t\tnår jorden forandres,\f\n\t\t\t\t\t\tog bjergene vakler midt i havet,",
       "number": 3,
+      "text": "\f\t\t\tDerfor vil vi ikke frygte,\t\t\t\t\tnår jorden forandres,\f\t\t\t\t\t\tog bjergene vakler midt i havet,",
+      "footnotes": [
+        {
+          "text": "T: Oversættes ofte: »skælver, rystes«, men det ville være eneste sted i GT at verbet har den betydning.",
+          "position": 56
+        },
+        {
+          "text": "T: Ordret: »i havets hjerte«. Andre oversætter: »i havets dyb«. Ordet *yammîm* er egentlig pluralis (»have«), men er opfattet som singularis i suffikserne i v. 4. Pluralis er her udtryk for storheden.",
+          "position": 95
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tnår dets vande buldrer\n\t\t\t\t\tog skummer,\f\n\t\t\t\t\tnår bjergene bæver for dets vælde.\n\t\t\t\t\t\tSela",
       "number": 4,
+      "text": "\f\t\t\t\tnår dets vande buldrer\t\t\t\t\tog skummer,\f\t\t\t\t\tnår bjergene bæver for dets vælde.\t\t\t\t\t\tSela",
+      "footnotes": [
+        {
+          "text": "N: Sela",
+          "position": 93
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\tEn flod,\n\t\t\tdens kanaler glæder Guds by,\fden Højestes hellige bolig.",
       "number": 5,
+      "text": "\f\t\tEn flod,\t\t\tdens kanaler glæder Guds by,\fden Højestes hellige bolig.",
+      "title": "Gud er tilflugt mod folkeslags angreb",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »boliger«, men pluralis skal formodentlig understrege storheden og helligheden.",
+          "position": 70
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\tGud er i dens midte,\n\t\t\t\t\t\tden skal ikke rokkes,\f\n\t\t\t\t\tGud vil hjælpe den\n\t\t\t\t\t\t\t\tnår morgenen bryder frem.",
       "number": 6,
+      "text": "\f\t\t\t\tGud er i dens midte,\t\t\t\t\t\tden skal ikke rokkes,\f\t\t\t\t\tGud vil hjælpe den\t\t\t\t\t\t\t\tnår morgenen bryder frem.",
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\t\t\t\tFolkeslag buldrede,\n\t\t\t\t\t\t\tkongeriger vaklede,\f\n\t\t\t\t\t\than lod sin røst lyde -\n\t\t\t\t\t\t\tjorden ryster.",
       "number": 7,
+      "text": "\f\t\t\t\t\t\t\tFolkeslag buldrede,\t\t\t\t\t\t\tkongeriger vaklede,\f\t\t\t\t\t\than lod sin røst lyde -\t\t\t\t\t\t\tjorden ryster.",
+      "footnotes": [
+        {
+          "text": "T: Kunne også oversættes: »hedninger‹, men det er der næppe tænkt på her.",
+          "position": 17
+        },
+        {
+          "text": "T: Betydningen er usikker. Andre oversætter: »smelter«.",
+          "position": 104
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\tHærskarers JHVHv er med os,\f\n\t\t\tJakobs Gud er en borg for os.\n\t\t\t\tSela",
       "number": 8,
+      "text": "\f\tHærskarers JHVHv er med os,\f\t\t\tJakobs Gud er en borg for os.\t\t\t\tSela",
+      "footnotes": [
+        {
+          "text": "T: I ældre tid uoversat: »Zebaoth«.",
+          "position": 12
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\tKom,\n\t\tse JHVHs gerninger,\f\n\t\t\t\thvorledes han har anrettet forfærdelse på jorden.",
       "number": 9,
+      "text": "\f\t\tKom,\t\tse JHVHs gerninger,\f\t\t\t\thvorledes han har anrettet forfærdelse på jorden.",
+      "title": "Gud sejrer",
+      "footnotes": [
+        {
+          "text": "T: Oversættes ofte: »ødelæggelser«. Denne betydning er dog omdiskuteret og usikker. I givet fald må det forudsættes at »ødelæggelse« regnes som grund til »forfærdelse«.",
+          "position": 71
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t\t\t\tHan får krige bragt til ro til jordens ende,\f\n\t\t\tsønderbryder buen\n\t\t\t\tog hugger spyddet itu,\f\n\t\t\tafbrænder vogne med ild.",
       "number": 10,
+      "text": "\f\t\t\t\t\tHan får krige bragt til ro til jordens ende,\f\t\t\tsønderbryder buen\t\t\t\tog hugger spyddet itu,\f\t\t\tafbrænder vogne med ild.",
+      "footnotes": [
+        {
+          "text": "T: Der er utvivlsomt tænkt på »stridsvogne«.",
+          "position": 116
+        }
+      ],
       "version": 1666562400000
     },
     {
-      "text": "\f\t\t»Hold inde,\n\t\t\tog du skal vide\n\t\t\t\tat jeg er Gud,\f\n\t\t\t\t\tophøjet blandt folkene,\n\t\t\t\t\tophøjet på jorden!«",
       "number": 11,
+      "text": "\f\t\t»Hold inde,\t\t\tog du skal vide\t\t\t\tat jeg er Gud,\f\t\t\t\t\tophøjet blandt folkene,\t\t\t\t\tophøjet på jorden!«",
       "version": 1666562400000
     },
     {
-      "text": "\f\tHærskarers JHVHv er med os,\f\n\t\tJakobs Gud er en borg for os.\n\t\t\tSela",
       "number": 12,
+      "text": "\f\tHærskarers JHVHv er med os,\f\t\tJakobs Gud er en borg for os.\t\t\tSela",
+      "footnotes": [
+        {
+          "text": "T: I ældre tid uoversat: »Zebaoth«.",
+          "position": 12
+        }
+      ],
       "version": 1666562400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Overskrift",
-      "verse": 1,
-      "version": 1666562400000
-    },
-    {
-      "text": "Gud er tilflugt mod naturens luner",
-      "verse": 2,
-      "version": 1666562400000
-    },
-    {
-      "text": "Gud er tilflugt mod folkeslags angreb",
-      "verse": 5,
-      "version": 1666562400000
-    },
-    {
-      "text": "Gud sejrer",
-      "verse": 9,
-      "version": 1666562400000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
-      "type": "E",
-      "verse": 1,
-      "position": 16
-    },
-    {
-      "text": "Betydningen af dette udtryk er ukendt, egtl.: »efter de unge kvinder/på unge kvinders vis«. Udtrykket betyder muligvis at salmen skulle synges af sopranerne, eller at den skulle synges på samme melodi som en anden salme, der begyndte med ordet »alamot«.",
-      "type": "E",
-      "verse": 1,
-      "position": 50
-    },
-    {
-      "text": "Ordret: »forefundet«.",
-      "type": "T",
-      "verse": 2,
-      "position": 43
-    },
-    {
-      "text": "Oversættes ofte: »skælver, rystes«, men det ville være eneste sted i GT at verbet har den betydning.",
-      "type": "T",
-      "verse": 3,
-      "position": 57
-    },
-    {
-      "text": "Ordret: »i havets hjerte«. Andre oversætter: »i havets dyb«. Ordet *yammîm* er egentlig pluralis (»have«), men er opfattet som singularis i suffikserne i v. 4. Pluralis er her udtryk for storheden.",
-      "type": "T",
-      "verse": 3,
-      "position": 97
-    },
-    {
-      "text": "Sela",
-      "type": "N",
-      "verse": 4,
-      "position": 96
-    },
-    {
-      "text": "Ordret: »boliger«, men pluralis skal formodentlig understrege storheden og helligheden.",
-      "type": "T",
-      "verse": 5,
-      "position": 71
-    },
-    {
-      "text": "Kunne også oversættes: »hedninger‹, men det er der næppe tænkt på her.",
-      "type": "T",
-      "verse": 7,
-      "position": 17
-    },
-    {
-      "text": "Betydningen er usikker. Andre oversætter: »smelter«.",
-      "type": "T",
-      "verse": 7,
-      "position": 107
-    },
-    {
-      "text": "I ældre tid uoversat: »Zebaoth«.",
-      "type": "T",
-      "verse": 8,
-      "position": 12
-    },
-    {
-      "text": "Oversættes ofte: »ødelæggelser«. Denne betydning er dog omdiskuteret og usikker. I givet fald må det forudsættes at »ødelæggelse« regnes som grund til »forfærdelse«.",
-      "type": "T",
-      "verse": 9,
-      "position": 73
-    },
-    {
-      "text": "Der er utvivlsomt tænkt på »stridsvogne«.",
-      "type": "T",
-      "verse": 10,
-      "position": 119
-    },
-    {
-      "text": "I ældre tid uoversat: »Zebaoth«.",
-      "type": "T",
-      "verse": 12,
-      "position": 12
     }
   ]
 }

@@ -5,133 +5,124 @@
   "translation": 100,
   "contributors": [
     {
-      "name": "Svend Erik Petersen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Svend Erik Petersen"
     },
     {
-      "name": "Jørgen Bækgaard Thomsen",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Jørgen Bækgaard Thomsen"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fSend landets hersker vædderlam\ffra Sela gennem ørkenen\ftil Sions datters bjerg.",
       "number": 1,
+      "text": "Send landets hersker vædderlam \ffra Sela gennem ørkenen \ftil Sions datters bjerg.",
       "version": 1674774000000
     },
     {
-      "text": "\fOg det skal ske at som en flaksende fugl\fder er jaget op fra reden,\fsådan skal Moabs døtre være\fved Arnons vadesteder.",
       "number": 2,
+      "text": "\fOg det skal ske at som en flaksende fugl \fder er jaget op fra reden, \fsådan skal Moabs døtre være \fved Arnons vadesteder.",
       "version": 1674774000000
     },
     {
-      "text": "\f»Giv et råd!\fTræf en beslutning!\fGør din skygge som nat\fved højlys dag.\fSkjul fordrevne,\fforråd ikke en der flakker om!",
       "number": 3,
+      "text": "\f»Giv et råd! \fTræf en beslutning! \fGør din skygge som nat \fved højlys dag. \fSkjul fordrevne, \fforråd ikke en der flakker om!",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »ved middagens midte«.",
+          "position": 75
+        },
+        {
+          "text": "T: På hebraisk samme ord som »flaksende« i vers 2.",
+          "position": 125
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fLad Moabs fordrevne få husly hos dig,\fvær et skjul for dem mod en ødelægger.«\fNår undertrykkeren er borte,\fødelæggelsen får ende,\fog han som trådte under fode, er forsvundet\ffra landet,",
       "number": 4,
+      "text": "\fLad Moabs fordrevne få husly hos dig, \fvær et skjul for dem mod en ødelægger.« \fNår undertrykkeren er borte, \fødelæggelsen får ende, \fog han som trådte under fode, er forsvundet \ffra landet,",
+      "footnotes": [
+        {
+          "text": "E: Den masoretiske tekst lyder egentlig: »Lad mine fordrevne få husly hos dig, Moab«. Med de gamle oversættelser går man oftest ud fra, at *niddāḥay* (»mine fordrevne«) skal vokaliseres: *niddᵊḥêy* og mod masoreternes accent forbindes med Moab (»(Moabs) fordrevne«).",
+          "position": 20
+        },
+        {
+          "text": "T: Verbet er i pluralis, men subjektet er singularis.",
+          "position": 178
+        },
+        {
+          "text": "T: Kan også oversættes: »fra jorden«.",
+          "position": 191
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fda rejses i nåden en trone,\fog på den skal sidde med sandhed i Davids telt\fen, som dømmer og stræber efter ret\fog fremmer retfærdighed.",
       "number": 5,
+      "text": "\fda rejses i nåden en trone, \fog på den skal sidde med sandhed i Davids telt \fen, som dømmer og stræber efter ret \fog fremmer retfærdighed.",
       "version": 1674774000000
     },
     {
-      "text": "\fVi har hørt om Moabs hovmod\f– meget hovmodig –\fom dets stolthed og dets hovmod og dets overmod,\fdets urigtige pralerier.",
       "number": 6,
+      "text": "\fVi har hørt om Moabs hovmod \f– meget hovmodig – \fom dets stolthed og dets hovmod og dets overmod, \fdets urigtige pralerier.",
       "version": 1674774000000
     },
     {
-      "text": "\fDerfor skal Moab jamre over Moab,\fenhver skal jamre;\fover Kir-Haresets rosinkager\fskal I sukke, aldeles modfaldne.",
       "number": 7,
+      "text": "\fDerfor skal Moab jamre over Moab, \fenhver skal jamre; \fover Kir-Haresets rosinkager \fskal I sukke, aldeles modfaldne.",
+      "footnotes": [
+        {
+          "text": "E: Man foreslår undertiden at rette: *ˀᵃšîšê* (»rosinkager«) til: *ˀanšê*: »mænd«, jf. Jer 48,31. Her er der dog ingen vaklen i håndskrifterne. Rosinkager blev brugt i hedensk kult og som vigtig næring på rejser.",
+          "position": 84
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fFor Heshbons marker er visnede,\fSibmas vinstok\f– folkenes herrer\fhar knust dens ædle druer,\fsom nåede til Jazer,\fspredte sig i ørkenen;\fdens ranker bredte sig ud,\fgik ud over havet.",
       "number": 8,
+      "text": "\fFor Heshbons marker er visnede, \fSibmas vinstok\f– folkenes herrer \fhar knust dens ædle druer, \fsom nåede til Jazer, \fspredte sig i ørkenen; \fdens ranker bredte sig ud, \fgik ud over havet.",
       "version": 1674774000000
     },
     {
-      "text": "\fDerfor vil jeg græde med Jazers gråd\fover Sibmas vinstok,\fjeg vil væde dig med mine tårer,\fHeshbon og El’ale,\ffor over din frugthøst og over din kornhøst\ffaldt jubelråbet.",
       "number": 9,
+      "text": "\fDerfor vil jeg græde med Jazers gråd \fover Sibmas vinstok, \fjeg vil væde dig med mine tårer, \fHeshbon og El’ale, \ffor over din frugthøst og over din kornhøst \ffaldt jubelråbet.",
+      "footnotes": [
+        {
+          "text": "E: Oversættelsen er usikker. Det skyldes især forståelsen af: *hêdād* (»jubelråb«) der undertiden her foreslås oversat: »krigsråb« eller i hvert fald opfattes som en fjendtlig hærs råb.",
+          "position": 177
+        }
+      ],
       "version": 1674774000000
     },
     {
-      "text": "\fGlæde og fryd er forsvundet\ffra frugthaven,\fog i vingårdene bliver der ikke jublet,\fikke råbt af fryd;\fpersetræderen træder ikke druer i persekarrene,\fjubelråb har jeg bragt til ophør.",
       "number": 10,
+      "text": "\fGlæde og fryd er forsvundet \ffra frugthaven, \fog i vingårdene bliver der ikke jublet, \fikke råbt af fryd; \fpersetræderen træder ikke druer i persekarrene, \fjubelråb har jeg bragt til ophør.",
       "version": 1674774000000
     },
     {
-      "text": "\fDerfor bruser mit inderste over Moab som en citer,\fog mit indre over Kir-Heres.",
       "number": 11,
+      "text": "\fDerfor bruser mit inderste over Moab som en citer, \fog mit indre over Kir-Heres.",
       "version": 1674774000000
     },
     {
-      "text": "\fOg det sker når Moab møder op,\fnår det udmatter sig på offerhøjen\fog kommer til sin helligdom for at bede,\fså kan det intet.",
       "number": 12,
+      "text": "\fOg det sker når Moab møder op, \fnår det udmatter sig på offerhøjen \fog kommer til sin helligdom for at bede, \fså kan det intet.",
       "version": 1674774000000
     },
     {
-      "text": "\fDette er det ord, som JHVH tidligere har talt mod Moab;",
       "number": 13,
+      "text": "\fDette er det ord, som JHVH tidligere har talt mod Moab;",
       "version": 1674774000000
     },
     {
-      "text": "men nu har JHVH talt og sagt: »Om tre år, som en daglejers år, skal Moabs herlighed med hele den store folkemængde blive forhånet, og resten vil være ganske få, ikke mange.«",
       "number": 14,
+      "text": "men nu har JHVH talt og sagt: »Om tre år, som en daglejers år, skal Moabs herlighed med hele den store folkemængde blive forhånet, og resten vil være ganske få, ikke mange.«",
       "version": 1674774000000
-    }
-  ],
-  "titles": [],
-  "footnotes": [
-    {
-      "text": "Ordret: »ved middagens midte«.",
-      "type": "T",
-      "verse": 3,
-      "position": 72
-    },
-    {
-      "text": "På hebraisk samme ord som »flaksende« i vers 2.",
-      "type": "T",
-      "verse": 3,
-      "position": 120
-    },
-    {
-      "text": "Den masoretiske tekst lyder egentlig: »Lad mine fordrevne få husly hos dig, Moab«. Med de gamle oversættelser går man oftest ud fra, at *niddāḥay* (»mine fordrevne«) skal vokaliseres: *niddᵊḥêy* og mod masoreternes accent forbindes med Moab (»(Moabs) fordrevne«).",
-      "type": "E",
-      "verse": 4,
-      "position": 20
-    },
-    {
-      "text": "Verbet er i pluralis, men subjektet er singularis.",
-      "type": "T",
-      "verse": 4,
-      "position": 174
-    },
-    {
-      "text": "Kan også oversættes: »fra jorden«.",
-      "type": "T",
-      "verse": 4,
-      "position": 186
-    },
-    {
-      "text": "Man foreslår undertiden at rette: *ˀᵃšîšê* (»rosinkager«) til: *ˀanšê*: »mænd«, jf. Jer 48,31. Her er der dog ingen vaklen i håndskrifterne. Rosinkager blev brugt i hedensk kult og som vigtig næring på rejser.",
-      "type": "E",
-      "verse": 7,
-      "position": 82
-    },
-    {
-      "text": "Oversættelsen er usikker. Det skyldes især forståelsen af: *hêdād* (»jubelråb«) der undertiden her foreslås oversat: »krigsråb« eller i hvert fald opfattes som en fjendtlig hærs råb.",
-      "type": "E",
-      "verse": 9,
-      "position": 172
     }
   ]
 }

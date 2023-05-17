@@ -1,72 +1,177 @@
 {
-  "book": " Johannes’ Åbenbaring",
+  "book": "Johannes’ Åbenbaring",
   "abbreviation": "Åb",
   "chapter": 2,
   "translation": 75,
   "contributors": [
     {
-      "name": "Torben Kjær",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Torben Kjær"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Literært tjek"
+      "type": "Literært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fSkriv til menighedens engel i Efesos: »Dette siger han som holder de syv stjerner i sin højre hånd, og som vandrer midt mellem de syv guldlysestager: v2 Jeg kender dine gerninger og dit arbejde og din udholdenhed, og at du ikke kan udholde de onde, og du har prøvet dem som kalder sig apostle og ikke er det, og du har fundet at de er løgnere, v3 og du har udholdenhed, og du har lidt på grund af mit navn, og du er ikke blevet træt. v4 Men jeg har det imod dig at du har forladt din første kærlighed. v5 Husk derfor hvorfra du er faldet, og omvend dig og gør de gerninger du først gjorde, ellers kommer jeg over dig og flytter din lysestage fra dens plads. v6 Men dette har du, at du hader nikolaitternes gerninger, som jeg også hader. v7 Den som har øre, skal høre hvad Ånden taler til menighederne. Til den der sejrer, vil jeg give at spise af livets træ, som er i Guds paradis.«",
       "number": 1,
+      "text": "\fSkriv til menighedens engel i Efesos: »Dette siger han som holder de syv stjerner i sin højre hånd, og som vandrer midt mellem de syv guldlysestager:",
+      "title": "Menigheden i Efesos",
       "version": 1648076400000
     },
     {
-      "text": "\fSkriv til menighedens engel i Smyrna: »Dette siger den første og den sidste, han som var død og blev levende: v9 Jeg kender din trængsel og din fattigdom, men du er rig, og bagtalelsen fra dem som kalder sig selv jøder, men ikke er det, men er Satans synagoge. v10 Frygt ikke for det du vil komme til at lide. Se, Djævelen vil kaste nogle af jer i fængsel for at I skal blive prøvet, og I vil have trængsel i ti dage. Vær tro indtil døden, og jeg vil give dig livets sejrskrans. v11 Den som har øre, skal høre hvad Ånden taler til menighederne. Den som sejrer, vil ikke blive skadet af den anden død.«",
+      "number": 2,
+      "text": "Jeg kender dine gerninger og dit arbejde og din udholdenhed, og at du ikke kan udholde de onde, og du har prøvet dem som kalder sig apostle og ikke er det, og du har fundet at de er løgnere,",
+      "version": 1648076400000
+    },
+    {
+      "number": 3,
+      "text": "og du har udholdenhed, og du har lidt på grund af mit navn, og du er ikke blevet træt.",
+      "version": 1648076400000
+    },
+    {
+      "number": 4,
+      "text": "Men jeg har det imod dig at du har forladt din første kærlighed.",
+      "version": 1648076400000
+    },
+    {
+      "number": 5,
+      "text": "Husk derfor hvorfra du er faldet, og omvend dig og gør de gerninger du først gjorde, ellers kommer jeg over dig og flytter din lysestage fra dens plads.",
+      "version": 1648076400000
+    },
+    {
+      "number": 6,
+      "text": "Men dette har du, at du hader nikolaitternes gerninger, som jeg også hader.",
+      "version": 1648076400000
+    },
+    {
+      "number": 7,
+      "text": "Den som har øre, skal høre hvad Ånden taler til menighederne. Til den der sejrer, vil jeg give at spise af livets træ, som er i Guds paradis.«",
+      "version": 1648076400000
+    },
+    {
       "number": 8,
+      "text": "\fSkriv til menighedens engel i Smyrna: »Dette siger den første og den sidste, han som var død og blev levende:",
+      "title": "Menigheden i Smyrna",
       "version": 1648076400000
     },
     {
-      "text": "\fSkriv til menighedens engel i Pergamum: »Dette siger han som har det tveæggede, skarpe sværd: v13 Jeg ved hvor du bor, hvor Satans trone er, og du holder fast i mit navn og har ikke fornægtet troen på mig i Antipas’ dage, mit trofaste vidne, som blev dræbt hos jer hvor Satan bor. v14 Men jeg har lidt imod dig: Du har hos dig nogle som holder fast ved Bileams lære, han som lærte Balak at lægge fælde for Israels sønner for at de skulle spise offerkød og begå utugt. v15 Således har du også nogle som på samme måde holder fast ved nikolaitternes lære. v16 Omvend dig derfor, ellers kommer jeg snart over dig, og jeg vil kæmpe imod dem med min munds sværd. v17 Den som har øre, skal høre hvad Ånden taler til menighederne. Til den der sejrer, vil jeg give af den skjulte manna, og jeg vil give ham en hvid sten, og på stenen står der skrevet et nyt navn som ingen kender uden den som modtager den.«",
+      "number": 9,
+      "text": "Jeg kender din trængsel og din fattigdom, men du er rig, og bagtalelsen fra dem som kalder sig selv jøder, men ikke er det, men er Satans synagoge.",
+      "version": 1648076400000
+    },
+    {
+      "number": 10,
+      "text": "Frygt ikke for det du vil komme til at lide. Se, Djævelen vil kaste nogle af jer i fængsel for at I skal blive prøvet, og I vil have trængsel i ti dage. Vær tro indtil døden, og jeg vil give dig livets sejrskrans.",
+      "version": 1648076400000
+    },
+    {
+      "number": 11,
+      "text": "Den som har øre, skal høre hvad Ånden taler til menighederne. Den som sejrer, vil ikke blive skadet af den anden død.«",
+      "version": 1648076400000
+    },
+    {
       "number": 12,
+      "text": "\fSkriv til menighedens engel i Pergamum: »Dette siger han som har det tveæggede, skarpe sværd:",
+      "title": "Menigheden i Pergamum",
       "version": 1648076400000
     },
     {
-      "text": "\fSkriv til menighedens engel i Thyatira: »Dette siger Guds Søn som har øjne som flammende ild, og hans fødder er ligesom skinnende malm: v19 Jeg kender dine gerninger og din kærlighed og din troskab og din tjeneste og din udholdenhed, og dine sidste gerninger er flere end de første. v20 Men jeg det imod dig at du tillader kvinden Jezabel, som kalder sig selv profetinde, og hun lærer og forfører mine tjenere til at begå utugt og spise offerkød. v21 Jeg har givet hende tid til at omvende sig, men hun vil ikke omvende sig fra sin utugt. v22 Se, jeg kaster hende på sygelejet, og dem som begår ægteskabsbrud med hende, i stor trængsel hvis ikke de omvender sig fra hendes gerninger, v23 og hendes børn vil jeg dræbe, og alle menighederne vil erkende at jeg er den der ransager nyrer og hjerter, og jeg vil give enhver af jer i overensstemmelse med jeres gerninger. v24 Men jeg siger til de øvrige i Thyatira, som ikke har denne lære, som ikke har kendt Satans dybder som de kalder det: Jeg lægger ingen anden byrde på jer, v25 kun skal I holde fast ved det I har, indtil jeg kommer. v26 Den som sejrer, og bevarer mine gerninger indtil enden, vil jeg give magt over hedningerne, v27 og han vil vogte dem med et jernscepter, ligesom lerkar knuses, v28 ligesom også jeg har modtaget det af min Far, og jeg vil give ham morgenstjernen. v29 Den som har ører, skal høre hvad Ånden taler til menighederne.«",
+      "number": 13,
+      "text": "Jeg ved hvor du bor, hvor Satans trone er, og du holder fast i mit navn og har ikke fornægtet troen på mig i Antipas’ dage, mit trofaste vidne, som blev dræbt hos jer hvor Satan bor.",
+      "version": 1648076400000
+    },
+    {
+      "number": 14,
+      "text": "Men jeg har lidt imod dig: Du har hos dig nogle som holder fast ved Bileams lære, han som lærte Balak at lægge fælde for Israels sønner for at de skulle spise offerkød og begå utugt.",
+      "version": 1648076400000
+    },
+    {
+      "number": 15,
+      "text": "Således har du også nogle som på samme måde holder fast ved nikolaitternes lære.",
+      "version": 1648076400000
+    },
+    {
+      "number": 16,
+      "text": "Omvend dig derfor, ellers kommer jeg snart over dig, og jeg vil kæmpe imod dem med min munds sværd.",
+      "version": 1648076400000
+    },
+    {
+      "number": 17,
+      "text": "Den som har øre, skal høre hvad Ånden taler til menighederne. Til den der sejrer, vil jeg give af den skjulte manna, og jeg vil give ham en hvid sten, og på stenen står der skrevet et nyt navn som ingen kender uden den som modtager den.«",
+      "version": 1648076400000
+    },
+    {
       "number": 18,
-      "version": 1648076400000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Menigheden i Efesos",
-      "verse": 1,
+      "text": "\fSkriv til menighedens engel i Thyatira: »Dette siger Guds Søn som har øjne som flammende ild, og hans fødder er ligesom skinnende malm:",
+      "title": "Menigheden i Thyatira",
       "version": 1648076400000
     },
     {
-      "text": "Menigheden i Smyrna",
-      "verse": 2,
+      "number": 19,
+      "text": "Jeg kender dine gerninger og din kærlighed og din troskab og din tjeneste og din udholdenhed, og dine sidste gerninger er flere end de første.",
       "version": 1648076400000
     },
     {
-      "text": "Menigheden i Pergamum",
-      "verse": 9,
+      "number": 20,
+      "text": "Men jeg det imod dig at du tillader kvinden Jezabel, som kalder sig selv profetinde, og hun lærer og forfører mine tjenere til at begå utugt og spise offerkød.",
       "version": 1648076400000
     },
     {
-      "text": "Menigheden i Thyatira",
-      "verse": 13,
+      "number": 21,
+      "text": "Jeg har givet hende tid til at omvende sig, men hun vil ikke omvende sig fra sin utugt.",
       "version": 1648076400000
-    }
-  ],
-  "footnotes": [
+    },
     {
-      "text": "Underforstået »kaster jeg«.",
-      "type": "T",
-      "verse": 18,
-      "position": 621
+      "number": 22,
+      "text": "Se, jeg kaster hende på sygelejet, og dem som begår ægteskabsbrud med hende,  i stor trængsel hvis ikke de omvender sig fra hendes gerninger,",
+      "footnotes": [
+        {
+          "text": "T: Underforstået »kaster jeg«.",
+          "position": 77
+        }
+      ],
+      "version": 1648076400000
+    },
+    {
+      "number": 23,
+      "text": "og hendes børn vil jeg dræbe, og alle menighederne vil erkende at jeg er den der ransager nyrer og hjerter, og jeg vil give enhver af jer i overensstemmelse med jeres gerninger.",
+      "version": 1648076400000
+    },
+    {
+      "number": 24,
+      "text": "Men jeg siger til de øvrige i Thyatira, som ikke har denne lære, som ikke har kendt Satans dybder som de kalder det: Jeg lægger ingen anden byrde på jer,",
+      "version": 1648076400000
+    },
+    {
+      "number": 25,
+      "text": "kun skal I holde fast ved det I har, indtil jeg kommer.",
+      "version": 1648076400000
+    },
+    {
+      "number": 26,
+      "text": "Den som sejrer, og bevarer mine gerninger indtil enden, vil jeg give magt over hedningerne,",
+      "version": 1648076400000
+    },
+    {
+      "number": 27,
+      "text": "og han vil vogte dem med et jernscepter, ligesom lerkar knuses,",
+      "version": 1648076400000
+    },
+    {
+      "number": 28,
+      "text": "ligesom også jeg har modtaget det af min Far, og jeg vil give ham morgenstjernen.",
+      "version": 1648076400000
+    },
+    {
+      "number": 29,
+      "text": "Den som har ører, skal høre hvad Ånden taler til menighederne.«",
+      "version": 1648076400000
     }
   ]
 }

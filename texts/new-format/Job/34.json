@@ -5,266 +5,258 @@
   "translation": 50,
   "contributors": [
     {
-      "name": "Nicolai Winther-Nielsen",
-      "type": "Oversættelse"
+      "type": "Oversættelse",
+      "name": "Nicolai Winther-Nielsen"
     },
     {
-      "name": "Endnu ikke sket",
-      "type": "Eksegetisk bearbejdning"
+      "type": "Eksegetisk bearbejdning",
+      "name": "Endnu ikke sket"
     },
     {
-      "name": "Trine Tøndering",
-      "type": "Litterært tjek"
+      "type": "Litterært tjek",
+      "name": "Trine Tøndering"
     }
   ],
   "verses": [
     {
-      "text": "\fElihu forsatte så\n\tmed at svare:",
       "number": 1,
+      "text": "Elihu forsatte så\tmed at svare:",
+      "title": "Elihu forsvarer Guds retfærdighed",
       "version": 1668726000000
     },
     {
-      "text": "\t\t»Hør,\n\t\t\t\t\t\t\t\tI vise,\n\t\t\t\t\t\t\tmin tale,\n\t\t\t\t\t\tI forstandige,\n\t\t\t\t\t\t\tvend jeres ører til mig.",
       "number": 2,
+      "text": "\t\t»Hør,\t\t\t\t\t\t\t\tI vise,\t\t\t\t\t\t\tmin tale,\t\t\t\t\t\tI forstandige,\t\t\t\t\t\t\tvend jeres ører til mig.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tFor øret prøver ordene,\n\t\t\t\t\t\t\t\t\tsom ganen smager\n\t\t\t\t\t\t\t\t\t\tpå maden.",
       "number": 3,
+      "text": "\t\t\t\t\t\t\t\tFor øret prøver ordene,\t\t\t\t\t\t\t\t\tsom ganen smager\t\t\t\t\t\t\t\t\t\tpå maden.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\tLad os vælge retten,\n\t\t\t\t\t\t\tlad os sammen forstå\n\t\t\t\t\t\t\t\t\thvad der er godt.",
       "number": 4,
+      "text": "\t\t\t\t\tLad os vælge retten,\t\t\t\t\t\t\tlad os sammen forstå\t\t\t\t\t\t\t\t\thvad der er godt.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tFor Job sagde:\n\t\t\t\t\t\t\t\t\t›Jeg har ret,\n\t\t\t\t\t\t\t\t\t\t\tmen Gud har tilsidesat min ret.",
       "number": 5,
+      "text": "\t\t\t\t\t\t\t\tFor Job sagde:\t\t\t\t\t\t\t\t\t›Jeg har ret,\t\t\t\t\t\t\t\t\t\t\tmen Gud har tilsidesat min ret.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tOm min ret må jeg lyve.\n\t\t\t\t\t\t\t\t\t\t\tmit uhelbredelige skudsår skyldes ikke et oprør.‹",
       "number": 6,
+      "text": "\t\t\t\t\t\t\t\t\t\tOm min ret må jeg lyve.\t\t\t\t\t\t\t\t\t\t\tmit uhelbredelige skudsår skyldes ikke et oprør.‹",
+      "footnotes": [
+        {
+          "text": "E: Sætningen lyder ordret *ʔānûš ḥiṣṣî vᵊlî-fāšaʕ* »min uhelbredelige pil uden oprør«, og pilen er da et billede på det sår som våbnet forårsager.",
+          "position": 93
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\tHvem er den mand som Job\n\t\t\t\t\t\t\t\tder drikker spot som vand",
       "number": 7,
+      "text": "\t\t\t\t\t\tHvem er den mand som Job\t\t\t\t\t\t\t\tder drikker spot som vand",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tog er på rejse i selskab med dem som øver uret,\n\t\t\t\t\t\t\t\t\t\tog på vandring sammen med ugudelige folk?",
       "number": 8,
+      "text": "\t\t\t\t\t\t\t\t\tog er på rejse i selskab med dem som øver uret,\t\t\t\t\t\t\t\t\t\tog på vandring sammen med ugudelige folk?",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\tFor han sagde:\n\t\t\t\t\t\t\t\t›Det gavner ikke en mand\n\t\t\t\t\t\t\t\t\tnår han finder behag hos Gud.‹",
       "number": 9,
+      "text": "\t\t\t\t\t\t\tFor han sagde:\t\t\t\t\t\t\t\t›Det gavner ikke en mand\t\t\t\t\t\t\t\t\tnår han finder behag hos Gud.‹",
+      "footnotes": [
+        {
+          "text": "E: Samme verbum bruges om Gud i Job 23,26 og 40,23, om Job i 14,6.",
+          "position": 82
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\f\t\t\t\tDerfor,\n\t\t\t\t\t\t\tI mænd som har hjerte for det,\n\t\t\t\t\t\thør på mig!\n\t\t\t\t\tDet ligger langt fra Gud at være ugudelig\n\t\t\t\t\t\t\t\tog fra den Almægtige at være uretfærdig,",
       "number": 10,
+      "text": "\t\t\t\tDerfor,\t\t\t\t\t\t\tI mænd som har hjerte for det,\t\t\t\t\t\thør på mig!\t\t\t\t\tDet ligger langt fra Gud at være ugudelig\t\t\t\t\t\t\t\tog fra den Almægtige at være uretfærdig,",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\tfor han gengælder et menneske efter dets gerning\n\t\t\t\t\t\t\t\tog lader en mand finde sin egen sti.",
       "number": 11,
+      "text": "\t\t\t\t\t\t\tfor han gengælder et menneske efter dets gerning\t\t\t\t\t\t\t\tog lader en mand finde sin egen sti.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\tJa, sandelig, Gud handler ikke ugudeligt\n\t\t\t\t\t\t\t\t\tog den Almægtige fordrejer ikke retten.",
       "number": 12,
+      "text": "\t\t\t\t\t\tJa, sandelig, Gud handler ikke ugudeligt\t\t\t\t\t\t\t\t\tog den Almægtige fordrejer ikke retten.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tHvem har indsat ham over jorden?\n\t\t\t\t\t\t\t\t\tOg hvem har anbragt hele jorden?",
       "number": 13,
+      "text": "\t\t\t\t\t\t\t\tHvem har indsat ham over jorden?\t\t\t\t\t\t\t\t\tOg hvem har anbragt hele jorden?",
+      "footnotes": [
+        {
+          "text": "T: Her underforstås et forholdsordled gentaget fra det forudgående halvvers; det vil sige »på ham«, altså så han skulle bære verden på sine skuldre.",
+          "position": 81
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\tHvis han ville lægge sit hjerte i det\n\t\t\t\t\t\t\t\t\tog ville koncentrere sin Ånd og sit åndedrag om det,",
       "number": 14,
+      "text": "\t\t\t\t\t\t\tHvis han ville lægge sit hjerte i det\t\t\t\t\t\t\t\t\tog ville koncentrere sin Ånd og sit åndedrag om det,",
+      "footnotes": [
+        {
+          "text": "T: Kunne også oversættes »vind«.",
+          "position": 81
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tda måtte alle legemer udånde,\n\t\t\t\t\t\t\t\t\tog mennesket blive til støv igen.",
       "number": 15,
+      "text": "\t\t\t\t\t\t\t\tda måtte alle legemer udånde,\t\t\t\t\t\t\t\t\tog mennesket blive til støv igen.",
       "version": 1668726000000
     },
     {
-      "text": "\f\t\t\tHvis der er indsigt\n\t\t\t\t\t- hør nu rigtig godt efter dette\n\t\t\t\t\t\tog læg ører til lyden af min tale!",
       "number": 16,
+      "text": "\t\t\tHvis der er indsigt\t\t\t\t\t- hør nu rigtig godt efter dette\t\t\t\t\t\tog læg ører til lyden af min tale!",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\tVille en der hader ret, kunne styre,\n\t\t\t\t\t\t\t\t\teller ville du erklære den Mægtige Retfærdige ugudelig?",
       "number": 17,
+      "text": "\t\t\t\t\t\t\tVille en der hader ret, kunne styre,\t\t\t\t\t\t\t\t\teller ville du erklære den Mægtige Retfærdige ugudelig?",
+      "footnotes": [
+        {
+          "text": "E: verbet *ḥbš* »sadle, binde omkring m.m.« bruges i samme betydning om Gud i Job 40,13.",
+          "position": 42
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tVille man sige til en konge:\n\t\t\t\t\t\t\t\t\t\t\t\t\t›Ondsindede menneske!‹\n\t\t\t\t\t\t\t\t\t\t\t\t\teller ›Ugudelige‹\n\t\t\t\t\t\t\t\t\t\t\t\ttil den adelige?",
       "number": 18,
+      "text": "\t\t\t\t\t\t\t\t\t\t\tVille man sige til en konge:\t\t\t\t\t\t\t\t\t\t\t\t\t›Ondsindede menneske!‹\t\t\t\t\t\t\t\t\t\t\t\t\teller ›Ugudelige‹\t\t\t\t\t\t\t\t\t\t\t\ttil den adelige?",
+      "footnotes": [
+        {
+          "text": "T: Udtrykket *bᵊliyyāʕal* bruges om gudløse tåber (1 Sam 25,25; 2 Sam 16,7; 2 Kong 21,13).",
+          "position": 74
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tDet er ham, som ikke tager hensyn til embedsmænd,\n\t\t\t\t\t\t\t\t\t\t\tog ikke sætter den rige over den fattige,\n\t\t\t\t\t\t\t\t\t\t\t\tfor de er alle hans hænders værk.",
       "number": 19,
+      "text": "\t\t\t\t\t\t\t\t\t\tDet er ham, som ikke tager hensyn til embedsmænd,\t\t\t\t\t\t\t\t\t\t\tog ikke sætter den rige over den fattige,\t\t\t\t\t\t\t\t\t\t\t\tfor de er alle hans hænders værk.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\tDe dør på et øjeblik,\n\t\t\t\t\t\t\t\t\t\tog midt om natten rystes et folk\n\t\t\t\t\t\t\t\t\t\t\tog forgår;\n\t\t\t\t\t\t\t\t\t\t\tde mægtige går bort,\n\t\t\t\t\t\t\t\t\t\t\t\tmen ikke ved magt.",
       "number": 20,
+      "text": "\t\t\t\t\t\t\t\tDe dør på et øjeblik,\t\t\t\t\t\t\t\t\t\tog midt om natten rystes et folk\t\t\t\t\t\t\t\t\t\t\tog forgår;\t\t\t\t\t\t\t\t\t\t\tde mægtige går bort,\t\t\t\t\t\t\t\t\t\t\t\tmen ikke ved magt.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »ved en hånd«.",
+          "position": 153
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\tFor hans øjne er over hver mands veje,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog han ser alle hans skridt.",
       "number": 21,
+      "text": "\t\t\t\t\t\t\t\t\tFor hans øjne er over hver mands veje,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog han ser alle hans skridt.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tDer er intet mørke\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog intet mulm\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil at skjule dem der øver uret.",
       "number": 22,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tDer er intet mørke\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog intet mulm\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil at skjule dem der øver uret.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tFor han behøver ikke længere at pålægge en mand\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tat gå til Gud i retten.",
       "number": 23,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tFor han behøver ikke længere at pålægge en mand\t\t\t\t\t\t\t\t\t\t\t\t\t\tat gå til Gud i retten.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHan knuser de mægtige uden at skulle udforske dem\n\t\t\t\t\t\t\t\t\t\t\t\t\tog han sætter andre i deres sted.",
       "number": 24,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHan knuser de mægtige uden at skulle udforske dem\t\t\t\t\t\t\t\t\t\t\t\t\tog han sætter andre i deres sted.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tDerfor kender han deres gerninger\n\t\t\t\t\t\t\t\t\t\t\t\t\tog han kan ændre natten\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tså de bliver knust.",
       "number": 25,
+      "text": "\t\t\t\t\t\t\t\t\t\t\tDerfor kender han deres gerninger\t\t\t\t\t\t\t\t\t\t\t\t\tog han kan ændre natten\t\t\t\t\t\t\t\t\t\t\t\t\t\tså de bliver knust.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHan slår dem blandt de ugudelige på et synligt sted.",
       "number": 26,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHan slår dem blandt de ugudelige på et synligt sted.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tfordi de veg fra ham\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog ikke satte sig ind i alle hans veje,",
       "number": 27,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tfordi de veg fra ham\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog ikke satte sig ind i alle hans veje,",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tfor at bringe den ringes skrig ind for ham,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog elendiges skrig skulle han lytte til.",
       "number": 28,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tfor at bringe den ringes skrig ind for ham,\t\t\t\t\t\t\t\t\t\t\t\t\t\tog elendiges skrig skulle han lytte til.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\tNår han skaffer ro,\n\t\t\t\t\t\t\t\t\t\t\t\t\thvem vil da gøre ham til en ugudelig?\n\t\t\t\t\t\t\t\t\t\t\t\tNår han skjuler sit ansigt,\n\t\t\t\t\t\t\t\t\t\t\t\t\thvem kan da stirre på ham\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t– hvad enten det er et folk eller et enkelt menneske? -",
       "number": 29,
+      "text": "\t\t\t\t\t\t\t\t\t\tNår han skaffer ro,\t\t\t\t\t\t\t\t\t\t\t\t\thvem vil da gøre ham til en ugudelig?\t\t\t\t\t\t\t\t\t\t\t\tNår han skjuler sit ansigt,\t\t\t\t\t\t\t\t\t\t\t\t\thvem kan da stirre på ham\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t– hvad enten det er et folk eller et enkelt menneske? -",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tså en gudsfornægter ikke skal regere, og folket fanges i fælden.",
       "number": 30,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tså en gudsfornægter ikke skal regere, og folket fanges i fælden.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\tFor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil Gud\n\t\t\t\t\t\t\t\t\t\t\t\t\tkan han da sige:\n\t\t\t\t\t\t\t\t\t\t\t\t›Jeg har fået nok,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tjeg vil ikke handle galt.",
       "number": 31,
+      "text": "\t\t\t\t\t\t\t\t\t\t\tFor\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil Gud\t\t\t\t\t\t\t\t\t\t\t\t\tkan han da sige:\t\t\t\t\t\t\t\t\t\t\t\t›Jeg har fået nok,\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tjeg vil ikke handle galt.",
+      "footnotes": [
+        {
+          "text": "T: Ordret: »Jeg har løftet op, båret«.",
+          "position": 94
+        }
+      ],
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUden at jeg kan se det,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tskal du vejlede mig.\n\t\t\t\t\t\t\t\t\t\t\t\t\tHvis jeg har gjort uret,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tvil jeg ikke fortsætte med det.‹",
       "number": 32,
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUden at jeg kan se det,\t\t\t\t\t\t\t\t\t\t\t\t\t\tskal du vejlede mig.\t\t\t\t\t\t\t\t\t\t\t\t\tHvis jeg har gjort uret,\t\t\t\t\t\t\t\t\t\t\t\t\t\tvil jeg ikke fortsætte med det.‹",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\tEr det mon af hensyn til dig at han gengælder,\n\t\t\t\t\t\t\t\t\tfordi du har vraget ham?\n\t\t\t\t\t\t\t\tFor du skal selv vælge\n\t\t\t\t\t\t\t\t\tog ikke jeg,\n\t\t\t\t\t\t\tog\n\t\t\t\t\t\t\t\t\thvad ved du\n\t\t\t\t\t\t\t\tom at meddele noget?",
       "number": 33,
+      "text": "\t\t\t\tEr det mon af hensyn til dig at han gengælder,\t\t\t\t\t\t\t\t\tfordi du har vraget ham?\t\t\t\t\t\t\t\tFor du skal selv vælge\t\t\t\t\t\t\t\t\tog ikke jeg,\t\t\t\t\t\t\tog\t\t\t\t\t\t\t\t\thvad ved du\t\t\t\t\t\t\t\tom at meddele noget?",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\tFolk med hjerte skal tale til mig\n\t\t\t\t\t\t\t\tog mænd med visdom,\n\t\t\t\t\t\t\t\t\tde skal høre på mig:",
       "number": 34,
+      "text": "\t\t\t\t\t\tFolk med hjerte skal tale til mig\t\t\t\t\t\t\t\tog mænd med visdom,\t\t\t\t\t\t\t\t\tde skal høre på mig:",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\t›Job taler ikke med forstand,\n\t\t\t\t\t\t\t\tog hans ord er ikke sagt\n\t\t\t\t\t\t\t\t\ti klogskab‹.",
       "number": 35,
+      "text": "\t\t\t\t\t\t\t›Job taler ikke med forstand,\t\t\t\t\t\t\t\tog hans ord er ikke sagt\t\t\t\t\t\t\t\t\ti klogskab‹.",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\tO gid\n\t\t\t\t\t\tJob måtte prøves fuldt ud på grund af hans svar blandt onde mænd,",
       "number": 36,
+      "text": "\t\t\t\t\tO gid\t\t\t\t\t\tJob måtte prøves fuldt ud på grund af hans svar blandt onde mænd,",
       "version": 1668726000000
     },
     {
-      "text": "\t\t\t\t\t\t\tfordi han øger sin synd med oprør.\n\t\t\t\t\t\t\t\tHan klapper i hænderne iblandt os\n\t\t\t\t\t\t\t\t\tog fremsiger mange ord imod Gud.«",
       "number": 37,
+      "text": "\t\t\t\t\t\t\tfordi han øger sin synd med oprør.\t\t\t\t\t\t\t\tHan klapper i hænderne iblandt os\t\t\t\t\t\t\t\t\tog fremsiger mange ord imod Gud.«",
+      "footnotes": [
+        {
+          "text": "E: Verbet *sfq* »klappe (i hænderne)« kan hentyde til at han spotter Gud og mennesker. Andre forslag er at han gør dem usikre, eller at ordene helt skal udelades.",
+          "position": 82
+        }
+      ],
       "version": 1668726000000
-    }
-  ],
-  "titles": [
-    {
-      "text": "Elihu forsvarer Guds retfærdighed",
-      "verse": 1,
-      "version": 1668726000000
-    }
-  ],
-  "footnotes": [
-    {
-      "text": "Sætningen lyder ordret *ʔānûš ḥiṣṣî vᵊlî-fāšaʕ* »min uhelbredelige pil uden oprør«, og pilen er da et billede på det sår som våbnet forårsager.",
-      "type": "E",
-      "verse": 6,
-      "position": 94
-    },
-    {
-      "text": "Samme verbum bruges om Gud i Job 23,26 og 40,23, om Job i 14,6.",
-      "type": "E",
-      "verse": 9,
-      "position": 84
-    },
-    {
-      "text": "Her underforstås et forholdsordled gentaget fra det forudgående halvvers; det vil sige »på ham«, altså så han skulle bære verden på sine skuldre.",
-      "type": "T",
-      "verse": 13,
-      "position": 82
-    },
-    {
-      "text": "Kunne også oversættes »vind«.",
-      "type": "T",
-      "verse": 14,
-      "position": 82
-    },
-    {
-      "text": "verbet *ḥbš* »sadle, binde omkring m.m.« bruges i samme betydning om Gud i Job 40,13.",
-      "type": "E",
-      "verse": 17,
-      "position": 42
-    },
-    {
-      "text": "Udtrykket *bᵊliyyāʕal* bruges om gudløse tåber (1 Sam 25,25; 2 Sam 16,7; 2 Kong 21,13).",
-      "type": "T",
-      "verse": 18,
-      "position": 75
-    },
-    {
-      "text": "Ordret: »ved en hånd«.",
-      "type": "T",
-      "verse": 20,
-      "position": 157
-    },
-    {
-      "text": "Ordret: »Jeg har løftet op, båret«.",
-      "type": "T",
-      "verse": 31,
-      "position": 97
-    },
-    {
-      "text": "Verbet *sfq* »klappe (i hænderne)« kan hentyde til at han spotter Gud og mennesker. Andre forslag er at han gør dem usikre, eller at ordene helt skal udelades.",
-      "type": "E",
-      "verse": 37,
-      "position": 83
     }
   ]
 }
