@@ -24,11 +24,13 @@
       "title": " Guldkalven",
       "footnotes": [
         {
-          "text": "E: Når verbet *qhl* i GT forbindes med præpositionen *ʕal*, er meningen at man samler sig »imod« en.",
+          "text": "Når verbet *qhl* i GT forbindes med præpositionen *ʕal*, er meningen at man samler sig »imod« en.",
+          "type": "E",
           "position": 84
         },
         {
-          "text": "E: Grundteksten anvender her og i vers 4, 8, 23, 31 (og på græsk ApG 7,40) ordet: *ʔᵉlōhîm*, der er pluralis. Ordet anvendes om Israels Gud med singulær betydning, og i de allerfleste tilfælde også med verbum og eventuelt prædikat i singularis. Her står verbet i pluralis, så det er nærliggende at oversætte ved pluralis, eventuelt: »gudebilleder«. Mange oversætter dog: »en gud«.",
+          "text": "Grundteksten anvender her og i vers 4, 8, 23, 31 (og på græsk ApG 7,40) ordet: *ʔᵉlōhîm*, der er pluralis. Ordet anvendes om Israels Gud med singulær betydning, og i de allerfleste tilfælde også med verbum og eventuelt prædikat i singularis. Her står verbet i pluralis, så det er nærliggende at oversætte ved pluralis, eventuelt: »gudebilleder«. Mange oversætter dog: »en gud«.",
+          "type": "E",
           "position": 131
         }
       ],
@@ -39,7 +41,8 @@
       "text": "Aron sagde til dem: »Tag de guldringe, som er i jeres hustruers, jeres sønners og jeres døtres ører, og bring dem til mig.«",
       "footnotes": [
         {
-          "text": "T: Verbet *prq* betyder egentlig: »rive af/plyndre«. Verbet skal formodentlig angive at det skal ske resolut og straks.",
+          "text": "Verbet *prq* betyder egentlig: »rive af/plyndre«. Verbet skal formodentlig angive at det skal ske resolut og straks.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -55,11 +58,13 @@
       "text": "Han tog imod dem af deres hånd og formede guldet med mejslen og lavede det til en støbt tyrekalv. Da sagde de: »Dette er dine guder, Israel, som førte dig op fra Egyptens land.«",
       "footnotes": [
         {
-          "text": "T: Ordet: *ḥereṭ* er omdiskuteret. Det optræder kun her og Es 8,1, hvor det oftest oversættes: »griffel«. Mange retter til: *ḥereś*: »(i en) lerform«. Det har dog ikke støtte i håndskrifterne.",
+          "text": "Ordet: *ḥereṭ* er omdiskuteret. Det optræder kun her og Es 8,1, hvor det oftest oversættes: »griffel«. Mange retter til: *ḥereś*: »(i en) lerform«. Det har dog ikke støtte i håndskrifterne.",
+          "type": "T",
           "position": 60
         },
         {
-          "text": "E: Se note til vers 1.",
+          "text": "Se note til vers 1.",
+          "type": "E",
           "position": 177
         }
       ],
@@ -81,7 +86,8 @@
       "title": "På Sinaj bjerg",
       "footnotes": [
         {
-          "text": "T: Ordret: »gå, stig ned«. De to imperativer angiver tilsammen at det skal ske straks og hurtigt.",
+          "text": "Ordret: »gå, stig ned«. De to imperativer angiver tilsammen at det skal ske straks og hurtigt.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -102,7 +108,8 @@
       "text": "Lad mig derfor tage mig af dem, så skal min vrede brænde mod dem og udslette dem. Men jeg vil gøre dig til et stort folk.«",
       "footnotes": [
         {
-          "text": "T: Der kunne også oversættes: »Lad mig derfor være i fred«.",
+          "text": "Der kunne også oversættes: »Lad mig derfor være i fred«.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -113,11 +120,13 @@
       "text": "Men Moses bønfaldt JHVH, sin Gud, og sagde: »Hvorfor, JHVH, brænder din vrede mod dit folk som du førte ud af Egyptens land med stor kraft og med en stærk hånd?",
       "footnotes": [
         {
-          "text": "T: Ordret: »søgte at gøre (JHVHs) ansigt blødt«.",
+          "text": "Ordret: »søgte at gøre (JHVHs) ansigt blødt«.",
+          "type": "T",
           "position": 18
         },
         {
-          "text": "E: Hebraisk har to ord der oftest oversættes: »hvorfor?«. *lāmāʰ*, der er brugt her, peger hovedsagelig fremad: »med hvilket formål?«. Det andet, *maddûₐʕ*, peger tilbage: »med hvilken begrundelse?«. Moses spørger her ikke efter begrundelsen for Guds straf – den er klar nok – men efter formålet.",
+          "text": "Hebraisk har to ord der oftest oversættes: »hvorfor?«. *lāmāʰ*, der er brugt her, peger hovedsagelig fremad: »med hvilket formål?«. Det andet, *maddûₐʕ*, peger tilbage: »med hvilken begrundelse?«. Moses spørger her ikke efter begrundelsen for Guds straf – den er klar nok – men efter formålet.",
+          "type": "E",
           "position": 53
         }
       ],
@@ -133,7 +142,8 @@
       "text": "Husk på Abraham, Isak og Israel, dine tjenere, som du har tilsvoret ved dig selv og sagt til dem: ›Jeg vil gøre jeres efterkommere talrige som himlens stjerner; og hele dette land vil jeg, som jeg har sagt, give jeres efterkommere, og de skal have det som evig arvelod.‹«",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 130
         }
       ],
@@ -165,11 +175,13 @@
       "text": "Men denne sagde: »Det er ikke lyd af sejrsråb og ikke lyd af nederlagsråb; lyd af sang hører jeg.«",
       "footnotes": [
         {
-          "text": "T: Oversættelsen er omdiskuteret. Der kan også oversættes: »og han sagde«, så det er en fortsættelse af Josvas tale.",
+          "text": "Oversættelsen er omdiskuteret. Der kan også oversættes: »og han sagde«, så det er en fortsættelse af Josvas tale.",
+          "type": "T",
           "position": 9
         },
         {
-          "text": "T: Der kan også oversættes: »sejrssang« og »sang om nederlag«. Men der er sandsynligvis tale om at verbet *ʕnh* her optræder i to betydninger: »råbe« (i qal) og »synge« (i pi’el); de lyder ens, men staves lidt forskelligt.",
+          "text": "Der kan også oversættes: »sejrssang« og »sang om nederlag«. Men der er sandsynligvis tale om at verbet *ʕnh* her optræder i to betydninger: »råbe« (i qal) og »synge« (i pi’el); de lyder ens, men staves lidt forskelligt.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -180,7 +192,8 @@
       "text": "Men da Moses kom tæt på lejren og så tyrekalven og dansen, da optændtes hans vrede, og han kastede tavlerne fra sig  og knuste dem neden for bjerget.",
       "footnotes": [
         {
-          "text": "T: Ordret: »ud af sine hænder« Konsonantteksten har singularis: »sin hånd«, men masoreterne har vokaliseret som pluralis.",
+          "text": "Ordret: »ud af sine hænder« Konsonantteksten har singularis: »sin hånd«, men masoreterne har vokaliseret som pluralis.",
+          "type": "T",
           "position": 116
         }
       ],
@@ -206,7 +219,8 @@
       "text": "De sagde til mig: ›Lav os guder, som kan gå foran os; for denne Moses, manden som førte os op fra Egyptens land – vi ved ikke, hvad der er sket med ham.‹",
       "footnotes": [
         {
-          "text": "E: Se note til vers 1.",
+          "text": "Se note til vers 1.",
+          "type": "E",
           "position": 32
         }
       ],
@@ -217,7 +231,8 @@
       "text": "Da sagde jeg til dem: ›For de som har guldsmykker – I skal tage dem af,‹ og de gav mig dem; jeg kastede dem i ilden, og ud kom denne tyrekalv.«",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »guld«. Tilsvarende i det følgende: »tog det af og gav mig det … kastede det.«",
+          "text": "Ordret blot: »guld«. Tilsvarende i det følgende: »tog det af og gav mig det … kastede det.«",
+          "type": "T",
           "position": 49
         }
       ],
@@ -228,7 +243,8 @@
       "text": "Da Moses så at folket var tøjlesløst – for Aron havde givet det frie tøjler til skadefryd for deres fjender –",
       "footnotes": [
         {
-          "text": "T: Ordet: *šimṣāʰ* forekommer i Bibelen kun her. Roden betyder formodentlig: »hviske«. Meningen er måske at hviske hånligt om israelitterne.",
+          "text": "Ordet: *šimṣāʰ* forekommer i Bibelen kun her. Roden betyder formodentlig: »hviske«. Meningen er måske at hviske hånligt om israelitterne.",
+          "type": "T",
           "position": 89
         }
       ],
@@ -254,7 +270,8 @@
       "text": "Da sagde Moses: »Gå i dag i JHVHs tjeneste – for enhver var imod sin søn og imod sin bror – så han kan bringe velsignelse over jer i dag.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Fyld i dag jeres hånd for JHVH«. Udtrykket »fylde hånd« betegner indsættelse i tjeneste, normalt i præstetjeneste. Det er dog omdiskuteret hvordan grundtekstens *milʔû* skal forstås. Det er vokaliseret som imperativ qal. Andre vil dog vokalisere som pi’el 3. person qatal: *millᵊʔû*, da verbet normalt optræder i pi’el i forbindelse med indsættelse. Oversættelsen vil da blive: »I er i dag blevet indsat i JHVHs tjeneste«.",
+          "text": "Ordret: »Fyld i dag jeres hånd for JHVH«. Udtrykket »fylde hånd« betegner indsættelse i tjeneste, normalt i præstetjeneste. Det er dog omdiskuteret hvordan grundtekstens *milʔû* skal forstås. Det er vokaliseret som imperativ qal. Andre vil dog vokalisere som pi’el 3. person qatal: *millᵊʔû*, da verbet normalt optræder i pi’el i forbindelse med indsættelse. Oversættelsen vil da blive: »I er i dag blevet indsat i JHVHs tjeneste«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -266,7 +283,8 @@
       "title": "Moses’ bøn og JHVHs svar",
       "footnotes": [
         {
-          "text": "T: Ordret: »syndet en stor synd«.",
+          "text": "Ordret: »syndet en stor synd«.",
+          "type": "T",
           "position": 62
         }
       ],
@@ -282,7 +300,8 @@
       "text": "Men nu: Gid du vil tilgive dem deres synd; men hvis ikke, så beder jeg dig, slet mig af din bog, som du har skrevet!«",
       "footnotes": [
         {
-          "text": "T: Sprogligt er denne sætning egentlig ufuldendt: »Hvis du tilgiver dem deres synd – (men hvis ikke …).«",
+          "text": "Sprogligt er denne sætning egentlig ufuldendt: »Hvis du tilgiver dem deres synd – (men hvis ikke …).«",
+          "type": "T",
           "position": 42
         }
       ],
@@ -298,7 +317,8 @@
       "text": "Gå nu, før folket til det sted som jeg sagde til dig: ›Se, min engel skal gå foran dig!‹ Men på den dag da jeg straffer, vil jeg straffe dem for deres synd.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »hjemsøger«.",
+          "text": "Ordret: »hjemsøger«.",
+          "type": "T",
           "position": 120
         }
       ],

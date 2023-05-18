@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         },
         {
-          "text": "E: Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: »råbte jeg til dig«. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.",
+          "text": "Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: »råbte jeg til dig«. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.",
+          "type": "E",
           "position": 32
         }
       ],
@@ -40,7 +42,8 @@
       "title": "Klage",
       "footnotes": [
         {
-          "text": "T: Ordret: »på min tryglens (pluralis) røst«",
+          "text": "Ordret: »på min tryglens (pluralis) røst«",
+          "type": "T",
           "position": 78
         }
       ],
@@ -51,7 +54,8 @@
       "text": "\fHvis du, JHVHv, vil vogte på skyld,\fHerre, hvem kan så bestå?",
       "footnotes": [
         {
-          "text": "T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -68,7 +72,8 @@
       "title": "Længselsfuld tillid",
       "footnotes": [
         {
-          "text": "E: Verberne i dette vers står i qatal, jf. note til v.1b.",
+          "text": "Verberne i dette vers står i qatal, jf. note til v.1b.",
+          "type": "E",
           "position": 10
         }
       ],
@@ -79,7 +84,8 @@
       "text": "\fmin sjæl venter på Herren\fmere end vægtere på morgenen,\fvægtere på morgenen.",
       "footnotes": [
         {
-          "text": "E: Der er ikke noget verbum i linjen. Det må enten underforstås fra foregående linje: »venter« (som fortsættelsen tyder på), eller linjen kan oversættes: »min sjæl er vendt til Herren«.",
+          "text": "Der er ikke noget verbum i linjen. Det må enten underforstås fra foregående linje: »venter« (som fortsættelsen tyder på), eller linjen kan oversættes: »min sjæl er vendt til Herren«.",
+          "type": "E",
           "position": 16
         }
       ],
@@ -91,7 +97,8 @@
       "title": "Salmistens vidnesbyrd",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 44
         }
       ],
@@ -102,7 +109,8 @@
       "text": "\fOg han skal forløse Israel\ffra al dets skyld.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord står i pluralis, der understreger vægten af »skyld«.",
+          "text": "Grundtekstens ord står i pluralis, der understreger vægten af »skyld«.",
+          "type": "T",
           "position": 46
         }
       ],

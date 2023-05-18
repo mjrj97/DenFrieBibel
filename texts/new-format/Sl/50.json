@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: I grundteksten er der brugt to forskellige ord om »Gud«, *ʔē* og *ʔᵉlōhîm*, formodentlig for at understrege Guds storhed.",
+          "text": "I grundteksten er der brugt to forskellige ord om »Gud«, *ʔē* og *ʔᵉlōhîm*, formodentlig for at understrege Guds storhed.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Gud kalder til gudstjeneste og dom",
       "footnotes": [
         {
-          "text": "T: Ofte oversat: »krone«.",
+          "text": "Ofte oversat: »krone«.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -47,7 +49,8 @@
       "text": "\fVor Gud skal komme og ikke tie,\fild skal fortære for hans ansigt,\fog omkring ham stormer det vældigt.",
       "footnotes": [
         {
-          "text": "T: Dvs.: »foran ham«.",
+          "text": "Dvs.: »foran ham«.",
+          "type": "T",
           "position": 66
         }
       ],
@@ -68,7 +71,8 @@
       "text": "\fOg himlene skal forkynde hans retfærdighed,\ffor Gud, han er dommer. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 73
         }
       ],
@@ -80,7 +84,8 @@
       "title": "Sand og falsk gudstjeneste",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »jeg vil advare dig«.",
+          "text": "Kan også oversættes: »jeg vil advare dig«.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -96,7 +101,8 @@
       "text": "\fJeg vil ikke tage en ungtyr fra dit hus,\feller bukke fra dine folde.",
       "footnotes": [
         {
-          "text": "T: Ordet »eller« står ikke i grundteksten, men må være underforstået.",
+          "text": "Ordet »eller« står ikke i grundteksten, men må være underforstået.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -107,7 +113,8 @@
       "text": "\fFor alt skovens vildt tilhører mig,\fdyrene på tusind bjerge.",
       "footnotes": [
         {
-          "text": "T: Udtrykket er specielt. »tusind« kan gå på dyr eller bjerge. Det kan evt. oversættes: »kvæg-bjerge«. Ofte foreslår oversættere at rette *ʔālef* (»tusind«) til *ʔel*: »Gud«, altså: »Guds bjerge«.",
+          "text": "Udtrykket er specielt. »tusind« kan gå på dyr eller bjerge. Det kan evt. oversættes: »kvæg-bjerge«. Ofte foreslår oversættere at rette *ʔālef* (»tusind«) til *ʔel*: »Gud«, altså: »Guds bjerge«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -169,7 +176,8 @@
       "text": "\fSådanne ting har du gjort, men jeg har tiet,\fdu bildte dig ind, at jeg var som du.\fJeg vil drage dig til regnskab og fremlægge det for dine øjne.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes som spørgsmål: »skulle jeg så tie?«",
+          "text": "Kan også oversættes som spørgsmål: »skulle jeg så tie?«",
+          "type": "T",
           "position": 45
         }
       ],
@@ -186,7 +194,8 @@
       "text": "\fDen som bringer takoffer, han ærer mig,\fog den som lægger sin vej fast, ham vil jeg lade se Guds frelse.",
       "footnotes": [
         {
-          "text": "E: *wᵊśām derex* ordret: »og han lægger en vej«. Ordene er vanskelige i sammenhængen og slettes af mange oversættere. Meningen kan være som foreslået her. En anden mulighed er at rette til: *wᵊtam derex*: »og den der har en retskaffen vej, (ham vil jeg lade se Guds frelse)«. Endelig kan der (med Septuaginta) rettes til: *wᵊšām derex*: »og dér er en vej, (på hvilken jeg vil lade ham se Guds frelse)«. Én af de to første muligheder bør foretrækkes, da slutverset derved henviser til begge salmens hoveddele (v. 7-15: ofre, v. 16-21: moral).",
+          "text": "*wᵊśām derex* ordret: »og han lægger en vej«. Ordene er vanskelige i sammenhængen og slettes af mange oversættere. Meningen kan være som foreslået her. En anden mulighed er at rette til: *wᵊtam derex*: »og den der har en retskaffen vej, (ham vil jeg lade se Guds frelse)«. Endelig kan der (med Septuaginta) rettes til: *wᵊšām derex*: »og dér er en vej, (på hvilken jeg vil lade ham se Guds frelse)«. Én af de to første muligheder bør foretrækkes, da slutverset derved henviser til begge salmens hoveddele (v. 7-15: ofre, v. 16-21: moral).",
+          "type": "E",
           "position": 72
         }
       ],

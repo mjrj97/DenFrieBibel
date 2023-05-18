@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 22
         }
       ],
@@ -45,11 +47,13 @@
       "text": "\fDu – din hånd - fordrev folkeslag, men dem plantede du,\fdu sønderbryder nationer, men dem lader du brede sig.",
       "footnotes": [
         {
-          "text": "E: »du – din hånd« trækkes ofte tilbage som afslutning af v. 2 (»i gamle dage, med din hånd«).",
+          "text": "»du – din hånd« trækkes ofte tilbage som afslutning af v. 2 (»i gamle dage, med din hånd«).",
+          "type": "E",
           "position": 14
         },
         {
-          "text": "T: Det er »fædrene«.",
+          "text": "Det er »fædrene«.",
+          "type": "T",
           "position": 43
         }
       ],
@@ -60,7 +64,8 @@
       "text": "\fFor ikke ved deres sværd indtog de landet,\fog deres arm hjalp dem ikke,\fmen din højre hånd og din arm\fog dit ansigts lys,\ffor du holdt af dem.",
       "footnotes": [
         {
-          "text": "T: Eller: »havde velbehag i dem«.",
+          "text": "Eller: »havde velbehag i dem«.",
+          "type": "T",
           "position": 143
         }
       ],
@@ -72,11 +77,13 @@
       "title": "Erklæring af tillid til Gud",
       "footnotes": [
         {
-          "text": "T: Se note til næste linje.",
+          "text": "Se note til næste linje.",
+          "type": "T",
           "position": 26
         },
         {
-          "text": "E: Bl.a. med støtte i Septuaginta retter man ofte så imperativen undgås: *ʔᵉlōhîm ṣawwēʰ* (»Gud, befal«) til *ʔᵉlōhāj mᵉṣawweʰ*: »(du er min konge,) min Gud, du befaler …«. I konsonantteksten er der blot tale om at lade det *m*, der er sidste bogstav i *ʔᵉlōhîm* være første bogstav i det efterfølgende *ṣawwēʰ*.",
+          "text": "Bl.a. med støtte i Septuaginta retter man ofte så imperativen undgås: *ʔᵉlōhîm ṣawwēʰ* (»Gud, befal«) til *ʔᵉlōhāj mᵉṣawweʰ*: »(du er min konge,) min Gud, du befaler …«. I konsonantteksten er der blot tale om at lade det *m*, der er sidste bogstav i *ʔᵉlōhîm* være første bogstav i det efterfølgende *ṣawwēʰ*.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -102,7 +109,8 @@
       "text": "\fGud har vi lovprist hele dagen,\fog dit navn vil vi takke til evig tid. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 76
         }
       ],
@@ -114,7 +122,8 @@
       "title": "Klage over katastrofen",
       "footnotes": [
         {
-          "text": "E: Verberne i afsnittet skifter mellem qatal og yiqtol. Man kunne vælge at lade dem alle være afhængige af det første (»du har forstødt os«) og oversætte alle ved fortid. Her afspejles skiftet i de hebraiske verber, så yiqtol angiver nutid eller nær forestående fremtid.",
+          "text": "Verberne i afsnittet skifter mellem qatal og yiqtol. Man kunne vælge at lade dem alle være afhængige af det første (»du har forstødt os«) og oversætte alle ved fortid. Her afspejles skiftet i de hebraiske verber, så yiqtol angiver nutid eller nær forestående fremtid.",
+          "type": "E",
           "position": 52
         }
       ],
@@ -130,11 +139,13 @@
       "text": "\fDu giver os hen som småkvæg til at fortæres\fog har spredt os blandt folkeslagene.",
       "footnotes": [
         {
-          "text": "T: Oversættes ofte: »slagtefår«.",
+          "text": "Oversættes ofte: »slagtefår«.",
+          "type": "T",
           "position": 44
         },
         {
-          "text": "T: Kan også oversættes: »hedningerne«.",
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -145,7 +156,8 @@
       "text": "\fDu sælger dit folk for intet,\fog du fik ingen gevinst ved prisen for dem.",
       "footnotes": [
         {
-          "text": "T: Ordret: »for ikke-rigdom«.",
+          "text": "Ordret: »for ikke-rigdom«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -187,11 +199,13 @@
       "text": "\fså at du skulle knuse os i sjakalers tilholdssted\fog dække os med dødsskygge.",
       "footnotes": [
         {
-          "text": "T: Det er enten ørken eller ruinby.",
+          "text": "Det er enten ørken eller ruinby.",
+          "type": "T",
           "position": 50
         },
         {
-          "text": "E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwæt* (»død«). Og skygge er normalt i Mellemøsten et gode. Men digteren kan have villet understrege den yderste hjælpeløshed ved et sammensat ord. Ofte oversættes ordet nu blot: »mørke, skygge«.",
+          "text": "*ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwæt* (»død«). Og skygge er normalt i Mellemøsten et gode. Men digteren kan have villet understrege den yderste hjælpeløshed ved et sammensat ord. Ofte oversættes ordet nu blot: »mørke, skygge«.",
+          "type": "E",
           "position": 78
         }
       ],
@@ -233,7 +247,8 @@
       "text": "\fRejs dig som hjælp for os\fog forløs os for din nådes skyld!",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 53
         }
       ],

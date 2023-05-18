@@ -60,7 +60,8 @@
       "text": "Og dets  bække skal forvandles til tjære og dets jordbund til svovl, og dets land skal blive til brændende tjære.",
       "footnotes": [
         {
-          "text": "T: Edoms",
+          "text": "Edoms",
+          "type": "T",
           "position": 8
         }
       ],
@@ -101,11 +102,13 @@
       "text": "Og han har kastet lod for dem , og hans hånd har fordelt det iblandt dem med målesnoren; de skal eje det for evigt, fra slægt til slægt skal de bo der .",
       "footnotes": [
         {
-          "text": "T: dvs. for dyrene, v. 14f",
+          "text": "dvs. for dyrene, v. 14f",
+          "type": "T",
           "position": 30
         },
         {
-          "text": "T: i Edoms land",
+          "text": "i Edoms land",
+          "type": "T",
           "position": 151
         }
       ],

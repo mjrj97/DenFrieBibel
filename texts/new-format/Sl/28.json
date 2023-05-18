@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Dvs.: Ignorer mig ikke!",
+          "text": "Dvs.: Ignorer mig ikke!",
+          "type": "T",
           "position": 83
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Bøn om hjælp",
       "footnotes": [
         {
-          "text": "T: Telthelligdommens (senere: templets) Allerhelligste.",
+          "text": "Telthelligdommens (senere: templets) Allerhelligste.",
+          "type": "T",
           "position": 116
         }
       ],
@@ -68,7 +70,8 @@
       "text": "\fJHVH er min styrke og mit skjold,\fpå ham har mit hjerte stolet,\fog jeg blev hjulpet så mit hjerte jublede,\fog med min sang vil jeg takke ham.",
       "footnotes": [
         {
-          "text": "T: Ordret: »ud af min sang«.",
+          "text": "Ordret: »ud af min sang«.",
+          "type": "T",
           "position": 123
         }
       ],
@@ -79,7 +82,8 @@
       "text": "\fJHVH er styrke for sit folk,\fog han er en frelsende borg for sin salvede.",
       "footnotes": [
         {
-          "text": "E: Den masoretiske tekst har *lāmô*: »for dem«. Rettelsen til *lᵊʕammô* (»for sit folk«) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.",
+          "text": "Den masoretiske tekst har *lāmô*: »for dem«. Rettelsen til *lᵊʕammô* (»for sit folk«) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.",
+          "type": "E",
           "position": 29
         }
       ],

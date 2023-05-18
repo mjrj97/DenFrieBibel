@@ -20,7 +20,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.",
+          "text": "Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -32,11 +33,13 @@
       "title": "Råb om bønhørelse",
       "footnotes": [
         {
-          "text": "T: Ordret: »være tilberedt«.",
+          "text": "Ordret: »være tilberedt«.",
+          "type": "T",
           "position": 18
         },
         {
-          "text": "T: Ordret: »min hænders opløften«.",
+          "text": "Ordret: »min hænders opløften«.",
+          "type": "T",
           "position": 75
         }
       ],
@@ -59,15 +62,18 @@
       "title": "Bøn om at blive befriet fra det ondes magt",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 32
         },
         {
-          "text": "E: Sætningen og oversættelsen er omdiskuteret. I denne oversættelse er ordet »sådan« underforstået. Meningen er da at revselsen er som gæstevenskabets olie. Septuaginta, som følges af mange, har ikke læst: *rōˀš* (»hovedet«), men: *rāšāʕ*: »gudløs, uretfærdig«. Samtidig er det nødvendigt at rette verbet: *yānî* (»afvise«) til: *yᵊnāʔ*: »skal smykke«. Oversættelsen bliver: »en gudløs’/uretfærdigs olie skal ikke smykke mit hoved«. En tredje mulighed er at *rōˀš* (»hovedet«) her skal forstås som: »toppen, det bedste«, og verbet: *yānî* (»afvise«) også her rettes til: *yᵊnāʔ*: »skal smykke«. Det giver oversættelsen: »Må den fineste olie ikke smykke mit hoved«.",
+          "text": "Sætningen og oversættelsen er omdiskuteret. I denne oversættelse er ordet »sådan« underforstået. Meningen er da at revselsen er som gæstevenskabets olie. Septuaginta, som følges af mange, har ikke læst: *rōˀš* (»hovedet«), men: *rāšāʕ*: »gudløs, uretfærdig«. Samtidig er det nødvendigt at rette verbet: *yānî* (»afvise«) til: *yᵊnāʔ*: »skal smykke«. Oversættelsen bliver: »en gudløs’/uretfærdigs olie skal ikke smykke mit hoved«. En tredje mulighed er at *rōˀš* (»hovedet«) her skal forstås som: »toppen, det bedste«, og verbet: *yānî* (»afvise«) også her rettes til: *yᵊnāʔ*: »skal smykke«. Det giver oversættelsen: »Må den fineste olie ikke smykke mit hoved«.",
+          "type": "E",
           "position": 97
         },
         {
-          "text": "E: Ordret: »for stadig og min bøn mod/under(i deres ondskab)«. Tilknytningspartiklen: *wᵊ* (»og«) bruges undertiden til at knytte to udtryk nært sammen, her er det: »stadig« og: »min bøn«. Der kan evt. også oversættes: »for min bøn varer ved trods deres ondskab«.",
+          "text": "Ordret: »for stadig og min bøn mod/under(i deres ondskab)«. Tilknytningspartiklen: *wᵊ* (»og«) bruges undertiden til at knytte to udtryk nært sammen, her er det: »stadig« og: »min bøn«. Der kan evt. også oversættes: »for min bøn varer ved trods deres ondskab«.",
+          "type": "E",
           "position": 145
         }
       ],
@@ -78,11 +84,13 @@
       "text": "\fDeres herskere skal styrtes i hænderne på klippen,\fog de skal høre at mine ord var liflige.",
       "footnotes": [
         {
-          "text": "T: Ordret: »dommere«. Israels dommere var egentlig folkets ledere.",
+          "text": "Ordret: »dommere«. Israels dommere var egentlig folkets ledere.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "E: Verset er omdiskuteret. Verberne står i qatal, der oftest skal oversættes ved fortid, men her er de formodentlig udtryk for en vished om fremtiden. En anden mulig oversættelse er: »Hvis de blev styrtet i hænderne på klippen, deres herskere, / ville de høre at mine ord var liflige«. En del oversættere vil slette ordet: *selaʕ* (»klippe«). Det letter teksten, men er uden støtte i håndskrifter eller gamle oversættelser. En tredje mulighed er at opfatte »klippe« som synonym for Gud og *šōfᵊṭêhem* (»deres herskere/dommere«) som pluralis majestatis. Det vil give oversættelsen: »Når de er faldet i hænderne på Klippen, deres dommer, skal de erfare at mine ord var liflige«.",
+          "text": "Verset er omdiskuteret. Verberne står i qatal, der oftest skal oversættes ved fortid, men her er de formodentlig udtryk for en vished om fremtiden. En anden mulig oversættelse er: »Hvis de blev styrtet i hænderne på klippen, deres herskere, / ville de høre at mine ord var liflige«. En del oversættere vil slette ordet: *selaʕ* (»klippe«). Det letter teksten, men er uden støtte i håndskrifter eller gamle oversættelser. En tredje mulighed er at opfatte »klippe« som synonym for Gud og *šōfᵊṭêhem* (»deres herskere/dommere«) som pluralis majestatis. Det vil give oversættelsen: »Når de er faldet i hænderne på Klippen, deres dommer, skal de erfare at mine ord var liflige«.",
+          "type": "E",
           "position": 92
         }
       ],
@@ -93,7 +101,8 @@
       "text": "\fSom når en pløjer og bryder jorden op,\fer vore knogler spredte ved Dødsrigets gab.",
       "footnotes": [
         {
-          "text": "E: Den gamle syriske oversættelse og nogle håndskrifter til Septuaginta har: »deres knogler«, på hebraisk: *ʕaṣmêhem* i stedet for: *ʕᵃṣāmênû*. Det giver god mening, men fejlskrivningen er vanskelig at forklare. Den masoretiske tekst må betyde at Davids og alle de frommes kræfter er fuldstændig udtømte. Menneskelig set er de besejret.",
+          "text": "Den gamle syriske oversættelse og nogle håndskrifter til Septuaginta har: »deres knogler«, på hebraisk: *ʕaṣmêhem* i stedet for: *ʕᵃṣāmênû*. Det giver god mening, men fejlskrivningen er vanskelig at forklare. Den masoretiske tekst må betyde at Davids og alle de frommes kræfter er fuldstændig udtømte. Menneskelig set er de besejret.",
+          "type": "E",
           "position": 55
         }
       ],
@@ -105,11 +114,13 @@
       "title": "Sammenfattende bøn",
       "footnotes": [
         {
-          "text": "E: Masoreterne har her ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
+          "text": "Masoreterne har her ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
+          "type": "E",
           "position": 20
         },
         {
-          "text": "T: Ordret: »udgyd ikke min sjæl«.",
+          "text": "Ordret: »udgyd ikke min sjæl«.",
+          "type": "T",
           "position": 105
         }
       ],
@@ -125,11 +136,13 @@
       "text": "\fLad de ugudelige falde i egen fælde,\fmens jeg selv samtidig slipper fri.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »uretfærdige«.",
+          "text": "Kan også oversættes: »uretfærdige«.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: Ordret: »hans/sine fælder«. Meningen er sandsynligvis: »hver i sin egen fælde«.",
+          "text": "Ordret: »hans/sine fælder«. Meningen er sandsynligvis: »hver i sin egen fælde«.",
+          "type": "T",
           "position": 37
         }
       ],

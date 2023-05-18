@@ -25,7 +25,8 @@
       "text": "\fFørend beslutningen bliver udført\f– dagen forsvinder som avner –\fførend JHVHs brændende vrede kommer over jer,\fførend JHVHs vredes dag kommer over jer!",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes med »ligesom avner forsvinder (på en) dag«, dvs. med »avner« som subjekt.",
+          "text": "Kan også oversættes med »ligesom avner forsvinder (på en) dag«, dvs. med »avner« som subjekt.",
+          "type": "E",
           "position": 63
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fFor Gaza skal blive forladt,\fog Ashkalon skal blive lagt øde;\fAshdod skal blive drevet ud midt på dagen,\fEkron skal blive rykket op.",
       "footnotes": [
         {
-          "text": "E: Ordret »Ashdod, de vil drive hende ud«.",
+          "text": "Ordret »Ashdod, de vil drive hende ud«.",
+          "type": "E",
           "position": 90
         }
       ],
@@ -58,7 +60,8 @@
       "text": "\fKystlandet skal blive til græsgange med brønde for hyrder og indhegninger til får.",
       "footnotes": [
         {
-          "text": "E: Ordret »hyrders brøndes græsgange og fåreflokkes indhegninger.« Konstruktionen er vanskelig, men det kan måske forklares ved at *kᵊrōt* »brønde« danner ordspil med *kᵊrētîm* »kreterne«. Kreternes bolig skal blive til hyrdernes græsgange.",
+          "text": "Ordret »hyrders brøndes græsgange og fåreflokkes indhegninger.« Konstruktionen er vanskelig, men det kan måske forklares ved at *kᵊrōt* »brønde« danner ordspil med *kᵊrētîm* »kreterne«. Kreternes bolig skal blive til hyrdernes græsgange.",
+          "type": "E",
           "position": 83
         }
       ],
@@ -69,15 +72,18 @@
       "text": "Kysten skal tilhøre de tiloversblevne af Judas hus;\fpå den skal de græsse.\fI Ashkalons huse skal de hvile om aftenen,\ffor JHVH, deres Gud, skal besøge dem og omvende deres fangenskab.",
       "footnotes": [
         {
-          "text": "E: Ordret »Judas hus' rest«.",
+          "text": "Ordret »Judas hus' rest«.",
+          "type": "E",
           "position": 51
         },
         {
-          "text": "E: Her bruges samme ord *fqd* som i 1,7.9.12, men nu vendes udtrykket om til noget positivt.",
+          "text": "Her bruges samme ord *fqd* som i 1,7.9.12, men nu vendes udtrykket om til noget positivt.",
+          "type": "E",
           "position": 150
         },
         {
-          "text": "E: »omvende deres fangenskab« oversættes andre steder med »vende deres skæbne«. »Fangenskab« er en mere præcis oversættelse, og meningen er at Gud vender deres fangenskab til frihed.",
+          "text": "»omvende deres fangenskab« oversættes andre steder med »vende deres skæbne«. »Fangenskab« er en mere præcis oversættelse, og meningen er at Gud vender deres fangenskab til frihed.",
+          "type": "E",
           "position": 183
         }
       ],
@@ -88,7 +94,8 @@
       "text": "\fJeg har hørt Moabs spot og ammonitternes forhånelser,\fhvormed de spottede mit folk og udvidede ud over deres grænser.",
       "footnotes": [
         {
-          "text": "E: *wayyagdîlû ʕal*, der her er oversat med »udvidede«, oversættes andre steder i GT med »pralede/gjorde sig store«. I denne sammenhæng hænger det dog sammen med grænser, og der er sandsynligvis tale om udvidelse af landområde.",
+          "text": "*wayyagdîlû ʕal*, der her er oversat med »udvidede«, oversættes andre steder i GT med »pralede/gjorde sig store«. I denne sammenhæng hænger det dog sammen med grænser, og der er sandsynligvis tale om udvidelse af landområde.",
+          "type": "E",
           "position": 118
         }
       ],
@@ -99,7 +106,8 @@
       "text": "\fDerfor, så sandt jeg lever, siger hærskarers JHVHv, Israels Gud:\fMoab skal blive som Sodoma og ammonitterne som Gomorra,\fet hjem for ukrudt,\fen saltgrube og en ødemark til evig tid.\fMit folks rest skal plyndre dem,\fog resten af mit folk skal tage dem i eje.",
       "footnotes": [
         {
-          "text": "E: Det er uklart, hvilken slags ukrudt der er tale om. Der kan være tale om tidsler eller brændenælder.",
+          "text": "Det er uklart, hvilken slags ukrudt der er tale om. Der kan være tale om tidsler eller brændenælder.",
+          "type": "E",
           "position": 141
         }
       ],
@@ -130,27 +138,33 @@
       "text": "\fFlokke af dyr skal ligge midt i den, alle slags vilde dyr,\fbåde pelikan og pindsvin skal tilbringe natten på dens søjlehoveder.\fEn stemme tuder i et vindue; grus ligger over dørtærsklen, for han har blottet dens cederpanel.",
       "footnotes": [
         {
-          "text": "T: Dvs. Nineve.",
+          "text": "Dvs. Nineve.",
+          "type": "T",
           "position": 37
         },
         {
-          "text": "E: Ordret »alle folkenes vilde dyr«.",
+          "text": "Ordret »alle folkenes vilde dyr«.",
+          "type": "E",
           "position": 59
         },
         {
-          "text": "E: LXX oversætter med »kamelæon«, men både Peshitta og Vulgata oversætter med »pelikan«. Det kan også være en ugleart.",
+          "text": "LXX oversætter med »kamelæon«, men både Peshitta og Vulgata oversætter med »pelikan«. Det kan også være en ugleart.",
+          "type": "E",
           "position": 72
         },
         {
-          "text": "E: Peshitta oversætter med »ugle«, men »pindsvin« er den mest traditionelle oversættelse.",
+          "text": "Peshitta oversætter med »ugle«, men »pindsvin« er den mest traditionelle oversættelse.",
+          "type": "E",
           "position": 84
         },
         {
-          "text": "E: Eller »synger«.",
+          "text": "Eller »synger«.",
+          "type": "E",
           "position": 144
         },
         {
-          "text": "E: Eller »ruiner«.",
+          "text": "Eller »ruiner«.",
+          "type": "E",
           "position": 162
         }
       ],

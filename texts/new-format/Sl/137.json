@@ -24,7 +24,8 @@
       "title": "Nøden i eksilet",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.",
+          "text": "Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -35,7 +36,8 @@
       "text": "\f\t\t\tI poplerne i landet\fhængte vi vore citere.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i dets midte«.",
+          "text": "Ordret: »i dets midte«.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -46,19 +48,23 @@
       "text": "\f\t\t\t\t\tFor dér krævede\fvore fangevogtere at vi skulle synge,\f\t\t\t\t\t\t\tog vore plageånder at vi skulle være glade:\f\t\t\t\t\t\t»Syng for os\faf Zions sange!«",
       "footnotes": [
         {
-          "text": "T: Ordret: »de som holdt os fangne«.",
+          "text": "Ordret: »de som holdt os fangne«.",
+          "type": "T",
           "position": 39
         },
         {
-          "text": "E: Grundtekstens: *tôlol* (»plageånd«) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.",
+          "text": "Grundtekstens: *tôlol* (»plageånd«) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.",
+          "type": "E",
           "position": 85
         },
         {
-          "text": "T: Ordret blot: »(krævede) glæde«.",
+          "text": "Ordret blot: »(krævede) glæde«.",
+          "type": "T",
           "position": 110
         },
         {
-          "text": "E: *šîr* (»sange«) er egentlig singularis, men må opfattes kollektivt som: »sange«.",
+          "text": "*šîr* (»sange«) er egentlig singularis, men må opfattes kollektivt som: »sange«.",
+          "type": "E",
           "position": 146
         }
       ],
@@ -75,7 +81,8 @@
       "title": "Kærlighedserklæring til Jerusalem",
       "footnotes": [
         {
-          "text": "E: Ordret: »må glemme«. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: »gid du (Gud) så må glemme min højre«. Oftest retter man nu verbet *tiškaḥ* (»må glemme«) til: *tikḥaš* eller: *tᵊkaḥēš*: »gid … må skrumpe ind/lammes«.",
+          "text": "Ordret: »må glemme«. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: »gid du (Gud) så må glemme min højre«. Oftest retter man nu verbet *tiškaḥ* (»må glemme«) til: *tikḥaš* eller: *tᵊkaḥēš*: »gid … må skrumpe ind/lammes«.",
+          "type": "E",
           "position": 69
         }
       ],
@@ -86,7 +93,8 @@
       "text": "\f\t\t\tgid min tunge må klæbe til min gane\f\t\t\t\t\thvis jeg ikke husker dig,\f\t\t\t\thvis jeg ikke ophøjer Jerusalem\fover min højeste glæde.",
       "footnotes": [
         {
-          "text": "T: Ordret: »over min glædes hoved/tinde«.",
+          "text": "Ordret: »over min glædes hoved/tinde«.",
+          "type": "T",
           "position": 130
         }
       ],
@@ -98,7 +106,8 @@
       "title": "Straf over Edom og Babylon",
       "footnotes": [
         {
-          "text": "T: Ordret: »til grunden i den«.",
+          "text": "Ordret: »til grunden i den«.",
+          "type": "T",
           "position": 112
         }
       ],
@@ -109,7 +118,8 @@
       "text": "\f\t\tBabylons datter,\t\t\t\tsom skal ødelægges!\f\t\t\tLykkelig\t\t\t\tden som gengælder dig\fdin gerning\t\t\t\t\tsom du gjorde mod os.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes: »du ødelagte«. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (»som skal ødelægges/er ødelagt«) til: *haššādôdāʰ*: »ødelæggersken/du ødelæggerske«.",
+          "text": "Kan også oversættes: »du ødelagte«. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (»som skal ødelægges/er ødelagt«) til: *haššādôdāʰ*: »ødelæggersken/du ødelæggerske«.",
+          "type": "E",
           "position": 42
         }
       ],

@@ -28,11 +28,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Ordret: »hans helligheds arm«.",
+          "text": "Ordret: »hans helligheds arm«.",
+          "type": "T",
           "position": 102
         },
         {
-          "text": "T: Kan også oversættes: »skaffede ham sejr«. For forståelsens skyld er der her byttet om på linjerne. Egentlig: »hans højre hånd udøvede frelsen for ham / og hans hellige arm«.",
+          "text": "Kan også oversættes: »skaffede ham sejr«. For forståelsens skyld er der her byttet om på linjerne. Egentlig: »hans højre hånd udøvede frelsen for ham / og hans hellige arm«.",
+          "type": "T",
           "position": 127
         }
       ],
@@ -49,7 +51,8 @@
       "text": "\f\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\t\tAlle jordens ender\fhar set vor Guds frelse.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »sandhed«",
+          "text": "Kan også oversættes: »sandhed«",
+          "type": "T",
           "position": 46
         }
       ],
@@ -82,7 +85,8 @@
       "text": "\f\t\t\tStrømme skal klappe i hænderne,\f\t\t\t\t\tbjerge skal sammen juble",
       "footnotes": [
         {
-          "text": "T: Ordret: »skal klappe hånd«.",
+          "text": "Ordret: »skal klappe hånd«.",
+          "type": "T",
           "position": 35
         }
       ],

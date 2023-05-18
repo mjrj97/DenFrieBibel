@@ -24,7 +24,8 @@
       "title": "Klage over de ugudeliges ondskab og magt",
       "footnotes": [
         {
-          "text": "T: »Hvorfor« er underforstået fra første halvvers.",
+          "text": "»Hvorfor« er underforstået fra første halvvers.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -35,19 +36,23 @@
       "text": "\fPå grund af den ugudeliges hovmod vil han forfølge den hjælpeløse,\fde vil blive fanget i de rænker disse har udtænkt.",
       "footnotes": [
         {
-          "text": "E: Mange ændrer vokaliseringen af *bᵊgaˀᵃwat’* »på grund af hovmod« til *bᵊgaʔût* »i hovmod«: »I hovmod jager den ugudelige den hjælpeløse«.",
+          "text": "Mange ændrer vokaliseringen af *bᵊgaˀᵃwat’* »på grund af hovmod« til *bᵊgaʔût* »i hovmod«: »I hovmod jager den ugudelige den hjælpeløse«.",
+          "type": "E",
           "position": 66
         },
         {
-          "text": "T: hjælpeløse.",
+          "text": "hjælpeløse.",
+          "type": "T",
           "position": 70
         },
         {
-          "text": "T: ugudelige.",
+          "text": "ugudelige.",
+          "type": "T",
           "position": 105
         },
         {
-          "text": "E: En anden mulig oversættelse er: »Måtte de (de gudløse) blive fanget i de rænker de har udtænkt«.",
+          "text": "En anden mulig oversættelse er: »Måtte de (de gudløse) blive fanget i de rænker de har udtænkt«.",
+          "type": "E",
           "position": 117
         }
       ],
@@ -58,11 +63,13 @@
       "text": "\fFor den ugudelige jublede over sin sjæls ønske,\fog bedrageren forbandede og foragtede JHVH.",
       "footnotes": [
         {
-          "text": "T: Her i betydningen: »begær«",
+          "text": "Her i betydningen: »begær«",
+          "type": "T",
           "position": 47
         },
         {
-          "text": "E: Sætningen er omdiskuteret. Andre oversætter: »og bedrageren velsignede/roste han, men foragtede JHVH«. Verbet *brk* betyder i de allerfleste sammenhænge »velsigne/prise/rose«, men enkelte steder er det opfattet ironisk så det må oversættes: »forbande«. Jødiske lærde har ment at de to sidste ord i v.3 (»JHVH foragtede han«) skal høre til v.4: »Den ugudelige hånede JHVH i sit hovmod«.",
+          "text": "Sætningen er omdiskuteret. Andre oversætter: »og bedrageren velsignede/roste han, men foragtede JHVH«. Verbet *brk* betyder i de allerfleste sammenhænge »velsigne/prise/rose«, men enkelte steder er det opfattet ironisk så det må oversættes: »forbande«. Jødiske lærde har ment at de to sidste ord i v.3 (»JHVH foragtede han«) skal høre til v.4: »Den ugudelige hånede JHVH i sit hovmod«.",
+          "type": "E",
           "position": 91
         }
       ],
@@ -73,11 +80,13 @@
       "text": "\fDen ugudelige tænker i sit hovmod:\f»Han kræver ikke til regnskab«,\f»der er ingen Gud«, det er alle hans tanker.",
       "footnotes": [
         {
-          "text": "T: »Tænker« står ikke i grundteksten, men er underforstået i sammenhængen.",
+          "text": "»Tænker« står ikke i grundteksten, men er underforstået i sammenhængen.",
+          "type": "T",
           "position": 21
         },
         {
-          "text": "T: Ordret: »efter sin næses højde«.",
+          "text": "Ordret: »efter sin næses højde«.",
+          "type": "T",
           "position": 34
         }
       ],
@@ -103,11 +112,13 @@
       "text": "\fHan sidder på lur i gårdene,\fi det skjulte myrder han en uskyldig,\fhans øjne spejder efter en svag.",
       "footnotes": [
         {
-          "text": "E: Ofte retter man *ḥᵃṣērîm* (»gårdene/landsbyerne«) til *ḥᵃṣirîm*: »sivene«, men digteren vil netop understrege at man end ikke kan vide sig sikker i gårdene eller landsbyerne.",
+          "text": "Ofte retter man *ḥᵃṣērîm* (»gårdene/landsbyerne«) til *ḥᵃṣirîm*: »sivene«, men digteren vil netop understrege at man end ikke kan vide sig sikker i gårdene eller landsbyerne.",
+          "type": "E",
           "position": 28
         },
         {
-          "text": "E: Betydningen af *ḥēlᵊxāʰ* er usikker. Andre oversætter »ulykkelig« eller »uheldig«. Også i v. 10 og 14.",
+          "text": "Betydningen af *ḥēlᵊxāʰ* er usikker. Andre oversætter »ulykkelig« eller »uheldig«. Også i v. 10 og 14.",
+          "type": "E",
           "position": 99
         }
       ],
@@ -118,7 +129,8 @@
       "text": "Han ligger på lur i skjul som en løve i sin hule,\fhan lurer på at fange en elendig,\fhan fanger en elendig, idet han trækker ham med sit net.",
       "footnotes": [
         {
-          "text": "T: Trækker ham til sig.",
+          "text": "Trækker ham til sig.",
+          "type": "T",
           "position": 127
         }
       ],
@@ -129,11 +141,13 @@
       "text": "\fKnust synker han til jorden,\fog for hans magt falder de svage.",
       "footnotes": [
         {
-          "text": "T: den elendige.",
+          "text": "den elendige.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: den ugudelige.",
+          "text": "den ugudelige.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -165,7 +179,8 @@
       "text": "Bræk den ugudeliges arm,\fog kræv den onde til regnskab for hans ugudelighed så du ikke finder den længere.",
       "footnotes": [
         {
-          "text": "E: Versets to sidste ord (*val-timṣāˀ*) er vanskelige i sammenhængen: »så du ikke finder den«. Der må underforstås et »længere«. Andre forstår *val* som »visselig« (»du skal visselig finde den«). Atter andre vokaliserer: *val-jimmāṣeˀ*: »så den ikke skal findes«.",
+          "text": "Versets to sidste ord (*val-timṣāˀ*) er vanskelige i sammenhængen: »så du ikke finder den«. Der må underforstås et »længere«. Andre forstår *val* som »visselig« (»du skal visselig finde den«). Atter andre vokaliserer: *val-jimmāṣeˀ*: »så den ikke skal findes«.",
+          "type": "E",
           "position": 105
         }
       ],
@@ -176,7 +191,8 @@
       "text": "\fJHVH er konge for evigt og altid,\ffolkeslag blev udryddet af hans land.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes »hedningefolk«.",
+          "text": "Kan også oversættes »hedningefolk«.",
+          "type": "T",
           "position": 44
         }
       ],

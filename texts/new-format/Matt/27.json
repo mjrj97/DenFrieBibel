@@ -65,7 +65,8 @@
       "text": "Da blev det opfyldt som er blevet talt ved profeten Jeremias, som sagde: »Og de tog de tredive sølvmønter, prisen for den vurderede, hvem Israels børn vurderede,«",
       "footnotes": [
         {
-          "text": "H: Zak 11,12-13; Jer 18,2-3",
+          "text": "Zak 11,12-13; Jer 18,2-3",
+          "type": "H",
           "position": 72
         }
       ],
@@ -76,7 +77,8 @@
       "text": "og de gav dem for pottemagermarken, »som Herren befalede mig.«",
       "footnotes": [
         {
-          "text": "H: 2 Mos 9,12",
+          "text": "2 Mos 9,12",
+          "type": "H",
           "position": 61
         }
       ],
@@ -240,7 +242,8 @@
       "text": "Ligeledes hånede også ypperstepræsterne sammen med de skriftlærde og de ældste og sagde:",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 65
         }
       ],

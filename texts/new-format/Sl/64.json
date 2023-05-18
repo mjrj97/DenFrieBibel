@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,11 +37,13 @@
       "title": "Klage",
       "footnotes": [
         {
-          "text": "T: Ordret: »hør min røst i min klage.«",
+          "text": "Ordret: »hør min røst i min klage.«",
+          "type": "T",
           "position": 29
         },
         {
-          "text": "T: Ordret: »beskyt mit liv fra fjendefrygt«.",
+          "text": "Ordret: »beskyt mit liv fra fjendefrygt«.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -51,7 +54,8 @@
       "text": "\fSkjul mig for de ondes fortrolige råd,\ffor larmen fra dem som begår synd.",
       "footnotes": [
         {
-          "text": "T: Den præcise betydning af ordet *rigšāʰ* er usikker og omdiskuteret. Roden *rgš* betyder formodentlig: »være i urolig, larmende bevægelse«.",
+          "text": "Den præcise betydning af ordet *rigšāʰ* er usikker og omdiskuteret. Roden *rgš* betyder formodentlig: »være i urolig, larmende bevægelse«.",
+          "type": "T",
           "position": 50
         }
       ],
@@ -72,15 +76,18 @@
       "text": "\fDe fastsætter for sig selv en ond plan,\fde taler om at skjule fælder,\fde sagde: »Hvem kan se dem?«",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord *dāvār* kan betyde både »ord« (v.4) og »plan«.",
+          "text": "Det hebraiske ord *dāvār* kan betyde både »ord« (v.4) og »plan«.",
+          "type": "T",
           "position": 40
         },
         {
-          "text": "E: Normalt betyder verbet *spr* i pi’el: »fortælle«. Hvis det er meningen, er det udtryk for overmod at man informerer fjenden. Oftest oversætter man her: »tale om/aftale«. Nogle fortolkere foreslår tekstrettelse til verbet *ḥpr*: »grave«. »De graver for at skjule fælder«.",
+          "text": "Normalt betyder verbet *spr* i pi’el: »fortælle«. Hvis det er meningen, er det udtryk for overmod at man informerer fjenden. Oftest oversætter man her: »tale om/aftale«. Nogle fortolkere foreslår tekstrettelse til verbet *ḥpr*: »grave«. »De graver for at skjule fælder«.",
+          "type": "E",
           "position": 49
         },
         {
-          "text": "T: Undertiden retter oversættere *lāmô* (»dem«) til *lānû*: »os«",
+          "text": "Undertiden retter oversættere *lāmô* (»dem«) til *lānû*: »os«",
+          "type": "T",
           "position": 99
         }
       ],
@@ -91,15 +98,18 @@
       "text": "\fDe udtænker ugerninger:\f»Vi er færdige med en udtænkt plan.«\fJa, et menneskes inderste og dets hjerte er uudgrundeligt.",
       "footnotes": [
         {
-          "text": "T: Ofte rettes *tamnû* (»vi er færdige«) til: *tammû*: »de er færdige« eller: *ṭamᵊnû*: »de har skjult«.",
+          "text": "Ofte rettes *tamnû* (»vi er færdige«) til: *tammû*: »de er færdige« eller: *ṭamᵊnû*: »de har skjult«.",
+          "type": "T",
           "position": 39
         },
         {
-          "text": "T: »med« står ikke udtrykkeligt i den hebraiske tekst, men må være underforstået i sammenhængen, hvis teksten/oversættelsen i øvrigt er rigtig.",
+          "text": "»med« står ikke udtrykkeligt i den hebraiske tekst, men må være underforstået i sammenhængen, hvis teksten/oversættelsen i øvrigt er rigtig.",
+          "type": "T",
           "position": 43
         },
         {
-          "text": "E: Alle oversættelser af dette vers må tages med forbehold.",
+          "text": "Alle oversættelser af dette vers må tages med forbehold.",
+          "type": "E",
           "position": 61
         }
       ],
@@ -111,11 +121,13 @@
       "title": "Guds retfærdige dom",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret, om verberne i v.8-10 skal oversættes ved fortid eller fremtid. Wayyiqtol skal normalt oversættes ved fortid, men kan også opfattes som profetisk tillidsfuldhed.",
+          "text": "Det er omdiskuteret, om verberne i v.8-10 skal oversættes ved fortid eller fremtid. Wayyiqtol skal normalt oversættes ved fortid, men kan også opfattes som profetisk tillidsfuldhed.",
+          "type": "E",
           "position": 18
         },
         {
-          "text": "E: Accenterne i den hebraiske tekst lader »pludselig« høre til første halvvers hvor det giver god mening. Men rytmisk passer det bedre til andet halvvers.",
+          "text": "Accenterne i den hebraiske tekst lader »pludselig« høre til første halvvers hvor det giver god mening. Men rytmisk passer det bedre til andet halvvers.",
+          "type": "E",
           "position": 45
         }
       ],
@@ -126,11 +138,13 @@
       "text": "\fOg de vil bringe sig selv til fald ved deres tunge,\falle som ser dem, skal ryste på hovedet.",
       "footnotes": [
         {
-          "text": "T: Ordret: »og de vil bringe den til fald over dem selv, deres tunge«.",
+          "text": "Ordret: »og de vil bringe den til fald over dem selv, deres tunge«.",
+          "type": "T",
           "position": 52
         },
         {
-          "text": "T: Andre oversætter: »skal flygte«. Der er tale om to forskellige verber.",
+          "text": "Andre oversætter: »skal flygte«. Der er tale om to forskellige verber.",
+          "type": "T",
           "position": 93
         }
       ],

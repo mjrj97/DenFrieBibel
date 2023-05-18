@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -51,7 +52,8 @@
       "text": "\ffør jeg har fundet et sted til JHVH,\fen bolig til Jakobs Mægtige.«",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord er i pluralis der skal understrege storheden og skønheden",
+          "text": "Grundtekstens ord er i pluralis der skal understrege storheden og skønheden",
+          "type": "T",
           "position": 46
         }
       ],
@@ -62,11 +64,13 @@
       "text": "\fSe, vi hørte om den i Efrata,\fvi fandt den paa Ja’ars mark.",
       "footnotes": [
         {
-          "text": "T: At pagtens ark var på Ja’ars mark.",
+          "text": "At pagtens ark var på Ja’ars mark.",
+          "type": "T",
           "position": 30
         },
         {
-          "text": "T: Formodentlig et poetisk udtryk for Kirjat-Jearim, 1 Sam 5,1-7,2.",
+          "text": "Formodentlig et poetisk udtryk for Kirjat-Jearim, 1 Sam 5,1-7,2.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -82,7 +86,8 @@
       "text": "\fRejs dig, JHVHv, til dit hvilested,\fdu og din magtfulde ark!",
       "footnotes": [
         {
-          "text": "T: Ordret: »din magts/majestæts ark«.",
+          "text": "Ordret: »din magts/majestæts ark«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -104,7 +109,8 @@
       "title": "Guds løfte til David",
       "footnotes": [
         {
-          "text": "T: Ordret: »en sandhed/troværdighed«",
+          "text": "Ordret: »en sandhed/troværdighed«",
+          "type": "T",
           "position": 33
         }
       ],

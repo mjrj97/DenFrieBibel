@@ -24,7 +24,8 @@
       "title": "Trygheden hos Gud",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »sidder«.",
+          "text": "Kan også oversættes: »sidder«.",
+          "type": "T",
           "position": 14
         }
       ],
@@ -46,11 +47,13 @@
       "text": "\fHan skal beskytte dig med sine svingfjer,\fog du kan søge ly under hans vinger;\fhans trofasthed er langskjold og værn.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »sandhed«.",
+          "text": "Kan også oversættes: »sandhed«.",
+          "type": "T",
           "position": 95
         },
         {
-          "text": "E: Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: »værn« eller »bolværk«.",
+          "text": "Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: »værn« eller »bolværk«.",
+          "type": "E",
           "position": 118
         }
       ],
@@ -81,7 +84,8 @@
       "text": "\f»Ja, du, JHVHv, er min tilflugt!«\fDen Højeste har du gjort til din bolig,",
       "footnotes": [
         {
-          "text": "E: Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som »tilflugt« i alle livets situationer (v.2).",
+          "text": "Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som »tilflugt« i alle livets situationer (v.2).",
+          "type": "E",
           "position": 34
         }
       ],
@@ -102,7 +106,8 @@
       "text": "\fDe skal bære dig på hænder\fså du ikke støder din fod på nogen sten.",
       "footnotes": [
         {
-          "text": "T: Ordret: »på stenen«.",
+          "text": "Ordret: »på stenen«.",
+          "type": "T",
           "position": 68
         }
       ],
@@ -113,7 +118,8 @@
       "text": "\fPå løve og giftslange skal du træde,\fdu skal nedtræde ungløve og drage.",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret, hvad der præcist er tænkt på her med ordet *tannîn*. I flere sammenhænge er det betegnelse for et søuhyre, men her er der måske – som i 2 Mos 7,9-12 – tænkt på en slange.",
+          "text": "Det er omdiskuteret, hvad der præcist er tænkt på her med ordet *tannîn*. I flere sammenhænge er det betegnelse for et søuhyre, men her er der måske – som i 2 Mos 7,9-12 – tænkt på en slange.",
+          "type": "E",
           "position": 72
         }
       ],
@@ -125,7 +131,8 @@
       "title": "Guds nådige tilsagn",
       "footnotes": [
         {
-          "text": "T: Ordret: »har hængt på mig«.",
+          "text": "Ordret: »har hængt på mig«.",
+          "type": "T",
           "position": 29
         }
       ],

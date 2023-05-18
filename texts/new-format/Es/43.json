@@ -135,7 +135,8 @@
       "text": "Du købte ikke kalmus  til mig for penge, du gav mig ikke dine slagtofres fedt i overflod; men du plagede mig med dine synder, du gav mig besvær med dine misgerninger.",
       "footnotes": [
         {
-          "text": "T: En vellugtende plante, hvis rod også brugtes som lægemiddel",
+          "text": "En vellugtende plante, hvis rod også brugtes som lægemiddel",
+          "type": "T",
           "position": 21
         }
       ],
@@ -156,7 +157,8 @@
       "text": "Din første far  syndede, og dine talsmænd har forbrudt sig imod mig.",
       "footnotes": [
         {
-          "text": "T: Jakob",
+          "text": "Jakob",
+          "type": "T",
           "position": 15
         }
       ],

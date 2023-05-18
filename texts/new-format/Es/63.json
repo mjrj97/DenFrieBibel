@@ -60,11 +60,13 @@
       "text": "I al deres trængsel var der ingen trængsel, men hans ansigts engel frelste dem; på grund af sin kærlighed og sin medlidenhed løskøbte han dem, han løftede dem op og bar dem alle fortidens dage.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter grundtekstens *lōˀ* (»ikke/ingen«) til: *lô* (»for ham«) så der oversættes: »I al deres trængsel havde han trængsel». Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (»trængsel, men (hans ansigts) engel …«) til: *ṣîr ûmalʔāx* (»sendebud eller en engel«) så der oversættes: »… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.«",
+          "text": "Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter grundtekstens *lōˀ* (»ikke/ingen«) til: *lô* (»for ham«) så der oversættes: »I al deres trængsel havde han trængsel». Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (»trængsel, men (hans ansigts) engel …«) til: *ṣîr ûmalʔāx* (»sendebud eller en engel«) så der oversættes: »… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.«",
+          "type": "E",
           "position": 42
         },
         {
-          "text": "T: Den engel der var JHVH nærmest",
+          "text": "Den engel der var JHVH nærmest",
+          "type": "T",
           "position": 66
         }
       ],

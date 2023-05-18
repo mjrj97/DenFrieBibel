@@ -39,7 +39,8 @@
       "text": "og når de kommer fra torvet, spiser de ikke uden at have vasket sig; og der er mange andre ting som de har modtaget og fastholder: Afvaskning af bægere og krus og kobberkar og bænke –",
       "footnotes": [
         {
-          "text": "T: Det græske ord betyder egentlig at neddyppe.",
+          "text": "Det græske ord betyder egentlig at neddyppe.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -80,7 +81,8 @@
       "text": "Men I siger: Når en mand siger til sin far eller sin mor: ›Det du skulle have haft som hjælp af mig, skal være korban, det vil sige offergave,‹",
       "footnotes": [
         {
-          "text": "E: Korban er aramaisk og betyder offer, og det oversættes med »offergave« fordi det bruges om en offergave til templet",
+          "text": "Korban er aramaisk og betyder offer, og det oversættes med »offergave« fordi det bruges om en offergave til templet",
+          "type": "E",
           "position": 117
         }
       ],
@@ -111,7 +113,8 @@
       "text": "(Hvis nogen har ører at høre med, skal han høre!).«",
       "footnotes": [
         {
-          "text": "T: Vers 16 mangler i nogle af de ældste og bedste håndskrifter",
+          "text": "Vers 16 mangler i nogle af de ældste og bedste håndskrifter",
+          "type": "T",
           "position": 49
         }
       ],

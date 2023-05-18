@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Gud var nådig",
       "footnotes": [
         {
-          "text": "E: Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: »vending«, der i forbindelse med verbum af samme rod (*šwb*) betyder»vende ens situation/lod«. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: »fangenskab«.",
+          "text": "Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: »vending«, der i forbindelse med verbum af samme rod (*šwb*) betyder»vende ens situation/lod«. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: »fangenskab«.",
+          "type": "E",
           "position": 67
         }
       ],
@@ -47,7 +49,8 @@
       "text": "\fDu borttog dit folks skyld,\fdu skjulte al deres synd. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 59
         }
       ],
@@ -64,7 +67,8 @@
       "title": "Gud, vær os nådig",
       "footnotes": [
         {
-          "text": "E: Ordret blot: »vend os«. Meningen må enten være: »genrejs os«, eller: »bring os tilbage«, eller måske: »vend tilbage til os«. Andre foreslår at rette: *šûvēnû* (»vend os«) til: *šûv nāˀ*: »vend dog tilbage«.",
+          "text": "Ordret blot: »vend os«. Meningen må enten være: »genrejs os«, eller: »bring os tilbage«, eller måske: »vend tilbage til os«. Andre foreslår at rette: *šûvēnû* (»vend os«) til: *šûv nāˀ*: »vend dog tilbage«.",
+          "type": "E",
           "position": 12
         }
       ],
@@ -101,7 +105,8 @@
       "text": "\fNåde og sandhed har mødt hinanden,\fretfærdighed og fred har kysset.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 5
         }
       ],
@@ -122,11 +127,13 @@
       "text": "\fRetfærdighed skal gå foran ham\fog fred i hans skridts spor!",
       "footnotes": [
         {
-          "text": "T: Ordret: »foran hans ansigt«.",
+          "text": "Ordret: »foran hans ansigt«.",
+          "type": "T",
           "position": 31
         },
         {
-          "text": "E: Den masoretiske tekst ordret: »og han/den gør sine skridt til en vej/til et spor«. Det er foreslået at oversætte: »og den bereder vej for hans skridt«, med »retfærdighed« som subjekt. Sådan som præpositionen *lᵊ* (»på/for«) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (»og han sætter«) til: *wᵊšālôm*: »og fred« eller: *wᵊyēšaʕ*: »og frelse«.",
+          "text": "Den masoretiske tekst ordret: »og han/den gør sine skridt til en vej/til et spor«. Det er foreslået at oversætte: »og den bereder vej for hans skridt«, med »retfærdighed« som subjekt. Sådan som præpositionen *lᵊ* (»på/for«) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (»og han sætter«) til: *wᵊšālôm*: »og fred« eller: *wᵊyēšaʕ*: »og frelse«.",
+          "type": "E",
           "position": 60
         }
       ],

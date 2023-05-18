@@ -29,7 +29,8 @@
       "text": "Jeg kender et menneske i Kristus, der for fjorten år siden (om han var i legemet, det ved jeg ikke, eller uden for legemet, det ved jeg ikke, Gud ved det) blev bortrykket indtil den tredje himmel.",
       "footnotes": [
         {
-          "text": "T: der tilhører Kristus",
+          "text": "der tilhører Kristus",
+          "type": "T",
           "position": 32
         }
       ],

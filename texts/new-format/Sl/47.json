@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Lovprisning af den sejrende Gud",
       "footnotes": [
         {
-          "text": "T: Grundteksten har blot: »klap hånd«.",
+          "text": "Grundteksten har blot: »klap hånd«.",
+          "type": "T",
           "position": 33
         }
       ],
@@ -57,7 +59,8 @@
       "text": "\fHan udvælger vor arvelod til os,\fJakobs stolthed, som han elsker. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 71
         }
       ],
@@ -79,7 +82,8 @@
       "text": "\fFor Gud er hele jordens konge,\fsyng en maskil!",
       "footnotes": [
         {
-          "text": "T: Se note til overskriften til Sl 45. Her ofte oversat »hyldestsang«.",
+          "text": "Se note til overskriften til Sl 45. Her ofte oversat »hyldestsang«.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -95,15 +99,18 @@
       "text": "\fFolkenes fyrster er samlet,\fAbrahams Guds folk,\ffor jordens skjolde tilhører Gud,\fhøjt ophøjet.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »fornemme«.",
+          "text": "Kan også oversættes: »fornemme«.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "E: Linjen begynder på hebraisk med ordet: *ʕam* (»folk«) der har samme konsonanter som ordet: *ʕim* (»med«). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: »med Abrahams Guds fok«.",
+          "text": "Linjen begynder på hebraisk med ordet: *ʕam* (»folk«) der har samme konsonanter som ordet: *ʕim* (»med«). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: »med Abrahams Guds fok«.",
+          "type": "E",
           "position": 48
         },
         {
-          "text": "E: I stedet for *māginnê-* (»skjolde«) har bl.a. Septuaginta enten forstået ordet billedligt som »herskere« eller har evt. læst *signê-*: »herskere«. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
+          "text": "I stedet for *māginnê-* (»skjolde«) har bl.a. Septuaginta enten forstået ordet billedligt som »herskere« eller har evt. læst *signê-*: »herskere«. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
+          "type": "E",
           "position": 68
         }
       ],

@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: »gudssønner«.",
+          "text": "Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: »gudssønner«.",
+          "type": "E",
           "position": 40
         },
         {
-          "text": "E: Ordet *ʕōz* kan også oversættes »lovprisning / hæder«. I sammenhængen er det dog vigtigt at understrege Guds magt.",
+          "text": "Ordet *ʕōz* kan også oversættes »lovprisning / hæder«. I sammenhængen er det dog vigtigt at understrege Guds magt.",
+          "type": "E",
           "position": 64
         }
       ],
@@ -40,7 +42,8 @@
       "title": "Ære være Gud!",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "type": "E",
           "position": 66
         }
       ],
@@ -67,11 +70,13 @@
       "text": "\fOg han får dem til at springe som en kalv,\fLibanon og Sirjon som vildoksers kalv.",
       "footnotes": [
         {
-          "text": "E: Af hensyn til parallelismen slettes ofte bogstavet *m* (»dem«) i *yarqîdēm* (»og får dem til at springe«), og den skillende accent flyttes hen under »Libanon«, så sætningen lyder: »Og han får Libanon til at springe som en kalv«.",
+          "text": "Af hensyn til parallelismen slettes ofte bogstavet *m* (»dem«) i *yarqîdēm* (»og får dem til at springe«), og den skillende accent flyttes hen under »Libanon«, så sætningen lyder: »Og han får Libanon til at springe som en kalv«.",
+          "type": "E",
           "position": 43
         },
         {
-          "text": "T: Dvs. Hermon.",
+          "text": "Dvs. Hermon.",
+          "type": "T",
           "position": 61
         }
       ],

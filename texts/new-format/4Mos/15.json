@@ -30,7 +30,8 @@
       "text": "og I vil ofre til JHVH et ildoffer, hvad enten det er et brændoffer eller et slagtoffer, for at indfri et særligt løfte eller som et frivilligt offer eller på jeres særlige højtider for at berede en liflig duft for JHVH af hornkvæg og får og geder,",
       "footnotes": [
         {
-          "text": "T: Således ordret på hebraisk. I mange nyere oversættelse udelades det eller oversættes med »offer« eller »offergave«; det er formodentlig en samlet betegnelse for alle ofre som brændes på alteret.",
+          "text": "Således ordret på hebraisk. I mange nyere oversættelse udelades det eller oversættes med »offer« eller »offergave«; det er formodentlig en samlet betegnelse for alle ofre som brændes på alteret.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -41,7 +42,8 @@
       "text": "da skal den som ofrer det til JHVH, også ofre et afgrødeoffer af en tiendedel efa mel blandet med en fjerdedel af en hin olie,",
       "footnotes": [
         {
-          "text": "T: Rummmålet angives ikke i teksten, men det er almindeligt at opfatte det som en tiendedel af en efa, der regnes enten som 22 liter eller 36 liter.",
+          "text": "Rummmålet angives ikke i teksten, men det er almindeligt at opfatte det som en tiendedel af en efa, der regnes enten som 22 liter eller 36 liter.",
+          "type": "T",
           "position": 81
         }
       ],
@@ -87,7 +89,8 @@
       "text": "efter det antal I ofrer, skal I gøre således med hver enkelt i forhold til deres antal.",
       "footnotes": [
         {
-          "text": "T: Ordret: gør.",
+          "text": "Ordret: gør.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -185,15 +188,18 @@
       "text": "Men den som gør noget med hævet hånd, det være sig en indfødt israelit eller en fremmed, han har hånet JHVH, og du skal fjerne den person fra at være iblandt hans folk,",
       "footnotes": [
         {
-          "text": "T: Dette udtryk oversættes forskelligt: »i trodsighed« (GT1871) eller »med forsæt« (GT1931) eller »med vilje« (DO92). Det må dække en betydning som står i kontrast til synd begået ved en fejl, altså uoverlagt.",
+          "text": "Dette udtryk oversættes forskelligt: »i trodsighed« (GT1871) eller »med forsæt« (GT1931) eller »med vilje« (DO92). Det må dække en betydning som står i kontrast til synd begået ved en fejl, altså uoverlagt.",
+          "type": "T",
           "position": 37
         },
         {
-          "text": "T: Ordret: sjæl.",
+          "text": "Ordret: sjæl.",
+          "type": "T",
           "position": 137
         },
         {
-          "text": "T: På hebraisk står der helt ordret: »du skal visselig bortskære den sjæl fra midten af dens folk«. Teksten nævner ikke dødsstraf eksplicit, og det er derfor mest rimeligt at forestille sig at det handler om en ekskommunikation for utilgivelig synd. Om det alene gælder udelukkelse fra deltagelse i gudstjenesten eller der også er tale om bortvisning fra teltlejren, står ikke klart, det er ikke usandsynligt.",
+          "text": "På hebraisk står der helt ordret: »du skal visselig bortskære den sjæl fra midten af dens folk«. Teksten nævner ikke dødsstraf eksplicit, og det er derfor mest rimeligt at forestille sig at det handler om en ekskommunikation for utilgivelig synd. Om det alene gælder udelukkelse fra deltagelse i gudstjenesten eller der også er tale om bortvisning fra teltlejren, står ikke klart, det er ikke usandsynligt.",
+          "type": "T",
           "position": 168
         }
       ],
@@ -241,7 +247,8 @@
       "text": "»Tal til israelitterne og sig at de skal lave kvaster på kanterne af deres tøj blandt deres efterkommere, og de skal sætte en blå uldsnor på hver kvast.",
       "footnotes": [
         {
-          "text": "T: Den moderne betegnelse blandt jøder er »skuesnor«",
+          "text": "Den moderne betegnelse blandt jøder er »skuesnor«",
+          "type": "T",
           "position": 53
         }
       ],

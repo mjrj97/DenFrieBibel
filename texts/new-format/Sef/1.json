@@ -20,7 +20,8 @@
       "title": "Straffen over ugudelighed",
       "footnotes": [
         {
-          "text": "T: Ordret »I Josijas, Amons søn, Judas konge, dage«.",
+          "text": "Ordret »I Josijas, Amons søn, Judas konge, dage«.",
+          "type": "T",
           "position": 142
         }
       ],
@@ -31,7 +32,8 @@
       "text": "\fJeg vil tilintetgøre alt fra jordens overflade, siger JHVH.",
       "footnotes": [
         {
-          "text": "E: Det hebraiske *ʔāsōf ʔāsēf* er vanskeligt at oversætte. Normalt bruges en absolut infinitiv til at fremhæve et finit verbum af samme verbalstamme. Men i dette tilfælde er der en kombination af *ʔāsōf* »indsamle« og *ʔāsēf* »tilintetgøre«. Samme kombination findes dog i Jer 8,13, hvilket tyder på at der er tale om et idiomatisk udtryk, der kan oversættes med »Jeg vil virkelig tilintetgøre«.",
+          "text": "Det hebraiske *ʔāsōf ʔāsēf* er vanskeligt at oversætte. Normalt bruges en absolut infinitiv til at fremhæve et finit verbum af samme verbalstamme. Men i dette tilfælde er der en kombination af *ʔāsōf* »indsamle« og *ʔāsēf* »tilintetgøre«. Samme kombination findes dog i Jer 8,13, hvilket tyder på at der er tale om et idiomatisk udtryk, der kan oversættes med »Jeg vil virkelig tilintetgøre«.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -42,7 +44,8 @@
       "text": "\fJeg vil tilintetgøre mennesker og dyr,\ftilintetgøre himlens fugle og havets fisk,\fog jeg vil få de ugudelige til at snuble.\fJeg vil udrydde menneskene fra jordens overflade, siger JHVH.",
       "footnotes": [
         {
-          "text": "E: Denne linje er vanskelig, muligvis fordi den hebraiske tekst er korrumperet. Ordret »og dem, som får ugudelige til at snuble«. En anden mulighed er »ruinerne med de ugudelige«, hvis man forstår *?et* som præpositionen »med«. Sætningen er udeladt fra de fleste versioner af LXX.",
+          "text": "Denne linje er vanskelig, muligvis fordi den hebraiske tekst er korrumperet. Ordret »og dem, som får ugudelige til at snuble«. En anden mulighed er »ruinerne med de ugudelige«, hvis man forstår *?et* som præpositionen »med«. Sætningen er udeladt fra de fleste versioner af LXX.",
+          "type": "E",
           "position": 124
         }
       ],
@@ -53,7 +56,8 @@
       "text": "\fJeg vil række min hånd ud mod Juda og mod alle Jerusalems indbyggere,\fog jeg vil udrydde alt hvad der er tilbage af Ba'al fra dette sted;\fafgudspræsternes navn sammen med præsterne,",
       "footnotes": [
         {
-          "text": "E: Skal forstås som Ba'al-kulten.",
+          "text": "Skal forstås som Ba'al-kulten.",
+          "type": "E",
           "position": 122
         }
       ],
@@ -64,11 +68,13 @@
       "text": "\fog dem som tilbeder himlens hær på tagene,\fog dem som tilbeder og sværger til JHVH og dog sværger ved deres konge,",
       "footnotes": [
         {
-          "text": "T: Dvs. stjernerne og planeterne.",
+          "text": "Dvs. stjernerne og planeterne.",
+          "type": "T",
           "position": 32
         },
         {
-          "text": "E: LXX oversætter *malkām* (konge) med »Melkom«, dvs. navnet på en ammonitisk gud.",
+          "text": "LXX oversætter *malkām* (konge) med »Melkom«, dvs. navnet på en ammonitisk gud.",
+          "type": "E",
           "position": 115
         }
       ],
@@ -85,7 +91,8 @@
       "title": "JHVHs dag er nær",
       "footnotes": [
         {
-          "text": "E: Ordret »sine indkaldte«.",
+          "text": "Ordret »sine indkaldte«.",
+          "type": "E",
           "position": 127
         }
       ],
@@ -96,7 +103,8 @@
       "text": "På JHVHs offerslagtnings dag vil jeg straffe fyrsterne\fog kongens sønner og alle som klæder sig i fremmed dragt.",
       "footnotes": [
         {
-          "text": "E: Den normale betydning er »besøge« eller »udvælge«, men i denne sammenhæng går betydningen på straf.",
+          "text": "Den normale betydning er »besøge« eller »udvælge«, men i denne sammenhæng går betydningen på straf.",
+          "type": "E",
           "position": 44
         }
       ],
@@ -112,7 +120,8 @@
       "text": "\fPå den dag, siger JHVH, skal der lyde råb fra Fiskeporten\fog hyl fra Mishneh og stort postyr fra højene.",
       "footnotes": [
         {
-          "text": "E: Kan oversættes med »(byens) anden del« eller »nye del«, men »Mishneh« er sandsynligvis navnet på et nyt kvarter i byen.",
+          "text": "Kan oversættes med »(byens) anden del« eller »nye del«, men »Mishneh« er sandsynligvis navnet på et nyt kvarter i byen.",
+          "type": "E",
           "position": 77
         }
       ],
@@ -123,7 +132,8 @@
       "text": "\fHyl, I som bor i Maktesh!\fFor alt handelsfolket er tilintetgjort;\falle de som var belæssede med sølv, er udryddet.",
       "footnotes": [
         {
-          "text": "E: Ordet *maxtēš* kommer fra verbet *xataš*, der betyder »at støde«, deraf den traditionelle oversættelse »Morteren«. Sandsynligvis henviser navnet på bydelen til en geografisk beskrivelse af en lavtliggende bydel, der ligger i et hul.",
+          "text": "Ordet *maxtēš* kommer fra verbet *xataš*, der betyder »at støde«, deraf den traditionelle oversættelse »Morteren«. Sandsynligvis henviser navnet på bydelen til en geografisk beskrivelse af en lavtliggende bydel, der ligger i et hul.",
+          "type": "E",
           "position": 26
         }
       ],
@@ -145,7 +155,8 @@
       "title": "JHVHs store dag er nær",
       "footnotes": [
         {
-          "text": "E: Teksten kan også oversættes »Hør, JHVHs dag. Bittert råber krigeren dér«.",
+          "text": "Teksten kan også oversættes »Hør, JHVHs dag. Bittert råber krigeren dér«.",
+          "type": "E",
           "position": 110
         }
       ],
@@ -161,7 +172,8 @@
       "text": "\fen dag med hornklang\fog krigsråb mod de befæstede byer og høje hjørnetårne.",
       "footnotes": [
         {
-          "text": "E: Egentlig vædderhorn.",
+          "text": "Egentlig vædderhorn.",
+          "type": "E",
           "position": 21
         }
       ],

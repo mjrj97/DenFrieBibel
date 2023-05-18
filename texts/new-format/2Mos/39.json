@@ -23,7 +23,8 @@
       "text": "Af purpurblå, purpurrød og karminrød uld lavede de vævede klæder til at tjene i ved helligdommen; og de lavede de hellige klæder som skulle være til Aron, sådan som JHVH havde befalet Moses.",
       "footnotes": [
         {
-          "text": "T: Se note til 31,30.",
+          "text": "Se note til 31,30.",
+          "type": "T",
           "position": 57
         }
       ],
@@ -35,7 +36,8 @@
       "title": "Fremstilling af efoden",
       "footnotes": [
         {
-          "text": "E: Navnet: »efod« bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
+          "text": "Navnet: »efod« bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
+          "type": "E",
           "position": 18
         }
       ],
@@ -61,7 +63,8 @@
       "text": "De satte shoham-stenene i indfatninger af guld og indgraverede dem, som man graverer en seglring, med Israels sønners navne.",
       "footnotes": [
         {
-          "text": "T: Se note til 25,7.",
+          "text": "Se note til 25,7.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -88,7 +91,8 @@
       "text": "De satte fire rækker sten på det; en række med en rubin, en topas og en smaragd, den første række;",
       "footnotes": [
         {
-          "text": "E: Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.",
+          "text": "Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.",
+          "type": "E",
           "position": 25
         }
       ],
@@ -99,7 +103,8 @@
       "text": "den anden række: en turkis, en safir og en månesten;",
       "footnotes": [
         {
-          "text": "T: Det hebraiske *nōfex* er ofte oversat: »granat«, men angiver formodentlig: »turkis«.",
+          "text": "Det hebraiske *nōfex* er ofte oversat: »granat«, men angiver formodentlig: »turkis«.",
+          "type": "T",
           "position": 27
         }
       ],
@@ -110,7 +115,8 @@
       "text": "den tredje række: en opal, en agat og en ametyst;",
       "footnotes": [
         {
-          "text": "T: Tidligere ofte oversat: »hyacint«, men oversættelsen er usikker.",
+          "text": "Tidligere ofte oversat: »hyacint«, men oversættelsen er usikker.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -121,11 +127,13 @@
       "text": "og den fjerde række: en krysolit og en shoham og en jaspis; de var monteret med fletninger af guld i deres indfatninger.",
       "footnotes": [
         {
-          "text": "T: Se note til 25,7.",
+          "text": "Se note til 25,7.",
+          "type": "T",
           "position": 45
         },
         {
-          "text": "E: Det skal muligvis opfattes som øskener.",
+          "text": "Det skal muligvis opfattes som øskener.",
+          "type": "E",
           "position": 90
         }
       ],
@@ -187,7 +195,8 @@
       "text": "På kappens nedre sømme lavede de granatæbler af purpurblå, purpurrød og karminrød uld, tvundet arbejde.",
       "footnotes": [
         {
-          "text": "T: Oversættes undertiden: »slæb«.",
+          "text": "Oversættes undertiden: »slæb«.",
+          "type": "T",
           "position": 22
         }
       ],
@@ -225,7 +234,8 @@
       "title": "Fremstilling af rosetten",
       "footnotes": [
         {
-          "text": "T: Det hebraiske: *ṣîṣ* (»roset«) er beslægtet med ordet: *ṣîṣāʰ*: »blomst« og verbet: *nṣṣ*: »funkle/skinne«. Man kan finde forskelige oversættelser: »blomst/plade/diadem«. Det har formodentlig været en plade der var formet som en blomst, en roset.",
+          "text": "Det hebraiske: *ṣîṣ* (»roset«) er beslægtet med ordet: *ṣîṣāʰ*: »blomst« og verbet: *nṣṣ*: »funkle/skinne«. Man kan finde forskelige oversættelser: »blomst/plade/diadem«. Det har formodentlig været en plade der var formet som en blomst, en roset.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -252,7 +262,8 @@
       "text": "dækket af rødfarvede vædderskind, dækket af delfinskind og tæppets forhæng;",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
           "position": 55
         }
       ],
@@ -273,7 +284,8 @@
       "text": "lysestagen af purt guld, dens lamper, lamper i række, alle dens redskaber, og lampeolien;",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har her kun ordet: »pur«, men ud fra den tidligere omtale er det forudsat at der er tale om guld.",
+          "text": "Den hebraiske tekst har her kun ordet: »pur«, men ud fra den tidligere omtale er det forudsat at der er tale om guld.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -299,7 +311,8 @@
       "text": "vævede klæder til tjenesten i helligdommen, de hellige klæder til præsten Aron og hans sønners klæder til at gøre præstetjeneste i.",
       "footnotes": [
         {
-          "text": "T: Se note til 31,30.",
+          "text": "Se note til 31,30.",
+          "type": "T",
           "position": 13
         }
       ],

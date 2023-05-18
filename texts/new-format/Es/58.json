@@ -44,11 +44,13 @@
       "text": "Mon det er en faste som denne jeg foretrækker, en dag hvor et menneske er streng imod sig selv? At hænge med hovedet som et siv eller ligge i sæk og aske – vil du kalde det en faste og en velbehagelig dag for JHVH?",
       "footnotes": [
         {
-          "text": "T: Ordret: »mod sin sjæl«.",
+          "text": "Ordret: »mod sin sjæl«.",
+          "type": "T",
           "position": 95
         },
         {
-          "text": "T: Ordret: »bruge som seng«.",
+          "text": "Ordret: »bruge som seng«.",
+          "type": "T",
           "position": 141
         }
       ],
@@ -64,7 +66,8 @@
       "text": "Mon det ikke er at dele dit brød med den sultne, og at du lader de elendige hjemløse komme i dit hus? Når du ser en nøgen, at du så klæder ham på, og at du ikke holder dig væk fra dit eget kød?",
       "footnotes": [
         {
-          "text": "T: Der er enten ment slægtning eller medmenneske.",
+          "text": "Der er enten ment slægtning eller medmenneske.",
+          "type": "T",
           "position": 193
         }
       ],
@@ -80,7 +83,8 @@
       "text": "Da skal du kalde, og JHVH skal svare dig; du skal råbe, og han skal sige: »Se, her er jeg,« hvis du fjerner åget fra din midte og ikke peger fingre og ikke taler ondskab.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hvis du fra din midte fjerner åg, at pege fingre og at tale ondskab«.",
+          "text": "Ordret: »hvis du fra din midte fjerner åg, at pege fingre og at tale ondskab«.",
+          "type": "T",
           "position": 170
         }
       ],
@@ -91,7 +95,8 @@
       "text": "Hvis du rækker den sultne dig selv, og mætter en forkuet sjæl, så skal dit lys bryde frem i mørket, og dit mulm skal blive som midt på dagen.",
       "footnotes": [
         {
-          "text": "T: Ordret: »din egen sjæl«.",
+          "text": "Ordret: »din egen sjæl«.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -107,7 +112,8 @@
       "text": "Og de der nedstammer fra dig, skal genopbygge gamle ruiner, du skal genrejse grundvolde der har ligget hen fra slægt til slægt, og du skal kaldes Den-der-murer-det-revnede-til, Den-der-udbedrer-nedrevne-bygninger.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er omdiskuteret. Det hebraiske ord *nᵊtîvāʰ* oversættes i alle andre sammenhænge: »sti/vej«, så oversættelsen kan være: »Den-der-udbedrer-stier, hvor man kan bo«. Men her forstås ordet oftest om nedrevne bygninger.",
+          "text": "Oversættelsen er omdiskuteret. Det hebraiske ord *nᵊtîvāʰ* oversættes i alle andre sammenhænge: »sti/vej«, så oversættelsen kan være: »Den-der-udbedrer-stier, hvor man kan bo«. Men her forstås ordet oftest om nedrevne bygninger.",
+          "type": "E",
           "position": 213
         }
       ],

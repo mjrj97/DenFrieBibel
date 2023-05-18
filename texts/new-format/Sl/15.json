@@ -40,11 +40,13 @@
       "text": "\fden som foragter den forkastede,\fog som ærer dem der frygter JHVH,\fden som ikke bryder hvad han har svoret, selvom det skader ham;",
       "footnotes": [
         {
-          "text": "T: Ordret »den i hvis øjne den forkastede er foragtet.",
+          "text": "Ordret »den i hvis øjne den forkastede er foragtet.",
+          "type": "T",
           "position": 33
         },
         {
-          "text": "E: Linjen er på kun 4 ord på hebraisk, og oversættelsen er usikker. Ordret: »som sværger at skade og ændrer det ikke«. Meningen er formodentlig at skønt en ed viser sig at have andre (skadelige) konsekvenser end den sværgende forudså, holder han den alligevel. Andre vil forstå *lᵊ* (»at«) separativt: »Han sværger ikke at skade og svigter det ikke«.",
+          "text": "Linjen er på kun 4 ord på hebraisk, og oversættelsen er usikker. Ordret: »som sværger at skade og ændrer det ikke«. Meningen er formodentlig at skønt en ed viser sig at have andre (skadelige) konsekvenser end den sværgende forudså, holder han den alligevel. Andre vil forstå *lᵊ* (»at«) separativt: »Han sværger ikke at skade og svigter det ikke«.",
+          "type": "E",
           "position": 131
         }
       ],
@@ -55,7 +57,8 @@
       "text": "den som ikke låner sine penge ud mod renter\fog ikke tager imod bestikkelse i sager mod en uskyldig.\fDen der gør disse ting, skal ikke rokkes i evighed.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord dækker både »renter« og »åger«.",
+          "text": "Det hebraiske ord dækker både »renter« og »åger«.",
+          "type": "T",
           "position": 43
         }
       ],

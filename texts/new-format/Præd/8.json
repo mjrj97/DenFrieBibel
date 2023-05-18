@@ -23,7 +23,8 @@
       "text": "Alt dette har jeg set, og jeg har lagt mærke til al den gerning som gøres under solen; der er en tid da det ene menneske hersker over det andet til dettes ulykke.",
       "footnotes": [
         {
-          "text": "T: Ordret: »rettet mit hjerte mod«.",
+          "text": "Ordret: »rettet mit hjerte mod«.",
+          "type": "T",
           "position": 48
         }
       ],
@@ -34,11 +35,13 @@
       "text": "Derefter så jeg ugudelige begravet, de som er kommet og gået fra det hellige sted og bliver prist i byen hvor de har gjort således; også dette er tomhed.",
       "footnotes": [
         {
-          "text": "T: Denne oversættelses støttes af et stort antal håndskrifter, mens flertallet skulle oversættes: »bliver glemt«.",
+          "text": "Denne oversættelses støttes af et stort antal håndskrifter, mens flertallet skulle oversættes: »bliver glemt«.",
+          "type": "T",
           "position": 97
         },
         {
-          "text": "T: Den hebraiske tekst til verset er meget usikker og omdiskuteret. Forskellige håndskrifter og forslag til ændret vokalisering kunne tilsammen give oversættelsen: »Derefter så jeg de ugudelige blive begravet, og da nogle vendte tilbage fra det hellige sted, blev de prist i byen hvor de har gjort sådan. Også det er tomhed«.",
+          "text": "Den hebraiske tekst til verset er meget usikker og omdiskuteret. Forskellige håndskrifter og forslag til ændret vokalisering kunne tilsammen give oversættelsen: »Derefter så jeg de ugudelige blive begravet, og da nogle vendte tilbage fra det hellige sted, blev de prist i byen hvor de har gjort sådan. Også det er tomhed«.",
+          "type": "T",
           "position": 153
         }
       ],

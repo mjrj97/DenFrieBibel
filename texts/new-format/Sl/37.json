@@ -50,7 +50,8 @@
       "text": "\fOg han skal føre din retfærdighed frem som lyset\fog din ret som middagsglansen.",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »middagen«",
+          "text": "Ordret blot: »middagen«",
+          "type": "T",
           "position": 80
         }
       ],
@@ -141,7 +142,8 @@
       "text": "\fFra JHVH kommer det at en mands skridt kan være faste,\fog han har velbehag i hans vej.",
       "footnotes": [
         {
-          "text": "E: »Kan være faste« hører grammatisk i den hebraiske tekst til andet halvvers, men tages af meningsmæssige grunde med her. Oversættelsen af verset er i øvrigt stærkt omdiskuteret. Andre oversætter: »Af JHVH styres en mands skridt«, hvor det i så fald er »styres« der grammatisk i den hebraiske tekst hører til andet halvvers, men af meningsmæssige grunde tages med her.",
+          "text": "»Kan være faste« hører grammatisk i den hebraiske tekst til andet halvvers, men tages af meningsmæssige grunde med her. Oversættelsen af verset er i øvrigt stærkt omdiskuteret. Andre oversætter: »Af JHVH styres en mands skridt«, hvor det i så fald er »styres« der grammatisk i den hebraiske tekst hører til andet halvvers, men af meningsmæssige grunde tages med her.",
+          "type": "E",
           "position": 55
         }
       ],
@@ -157,7 +159,8 @@
       "text": "\fJeg har været ung og er blevet gammel,\fmen jeg har ikke set en retfærdig forladt,\feller hans efterkommere tigge om brød.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 106
         }
       ],
@@ -178,11 +181,13 @@
       "text": "\fFor JHVH elsker ret,\fog han forlader ikke sine fromme.\fDe bliver beskyttet evigt,\fmen de ugudeliges efterkommere udryddes.",
       "footnotes": [
         {
-          "text": "E: Sætningen er omdiskuteret. Det skyldes især at salmen er alfabetisk, og at man her venter begyndelsesbogstavet *ʕ*. Ud fra Septuaginta indsætter man derfor oftest ordet *ʕawwālîm*: »uhæderlige« i begyndelsen af linjen. Man er så også nødt til at rette *nišmārû* (»bliver beskyttet«) til *nišmᵊdû*: »udslettes«, så linjen kommer til at lyde: »De uhæderlige udslettes for evigt«. Næste linjes *wᵊ* skal så oversættes »og« i stedet for »men«",
+          "text": "Sætningen er omdiskuteret. Det skyldes især at salmen er alfabetisk, og at man her venter begyndelsesbogstavet *ʕ*. Ud fra Septuaginta indsætter man derfor oftest ordet *ʕawwālîm*: »uhæderlige« i begyndelsen af linjen. Man er så også nødt til at rette *nišmārû* (»bliver beskyttet«) til *nišmᵊdû*: »udslettes«, så linjen kommer til at lyde: »De uhæderlige udslettes for evigt«. Næste linjes *wᵊ* skal så oversættes »og« i stedet for »men«",
+          "type": "E",
           "position": 82
         },
         {
-          "text": "T: Verberne i denne og foregående sætning er i perfektum der normalt oversættes ved fortid. Her optræder de dog formodentlig som profetier om det der helt sikkert vil ske.",
+          "text": "Verberne i denne og foregående sætning er i perfektum der normalt oversættes ved fortid. Her optræder de dog formodentlig som profetier om det der helt sikkert vil ske.",
+          "type": "T",
           "position": 123
         }
       ],
@@ -203,7 +208,8 @@
       "text": "\fHans Guds lov er i hans hjerte,\fhans skridt skal ikke vakle.",
       "footnotes": [
         {
-          "text": "N: lov",
+          "text": "lov",
+          "type": "N",
           "position": 14
         }
       ],
@@ -229,7 +235,8 @@
       "text": "\fJeg så en ugudelig voldsmand,\fog han foldede sig ud som et grønt, indfødt træ.",
       "footnotes": [
         {
-          "text": "E: Dvs. et træ med dybe, stærke rødder. Teksten er dog problematisk, og de fleste oversættelser følger Septuaginta: »der knejste som Libanons cedre«",
+          "text": "Dvs. et træ med dybe, stærke rødder. Teksten er dog problematisk, og de fleste oversættelser følger Septuaginta: »der knejste som Libanons cedre«",
+          "type": "E",
           "position": 79
         }
       ],
@@ -240,7 +247,8 @@
       "text": "\fMen man går forbi - og se, han er ikke mere,\fog jeg søger efter ham, men han findes ikke.",
       "footnotes": [
         {
-          "text": "T: De fleste retter til 1. person: »jeg går« begrundet i parallelismen og Septuaginta",
+          "text": "De fleste retter til 1. person: »jeg går« begrundet i parallelismen og Septuaginta",
+          "type": "T",
           "position": 8
         }
       ],
@@ -251,7 +259,8 @@
       "text": "\fTag vare på en retsindig, og se på en retskaffen,\ffor fredens mand har en fremtid.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »efterkommere«.",
+          "text": "Kan også oversættes: »efterkommere«.",
+          "type": "T",
           "position": 83
         }
       ],

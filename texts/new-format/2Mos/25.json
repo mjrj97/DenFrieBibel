@@ -44,7 +44,8 @@
       "text": "og purpurblå, purpurrød og karminrød uld, fint linned og gedeuld,",
       "footnotes": [
         {
-          "text": "T: Ordret: »karminrød orm«.",
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -55,7 +56,8 @@
       "text": "rødfarvede vædderskind og delfinskind og akacietræ,",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
           "position": 37
         }
       ],
@@ -71,7 +73,8 @@
       "text": "shoham-sten og sten til at sætte på efoden og til brystskjoldet.",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord antyder, at stenen må være rødlig; karneol er måske det bedste bud.",
+          "text": "Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord antyder, at stenen må være rødlig; karneol er måske det bedste bud.",
+          "type": "T",
           "position": 11
         }
       ],
@@ -87,7 +90,8 @@
       "text": "Efter alt det jeg viser dig, modellen af boligen og modellen af alle dens redskaber – netop sådan skal I lave den.«",
       "footnotes": [
         {
-          "text": "E: Tidligere oversat: »tabernakel«. Det hebraiske ord *miškān* betyder egentlig: »telt/opholdssted«.",
+          "text": "Tidligere oversat: »tabernakel«. Det hebraiske ord *miškān* betyder egentlig: »telt/opholdssted«.",
+          "type": "E",
           "position": 48
         }
       ],
@@ -99,7 +103,8 @@
       "title": "Pagtens ark",
       "footnotes": [
         {
-          "text": "T: Ordret: »dens længde to og en halv alen, …«",
+          "text": "Ordret: »dens længde to og en halv alen, …«",
+          "type": "T",
           "position": 59
         }
       ],
@@ -141,7 +146,8 @@
       "title": "Sonedækket",
       "footnotes": [
         {
-          "text": "E: Tidligere oversat: »nådestol«.",
+          "text": "Tidligere oversat: »nådestol«.",
+          "type": "E",
           "position": 30
         }
       ],
@@ -178,7 +184,8 @@
       "title": "Skuebrødsbordet",
       "footnotes": [
         {
-          "text": "T: Ordret: »to alen dets længde«.",
+          "text": "Ordret: »to alen dets længde«.",
+          "type": "T",
           "position": 50
         }
       ],
@@ -214,7 +221,8 @@
       "text": "Du skal lave dets fade, dets skåle, dets kander og dets offerskåle, ved hvilke der skal udgydes drikoffer; af purt guld skal du lave dem.",
       "footnotes": [
         {
-          "text": "T: Ordet »drikoffer« står ikke i den hebraiske tekst, men er underforstået ud fra betegnelsen »offerskåle«.",
+          "text": "Ordet »drikoffer« står ikke i den hebraiske tekst, men er underforstået ud fra betegnelsen »offerskåle«.",
+          "type": "T",
           "position": 106
         }
       ],
@@ -231,11 +239,13 @@
       "title": "Lysestagen",
       "footnotes": [
         {
-          "text": "T: Ordret: »dens rør« (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.",
+          "text": "Ordret: »dens rør« (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.",
+          "type": "T",
           "position": 116
         },
         {
-          "text": "T: Ordret: »skal være fra den«. Hele stagen skal laves ud af ét stykke guld.",
+          "text": "Ordret: »skal være fra den«. Hele stagen skal laves ud af ét stykke guld.",
+          "type": "T",
           "position": 180
         }
       ],
@@ -246,7 +256,8 @@
       "text": "Og der skal gå seks arme ud fra dens sider; tre af lysestagens arme fra dens ene side og tre af lysestagens arme fra dens anden side.",
       "footnotes": [
         {
-          "text": "T: Ordret: »rør«.",
+          "text": "Ordret: »rør«.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -277,7 +288,8 @@
       "text": "Du skal lave dens lamper, syv, og man skal sætte dens lamper op så den lyser ud foran den.",
       "footnotes": [
         {
-          "text": "T: Ordret: »på den modsatte side foran den«.",
+          "text": "Ordret: »på den modsatte side foran den«.",
+          "type": "T",
           "position": 90
         }
       ],

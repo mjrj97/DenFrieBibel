@@ -25,7 +25,8 @@
       "text": "»Israelitterne skal slå lejr i hver sin hærenhed ved deres fædrenehuses bannere. De skal slå lejr foran forsamlingsteltet og rundt omkring det.",
       "footnotes": [
         {
-          "text": "E: Teksten beskriver at enhver person skal slå sig ned »på/ved sin degel« »i/med/ved« bannerne i deres fædrenehus, Ordet »degel« henviser til en særlig militær enhed, formodentlig her gruppen af tre stammer, som ligger lejret på hver sin side af forsamlingsteltet. Blev tidligere oversat »tegn« (GT1871) eller »mærke« (GT1931), men i DO92 »fanehær«. Judas lejr er med sine 186.400 mand lidt større end det der i nutidens militære terminologi kaldes en armé (2 Mos 2,9), og det er sikkert denne enhed som »degel« hentyder til. Vi har her valgt udtrykket »hærenhed«.",
+          "text": "Teksten beskriver at enhver person skal slå sig ned »på/ved sin degel« »i/med/ved« bannerne i deres fædrenehus, Ordet »degel« henviser til en særlig militær enhed, formodentlig her gruppen af tre stammer, som ligger lejret på hver sin side af forsamlingsteltet. Blev tidligere oversat »tegn« (GT1871) eller »mærke« (GT1931), men i DO92 »fanehær«. Judas lejr er med sine 186.400 mand lidt større end det der i nutidens militære terminologi kaldes en armé (2 Mos 2,9), og det er sikkert denne enhed som »degel« hentyder til. Vi har her valgt udtrykket »hærenhed«.",
+          "type": "E",
           "position": 48
         }
       ],
@@ -66,7 +67,8 @@
       "text": "Alle de mønstrede ved Judas lejr er 186.400 efter deres hærafdelinger. De skal bryde op som den første afdeling.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst bruger »lejr« både om en enkelt stammes lejrplads, men også om 3 stammers lejrplads, og dermed om det der i v. 3 kaldes for bosættelsen af en »hærenhed«.",
+          "text": "Den hebraiske tekst bruger »lejr« både om en enkelt stammes lejrplads, men også om 3 stammers lejrplads, og dermed om det der i v. 3 kaldes for bosættelsen af en »hærenhed«.",
+          "type": "E",
           "position": 32
         }
       ],
@@ -108,7 +110,8 @@
       "text": "Alle de mønstrede ved Rubens lejr er 151.450 efter deres hærafdelinger. De skal bryde op som den anden afdeling.",
       "footnotes": [
         {
-          "text": "T: Se v. 9",
+          "text": "Se v. 9",
+          "type": "T",
           "position": 33
         }
       ],
@@ -120,7 +123,8 @@
       "title": "Levitterne med forsamlingsteltet skal være i midten.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hver ved sin hånd«, og her om deres indbyrdes placering.",
+          "text": "Ordret: »hver ved sin hånd«, og her om deres indbyrdes placering.",
+          "type": "T",
           "position": 155
         }
       ],
@@ -162,7 +166,8 @@
       "text": "Alle de mønstrede ved Efraims lejr er 108.100, efter deres hærafdelinger. De skal bryde op som den tredje afdeling.",
       "footnotes": [
         {
-          "text": "T: Se v. 9",
+          "text": "Se v. 9",
+          "type": "T",
           "position": 34
         }
       ],
@@ -204,7 +209,8 @@
       "text": "Alle de mønstrede ved Dans lejr er 157.600. De skal bryde op som sidste afdeling efter deres bannere.«",
       "footnotes": [
         {
-          "text": "T: Se v. 9",
+          "text": "Se v. 9",
+          "type": "T",
           "position": 31
         }
       ],

@@ -33,11 +33,13 @@
       "text": "\f»Giv et råd! \fTræf en beslutning! \fGør din skygge som nat \fved højlys dag. \fSkjul fordrevne, \fforråd ikke en der flakker om!",
       "footnotes": [
         {
-          "text": "T: Ordret: »ved middagens midte«.",
+          "text": "Ordret: »ved middagens midte«.",
+          "type": "T",
           "position": 75
         },
         {
-          "text": "T: På hebraisk samme ord som »flaksende« i vers 2.",
+          "text": "På hebraisk samme ord som »flaksende« i vers 2.",
+          "type": "T",
           "position": 125
         }
       ],
@@ -48,15 +50,18 @@
       "text": "\fLad Moabs fordrevne få husly hos dig, \fvær et skjul for dem mod en ødelægger.« \fNår undertrykkeren er borte, \fødelæggelsen får ende, \fog han som trådte under fode, er forsvundet \ffra landet,",
       "footnotes": [
         {
-          "text": "E: Den masoretiske tekst lyder egentlig: »Lad mine fordrevne få husly hos dig, Moab«. Med de gamle oversættelser går man oftest ud fra, at *niddāḥay* (»mine fordrevne«) skal vokaliseres: *niddᵊḥêy* og mod masoreternes accent forbindes med Moab (»(Moabs) fordrevne«).",
+          "text": "Den masoretiske tekst lyder egentlig: »Lad mine fordrevne få husly hos dig, Moab«. Med de gamle oversættelser går man oftest ud fra, at *niddāḥay* (»mine fordrevne«) skal vokaliseres: *niddᵊḥêy* og mod masoreternes accent forbindes med Moab (»(Moabs) fordrevne«).",
+          "type": "E",
           "position": 20
         },
         {
-          "text": "T: Verbet er i pluralis, men subjektet er singularis.",
+          "text": "Verbet er i pluralis, men subjektet er singularis.",
+          "type": "T",
           "position": 178
         },
         {
-          "text": "T: Kan også oversættes: »fra jorden«.",
+          "text": "Kan også oversættes: »fra jorden«.",
+          "type": "T",
           "position": 191
         }
       ],
@@ -77,7 +82,8 @@
       "text": "\fDerfor skal Moab jamre over Moab, \fenhver skal jamre; \fover Kir-Haresets rosinkager \fskal I sukke, aldeles modfaldne.",
       "footnotes": [
         {
-          "text": "E: Man foreslår undertiden at rette: *ˀᵃšîšê* (»rosinkager«) til: *ˀanšê*: »mænd«, jf. Jer 48,31. Her er der dog ingen vaklen i håndskrifterne. Rosinkager blev brugt i hedensk kult og som vigtig næring på rejser.",
+          "text": "Man foreslår undertiden at rette: *ˀᵃšîšê* (»rosinkager«) til: *ˀanšê*: »mænd«, jf. Jer 48,31. Her er der dog ingen vaklen i håndskrifterne. Rosinkager blev brugt i hedensk kult og som vigtig næring på rejser.",
+          "type": "E",
           "position": 84
         }
       ],
@@ -93,7 +99,8 @@
       "text": "\fDerfor vil jeg græde med Jazers gråd \fover Sibmas vinstok, \fjeg vil væde dig med mine tårer, \fHeshbon og El’ale, \ffor over din frugthøst og over din kornhøst \ffaldt jubelråbet.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er usikker. Det skyldes især forståelsen af: *hêdād* (»jubelråb«) der undertiden her foreslås oversat: »krigsråb« eller i hvert fald opfattes som en fjendtlig hærs råb.",
+          "text": "Oversættelsen er usikker. Det skyldes især forståelsen af: *hêdād* (»jubelråb«) der undertiden her foreslås oversat: »krigsråb« eller i hvert fald opfattes som en fjendtlig hærs råb.",
+          "type": "E",
           "position": 177
         }
       ],

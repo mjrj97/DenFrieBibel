@@ -20,11 +20,13 @@
       "title": "Guds svar",
       "footnotes": [
         {
-          "text": "E: Eller fæstningen.",
+          "text": "Eller fæstningen.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: Den syriske tekst (Peshitta) har »hvad han vil svare på min klage«, hvilket følges af mange kommentarer og oversættelser, heriblandt DO92.",
+          "text": "Den syriske tekst (Peshitta) har »hvad han vil svare på min klage«, hvilket følges af mange kommentarer og oversættelser, heriblandt DO92.",
+          "type": "E",
           "position": 137
         }
       ],
@@ -40,11 +42,13 @@
       "text": "\fFor der er stadig et syn om en fastsat tid;\fdet vidner om opfyldelsen og lyver ikke.\fHvis det er forsinket, så vent på det,\ffor det skal virkelig komme; det skal ikke udeblive.",
       "footnotes": [
         {
-          "text": "E: Verset kan oversættes på forskellige måder, afhængig af om man forstår *ʕôd* som »stadig«, dvs. der er et endnu et syn, eller som »først«, dvs. synet kommer først på et bestemt tidspunkt eller gælder først på et bestemt tidspunkt.",
+          "text": "Verset kan oversættes på forskellige måder, afhængig af om man forstår *ʕôd* som »stadig«, dvs. der er et endnu et syn, eller som »først«, dvs. synet kommer først på et bestemt tidspunkt eller gælder først på et bestemt tidspunkt.",
+          "type": "E",
           "position": 44
         },
         {
-          "text": "E: Ordret »enden«.",
+          "text": "Ordret »enden«.",
+          "type": "E",
           "position": 70
         }
       ],
@@ -55,7 +59,8 @@
       "text": "\fSe, hans, sjæl er opblæst og ikke retsindig,\fmen den retfærdige skal leve ved sin tro.",
       "footnotes": [
         {
-          "text": "T: Måske kaldæerkongen.",
+          "text": "Måske kaldæerkongen.",
+          "type": "T",
           "position": 10
         }
       ],
@@ -82,7 +87,8 @@
       "text": "\fFor du har udplyndret mange folkefærd.\fAlle de resterende af folkene skal plyndre dig på grund af dine blodsudgydelser mod menneskeheden\fog din vold mod landet, mod byen og alle som bor i den.\f\n",
       "footnotes": [
         {
-          "text": "E: Eller »jorden«.",
+          "text": "Eller »jorden«.",
+          "type": "E",
           "position": 161
         }
       ],
@@ -113,11 +119,13 @@
       "text": "\fEr dette ikke fra Hærskarers JHVHv?\fFolkene arbejder sig trætte for ting der går til i ild,\fog folkefærd udmatter sig for ingenting.",
       "footnotes": [
         {
-          "text": "E: Nogle oversættelser oversætter *hnh* med »se!«, men det kan også oversættes som her med »dette«, 3. person pluralis femininum.",
+          "text": "Nogle oversættelser oversætter *hnh* med »se!«, men det kan også oversættes som her med »dette«, 3. person pluralis femininum.",
+          "type": "E",
           "position": 9
         },
         {
-          "text": "E: Ordret »Folkene bliver trætte ved ild«.",
+          "text": "Ordret »Folkene bliver trætte ved ild«.",
+          "type": "E",
           "position": 92
         }
       ],
@@ -133,11 +141,13 @@
       "text": "\fVe ham som giver sin næste en drik blandet med gift,\fog endda drikker ham fuld for at se på hans nøgenhed!",
       "footnotes": [
         {
-          "text": "E: Ordret: »din gift« eller »din vrede«.",
+          "text": "Ordret: »din gift« eller »din vrede«.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: Ordret »deres«.",
+          "text": "Ordret »deres«.",
+          "type": "E",
           "position": 97
         }
       ],
@@ -153,15 +163,18 @@
       "text": "\fFor voldshandlingen mod Libanon skal komme over dig,\fog ligeledes tilintetgørelsen af kvæget som var skræmt;\fpå grund af din blodskyld mod mennesker og voldsfærd mod landet, mod byen og alle som bor i den.",
       "footnotes": [
         {
-          "text": "E: Ordret »Libanons vold«.",
+          "text": "Ordret »Libanons vold«.",
+          "type": "E",
           "position": 32
         },
         {
-          "text": "E: Ordret: »dække dig«.",
+          "text": "Ordret: »dække dig«.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: Eller »jorden«.",
+          "text": "Eller »jorden«.",
+          "type": "E",
           "position": 174
         }
       ],
@@ -172,7 +185,8 @@
       "text": "\fHvad gavn gør et afgudsbillede,\fnår dets håndværker har dannet det\f- en metalstøbning, og en der lærer løgn?\fFor han som former dets billede, stoler på det,\fnår han laver stumme afguder.\f\n",
       "footnotes": [
         {
-          "text": "E: På hebraisk »kî« der ofte oversættes med »for« (kausalt).",
+          "text": "På hebraisk »kî« der ofte oversættes med »for« (kausalt).",
+          "type": "E",
           "position": 36
         }
       ],
@@ -183,7 +197,8 @@
       "text": "\fVe ham som siger til en træklods: »Vågn op!«\fOg til en døv sten: »Vågn!«\fSkulle den kunne belære?\fSe, den er overtrukket med guld og sølv,\fog der er slet ingen ånd i den.",
       "footnotes": [
         {
-          "text": "E: Eller: »der er intet åndedræt i den«.",
+          "text": "Eller: »der er intet åndedræt i den«.",
+          "type": "E",
           "position": 171
         }
       ],
@@ -194,7 +209,8 @@
       "text": "\fMen JHVH er i sit hellige tempel.\fStille for ham, hele jorden!",
       "footnotes": [
         {
-          "text": "E: Ordret »hans ansigt«.",
+          "text": "Ordret »hans ansigt«.",
+          "type": "E",
           "position": 50
         }
       ],

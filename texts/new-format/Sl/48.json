@@ -30,7 +30,8 @@
       "title": "Den hellige bys herlighed",
       "footnotes": [
         {
-          "text": "T: Mange oversættere vælger at lade »hans hellige bjerg« være indledning til v. 3.",
+          "text": "Mange oversættere vælger at lade »hans hellige bjerg« være indledning til v. 3.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -41,11 +42,13 @@
       "text": "\fDet hæver sig smukt,\ftil fryd for hele jorden,\fZions bjerg i det yderste nord,\fen stor konges stad.",
       "footnotes": [
         {
-          "text": "T: Ordret: »smuk af hævning«.",
+          "text": "Ordret: »smuk af hævning«.",
+          "type": "T",
           "position": 21
         },
         {
-          "text": "T: Ordret: »hele jordens fryd«.",
+          "text": "Ordret: »hele jordens fryd«.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -56,7 +59,8 @@
       "text": "\fGud i dens paladser\fhar givet sig til kende som en borg.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord kan i enkelte sammenhænge forstås som: »citadel«.",
+          "text": "Grundtekstens ord kan i enkelte sammenhænge forstås som: »citadel«.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -83,7 +87,8 @@
       "text": "\fMed en østenstorm\fsmadrer du Tarshish-skibe.",
       "footnotes": [
         {
-          "text": "T: Det er store, stolte handelsskibe.",
+          "text": "Det er store, stolte handelsskibe.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -95,11 +100,13 @@
       "title": "Juda rige priser sin Gud",
       "footnotes": [
         {
-          "text": "T: Tidligere uoversat: »Zebaoth«.",
+          "text": "Tidligere uoversat: »Zebaoth«.",
+          "type": "T",
           "position": 50
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 112
         }
       ],
@@ -126,7 +133,8 @@
       "title": "Menigheden drager ind i templet for at tilbede",
       "footnotes": [
         {
-          "text": "E: »Zion« er fem., der kunne oversættes både her og i de næste linjer: »hende, hendes«.",
+          "text": "»Zion« er fem., der kunne oversættes både her og i de næste linjer: »hende, hendes«.",
+          "type": "E",
           "position": 34
         }
       ],
@@ -137,15 +145,18 @@
       "text": "\fRet jeres hjerte til dens ringmur,\fgå gennem dens paladser,\fså I kan fortælle for en senere slægt",
       "footnotes": [
         {
-          "text": "T: Dvs.: opmærksomhed.",
+          "text": "Dvs.: opmærksomhed.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "E: Betydningen af ordet: *passᵊgû* er meget usikker. Blandt forslagene er især: »betragt, betænk«.",
+          "text": "Betydningen af ordet: *passᵊgû* er meget usikker. Blandt forslagene er især: »betragt, betænk«.",
+          "type": "E",
           "position": 45
         },
         {
-          "text": "T: Grundtekstens ord kan i enkelte sammenhænge forstås som: »citadel«.",
+          "text": "Grundtekstens ord kan i enkelte sammenhænge forstås som: »citadel«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -156,7 +167,8 @@
       "text": "\fat denne er Gud,\fvor Gud, evigt og altid.\fHan skal føre os\fud over død.",
       "footnotes": [
         {
-          "text": "E: Linjen lades ofte uoversat: *ʕal-mût*. Det begrundes med, at det passer dårligt i sammenhængen. Man foreslår at det kan være en musikalsk anvisning af ukendt betydning. Oversættelsen »ud over død/trods død« giver dog god mening i sammenhængen.",
+          "text": "Linjen lades ofte uoversat: *ʕal-mût*. Det begrundes med, at det passer dårligt i sammenhængen. Man foreslår at det kan være en musikalsk anvisning af ukendt betydning. Oversættelsen »ud over død/trods død« giver dog god mening i sammenhængen.",
+          "type": "E",
           "position": 72
         }
       ],

@@ -90,7 +90,8 @@
       "text": "og på dem opfyldes Esajas’ profeti som siger: De skal høre og høre og ikke forstå, og når de ser, skal de se og ikke se,",
       "footnotes": [
         {
-          "text": "H: Es 6,9-10.",
+          "text": "Es 6,9-10.",
+          "type": "H",
           "position": 44
         }
       ],
@@ -205,7 +206,8 @@
       "text": "for at det skulle opfyldes som er blevet talt ved profeten som sagde: Jeg vil åbne min mund med lignelser, jeg vil fremsige det som er blevet skjult fra verdens grundlæggelse.",
       "footnotes": [
         {
-          "text": "H: Sl 78,2.",
+          "text": "Sl 78,2.",
+          "type": "H",
           "position": 68
         }
       ],
@@ -299,7 +301,8 @@
       "text": "Og Jesus sagde til dem: »Derfor ligner enhver skriftlærd som er blevet undervist i Himlenes rige, en husherre som tager nyt og gammelt frem af sit forråd.«",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 56
         }
       ],

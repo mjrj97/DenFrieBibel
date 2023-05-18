@@ -63,7 +63,8 @@
       "text": "Om synd: at de ikke tror på mig;",
       "footnotes": [
         {
-          "text": "T: I stedet for »at« kan der i dette og de to næste vers oversættes: »fordi«.",
+          "text": "I stedet for »at« kan der i dette og de to næste vers oversættes: »fordi«.",
+          "type": "T",
           "position": 11
         }
       ],
@@ -124,7 +125,8 @@
       "text": "Sandelig, sandelig, siger jeg jer: I skal græde og jamre, men verden skal glæde sig; I skal sørge, men jeres sorg skal blive til glæde.",
       "footnotes": [
         {
-          "text": "T: Det græske ord bruges især om dødsklage.",
+          "text": "Det græske ord bruges især om dødsklage.",
+          "type": "T",
           "position": 57
         }
       ],

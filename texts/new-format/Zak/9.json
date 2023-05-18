@@ -20,11 +20,13 @@
       "title": "JHVHs felttog og genoprettelsen af Davidsriget",
       "footnotes": [
         {
-          "text": "E: Syntaksen er omdiskuteret. Generelt oversættes det enten med »JHVHs ords profeti over Hadraks land« (fx den danske oversættelse fra 1871) eller opdeles i overskriften for hele afsnittet »Et profetudsagn« og første sætning i afsnittet »JHVHs ord er i Hadraks land«.",
+          "text": "Syntaksen er omdiskuteret. Generelt oversættes det enten med »JHVHs ords profeti over Hadraks land« (fx den danske oversættelse fra 1871) eller opdeles i overskriften for hele afsnittet »Et profetudsagn« og første sætning i afsnittet »JHVHs ord er i Hadraks land«.",
+          "type": "E",
           "position": 26
         },
         {
-          "text": "E: Verset er vanskeligt at oversætte. Ordret står der »For JHVHs er menneskets øje«. Det kan forstås som både en subjektiv genitiv »Menneskets øje er på JHVH« eller som en objektiv genitiv »JHVHs er øjet på mennesket« eller mere mundret »JHVHs øje er på mennesket«.",
+          "text": "Verset er vanskeligt at oversætte. Ordret står der »For JHVHs er menneskets øje«. Det kan forstås som både en subjektiv genitiv »Menneskets øje er på JHVH« eller som en objektiv genitiv »JHVHs er øjet på mennesket« eller mere mundret »JHVHs øje er på mennesket«.",
+          "type": "E",
           "position": 142
         }
       ],
@@ -45,7 +47,8 @@
       "text": "\fMen se, JHVH skal indtage den\fog smide dens rigdomme i havet.",
       "footnotes": [
         {
-          "text": "T: Eller »fæstning«.",
+          "text": "Eller »fæstning«.",
+          "type": "T",
           "position": 53
         }
       ],
@@ -56,7 +59,8 @@
       "text": "\fAshkalon skal se det og blive bange,\fGaza skal blive rædselsslagen\fog ligeså Ekron, for dens håb er blevet til skamme.\fGazas konge skal omkomme,\fAshkalon skal ikke regeres,",
       "footnotes": [
         {
-          "text": "E: En anden mulighed er »Ashkalon skal ikke bebos«, fordi det hebraiske *yāšav* både kan betyde »bo« eller »sidde« (på en trone).",
+          "text": "En anden mulighed er »Ashkalon skal ikke bebos«, fordi det hebraiske *yāšav* både kan betyde »bo« eller »sidde« (på en trone).",
+          "type": "E",
           "position": 173
         }
       ],
@@ -67,7 +71,8 @@
       "text": "\fog i Ashdod skal en bastard sidde på tronen.\fJeg vil udrydde filistrenes hovmod.",
       "footnotes": [
         {
-          "text": "E: Ordret »En bastard skal sidde/bo i Ashdod«. Bastard behøver ikke forstås biologisk, men kan forstås bredere som korrupt, og sammenhængen med vers 5 kunne tyde på, at der er tale om en konge.",
+          "text": "Ordret »En bastard skal sidde/bo i Ashdod«. Bastard behøver ikke forstås biologisk, men kan forstås bredere som korrupt, og sammenhængen med vers 5 kunne tyde på, at der er tale om en konge.",
+          "type": "E",
           "position": 45
         }
       ],
@@ -83,7 +88,8 @@
       "text": "\fJeg vil slå lejr foran mit hus;\fsom en fæstning imod dem, der drager i krig.\fSå skal ingen længere rykke ud imod dem,\ffor nu har jeg set med mine egne øjne.",
       "footnotes": [
         {
-          "text": "T: Ordret »dem der drager ud og vender hjem«.",
+          "text": "Ordret »dem der drager ud og vender hjem«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -126,11 +132,13 @@
       "text": "\fHærskarers JHVHv skal beskytte dem,\fog de skal æde, nedtrampe slyngesten,\fdrikke og brøle som berusede,\fog de skal søles til som offerskålen; som alterets hjørner.",
       "footnotes": [
         {
-          "text": "T: Ordret »som af vin«.",
+          "text": "Ordret »som af vin«.",
+          "type": "T",
           "position": 104
         },
         {
-          "text": "T: Ordret »fyldes af«.",
+          "text": "Ordret »fyldes af«.",
+          "type": "T",
           "position": 125
         }
       ],
@@ -141,7 +149,8 @@
       "text": "\fJHVH deres Gud skal frelse dem på den dag\fsom sit folks hjord,\ffor de er som ædle sten,\fder funkler over hans land.",
       "footnotes": [
         {
-          "text": "T: Ordret »en (konge)krones sten«.",
+          "text": "Ordret »en (konge)krones sten«.",
+          "type": "T",
           "position": 88
         }
       ],

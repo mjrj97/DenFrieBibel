@@ -50,7 +50,8 @@
       "text": "Et lille øjeblik forlod jeg dig, men i stor barmhjertighed vil jeg samle dig.",
       "footnotes": [
         {
-          "text": "T: Som hyrden samler sin hjord.",
+          "text": "Som hyrden samler sin hjord.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -61,7 +62,8 @@
       "text": "I overstrømmende vrede skjulte jeg et øjeblik mit ansigt for dig; men med evig, tilgivende kærlighed har jeg forbarmet mig over dig, siger din løskøber, JHVH.",
       "footnotes": [
         {
-          "text": "T: Traditionelt oversat: »nåde«.",
+          "text": "Traditionelt oversat: »nåde«.",
+          "type": "T",
           "position": 100
         }
       ],
@@ -77,7 +79,8 @@
       "text": "For bjergene kan flytte sig og højene vakle, men min tilgivende kærlighed skal ikke flytte sig fra dig, og min fredspagt skal ikke vakle, siger JHVH der forbarmer sig over dig.",
       "footnotes": [
         {
-          "text": "T: Traditionelt oversat: »nåde«.",
+          "text": "Traditionelt oversat: »nåde«.",
+          "type": "T",
           "position": 73
         }
       ],
@@ -88,7 +91,8 @@
       "text": "\fDu elendige, blæst omkuld af stormen! Du, der ikke er trøstet, se, jeg vil lægge dine byggesten i ædelt metal og lægge din grundvold med safirer.",
       "footnotes": [
         {
-          "text": "T: Teksten har: »Blyglans«",
+          "text": "Teksten har: »Blyglans«",
+          "type": "T",
           "position": 111
         }
       ],
@@ -99,7 +103,8 @@
       "text": "Og jeg vil lave dine murtinder af rubin og dine porte af ædelsten  og hele din ringmur af kostbare sten.",
       "footnotes": [
         {
-          "text": "T: Teksten har: »Karbunkelstene«",
+          "text": "Teksten har: »Karbunkelstene«",
+          "type": "T",
           "position": 66
         }
       ],

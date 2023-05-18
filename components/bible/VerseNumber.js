@@ -11,8 +11,7 @@ function VerseNumber({ number, onClick }) {
     return <button 
                 id={number}
                 onClick={handleClick}
-                className={ active ? "verseNumber verseNumber-dark ignore" : "verseNumber verseNumber-light ignore" }>
-                v{number}
+                className={ active ? "verseNumber verseNumber-dark ignore" : "verseNumber verseNumber-light ignore" }>v{number}
             </button>
 }
 

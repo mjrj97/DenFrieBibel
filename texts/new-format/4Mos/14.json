@@ -106,7 +106,8 @@
       "text": "JHVH er tålmodig og rig på nåde. Han tilgiver synder og overtrædelser, og han lader aldeles ikke den skyldige gå ustraffet, han er opmærksom på fædrenes synder hos børnene i tredje og fjerde generation.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sen til vrede«.",
+          "text": "Ordret: »sen til vrede«.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -128,7 +129,8 @@
       "text": "Men så sandt jeg lever, og at hele landet skal fyldes af JHVHs herlighed,",
       "footnotes": [
         {
-          "text": "T: således GT1871. Næsten alle moderne oversættelser vælger »jorden«, men i konteksten kan landet meget vel referere til Kana’an.",
+          "text": "således GT1871. Næsten alle moderne oversættelser vælger »jorden«, men i konteksten kan landet meget vel referere til Kana’an.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -255,7 +257,8 @@
       "text": "Da kom amalekitterne og kana’anæerne ned fra Bjerglandet hvor de boede, og de slog dem og knuste dem indtil Horma.",
       "footnotes": [
         {
-          "text": "T: Det navn fik stedet i eftertiden jf. kapitel 21,3.",
+          "text": "Det navn fik stedet i eftertiden jf. kapitel 21,3.",
+          "type": "T",
           "position": 114
         }
       ],

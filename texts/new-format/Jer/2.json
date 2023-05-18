@@ -50,7 +50,8 @@
       "text": "Og jeg førte jer ind i et frugtbart land for at I skulle spise af dets frugt og goder. Men da I kom derind, besmittede I mit land og gjorde min arv til noget afskyeligt.",
       "footnotes": [
         {
-          "text": "T: eller bare »ejendom«.",
+          "text": "eller bare »ejendom«.",
+          "type": "T",
           "position": 147
         }
       ],
@@ -112,11 +113,13 @@
       "text": "Og nu, hvad har du at gøre på vejen til Egypten for at drikke Shihors vand? Og hvad har du at gøre på vejen til Assyrien for at drikke flodens vand?",
       "footnotes": [
         {
-          "text": "T: d. e. Nilen, Jos. 13,8.",
+          "text": "d. e. Nilen, Jos. 13,8.",
+          "type": "T",
           "position": 69
         },
         {
-          "text": "T: Eufrats.",
+          "text": "Eufrats.",
+          "type": "T",
           "position": 142
         }
       ],
@@ -127,7 +130,8 @@
       "text": "Din ondskab skal tugte dig og dine frafald straffe dig: Vid da og se, at det er ondt og bittert at du har forladt JHVH din Gud, og at du ikke frygtede for mig, siger den herre, den Hærskarers JHVHv.",
       "footnotes": [
         {
-          "text": "E: Sidste del af verset er muligvis forvansket. Ordret står der i den masoretiske tekst »min rædsel er ikke over dig«, mens LXX har »Jeg fandt ikke behag i dig«. ESV foreslår »frygt for mig er ikke i dig«.",
+          "text": "Sidste del af verset er muligvis forvansket. Ordret står der i den masoretiske tekst »min rædsel er ikke over dig«, mens LXX har »Jeg fandt ikke behag i dig«. ESV foreslår »frygt for mig er ikke i dig«.",
+          "type": "E",
           "position": 158
         }
       ],
@@ -149,7 +153,8 @@
       "text": "For om du så vaskede dig med lud og brugte meget sæbe, så pletter dine ugerninger dig dog for mit ansigt, siger den herre JHVH.",
       "footnotes": [
         {
-          "text": "T: natron.",
+          "text": "natron.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -205,7 +210,8 @@
       "text": "Mon en jomfru glemmer sin pynt, en brud sine bånd? Men mit folk har glemt mig i utallige dage.",
       "footnotes": [
         {
-          "text": "T: Ordret »brystbånd« eller »bælte«.",
+          "text": "Ordret »brystbånd« eller »bælte«.",
+          "type": "T",
           "position": 49
         }
       ],

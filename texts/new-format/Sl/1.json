@@ -29,7 +29,8 @@
       "text": "\t\t\t\tmen som tværtimod har behag i JHVHs lov,\f\t\t\t\t\tog som grunder på hans lov dag og nat.",
       "footnotes": [
         {
-          "text": "N: lov",
+          "text": "lov",
+          "type": "N",
           "position": 44
         }
       ],

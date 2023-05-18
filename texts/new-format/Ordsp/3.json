@@ -23,11 +23,13 @@
       "text": "Hold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra dens herre/ejer«, altså: »fra dem som den tilkommer«.",
+          "text": "Ordret: »fra dens herre/ejer«, altså: »fra dem som den tilkommer«.",
+          "type": "T",
           "position": 60
         },
         {
-          "text": "T: Ordret: »magt«.",
+          "text": "Ordret: »magt«.",
+          "type": "T",
           "position": 87
         }
       ],
@@ -68,7 +70,8 @@
       "text": "Mens han vil spotte spotterne, vil han vise de ydmyge gunst.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske konsonanttekst skal oversættes: »de undertrykte«, men vokaliseringen forudsætter: »de ydmyge«.",
+          "text": "Den hebraiske konsonanttekst skal oversættes: »de undertrykte«, men vokaliseringen forudsætter: »de ydmyge«.",
+          "type": "E",
           "position": 53
         }
       ],
@@ -79,7 +82,8 @@
       "text": "De vise skal arve ære, men skam ophøjer tåber.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske formulering er omdiskuteret. Ofte oversættes: »men tåberne ophøjer skam«, men grundtekstens verbum står i singularis, hvorved »skam« må være subjekt.",
+          "text": "Den hebraiske formulering er omdiskuteret. Ofte oversættes: »men tåberne ophøjer skam«, men grundtekstens verbum står i singularis, hvorved »skam« må være subjekt.",
+          "type": "E",
           "position": 46
         }
       ],

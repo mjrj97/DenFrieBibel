@@ -23,7 +23,8 @@
       "text": "Hele jorden havde fælles sprog og ord.",
       "footnotes": [
         {
-          "text": "E: Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.",
+          "text": "Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.",
+          "type": "E",
           "position": 38
         }
       ],
@@ -34,7 +35,8 @@
       "text": "Da de rejste mod øst, fandt de en slette i landet Sinear og slog sig ned der.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »fra«.",
+          "text": "Kan også oversættes: »fra«.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -45,7 +47,8 @@
       "text": "Så sagde de til hinanden: »Kom nu, lad os stryge teglsten og brænde dem hårdt.« De brugte tegl som mursten og tjære som mørtel.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hver især til sin fælle«.",
+          "text": "Ordret: »hver især til sin fælle«.",
+          "type": "T",
           "position": 25
         }
       ],

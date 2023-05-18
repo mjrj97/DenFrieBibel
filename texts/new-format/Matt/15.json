@@ -24,7 +24,8 @@
       "title": "Om rent og urent",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 35
         }
       ],
@@ -35,7 +36,8 @@
       "text": "»Hvorfor overtræder dine disciple de gamles overlevering? For de vasker ikke deres hænder, når de spiser.«",
       "footnotes": [
         {
-          "text": "E: Der er tænkt på en rituel vask af hænderne før måltidet",
+          "text": "Der er tænkt på en rituel vask af hænderne før måltidet",
+          "type": "E",
           "position": 105
         }
       ],
@@ -61,7 +63,8 @@
       "text": "han behøver ikke at ære sin far, og I sætter Guds ord ud af kraft på grund af jeres overlevering. Hyklere! Hvor rigtigt har Esajas profeteret om jer:",
       "footnotes": [
         {
-          "text": "T: Es 29,13",
+          "text": "Es 29,13",
+          "type": "T",
           "position": 148
         }
       ],
@@ -97,7 +100,8 @@
       "text": "Lad dem være, de er blinde vejledere for blinde, og når en blind leder en blind, falder de begge i grøften.«",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »Lad det ske«",
+          "text": "Kan også oversættes: »Lad det ske«",
+          "type": "T",
           "position": 13
         }
       ],

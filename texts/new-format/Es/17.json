@@ -34,7 +34,8 @@
       "text": "\fOg fæstning forsvinder fra Efraim \fog kongedømme fra Damaskus \fog fra resten af Aram; \fde skal blive som Israels børns herlighed, \fsiger Hærskarers HERRE.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 155
         }
       ],
@@ -65,7 +66,8 @@
       "text": "Og det skal ikke se hen til altrene, dets hænders værk; og det dets fingre har lavet, skal det ikke se på, hverken Ashera-pælene eller røgelsesaltrene.",
       "footnotes": [
         {
-          "text": "T: Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med »røgelsesalter«. Andre foreslår: »sol-søjler«.",
+          "text": "Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med »røgelsesalter«. Andre foreslår: »sol-søjler«.",
+          "type": "T",
           "position": 151
         }
       ],
@@ -76,7 +78,8 @@
       "text": "På den dag skal dets stærke byer blive som de forladte skove og bjergtoppen, som de har forladt på grund af Israels børn, og der skal blive ørken.",
       "footnotes": [
         {
-          "text": "E: Hebraisk: *kaʕᵃzûvat haḥōreš wᵊhāʔāmîr*. Mange vælger her at følge Septuaginta der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: »som hivvitternes og amoritternes byer«.",
+          "text": "Hebraisk: *kaʕᵃzûvat haḥōreš wᵊhāʔāmîr*. Mange vælger her at følge Septuaginta der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: »som hivvitternes og amoritternes byer«.",
+          "type": "E",
           "position": 76
         }
       ],
@@ -87,7 +90,8 @@
       "text": "\fFor du har glemt din frelses Gud \fog ikke husket på din styrkes klippe; \fderfor planter du skønheders planter \fog sætter en fremmeds vinranker.",
       "footnotes": [
         {
-          "text": "E: I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.",
+          "text": "I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.",
+          "type": "E",
           "position": 102
         }
       ],
@@ -98,7 +102,8 @@
       "text": "\fDen dag du planter, sætter du hegn omkring, \fog om morgenen får du din plantning til at blomstre; \fmen flygtet er høsten på en dag med sygdom\fog ulægelig smerte.",
       "footnotes": [
         {
-          "text": "E: Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: »dæmning«. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: »er flygtet«.",
+          "text": "Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: »dæmning«. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: »er flygtet«.",
+          "type": "E",
           "position": 111
         }
       ],
@@ -115,15 +120,18 @@
       "text": "\fFolkeslag buldrer som mange vandes buldren, \fmen han truer det \fså det flygter langt bort; \fdet jages som avner på bjergene af vind \fog som en kugletidsel af hvirvelvind.",
       "footnotes": [
         {
-          "text": "E: Denne sætning mangler i mange håndskrifter.",
+          "text": "Denne sætning mangler i mange håndskrifter.",
+          "type": "E",
           "position": 44
         },
         {
-          "text": "T: Teksten her og i det følgende står i singularis, så det må henvise til Assur.",
+          "text": "Teksten her og i det følgende står i singularis, så det må henvise til Assur.",
+          "type": "T",
           "position": 63
         },
         {
-          "text": "T: Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: »hjul«, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.",
+          "text": "Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: »hjul«, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.",
+          "type": "T",
           "position": 155
         }
       ],

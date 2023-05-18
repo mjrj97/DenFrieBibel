@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -46,11 +47,13 @@
       "text": "\fMå han huske alle dine afgrødeofre\fog finde velbehag i dit brændoffer! Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »erklære for fedt«.",
+          "text": "Ordret: »erklære for fedt«.",
+          "type": "T",
           "position": 53
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 76
         }
       ],
@@ -66,7 +69,8 @@
       "text": "\fSå vil vi juble over din frelse\fog løfte banner i vor Guds navn;\fmå JHVH opfylde alle dine bønner!",
       "footnotes": [
         {
-          "text": "T: Verset kunne også oversættes som en del af bønnen: »Må vi juble over din frelse og i vor Guds navn løfte banner!«.",
+          "text": "Verset kunne også oversættes som en del af bønnen: »Må vi juble over din frelse og i vor Guds navn løfte banner!«.",
+          "type": "T",
           "position": 65
         }
       ],
@@ -83,7 +87,8 @@
       "text": "\fNogle stoler på vogne og nogle på heste,\fmen vi, vi stoler på JHVH vor Guds navn.",
       "footnotes": [
         {
-          "text": "T: Ordret: »nogle på vogne og nogle på heste«. Verbet »stole på« må suppleres fra andet halvvers.",
+          "text": "Ordret: »nogle på vogne og nogle på heste«. Verbet »stole på« må suppleres fra andet halvvers.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -94,7 +99,8 @@
       "text": "\fDe styrter og falder,\fmen vi, vi rejser os og holder os oprejste.",
       "footnotes": [
         {
-          "text": "T: Versets verber i perfektiv kunne oversættes ved fortid, men de skal udtrykke det der er Israels erfaring, og som derfor gælder både nutid og fremtid.",
+          "text": "Versets verber i perfektiv kunne oversættes ved fortid, men de skal udtrykke det der er Israels erfaring, og som derfor gælder både nutid og fremtid.",
+          "type": "T",
           "position": 22
         }
       ],
@@ -106,7 +112,8 @@
       "title": "Afsluttende bøn",
       "footnotes": [
         {
-          "text": "E: I grundteksten står den skillende accent under versets andet ord så der egentlig skal oversættes: »JHVHv, frels!/(Måtte) kongen svare os, den dag vi råber!« Både indhold og rytme taler dog for, at accenten skal stå under tredje ord som forudsat her.",
+          "text": "I grundteksten står den skillende accent under versets andet ord så der egentlig skal oversættes: »JHVHv, frels!/(Måtte) kongen svare os, den dag vi råber!« Både indhold og rytme taler dog for, at accenten skal stå under tredje ord som forudsat her.",
+          "type": "E",
           "position": 21
         }
       ],

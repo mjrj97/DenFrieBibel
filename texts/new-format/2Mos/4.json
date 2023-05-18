@@ -24,7 +24,8 @@
       "title": "Fortsat instruktion til Moses",
       "footnotes": [
         {
-          "text": "T: I en del oversættelser indledes Moses’ svar med: »hvad nu, hvis …« eller lignende. Men det er næppe en dækkende oversættelse af det hebraiske *wᵊhēn* (»men se«). Meningen er formodentlig at Moses direkte modsiger det, Gud lige har sagt i 3,18.",
+          "text": "I en del oversættelser indledes Moses’ svar med: »hvad nu, hvis …« eller lignende. Men det er næppe en dækkende oversættelse af det hebraiske *wᵊhēn* (»men se«). Meningen er formodentlig at Moses direkte modsiger det, Gud lige har sagt i 3,18.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -55,7 +56,8 @@
       "text": "JHVH sagde endvidere til ham: »Stik nu hånden ind i din brystfold.« Han stak sin hånd i sin brystfold, og han tog den ud, men se, hans hånd var spedalsk som sne.",
       "footnotes": [
         {
-          "text": "T: Ofte oversat: »på dit bryst«. Men det hebraiske ord (*ḥêq*) er nærmere en betegnelse for klædningens brystfold, hvor man kunne opbevare værdigenstande, og mange gik også med hænderne i brystfolden.",
+          "text": "Ofte oversat: »på dit bryst«. Men det hebraiske ord (*ḥêq*) er nærmere en betegnelse for klædningens brystfold, hvor man kunne opbevare værdigenstande, og mange gik også med hænderne i brystfolden.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -66,7 +68,8 @@
       "text": "Men han sagde: »Stik din hånd i brystfolden igen.« Og han stak igen hånden i brystfolden. Og han trak den ud af brystfolden, og se, da var den igen blevet som hans hud.",
       "footnotes": [
         {
-          "text": "T: Ordret: »kød«.",
+          "text": "Ordret: »kød«.",
+          "type": "T",
           "position": 168
         }
       ],
@@ -77,11 +80,13 @@
       "text": "»Men hvis de ikke vil tro dig eller adlyde dig ved det første tegn, så vil de tro dig ved det sidste tegn.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Og det skal ske«",
+          "text": "Ordret: »Og det skal ske«",
+          "type": "T",
           "position": 4
         },
         {
-          "text": "T: Ordret: »din røst« i dette og næste vers.",
+          "text": "Ordret: »din røst« i dette og næste vers.",
+          "type": "T",
           "position": 46
         }
       ],
@@ -92,7 +97,8 @@
       "text": "Og hvis de end ikke vil tro disse to tegn og ikke adlyder dig, så skal du tage af Nilens vand og øse det ud på den tørre jord; så bliver det vand, som du tager fra Nilen, så bliver det til blod på den tørre jord.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Og det skal ske«",
+          "text": "Ordret: »Og det skal ske«",
+          "type": "T",
           "position": 2
         }
       ],
@@ -109,7 +115,8 @@
       "text": "Da sagde JHVH til ham: »Hvem har givet mennesket mund? Eller hvem gør stum eller døv eller seende eller blind? Mon ikke jeg, JHVH?",
       "footnotes": [
         {
-          "text": "T: Ordret: »anbragt på«.",
+          "text": "Ordret: »anbragt på«.",
+          "type": "T",
           "position": 38
         }
       ],
@@ -125,7 +132,8 @@
       "text": "Men han sagde: »Tillad mig, Herre! Send bud ved den som du vil sende.«",
       "footnotes": [
         {
-          "text": "E: Meningen med sætningen er omdiskuteret. Oftest er den opfattet som afslag fra Moses’ side og frit oversat: »send dog en anden!« En anden mulighed er at Moses i virkeligheden accepterer sendelsen, men så præciserer at det er på Guds ansvar.",
+          "text": "Meningen med sætningen er omdiskuteret. Oftest er den opfattet som afslag fra Moses’ side og frit oversat: »send dog en anden!« En anden mulighed er at Moses i virkeligheden accepterer sendelsen, men så præciserer at det er på Guds ansvar.",
+          "type": "E",
           "position": 70
         }
       ],
@@ -136,7 +144,8 @@
       "text": "Da flammede JHVHs vrede op mod Moses, og han sagde: »Er der ikke Aron, din bror, levitten? Jeg ved at han er dygtig til at tale. Og se, han på vej ud for at møde dig, og når han ser dig, vil han glæde sig i sit hjerte.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *dbr* (»tale«) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *dbr* (»tale«) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 128
         }
       ],
@@ -152,7 +161,8 @@
       "text": "Han skal tale for dig til folket, han skal være mund for dig, og du skal være gud for ham.",
       "footnotes": [
         {
-          "text": "T: Ordret: »og det skal ske at han«.",
+          "text": "Ordret: »og det skal ske at han«.",
+          "type": "T",
           "position": 37
         }
       ],
@@ -169,7 +179,8 @@
       "title": "Moses vender tilbage til Egypten",
       "footnotes": [
         {
-          "text": "T: Navnet her må betragtes som en grammatisk variant af *Jetro*, som han kaldes anden gang i samme vers.",
+          "text": "Navnet her må betragtes som en grammatisk variant af *Jetro*, som han kaldes anden gang i samme vers.",
+          "type": "T",
           "position": 33
         }
       ],
@@ -185,7 +196,8 @@
       "text": "Så tog Moses sin hustru og sine sønner og lod dem ride på et æsel, og han vendte tilbage til Egyptens land, og Moses tog Guds stav i sin hånd.",
       "footnotes": [
         {
-          "text": "E: I vers 25 er der kun tale om én søn, ligesom der i det foregående kun er nævnt én søn, Gershom (2,22). Det er dog muligt at begge de to sønner der er nævnt i 18,3-4, allerede var født. En anden mulighed er at der er tale om afskriverfejl, så der skulle stå: *bᵊnô* (»sin søn«)i stedet for: *bānāʸw* (»sine sønner«). Alle håndskrifter støtter dog det sidste.",
+          "text": "I vers 25 er der kun tale om én søn, ligesom der i det foregående kun er nævnt én søn, Gershom (2,22). Det er dog muligt at begge de to sønner der er nævnt i 18,3-4, allerede var født. En anden mulighed er at der er tale om afskriverfejl, så der skulle stå: *bᵊnô* (»sin søn«)i stedet for: *bānāʸw* (»sine sønner«). Alle håndskrifter støtter dog det sidste.",
+          "type": "E",
           "position": 38
         }
       ],
@@ -212,7 +224,8 @@
       "title": "Blodbrudgom",
       "footnotes": [
         {
-          "text": "E: Moses’ navn er ikke nævnt i dette lille afsnit, men ud fra sammenhængen går man ud fra at det er Moses der blev overfaldet. Han var ansvarlig for sønnens omskærelse. En anden mulighed er dog at det er Moses’ førstefødte, Gershom.",
+          "text": "Moses’ navn er ikke nævnt i dette lille afsnit, men ud fra sammenhængen går man ud fra at det er Moses der blev overfaldet. Han var ansvarlig for sønnens omskærelse. En anden mulighed er dog at det er Moses’ førstefødte, Gershom.",
+          "type": "E",
           "position": 28
         }
       ],
@@ -223,7 +236,8 @@
       "text": "Da tog Sippora en flintesten og skar sin søns forhud af og lod den berøre hans fødder, og hun sagde: »Du er mig en blodbrudgom.«",
       "footnotes": [
         {
-          "text": "T: Oversættelsen og forståelsen er omdiskuteret. Meningen er enten at Sippora berørte sønnens fødder med forhuden og kaldte ham sin »blodbrudgom«, eller (nærmere) at hun berørte Moses’ fødder med sønnens forhud for derved at tilkendegive at sønnens omskærelse og blod skulle redde Moses; og derved blev Moses hendes »blodbrudgom«. En tredje (måske mindre sandsynlig) mulighed er at hun kalder Gud for sin egen »blodbrudgom«, idet sønnen ved omskærelsen blev adopteret af Gud, og at hun som hans mor så må være Guds brud, der nu også får del i pagtens velsignelse. Andre oversættere forstår *raglāʸw* (»fødder«) som eufemisme for kønsdele og oversætter: »hun berørte hans kønsdele«. Denne oversættelse modsiges dog af at verbet står i hif’il og bør oversættes: »lod berøre«.",
+          "text": "Oversættelsen og forståelsen er omdiskuteret. Meningen er enten at Sippora berørte sønnens fødder med forhuden og kaldte ham sin »blodbrudgom«, eller (nærmere) at hun berørte Moses’ fødder med sønnens forhud for derved at tilkendegive at sønnens omskærelse og blod skulle redde Moses; og derved blev Moses hendes »blodbrudgom«. En tredje (måske mindre sandsynlig) mulighed er at hun kalder Gud for sin egen »blodbrudgom«, idet sønnen ved omskærelsen blev adopteret af Gud, og at hun som hans mor så må være Guds brud, der nu også får del i pagtens velsignelse. Andre oversættere forstår *raglāʸw* (»fødder«) som eufemisme for kønsdele og oversætter: »hun berørte hans kønsdele«. Denne oversættelse modsiges dog af at verbet står i hif’il og bør oversættes: »lod berøre«.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -250,7 +264,8 @@
       "text": "Så gik Moses og Aron, og de samlede alle Israels børns ældste.",
       "footnotes": [
         {
-          "text": "T: Verbet her står i singularis modsat verbet i anden halvdel af verset. Men meningen må være at de begge gik.",
+          "text": "Verbet her står i singularis modsat verbet i anden halvdel af verset. Men meningen må være at de begge gik.",
+          "type": "T",
           "position": 6
         }
       ],

@@ -71,7 +71,8 @@
       "text": "I den anden måned på den 14. dag ved tusmørket, skal de holde den. De skal spise det med usyret brød og bitre urter.",
       "footnotes": [
         {
-          "text": "T: Nemlig påskelammet.",
+          "text": "Nemlig påskelammet.",
+          "type": "T",
           "position": 84
         }
       ],

@@ -24,15 +24,18 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "T: Formodentlig et musikudtryk (evt. en melodiangivelse) af ukendt betydning. Ordret evt.: »Efter stumhedens due, de fjerne/blandt de fjerne«.",
+          "text": "Formodentlig et musikudtryk (evt. en melodiangivelse) af ukendt betydning. Ordret evt.: »Efter stumhedens due, de fjerne/blandt de fjerne«.",
+          "type": "T",
           "position": 38
         },
         {
-          "text": "T: Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 57-60) fastholde en alvorlig situation i folkets erindring.",
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 57-60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -44,7 +47,8 @@
       "title": "Klagende bøn",
       "footnotes": [
         {
-          "text": "T: »menneske« kan her evt. være ment kollektivt: »mennesker«.",
+          "text": "»menneske« kan her evt. være ment kollektivt: »mennesker«.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -55,7 +59,8 @@
       "text": "\fMine fjender efterstræber mig hele dagen,\ffor mange fører krig imod mig i hovmod.",
       "footnotes": [
         {
-          "text": "T: *mārôm* betyder »det høje/ophøjede«, men oversættes her ofte »i hovmod«. Andre tager det som indledning til v. 4: »du Højeste!«.",
+          "text": "*mārôm* betyder »det høje/ophøjede«, men oversættes her ofte »i hovmod«. Andre tager det som indledning til v. 4: »du Højeste!«.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -72,7 +77,8 @@
       "text": "\fVed Guds hjælp vil jeg prise hans ord.\fJeg har stolet på Gud, jeg skal ikke frygte;\fhvad kan kød gøre mig?",
       "footnotes": [
         {
-          "text": "E: Her brugt som betegnelse for et svagt, dødeligt menneske.",
+          "text": "Her brugt som betegnelse for et svagt, dødeligt menneske.",
+          "type": "E",
           "position": 97
         }
       ],
@@ -89,11 +95,13 @@
       "text": "\fDe angriber, de lurer,\fde vogter på mine hæle,\fligesom de har tragtet efter min sjæl.",
       "footnotes": [
         {
-          "text": "E: Udtrykket har dobbelt brod: Dels vogter fjenderne på salmistens skridt, og dels lurer de som slanger der hugger i hælen.",
+          "text": "Udtrykket har dobbelt brod: Dels vogter fjenderne på salmistens skridt, og dels lurer de som slanger der hugger i hælen.",
+          "type": "E",
           "position": 47
         },
         {
-          "text": "T: Formodentlig i betydningen: »mit liv«.",
+          "text": "Formodentlig i betydningen: »mit liv«.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -110,11 +118,13 @@
       "title": "Vished om hjælp og omsorg",
       "footnotes": [
         {
-          "text": "E: Andre oversætter: »landflygtighed«. Ordet *nōd* optræder i GT kun her og i stednavnet »Nod« (1 Mos 4,16) som stedet her spiller på.",
+          "text": "Andre oversætter: »landflygtighed«. Ordet *nōd* optræder i GT kun her og i stednavnet »Nod« (1 Mos 4,16) som stedet her spiller på.",
+          "type": "E",
           "position": 32
         },
         {
-          "text": "E: Accenten på første stavelse i *śîmāʰ* angiver at ordet er imperativ. Hvis den flyttes til anden stavelse, er det part.fem.: »min tåre er anbragt …«.",
+          "text": "Accenten på første stavelse i *śîmāʰ* angiver at ordet er imperativ. Hvis den flyttes til anden stavelse, er det part.fem.: »min tåre er anbragt …«.",
+          "type": "E",
           "position": 40
         }
       ],
@@ -130,7 +140,8 @@
       "text": "\fVed Guds hjælp vil jeg prise et ord;\fved JHVHs hjælp vil jeg prise et ord.",
       "footnotes": [
         {
-          "text": "E: Meningen er omdiskuteret. Mange oversættere går ud fra at: *dāvār* (»et ord«) skal læses som: *dᵊvārô*: »›hans ord«, hvor »ord« er forstået som et nådesord. Andre oversætter lidt friere: »På Gud, hvis ord jeg vil prise, / på JHVH, hvis ord jeg vil prise, / på Gud har jeg stolet, jeg skal ikke frygte. / Hvad kan et menneske gøre mig?«",
+          "text": "Meningen er omdiskuteret. Mange oversættere går ud fra at: *dāvār* (»et ord«) skal læses som: *dᵊvārô*: »›hans ord«, hvor »ord« er forstået som et nådesord. Andre oversætter lidt friere: »På Gud, hvis ord jeg vil prise, / på JHVH, hvis ord jeg vil prise, / på Gud har jeg stolet, jeg skal ikke frygte. / Hvad kan et menneske gøre mig?«",
+          "type": "E",
           "position": 75
         }
       ],
@@ -152,11 +163,13 @@
       "text": "\fFor du befriede min sjæl fra døden,\fja, mine fødder fra fald,\fså jeg kan vandre for Guds ansigt\fi livets lys.",
       "footnotes": [
         {
-          "text": "T: Ordret: »mon ikke mine fødder fra fald?«",
+          "text": "Ordret: »mon ikke mine fødder fra fald?«",
+          "type": "T",
           "position": 39
         },
         {
-          "text": "T: Kan også oversættes: »de levendes lys«.",
+          "text": "Kan også oversættes: »de levendes lys«.",
+          "type": "T",
           "position": 105
         }
       ],

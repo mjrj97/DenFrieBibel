@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+          "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+          "type": "E",
           "position": 27
         }
       ],
@@ -40,11 +42,13 @@
       "title": "Tak",
       "footnotes": [
         {
-          "text": "E: I stedet for: *wᵊqārôv šᵊmexā* (»og dit navn er nært«) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: »og den der påkalder dit navn, (fortæller om dine undere)«. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: »og vi påkalder dit navn«.",
+          "text": "I stedet for: *wᵊqārôv šᵊmexā* (»og dit navn er nært«) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: »og den der påkalder dit navn, (fortæller om dine undere)«. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: »og vi påkalder dit navn«.",
+          "type": "E",
           "position": 52
         },
         {
-          "text": "T: Kan også oversættes: »de/man fortæller om dine undere«.",
+          "text": "Kan også oversættes: »de/man fortæller om dine undere«.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -61,15 +65,18 @@
       "text": "\fLad jorden og alle dens beboere ryste,\fjeg har dog selv sat dens søjler på plads«. Sela\f@Kaldet til omvendelse@",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »Når«.",
+          "text": "Kan også oversættes: »Når«.",
+          "type": "T",
           "position": 4
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 88
         },
         {
-          "text": "E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.",
+          "text": "Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.",
+          "type": "E",
           "position": 111
         }
       ],
@@ -81,7 +88,8 @@
       "title": "Kaldet til omvendelse{E: Nogle kommentatorer og oversættere lader Guds tale fortsætte med v.5 eller v.5-6 eller (enkelte) v.5-8. Meningsmæssigt gør det ikke nævneværdig forskel, men »Sela« (v.4) markerer oftest afrunding af et afsnit.}",
       "footnotes": [
         {
-          "text": "T: Formodentlig er der især tænkt på gudløse.",
+          "text": "Formodentlig er der især tænkt på gudløse.",
+          "type": "T",
           "position": 28
         }
       ],
@@ -92,7 +100,8 @@
       "text": "\fLøft ikke jeres horn mod det høje,\ftal ikke frækt med knejsende nakke!«",
       "footnotes": [
         {
-          "text": "T: »ikke« står ikke her i grundteksten, men dækkes af »ikke« i første linje i dette dobbelte udsagn.",
+          "text": "»ikke« står ikke her i grundteksten, men dækkes af »ikke« i første linje i dette dobbelte udsagn.",
+          "type": "T",
           "position": 44
         }
       ],
@@ -103,15 +112,18 @@
       "text": "\fFor ikke fra øst eller fra vest,\fog heller ikke fra ørken er der ophøjelse.",
       "footnotes": [
         {
-          "text": "T: Ordret: »opgang«.",
+          "text": "Ordret: »opgang«.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: Ordret: »undergang«.",
+          "text": "Ordret: »undergang«.",
+          "type": "T",
           "position": 33
         },
         {
-          "text": "E: Grundteksten har: »fra ørkenens bjerge«, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (»bjerge«) opfattes så bedre som infinitiv hif’il af verbet *rwm*: »ophøje/ophøjelse«.",
+          "text": "Grundteksten har: »fra ørkenens bjerge«, idet *mimmidbar* er vokaliseret som status constructus (genitiv). Mange håndskrifter har dog vokaliseret som status absolutus: *mimmidbār*. Det efterfølgende ord: *hārîm* (»bjerge«) opfattes så bedre som infinitiv hif’il af verbet *rwm*: »ophøje/ophøjelse«.",
+          "type": "E",
           "position": 76
         }
       ],

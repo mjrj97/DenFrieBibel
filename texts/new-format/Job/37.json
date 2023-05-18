@@ -24,7 +24,8 @@
       "title": "Elihu taler om Guds herlige gerninger",
       "footnotes": [
         {
-          "text": "T: Ordret: »springer op fra sit sted«.",
+          "text": "Ordret: »springer op fra sit sted«.",
+          "type": "T",
           "position": 68
         }
       ],
@@ -35,11 +36,13 @@
       "text": "\t\tHør godt efter lyden af bragene\t\t\t\tog den rumlen der udgår af hans mund.",
       "footnotes": [
         {
-          "text": "E: hebraisk *rōgez* bruges ellers i Job om ugudeliges raseri og den lidendes uro (3,17.26; 14,1; 39,24).",
+          "text": "hebraisk *rōgez* bruges ellers i Job om ugudeliges raseri og den lidendes uro (3,17.26; 14,1; 39,24).",
+          "type": "E",
           "position": 33
         },
         {
-          "text": "E: Verbet *hgh* bruges om mumlen under højtlæsning i Sl 1,2.",
+          "text": "Verbet *hgh* bruges om mumlen under højtlæsning i Sl 1,2.",
+          "type": "E",
           "position": 50
         }
       ],
@@ -70,7 +73,8 @@
       "text": "\t\t\t\t\t\t\t\t\t\tHan afsætter sit rullesegl på hver mands hånd\t\t\t\t\t\t\t\t\t\t\tfor at alle hans skaberværks mennesker kan forstå det.",
       "footnotes": [
         {
-          "text": "T: Billedet bruges allerede i Job 33,16 om forsegling af advarsler.",
+          "text": "Billedet bruges allerede i Job 33,16 om forsegling af advarsler.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -101,7 +105,8 @@
       "text": "\t\t\t\t\t\t\t\t\t\t\tog hele denne cyklus følger naturens love,\t\t\t\t\t\t\t\t\t\t\t\tfor at den kan udføre\t\t\t\t\t\t\t\t\t\t\t\t\t\talt\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thvad han befaler\t\t\t\t\t\t\t\t\t\t\t\t\tfor hele jordens verden,",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er et forsøg på at gengive en meteorologisk vanskelig beskrivelse: *wᵊhûˀ mᵊsibbôt mithappēx vᵊtaḥbûlōtāʸw »og denne runde bliver ved med at bevæge sig frem og tilbage efter dens love«.",
+          "text": "Oversættelsen er et forsøg på at gengive en meteorologisk vanskelig beskrivelse: *wᵊhûˀ mᵊsibbôt mithappēx vᵊtaḥbûlōtāʸw »og denne runde bliver ved med at bevæge sig frem og tilbage efter dens love«.",
+          "type": "E",
           "position": 53
         }
       ],
@@ -142,7 +147,8 @@
       "text": "\t\t\tFortæl os:\t\t\t\t\t\thvad kan vi sige til ham?\t\t\t\t\tVi kan ikke rette vores tale til ham på grund af mørket.",
       "footnotes": [
         {
-          "text": "E: Verbet *ʕrx* betyder »arrangere, ordne, mønstre«, men bruges nok her i samme betydning som i Job 32,14 hvor objektet *millîn* »tale« er brugt.",
+          "text": "Verbet *ʕrx* betyder »arrangere, ordne, mønstre«, men bruges nok her i samme betydning som i Job 32,14 hvor objektet *millîn* »tale« er brugt.",
+          "type": "E",
           "position": 85
         }
       ],
@@ -173,7 +179,8 @@
       "text": "\t\t\t\t\t\tDerfor må mennesker tilbede ham i gudsfrygt,\t\t\t\t\t\t\than ser ikke til vise i egne tanker.«",
       "footnotes": [
         {
-          "text": "E: Hebraisk *kol-ḥaxmê-lēv* »alle de af hjerte vise« må være negativt ment; alternativt antages et retorisk spørgsmål: »ser han ikke til dem der er vise i hjertet?«",
+          "text": "Hebraisk *kol-ḥaxmê-lēv* »alle de af hjerte vise« må være negativt ment; alternativt antages et retorisk spørgsmål: »ser han ikke til dem der er vise i hjertet?«",
+          "type": "E",
           "position": 94
         }
       ],

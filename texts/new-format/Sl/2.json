@@ -28,11 +28,13 @@
       "title": "David profeterer om Messias' rige. Mennesker gør oprør imod JHVH og hans salvede, men det er forgæves og til deres egen ulykke",
       "footnotes": [
         {
-          "text": "T: *gôyim* oversættes ofte »hedninger« (også 1871), men parallellen viser at det her må opfattes bredere.",
+          "text": "*gôyim* oversættes ofte »hedninger« (også 1871), men parallellen viser at det her må opfattes bredere.",
+          "type": "T",
           "position": 24
         },
         {
-          "text": "T: *lāmmāʰ* (»hvorfor«) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.",
+          "text": "*lāmmāʰ* (»hvorfor«) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.",
+          "type": "T",
           "position": 50
         }
       ],
@@ -95,7 +97,8 @@
       "text": "\f\t\t\tKys sønnen\t\t\t\tså han ikke bliver vred\f\t\t\t\t\t\tog I omkommer på vejen;\f\t\t\t\t\tfor hans vrede optændes hastigt.\f\tSalig enhver\t\tsom søger tilflugt hos ham!",
       "footnotes": [
         {
-          "text": "E: Oftest flyttes nu ordene *naššᵊqû-var* (»kys sønnen«) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.",
+          "text": "Oftest flyttes nu ordene *naššᵊqû-var* (»kys sønnen«) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.",
+          "type": "E",
           "position": 14
         }
       ],

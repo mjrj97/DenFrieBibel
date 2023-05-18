@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fPå min ryg pløjede plovmænd,\fde trak deres furer lange.",
       "footnotes": [
         {
-          "text": "E: Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: »(plov)furer«.",
+          "text": "Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: »(plov)furer«.",
+          "type": "E",
           "position": 49
         }
       ],
@@ -58,7 +60,8 @@
       "title": "Tillid til Guds sejr",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: »Lad dem blive til skamme … Lad dem blive som græs …«.",
+          "text": "Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: »Lad dem blive til skamme … Lad dem blive som græs …«.",
+          "type": "E",
           "position": 14
         }
       ],
@@ -69,7 +72,8 @@
       "text": "\fDe skal blive som græs på tagene,\fsom er visnet før man har nået at rykke det op,",
       "footnotes": [
         {
-          "text": "E: Andre oversætter: »før det når at skyde op«. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (»som er visnet før man har nået at rykke det op«) til: *šeqqādim tišdōf*: »som østenvinden udtørrer«. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
+          "text": "Andre oversætter: »før det når at skyde op«. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (»som er visnet før man har nået at rykke det op«) til: *šeqqādim tišdōf*: »som østenvinden udtørrer«. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
+          "type": "E",
           "position": 82
         }
       ],

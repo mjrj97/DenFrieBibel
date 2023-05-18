@@ -30,7 +30,8 @@
       "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele til tyrekalven og to tiendedele til vædderen",
       "footnotes": [
         {
-          "text": "T: Her og i de følgende angivelser må »efa« være underforstået.",
+          "text": "Her og i de følgende angivelser må »efa« være underforstået.",
+          "type": "T",
           "position": 59
         }
       ],
@@ -57,7 +58,8 @@
       "title": "Forsoningsdagens ofre.",
       "footnotes": [
         {
-          "text": "T: Ordret: »ydmyge jeres sjæle«. 4 Mos 30,14.",
+          "text": "Ordret: »ydmyge jeres sjæle«. 4 Mos 30,14.",
+          "type": "T",
           "position": 100
         }
       ],
@@ -73,11 +75,13 @@
       "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele til tyren, to tiendedele til vædderen,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 59
         },
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 84
         }
       ],
@@ -88,7 +92,8 @@
       "text": "en tiendedel til hvert af de syv lam,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 12
         }
       ],
@@ -115,11 +120,13 @@
       "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele til hver af de 13 tyrekalve, to tiendedele til begge væddere",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 59
         },
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 102
         }
       ],
@@ -130,7 +137,8 @@
       "text": "og en tiendedel til hvert af de 14 lam,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 15
         }
       ],

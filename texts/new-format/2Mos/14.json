@@ -39,7 +39,8 @@
       "text": "Og jeg vil forhærde Faraos hjerte så han vil forfølge dem, og jeg vil forherlige mig på Farao og på hele hans hær. Så skal egypterne forstå at jeg er JHVH.« Og de gjorde sådan.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 132
         }
       ],
@@ -60,19 +61,23 @@
       "text": "Og han tog seks hundrede udvalgte vogne og alle andre vogne i Egypten og vognkæmpere på dem alle.",
       "footnotes": [
         {
-          "text": "E: Der er formodentlig tænkt på veludrustede stridsvogne.",
+          "text": "Der er formodentlig tænkt på veludrustede stridsvogne.",
+          "type": "E",
           "position": 39
         },
         {
-          "text": "T: Ordet *wᵊ* (»og«) kan i sammenhængen muligvis oversættes: »nemlig«. Derved undgår man også at skulle underforstå et »andre« (se næste note).",
+          "text": "Ordet *wᵊ* (»og«) kan i sammenhængen muligvis oversættes: »nemlig«. Derved undgår man også at skulle underforstå et »andre« (se næste note).",
+          "type": "T",
           "position": 42
         },
         {
-          "text": "T: Ordet »andre« er underforstået ud fra sammenhængen.",
+          "text": "Ordet »andre« er underforstået ud fra sammenhængen.",
+          "type": "T",
           "position": 53
         },
         {
-          "text": "T: Ordet *šāliš* betyder ordret: »3. mand«. Det er måske betegnelse for »adjudant« eller »officer«.",
+          "text": "Ordet *šāliš* betyder ordret: »3. mand«. Det er måske betegnelse for »adjudant« eller »officer«.",
+          "type": "T",
           "position": 84
         }
       ],
@@ -83,7 +88,8 @@
       "text": "JHVH forhærdede Egyptens kong Faraos hjerte så at han forfulgte Israels børn; men Israels børn drog ud med en løftet hånd.",
       "footnotes": [
         {
-          "text": "T: Udtrykket angiver styrke og uforfærdethed.",
+          "text": "Udtrykket angiver styrke og uforfærdethed.",
+          "type": "T",
           "position": 122
         }
       ],
@@ -94,7 +100,8 @@
       "text": "Så satte egypterne efter dem og indhentede dem, hvor de havde slået lejr ved havet – alle Faraos hestevogne og hans ryttere og hans hær – ved Pi-ha-Kirot ud for Ba’al-Sefon.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 18
         }
       ],
@@ -106,7 +113,8 @@
       "title": "Israelitternes frygt",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 72
         }
       ],
@@ -122,7 +130,8 @@
       "text": "Er det ikke det vi sagde til dig i Egypten, da vi sagde: ›Lad os være, vi vil trælle for egypterne. For det er os bedre for os at trælle for egypterne end at dø i ørkenen.‹«",
       "footnotes": [
         {
-          "text": "T: »Egypten«.",
+          "text": "»Egypten«.",
+          "type": "T",
           "position": 99
         }
       ],
@@ -133,7 +142,8 @@
       "text": "Da sagde Moses til folket: »Frygt ikke, træd frem og se JHVHs frelse, som han vil udføre for jer i dag; for som I skal se egypterne i dag, skal I ikke i evighed se dem igen.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 131
         }
       ],
@@ -160,11 +170,13 @@
       "text": "Men jeg, se: jeg vil forhærde egypternes hjerte så de følger efter dem; og jeg vil forherlige mig på Farao og på hele hans hær, på hans vogne og på hans ryttere.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egyptens«.",
+          "text": "Ordret: »Egyptens«.",
+          "type": "T",
           "position": 40
         },
         {
-          "text": "T: Ordret: »kommer«.",
+          "text": "Ordret: »kommer«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -175,7 +187,8 @@
       "text": "Egypterne skal forstå at jeg er JHVH, når jeg forherliger mig på Farao, på hans vogne og på hans ryttere.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 9
         }
       ],
@@ -192,7 +205,8 @@
       "text": "så den kom mellem Egyptens hær og Israels hær, og den var sky og mørke, men oplyste natten; den ene kom ikke den anden nær hele natten.",
       "footnotes": [
         {
-          "text": "E: Meningen er at der var mørke over egypterne, men lys hos israelitterne, jf. 9. plage.",
+          "text": "Meningen er at der var mørke over egypterne, men lys hos israelitterne, jf. 9. plage.",
+          "type": "E",
           "position": 91
         }
       ],
@@ -203,7 +217,8 @@
       "text": "Moses rakte sin hånd ud over havet, og JHVH drev havet væk ved en stærk østenstorm hele natten og gjorde havet til tørt land; og vandene skiltes ad.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fik til at gå (væk)«.",
+          "text": "Ordret: »fik til at gå (væk)«.",
+          "type": "T",
           "position": 58
         }
       ],
@@ -224,11 +239,13 @@
       "text": "Men det skete i morgenvagten at JHVH så ned til Egyptens hær gennem ildsøjlen og skyen, og han skabte forvirring i Egyptens hær,",
       "footnotes": [
         {
-          "text": "T: Ordret: »i«.",
+          "text": "Ordret: »i«.",
+          "type": "T",
           "position": 67
         },
         {
-          "text": "E: Det hebraiske ord indikerer også frygt og panik.",
+          "text": "Det hebraiske ord indikerer også frygt og panik.",
+          "type": "E",
           "position": 112
         }
       ],
@@ -239,15 +256,18 @@
       "text": "og han fjernede hjulene fra deres vogne og lod dem rykke frem med besvær. Da sagde egypterne: »Lad os flygte for Israel, for JHVH kæmper for dem mod Egypten.«",
       "footnotes": [
         {
-          "text": "T: Ordet *yāsar* betyder: »fjernede«. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå: *jæʔæsor*: »blokerede«. I konsonantteksten skal der blot indføjes et enkelt bogstav.",
+          "text": "Ordet *yāsar* betyder: »fjernede«. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå: *jæʔæsor*: »blokerede«. I konsonantteksten skal der blot indføjes et enkelt bogstav.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "T: Ordret: »da sagde Egypten«.",
+          "text": "Ordret: »da sagde Egypten«.",
+          "type": "T",
           "position": 93
         },
         {
-          "text": "T: Den hebraiske tekst har singularis, jf. foregående note.",
+          "text": "Den hebraiske tekst har singularis, jf. foregående note.",
+          "type": "T",
           "position": 101
         }
       ],
@@ -259,7 +279,8 @@
       "title": "Straffen over forfølgerne",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«. Således også: »over dets vogne og over dets ryttere«.",
+          "text": "Ordret: »Egypten«. Således også: »over dets vogne og over dets ryttere«.",
+          "type": "T",
           "position": 95
         }
       ],
@@ -285,11 +306,13 @@
       "text": "Sådan frelste JHVH Israel den dag fra egypternes hånd, og Israel så egypterne ligge døde ved havets bred.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egyptens«.",
+          "text": "Ordret: »Egyptens«.",
+          "type": "T",
           "position": 48
         },
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -300,7 +323,8 @@
       "text": "Israel så den stærke hånd som JHVH havde vist mod Egypten, og folket frygtede JHVH; og de troede på JHVH og på Moses, hans tjener.",
       "footnotes": [
         {
-          "text": "T: Ordret: »store«.",
+          "text": "Ordret: »store«.",
+          "type": "T",
           "position": 20
         }
       ],

@@ -33,7 +33,8 @@
       "text": "\f\t\tOg det skal ske i de sidste dage,\f\t\t\tat JHVHs tempelbjerg skal være grundfæstet på toppen af bjergene\f\t\t\t\t\tog være ophøjet over højene;\f\t\t\t\tog alle folkeslag skal strømme til det.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hus’ bjerg«.",
+          "text": "Ordret: »hus’ bjerg«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -49,7 +50,8 @@
       "text": "\f\t\t\t\t\t\t\t\tHan skal dømme imellem folkeslagene\f\t\t\t\t\t\t\t\t\t\t\tog holde rettergang over mange folk.\f\t\t\t\t\t\t\t\t\t\tOg de skal smede deres sværd om til hakker\f\t\t\t\t\t\t\t\t\t\t\tog deres spyd til vingårdsknive;\f\t\t\t\t\t\t\t\t\tfolkeslag skal ikke løfte sværd mod hinanden,\f\t\t\t\t\t\t\t\t\t\tog de skal ikke længere øve sig i krig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Et folk skal ikke løfte sværd mod et folk.«",
+          "text": "Ordret: »Et folk skal ikke løfte sværd mod et folk.«",
+          "type": "T",
           "position": 244
         }
       ],
@@ -66,11 +68,13 @@
       "title": "Straffen over de hovmodige",
       "footnotes": [
         {
-          "text": "E: Verset indledes af det hebraiske *kî*, der oftest oversættes med »for«, dvs. som indledning til en begrundelse. En anden mulighed er at oversætte det emfatisk, »sandelig…«",
+          "text": "Verset indledes af det hebraiske *kî*, der oftest oversættes med »for«, dvs. som indledning til en begrundelse. En anden mulighed er at oversætte det emfatisk, »sandelig…«",
+          "type": "E",
           "position": 41
         },
         {
-          "text": "T: Betydningen må være, at de ukritisk indoptager fremmed kultur i strid med Guds love.",
+          "text": "Betydningen må være, at de ukritisk indoptager fremmed kultur i strid med Guds love.",
+          "type": "T",
           "position": 157
         }
       ],
@@ -96,7 +100,8 @@
       "text": "\f\tGå ind i klippen,\t\t\t\tog gem dig i støvet\fi rædsel for JHVH og for hans majestæts herlighed.",
       "footnotes": [
         {
-          "text": "E: Ordret: »foran JHVHs rædsel«. Udtrykket handler ikke bare om den reaktion, JHVH vækker hos mennesker, men om en kvalitet hos JHVH selv. Se også v. 19 og 21.",
+          "text": "Ordret: »foran JHVHs rædsel«. Udtrykket handler ikke bare om den reaktion, JHVH vækker hos mennesker, men om en kvalitet hos JHVH selv. Se også v. 19 og 21.",
+          "type": "E",
           "position": 60
         }
       ],

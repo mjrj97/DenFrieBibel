@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 6
         },
         {
-          "text": "N: lov",
+          "text": "lov",
+          "type": "N",
           "position": 42
         }
       ],
@@ -40,7 +42,8 @@
       "title": " Asaf opmuntrer Guds folk til at agte på hans tale og undervisning",
       "footnotes": [
         {
-          "text": "E: I visdomslitteraturen betegner *māšol* korte sentenser, »ordsprog«, men her er det brugt i bredere betydning.",
+          "text": "I visdomslitteraturen betegner *māšol* korte sentenser, »ordsprog«, men her er det brugt i bredere betydning.",
+          "type": "E",
           "position": 38
         }
       ],
@@ -56,7 +59,8 @@
       "text": "\fdet vil vi ikke skjule for deres børn,\fidet vi fortæller den kommende slægt\fom JHVHs glorværdige gerninger og hans styrke,\fog de undere han har gjort.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sønner«, men i pluralis ligger vægten ikke ubetinget på kønnet.",
+          "text": "Ordret: »sønner«, men i pluralis ligger vægten ikke ubetinget på kønnet.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -72,7 +76,8 @@
       "text": "\ffor at den kommende slægt skulle lære den at kende,\fde børn som skulle fødes,\fså de indtrængende kunne fortælle det for deres børn.",
       "footnotes": [
         {
-          "text": "E: Ordret: »kunne rejse sig og fortælle«. Men verbet *qwm* (»rejse sig«) angiver foran et andet verbum, at man målbevidst og med styrke påtager sig noget.",
+          "text": "Ordret: »kunne rejse sig og fortælle«. Men verbet *qwm* (»rejse sig«) angiver foran et andet verbum, at man målbevidst og med styrke påtager sig noget.",
+          "type": "E",
           "position": 112
         }
       ],
@@ -94,7 +99,8 @@
       "title": "Fædrenes svigt og ulydighed",
       "footnotes": [
         {
-          "text": "E: Grundteksten har en unik dobbelt konstrukt-konstruktion (genitiv-konstruktion) der egentlig ikke kan oversættes (det måtte være: »buebevæbnede bueskytter«). Konstruktionen skal formodentlig gøre det ud for en superlativ: »veludrustede bueskytter«.",
+          "text": "Grundteksten har en unik dobbelt konstrukt-konstruktion (genitiv-konstruktion) der egentlig ikke kan oversættes (det måtte være: »buebevæbnede bueskytter«). Konstruktionen skal formodentlig gøre det ud for en superlativ: »veludrustede bueskytter«.",
+          "type": "E",
           "position": 44
         }
       ],
@@ -125,7 +131,8 @@
       "text": "\fHan ledte dem ved skyen om dagen\fog hele natten ved flammende lys.",
       "footnotes": [
         {
-          "text": "T: Ordret: »ilds lys«.",
+          "text": "Ordret: »ilds lys«.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -151,7 +158,8 @@
       "text": "\fOg de fristede Gud i deres hjerte,\fså de fordrede den mad de begærede.",
       "footnotes": [
         {
-          "text": "T: Ordret: »efter deres sjæl«.",
+          "text": "Ordret: »efter deres sjæl«.",
+          "type": "T",
           "position": 71
         }
       ],
@@ -192,15 +200,18 @@
       "text": "\fEt menneske spiste de stærkes brød,\fhan sendte dem føde så de blev mætte.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »enhver«.",
+          "text": "Kan også oversættes: »enhver«.",
+          "type": "T",
           "position": 12
         },
         {
-          "text": "T: Der er tænkt på det himmelske hof. Derfor oversætter mange: »englenes«.",
+          "text": "Der er tænkt på det himmelske hof. Derfor oversætter mange: »englenes«.",
+          "type": "T",
           "position": 30
         },
         {
-          "text": "T: Ordret: »til mættelse«.",
+          "text": "Ordret: »til mættelse«.",
+          "type": "T",
           "position": 74
         }
       ],
@@ -221,11 +232,13 @@
       "text": "\fOg han lod dem falde midt i sin lejr,\frundt omkring sine boliger.",
       "footnotes": [
         {
-          "text": "T: Kan oversættes: »dets«, dvs. Israels.",
+          "text": "Kan oversættes: »dets«, dvs. Israels.",
+          "type": "T",
           "position": 32
         },
         {
-          "text": "T: Kan oversættes: »dets«, dvs. Israels.",
+          "text": "Kan oversættes: »dets«, dvs. Israels.",
+          "type": "T",
           "position": 57
         }
       ],
@@ -256,7 +269,8 @@
       "text": "\fDa lod han deres dage svinde hen i tomhed\fog deres år i brat undergang.",
       "footnotes": [
         {
-          "text": "T: Egentlig: »pust/åndedrag/luftning«.",
+          "text": "Egentlig: »pust/åndedrag/luftning«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -267,7 +281,8 @@
       "text": "\fNår han dræbte dem, søgte de ham,\fde vendte om og søgte Gud.",
       "footnotes": [
         {
-          "text": "E: Tidligere ofte oversat: »søgte tidligt«, idet verbet *šḥr* (»søge«) har samme rod som ordet for »morgenrøde« (*šaḥar*).",
+          "text": "Tidligere ofte oversat: »søgte tidligt«, idet verbet *šḥr* (»søge«) har samme rod som ordet for »morgenrøde« (*šaḥar*).",
+          "type": "E",
           "position": 56
         }
       ],
@@ -298,7 +313,8 @@
       "text": "\fHan huskede på at de var kød,\fet vindpust som forsvinder og ikke vender tilbage.",
       "footnotes": [
         {
-          "text": "T: De var bare mennesker.",
+          "text": "De var bare mennesker.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -334,7 +350,8 @@
       "text": "\fog han sendte fluer på dem, som åd dem,\fog frøer, som voldte dem ødelæggelse,",
       "footnotes": [
         {
-          "text": "E: Det er usikkert, hvad ordet *ʕārōv* (»fluer«) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: »bremser«. Andre har opfattet det som »spyfluer« eller »sværm af insekter«. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.",
+          "text": "Det er usikkert, hvad ordet *ʕārōv* (»fluer«) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: »bremser«. Andre har opfattet det som »spyfluer« eller »sværm af insekter«. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.",
+          "type": "E",
           "position": 20
         }
       ],
@@ -350,7 +367,8 @@
       "text": "\fhan ødelagde deres vinstok med haglen\fog deres morbærfigentræer med isregn,",
       "footnotes": [
         {
-          "text": "E: Ordet *ḥᵃnāmal* findes kun her i GT, og betydningen er usikker. Det kan være et andet ord for »hagl«, måske særligt store hagl. Eller »rimfrost«.",
+          "text": "Ordet *ḥᵃnāmal* findes kun her i GT, og betydningen er usikker. Det kan være et andet ord for »hagl«, måske særligt store hagl. Eller »rimfrost«.",
+          "type": "E",
           "position": 76
         }
       ],
@@ -361,11 +379,13 @@
       "text": "\fog han overgav deres kvæg til haglen\fog deres hjorde til lynene,",
       "footnotes": [
         {
-          "text": "E: Et enkelt håndskrift har, støttet af den syriske oversættelse, i stedet for: *bārād* (»hagl«): *dever*: »pest«.",
+          "text": "Et enkelt håndskrift har, støttet af den syriske oversættelse, i stedet for: *bārād* (»hagl«): *dever*: »pest«.",
+          "type": "E",
           "position": 37
         },
         {
-          "text": "T: Oversættes af andre: »sot/feberbrand«",
+          "text": "Oversættes af andre: »sot/feberbrand«",
+          "type": "T",
           "position": 65
         }
       ],
@@ -402,7 +422,8 @@
       "text": "\fOg han bragte dem til sit hellige land,\ftil dette bjerg som hans højre hånd havde erhvervet.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sin helligheds område«.",
+          "text": "Ordret: »sin helligheds område«.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -413,11 +434,13 @@
       "text": "\fHan fordrev folkeslag foran dem\fog lod det tilfalde dem som tilmålt arvelod,\fog han lod Israels stammer bo i deres telte.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedninger«, men det ligger der ikke vægt på her.",
+          "text": "Kan også oversættes: »hedninger«, men det ligger der ikke vægt på her.",
+          "type": "T",
           "position": 22
         },
         {
-          "text": "T: Ordret: »for deres ansigt«.",
+          "text": "Ordret: »for deres ansigt«.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -434,7 +457,8 @@
       "text": "\fDe vendte sig bort og var troløse som deres fædre,\fde svigtede som en slap bue.",
       "footnotes": [
         {
-          "text": "T: Andre oversætter: »bedragerisk/troløs«.",
+          "text": "Andre oversætter: »bedragerisk/troløs«.",
+          "type": "T",
           "position": 75
         }
       ],
@@ -455,7 +479,8 @@
       "text": "\fHan vragede boligen i Shilo,\fdet telt som han havde slået op blandt mennesker.",
       "footnotes": [
         {
-          "text": "E: *šikkēn* er vokaliseret som pi’el der i de fleste sammenhænge skal oversættes: »han lod bo«, men her normalt oversættes: »han slog op«. Mange vælger dog at ændre vokaliseringen til qal: *šaxān*: »som han boede i«.",
+          "text": "*šikkēn* er vokaliseret som pi’el der i de fleste sammenhænge skal oversættes: »han lod bo«, men her normalt oversættes: »han slog op«. Mange vælger dog at ændre vokaliseringen til qal: *šaxān*: »som han boede i«.",
+          "type": "E",
           "position": 61
         }
       ],
@@ -466,7 +491,8 @@
       "text": "\fHan gav sin magt i fangenskab\fog sin herlighed i fjendes hånd.",
       "footnotes": [
         {
-          "text": "T: Med »magt« og »herlighed« er der tænkt på pagtens ark, 1 Sam 4,21; Sl 132,8.",
+          "text": "Med »magt« og »herlighed« er der tænkt på pagtens ark, 1 Sam 4,21; Sl 132,8.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -482,11 +508,13 @@
       "text": "\fIld fortærede hans unge mænd,\fog hans jomfruer fik ingen bryllupssang.",
       "footnotes": [
         {
-          "text": "E: »hans« i denne og de næste tre linjer kan også oversættes: »dets«, nemlig folkets. Det kan derimod ikke vise tilbage til »arv«, som er femininum. Derfor må »hans« være den foretrukne oversættelse.",
+          "text": "»hans« i denne og de næste tre linjer kan også oversættes: »dets«, nemlig folkets. Det kan derimod ikke vise tilbage til »arv«, som er femininum. Derfor må »hans« være den foretrukne oversættelse.",
+          "type": "E",
           "position": 19
         },
         {
-          "text": "T: Ordret blot: »blev ikke lovprist«, men lovprisningen hører netop til brylluppet.",
+          "text": "Ordret blot: »blev ikke lovprist«, men lovprisningen hører netop til brylluppet.",
+          "type": "T",
           "position": 71
         }
       ],
@@ -503,7 +531,8 @@
       "title": "Men Gud er trofast",
       "footnotes": [
         {
-          "text": "E: Ordet *mitrônēn* (»var overvældet«) er omdiskuteret. Her er det forudsat at det er afledt af roden *rwn*. Andre afleder det af roden *rnn*: »bryder ud i jubel«, der dog passer dårligt i sammenhængen. Atter andre retter til: *mitrômēm*: »der rejser sig«. I stedet for »af vin« må der så oversættes: »fra rus«.",
+          "text": "Ordet *mitrônēn* (»var overvældet«) er omdiskuteret. Her er det forudsat at det er afledt af roden *rwn*. Andre afleder det af roden *rnn*: »bryder ud i jubel«, der dog passer dårligt i sammenhængen. Atter andre retter til: *mitrômēm*: »der rejser sig«. I stedet for »af vin« må der så oversættes: »fra rus«.",
+          "type": "E",
           "position": 65
         }
       ],
@@ -529,7 +558,8 @@
       "text": "\fOg han byggede sin helligdom ligesom høje,\fsom jorden som han har grundfæstet for evigt.",
       "footnotes": [
         {
-          "text": "E: Ved at trække *kᵊmô-rāmîm* sammen og bytte to bogstaver om kan man få: *kimrômîm*: »som en himmelbolig«. Den overleverede tekst kan enten have samme betydning: »som himmelske høje« eller betyde: Gud byggede sin helligdom »som (de urokkelige) høje«.",
+          "text": "Ved at trække *kᵊmô-rāmîm* sammen og bytte to bogstaver om kan man få: *kimrômîm*: »som en himmelbolig«. Den overleverede tekst kan enten have samme betydning: »som himmelske høje« eller betyde: Gud byggede sin helligdom »som (de urokkelige) høje«.",
+          "type": "E",
           "position": 43
         }
       ],

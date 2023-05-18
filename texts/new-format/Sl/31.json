@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«",
+          "type": "E",
           "position": 15
         }
       ],
@@ -56,11 +57,13 @@
       "text": "\fI din hånd betror jeg min ånd,\fdu forløser mig, JHVHv, du trofaste Gud!",
       "footnotes": [
         {
-          "text": "E: Perfektum må her forstås som det, der er digterens erfaring og derfor også hans tillid. Sætningen kan dog også oversættes: »du har forløst mig«",
+          "text": "Perfektum må her forstås som det, der er digterens erfaring og derfor også hans tillid. Sætningen kan dog også oversættes: »du har forløst mig«",
+          "type": "E",
           "position": 43
         },
         {
-          "text": "T: Kan også oversættes: »sandheds/sande«",
+          "text": "Kan også oversættes: »sandheds/sande«",
+          "type": "T",
           "position": 67
         }
       ],
@@ -72,7 +75,8 @@
       "title": "Tillid til Gud",
       "footnotes": [
         {
-          "text": "E: I den hebraiske tekst ligger at de der tilbeder de falske guder, bedrages ved gudernes tomhed",
+          "text": "I den hebraiske tekst ligger at de der tilbeder de falske guder, bedrages ved gudernes tomhed",
+          "type": "E",
           "position": 43
         }
       ],
@@ -83,7 +87,8 @@
       "text": "\fJeg vil juble og glæde mig over din nåde,\fdu, som har set min hjælpeløshed,\fdu tog dig af min sjæls trængsel.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 41
         }
       ],
@@ -105,7 +110,8 @@
       "text": "\fFor mit liv er svundet hen i kval\fog mine år i suk.\fMin kraft er nedbrudt ved min skyld,\fog mine knogler er indtørrede.",
       "footnotes": [
         {
-          "text": "E: Til dels med støtte i gamle oversættelser retter mange *baʕᵃwōnî* (»ved min skyld«) til *bᵊʕōnjî*: »i min nød«. Selv om syndsbekendelse ikke er fremtrædende i salmen, kan den godt have haft sin plads i den, idet Guds trofasthed derved bliver understreget endnu stærkere som tillidens fundament",
+          "text": "Til dels med støtte i gamle oversættelser retter mange *baʕᵃwōnî* (»ved min skyld«) til *bᵊʕōnjî*: »i min nød«. Selv om syndsbekendelse ikke er fremtrædende i salmen, kan den godt have haft sin plads i den, idet Guds trofasthed derved bliver understreget endnu stærkere som tillidens fundament",
+          "type": "E",
           "position": 89
         }
       ],
@@ -137,7 +143,8 @@
       "text": "\fMine tider er i din hånd.\fRed mig fra mine fjenders hånd og fra mine forfølgere!",
       "footnotes": [
         {
-          "text": "T: Dvs. livsløb og fremtid",
+          "text": "Dvs. livsløb og fremtid",
+          "type": "T",
           "position": 11
         }
       ],
@@ -148,7 +155,8 @@
       "text": "\fLad dit ansigt lyse over din tjener,\ffrels mig ved din nåde.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 60
         }
       ],
@@ -159,7 +167,8 @@
       "text": "\fJHVHv, lad mig ikke blive til skamme,\ffor jeg har kaldt på dig.\fLad de ugudelige blive til skamme,\flad dem tie i dødsriget.",
       "footnotes": [
         {
-          "text": "T: Ordret: »tie til dødsriget«. Meningen er enten som i oversættelsen her, eller at de skal fare stumme ned i dødriget",
+          "text": "Ordret: »tie til dødsriget«. Meningen er enten som i oversættelsen her, eller at de skal fare stumme ned i dødriget",
+          "type": "T",
           "position": 124
         }
       ],
@@ -181,11 +190,13 @@
       "text": "\fDu vil skjule dem i dit ansigts skjul\ffor menneskers sammensværgelser,\fdu vil gemme dem i en hytte\ffor tungers kiv.",
       "footnotes": [
         {
-          "text": "T: Dvs. »i din nærhed og omsorg«",
+          "text": "Dvs. »i din nærhed og omsorg«",
+          "type": "T",
           "position": 38
         },
         {
-          "text": "T: Der er usikkerhed om betydningen af ordet *rōxes* (»sammensværgelse«) der kun findes denne ene gang i GT. Andre oversætter: »overgreb«, »bande«",
+          "text": "Der er usikkerhed om betydningen af ordet *rōxes* (»sammensværgelse«) der kun findes denne ene gang i GT. Andre oversætter: »overgreb«, »bande«",
+          "type": "T",
           "position": 71
         }
       ],
@@ -196,7 +207,8 @@
       "text": "Lovet være JHVH!\fFor han har på underfuld vis vist sin nåde imod mig\fi en belejret by.",
       "footnotes": [
         {
-          "text": "T: Det er omdiskuteret om *māṣôr* betyder »belejret« eller »befæstet«",
+          "text": "Det er omdiskuteret om *māṣôr* betyder »belejret« eller »befæstet«",
+          "type": "T",
           "position": 82
         }
       ],
@@ -212,7 +224,8 @@
       "text": "\fElsk JHVH, alle hans fromme!\fHerren beskytter trofaste,\fmen gengælder til overmål den som er hovmodig.",
       "footnotes": [
         {
-          "text": "T: Ordret »udøver hovmod«",
+          "text": "Ordret »udøver hovmod«",
+          "type": "T",
           "position": 103
         }
       ],

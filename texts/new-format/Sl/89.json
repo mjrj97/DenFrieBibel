@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 6
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fFor jeg har sagt: Evigt opbygges nåde,\fhimlen - du grundfæster din sandhed i den:",
       "footnotes": [
         {
-          "text": "E: I grundteksten er både »himlen« og pronomenet (»den«) pluralis, men med singulær betydning. Pluralis er udtryk for storheden og herligheden.",
+          "text": "I grundteksten er både »himlen« og pronomenet (»den«) pluralis, men med singulær betydning. Pluralis er udtryk for storheden og herligheden.",
+          "type": "E",
           "position": 82
         }
       ],
@@ -57,11 +59,13 @@
       "text": "\fFor evigt vil jeg grundfæste din slægt,\fog jeg bygger din trone i slægt efter slægt.« Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«",
+          "text": "Ordret: »sæd«",
+          "type": "T",
           "position": 40
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 91
         }
       ],
@@ -72,7 +76,8 @@
       "text": "\fOg himlen skal prise dit under, JHVHv,\fja, din sandhed i de helliges forsamling.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes: »menighed«. Her er der dog tænkt på Guds tjenende engle og åndemagter.",
+          "text": "Kan også oversættes: »menighed«. Her er der dog tænkt på Guds tjenende engle og åndemagter.",
+          "type": "E",
           "position": 81
         }
       ],
@@ -83,11 +88,13 @@
       "text": "\fFor hvem i skyerne kan være lige med JHVH?\fHvem ligner JHVH blandt gudssønnerne?",
       "footnotes": [
         {
-          "text": "T: Spørgepartiklen »hvem« er underforstået fra foregående linje.",
+          "text": "Spørgepartiklen »hvem« er underforstået fra foregående linje.",
+          "type": "T",
           "position": 48
         },
         {
-          "text": "T: Det er de himmelske magter.",
+          "text": "Det er de himmelske magter.",
+          "type": "T",
           "position": 81
         }
       ],
@@ -103,11 +110,13 @@
       "text": "\fJHVHv, Hærskarers Gud,\fhvem er som du, mægtige JHVH?\fOg din trofasthed omgiver dig.",
       "footnotes": [
         {
-          "text": "T: I ældre tid uoversat: »Zebaoth«",
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
           "position": 18
         },
         {
-          "text": "E: Grundteksten har kortformen *yāh* (»Jah«) der findes en del steder i poetiske tekster.",
+          "text": "Grundteksten har kortformen *yāh* (»Jah«) der findes en del steder i poetiske tekster.",
+          "type": "E",
           "position": 53
         }
       ],
@@ -123,7 +132,8 @@
       "text": "\fDu knuste Rahab som en dræbt,\fmed din stærke arm spredte du dine fjender.",
       "footnotes": [
         {
-          "text": "T: Ordret: »din styrkes arm«.",
+          "text": "Ordret: »din styrkes arm«.",
+          "type": "T",
           "position": 49
         }
       ],
@@ -149,7 +159,8 @@
       "text": "\fRetfærdighed og ret er din trones grundvold,\fnåde og sandhed går foran dig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »foran dit ansigt«.",
+          "text": "Ordret: »foran dit ansigt«.",
+          "type": "T",
           "position": 76
         }
       ],
@@ -181,19 +192,23 @@
       "title": "Løfterne til og over Davids slægt",
       "footnotes": [
         {
-          "text": "T: Mange oversættere vælger at rette til singularis, men der er formodentlig tænkt på profeterne Samuel og Natan og eventuelt flere.",
+          "text": "Mange oversættere vælger at rette til singularis, men der er formodentlig tænkt på profeterne Samuel og Natan og eventuelt flere.",
+          "type": "T",
           "position": 42
         },
         {
-          "text": "E: Mange retter: *ʕēzer* (»hjælp«) til: *nēzer*: »et diadem«. Men det har hverken støtte i håndskrifter eller gamle oversættelser. Meningen med den overleverede tekst må være at Gud har betroet helten (David (og hans efterkommere)) at regere og hjælpe folket på Guds vegne.",
+          "text": "Mange retter: *ʕēzer* (»hjælp«) til: *nēzer*: »et diadem«. Men det har hverken støtte i håndskrifter eller gamle oversættelser. Meningen med den overleverede tekst må være at Gud har betroet helten (David (og hans efterkommere)) at regere og hjælpe folket på Guds vegne.",
+          "type": "E",
           "position": 78
         },
         {
-          "text": "T: Ordret: »Jeg har lagt hjælpen på en helt«. Meningen må være, at hjælpen er pålagt ham som en betroet opgave.",
+          "text": "Ordret: »Jeg har lagt hjælpen på en helt«. Meningen må være, at hjælpen er pålagt ham som en betroet opgave.",
+          "type": "T",
           "position": 91
         },
         {
-          "text": "T: Kan også oversættes: »en yngling«.",
+          "text": "Kan også oversættes: »en yngling«.",
+          "type": "T",
           "position": 118
         }
       ],
@@ -204,7 +219,8 @@
       "text": "\fJeg har fundet David, min tjener,\fmed min hellige olie har jeg salvet ham,",
       "footnotes": [
         {
-          "text": "T: Ordret: »min helligheds olie«.",
+          "text": "Ordret: »min helligheds olie«.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -220,7 +236,8 @@
       "text": "\fFjenden skal ikke overfalde ham,\fog en ond person skal ikke mishandle ham.",
       "footnotes": [
         {
-          "text": "T: Ordret: »søn af uretfærdighed«",
+          "text": "Ordret: »søn af uretfærdighed«",
+          "type": "T",
           "position": 50
         }
       ],
@@ -231,7 +248,8 @@
       "text": "\fMen jeg vil knuse hans fjender for hans ansigt\fog dem som hader ham, vil jeg slå ned.",
       "footnotes": [
         {
-          "text": "E: I v.23-26 står verberne i qatal, der oftest angiver fortid, men her understreger qatal det der helt sikkert vil ske.",
+          "text": "I v.23-26 står verberne i qatal, der oftest angiver fortid, men her understreger qatal det der helt sikkert vil ske.",
+          "type": "E",
           "position": 12
         }
       ],
@@ -247,7 +265,8 @@
       "text": "\fOg jeg vil udstrække hans hånd over havet,\fog hans højre hånd over floderne.",
       "footnotes": [
         {
-          "text": "T: Dvs.: Give ham magt.",
+          "text": "Dvs.: Give ham magt.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -273,7 +292,8 @@
       "text": "\fJeg har fastsat at hans slægt skal bestå til evig tid,\fog hans trone så længe som himlens dage varer.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -284,7 +304,8 @@
       "text": "\fHvis hans sønner forlader min lov,\fog de ikke vandrer efter mine befalinger,",
       "footnotes": [
         {
-          "text": "N: lov",
+          "text": "lov",
+          "type": "N",
           "position": 35
         }
       ],
@@ -305,7 +326,8 @@
       "text": "\fMen min nåde mod ham vil jeg ikke bryde\fog ikke forråde min sandhed.",
       "footnotes": [
         {
-          "text": "E: Ordret: »Men min nåde vil jeg ikke bryde fra ham«.",
+          "text": "Ordret: »Men min nåde vil jeg ikke bryde fra ham«.",
+          "type": "E",
           "position": 40
         }
       ],
@@ -326,7 +348,8 @@
       "text": "\fHans slægt skal være til evig tid,\fog hans trone som solen foran mig;",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 11
         }
       ],
@@ -337,7 +360,8 @@
       "text": "\fsom månen skal den befæstes for evigt,\fog et vidne på skyerne er trofast«. Sela",
       "footnotes": [
         {
-          "text": "E: Meningen må være, at »skyerne« selv er vidne om Guds trofasthed. Mange retter: *wᵊʕēd baššaḥaq* (»og et vidne på skyerne«) til: *bᵊʕôd haššaḥaq*: »så længe skyerne er til«.",
+          "text": "Meningen må være, at »skyerne« selv er vidne om Guds trofasthed. Mange retter: *wᵊʕēd baššaḥaq* (»og et vidne på skyerne«) til: *bᵊʕôd haššaḥaq*: »så længe skyerne er til«.",
+          "type": "E",
           "position": 75
         }
       ],
@@ -374,7 +398,8 @@
       "text": "\fJa, du vendte hans sværds klinge om,\fog du lod ham ikke holde stand i krigen.",
       "footnotes": [
         {
-          "text": "E: Ordret: »du vendte hans sværds klippe om«. Ordet: *ṣûr* (»klippe«) er problematisk i sammenhængen. Måske betød det dog oprindelig »flint/flintekniv« (Jos 5,2), og derfra kan det forstås som noget skarpt og som klinge. Andre foreslår at rette: *ṣûr* til: *miṣṣar*: »(du vendte hans sværd om) fra fjenden«, eller: »(du lod hans sværd vige tilbage) for fjenden«.",
+          "text": "Ordret: »du vendte hans sværds klippe om«. Ordet: *ṣûr* (»klippe«) er problematisk i sammenhængen. Måske betød det dog oprindelig »flint/flintekniv« (Jos 5,2), og derfra kan det forstås som noget skarpt og som klinge. Andre foreslår at rette: *ṣûr* til: *miṣṣar*: »(du vendte hans sværd om) fra fjenden«, eller: »(du lod hans sværd vige tilbage) for fjenden«.",
+          "type": "E",
           "position": 37
         }
       ],
@@ -395,7 +420,8 @@
       "text": "\fHvor længe, JHVHv, vil du evigt skjule dig?\fhvor længe skal din harme brænde som ild?",
       "footnotes": [
         {
-          "text": "T: Ordene »hvor længe« er underforstået fra forrige linje.",
+          "text": "Ordene »hvor længe« er underforstået fra forrige linje.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -406,15 +432,18 @@
       "text": "\fHusk, hvilken livslængde jeg har,\ftil hvilken flygtighed du har skabt alle menneskebørn.",
       "footnotes": [
         {
-          "text": "E: Sætningen er vanskelig og omdiskuteret. Ordret kunne den lyde: »Husk, jeg, hvad livslængden er«.",
+          "text": "Sætningen er vanskelig og omdiskuteret. Ordret kunne den lyde: »Husk, jeg, hvad livslængden er«.",
+          "type": "E",
           "position": 34
         },
         {
-          "text": "T: Ordret: »tomhed/intethed«.",
+          "text": "Ordret: »tomhed/intethed«.",
+          "type": "T",
           "position": 57
         },
         {
-          "text": "T: Ordret: »Adams sønner«.",
+          "text": "Ordret: »Adams sønner«.",
+          "type": "T",
           "position": 89
         }
       ],
@@ -425,11 +454,13 @@
       "text": "\fHvilken mand kan leve uden at skulle se døden,\fkan redde sit liv fra dødsrigets magt? Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 65
         },
         {
-          "text": "T: Ordret: »hånd«.",
+          "text": "Ordret: »hånd«.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -445,11 +476,13 @@
       "text": "\fHusk, Herre, spotten mod dine tjenere,\fhusk, at jeg i mit bryst bærer alle de mange folk,",
       "footnotes": [
         {
-          "text": "T: Verbet »husk« er underforstået fra forrige linje.",
+          "text": "Verbet »husk« er underforstået fra forrige linje.",
+          "type": "T",
           "position": 45
         },
         {
-          "text": "E: Med støtte i den gamle syriske oversættelse retter man ofte: *kol-rabbîm* (»alle de mange«) til: *kᵊlimmat*: »hån« (»husk, at jeg i mit bryst bærer folkenes hån«).",
+          "text": "Med støtte i den gamle syriske oversættelse retter man ofte: *kol-rabbîm* (»alle de mange«) til: *kᵊlimmat*: »hån« (»husk, at jeg i mit bryst bærer folkenes hån«).",
+          "type": "E",
           "position": 90
         }
       ],
@@ -460,7 +493,8 @@
       "text": "\fhusk, at dine fjender har spottet, JHVHv,\fat de har spottet din salvedes fodspor.",
       "footnotes": [
         {
-          "text": "T: Ordet »husk« er stadig underforstået fra det foregående vers.",
+          "text": "Ordet »husk« er stadig underforstået fra det foregående vers.",
+          "type": "T",
           "position": 6
         }
       ],

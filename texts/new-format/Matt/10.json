@@ -157,7 +157,8 @@
       "text": "Det jeg siger til jer i mørket, skal I tale i lyset, og det I hører i øret, skal I forkynde på tagene.",
       "footnotes": [
         {
-          "text": "E: »i øret« refererer til en privat kommunikation",
+          "text": "»i øret« refererer til en privat kommunikation",
+          "type": "E",
           "position": 74
         }
       ],
@@ -173,7 +174,8 @@
       "text": "Sælges ikke to duer for en mønt? Og ingen af dem falder til jorden uden jeres Far.",
       "footnotes": [
         {
-          "text": "T: Der står blot »uden jeres Far«, og ud fra sammenhængen må vi supplere: »uden jeres Fars viden.«",
+          "text": "Der står blot »uden jeres Far«, og ud fra sammenhængen må vi supplere: »uden jeres Fars viden.«",
+          "type": "T",
           "position": 82
         }
       ],

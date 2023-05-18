@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Opfordring til lovsang",
       "footnotes": [
         {
-          "text": "T: »ham« står ikke i den hebraiske tekst, men må være underforstået.",
+          "text": "»ham« står ikke i den hebraiske tekst, men må være underforstået.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -47,7 +49,8 @@
       "text": "\fSig til Gud: »Hvor frygtindgydende er dine gerninger,\fpå grund af din magts storhed skal dine fjender krybe for dig!",
       "footnotes": [
         {
-          "text": "T: Verbet *xḥš* betyder i pi’el oftest: »lyve, fornægte«, men i forholdet mellem besejrer og besejret betyder det: »at hykle en underkastelse/at hylde nødtvungent«.",
+          "text": "Verbet *xḥš* betyder i pi’el oftest: »lyve, fornægte«, men i forholdet mellem besejrer og besejret betyder det: »at hykle en underkastelse/at hylde nødtvungent«.",
+          "type": "T",
           "position": 108
         }
       ],
@@ -58,7 +61,8 @@
       "text": "\fHele jorden skal kaste sig ned for dig og lovsynge dig;\fde skal lovsynge dit navn«. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 89
         }
       ],
@@ -70,11 +74,13 @@
       "title": "Guds store handlinger",
       "footnotes": [
         {
-          "text": "T: Verbet *hlx* betyder normalt: »gå«, men som imperativ foran en anden imperativ bruges det som opfordring: »kom, velan« eller lignende.",
+          "text": "Verbet *hlx* betyder normalt: »gå«, men som imperativ foran en anden imperativ bruges det som opfordring: »kom, velan« eller lignende.",
+          "type": "T",
           "position": 4
         },
         {
-          "text": "T: Ordret: »Adams børn/menneskebørn«.",
+          "text": "Ordret: »Adams børn/menneskebørn«.",
+          "type": "T",
           "position": 75
         }
       ],
@@ -85,11 +91,13 @@
       "text": "\fHan forvandlede hav til tørt land,\fde gik til fods gennem strømmen.\fLad os da glæde os i ham.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes: »floden«, så der er tænkt på Jordanfloden. Det er dog ikke oplagt i sammenhængen.",
+          "text": "Kan også oversættes: »floden«, så der er tænkt på Jordanfloden. Det er dog ikke oplagt i sammenhængen.",
+          "type": "E",
           "position": 68
         },
         {
-          "text": "E: Ordet *šām* betyder normalt: »dér«. I sammenhængen kan det opfattes som en opfordring til i tankerne (i ånden) at være ved Sivhavet og på ny istemme lovsangen (2 Mos 15) – eller (snarere) opfattes tidsligt konkluderende: »da, så«.",
+          "text": "Ordet *šām* betyder normalt: »dér«. I sammenhængen kan det opfattes som en opfordring til i tankerne (i ånden) at være ved Sivhavet og på ny istemme lovsangen (2 Mos 15) – eller (snarere) opfattes tidsligt konkluderende: »da, så«.",
+          "type": "E",
           "position": 78
         }
       ],
@@ -100,7 +108,8 @@
       "text": "\fHan hersker evigt i sin magt,\fhans øjne overvåger folkene;\fde genstridige skal ikke ophøje sig selv. Sela",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedningerne«, men det er næppe der vægten ligger i sammenhængen.",
+          "text": "Kan også oversættes: »hedningerne«, men det er næppe der vægten ligger i sammenhængen.",
+          "type": "T",
           "position": 59
         }
       ],
@@ -112,11 +121,13 @@
       "title": "Lovsang",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »velsign«.",
+          "text": "Kan også oversættes: »velsign«.",
+          "type": "T",
           "position": 4
         },
         {
-          "text": "T: Ordret: »lad hans lovprisnings røst blive hørt«.",
+          "text": "Ordret: »lad hans lovprisnings røst blive hørt«.",
+          "type": "T",
           "position": 57
         }
       ],
@@ -127,7 +138,8 @@
       "text": "\fHan som holder vor sjæl i live\fog ikke lod vor fod snuble.",
       "footnotes": [
         {
-          "text": "T: Ordret: »han som sætter/satte vor sjæl i livet«.",
+          "text": "Ordret: »han som sætter/satte vor sjæl i livet«.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -143,11 +155,13 @@
       "text": "\fDu har bragt os i garnet,\fdu lagde byrde på vore hofter.",
       "footnotes": [
         {
-          "text": "E: Ordet *mᵊṣûdāʰ* har flere betydninger og oversættes forskelligt her: »klippeborg/bytte/garn/net«.",
+          "text": "Ordet *mᵊṣûdāʰ* har flere betydninger og oversættes forskelligt her: »klippeborg/bytte/garn/net«.",
+          "type": "E",
           "position": 26
         },
         {
-          "text": "E: Betydningen af ordet *mûʕāqāʰ* er usikker. Det forekommer kun her i GT. Det er formodentlig på en eller anden måde udtryk for trængsel, smerter og lidelse.",
+          "text": "Betydningen af ordet *mûʕāqāʰ* er usikker. Det forekommer kun her i GT. Det er formodentlig på en eller anden måde udtryk for trængsel, smerter og lidelse.",
+          "type": "E",
           "position": 41
         }
       ],
@@ -158,7 +172,8 @@
       "text": "\fDu lod et menneske ride over vort hoved,\fvi gik gennem ild og vand,\fmen du førte os ud til overflod.",
       "footnotes": [
         {
-          "text": "E: Hebraisk: *rᵊwāyāʰ*. De gamle oversættelser har tilsyneladende læst: *rᵊwāḥāʰ*: »frihed«. Det foretrækkes af en del oversættere.",
+          "text": "Hebraisk: *rᵊwāyāʰ*. De gamle oversættelser har tilsyneladende læst: *rᵊwāḥāʰ*: »frihed«. Det foretrækkes af en del oversættere.",
+          "type": "E",
           "position": 101
         }
       ],
@@ -195,7 +210,8 @@
       "text": "\fHvis jeg havde haft ondt i sinde,\fså ville Herren ikke have hørt mig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hvis jeg havde haft ondt for øje i mit hjerte«.",
+          "text": "Ordret: »hvis jeg havde haft ondt for øje i mit hjerte«.",
+          "type": "T",
           "position": 34
         }
       ],
@@ -206,7 +222,8 @@
       "text": "\fMen Gud har virkelig hørt,\fhan lyttede til min bøn.",
       "footnotes": [
         {
-          "text": "T: Ordret: »min bøns røst«.",
+          "text": "Ordret: »min bøns røst«.",
+          "type": "T",
           "position": 52
         }
       ],
@@ -217,11 +234,13 @@
       "text": "\fLovet være Gud,\fsom ikke afviste min bøn eller vendte sin nåde fra mig!",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »velsignet«.",
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
           "position": 6
         },
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 63
         }
       ],

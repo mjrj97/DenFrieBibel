@@ -49,7 +49,8 @@
       "text": "\fDe skal alle overlades til bjergenes rovfugle\fog til jordens dyr, \fså rovfuglene kan oversomre på dem, \fog alle jordens dyr overvintre på dem.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »landets«.",
+          "text": "Kan også oversættes: »landets«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -60,15 +61,18 @@
       "text": "\fPå den tid skal der frembæres gave til Hærskarers HERRE fra et velvoksent og glathudet folk og fra et folk der er frygtet fra det blev til og fremover; et folk, stærkt og nedtrampende, hvis land vandstrømme skærer igennem, hen til Hærskarers HERRES navns sted, til Zions bjerg.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 56
         },
         {
-          "text": "E: Ordet »fra« (hebraisk: *min*) mangler i den hebraiske tekst, men suppleres ud fra bl.a. Septuaginta.",
+          "text": "Ordet »fra« (hebraisk: *min*) mangler i den hebraiske tekst, men suppleres ud fra bl.a. Septuaginta.",
+          "type": "E",
           "position": 60
         },
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 249
         }
       ],

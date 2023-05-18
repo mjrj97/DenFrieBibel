@@ -24,7 +24,8 @@
       "title": "Ord mod Egypten",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »for hans ansigt«.",
+          "text": "Kan også oversættes: »for hans ansigt«.",
+          "type": "T",
           "position": 109
         }
       ],
@@ -45,7 +46,8 @@
       "text": "\fOg jeg vil overgive Egypten \ftil hårde herrers hånd, \fog en streng konge skal herske over dem, \fdet er Herrens, Hærskarers HERRES, udsagn.\f\n",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 131
         }
       ],
@@ -66,15 +68,18 @@
       "text": "\fEngene ved Nilen, ved bredden af Nilen, og alle Nilens tilsåede marker \fskal tørre ud, blæses væk så de ikke findes mere.",
       "footnotes": [
         {
-          "text": "E: Ordet *ʕārāʰ* findes i Bibelen kun her, og oversættelsen er usikker. Fortolkerne vakler mellem: »enge/åbne pladser« og »sivplanter«.",
+          "text": "Ordet *ʕārāʰ* findes i Bibelen kun her, og oversættelsen er usikker. Fortolkerne vakler mellem: »enge/åbne pladser« og »sivplanter«.",
+          "type": "E",
           "position": 7
         },
         {
-          "text": "E: Ordet *peʰ* kan også oversættes: »udløb«.",
+          "text": "Ordet *peʰ* kan også oversættes: »udløb«.",
+          "type": "E",
           "position": 30
         },
         {
-          "text": "E: Ordet *mizrāʕ* findes i Bibelen kun her. Efter alt at dømme betegner det jord der kan tilsås.",
+          "text": "Ordet *mizrāʕ* findes i Bibelen kun her. Efter alt at dømme betegner det jord der kan tilsås.",
+          "type": "E",
           "position": 71
         }
       ],
@@ -90,7 +95,8 @@
       "text": "\fOg de der arbejder med hør, skal blive til skamme, de der karter,\fog de der væver hvidt tøj.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst har adjektiv, femininum (»kartet«), mens »hør« er maskulinum. Man forudsætter derfor oftest en anden vokalisering, så der læses et substantiv: *śᵊrîqôt* til: *śorqôt*: »kartende (kvinder)«. Ordet findes kun denne ene gang i Bibelen.",
+          "text": "Den hebraiske tekst har adjektiv, femininum (»kartet«), mens »hør« er maskulinum. Man forudsætter derfor oftest en anden vokalisering, så der læses et substantiv: *śᵊrîqôt* til: *śorqôt*: »kartende (kvinder)«. Ordet findes kun denne ene gang i Bibelen.",
+          "type": "E",
           "position": 66
         }
       ],
@@ -101,7 +107,8 @@
       "text": "\fOg dets søjler skal være knust, \falle de der arbejder for løn, skal være bedrøvede i hjertet.",
       "footnotes": [
         {
-          "text": "E: Der er tænkt på Egyptens ledere. Men ofte følger man Septuatinta, der forudsætter sletning af et *t*: *šātōteʸhā* til: *šōteʸhā*: »vævere«.",
+          "text": "Der er tænkt på Egyptens ledere. Men ofte følger man Septuatinta, der forudsætter sletning af et *t*: *šātōteʸhā* til: *šōteʸhā*: »vævere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -117,7 +124,8 @@
       "text": "\fHvor er da dine vismænd? \fLad dem da fortælle dig, \fog lad dem vide, \fhvad Hærskarers HERRE har besluttet om Egypten!",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 92
         }
       ],
@@ -133,7 +141,8 @@
       "text": "\fJHVH har i dets indre blandet\fen forvirringens ånd, \fog den har vildledt Egypten \fi al dets gerning, \fsom en beruset tumler omkring i sit opkast.",
       "footnotes": [
         {
-          "text": "T: Egyptens.",
+          "text": "Egyptens.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -149,7 +158,8 @@
       "text": "\fPå den dag skal Egypten være som kvinder, det skal ryste og skælve for Hærskarers HERRES svingende hånd, som svinger over det.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 89
         }
       ],
@@ -160,7 +170,8 @@
       "text": "Og Judas land skal være til skræk for egypterne; så ofte nogen minder dem om det, skal de frygte for Hærskarers HERRES plan, som han har lagt imod dem.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 118
         }
       ],
@@ -171,11 +182,13 @@
       "text": "På den dag skal der være fem byer i Egyptens land der taler Kana’ans sprog og sværger troskab mod Hærskarers HERRE; en af dem skal kaldes Ir-Ha-Heres.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 115
         },
         {
-          "text": "E: »Ødelæggelsens by«. Man går ofte ud fra at der ikke skulle stå: *haheres*, men *haḥeres*: »sol(byen)« (Heliopolis). Dette støttes af enkelte håndskrifter og gamle oversættelser.",
+          "text": "»Ødelæggelsens by«. Man går ofte ud fra at der ikke skulle stå: *haheres*, men *haḥeres*: »sol(byen)« (Heliopolis). Dette støttes af enkelte håndskrifter og gamle oversættelser.",
+          "type": "E",
           "position": 150
         }
       ],
@@ -191,7 +204,8 @@
       "text": "Og det skal være tegn og vidne for Hærskarers HERRE i Egyptens land på at når de råber til JHVH på grund af undertrykkere, så sender han en befrier og en forsvarer og redder dem.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 51
         }
       ],
@@ -202,7 +216,8 @@
       "text": "Og JHVH skal give sig til kende for Egypten, og egypterne skal kende JHVH på den dag, og de skal tjene ham med slagtoffer og afgrødeoffer og de skal aflægge løfte til JHVH og indfri dem.",
       "footnotes": [
         {
-          "text": "T: Her har det hebraiske ord bibetydning af tilbede og ære. I hebraiske ører klinger det med.",
+          "text": "Her har det hebraiske ord bibetydning af tilbede og ære. I hebraiske ører klinger det med.",
+          "type": "T",
           "position": 102
         }
       ],
@@ -228,11 +243,13 @@
       "text": "som Hærskarers HERRE har velsignet og sagt: »Velsignet være mit folk Egypten og mine hænders værk Assyrien og min ejendom Israel!«",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 20
         },
         {
-          "text": "E: Det er forskelligt, om det hebraiske *naḥᵃlāʰ* oversættes: »ejendom« eller: »arvelod«.",
+          "text": "Det er forskelligt, om det hebraiske *naḥᵃlāʰ* oversættes: »ejendom« eller: »arvelod«.",
+          "type": "E",
           "position": 121
         }
       ],

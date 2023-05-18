@@ -29,7 +29,8 @@
       "text": "Da tog Jetro, Moses’ svigerfar, Sippora, Moses hustru, som han havde sendt tilbage,",
       "footnotes": [
         {
-          "text": "T: I senere hebraisk kan grundtekstens *šillûḥîm* (egentlig: »bortsendelse«) betegne »skilsmisse«. Her er der dog tydeligvis blot tale om at Sippora var midlertidigt sendt hjem.",
+          "text": "I senere hebraisk kan grundtekstens *šillûḥîm* (egentlig: »bortsendelse«) betegne »skilsmisse«. Her er der dog tydeligvis blot tale om at Sippora var midlertidigt sendt hjem.",
+          "type": "T",
           "position": 83
         }
       ],
@@ -40,7 +41,8 @@
       "text": "og hendes to sønner, af hvilke den enes navn var Gershom; for han havde sagt: »Jeg har været fremmed i et fremmed land«.",
       "footnotes": [
         {
-          "text": "T: Se note til 2,22",
+          "text": "Se note til 2,22",
+          "type": "T",
           "position": 57
         }
       ],
@@ -51,7 +53,8 @@
       "text": "Og den andens navn var Eliezer; »for min fars Gud var min hjælp og har reddet mig fra Faraos sværd.«",
       "footnotes": [
         {
-          "text": "T: Navnet betyder: »min Gud er hjælp.«",
+          "text": "Navnet betyder: »min Gud er hjælp.«",
+          "type": "T",
           "position": 30
         }
       ],
@@ -67,7 +70,8 @@
       "text": "Han lod sige til Moses: »Jeg, din svigerfar Jetro, kommer til dig sammen med din hustru og hendes to sønner med hende.«",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »han sagde«, men der er tydeligvis tale om at han sendte bud fra indgangen til lejren.",
+          "text": "Ordret blot: »han sagde«, men der er tydeligvis tale om at han sendte bud fra indgangen til lejren.",
+          "type": "T",
           "position": 12
         }
       ],
@@ -78,7 +82,8 @@
       "text": "Da gik Moses sin svigerfar i møde, kastede sig ned og kyssede ham, og den ene hilste den anden, og de gik ind i teltet.",
       "footnotes": [
         {
-          "text": "T: Ordret: »ønskede (den anden) fred«.",
+          "text": "Ordret: »ønskede (den anden) fred«.",
+          "type": "T",
           "position": 84
         }
       ],
@@ -104,7 +109,8 @@
       "text": "Nu ved jeg at JHVH er stor frem for alle guder i det som de er overmodigt stolte af.«",
       "footnotes": [
         {
-          "text": "T: Oversættelsen af og meningen med sidste halvdel af verset er omdiskuteret og usikker. Ordret kunne den oversættes: »for/netop i sagen, hvor de handlede mod dem i overmod.« Som den står, er det formodentlig *guderne* der er subjekt. Den givne oversættelse forekommer rimelig, men må dog tages med forbehold. Mange oversættere opgiver helt at tage sidste halvdel af verset med.",
+          "text": "Oversættelsen af og meningen med sidste halvdel af verset er omdiskuteret og usikker. Ordret kunne den oversættes: »for/netop i sagen, hvor de handlede mod dem i overmod.« Som den står, er det formodentlig *guderne* der er subjekt. Den givne oversættelse forekommer rimelig, men må dog tages med forbehold. Mange oversættere opgiver helt at tage sidste halvdel af verset med.",
+          "type": "T",
           "position": 85
         }
       ],
@@ -115,7 +121,8 @@
       "text": "Så bragte Jetro, Moses’ svigerfar, brændoffer og slagtofre til Gud, Aron og alle Israels ældste kom for at holde måltid sammen med Moses’ svigerfar for Guds ansigt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »spise brød«.",
+          "text": "Ordret: »spise brød«.",
+          "type": "T",
           "position": 119
         }
       ],
@@ -152,7 +159,8 @@
       "text": "Du bliver fuldstændig udmattet, både du og dette folk, som er med dig; for den opgave er for tung for dig, du kan ikke løse den alene.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *נבל* (»blive udmattet«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *נבל* (»blive udmattet«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -168,7 +176,8 @@
       "text": "Og du skal indskærpe dem forordningerne og lovene og kundgøre dem vejen, de skal vandre på, og den gerning, de skal gøre.",
       "footnotes": [
         {
-          "text": "T: Ordret: »advare«.",
+          "text": "Ordret: »advare«.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -189,7 +198,8 @@
       "text": "Hvis du vil gøre dette, og Gud befaler dig det, så kan du holde ud; og hele dette folk kan komme med fred til sit sted.«",
       "footnotes": [
         {
-          "text": "E: Det er uklart, om »sted« er betegnelse for deres hjem/telt eller for det sted, hvor deres sag skal pådømmes.",
+          "text": "Det er uklart, om »sted« er betegnelse for deres hjem/telt eller for det sted, hvor deres sag skal pådømmes.",
+          "type": "E",
           "position": 120
         }
       ],

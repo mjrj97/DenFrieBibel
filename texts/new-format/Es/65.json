@@ -70,11 +70,13 @@
       "text": "\fMen I, der forlader JHVH, I, der glemmer mit hellige bjerg, I, der dækker bord for Gad , og I, der fylder bægeret op med blandet drik for Meni ,",
       "footnotes": [
         {
-          "text": "T: Navnet på en afgud",
+          "text": "Navnet på en afgud",
+          "type": "T",
           "position": 88
         },
         {
-          "text": "T: Navnet på en afgud",
+          "text": "Navnet på en afgud",
+          "type": "T",
           "position": 144
         }
       ],
@@ -120,7 +122,8 @@
       "text": "Og jeg vil fryde mig over Jerusalem og glæde mig over mit folk, og der skal ikke mere høres gråd eller skrig der.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i den«, der henviser til Jerusalem.",
+          "text": "Ordret: »i den«, der henviser til Jerusalem.",
+          "type": "T",
           "position": 113
         }
       ],

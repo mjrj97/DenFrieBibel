@@ -120,7 +120,8 @@
       "text": "Endnu en gang skal dine børn, som du måtte undvære , sige , mens du hører det: »Stedet er for lille, giv mig plads, så jeg kan bo der.«",
       "footnotes": [
         {
-          "text": "T: nemlig, da du var barnløs",
+          "text": "nemlig, da du var barnløs",
+          "type": "T",
           "position": 51
         }
       ],
@@ -146,7 +147,8 @@
       "text": "\fMon man kan tage det fra den mægtige, han har taget? og mon den retfærdiges  fanger skulle undslippe?",
       "footnotes": [
         {
-          "text": "T: dvs. Israels",
+          "text": "dvs. Israels",
+          "type": "T",
           "position": 77
         }
       ],

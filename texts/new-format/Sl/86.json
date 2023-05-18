@@ -30,11 +30,13 @@
       "title": "Klage",
       "footnotes": [
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "E: Ordet »frels« står i grundteksten ikke i denne linje, men er underforstået fra forrige linje. Nogle fortolkere foreslår dog at flytte ordene »du min Gud« til begyndelsen af v.3.",
+          "text": "Ordet »frels« står i grundteksten ikke i denne linje, men er underforstået fra forrige linje. Nogle fortolkere foreslår dog at flytte ordene »du min Gud« til begyndelsen af v.3.",
+          "type": "E",
           "position": 68
         }
       ],
@@ -60,7 +62,8 @@
       "text": "\fLyt, JHVHv, til min bøn\fog giv agt på min tryglende røst.",
       "footnotes": [
         {
-          "text": "T: Ordret: »min røsts tryglen«.",
+          "text": "Ordret: »min røsts tryglen«.",
+          "type": "T",
           "position": 58
         }
       ],
@@ -104,11 +107,13 @@
       "text": "\fFor din nåde er stor over mig,\fog du har reddet min sjæl fra det dybe dødsrige.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 13
         },
         {
-          "text": "T: På hebraisk: *šᵊʔôl*. Det er ofte tænkt som liggende under jorden som opholdssted for de døde, men først og fremmest er det himlens modsætning.",
+          "text": "På hebraisk: *šᵊʔôl*. Det er ofte tænkt som liggende under jorden som opholdssted for de døde, men først og fremmest er det himlens modsætning.",
+          "type": "T",
           "position": 80
         }
       ],
@@ -120,15 +125,18 @@
       "title": "Klage",
       "footnotes": [
         {
-          "text": "T: Ordet har også klang af »gudløse«.",
+          "text": "Ordet har også klang af »gudløse«.",
+          "type": "T",
           "position": 16
         },
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 84
         },
         {
-          "text": "T: Ordret: »og har ikke stillet dig foran sig«.",
+          "text": "Ordret: »og har ikke stillet dig foran sig«.",
+          "type": "T",
           "position": 112
         }
       ],

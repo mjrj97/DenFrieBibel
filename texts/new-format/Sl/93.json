@@ -24,7 +24,8 @@
       "title": "Guds kongedømme er evigt",
       "footnotes": [
         {
-          "text": "T: Ordret: »omgjordet sig«.",
+          "text": "Ordret: »omgjordet sig«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -41,7 +42,8 @@
       "title": "JHVH er kosmisk konge",
       "footnotes": [
         {
-          "text": "T: Egentlig om bølgers (voldsomme) brusen.",
+          "text": "Egentlig om bølgers (voldsomme) brusen.",
+          "type": "T",
           "position": 79
         }
       ],
@@ -52,11 +54,13 @@
       "text": "\fFremfor vældige vandes buldren, \fmajestætiske havets brændinger,\fer JHVH majestætisk i det Høje.",
       "footnotes": [
         {
-          "text": "T: Ordret: »røst«.",
+          "text": "Ordret: »røst«.",
+          "type": "T",
           "position": 32
         },
         {
-          "text": "E: Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (»majestætiske/mægtige/herlige«) skal lægges til, om det er foregående linjes »vande« eller denne linjes »brændinger«.",
+          "text": "Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (»majestætiske/mægtige/herlige«) skal lægges til, om det er foregående linjes »vande« eller denne linjes »brændinger«.",
+          "type": "E",
           "position": 46
         }
       ],
@@ -67,7 +71,8 @@
       "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fJHVHv, i evighed. ",
       "footnotes": [
         {
-          "text": "T: Ordret: »i dages udstrækning«.",
+          "text": "Ordret: »i dages udstrækning«.",
+          "type": "T",
           "position": 90
         }
       ],

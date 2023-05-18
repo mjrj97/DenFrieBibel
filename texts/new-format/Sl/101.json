@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 27
         }
       ],
@@ -41,11 +42,13 @@
       "text": "\fJeg vil ikke sætte mig\fen nederdrægtig sag for øje;\fjeg har hadet at begå overtrædelser,\fdet skal ikke hænge ved mig.",
       "footnotes": [
         {
-          "text": "T: Ordene: »for øje« hører i grundteksten til foregående linje.",
+          "text": "Ordene: »for øje« hører i grundteksten til foregående linje.",
+          "type": "T",
           "position": 52
         },
         {
-          "text": "E: Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (»at begå«) forudsætter: *ʕōśê*: »dem der begår«.",
+          "text": "Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (»at begå«) forudsætter: *ʕōśê*: »dem der begår«.",
+          "type": "E",
           "position": 74
         }
       ],
@@ -62,7 +65,8 @@
       "text": "\fDen som i hemmelighed bagtaler sin næste,\fham vil jeg udslette.\fDen som har stolte øjne og hovmodigt hjerte,\fham vil jeg ikke tåle.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »bringe til tavshed«.",
+          "text": "Kan også oversættes: »bringe til tavshed«.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -78,7 +82,8 @@
       "text": "\fI mit hus skal ingen bo\fsom handler bedragerisk.\fDen som taler løgn, skal ikke bestå\ffor mine øjne.",
       "footnotes": [
         {
-          "text": "T: Ordret: »bedrag«.",
+          "text": "Ordret: »bedrag«.",
+          "type": "T",
           "position": 49
         }
       ],
@@ -89,7 +94,8 @@
       "text": "\fHver morgen vil jeg udslette\falle landets ugudelige\ffor at udrydde fra JHVHs by\falle dem som begår synd.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »bringe til tavshed«, jf. v.5.",
+          "text": "Kan også oversættes: »bringe til tavshed«, jf. v.5.",
+          "type": "T",
           "position": 29
         }
       ],

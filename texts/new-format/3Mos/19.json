@@ -33,7 +33,8 @@
       "text": "\fNår I høster jeres lands høst, må du ikke høste helt ud til kanten af din mark, og du må heller ikke være grundig med at samle det ind der er tilbage efter din høst.",
       "footnotes": [
         {
-          "text": "T: Ordret: »din høsts efterslæt«.",
+          "text": "Ordret: »din høsts efterslæt«.",
+          "type": "T",
           "position": 165
         }
       ],
@@ -59,7 +60,8 @@
       "text": "\fDu må ikke øve vold mod din næste eller udplyndre ham, du må ikke beholde daglejerens arbejdsløn natten over til næste dag.",
       "footnotes": [
         {
-          "text": "T: Ordret: »din daglejers arbejdsløn må ikke overnatte hos dig«.",
+          "text": "Ordret: »din daglejers arbejdsløn må ikke overnatte hos dig«.",
+          "type": "T",
           "position": 109
         }
       ],
@@ -75,11 +77,13 @@
       "text": "\fI må ikke gøre uret i dommen, du må ikke holde med en fattig og heller ikke tage parti for en anset; men du skal dømme din landsmand med retfærdighed.",
       "footnotes": [
         {
-          "text": "T: Ordret: »løfte en fattigs ansigt«.",
+          "text": "Ordret: »løfte en fattigs ansigt«.",
+          "type": "T",
           "position": 61
         },
         {
-          "text": "T: Ordret: »ære en ansets ansigt«.",
+          "text": "Ordret: »ære en ansets ansigt«.",
+          "type": "T",
           "position": 101
         }
       ],

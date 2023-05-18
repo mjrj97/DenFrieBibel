@@ -20,7 +20,8 @@
       "title": "Israelitternes tolv stammeledere ofrer seks vogne og tolv okser til helligdommens tjeneste, og de gives til gershonitterne og meraritterne.",
       "footnotes": [
         {
-          "text": "E: Ordet »dag« bruges her om handlinger som strækker sig over en længere periode.",
+          "text": "Ordet »dag« bruges her om handlinger som strækker sig over en længere periode.",
+          "type": "E",
           "position": 8
         }
       ],
@@ -469,7 +470,8 @@
       "title": "JHVH taler med Moses fra nådestolen.",
       "footnotes": [
         {
-          "text": "T: Dvs. med JHVH.",
+          "text": "Dvs. med JHVH.",
+          "type": "T",
           "position": 59
         }
       ],

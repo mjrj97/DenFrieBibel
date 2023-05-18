@@ -24,15 +24,18 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«).",
+          "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«).",
+          "type": "E",
           "position": 30
         },
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 55
         }
       ],
@@ -50,7 +53,8 @@
       "title": "Lovprisning af brudgommen og hans kongedømme",
       "footnotes": [
         {
-          "text": "E: Det hebraiske ord *yofyāfîtā* er besynderligt ved tilsyneladende at være sammensat af to ord: *yofî* (»skønhed«)og *yāfîtā* (»du er skøn, smuk«). Det er helt ualmindeligt i bibelsk hebraisk, men det må regnes til digterisk frihed at danne et så enestående men kraftfuldt ord som der faktisk er tale om her.",
+          "text": "Det hebraiske ord *yofyāfîtā* er besynderligt ved tilsyneladende at være sammensat af to ord: *yofî* (»skønhed«)og *yāfîtā* (»du er skøn, smuk«). Det er helt ualmindeligt i bibelsk hebraisk, men det må regnes til digterisk frihed at danne et så enestående men kraftfuldt ord som der faktisk er tale om her.",
+          "type": "E",
           "position": 25
         }
       ],
@@ -66,11 +70,13 @@
       "text": "\fog hav fremgang i din herlighed,\fdrag frem for sandheds skyld, og ydmyghed med retfærdighed,\fog din højre hånd skal lære dig frygtelige gerninger.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (»og din herlighed«). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif'il af verbet *drk*: »spænd (buen)«.",
+          "text": "Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (»og din herlighed«). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif'il af verbet *drk*: »spænd (buen)«.",
+          "type": "E",
           "position": 33
         },
         {
-          "text": "E: Ordret: »for sandhed og ydmyghed retfærdighed«. Mange vælger at flytte »og«: »for sandhed, ydmyghed og retfærdighed«. Andre retter *wᵊʕanwāʰ*(»og ydmyghed«) til *wᵊjaʕan*: »og for (retfærdigheds) skyld«. Vokaliseringen af *wᵊʕanwāʰ* er dog uregelmæssig og antyder måske at det skal forbindes nært til »retfærdighed«. Derved understreges kongens ansvar som den svages forsvarer.",
+          "text": "Ordret: »for sandhed og ydmyghed retfærdighed«. Mange vælger at flytte »og«: »for sandhed, ydmyghed og retfærdighed«. Andre retter *wᵊʕanwāʰ*(»og ydmyghed«) til *wᵊjaʕan*: »og for (retfærdigheds) skyld«. Vokaliseringen af *wᵊʕanwāʰ* er dog uregelmæssig og antyder måske at det skal forbindes nært til »retfærdighed«. Derved understreges kongens ansvar som den svages forsvarer.",
+          "type": "E",
           "position": 93
         }
       ],
@@ -81,7 +87,8 @@
       "text": "\fDine pile er hvæssede,\ffolk skal falde under dig\fi hjertet af kongens fjender.",
       "footnotes": [
         {
-          "text": "E: Teksten er omdiskuteret. »i hjertet« må her opfattes som: »midt blandt«, medmindre man vil flytte den midterste linje ned som sidste linje i verset og underforstå et »sidder«: »Dine hvæssede pile sidder i hjertet på kongens fjender, folk skal falde under dig«.",
+          "text": "Teksten er omdiskuteret. »i hjertet« må her opfattes som: »midt blandt«, medmindre man vil flytte den midterste linje ned som sidste linje i verset og underforstå et »sidder«: »Dine hvæssede pile sidder i hjertet på kongens fjender, folk skal falde under dig«.",
+          "type": "E",
           "position": 59
         }
       ],
@@ -92,7 +99,8 @@
       "text": "\fDin trone, gud, står evigt og altid,\fdit kongescepter er retskaffenheds scepter.",
       "footnotes": [
         {
-          "text": "E: Det er enestående i GT at kongen tiltales »gud« (måske bortset fra Es 9,5-6). Kongen betragtes her som Guds repræsentant og – netop fordi han er indsat af Gud – som ét med Gud.",
+          "text": "Det er enestående i GT at kongen tiltales »gud« (måske bortset fra Es 9,5-6). Kongen betragtes her som Guds repræsentant og – netop fordi han er indsat af Gud – som ét med Gud.",
+          "type": "E",
           "position": 16
         }
       ],
@@ -108,7 +116,8 @@
       "text": "\fAlle dine klæder er myrra og aloe og kassia,\ffra elfenbenspaladser fryder strengespil dig.",
       "footnotes": [
         {
-          "text": "T: Dvs.: de dufter af »myrra og …«",
+          "text": "Dvs.: de dufter af »myrra og …«",
+          "type": "T",
           "position": 45
         }
       ],
@@ -120,7 +129,8 @@
       "title": "Lovprisning af bruden",
       "footnotes": [
         {
-          "text": "E: Meningen kan være at fornemme er samlet blandt brudepigerne eller gæsterne (»dyrebare«) nu hvor den unge dronning træder hen til kongen. Der kunne også oversættes »dine elskede«, men i sammenhængen er der næppe tænkt på at kongen har mange kongedøtre i sit harem. Mange oversættere følger et forslag om at ændre *bᵊyiqqᵊrôteʸxā* (»blandt dine dyrebare«) til: *liqrāʔtᵊxā*: »(går) dig i møde«, ligesom man ofte vælger at ændre *bᵊnôt mᵊlāxîm* (»kongedøtre«) til: *bat-melex*: »kongedatter«, så sætningen lyder: »En kongedatter går dig i møde«. Det giver god mening, men er i virkeligheden ret vilkårligt.",
+          "text": "Meningen kan være at fornemme er samlet blandt brudepigerne eller gæsterne (»dyrebare«) nu hvor den unge dronning træder hen til kongen. Der kunne også oversættes »dine elskede«, men i sammenhængen er der næppe tænkt på at kongen har mange kongedøtre i sit harem. Mange oversættere følger et forslag om at ændre *bᵊyiqqᵊrôteʸxā* (»blandt dine dyrebare«) til: *liqrāʔtᵊxā*: »(går) dig i møde«, ligesom man ofte vælger at ændre *bᵊnôt mᵊlāxîm* (»kongedøtre«) til: *bat-melex*: »kongedatter«, så sætningen lyder: »En kongedatter går dig i møde«. Det giver god mening, men er i virkeligheden ret vilkårligt.",
+          "type": "E",
           "position": 36
         }
       ],
@@ -141,7 +151,8 @@
       "text": "\fOg Tyrus' datter,\fmed gave søger et folks rigmænd din gunst.",
       "footnotes": [
         {
-          "text": "E: Ordret: »vil blødgøre dit ansigt«. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (»datter«) til *bᵊnôt-* (»døtre«), flytte adskillelsen mellem linjerne og underforstå et »kommer til dig«: »Tyrus' døtre kommer til dig med gave, et folks rigmænd søger din gunst«.",
+          "text": "Ordret: »vil blødgøre dit ansigt«. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (»datter«) til *bᵊnôt-* (»døtre«), flytte adskillelsen mellem linjerne og underforstå et »kommer til dig«: »Tyrus' døtre kommer til dig med gave, et folks rigmænd søger din gunst«.",
+          "type": "E",
           "position": 61
         }
       ],
@@ -152,7 +163,8 @@
       "text": "\fEn kongedatter er lutter pragt i det indre,\fhendes dragt er tilvirket med guld.",
       "footnotes": [
         {
-          "text": "E: Ordret: »al pragt en kongedatter i det indre/indadtil«. Der er intet verbum som derfor må underforstås, enten »er« eller »(I al sin pragt) træder (en kongedatter) ind«.",
+          "text": "Ordret: »al pragt en kongedatter i det indre/indadtil«. Der er intet verbum som derfor må underforstås, enten »er« eller »(I al sin pragt) træder (en kongedatter) ind«.",
+          "type": "E",
           "position": 44
         }
       ],
@@ -174,7 +186,8 @@
       "title": "Afsluttende ord til brudgommen",
       "footnotes": [
         {
-          "text": "T: Oversættes undertiden: »over hele jorden«, men præpositionen *bᵊ* betyder: »i«.",
+          "text": "Oversættes undertiden: »over hele jorden«, men præpositionen *bᵊ* betyder: »i«.",
+          "type": "T",
           "position": 87
         }
       ],

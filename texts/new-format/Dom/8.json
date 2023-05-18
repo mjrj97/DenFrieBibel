@@ -20,7 +20,8 @@
       "title": "Efraimitterne kritiserer Gideon, men stilles tilfreds af ham",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *ʔîš ʔefrayim,* ordret »Efraims mand«, kan være en kollektiv betegnelse for Efraims ledere, men der er traditionen for at oversætte med »efraimitterne«.",
+          "text": "Grundtekstens *ʔîš ʔefrayim,* ordret »Efraims mand«, kan være en kollektiv betegnelse for Efraims ledere, men der er traditionen for at oversætte med »efraimitterne«.",
+          "type": "E",
           "position": 14
         }
       ],
@@ -67,7 +68,8 @@
       "text": "Han sagde så til mændene i Penuel: »Når jeg kommer tilbage med fred, vil jeg rive dette tårn ned.«",
       "footnotes": [
         {
-          "text": "E: Udtrykket *bᵊšûvî vᵊšālôm* »vender tilbage i fred« må vel meningsmæssigt betyde enten »vender uskadt tilbage« (GT1931) eller måske snarere »komme tilbage efter at have sikret freden« (cf »vender tilbage som sejrherre« DO92). Det er dog interessant at bevare den ironiske kontrast mellem at han taler om at vinde fred og så truer med en militær handling.",
+          "text": "Udtrykket *bᵊšûvî vᵊšālôm* »vender tilbage i fred« må vel meningsmæssigt betyde enten »vender uskadt tilbage« (GT1931) eller måske snarere »komme tilbage efter at have sikret freden« (cf »vender tilbage som sejrherre« DO92). Det er dog interessant at bevare den ironiske kontrast mellem at han taler om at vinde fred og så truer med en militær handling.",
+          "type": "E",
           "position": 68
         }
       ],
@@ -177,7 +179,8 @@
       "text": "Jerub-ba'al, Joashs søn, bosatte sig i sit hus.",
       "footnotes": [
         {
-          "text": "E: Vers 29 hører sandsynligvis sammen med det efterfølgende afsnit.",
+          "text": "Vers 29 hører sandsynligvis sammen med det efterfølgende afsnit.",
+          "type": "E",
           "position": 47
         }
       ],

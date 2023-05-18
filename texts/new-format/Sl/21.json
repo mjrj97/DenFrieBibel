@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fDu har givet ham, hvad hans hjerte ønskede,\fog ikke nægtet ham det hans læber bad om. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 91
         }
       ],
@@ -52,7 +54,8 @@
       "text": "\fFor du kommer ham i møde med velsignelser, fulde af godhed,\fdu sætter en krone af fint guld på hans hoved.",
       "footnotes": [
         {
-          "text": "T: Ordret: »godheds velsignelser«.",
+          "text": "Ordret: »godheds velsignelser«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -73,7 +76,8 @@
       "text": "\fFor du gør ham til velsignelser for altid,\fdu fylder ham med glæde for dit ansigt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »du glæder ham med glæde«.",
+          "text": "Ordret: »du glæder ham med glæde«.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -84,7 +88,8 @@
       "text": "\fFor kongen stoler på JHVH,\fog ved den Højestes nåde skal han ikke rokkes.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 52
         }
       ],
@@ -101,7 +106,8 @@
       "text": "\fDu skal gøre dem som en brændende ovn når du viser dit ansigt,\fJHVH skal opsluge dem i sin vrede,\fog ild skal fortære dem.",
       "footnotes": [
         {
-          "text": "E: Der er flere tekstmæssige vanskeligheder i verset. Ifølge den adskillende accent går første halvvers hertil. Det er usædvanlig langt. Og derved er det et problem at afgøre hvor »JHVH« hører til. Hvis det hører til »viser dit ansigt«, er verset dog talt til JHVH i modsætning til de omkringstående vers. Derfor den valgte oversættelse.",
+          "text": "Der er flere tekstmæssige vanskeligheder i verset. Ifølge den adskillende accent går første halvvers hertil. Det er usædvanlig langt. Og derved er det et problem at afgøre hvor »JHVH« hører til. Hvis det hører til »viser dit ansigt«, er verset dog talt til JHVH i modsætning til de omkringstående vers. Derfor den valgte oversættelse.",
+          "type": "E",
           "position": 98
         }
       ],
@@ -112,11 +118,13 @@
       "text": "\fDu skal udslette deres afkom  af jorden\fog deres sæd blandt menneskers børn.",
       "footnotes": [
         {
-          "text": "T: Ordret: »frugt«",
+          "text": "Ordret: »frugt«",
+          "type": "T",
           "position": 30
         },
         {
-          "text": "T: Ordret: »Adams børn«.",
+          "text": "Ordret: »Adams børn«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -132,7 +140,8 @@
       "text": "\fFor du skal slå dem på flugt,\fdu sigter med dine buestrenge mod deres ansigt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Du gør dem til ryg«.",
+          "text": "Ordret: »Du gør dem til ryg«.",
+          "type": "T",
           "position": 30
         }
       ],

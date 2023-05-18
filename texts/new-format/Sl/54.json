@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 39
         }
       ],
@@ -55,15 +57,18 @@
       "text": "\fFor fremmede har rejst sig imod mig,\fog voldsmænd stræber efter mit liv,\fde har ikke Gud for øje. Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 72
         },
         {
-          "text": "T: Ordret: »De har ikke stillet Gud foran sig«.",
+          "text": "Ordret: »De har ikke stillet Gud foran sig«.",
+          "type": "T",
           "position": 98
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 103
         }
       ],
@@ -80,11 +85,13 @@
       "text": "\fDet onde skal vende tilbage til mine fjender,\fudryd dem i din trofasthed!",
       "footnotes": [
         {
-          "text": "T: Der er tvivl om vokaliseringen af verbet *yšwv*. Oversættelsen her forudsætter vokalisering som jussiv (*yāšôv*). En anden mulighed er imperfektum (*yāšûv*): »Det onde vil vende tilbage …«. Endelig har jødiske skriftlærte foreslået hif’il: *yāšîv*, hvor Gud er subjekt: »Han vil lade det onde vende tilbage …«.",
+          "text": "Der er tvivl om vokaliseringen af verbet *yšwv*. Oversættelsen her forudsætter vokalisering som jussiv (*yāšôv*). En anden mulighed er imperfektum (*yāšûv*): »Det onde vil vende tilbage …«. Endelig har jødiske skriftlærte foreslået hif’il: *yāšîv*, hvor Gud er subjekt: »Han vil lade det onde vende tilbage …«.",
+          "type": "T",
           "position": 28
         },
         {
-          "text": "T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
+          "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
+          "type": "T",
           "position": 74
         }
       ],

@@ -38,7 +38,8 @@
       "text": "\f\t\t\t\tIld går foran ham\f\t\t\t\t\tog brænder hans fjender rundt omkring.",
       "footnotes": [
         {
-          "text": "T: Ordret: »foran hans ansigt«",
+          "text": "Ordret: »foran hans ansigt«",
+          "type": "T",
           "position": 22
         }
       ],
@@ -55,7 +56,8 @@
       "text": "\f\t\t\t\tBjergene smeltede som voks foran JHVH,\fforan hele jordens Herre.",
       "footnotes": [
         {
-          "text": "T: Ordret: »foran JHVHs ansigt«. Tilsvarende i næste linje.",
+          "text": "Ordret: »foran JHVHs ansigt«. Tilsvarende i næste linje.",
+          "type": "T",
           "position": 43
         }
       ],
@@ -87,7 +89,8 @@
       "text": "\fI, som elsker JHVH,\t\tskal hade det onde;\f\t\t\t\than beskytter sine frommes liv,\f\t\t\than vil redde dem fra de ugudeliges hånd.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »sjæle«.",
+          "text": "Kan også oversættes: »sjæle«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -98,7 +101,8 @@
       "text": "\f\t\t\t\tLys er sået for den retfærdige\f\t\t\t\t\tog glæde for dem med oprigtigt hjerte.",
       "footnotes": [
         {
-          "text": "E: Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: »er strålet frem« i stedet for: *zāruₐʕ* (»er sået«).",
+          "text": "Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: »er strålet frem« i stedet for: *zāruₐʕ* (»er sået«).",
+          "type": "E",
           "position": 16
         }
       ],
@@ -109,7 +113,8 @@
       "text": "\f\tGlæd jer,\t\t\t\tI retfærdige,\t\t\ti JHVH,\f\t\tog tak hans hellige navn!",
       "footnotes": [
         {
-          "text": "E: Ordret: »minde/ihukommelse«. Men når der er tale om Gud, står det oftest som synonym for hans navn.",
+          "text": "Ordret: »minde/ihukommelse«. Men når der er tale om Gud, står det oftest som synonym for hans navn.",
+          "type": "E",
           "position": 66
         }
       ],

@@ -29,7 +29,8 @@
       "text": "Abraham blev far til Isak, og Isak blev far til Jakob, og Jakob blev far til Juda og hans brødre,",
       "footnotes": [
         {
-          "text": "T: »Blev far til« kan bruges om far og søn, far og sønnesøn og far og oldebarn",
+          "text": "»Blev far til« kan bruges om far og søn, far og sønnesøn og far og oldebarn",
+          "type": "T",
           "position": 26
         }
       ],
@@ -136,7 +137,8 @@
       "text": "Men alt dette er sket for at det skal opfyldes som er blevet talt af Herren ved profeten, som sagde:",
       "footnotes": [
         {
-          "text": "H: Es 7,14",
+          "text": "Es 7,14",
+          "type": "H",
           "position": 100
         }
       ],
@@ -157,7 +159,8 @@
       "text": "og han kendte hende ikke før hun havde født sin søn, og han gav ham navnet Jesus.",
       "footnotes": [
         {
-          "text": "T: Ordet »kendte« bruges her om et seksuelt forhold.",
+          "text": "Ordet »kendte« bruges her om et seksuelt forhold.",
+          "type": "T",
           "position": 13
         }
       ],

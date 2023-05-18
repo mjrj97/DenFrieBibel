@@ -24,7 +24,8 @@
       "title": "Opfordring til lovsang",
       "footnotes": [
         {
-          "text": "E: Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.",
+          "text": "Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -35,11 +36,13 @@
       "text": "\fSyng for ham, spil og syng lovsang for ham,\ftal om alle hans undere!",
       "footnotes": [
         {
-          "text": "E: I grundteksten er det blot ét ord (*zammᵊrû*) der angiver forherligelse ved spil og sang.",
+          "text": "I grundteksten er det blot ét ord (*zammᵊrû*) der angiver forherligelse ved spil og sang.",
+          "type": "E",
           "position": 35
         },
         {
-          "text": "E: Oversættelsen af verbet *śîḥû* på dette sted er omdiskuteret. Andre oversætter: »syng« eller: »tænk over«.",
+          "text": "Oversættelsen af verbet *śîḥû* på dette sted er omdiskuteret. Andre oversætter: »syng« eller: »tænk over«.",
+          "type": "E",
           "position": 48
         }
       ],
@@ -50,7 +53,8 @@
       "text": "\fRos jer af hans hellige navn,\fderes hjerte som søger JHVH, skal glæde sig!",
       "footnotes": [
         {
-          "text": "T: Ordret: »hans helligheds navn«.",
+          "text": "Ordret: »hans helligheds navn«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -71,15 +75,18 @@
       "text": "\fI efterkommere af Abraham, hans tjener,\fI hans udvalgte sønner af Jakob!",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "E: Septuaginta har læst ordet *ʕavdô* (»hans tjener«) som pluralis, så det går på »efterkommere«: »I hans tjenere, efterkommere af Abraham«.",
+          "text": "Septuaginta har læst ordet *ʕavdô* (»hans tjener«) som pluralis, så det går på »efterkommere«: »I hans tjenere, efterkommere af Abraham«.",
+          "type": "E",
           "position": 40
         },
         {
-          "text": "E: To håndskifter har singularis (»den udvalgte«) der da går på Jakob: »I sønner af Jakob, hans udvalgte«.",
+          "text": "To håndskifter har singularis (»den udvalgte«) der da går på Jakob: »I sønner af Jakob, hans udvalgte«.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -101,7 +108,8 @@
       "text": "\fsom han har indgået med Abraham,\fog sin ed til Isak.",
       "footnotes": [
         {
-          "text": "T: Der er tale om et højtideligt løfte.",
+          "text": "Der er tale om et højtideligt løfte.",
+          "type": "T",
           "position": 43
         }
       ],
@@ -123,7 +131,8 @@
       "title": "Fra Kana’an til Egypten",
       "footnotes": [
         {
-          "text": "T: Ordret: »i mænds tal«",
+          "text": "Ordret: »i mænds tal«",
+          "type": "T",
           "position": 25
         }
       ],
@@ -139,7 +148,8 @@
       "text": "\fda tillod han intet menneske at undertrykke dem\fog formanede konger for deres skyld:",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »straffede«.",
+          "text": "Kan også oversættes: »straffede«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -155,7 +165,8 @@
       "text": "\fDa han kaldte hungersnød over landet,\fsønderbrød enhver brødstav,",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret om der er tænkt på en stav hvor de ringformede brød var anbragt, eller figurativt om brødet som støttestav i livet.",
+          "text": "Det er omdiskuteret om der er tænkt på en stav hvor de ringformede brød var anbragt, eller figurativt om brødet som støttestav i livet.",
+          "type": "E",
           "position": 66
         }
       ],
@@ -171,7 +182,8 @@
       "text": "\fDe tvang hans fødder i fodlænke,\fjern gennemtrængte hans sjæl",
       "footnotes": [
         {
-          "text": "E: Oversættelsen af linjen er omdiskuteret. Denne oversættelse opfatter sætningen som billedligt udtryk for sjælelig smerte. Det forudsættes at »jern« er brugt som synonym for sværd. Andre forstår *nafšô* (»hans sjæl«) som: »hans hals«, så linjen oversættes: »hans hals blev lagt i jern«.",
+          "text": "Oversættelsen af linjen er omdiskuteret. Denne oversættelse opfatter sætningen som billedligt udtryk for sjælelig smerte. Det forudsættes at »jern« er brugt som synonym for sværd. Andre forstår *nafšô* (»hans sjæl«) som: »hans hals«, så linjen oversættes: »hans hals blev lagt i jern«.",
+          "type": "E",
           "position": 62
         }
       ],
@@ -187,7 +199,8 @@
       "text": "\fKongen sendte bud og satte ham fri,\ffolkeslags hersker løslod ham.",
       "footnotes": [
         {
-          "text": "E: Sprogligt kan Gud være subjekt i verset: »Han sendte kongen som satte ham fri, folkeslags hersker som løslod ham«. I v.21 er det dog kongen (Farao) der er subjekt.",
+          "text": "Sprogligt kan Gud være subjekt i verset: »Han sendte kongen som satte ham fri, folkeslags hersker som løslod ham«. I v.21 er det dog kongen (Farao) der er subjekt.",
+          "type": "E",
           "position": 67
         }
       ],
@@ -203,11 +216,13 @@
       "text": "\fså han kunne vejlede hans fyrster efter sin vilje\fog give hans ældste visdom.",
       "footnotes": [
         {
-          "text": "E: Ordret formodentlig: »så han kunne binde hans fyrster til sin sjæl«. Med bl.a. Septuaginta retter man som regel *leˀsōr* (»binde«) til: *lᵊyassēr*: »vejlede«. Det kan ikke udelukkes at *ʔsr* blot er en afvigende stavemåde for *ysr*. Den masoretiske tekst kan dog muligvis oversættes: »Så han (kongen) kunne binde sine fyrster til hans (Josefs) sjæl«.",
+          "text": "Ordret formodentlig: »så han kunne binde hans fyrster til sin sjæl«. Med bl.a. Septuaginta retter man som regel *leˀsōr* (»binde«) til: *lᵊyassēr*: »vejlede«. Det kan ikke udelukkes at *ʔsr* blot er en afvigende stavemåde for *ysr*. Den masoretiske tekst kan dog muligvis oversættes: »Så han (kongen) kunne binde sine fyrster til hans (Josefs) sjæl«.",
+          "type": "E",
           "position": 21
         },
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 50
         }
       ],
@@ -239,7 +254,8 @@
       "text": "\fBlandt dem proklamerede de hans tegn\fog hans undere i Kams land.",
       "footnotes": [
         {
-          "text": "E: Ordret: »de rejste blandt dem hans tegns ord/ting«. Meningen må enten være at Moses og Aron proklamerede Guds underfulde tegn blandt egypterne, eller at de udførte dem. Mange oversættere vælger en rettelse (som dog ikke har støtte i håndskrifter): *bām divrê* (»blandt dem ord/ting«) til: *bᵊmiṣrayim*: »i Egypten«. Linjen lyder så: »De gjorde hans tegn i Egypten«.",
+          "text": "Ordret: »de rejste blandt dem hans tegns ord/ting«. Meningen må enten være at Moses og Aron proklamerede Guds underfulde tegn blandt egypterne, eller at de udførte dem. Mange oversættere vælger en rettelse (som dog ikke har støtte i håndskrifter): *bām divrê* (»blandt dem ord/ting«) til: *bᵊmiṣrayim*: »i Egypten«. Linjen lyder så: »De gjorde hans tegn i Egypten«.",
+          "type": "E",
           "position": 37
         }
       ],
@@ -250,7 +266,8 @@
       "text": "\fHan sendte mørke, så det blev mørkt,\fog de trodsede ikke hans ord.",
       "footnotes": [
         {
-          "text": "E: Septuginta og den syriske oversættelse har ikke negationen. Deres tekst lyder: »men de trodsede hans ord«. Mange oversættere opfatter *wᵊlōˀ-mārû* (»og de trodsede ikke«) som fejlskrivning for: *wᵊlōˀ šāmᵊrû*: »men de adlød ikke«.",
+          "text": "Septuginta og den syriske oversættelse har ikke negationen. Deres tekst lyder: »men de trodsede hans ord«. Mange oversættere opfatter *wᵊlōˀ-mārû* (»og de trodsede ikke«) som fejlskrivning for: *wᵊlōˀ šāmᵊrû*: »men de adlød ikke«.",
+          "type": "E",
           "position": 57
         }
       ],
@@ -271,7 +288,8 @@
       "text": "\fHan talte, så kom der fluer,\fmyg i hele deres landområde.",
       "footnotes": [
         {
-          "text": "E: Det er usikkert hvad ordet *ʕārōv* (»fluer«) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: »bremser«. Andre har opfattet det som »spyfluer« eller »skadedyr« eller »sværm af insekter«. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.",
+          "text": "Det er usikkert hvad ordet *ʕārōv* (»fluer«) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: »bremser«. Andre har opfattet det som »spyfluer« eller »skadedyr« eller »sværm af insekter«. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.",
+          "type": "E",
           "position": 29
         }
       ],
@@ -282,7 +300,8 @@
       "text": "\fHan gav dem hagl som deres regnbyger,\fflammende ild over deres land.",
       "footnotes": [
         {
-          "text": "T: Ordret: »flammers ild«.",
+          "text": "Ordret: »flammers ild«.",
+          "type": "T",
           "position": 52
         }
       ],
@@ -298,7 +317,8 @@
       "text": "\fHan talte, så kom der græshopper\fog græshoppelarver uden tal.",
       "footnotes": [
         {
-          "text": "E: Der er usikkerhed om den præcise betydning af ordet *yeleq*. Formodentlig er der her tænkt på endnu ikke udvoksede græshopper; en anden mulighed er at det er en bestemt græshoppeart.",
+          "text": "Der er usikkerhed om den præcise betydning af ordet *yeleq*. Formodentlig er der her tænkt på endnu ikke udvoksede græshopper; en anden mulighed er at det er en bestemt græshoppeart.",
+          "type": "E",
           "position": 52
         }
       ],
@@ -314,7 +334,8 @@
       "text": "\fHan dræbte hver førstefødte i deres land,\fførstegrøden af al deres manddomskraft.",
       "footnotes": [
         {
-          "text": "T: Ordret: »slog ned«.",
+          "text": "Ordret: »slog ned«.",
+          "type": "T",
           "position": 11
         }
       ],
@@ -341,7 +362,8 @@
       "text": "\fDe spurgte, og han bragte vagtler\fog mættede dem med himmelbrød.",
       "footnotes": [
         {
-          "text": "E: Ordret: »Han spurgte«. Meningen kan være at Moses spurgte. Som regel opfatter man dog enten formuleringen som kollektiv: »man spurgte«, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): »de spurgte«. Grundtekstens verbum skal i en del sammenhænge oversættes: »kræve, forlange«, hvor det dog som regel har objekt. Men denne betydning klinger med her.",
+          "text": "Ordret: »Han spurgte«. Meningen kan være at Moses spurgte. Som regel opfatter man dog enten formuleringen som kollektiv: »man spurgte«, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): »de spurgte«. Grundtekstens verbum skal i en del sammenhænge oversættes: »kræve, forlange«, hvor det dog som regel har objekt. Men denne betydning klinger med her.",
+          "type": "E",
           "position": 12
         }
       ],
@@ -358,11 +380,13 @@
       "title": "Gud husker sit hellige løfte",
       "footnotes": [
         {
-          "text": "T: Ordret: »helligheds ord«.",
+          "text": "Ordret: »helligheds ord«.",
+          "type": "T",
           "position": 32
         },
         {
-          "text": "E: Ordret: »med«. Der er formodentlig tænkt på pagten som er omtalt i v.8-9.",
+          "text": "Ordret: »med«. Der er formodentlig tænkt på pagten som er omtalt i v.8-9.",
+          "type": "E",
           "position": 36
         }
       ],
@@ -378,7 +402,8 @@
       "text": "\fHan gav dem folks lande,\fde tog folkeslags udbytte i besiddelse,",
       "footnotes": [
         {
-          "text": "T: Ordret: »frugt af arbejde«.",
+          "text": "Ordret: »frugt af arbejde«.",
+          "type": "T",
           "position": 51
         }
       ],
@@ -389,11 +414,13 @@
       "text": "\fmed det formål at de skulle holde hans bestemmelser\fog overholde hans love.\fHalleluja! ",
       "footnotes": [
         {
-          "text": "N: lov",
+          "text": "lov",
+          "type": "N",
           "position": 76
         },
         {
-          "text": "T: Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette »halleluja«.",
+          "text": "Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette »halleluja«.",
+          "type": "T",
           "position": 88
         }
       ],

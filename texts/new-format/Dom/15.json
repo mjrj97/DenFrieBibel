@@ -55,7 +55,8 @@
       "text": "Han slog dem sønder og sammen. Han gik ned og slog sig ned i en kløft på Etam-klippen.",
       "footnotes": [
         {
-          "text": "E: Hebraisk *šôq ʕal-yārēx makkāʰ gᵊdôlāʰ* »hofte over-lårben slag stort« blev i 1871 oversat: »Og han slog dem med et stort Slag paa Hoften og paa Laarene«. Ofte omskrives det til »Saa slog han dem sønder og sammen med vældige Slag« (GT1931) eller »fuldstændig sønder og sammen« (DO92).",
+          "text": "Hebraisk *šôq ʕal-yārēx makkāʰ gᵊdôlāʰ* »hofte over-lårben slag stort« blev i 1871 oversat: »Og han slog dem med et stort Slag paa Hoften og paa Laarene«. Ofte omskrives det til »Saa slog han dem sønder og sammen med vældige Slag« (GT1931) eller »fuldstændig sønder og sammen« (DO92).",
+          "type": "E",
           "position": 30
         }
       ],
@@ -108,7 +109,8 @@
       "title": "Samson tørster, JHVH giver ham vand, han er dommer over Israel i 20 år",
       "footnotes": [
         {
-          "text": "T: dvs. Kæbehøjen",
+          "text": "dvs. Kæbehøjen",
+          "type": "T",
           "position": 78
         }
       ],
@@ -124,7 +126,8 @@
       "text": "\fDa åbnede Gud et hulrum ved Lehi, og der flød vand ud af det. Han drak, og hans ånd vendte tilbage, og han livede op. Derfor har man til den dag i dag kaldt stedet for En-ha-Kore.",
       "footnotes": [
         {
-          "text": "T: Dvs. Den Råbendes kilde, som er i Lehi",
+          "text": "Dvs. Den Råbendes kilde, som er i Lehi",
+          "type": "T",
           "position": 180
         }
       ],

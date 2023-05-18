@@ -108,7 +108,8 @@
       "text": "Da han havde sat sig til bords med dem, tog han brødet, velsignede og brød det og gav dem det.",
       "footnotes": [
         {
-          "text": "T: Ordret: »lagt sig«.",
+          "text": "Ordret: »lagt sig«.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -139,7 +140,8 @@
       "text": "Og de fortalte hvad der var sket på vejen, og hvordan de genkendte ham da han brød brødet.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hvordan han blev kendt for dem«.",
+          "text": "Ordret: »hvordan han blev kendt for dem«.",
+          "type": "T",
           "position": 70
         }
       ],

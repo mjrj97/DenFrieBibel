@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         },
         {
-          "text": "T: Kan også oversættes: »salig«.",
+          "text": "Kan også oversættes: »salig«.",
+          "type": "T",
           "position": 22
         }
       ],
@@ -45,7 +47,8 @@
       "text": "\fDin hustru er som en frugtbar vinstok\fi dit hus’ indre,\fdine sønner er som oliventræers skud\fomkring dit bord.",
       "footnotes": [
         {
-          "text": "T: Ordret: »aflæggere/stiklinger af oliventræer«.",
+          "text": "Ordret: »aflæggere/stiklinger af oliventræer«.",
+          "type": "T",
           "position": 93
         }
       ],

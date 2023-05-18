@@ -35,7 +35,8 @@
       "title": "Jonas’ forkyndelse redder Nineve",
       "footnotes": [
         {
-          "text": "T: Ordet *mahᵃlāx* »rejse, vandring« bruges kun fem gange; det betyder næppe at byen er tre dagsrejser a 15 km i bredde, men snarere at forkynderturen skal foregå over tre dage.",
+          "text": "Ordet *mahᵃlāx* »rejse, vandring« bruges kun fem gange; det betyder næppe at byen er tre dagsrejser a 15 km i bredde, men snarere at forkynderturen skal foregå over tre dage.",
+          "type": "T",
           "position": 113
         }
       ],
@@ -51,7 +52,8 @@
       "text": "Da troede mændene i Nineve på Gud,\tog de udråbte en faste,\tog både store og små klædte sig i sæk.",
       "footnotes": [
         {
-          "text": "T: *Mændene* refererer måske her til lederne der har autoritet til at udråbe en faste.",
+          "text": "*Mændene* refererer måske her til lederne der har autoritet til at udråbe en faste.",
+          "type": "T",
           "position": 17
         }
       ],
@@ -72,7 +74,8 @@
       "text": "\t\t\t\t\t\t\tMen de skal tildække sig i sæk, både mennesker og dyr,\t\t\t\t\t\t\t\tog råbe højt til Gud,\t\t\t\t\t\t\t\t\tog de skal omvende sig\t\t\t\t\t\t\t\t\t\thver især fra deres onde vej og fra den uret\t\t\t\t\t\t\t\t\t\t\tsom de har begået.",
       "footnotes": [
         {
-          "text": "T: Ordret »som [er] i deres hænder.«",
+          "text": "Ordret »som [er] i deres hænder.«",
+          "type": "T",
           "position": 204
         }
       ],
@@ -83,7 +86,8 @@
       "text": "\t\t\t\t\tHvem ved\t\t\t\t\t\tom Gud igen\t\t\t\t\t\t\t\tvil angre \t\t\t\t\t\t\tog vende sig fra sin brændende vrede\t\t\t\t\t\t\t\tså vi ikke forgår.«",
       "footnotes": [
         {
-          "text": "E: »...om Gud igen vil angre«: Konstruktion på hebraisk er *yāšûv wᵊniḥam hāˀᵉlōhîm*: »...han vil gøre det igen, og så vil han angre, guden«. Effekten er at verbet *šwv* her både bruges grammatisk om at gentage noget, og efterfølgende om omvendelse.",
+          "text": "»...om Gud igen vil angre«: Konstruktion på hebraisk er *yāšûv wᵊniḥam hāˀᵉlōhîm*: »...han vil gøre det igen, og så vil han angre, guden«. Effekten er at verbet *šwv* her både bruges grammatisk om at gentage noget, og efterfølgende om omvendelse.",
+          "type": "E",
           "position": 48
         }
       ],

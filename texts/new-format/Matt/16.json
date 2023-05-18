@@ -127,7 +127,8 @@
       "title": "Den første lidelsesforudsigelse",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 154
         }
       ],

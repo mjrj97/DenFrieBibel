@@ -129,7 +129,8 @@
       "text": "Hvis nogen ikke elsker Herren, skal han være en forbandelse! Maran Atha.",
       "footnotes": [
         {
-          "text": "T: dvs. Herren kommer.",
+          "text": "dvs. Herren kommer.",
+          "type": "T",
           "position": 72
         }
       ],

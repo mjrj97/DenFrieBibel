@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 14
         },
         {
-          "text": "T: Lidt usikkert. Det kan evt. være en melodiangivelse.",
+          "text": "Lidt usikkert. Det kan evt. være en melodiangivelse.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -50,7 +52,8 @@
       "text": "\fJHVHv! Hør min røst om morgenen!\fOm morgenen fremlægger jeg min bøn for dig - og spejder.",
       "footnotes": [
         {
-          "text": "E: Verbet bruges i GT om at tilberede ofre, men kan i andre sammenhænge betyde »fremlægge«.",
+          "text": "Verbet bruges i GT om at tilberede ofre, men kan i andre sammenhænge betyde »fremlægge«.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -67,7 +70,8 @@
       "text": "De overmodige kan ikke træde frem for dine øjne!\fdu hader alle dem der begår synd.",
       "footnotes": [
         {
-          "text": "T: Formodentlig er der tænkt på gudløse.",
+          "text": "Formodentlig er der tænkt på gudløse.",
+          "type": "T",
           "position": 13
         }
       ],
@@ -78,7 +82,8 @@
       "text": "\fDu udrydder dem der taler løgn.\fJHVH afskyr morderen og bedrageren.",
       "footnotes": [
         {
-          "text": "T: Ordret: »blodets mand«.",
+          "text": "Ordret: »blodets mand«.",
+          "type": "T",
           "position": 53
         }
       ],
@@ -89,11 +94,13 @@
       "text": "\fMen jeg kan ved din store nåde komme til dit hus,\fjeg vil i ærefrygt bøje mig i bøn vendt mod dit hellige tempel\fi ærefrygt for dig.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 31
         },
         {
-          "text": "E: Der er formodentlig tænkt på templets Allerhelligste, hvor pagtens ark stod. Kun ypperstepræsten måtte træde derind, og kun én dag om året. David stod i forgården.",
+          "text": "Der er formodentlig tænkt på templets Allerhelligste, hvor pagtens ark stod. Kun ypperstepræsten måtte træde derind, og kun én dag om året. David stod i forgården.",
+          "type": "E",
           "position": 113
         }
       ],
@@ -105,11 +112,13 @@
       "title": "David beder for sig og for alle troende imod fjendernes ondskab",
       "footnotes": [
         {
-          "text": "T: *lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
+          "text": "*lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
+          "type": "T",
           "position": 61
         },
         {
-          "text": "T: Ordret: »for mit ansigt«.",
+          "text": "Ordret: »for mit ansigt«.",
+          "type": "T",
           "position": 87
         }
       ],
@@ -120,7 +129,8 @@
       "text": "\fFor i deres mund er intet sandt,\fderes indre er fordærv,\fderes strube er en åben grav,\fde gør deres tunge glat.",
       "footnotes": [
         {
-          "text": "T: Modstandernes ønske er at føre bort fra Gud, i fordærv.",
+          "text": "Modstandernes ønske er at føre bort fra Gud, i fordærv.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -131,7 +141,8 @@
       "text": "Lad dem bøde for det, Gud!\fså de falder på grund af deres planer,\fdriv dem væk for deres mange synders skyld,\ffor de trodser dig.",
       "footnotes": [
         {
-          "text": "T: Meningen kan enten være at de falder i egne fælder, eller at deres planer mislykkes.",
+          "text": "Meningen kan enten være at de falder i egne fælder, eller at deres planer mislykkes.",
+          "type": "T",
           "position": 64
         }
       ],

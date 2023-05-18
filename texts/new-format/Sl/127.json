@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -42,7 +43,8 @@
       "title": "JHVHs velsignelse over hjemmet",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord bruges især om arvelod, ejendom og jordbesiddelse.",
+          "text": "Grundtekstens ord bruges især om arvelod, ejendom og jordbesiddelse.",
+          "type": "T",
           "position": 22
         }
       ],
@@ -58,11 +60,13 @@
       "text": "\fLykkelig den mand som har fyldt sit kogger med dem;\fde skal ikke blive til skamme,\fnår de taler med fjender i porten.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »salig«. Det er dog næppe relevant her.",
+          "text": "Kan også oversættes: »salig«. Det er dog næppe relevant her.",
+          "type": "T",
           "position": 9
         },
         {
-          "text": "T: Porten i bymuren var en større bygning, der også fungerede som retssal og byrådssal.",
+          "text": "Porten i bymuren var en større bygning, der også fungerede som retssal og byrådssal.",
+          "type": "T",
           "position": 118
         }
       ],

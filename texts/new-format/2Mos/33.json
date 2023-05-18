@@ -65,7 +65,8 @@
       "text": "Og når Moses kom ind i teltet, steg skysøjlen ned og stod i teltåbningen, og han talte med Moses.",
       "footnotes": [
         {
-          "text": "E: Det er JHVH.",
+          "text": "Det er JHVH.",
+          "type": "E",
           "position": 80
         }
       ],
@@ -92,7 +93,8 @@
       "text": "Og nu, hvis jeg virkelig har fundet nåde for dine øjne, beder jeg dig om at vise mig dine veje så jeg kan kende dig, for at jeg kan finde nåde for dine øjne; og se, denne skare er dit folk!«",
       "footnotes": [
         {
-          "text": "T: Det hebraiske *gôy* skal i mange sammenhænge oversættes: »folk«, men det bruges oftest om folkeslag uden for Israel.",
+          "text": "Det hebraiske *gôy* skal i mange sammenhænge oversættes: »folk«, men det bruges oftest om folkeslag uden for Israel.",
+          "type": "T",
           "position": 176
         }
       ],
@@ -103,7 +105,8 @@
       "text": "Han sagde: »Jeg vil selv gå med, og jeg vil skaffe dig hvile.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »mit ansigt«.",
+          "text": "Ordret: »mit ansigt«.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -114,7 +117,8 @@
       "text": "Men han sagde til ham: »Hvis du ikke selv går med, skal du ikke føre os op herfra.",
       "footnotes": [
         {
-          "text": "T: Ordret: »dit ansigt«.",
+          "text": "Ordret: »dit ansigt«.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -125,7 +129,8 @@
       "text": "Og hvorpå skulle det dog kendes, at jeg har fundet nåde for dine øjne, jeg og dit folk? Mon ikke derpå at du går med os? Og at vi er udvalgte, jeg og dit folk, frem for hvert folk som er på jordens overflade?«",
       "footnotes": [
         {
-          "text": "T: Ordret: »jordens ansigt«.",
+          "text": "Ordret: »jordens ansigt«.",
+          "type": "T",
           "position": 209
         }
       ],
@@ -136,7 +141,8 @@
       "text": "Da sagde JHVH til Moses: »Også det, du her har talt om, vil jeg gøre; for du har fundet nåde for mine øjne, og jeg kender dig ved navn.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »den sag/det ord«",
+          "text": "Ordret: »den sag/det ord«",
+          "type": "T",
           "position": 35
         }
       ],
@@ -157,7 +163,8 @@
       "text": "Han sagde: »Du kan ikke se mit ansigt; for mennesket kan ikke se mig og leve«",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »skal«.",
+          "text": "Kan også oversættes: »skal«.",
+          "type": "T",
           "position": 56
         }
       ],

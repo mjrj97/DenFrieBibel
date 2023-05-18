@@ -24,7 +24,8 @@
       "title": "Moses slår vand af klippen",
       "footnotes": [
         {
-          "text": "T: Ordret: »mund«, her kan det også oversættes: »befaling«.",
+          "text": "Ordret: »mund«, her kan det også oversættes: »befaling«.",
+          "type": "T",
           "position": 109
         }
       ],
@@ -50,7 +51,8 @@
       "text": "Men JHVH sagde til Moses: »Gå frem foran folket og tag nogle af Israels ældste med dig, og tag din stav med hvilken du slog på Nilen, i din hånd og gå.",
       "footnotes": [
         {
-          "text": "T: Ordret: »floden«, men det er Nilen, der er tænkt på.",
+          "text": "Ordret: »floden«, men det er Nilen, der er tænkt på.",
+          "type": "T",
           "position": 133
         }
       ],
@@ -66,11 +68,13 @@
       "text": "Så kaldte han stedets navn Massa og Meriba på grund af Israels børns kiv, og fordi de havde fristet JHVH og sagt: »Mon JHVH er i vor midte eller ej?«",
       "footnotes": [
         {
-          "text": "E: Betyder: »fristelse«.",
+          "text": "Betyder: »fristelse«.",
+          "type": "E",
           "position": 32
         },
         {
-          "text": "E: Betyder: »kiv«.",
+          "text": "Betyder: »kiv«.",
+          "type": "E",
           "position": 42
         }
       ],
@@ -87,7 +91,8 @@
       "text": "Da sagde Moses til Josva: »Udvælg os nogle mænd og ryk ud og kæmp mod Amalek; i morgen vil jeg stille mig på toppen af højen med Guds stav i min hånd.«",
       "footnotes": [
         {
-          "text": "E: Josva hed egentlig »Hosea« (betyder:»hjælp«), men fik af Moses navnet »Josva« (betyder: »JHVH er hjælp«), se 4 Mos 13,16.",
+          "text": "Josva hed egentlig »Hosea« (betyder:»hjælp«), men fik af Moses navnet »Josva« (betyder: »JHVH er hjælp«), se 4 Mos 13,16.",
+          "type": "E",
           "position": 25
         }
       ],
@@ -113,7 +118,8 @@
       "text": "Og Josva svækkede Amalek og dets folk med sværdets klinge.",
       "footnotes": [
         {
-          "text": "E: Det vil sige: dets hær.",
+          "text": "Det vil sige: dets hær.",
+          "type": "E",
           "position": 37
         }
       ],
@@ -124,11 +130,13 @@
       "text": "JHVH sagde til Moses: »Skriv dette til erindring i bogen, og indprent det i Josvas ører: At jeg afgjort vil udslette Amaleks minde under himlen.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »læg det«.",
+          "text": "Ordret: »læg det«.",
+          "type": "T",
           "position": 69
         },
         {
-          "text": "T: Den hebraiske tekst har fordoblet verbet; det bruges til at understrege, at noget helt afgjort skal ske.",
+          "text": "Den hebraiske tekst har fordoblet verbet; det bruges til at understrege, at noget helt afgjort skal ske.",
+          "type": "T",
           "position": 103
         }
       ],
@@ -144,19 +152,23 @@
       "text": "Han sagde: »Sandelig, det er et mindesmærke over JHVHs plan: der vil være krig for JHVH mod Amalek fra slægt til slægt.«",
       "footnotes": [
         {
-          "text": "T: Oversættelsen af *kî* er omdiskuteret. I de fleste sammenhænge skal det oversættes: »for/thi«, evt. »fordi«. Især det sidste kan nok give mening her. Oversættelsen bliver: »Fordi en hånd er rakt ud mod JHVHs trone, fører JHVH krig mod Amalek« (se også de næste noter).",
+          "text": "Oversættelsen af *kî* er omdiskuteret. I de fleste sammenhænge skal det oversættes: »for/thi«, evt. »fordi«. Især det sidste kan nok give mening her. Oversættelsen bliver: »Fordi en hånd er rakt ud mod JHVHs trone, fører JHVH krig mod Amalek« (se også de næste noter).",
+          "type": "T",
           "position": 21
         },
         {
-          "text": "E: Alteret.",
+          "text": "Alteret.",
+          "type": "E",
           "position": 25
         },
         {
-          "text": "T: Den hebraiske tekst har Guds navn i forkortet form: *yāh*.",
+          "text": "Den hebraiske tekst har Guds navn i forkortet form: *yāh*.",
+          "type": "T",
           "position": 54
         },
         {
-          "text": "T: Hele denne første sætning er sprogligt vanskelig. Det hænger sammen med en meget kort formulering og med usikkerhed om betydningen af især ordet: *kēs*, der som regel opfattes som kortform for: *kissēˀ*: »trone« (jf. noten ovenfor). En del oversættere regner det for at være en variant af: *nēs* (»banner«), så oversættelsen skal være: »Hånd på JHVHs banner«. Atter andre vil aflede det af verbet *kss* (»beregne«), så det skal oversættes: »plan«. Det forudsætter at *yād* (»hånd«) skal oversættes: »mindesmærke«, som det skal i nogle sammenhænge. Denne forståelse er valgt her, men det må understreges, at usikkerheden er udtalt.",
+          "text": "Hele denne første sætning er sprogligt vanskelig. Det hænger sammen med en meget kort formulering og med usikkerhed om betydningen af især ordet: *kēs*, der som regel opfattes som kortform for: *kissēˀ*: »trone« (jf. noten ovenfor). En del oversættere regner det for at være en variant af: *nēs* (»banner«), så oversættelsen skal være: »Hånd på JHVHs banner«. Atter andre vil aflede det af verbet *kss* (»beregne«), så det skal oversættes: »plan«. Det forudsætter at *yād* (»hånd«) skal oversættes: »mindesmærke«, som det skal i nogle sammenhænge. Denne forståelse er valgt her, men det må understreges, at usikkerheden er udtalt.",
+          "type": "T",
           "position": 60
         }
       ],

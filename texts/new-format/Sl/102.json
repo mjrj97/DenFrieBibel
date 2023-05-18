@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Der er tre muligheder for oversættelse her: Dels den anførte, dels: »En bøn af en hjælpeløs« og endelig (let fortolkende): »En bøn. Til brug for en hjælpeløs«.",
+          "text": "Der er tre muligheder for oversættelse her: Dels den anførte, dels: »En bøn af en hjælpeløs« og endelig (let fortolkende): »En bøn. Til brug for en hjælpeløs«.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -46,11 +47,13 @@
       "text": "\fFor mine dage er svundet hen som røg,\fog mine knogler brændte som ild.",
       "footnotes": [
         {
-          "text": "E: Den masoretiske tekst har: *vᵊʕāšān*: »i røg«. Men mange håndskrifter (som støttes af Septuaginta) har: *kᵊʕāšān*: »som røg«.",
+          "text": "Den masoretiske tekst har: *vᵊʕāšān*: »i røg«. Men mange håndskrifter (som støttes af Septuaginta) har: *kᵊʕāšān*: »som røg«.",
+          "type": "E",
           "position": 33
         },
         {
-          "text": "T: Kan også oversættes: »som et ildsted/som en ovn«.",
+          "text": "Kan også oversættes: »som et ildsted/som en ovn«.",
+          "type": "T",
           "position": 71
         }
       ],
@@ -71,7 +74,8 @@
       "text": "\fJeg lignede ørkenens allike,\fjeg var som en ugle i ruiner.",
       "footnotes": [
         {
-          "text": "E: Det er usikkert hvilken fugl der er tænkt på med *qāʔat*. »Allike« er en mulighed. Andre foreslår: »pelikan« eller en lille ugleart. Den må være kendetegnet ved at leve i ensomhed eller urenhed eller begge dele.",
+          "text": "Det er usikkert hvilken fugl der er tænkt på med *qāʔat*. »Allike« er en mulighed. Andre foreslår: »pelikan« eller en lille ugleart. Den må være kendetegnet ved at leve i ensomhed eller urenhed eller begge dele.",
+          "type": "E",
           "position": 29
         }
       ],
@@ -102,7 +106,8 @@
       "text": "\fMine dage er som en langstrakt skygge,\fog jeg tørres som en urt.",
       "footnotes": [
         {
-          "text": "T: Det er om aftenen, lige før solnedgang, hvor dagen slutter.",
+          "text": "Det er om aftenen, lige før solnedgang, hvor dagen slutter.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -114,7 +119,8 @@
       "title": "Gud vil frelse sit folk",
       "footnotes": [
         {
-          "text": "E: Ordet *zēxer* (»minde«) bruges ofte i GT synonymt med »navn« når det er brugt om Gud. Tidligere oversat: »ihukommelse«.",
+          "text": "Ordet *zēxer* (»minde«) bruges ofte i GT synonymt med »navn« når det er brugt om Gud. Tidligere oversat: »ihukommelse«.",
+          "type": "E",
           "position": 49
         }
       ],
@@ -125,7 +131,8 @@
       "text": "\fDu vil rejse dig for at forbarme dig over Zion,\ffor det er tid at vise hende nåde,\fja, den fastsatte tid er kommet.",
       "footnotes": [
         {
-          "text": "T: Det er henvisning til »Zion«.",
+          "text": "Det er henvisning til »Zion«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -136,11 +143,13 @@
       "text": "\fFor dine tjenere har værdsat hendes sten,\fog de har medynk med hendes murbrokker.",
       "footnotes": [
         {
-          "text": "T: Det er henvisning til »Zion«.",
+          "text": "Det er henvisning til »Zion«.",
+          "type": "T",
           "position": 36
         },
         {
-          "text": "T: Ordret: »støv«.",
+          "text": "Ordret: »støv«.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -151,7 +160,8 @@
       "text": "\fDa skal folkene frygte JHVHs navn,\fog alle jordens konger din herlighed.",
       "footnotes": [
         {
-          "text": "T: Tidligere oversat: «hedningerne«.",
+          "text": "Tidligere oversat: «hedningerne«.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -172,7 +182,8 @@
       "text": "\fDette skal skrives ned for den kommende slægt,\fså et folk som skabes, skal lovprise JHVH.",
       "footnotes": [
         {
-          "text": "T: Grundteksten har kortformen *yāh*.",
+          "text": "Grundteksten har kortformen *yāh*.",
+          "type": "T",
           "position": 90
         }
       ],
@@ -183,7 +194,8 @@
       "text": "\fFor han skuede ned fra sin høje helligdom,\fJHVH så fra himlen til jorden",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra sin helligdoms højde«.",
+          "text": "Ordret: »fra sin helligdoms højde«.",
+          "type": "T",
           "position": 43
         }
       ],
@@ -194,7 +206,8 @@
       "text": "\ffor at høre fangens stønnen,\ffor at løse dødsdømte,",
       "footnotes": [
         {
-          "text": "T: Ordret: »dødens børn«.",
+          "text": "Ordret: »dødens børn«.",
+          "type": "T",
           "position": 52
         }
       ],
@@ -216,7 +229,8 @@
       "title": "Klage, tilbedelse og tillid",
       "footnotes": [
         {
-          "text": "E: Konsonantteksten forudsætter: *kōḥô*: »sin kraft«, men man må – med det store flertal af håndskrifter - følge vokaliseringen, som forudsætter: *kōḥî*: »min kraft«.",
+          "text": "Konsonantteksten forudsætter: *kōḥô*: »sin kraft«, men man må – med det store flertal af håndskrifter - følge vokaliseringen, som forudsætter: *kōḥî*: »min kraft«.",
+          "type": "E",
           "position": 20
         }
       ],
@@ -227,7 +241,8 @@
       "text": "\fJeg siger: Min Gud,\fryk mig ikke bort midt i livet,\fdine år varer i slægters slægt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i halvdelen af mine dage«.",
+          "text": "Ordret: »i halvdelen af mine dage«.",
+          "type": "T",
           "position": 52
         }
       ],
@@ -243,7 +258,8 @@
       "text": "\fDe går til grunde, men du består;\fog de slides alle op som en klædning,\fdu skifter dem ud som et gevandt, og de forgår.",
       "footnotes": [
         {
-          "text": "E: Mange oversættere trækker *wᵊyaḥᵃlōfû* (»og de forgår«) ind til v.28, evt. som: »de skiftes ud«. Dette sidste er dog ikke betydningen af verbet i qal.",
+          "text": "Mange oversættere trækker *wᵊyaḥᵃlōfû* (»og de forgår«) ind til v.28, evt. som: »de skiftes ud«. Dette sidste er dog ikke betydningen af verbet i qal.",
+          "type": "E",
           "position": 120
         }
       ],
@@ -254,7 +270,8 @@
       "text": "\fMen du er den samme,\fog dine år får ingen ende.",
       "footnotes": [
         {
-          "text": "E: Ordret: *wᵊʔattāʰ-hûˀ*: »men du er ham«.",
+          "text": "Ordret: *wᵊʔattāʰ-hûˀ*: »men du er ham«.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -265,7 +282,8 @@
       "text": "\fDine tjeneres børn skal blive boende,\fog deres efterkommere skal bestå for dit ansigt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 60
         }
       ],

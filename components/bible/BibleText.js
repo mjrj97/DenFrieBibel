@@ -85,12 +85,12 @@ function BibleText ({ text, onSelectionChange }) {
                         if (footnote.type == "E") {
                             footnote.designation = alphabet[alphabetCount];
                             alphabetCount++;
-                            academicFootnoteElements.push(<><small><strong>[<a id={"b" + verse.number + footnote.type + footnote.designation} href={"#" + verse.number + footnote.type + footnote.designation}>{footnote.designation}</a>]</strong> {footnote.text}</small><br/></>);
+                            academicFootnoteElements.push(<div key={verse.number + "AF" + j}><small><strong>[<a id={"b" + verse.number + footnote.type + footnote.designation} href={"#" + verse.number + footnote.type + footnote.designation}>{footnote.designation}</a>]</strong> {footnote.text}</small></div>);
                         }
                         else {
                             footnote.designation = numberCount;
                             numberCount++;
-                            generalFootnoteElements.push(<><small><strong>[<a id={"b" + verse.number + footnote.type + footnote.designation} href={"#" + verse.number + footnote.type + footnote.designation}>{footnote.designation}</a>]</strong> {footnote.text}</small><br/></>);
+                            generalFootnoteElements.push(<div key={verse.number + "GF" + j}><small><strong>[<a id={"b" + verse.number + footnote.type + footnote.designation} href={"#" + verse.number + footnote.type + footnote.designation}>{footnote.designation}</a>]</strong> {footnote.text}</small></div>);
                         }
                     }
                 }

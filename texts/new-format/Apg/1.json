@@ -23,7 +23,8 @@
       "text": "Min første bog skrev jeg, kære Theofilus, om alt det som Jesus begyndte både at gøre og lære",
       "footnotes": [
         {
-          "text": "T: Ordret: »gjorde/udfærdigede«.",
+          "text": "Ordret: »gjorde/udfærdigede«.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -44,7 +45,8 @@
       "text": "Mens han var sammen med dem, gav han dem besked om at de ikke måtte vige fra Jerusalem, men skulde afvente det Faderen havde lovet. »Det som I har hørt mig tale om,",
       "footnotes": [
         {
-          "text": "T: Det græske ord betyder muligvis at de spiste sammen, men det er stadig omdiskuteret.",
+          "text": "Det græske ord betyder muligvis at de spiste sammen, men det er stadig omdiskuteret.",
+          "type": "T",
           "position": 23
         }
       ],

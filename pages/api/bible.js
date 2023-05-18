@@ -17,8 +17,8 @@ const handler = async (req, res) => {
         let text = { errors: [] };
         let books = JSON.parse(readFileSync('./texts/new-format/books.json')).books;
 
-        const test = arrayResult(await connection.query('SELECT * FROM Book'));
-        console.log(test);
+        //const test = arrayResult(await connection.query('SELECT * FROM Book'));
+        //console.log(test);
     
         if (book) {
             if (book.toLowerCase() === "all") {

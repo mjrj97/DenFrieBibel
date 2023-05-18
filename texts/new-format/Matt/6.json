@@ -85,7 +85,8 @@
       "text": "\fog før os ikke ind i fristelse,\fmen befri os fra den onde.\fFor dit er riget og magten og æren. Amen.",
       "footnotes": [
         {
-          "text": "T: Lovprisningen mangler i de ældste og bedste håndskrifter",
+          "text": "Lovprisningen mangler i de ældste og bedste håndskrifter",
+          "type": "T",
           "position": 100
         }
       ],
@@ -107,11 +108,13 @@
       "title": "Om faste",
       "footnotes": [
         {
-          "text": "T: Mørkt udseende er udtryk for sorg over synd",
+          "text": "Mørkt udseende er udtryk for sorg over synd",
+          "type": "T",
           "position": 48
         },
         {
-          "text": "T: De gik for eksempel rundt med usalvet hoved og uvasket ansigt.",
+          "text": "De gik for eksempel rundt med usalvet hoved og uvasket ansigt.",
+          "type": "T",
           "position": 99
         }
       ],

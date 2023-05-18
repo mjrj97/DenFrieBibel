@@ -24,11 +24,13 @@
       "title": "Tiende plage annonceres: Drabet på de førstefødte",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *grš* (»drive«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *grš* (»drive«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 170
         },
         {
-          "text": "T: Meningen med grundtekstens *kālāʰ* er omdiskuteret. Grundbetydningen er: »ødelæggelse«, men her må det – som eneste sted i GT – nok opfattes som adverbium. Det kan da eventuelt oversættes: »ligefrem«. Mere oplagt er det dog enten at det oversættes: »(Når han lader jer gå,) vil det være komplet«, eller som i denne oversættelse knyttet til det følgende: »fuldstændig«.",
+          "text": "Meningen med grundtekstens *kālāʰ* er omdiskuteret. Grundbetydningen er: »ødelæggelse«, men her må det – som eneste sted i GT – nok opfattes som adverbium. Det kan da eventuelt oversættes: »ligefrem«. Mere oplagt er det dog enten at det oversættes: »(Når han lader jer gå,) vil det være komplet«, eller som i denne oversættelse knyttet til det følgende: »fuldstændig«.",
+          "type": "T",
           "position": 186
         }
       ],
@@ -39,11 +41,13 @@
       "text": "Sig så nu til folket at de skal bede – en mand af sin nabo og en kvinde af sin naboerske – om ting af sølv og ting af guld.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Sig så nu i folkets ører«.",
+          "text": "Ordret: »Sig så nu i folkets ører«.",
+          "type": "T",
           "position": 20
         },
         {
-          "text": "T: Det hebraiske ord *kᵊlî* kan dække over smykker, skåle, redskaber m.m.",
+          "text": "Det hebraiske ord *kᵊlî* kan dække over smykker, skåle, redskaber m.m.",
+          "type": "T",
           "position": 98
         }
       ],
@@ -64,7 +68,8 @@
       "text": "Og alle førstefødte i Egyptens land skal dø, fra den førstefødte hos Farao som sidder på sin trone til den førstefødte hos trælkvinden som er bag kværnen, og alt førstefødt af kvæget.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra Faraos førstefødte, han som sidder på sin trone.«",
+          "text": "Ordret: »fra Faraos førstefødte, han som sidder på sin trone.«",
+          "type": "T",
           "position": 98
         }
       ],
@@ -80,7 +85,8 @@
       "text": "Men ikke en hund skal gø ad alle Israels børn, hverken ad menneske eller kvæg, for at I skal vide at JHVH gør skel mellem egypterne og Israel.‹",
       "footnotes": [
         {
-          "text": "T: Ordret: »ikke en hund skal true/gøre fortræd med sin tunge.«",
+          "text": "Ordret: »ikke en hund skal true/gøre fortræd med sin tunge.«",
+          "type": "T",
           "position": 24
         }
       ],

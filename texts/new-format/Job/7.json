@@ -24,15 +24,18 @@
       "title": " Job klager over sit livs elendighed",
       "footnotes": [
         {
-          "text": "T: »liv« er tilføjet.",
+          "text": "»liv« er tilføjet.",
+          "type": "T",
           "position": 21
         },
         {
-          "text": "T: Ordret: »hærskare«.",
+          "text": "Ordret: »hærskare«.",
+          "type": "T",
           "position": 53
         },
         {
-          "text": "T: Ordret: »lejet, hyret«.",
+          "text": "Ordret: »lejet, hyret«.",
+          "type": "T",
           "position": 89
         }
       ],
@@ -58,11 +61,13 @@
       "text": "\f\t\t\tMin krop er dækket af maddiker og tørre skorper, \f\t\t\t\tmin hud sprækker\t\t\t\t\t\tog væsker.",
       "footnotes": [
         {
-          "text": "T: Ordret: »mit kød«",
+          "text": "Ordret: »mit kød«",
+          "type": "T",
           "position": 12
         },
         {
-          "text": "T: Ordret: »tør jord, støv«.",
+          "text": "Ordret: »tør jord, støv«.",
+          "type": "T",
           "position": 43
         }
       ],
@@ -79,7 +84,8 @@
       "title": "Job klager til Gud",
       "footnotes": [
         {
-          "text": "T: Det betyder her glæden, lykken.",
+          "text": "Det betyder her glæden, lykken.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -105,7 +111,8 @@
       "text": "\f\t\tJeg vil heller ikke lægge bånd på min mund,\f\t\t\t\t\t\tlad mig tale ud af min ånds lidelse,\f\t\t\t\t\t\tlad mig klage i min sjæls bitterhed!",
       "footnotes": [
         {
-          "text": "T: Kan her også oversættes med »tale«.",
+          "text": "Kan her også oversættes med »tale«.",
+          "type": "T",
           "position": 109
         }
       ],
@@ -137,7 +144,8 @@
       "text": "\f\t\t\tJeg foragter mig selv,\t\t\t\tjeg vil ikke leve evigt.\f\t»Lad mig være,\t\t\t\t\tfor mine dage er tomhed!«",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes »forkaster«, samme verbum anvendt i Am 5.21, Es 33.8.",
+          "text": "Kan også oversættes »forkaster«, samme verbum anvendt i Am 5.21, Es 33.8.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -153,7 +161,8 @@
       "text": "\f\t\t\t\t\t\tDu hjemsøger ham hver morgen,\f\t\t\t\t\t\t\tdu prøver ham hvert et øjeblik.",
       "footnotes": [
         {
-          "text": "T: I betydningen »undersøge, granske«, Sl 139.23.",
+          "text": "I betydningen »undersøge, granske«, Sl 139.23.",
+          "type": "T",
           "position": 53
         }
       ],
@@ -164,7 +173,8 @@
       "text": "\f\t\t\tHvor længe vil du ikke vende dit blik fra mig,\f\t\t\t\t\t\tikke lade mig alene\t\t\t\t\tindtil jeg har slugt mit spyt?",
       "footnotes": [
         {
-          "text": "T: Meningen er »for en meget kort tid«.",
+          "text": "Meningen er »for en meget kort tid«.",
+          "type": "T",
           "position": 111
         }
       ],

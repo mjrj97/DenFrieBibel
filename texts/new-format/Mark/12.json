@@ -116,7 +116,8 @@
       "text": "»Lærer! Moses skrev til os at hvis nogens bror dør og efterlader hustru og ikke efterlader et barn, så skal hans bror tage hustruen til sig og skaffe sin bror efterkommere.",
       "footnotes": [
         {
-          "text": "H: 5 Mos 25,5",
+          "text": "5 Mos 25,5",
+          "type": "H",
           "position": 171
         }
       ],
@@ -209,7 +210,8 @@
       "text": "David selv har sagt ved Helligånden: \fHerren sagde til min Herre: \fSæt dig ved min højre hånd, \findtil jeg får lagt dine fjender \funder dine fødder.",
       "footnotes": [
         {
-          "text": "H: Sal 110, 1.",
+          "text": "Sal 110, 1.",
+          "type": "H",
           "position": 148
         }
       ],

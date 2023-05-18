@@ -29,11 +29,13 @@
       "text": "\fSe, Gud er min frelse, \fjeg vil være tryg og ikke frygte, \ffor min styrke og min lovsang er JHVH, JHVH, \fog han blev mig til frelse.«",
       "footnotes": [
         {
-          "text": "E: Formen på ordet: *zimrāt* (»min lovsang«) er speciel idet det mangler suffixet, bogstavet »jod«: *-î* (»min«). Det er også tilfældet i 2 Mos 15,2 og Sl 118,14, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: »jod«. Man har formodentlig villet undgå de to gange »jod« op ad hinanden.",
+          "text": "Formen på ordet: *zimrāt* (»min lovsang«) er speciel idet det mangler suffixet, bogstavet »jod«: *-î* (»min«). Det er også tilfældet i 2 Mos 15,2 og Sl 118,14, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: »jod«. Man har formodentlig villet undgå de to gange »jod« op ad hinanden.",
+          "type": "E",
           "position": 89
         },
         {
-          "text": "E: Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "text": "Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "type": "E",
           "position": 98
         }
       ],
@@ -59,7 +61,8 @@
       "text": "\fBryd ud i jubel og råb af fryd, du Zions beboer, \ffor Israels Hellige er stor i din midte.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.",
+          "text": "Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.",
+          "type": "E",
           "position": 49
         }
       ],

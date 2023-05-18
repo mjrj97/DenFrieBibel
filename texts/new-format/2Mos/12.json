@@ -29,7 +29,8 @@
       "text": "»Denne måned skal for jer være måneders begyndelse, den skal for jer være den første blandt årets måneder.",
       "footnotes": [
         {
-          "text": "T: Ordret: »måneders hoved«.",
+          "text": "Ordret: »måneders hoved«.",
+          "type": "T",
           "position": 51
         }
       ],
@@ -40,11 +41,13 @@
       "text": "Tal til hele Israels menighed og sig: ›På den tiende i denne måned skal de tage sig hver et stykke småkvæg til et fædrenehus, et stykke småkvæg for hvert hus.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske dækker både »lam« og »kid«.",
+          "text": "Det hebraiske dækker både »lam« og »kid«.",
+          "type": "T",
           "position": 106
         },
         {
-          "text": "T: Ordret: »til huset«.",
+          "text": "Ordret: »til huset«.",
+          "type": "T",
           "position": 158
         }
       ],
@@ -55,11 +58,13 @@
       "text": "Men hvis husstanden er for lille til et stykke småkvæg, skal han og hans nærmeste nabo tage et efter antallet af personer; I skal regne til et stykke småkvæg efter hvad enhver kan spise.",
       "footnotes": [
         {
-          "text": "T: Grundbetydningen af det hebraiske *bayit* er: »hus«, men her betegner det nærmere »hustanden« eller »familien«.",
+          "text": "Grundbetydningen af det hebraiske *bayit* er: »hus«, men her betegner det nærmere »hustanden« eller »familien«.",
+          "type": "T",
           "position": 19
         },
         {
-          "text": "T: Ordret: »hans nabo, der er nærmest ved hans hus«.",
+          "text": "Ordret: »hans nabo, der er nærmest ved hans hus«.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -75,7 +80,8 @@
       "text": "Det skal være i forvaring hos jer til den fjortende dag i denne måned; og de skal slagte det, hele Israels menigheds forsamling, lige inden mørket falder på.",
       "footnotes": [
         {
-          "text": "T: Ordret: »mellem de to aftner«. Det dækker formodentlig, at slagtningen skal finde sted mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.",
+          "text": "Ordret: »mellem de to aftner«. Det dækker formodentlig, at slagtningen skal finde sted mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.",
+          "type": "T",
           "position": 157
         }
       ],
@@ -106,11 +112,13 @@
       "text": "Og sådan skal I spise det: Jeres lænder ombundne, sandaler på jeres fødder og jeres stav i hånden. Og I skal spise det i al hast. Det er påske for JHVH.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i hastig flugt«.",
+          "text": "Ordret: »i hastig flugt«.",
+          "type": "T",
           "position": 129
         },
         {
-          "text": "E: Det bagvedliggende verbum betyder: »gå forbi«, se v. 13.",
+          "text": "Det bagvedliggende verbum betyder: »gå forbi«, se v. 13.",
+          "type": "E",
           "position": 142
         }
       ],
@@ -142,11 +150,13 @@
       "text": "På den første dag skal I holde hellig forsamling, og på den syvende dag skal I holde hellig forsamling; der må ikke gøres noget arbejde på dem, alene det som skal spise af hver person, kun det må tilberedes for jer.",
       "footnotes": [
         {
-          "text": "T: Ordret: »På den første dag skal der være hellig forsamling og på den syvende dag hellig forsamling for jer«.",
+          "text": "Ordret: »På den første dag skal der være hellig forsamling og på den syvende dag hellig forsamling for jer«.",
+          "type": "T",
           "position": 103
         },
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 184
         }
       ],
@@ -157,7 +167,8 @@
       "text": "I skal overholde de usyrede brøds fest; for netop denne dag førte jeg jeres hærskarer ud af Egyptens land. Så I skal holde denne dag gennem jeres generationer som en eviggyldig forordning.",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »de usyrede brød«.",
+          "text": "Ordret blot: »de usyrede brød«.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -168,7 +179,8 @@
       "text": "Fra den fjortende dag i den første måned skal I om aftenen spise usyrede brød indtil om aftenen den enogtyvende dag i måneden.",
       "footnotes": [
         {
-          "text": "T: Ordret: »I den første på den fjortende dag i måneden«.",
+          "text": "Ordret: »I den første på den fjortende dag i måneden«.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -190,7 +202,8 @@
       "title": "Forordning om blodet på dørstolperne",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om betydningen her af det hebraiske verbum *mišx*. Grundbetydningen er: »trække«. Her må det enten oversættes: »gå ud« eller evt. sammen med det følgende verbum: »udtag til jer selv småkvæg …«.",
+          "text": "Der er usikkerhed om betydningen her af det hebraiske verbum *mišx*. Grundbetydningen er: »trække«. Her må det enten oversættes: »gå ud« eller evt. sammen med det følgende verbum: »udtag til jer selv småkvæg …«.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -201,7 +214,8 @@
       "text": "I skal tage et bundt isop og dyppe det i blodet som er i skålen, og I skal stryge noget af blodet som er i skålen, på overliggeren og på de to dørstolper. Ingen af jer må gå ud ad sit hus’ dør før om morgenen.",
       "footnotes": [
         {
-          "text": "T: Ordret: »lade berøre«.",
+          "text": "Ordret: »lade berøre«.",
+          "type": "T",
           "position": 81
         }
       ],
@@ -243,7 +257,8 @@
       "title": "Drabet på de førstefødte og forberedelsen til udrejsen",
       "footnotes": [
         {
-          "text": "T: Ordret: »i fangehullets hus«.",
+          "text": "Ordret: »i fangehullets hus«.",
+          "type": "T",
           "position": 184
         }
       ],
@@ -259,11 +274,13 @@
       "text": "Da tilkaldte han Moses og Aron om natten og sagde: »Stå op, gå ud fra mit folks midte, både I og Israels børn,  gå hen og tjen JHVH som I har sagt.",
       "footnotes": [
         {
-          "text": "T: Et enkelt håndskrift har: »Farao«. Det fremgår af sammenhængen at der er tænkt på Farao.",
+          "text": "Et enkelt håndskrift har: »Farao«. Det fremgår af sammenhængen at der er tænkt på Farao.",
+          "type": "T",
           "position": 16
         },
         {
-          "text": "T: Ordret: »sønner«.",
+          "text": "Ordret: »sønner«.",
+          "type": "T",
           "position": 111
         }
       ],
@@ -279,11 +296,13 @@
       "text": "Og egypterne trængte hårdt på folket for hurtigt at få dem sendt ud af landet, for de sagde: »Vi dør alle.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 12
         },
         {
-          "text": "T: Ordret: »Vi er alle døde!«",
+          "text": "Ordret: »Vi er alle døde!«",
+          "type": "T",
           "position": 107
         }
       ],
@@ -294,7 +313,8 @@
       "text": "Så tog folket dejen, før den var syrnet i dejtruget, indsvøbt i deres kapper, på deres skuldre.",
       "footnotes": [
         {
-          "text": "T: Ordet »i« står ikke i den hebraiske tekst, men må være underforstået.",
+          "text": "Ordet »i« står ikke i den hebraiske tekst, men må være underforstået.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -305,11 +325,13 @@
       "text": "Og Israels børn gjorde efter Moses’ ord og bad egypterne om ting af sølv og ting af guld og om klæder.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sønner«.",
+          "text": "Ordret: »sønner«.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -320,7 +342,8 @@
       "text": "Og JHVH havde ladet folket finde nåde for egypternes øjne, så de lod dem få hvad de bad om, så de plyndrede Egypten.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egyptens«.",
+          "text": "Ordret: »Egyptens«.",
+          "type": "T",
           "position": 52
         }
       ],
@@ -332,15 +355,18 @@
       "title": "Udrejsen fra Egypten",
       "footnotes": [
         {
-          "text": "T: Det hebraiske navn er: *raʕmᵊsēs*.",
+          "text": "Det hebraiske navn er: *raʕmᵊsēs*.",
+          "type": "T",
           "position": 35
         },
         {
-          "text": "T: Forståelsen af det hebraiske *ʔelef* er omdiskuteret. Det har tre grundbetydninger: »tusind, okse, slægt/stamme«. Her kunne det måske betegne »slægt«, men i senere talangivelser er det forudsat, at det her må betegne »tusind«.",
+          "text": "Forståelsen af det hebraiske *ʔelef* er omdiskuteret. Det har tre grundbetydninger: »tusind, okse, slægt/stamme«. Her kunne det måske betegne »slægt«, men i senere talangivelser er det forudsat, at det her må betegne »tusind«.",
+          "type": "T",
           "position": 63
         },
         {
-          "text": "T: Ordret blot: »foruden små børn«. Men i en del sammenhænge dækker det uden tvivl »kvinder og børn / familier«.",
+          "text": "Ordret blot: »foruden små børn«. Men i en del sammenhænge dækker det uden tvivl »kvinder og børn / familier«.",
+          "type": "T",
           "position": 100
         }
       ],
@@ -377,7 +403,8 @@
       "title": "Om deltagelse i påskemåltidet",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »påsken«.",
+          "text": "Ordret blot: »påsken«.",
+          "type": "T",
           "position": 69
         }
       ],
@@ -388,7 +415,8 @@
       "text": "Men enhver træl som hører nogen til og som er købt for penge, må, når du får omskåret ham, spise af det.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens: *ʕeved ʔîš* kan eventuelt også oversættes: »mandlig træl (som er købt for penge)«.",
+          "text": "Grundtekstens: *ʕeved ʔîš* kan eventuelt også oversættes: »mandlig træl (som er købt for penge)«.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -404,7 +432,8 @@
       "text": "Det skal spises i et og samme hus, du må ikke bringe noget af kødet ud udenfor huset; og I må ikke bryde et ben på det.",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »i ét hus«.",
+          "text": "Ordret blot: »i ét hus«.",
+          "type": "T",
           "position": 29
         }
       ],
@@ -415,7 +444,8 @@
       "text": "Hele Israels menighed skal gøre det.",
       "footnotes": [
         {
-          "text": "E: Meningen kan enten være at »hele Israels menighed skal overholde det« eller: »hele Israels menighed skal deltage i det«. Det afhænger af om *ʔēt* opfattes som objektmarkør eller præposition. Som præposition er dog ret usædvanlig at det skal oversættes: »i«.",
+          "text": "Meningen kan enten være at »hele Israels menighed skal overholde det« eller: »hele Israels menighed skal deltage i det«. Det afhænger af om *ʔēt* opfattes som objektmarkør eller præposition. Som præposition er dog ret usædvanlig at det skal oversættes: »i«.",
+          "type": "E",
           "position": 36
         }
       ],
@@ -431,7 +461,8 @@
       "text": "Der skal være en og samme lov for den indfødte og for den fremmede som bor blandt jer.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »én«.",
+          "text": "Ordret: »én«.",
+          "type": "T",
           "position": 25
         }
       ],

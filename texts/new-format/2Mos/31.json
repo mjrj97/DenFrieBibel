@@ -39,7 +39,8 @@
       "text": "til at lave kunstnerisk design, til at arbejde i guld, sølv og bronze,",
       "footnotes": [
         {
-          "text": "T: Ordret: »tænke tanker«.",
+          "text": "Ordret: »tænke tanker«.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -55,7 +56,8 @@
       "text": "Og jeg, se, jeg har givet ham Oholiab, Akisamaks søn fra Dans stamme, og i hvert menneske med kunstnerisk færdighed har jeg givet visdom, så de kan lave alt det, som jeg har befalet dig:",
       "footnotes": [
         {
-          "text": "T: Ordret: »I hvert vist hjertes hjerte«.",
+          "text": "Ordret: »I hvert vist hjertes hjerte«.",
+          "type": "T",
           "position": 115
         }
       ],
@@ -71,7 +73,8 @@
       "text": "bordet og dets redskaber, lysestagen af purt guld og alle dens redskaber, røgelsesalteret,",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »den rene/pure lysestage«.",
+          "text": "Ordret blot: »den rene/pure lysestage«.",
+          "type": "T",
           "position": 49
         }
       ],
@@ -87,7 +90,8 @@
       "text": "de vævede klæder, de hellige klæder til Aron, præsten, og hans sønners klæder til at gøre præstetjeneste i,",
       "footnotes": [
         {
-          "text": "T: Oversættelsen af: *bigdê haśśᵊrād* er usikker og omdiskuteret. Det oversættes ofte: »tjenestedragter«, men de egentlige tjenestedragter omtales umiddelbart efter. Ordene bruges også i 35,19; 39,1.41; alle tre steder med tilføjelsen: »til tjenesten i helligdommen«. Ordet: *śᵊrād* betyder formodentlig: »flettet/vævet«. ",
+          "text": "Oversættelsen af: *bigdê haśśᵊrād* er usikker og omdiskuteret. Det oversættes ofte: »tjenestedragter«, men de egentlige tjenestedragter omtales umiddelbart efter. Ordene bruges også i 35,19; 39,1.41; alle tre steder med tilføjelsen: »til tjenesten i helligdommen«. Ordet: *śᵊrād* betyder formodentlig: »flettet/vævet«.",
+          "type": "T",
           "position": 17
         }
       ],
@@ -114,7 +118,8 @@
       "text": "I skal holde sabbatten, for den er hellig for jer; den der vanhelliger den, skal bestemt dræbes, for enhver som udfører arbejde på den, den sjæl skal udryddes fra sit folks midte.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst har verbet *mwt* (»dø«) to gange: Først som infinitiv absolutus og derefter som yiqtol hof’al. Det er en almindelig måde i hebraisk til forstærkelse af verbet, her gengivet med: »bestemt«. I hof’al skal det oversættes: »dræbes«.",
+          "text": "Den hebraiske tekst har verbet *mwt* (»dø«) to gange: Først som infinitiv absolutus og derefter som yiqtol hof’al. Det er en almindelig måde i hebraisk til forstærkelse af verbet, her gengivet med: »bestemt«. I hof’al skal det oversættes: »dræbes«.",
+          "type": "E",
           "position": 96
         }
       ],

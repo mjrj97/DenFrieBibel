@@ -24,7 +24,8 @@
       "title": "Den, der frygter JHVH, velsignes",
       "footnotes": [
         {
-          "text": "T: Oversættes nu ofte: »lykkelig«.",
+          "text": "Oversættes nu ofte: »lykkelig«.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -35,11 +36,13 @@
       "text": "\fHans afkom skal blive mægtigt i landet;\fde oprigtiges slægt skal velsignes.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sæd«.",
+          "text": "Ordret: »sæd«.",
+          "type": "T",
           "position": 11
         },
         {
-          "text": "T: Kan også oversættes: »på jorden«.",
+          "text": "Kan også oversættes: »på jorden«.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -55,7 +58,8 @@
       "text": "\fDer er brudt et lys frem i mørket for de oprigtige,\ffor den som er nådig og barmhjertig og retfærdig.",
       "footnotes": [
         {
-          "text": "E: Linjen er omdiskuteret. Den består egentlig kun af ordene: »nådig og barmhjertig og retfærdig«. Det er ord der normalt i salmerne er knyttet til Gud, men i sammenhængen er der tale om den oprigtige. Derfor er dette den mest brugte oversættelse af linjen, selv om »de oprigtige« i foregående linje er pluralis, og i denne linje er der brugt singularis. Det kan dog overvejes om denne linje er en beskrivelse af det »lys« (og dermed af Gud) der »er brudt frem«. I enkelte håndskrifter – støttet af den syriske oversættelse – mangler det sidste *wᵊ* (»og«), så sætningen må oversættes: »nådig og barmhjertig er en retfærdig«.",
+          "text": "Linjen er omdiskuteret. Den består egentlig kun af ordene: »nådig og barmhjertig og retfærdig«. Det er ord der normalt i salmerne er knyttet til Gud, men i sammenhængen er der tale om den oprigtige. Derfor er dette den mest brugte oversættelse af linjen, selv om »de oprigtige« i foregående linje er pluralis, og i denne linje er der brugt singularis. Det kan dog overvejes om denne linje er en beskrivelse af det »lys« (og dermed af Gud) der »er brudt frem«. I enkelte håndskrifter – støttet af den syriske oversættelse – mangler det sidste *wᵊ* (»og«), så sætningen må oversættes: »nådig og barmhjertig er en retfærdig«.",
+          "type": "E",
           "position": 102
         }
       ],

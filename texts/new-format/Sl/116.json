@@ -24,15 +24,18 @@
       "title": "Du har reddet mit liv",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: »Jeg elsker, for JHVH har hørt«, men verbet »elske« kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller »JHVH« må flyttes frem, så oversættelsen bliver: »Jeg elsker JHVH, for han har hørt min tryglende røst«.",
+          "text": "Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: »Jeg elsker, for JHVH har hørt«, men verbet »elske« kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller »JHVH« må flyttes frem, så oversættelsen bliver: »Jeg elsker JHVH, for han har hørt min tryglende røst«.",
+          "type": "E",
           "position": 10
         },
         {
-          "text": "E: Den masoretiske tekst har yiqtol: *yišmaʕ*: »(JHVH) vil høre«. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (»for«) (*y* og *î* dækker begge over bogstavet »jod«), så der skal læses qatal: *šāmaʕ*: »har hørt«.",
+          "text": "Den masoretiske tekst har yiqtol: *yišmaʕ*: »(JHVH) vil høre«. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (»for«) (*y* og *î* dækker begge over bogstavet »jod«), så der skal læses qatal: *šāmaʕ*: »har hørt«.",
+          "type": "E",
           "position": 27
         },
         {
-          "text": "T: Ordret: »min tryglens røst«.",
+          "text": "Ordret: »min tryglens røst«.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -43,7 +46,8 @@
       "text": "\fFor han har bøjet sit øre til mig,\fog i mine dage vil jeg udråbe:",
       "footnotes": [
         {
-          "text": "E: Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil »råbe« i betydningen påkalde JHVH. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (»og i mine dage«) til: *bᵊyôm*: »den dag da« = »da«; man oversætter også yiqtol: *ʔeqrāˀ* (»jeg vil råbe/udråbe«) ved fortid: »(da) jeg råbte«.",
+          "text": "Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil »råbe« i betydningen påkalde JHVH. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (»og i mine dage«) til: *bᵊyôm*: »den dag da« = »da«; man oversætter også yiqtol: *ʔeqrāˀ* (»jeg vil råbe/udråbe«) ved fortid: »(da) jeg råbte«.",
+          "type": "E",
           "position": 66
         }
       ],
@@ -54,7 +58,8 @@
       "text": "\f»Dødens reb omgav mig,\fog dødsrigets trængsler havde fundet mig,\fjeg fandt nød og plage.",
       "footnotes": [
         {
-          "text": "E: Her og i v.4 og v.6 oversættes yiqtol normalt ved fortid idet verberne angiver en følge af det forgående.",
+          "text": "Her og i v.4 og v.6 oversættes yiqtol normalt ved fortid idet verberne angiver en følge af det forgående.",
+          "type": "E",
           "position": 75
         }
       ],
@@ -65,7 +70,8 @@
       "text": "\fDa påkaldte jeg JHVHs navn:\f»Ak, JHVHv, red mit liv!«",
       "footnotes": [
         {
-          "text": "T: Ordret: »min sjæl«.",
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
           "position": 54
         }
       ],
@@ -91,7 +97,8 @@
       "text": "\fJa, du har reddet mit liv fra døden,\fmit øje fra tåre,\fmin fod fra fald.",
       "footnotes": [
         {
-          "text": "T: Ordret: »min sjæl«.",
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
           "position": 26
         }
       ],
@@ -133,7 +140,8 @@
       "text": "\fKostbar i JHVHs øjne\fer hans frommes død.",
       "footnotes": [
         {
-          "text": "T: Oversættes nu ofte: »liv«, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes »liv« (jf. v. 8). Men grundteksten har: *māwet*: »død«.",
+          "text": "Oversættes nu ofte: »liv«, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes »liv« (jf. v. 8). Men grundteksten har: *māwet*: »død«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -159,7 +167,8 @@
       "text": "\fi forgårdene til JHVHs hus,\fi din midte, Jerusalem!\fHalleluja!",
       "footnotes": [
         {
-          "text": "T: Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 117.",
+          "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 117.",
+          "type": "T",
           "position": 63
         }
       ],

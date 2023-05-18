@@ -29,7 +29,8 @@
       "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »velsign«.",
+          "text": "Kan også oversættes: »velsign«.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -51,7 +52,8 @@
       "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
       "footnotes": [
         {
-          "text": "T: Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
+          "text": "Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -78,7 +80,8 @@
       "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "type": "E",
           "position": 41
         }
       ],
@@ -105,7 +108,8 @@
       "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »trofasthed«.",
+          "text": "Kan også oversættes: »trofasthed«.",
+          "type": "T",
           "position": 142
         }
       ],

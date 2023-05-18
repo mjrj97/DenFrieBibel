@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum, der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum, der betyder »dirigere«.",
+          "type": "E",
           "position": 14
         },
         {
-          "text": "T: Musikalsk anvisning af ukendt betydning. Ordret: »Efter død for sønnen«.",
+          "text": "Musikalsk anvisning af ukendt betydning. Ordret: »Efter død for sønnen«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -119,15 +121,18 @@
       "text": "\fJHVH har givet sig til kende, han har holdt dom,\fved sine hænders gerning fanger han den ugudelige. Higgajon . Sela",
       "footnotes": [
         {
-          "text": "E: Man ændrer ofte vokaliseringen af *nôqēš* (»fanger«) til *nôqaš* (»fanges«) så oversættelsen bliver: »den ugudelige fanges ved sine hænders gerning«.",
+          "text": "Man ændrer ofte vokaliseringen af *nôqēš* (»fanger«) til *nôqaš* (»fanges«) så oversættelsen bliver: »den ugudelige fanges ved sine hænders gerning«.",
+          "type": "E",
           "position": 99
         },
         {
-          "text": "T: Musikudtryk med ukendt betydning, måske dog strengespil, jf. Sl 92,4.",
+          "text": "Musikudtryk med ukendt betydning, måske dog strengespil, jf. Sl 92,4.",
+          "type": "T",
           "position": 110
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 116
         }
       ],
@@ -139,7 +144,8 @@
       "title": "Bøn om frelse",
       "footnotes": [
         {
-          "text": "T: Hebraisk: »sheol«.",
+          "text": "Hebraisk: »sheol«.",
+          "type": "T",
           "position": 46
         }
       ],

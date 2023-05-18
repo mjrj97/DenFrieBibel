@@ -24,15 +24,18 @@
       "title": "Love om retfærdighed for alle",
       "footnotes": [
         {
-          "text": "T: Der kan også oversættes: »du må ikke starte en løgn«. Verset forstås ofte som forbud mod at sprede falsk rygte.",
+          "text": "Der kan også oversættes: »du må ikke starte en løgn«. Verset forstås ofte som forbud mod at sprede falsk rygte.",
+          "type": "T",
           "position": 28
         },
         {
-          "text": "T: Det hebraiske *rāšāʕ* kan også oversættes: »ugudelig«.",
+          "text": "Det hebraiske *rāšāʕ* kan også oversættes: »ugudelig«.",
+          "type": "T",
           "position": 72
         },
         {
-          "text": "T: Det hebraiske *ḥāmās* skal i mange sammenhænge oversættes: »vold/uret«. Det må spille med i betegnelsen »falsk«.",
+          "text": "Det hebraiske *ḥāmās* skal i mange sammenhænge oversættes: »vold/uret«. Det må spille med i betegnelsen »falsk«.",
+          "type": "T",
           "position": 93
         }
       ],
@@ -53,7 +56,8 @@
       "text": "Når du møder din fjendes okse eller hans æsel, som er på afveje, skal du afgjort bringe dem tilbage til ham.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *šwb* (»bringe tilbage«) to gange: Først som infinitiv og derefter som hif’il yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »afgjort«.",
+          "text": "Den hebraiske tekst har verbet *šwb* (»bringe tilbage«) to gange: Først som infinitiv og derefter som hif’il yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »afgjort«.",
+          "type": "T",
           "position": 87
         }
       ],
@@ -64,7 +68,8 @@
       "text": "Når du ser din uvens æsel segne under sin byrde, så lad være med at overlade det til ham; du skal afgjort befri det for ham.",
       "footnotes": [
         {
-          "text": "T: Ordret: »ligge«.",
+          "text": "Ordret: »ligge«.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -80,7 +85,8 @@
       "text": "Du skal holde dig langt væk fra en løgnagtig sag, og en uskyldig og retfærdig må du ikke dræbe; for jeg erklærer ikke den skyldige retfærdig.",
       "footnotes": [
         {
-          "text": "E: Underforstået: Ved en uretfærdig retssag.",
+          "text": "Underforstået: Ved en uretfærdig retssag.",
+          "type": "E",
           "position": 95
         }
       ],
@@ -91,7 +97,8 @@
       "text": "Du må ikke tage imod bestikkelse, for bestikkelsen gør klartseende blinde og fordrejer de retfærdiges ord.",
       "footnotes": [
         {
-          "text": "T: *dāvār* kan også oversættes: »sag«.",
+          "text": "*dāvār* kan også oversættes: »sag«.",
+          "type": "T",
           "position": 106
         }
       ],
@@ -108,7 +115,8 @@
       "title": "Love om det religiøse år",
       "footnotes": [
         {
-          "text": "E: Det hebraiske *ʔereṣ* kan betyde både »jord« og »land«. Denne dobbelthed kan vanskeligt fremgå på dansk. Men buddet sigter både på den enkelte (»jord«) og på hele folket (»land«).",
+          "text": "Det hebraiske *ʔereṣ* kan betyde både »jord« og »land«. Denne dobbelthed kan vanskeligt fremgå på dansk. Men buddet sigter både på den enkelte (»jord«) og på hele folket (»land«).",
+          "type": "E",
           "position": 32
         }
       ],
@@ -124,7 +132,8 @@
       "text": "Seks dage skal du gøre dit arbejde, men på den syvende dag skal du hvile, for at din okse og dit æsel kan hvile, og din trælkvindes søn og den fremmede kan rekreere.",
       "footnotes": [
         {
-          "text": "E: Roden i verbet *šbt* er den samme som i »sabbat«. Der kunne også oversættes: »skal du holde sabbat«.",
+          "text": "Roden i verbet *šbt* er den samme som i »sabbat«. Der kunne også oversættes: »skal du holde sabbat«.",
+          "type": "E",
           "position": 73
         }
       ],
@@ -140,7 +149,8 @@
       "text": "Tre gange om året skal du fejre fest for mig.",
       "footnotes": [
         {
-          "text": "T: Det er omdiskuteret, om *rᵊgālîm* kan betyde »gange«. Ordet *regel* (egentlig: »fod«) optræder kun her og i 4 Mos 22,28.32.33 i pluralis, men ofte i GT i singularis og dualis, og da om fod/fødder eller eventuelt eufemistisk om kønsdele. Her kunne man overveje at oversætte: »tre vandrefester/valfartsfester skal du fejre for mig hvert år«. I parallellen v. 17 er der brugt det normale *pᵊʕāmîm* (»gange«).",
+          "text": "Det er omdiskuteret, om *rᵊgālîm* kan betyde »gange«. Ordet *regel* (egentlig: »fod«) optræder kun her og i 4 Mos 22,28.32.33 i pluralis, men ofte i GT i singularis og dualis, og da om fod/fødder eller eventuelt eufemistisk om kønsdele. Her kunne man overveje at oversætte: »tre vandrefester/valfartsfester skal du fejre for mig hvert år«. I parallellen v. 17 er der brugt det normale *pᵊʕāmîm* (»gange«).",
+          "type": "T",
           "position": 9
         }
       ],
@@ -151,7 +161,8 @@
       "text": "Du skal holde de usyrede brøds fest; syv dage skal du spise usyrede brød, sådan som jeg befalede dig om den fastsatte tid i måneden abib, for i den drog du ud af Egypten; og ingen må vise sig tomhændet for mit ansigt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »de må ikke vise sig«.",
+          "text": "Ordret: »de må ikke vise sig«.",
+          "type": "T",
           "position": 182
         }
       ],
@@ -167,7 +178,8 @@
       "text": "Tre gange om året skal alt dit mandkøn vise sig for Herrens, JHVHs, ansigt.",
       "footnotes": [
         {
-          "text": "T: Nogle oversættere vælger ud fra parallellen i 34,23 en tekstrettelse: *yērāʔeh* (»vise sig«) til: *yirʔeh*: »se«.",
+          "text": "Nogle oversættere vælger ud fra parallellen i 34,23 en tekstrettelse: *yērāʔeh* (»vise sig«) til: *yirʔeh*: »se«.",
+          "type": "T",
           "position": 47
         }
       ],
@@ -194,11 +206,13 @@
       "text": "Giv agt på ham og adlyd hans røst, du må ikke forbitre ham, for han vil ikke tilgive jeres overtrædelser, for mit navn er i ham.",
       "footnotes": [
         {
-          "text": "T: Ordret: »vogt dig foran hans ansigt«.",
+          "text": "Ordret: »vogt dig foran hans ansigt«.",
+          "type": "T",
           "position": 14
         },
         {
-          "text": "T: Ofte foretages der en mindre ændring i vokaliseringen af grundtekstens: *tammer* (»forbitre«) til *temer*: »trodse«. Ændringen kan understøttes af, at verbet følges af præpositionen *bᵊ* (»ved/med/mod«).",
+          "text": "Ofte foretages der en mindre ændring i vokaliseringen af grundtekstens: *tammer* (»forbitre«) til *temer*: »trodse«. Ændringen kan understøttes af, at verbet følges af præpositionen *bᵊ* (»ved/med/mod«).",
+          "type": "T",
           "position": 54
         }
       ],
@@ -209,7 +223,8 @@
       "text": "Men hvis du omhyggeligt adlyder hans røst og gør alt det jeg siger, så vil jeg være fjende for dine fjender, og jeg vil være modstander for dine modstandere.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *šmʕ* (»lytte/adlyde«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »omhyggeligt«.",
+          "text": "Den hebraiske tekst har verbet *šmʕ* (»lytte/adlyde«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »omhyggeligt«.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -220,7 +235,8 @@
       "text": "For min engel skal gå foran dig og føre dig til amoritterne og hittitterne og perizzitterne og kana’anæerne og hivvitterne og jebusitterne; og jeg vil udslette dem.",
       "footnotes": [
         {
-          "text": "T: Ordret: »foran dit ansigt«.",
+          "text": "Ordret: »foran dit ansigt«.",
+          "type": "T",
           "position": 31
         }
       ],
@@ -231,11 +247,13 @@
       "text": "Du må ikke tilbede deres guder og ikke tillade dig at tjene dem og ikke gøre som de gør; men du skal omhyggeligt rive dem ned og knuse deres stenstøtter.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »ikke lade dig lede til at tjene dem«.",
+          "text": "Kan også oversættes: »ikke lade dig lede til at tjene dem«.",
+          "type": "T",
           "position": 63
         },
         {
-          "text": "T: Ordret: »gøre som deres handlinger«.",
+          "text": "Ordret: »gøre som deres handlinger«.",
+          "type": "T",
           "position": 88
         }
       ],
@@ -256,7 +274,8 @@
       "text": "Jeg vil sende rædsel for mig foran dig og forvirre hvert folk, som du kommer til, og jeg vil få alle dine fjender til at vende nakken til dig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »foran dit ansigt«.",
+          "text": "Ordret: »foran dit ansigt«.",
+          "type": "T",
           "position": 38
         }
       ],
@@ -282,15 +301,18 @@
       "text": "Jeg sætter din grænse fra Sivhavet til filistrenes hav og fra ørkenen til floden; for jeg vil give landets indbyggere i jeres magt og du skal fordrive dem fra dit ansigt.",
       "footnotes": [
         {
-          "text": "E: I syd.",
+          "text": "I syd.",
+          "type": "E",
           "position": 69
         },
         {
-          "text": "E: Det er Eufratfloden.",
+          "text": "Det er Eufratfloden.",
+          "type": "E",
           "position": 81
         },
         {
-          "text": "T: Ordret: »hånd«.",
+          "text": "Ordret: »hånd«.",
+          "type": "T",
           "position": 130
         }
       ],

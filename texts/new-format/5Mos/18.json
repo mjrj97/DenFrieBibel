@@ -43,7 +43,8 @@
       "text": "Du skal være fuldkommen for JHVH din Gud.",
       "footnotes": [
         {
-          "text": "E: Det hebraiske *ʕim* skal i de fleste sammenhænge oversættes: »med/sammen med«, i nogle tilfælde dog: »ligesom«, i enkelte tilfælde: »som«.",
+          "text": "Det hebraiske *ʕim* skal i de fleste sammenhænge oversættes: »med/sammen med«, i nogle tilfælde dog: »ligesom«, i enkelte tilfælde: »som«.",
+          "type": "E",
           "position": 27
         }
       ],
@@ -54,7 +55,8 @@
       "text": "For disse folk som du skal fordrive, de hører på dem der driver trolddom og spådomme; men dig har JHVH din Gud ikke tilladt noget sådant.",
       "footnotes": [
         {
-          "text": "T: Traditionelt oversat: »hedninger«.",
+          "text": "Traditionelt oversat: »hedninger«.",
+          "type": "T",
           "position": 14
         }
       ],

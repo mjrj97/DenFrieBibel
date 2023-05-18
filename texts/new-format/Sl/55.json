@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 39
         }
       ],
@@ -45,11 +47,13 @@
       "text": "\fLyt til mig og svar mig,\fjeg drives omkring i min fortvivlelse, og jeg må stønne",
       "footnotes": [
         {
-          "text": "T: Betydningen af ordet *ʔārîd* er usikker i sammenhængen. Det betyder egtl.: »vandre frit omkring/vandre frem og tilbage«, men i hif’il kan betydningen formodentlig være: »drives omkring«.",
+          "text": "Betydningen af ordet *ʔārîd* er usikker i sammenhængen. Det betyder egtl.: »vandre frit omkring/vandre frem og tilbage«, men i hif’il kan betydningen formodentlig være: »drives omkring«.",
+          "type": "T",
           "position": 44
         },
         {
-          "text": "T: Ordet *wᵊʔāhîmāʰ* (»jeg må/vil stønne«) er omdiskuteret. Dels er der usikkerhed om betydningen, dels trækkes ordet ofte over som del af v. 4, og dels foretrækker mange oversættere tekstrettelse til *wᵊʔ ēhômāʰ*: »jeg er ude af mig selv« eller *wᵊʔehᵉmeʰ*: »jeg vil jamre«.",
+          "text": "Ordet *wᵊʔāhîmāʰ* (»jeg må/vil stønne«) er omdiskuteret. Dels er der usikkerhed om betydningen, dels trækkes ordet ofte over som del af v. 4, og dels foretrækker mange oversættere tekstrettelse til *wᵊʔ ēhômāʰ*: »jeg er ude af mig selv« eller *wᵊʔehᵉmeʰ*: »jeg vil jamre«.",
+          "type": "T",
           "position": 81
         }
       ],
@@ -60,7 +64,8 @@
       "text": "\fover fjendes råb,\fover at ugudelig undertrykker,\ffor de vælter lidelse ned over mig,\fog i vrede bekriger de mig.",
       "footnotes": [
         {
-          "text": "T: Oversættelsen af ordet er usikker – det forekommer kun her i GT.",
+          "text": "Oversættelsen af ordet er usikker – det forekommer kun her i GT.",
+          "type": "T",
           "position": 49
         }
       ],
@@ -82,7 +87,8 @@
       "title": "Ønske om at flygte",
       "footnotes": [
         {
-          "text": "T: Ordret: »Hvem vil give mig …«.",
+          "text": "Ordret: »Hvem vil give mig …«.",
+          "type": "T",
           "position": 28
         }
       ],
@@ -93,7 +99,8 @@
       "text": "\fSe, jeg ville flygte langt bort,\fjeg ville overnatte i ørkenen. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 69
         }
       ],
@@ -110,11 +117,13 @@
       "title": "Klagebøn",
       "footnotes": [
         {
-          "text": "T: Andre oversætter: »ødelæg«.",
+          "text": "Andre oversætter: »ødelæg«.",
+          "type": "T",
           "position": 7
         },
         {
-          "text": "T: Ordret: Spalt deres tunger.",
+          "text": "Ordret: Spalt deres tunger.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -146,7 +155,8 @@
       "text": "\fvi, som sammen nød den søde fortrolighed,\fsom vandrede i Guds hus i festskaren.",
       "footnotes": [
         {
-          "text": "T: Ordet *regeš* forekommer i GT kun her. Ud fra roden må det betyde noget i retning af »larmende mængde«. Der kan være tænkt på en jublende skare.",
+          "text": "Ordet *regeš* forekommer i GT kun her. Ud fra roden må det betyde noget i retning af »larmende mængde«. Der kan være tænkt på en jublende skare.",
+          "type": "T",
           "position": 80
         }
       ],
@@ -158,11 +168,13 @@
       "title": "Bøn om retfærdig dom over modstanderne",
       "footnotes": [
         {
-          "text": "T: Konsonantteksten forudsætter ordet *yᵊšîmôt*: »Ødelæggelse (over dem)«. Men vokalteksten og de gamle oversættelser og mange håndskrifter har delt ordet: *yaššî māwet*: »Død skal falde (over dem«.",
+          "text": "Konsonantteksten forudsætter ordet *yᵊšîmôt*: »Ødelæggelse (over dem)«. Men vokalteksten og de gamle oversættelser og mange håndskrifter har delt ordet: *yaššî māwet*: »Død skal falde (over dem«.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "E: Sætningen er omdiskuteret. Ordret: »for der er ondskab i deres kammer, i deres indre«. Mange oversættere sletter: »i deres indre« (*bᵊqirbām*) som ikke-oprindelig tilføjelse. Andre opfatter det som forklaring til kammeret, så der kan oversættes: »i deres hjertekammer«. Ordet: *mᵊgûrāʰ* (»kammer«) forekommer kun her og i Hagg 2,19, hvor det oversættes: »lade/lager«. Her kunne det eventuelt oversættes: »lager/forrådskammer«.",
+          "text": "Sætningen er omdiskuteret. Ordret: »for der er ondskab i deres kammer, i deres indre«. Mange oversættere sletter: »i deres indre« (*bᵊqirbām*) som ikke-oprindelig tilføjelse. Andre opfatter det som forklaring til kammeret, så der kan oversættes: »i deres hjertekammer«. Ordet: *mᵊgûrāʰ* (»kammer«) forekommer kun her og i Hagg 2,19, hvor det oversættes: »lade/lager«. Her kunne det eventuelt oversættes: »lager/forrådskammer«.",
+          "type": "E",
           "position": 108
         }
       ],
@@ -184,7 +196,8 @@
       "text": "\fHan har forløst min sjæl i fred\ffra kampen imod mig,\ffor mange var imod mig.",
       "footnotes": [
         {
-          "text": "E: Det danske ord »fred« er egentlig for snævert til at gengive fylden i det hebraiske * šālôm* der omfatter både indre og ydre fred. Grundbetydningen er »hel, uskadt, sund«. Freden omfatter i sin fylde også tryghed og frelse.",
+          "text": "Det danske ord »fred« er egentlig for snævert til at gengive fylden i det hebraiske * šālôm* der omfatter både indre og ydre fred. Grundbetydningen er »hel, uskadt, sund«. Freden omfatter i sin fylde også tryghed og frelse.",
+          "type": "E",
           "position": 32
         }
       ],
@@ -195,7 +208,8 @@
       "text": "\fGud skal høre og svare dem,\fhan der troner fra ældgammel tid. Sela\fDer er ingen forandring hos dem,\fog de frygter ikke Gud.",
       "footnotes": [
         {
-          "text": "T: Mange oversættere vælger (med Septuaginta) at ændre vokaliseringen af *yaʕᵃnēm* (»svare dem«) til: *yᵊʕᵃnēm*: »ydmyge dem«.",
+          "text": "Mange oversættere vælger (med Septuaginta) at ændre vokaliseringen af *yaʕᵃnēm* (»svare dem«) til: *yᵊʕᵃnēm*: »ydmyge dem«.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -212,11 +226,13 @@
       "text": "\fHans munds flødeagtige ord var glatte,\fog hans hjerte ville krig;\fhans ord var blødere end olie,\fog dog var de dragne sværd.",
       "footnotes": [
         {
-          "text": "T: Ordet *maḥmāʔōt* (»flødeagtig« optræder i GT kun her, og betydningen er usikker. Oftest ændrer man vokaliseringen til: *mēḥᵃmāʔōt*: »end smør« så oversættelsen bliver: »Hans mund var glattere end smør«.",
+          "text": "Ordet *maḥmāʔōt* (»flødeagtig« optræder i GT kun her, og betydningen er usikker. Oftest ændrer man vokaliseringen til: *mēḥᵃmāʔōt*: »end smør« så oversættelsen bliver: »Hans mund var glattere end smør«.",
+          "type": "T",
           "position": 39
         },
         {
-          "text": "T: Ordret: »hans hjerte krig«. Der må være underforstået et verbum (»ville/ønskede«).",
+          "text": "Ordret: »hans hjerte krig«. Der må være underforstået et verbum (»ville/ønskede«).",
+          "type": "T",
           "position": 66
         }
       ],
@@ -228,7 +244,8 @@
       "title": "Opmuntringsord",
       "footnotes": [
         {
-          "text": "T: Ordret: »Han skal ikke for evigt lægge vaklen hen til den retfærdige«.",
+          "text": "Ordret: »Han skal ikke for evigt lægge vaklen hen til den retfærdige«.",
+          "type": "T",
           "position": 99
         }
       ],
@@ -239,7 +256,8 @@
       "text": "\fMen du, Gud, vil lade dem stige ned\fi gravens dyb.\fMordere og bedragere\fskal ikke nå halvdelen af deres dage.\fMen jeg, jeg stoler på dig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »blodets og bedragets mænd«.",
+          "text": "Ordret: »blodets og bedragets mænd«.",
+          "type": "T",
           "position": 72
         }
       ],

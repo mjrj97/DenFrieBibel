@@ -23,7 +23,8 @@
       "text": "\fMen Peter tog ordet og sagde: »Jeg forstår i sandhed at Gud ikke gør forskel på folk;",
       "footnotes": [
         {
-          "text": "T: Ordret: »åbnede munden«.",
+          "text": "Ordret: »åbnede munden«.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -39,7 +40,8 @@
       "text": "Dette er det ord han sendte til Israels børn da han forkyndte fred ved Jesus Kristus: han er alles Herre.",
       "footnotes": [
         {
-          "text": "T: Ordret: »forkyndte som godt budskab«.",
+          "text": "Ordret: »forkyndte som godt budskab«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -50,7 +52,8 @@
       "text": "I kender det som er gået ud over hele Judæa idet det begyndte i Galilæa efter den dåb Johannes prædikede,",
       "footnotes": [
         {
-          "text": "E: Grundteksten har her ordet *rhema*, der i de fleste sammenhænge skal oversættes: »ord/udsagn/det forkyndte«. I enkelte tilfælde bruges det dog svarende til hebraisk *dāvār*, der også kan betyde: »ting/sag/begivenhed«. Det gælder muligvis i denne sammenhæng.",
+          "text": "Grundteksten har her ordet *rhema*, der i de fleste sammenhænge skal oversættes: »ord/udsagn/det forkyndte«. I enkelte tilfælde bruges det dog svarende til hebraisk *dāvār*, der også kan betyde: »ting/sag/begivenhed«. Det gælder muligvis i denne sammenhæng.",
+          "type": "E",
           "position": 16
         }
       ],

@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Ordret: »for sin søn Absaloms ansigt«.",
+          "text": "Ordret: »for sin søn Absaloms ansigt«.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -41,11 +42,13 @@
       "text": "\fMange siger om mig:\fDer er ingen frelse for ham hos Gud. Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »om min sjæl«.",
+          "text": "Ordret: »om min sjæl«.",
+          "type": "T",
           "position": 20
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 62
         }
       ],
@@ -57,7 +60,8 @@
       "title": "Davids håb og tillid",
       "footnotes": [
         {
-          "text": "E: Med det bibelske ord *kᵊvôdî* er der ikke så meget tænkt på herlighed og højagtelse som på menneskeværd. Dvs. Gud er den der giver mig værdi som menneske. Grundbetydningen af roden *kbd* er »tyngde«.",
+          "text": "Med det bibelske ord *kᵊvôdî* er der ikke så meget tænkt på herlighed og højagtelse som på menneskeværd. Dvs. Gud er den der giver mig værdi som menneske. Grundbetydningen af roden *kbd* er »tyngde«.",
+          "type": "E",
           "position": 47
         }
       ],
@@ -68,7 +72,8 @@
       "text": "\fJeg råber højt til JHVH,\fog han svarer mig fra sit hellige bjerg. Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »Min stemme – jeg råber til JHVH«.",
+          "text": "Ordret: »Min stemme – jeg råber til JHVH«.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -84,7 +89,8 @@
       "text": "\fJeg vil ikke frygte for en skare på ti tusind\fder har rejst sig imod mig fra alle sider.",
       "footnotes": [
         {
-          "text": "T: Ordet *ʕām* (»folk/skare«) kan her være brugt om både Absaloms tilhængere og om hans og fjendtlige folks soldater.",
+          "text": "Ordet *ʕām* (»folk/skare«) kan her være brugt om både Absaloms tilhængere og om hans og fjendtlige folks soldater.",
+          "type": "T",
           "position": 46
         }
       ],
@@ -101,7 +107,8 @@
       "text": "\fHos JHVH er frelsen.\fLad din velsignelse være over dit folk! Sela",
       "footnotes": [
         {
-          "text": "E: Ordret blot: »Over dit folk din velsignelse«. Sætningen opfattes oftest som et velsignelsesønske, men den kan også oversættes: »Din velsignelse er over dit folk!«",
+          "text": "Ordret blot: »Over dit folk din velsignelse«. Sætningen opfattes oftest som et velsignelsesønske, men den kan også oversættes: »Din velsignelse er over dit folk!«",
+          "type": "E",
           "position": 61
         }
       ],

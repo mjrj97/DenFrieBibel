@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen er uvis; umiddelbart betyder det: »Til at bringe i erindring«. Meningen kan være at man med denne bøn kan minde Gud om sine lidelser og om hans nåde. I nogle oversættelser kan man finde oversættelsen »Til duftofferet«, idet salmen i eftereksilsk tid (efter 539 f.Kr.) blev bedt sammen med duftofferet (3 Mos 2,2.9.16; 24,7)",
+          "text": "Betydningen er uvis; umiddelbart betyder det: »Til at bringe i erindring«. Meningen kan være at man med denne bøn kan minde Gud om sine lidelser og om hans nåde. I nogle oversættelser kan man finde oversættelsen »Til duftofferet«, idet salmen i eftereksilsk tid (efter 539 f.Kr.) blev bedt sammen med duftofferet (3 Mos 2,2.9.16; 24,7)",
+          "type": "E",
           "position": 26
         }
       ],
@@ -42,7 +43,8 @@
       "title": "Bøn om tilgivelse og helbredelse",
       "footnotes": [
         {
-          "text": "E: Mange retter verbet *wattinḥat* (»kommer ned på«) til: *wattixbad*: »og (din hånd) hviler tungt (på mig)«",
+          "text": "Mange retter verbet *wattinḥat* (»kommer ned på«) til: *wattixbad*: »og (din hånd) hviler tungt (på mig)«",
+          "type": "E",
           "position": 64
         }
       ],
@@ -99,7 +101,8 @@
       "text": "\fOg de som stræber efter mit liv, satte snarer,\fog de som søger min ulykke, drøftede ødelæggelse,\fog hele dagen tænkte de på svig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sjæl«",
+          "text": "Ordret: »sjæl«",
+          "type": "T",
           "position": 33
         }
       ],
@@ -140,7 +143,8 @@
       "text": "\fMen mine levende fjender er stærke,\fog talrige er de som hader mig uden grund.",
       "footnotes": [
         {
-          "text": "T: De fleste oversættere ændrer *ḥayyîm* (»levende«) til *ḥinnām*: »uden grund«. Det begrundes dels med parallelismen med næste linje, og dels med at det giver bedre mening i sammenhængen",
+          "text": "De fleste oversættere ændrer *ḥayyîm* (»levende«) til *ḥinnām*: »uden grund«. Det begrundes dels med parallelismen med næste linje, og dels med at det giver bedre mening i sammenhængen",
+          "type": "T",
           "position": 17
         }
       ],
@@ -151,7 +155,8 @@
       "text": "\fOg de som gengælder godt med ondt,\fde bekriger mig fordi jeg stræber efter det gode.",
       "footnotes": [
         {
-          "text": "T: Ordret: »gengælder med ondt for godt«",
+          "text": "Ordret: »gengælder med ondt for godt«",
+          "type": "T",
           "position": 34
         }
       ],

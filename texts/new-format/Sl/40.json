@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«",
+          "type": "E",
           "position": 15
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fOg han trak mig op af undergangens grav,\faf det skidne dynd,\fog han satte mine fødder på en klippe,\fhan gjorde mine skridt faste.",
       "footnotes": [
         {
-          "text": "T: Andre oversætter: »brusende«",
+          "text": "Andre oversætter: »brusende«",
+          "type": "T",
           "position": 35
         }
       ],
@@ -62,7 +64,8 @@
       "text": "\fStore ting har du gjort, du,\fJHVHv, min Gud, dine undere\fog dine tanker for os –\fingen kan sammenlignes med dig.\fLad mig forkynde og tale:\f»De er flere, end man kan tælle«.",
       "footnotes": [
         {
-          "text": "E: De to verber i korhortativ kunne også oversættes: »hvis jeg ville forkynde og tale, så er de flere …«",
+          "text": "De to verber i korhortativ kunne også oversættes: »hvis jeg ville forkynde og tale, så er de flere …«",
+          "type": "E",
           "position": 139
         }
       ],
@@ -73,7 +76,8 @@
       "text": "\fSlagtoffer og afgrødeoffer har du ikke lyst til,\f- du har gravet ører til mig -\fbrændoffer og syndoffer har du ikke fordret.",
       "footnotes": [
         {
-          "text": "T: Sætningen er dunkel. Men meningen kan være, at Gud har givet den lydhørhed han ønsker frem for ofre",
+          "text": "Sætningen er dunkel. Men meningen kan være, at Gud har givet den lydhørhed han ønsker frem for ofre",
+          "type": "T",
           "position": 78
         }
       ],
@@ -89,7 +93,8 @@
       "text": "\fJeg har lyst til at gøre din vilje, min Gud,\fog din lov er midt i mit indre.«",
       "footnotes": [
         {
-          "text": "N: lov",
+          "text": "lov",
+          "type": "N",
           "position": 56
         }
       ],

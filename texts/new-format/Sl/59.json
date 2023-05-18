@@ -24,15 +24,18 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "T: Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt - salme.",
+          "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt - salme.",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "T: Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-58; 60) fastholde en alvorlig situation i folkets erindring.",
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-58; 60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -49,7 +52,8 @@
       "text": "\fRed mig fra dem som begår synd,\fog frels mig fra mordere!",
       "footnotes": [
         {
-          "text": "T: Ordret: »blodets mænd«.",
+          "text": "Ordret: »blodets mænd«.",
+          "type": "T",
           "position": 58
         }
       ],
@@ -60,7 +64,8 @@
       "text": "\fFor se, de har lagt baghold for min sjæl,\fstærke angriber mig,\fuden min overtrædelse og uden min synd, JHVHv!",
       "footnotes": [
         {
-          "text": "T: I betydningen »mig« eller evt. »mit liv«.",
+          "text": "I betydningen »mig« eller evt. »mit liv«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -76,15 +81,18 @@
       "text": "\fJa, du, JHVHv Gud, Sebaot, Israels Gud,\fvågn op for at hjemsøge alle folkeslagene!\fVis ingen nåde mod alle de troløse udøvere af synd! Sela",
       "footnotes": [
         {
-          "text": "E: Oversættes normalt »hærskarer« i sammensætningen »Hærskarers Herre«. Men her står det markeret som selvstændigt navn for Gud.",
+          "text": "Oversættes normalt »hærskarer« i sammensætningen »Hærskarers Herre«. Men her står det markeret som selvstændigt navn for Gud.",
+          "type": "E",
           "position": 27
         },
         {
-          "text": "T: Kan også oversættes: »hedningerne«.",
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
           "position": 83
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 140
         }
       ],
@@ -100,7 +108,8 @@
       "text": "\fSe, de fråder i deres mund,\fder er sværd på deres læber,\ffor hvem skulle høre det?",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »for hvem hører«. Det er enten ment som citat i modstandernes mund, eller som: »hvem kan holde ud at høre på det?«.",
+          "text": "Ordret blot: »for hvem hører«. Det er enten ment som citat i modstandernes mund, eller som: »hvem kan holde ud at høre på det?«.",
+          "type": "T",
           "position": 83
         }
       ],
@@ -112,7 +121,8 @@
       "title": "Tillidserklæring til Gud",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedninger«, men det er næppe der, vægten ligger her.",
+          "text": "Kan også oversættes: »hedninger«, men det er næppe der, vægten ligger her.",
+          "type": "T",
           "position": 57
         }
       ],
@@ -123,7 +133,8 @@
       "text": "\fHvad hans styrke angår, vil jeg give agt på dig,\ffor Gud er min fæstning.",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »hans styrke«. Enten må der være tænkt på fjenden, og man må da underforstå »over for« eller »angående« eller lign., eller også må man rette (det er det almindeligste valg) *ʕuzzô* (»hans styrke«) til *ʕuzzî*: »min styrke« som tiltale til Gud: »Min styrke, jeg vil …«.",
+          "text": "Ordret blot: »hans styrke«. Enten må der være tænkt på fjenden, og man må da underforstå »over for« eller »angående« eller lign., eller også må man rette (det er det almindeligste valg) *ʕuzzô* (»hans styrke«) til *ʕuzzî*: »min styrke« som tiltale til Gud: »Min styrke, jeg vil …«.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -134,7 +145,8 @@
       "text": "\fMin nådes Gud skal komme mig i møde,\fGud skal lade mig se med fryd på mine fjender.",
       "footnotes": [
         {
-          "text": "T: Konsonantteksten ordret: »Min Gud skal komme mig i møde (med) sin nåde«. Men med støtte bl.a. i masoreternes vokalisering, Septuaginta og sammenhængen retter man ofte til: »min nådes Gud …«.",
+          "text": "Konsonantteksten ordret: »Min Gud skal komme mig i møde (med) sin nåde«. Men med støtte bl.a. i masoreternes vokalisering, Septuaginta og sammenhængen retter man ofte til: »min nådes Gud …«.",
+          "type": "T",
           "position": 4
         }
       ],
@@ -145,7 +157,8 @@
       "text": "\fDræb dem ikke, for at mit folk ikke skal glemme det,\fgør dem hjemløse med din styrke, og styrt dem ned,\fHerre, vort skjold.",
       "footnotes": [
         {
-          "text": "T: Ordret: »lad dem flakke om«.",
+          "text": "Ordret: »lad dem flakke om«.",
+          "type": "T",
           "position": 70
         }
       ],
@@ -156,7 +169,8 @@
       "text": "\fDeres læbers ord er deres munds synd,\fog de skal fanges i deres hovmod\fog på grund af den forbandelse og løgn som de udsiger.",
       "footnotes": [
         {
-          "text": "T: Undertiden foreslås det at underforstå et »for«, så oversættelsen skal lyde: »For deres munds synd, deres læbers ord, skal de fanges i deres hovmod«.",
+          "text": "Undertiden foreslås det at underforstå et »for«, så oversættelsen skal lyde: »For deres munds synd, deres læbers ord, skal de fanges i deres hovmod«.",
+          "type": "T",
           "position": 38
         }
       ],
@@ -167,7 +181,8 @@
       "text": "\fUdryd dem i vrede, udryd dem, så de ikke er mere;\fog de skal vide at Gud hersker i Jakob,\findtil jordens ender. Sela",
       "footnotes": [
         {
-          "text": "T: Denne linje er formodentlig nærmere bestemmelse til »de skal vide«.",
+          "text": "Denne linje er formodentlig nærmere bestemmelse til »de skal vide«.",
+          "type": "T",
           "position": 112
         }
       ],
@@ -183,7 +198,8 @@
       "text": "\fDe vil strejfe om efter føde,\fhvis de ikke bliver mætte, bliver de natten over.",
       "footnotes": [
         {
-          "text": "T: På grundlag af Septuaginta foreslår mange en mindre ændring i vokaliseringen: *yālînû* (»bliver de natten over«) til *yāllînû*: »knurrer de«.",
+          "text": "På grundlag af Septuaginta foreslår mange en mindre ændring i vokaliseringen: *yālînû* (»bliver de natten over«) til *yāllînû*: »knurrer de«.",
+          "type": "T",
           "position": 80
         }
       ],
@@ -200,7 +216,8 @@
       "text": "\fMin styrke, dig vil jeg lovsynge,\ffor Gud er min fæstning,\fmin nådes Gud.",
       "footnotes": [
         {
-          "text": "T: Se note til v. 11.",
+          "text": "Se note til v. 11.",
+          "type": "T",
           "position": 74
         }
       ],

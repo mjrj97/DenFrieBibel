@@ -159,7 +159,8 @@
       "text": "Jesus sagde til dem: »I vil alle falde fra; for der står skrevet: \fJeg vil slå hyrden, \fog fårene vil spredes.",
       "footnotes": [
         {
-          "text": "H: Zak 13,7",
+          "text": "Zak 13,7",
+          "type": "H",
           "position": 109
         }
       ],
@@ -343,7 +344,8 @@
       "text": "Men Jesus sagde: »Det er jeg; og I vil se Menneskesønnen sidde ved Kraftens højre hånd og komme med himlens skyer.«",
       "footnotes": [
         {
-          "text": "H: 2 Mos 3,14; Sal 110,1; Dan 7,13",
+          "text": "2 Mos 3,14; Sal 110,1; Dan 7,13",
+          "type": "H",
           "position": 115
         }
       ],

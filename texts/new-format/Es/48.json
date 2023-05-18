@@ -85,11 +85,13 @@
       "text": "\fSaml jer, alle sammen, og hør! Hvem iblandt dem  har forkyndt disse ting: Den, JHVH elsker , skal handle efter hans behag imod Babylon og lade hans arm blive kendt imod kaldæerne.",
       "footnotes": [
         {
-          "text": "T: nemlig afguderne",
+          "text": "nemlig afguderne",
+          "type": "T",
           "position": 49
         },
         {
-          "text": "T: dvs. Kyros",
+          "text": "dvs. Kyros",
+          "type": "T",
           "position": 92
         }
       ],

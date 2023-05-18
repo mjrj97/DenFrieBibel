@@ -39,7 +39,8 @@
       "text": "\fStol på JHVH for evigt, \ffor JHVH, JHVH er en evig klippe.",
       "footnotes": [
         {
-          "text": "E: Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "text": "Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "type": "E",
           "position": 35
         }
       ],
@@ -65,7 +66,8 @@
       "text": "\fJa, på dine forordningers sti, HERRE, håber vi på dig! \fEfter dit navn og efter dit ry står en sjæls længsel.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord: *zēxer* har en vid betydning. I forskellige sammenhænge oversættes det »minde«, »mindesmærke«, »navn«. Det klinger alt med her.",
+          "text": "Det hebraiske ord: *zēxer* har en vid betydning. I forskellige sammenhænge oversættes det »minde«, »mindesmærke«, »navn«. Det klinger alt med her.",
+          "type": "T",
           "position": 87
         }
       ],
@@ -126,7 +128,8 @@
       "text": "\fDine døde skal leve, mine lig skal stå op.  Vågn op, I der bor i støvet, og I skal juble! \fFor en lysets dug er din dug, \fog jorden skal give underverdenens døde liv.",
       "footnotes": [
         {
-          "text": "T: Ordret: »kaste«, der også er udtryk for »at føde/nedkomme med«.",
+          "text": "Ordret: »kaste«, der også er udtryk for »at føde/nedkomme med«.",
+          "type": "T",
           "position": 167
         }
       ],
@@ -142,15 +145,18 @@
       "text": "\fFor se, JHVH går ud fra sin bolig \ffor at straffe jordens beboeres synd mod ham; \fog jorden skal åbenbare sin blodskyld \fog ikke længere skjule sine dræbte.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra sit sted«.",
+          "text": "Ordret: »fra sit sted«.",
+          "type": "T",
           "position": 34
         },
         {
-          "text": "T: Ordret: »sit udgydte blod«.",
+          "text": "Ordret: »sit udgydte blod«.",
+          "type": "T",
           "position": 120
         },
         {
-          "text": "T: Ordret: »dække over«.",
+          "text": "Ordret: »dække over«.",
+          "type": "T",
           "position": 144
         }
       ],

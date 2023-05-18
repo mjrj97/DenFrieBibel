@@ -45,11 +45,13 @@
       "title": "Formaning til slaver og deres herrer",
       "footnotes": [
         {
-          "text": "T: Ordret: »ifølge kødet«.",
+          "text": "Ordret: »ifølge kødet«.",
+          "type": "T",
           "position": 35
         },
         {
-          "text": "T: Ordret: »med jeres hjerters oprigtighed«.",
+          "text": "Ordret: »med jeres hjerters oprigtighed«.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -60,7 +62,8 @@
       "text": "ikke med øjentjeneste som dem der vil indynde sig hos mennesker, men som Kristi tjenere som af hjertet gør Guds vilje,",
       "footnotes": [
         {
-          "text": "T: Ordret: »af sjælen«.",
+          "text": "Ordret: »af sjælen«.",
+          "type": "T",
           "position": 102
         }
       ],
@@ -102,7 +105,8 @@
       "text": "Tag derfor Guds fulde rustning på for at I kan stå imod på den onde dag og stå fast efter at I har gjort alt.",
       "footnotes": [
         {
-          "text": "T: Alternativ oversættelse: »overvundet«.",
+          "text": "Alternativ oversættelse: »overvundet«.",
+          "type": "T",
           "position": 104
         }
       ],
@@ -118,11 +122,13 @@
       "text": "og på fødderne villighed til at forkynde fredens evangelium, ",
       "footnotes": [
         {
-          "text": "T: Ordret: »med fødderne ombundne«. Der er tænkt på fodtøj som man snører om benene.",
+          "text": "Ordret: »med fødderne ombundne«. Der er tænkt på fodtøj som man snører om benene.",
+          "type": "T",
           "position": 14
         },
         {
-          "text": "T: Ordret: »fredens evangeliums beredskab«.",
+          "text": "Ordret: »fredens evangeliums beredskab«.",
+          "type": "T",
           "position": 61
         }
       ],

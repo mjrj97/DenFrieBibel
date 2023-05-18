@@ -27,7 +27,8 @@
       "text": "Det folk\t\t\t\t\tder vandrer i mørket, \f\t\t\t\tskal se et stort lys; \f\t\t\tde der bor i dødsskyggens land, \f\t\t\t\tover dem skal et lys skinne.",
       "footnotes": [
         {
-          "text": "E: Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: »dødsskygge«, men ofte vokaliseres: *ṣalmut*, der skal oversættes: »mørke«.",
+          "text": "Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: »dødsskygge«, men ofte vokaliseres: *ṣalmut*, der skal oversættes: »mørke«.",
+          "type": "E",
           "position": 91
         }
       ],
@@ -38,7 +39,8 @@
       "text": "\f\t\tDu gør folket talrigt, \f\t\t\t\tfor det gør du glæden stor; \f\t\t\tde skal glæde sig for dit ansigt, \fsom glæden er om høsten, \f\t\t\t\t\tligesom man jubler \f\t\t\t\t\t\tnår man fordeler bytte.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: »jubelen« (*haggilā*) i stedet for: »dets folk« (*haggôy lôʔ*), der dog også kræver en tekstændring fra: *loʔ* (»ikke«) til: *lô* (»dets/for det«), der har støtte i mange håndskrifter og i vokaliseringen, og i alle tilfælde må forudsættes, også i denne oversættelse.",
+          "text": "Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: »jubelen« (*haggilā*) i stedet for: »dets folk« (*haggôy lôʔ*), der dog også kræver en tekstændring fra: *loʔ* (»ikke«) til: *lô* (»dets/for det«), der har støtte i mange håndskrifter og i vokaliseringen, og i alle tilfælde må forudsættes, også i denne oversættelse.",
+          "type": "E",
           "position": 16
         }
       ],
@@ -49,7 +51,8 @@
       "text": "\f\t\t\t\tFor åget der tynger det, \fog stangen over dets skulder, \fdets slavefogeds stav \f\t\t\t\t\t\t\tbrækker du\t\t\t\t\t\tsom på Midjans dag.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord betegner den øverste del af ryggen, hvor der typisk bliver slået.",
+          "text": "Det hebraiske ord betegner den øverste del af ryggen, hvor der typisk bliver slået.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -70,11 +73,13 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\tPå herredømmets storhed og på freden vil der ikke blive nogen ende \ffor Davids trone og for hans rige, \f\t\t\t\t\t\t\t\t\t\t\t\tså han kan grundfæste det \f\t\t\t\t\t\t\t\t\t\t\t\t\tog understøtte det \fmed ret og retfærdighed \ffra nu og til evig tid; \f\t\t\t\t\t\t\t\t\t\t\tHærskarers HERRES nidkærhed skal gøre dette.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 258
         },
         {
-          "text": "T: Det hebraiske ord er betegnelse for jalousi og lidenskab.",
+          "text": "Det hebraiske ord er betegnelse for jalousi og lidenskab.",
+          "type": "T",
           "position": 275
         }
       ],
@@ -106,11 +111,13 @@
       "text": "\f\t\t\t\t\t\tAram fra øst\t\t\t\t\t\t\t\tog filistrene fra vest, \f\t\t\t\t\t\t\tde fortærer Israel i én mundfuld. \f\t\t\t\t\tTrods det har hans vrede ikke lagt sig, \f\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »forfra«.",
+          "text": "Kan også oversættes: »forfra«.",
+          "type": "T",
           "position": 19
         },
         {
-          "text": "T: Kan også oversættes: »bagfra«.",
+          "text": "Kan også oversættes: »bagfra«.",
+          "type": "T",
           "position": 50
         }
       ],
@@ -121,7 +128,8 @@
       "text": "\f\t\t\t\tFolket er ikke vendt om til ham\t\t\t\t\t\t\tder slog det,\t\t\t\t\t\tog har ikke søgt Hærskarers HERRE,",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 96
         }
       ],
@@ -157,11 +165,13 @@
       "text": "\f\t\t\t\t\t\t\t\t\tVed Hærskarers HERRES vrede er landet sat i brand; \f\t\t\t\t\t\t\t\t\t\tog folket er som føde for ild, \f\t\t\t\t\t\t\t\t\t\t\tingen skåner\t\t\t\t\t\t\t\t\t\t\t\tsin bror.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 31
         },
         {
-          "text": "E: Det hebraiske verbum *ʕtm* forekommer kun her, og betydningen er usikker og omdiskuteret. Septuaginta har tilsyneladende læst verbet: *nṣh*: »blevet ødelagt«.",
+          "text": "Det hebraiske verbum *ʕtm* forekommer kun her, og betydningen er usikker og omdiskuteret. Septuaginta har tilsyneladende læst verbet: *nṣh*: »blevet ødelagt«.",
+          "type": "E",
           "position": 60
         }
       ],
@@ -172,7 +182,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tMan sluger i sig til højre, \f\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen sulter, \f\t\t\t\t\t\t\t\t\t\t\t\t\tog man æder til venstre, \f\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen mættes ikke; \f\t\t\t\t\t\t\t\t\t\t\t\tenhver æder\t\t\t\t\t\t\t\t\t\t\t\t\tkødet af sin arm,",
       "footnotes": [
         {
-          "text": "E: Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* »sin arm« skal læses: *reʕô*: »sin landsmand«. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.",
+          "text": "Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* »sin arm« skal læses: *reʕô*: »sin landsmand«. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.",
+          "type": "E",
           "position": 194
         }
       ],

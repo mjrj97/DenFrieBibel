@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         },
         {
-          "text": "E: Betydningen af ordet: *šîvat* (status constructus af: *šîvāʰ*: »fangenskab«), der kun forekommer dette ene sted i GT, er usikker. Ofte antager man at det er skrivefejl for: *šᵊvît*: »fangenskab«. Der er dog intet i vejen for at der kan have været to ord med næsten samme betydning; vi kender blot ikke betydningsnuancerne. Men man retter som regel til: *šᵊvût*, der formodentlig betyder: »lod«.",
+          "text": "Betydningen af ordet: *šîvat* (status constructus af: *šîvāʰ*: »fangenskab«), der kun forekommer dette ene sted i GT, er usikker. Ofte antager man at det er skrivefejl for: *šᵊvît*: »fangenskab«. Der er dog intet i vejen for at der kan have været to ord med næsten samme betydning; vi kender blot ikke betydningsnuancerne. Men man retter som regel til: *šᵊvût*, der formodentlig betyder: »lod«.",
+          "type": "E",
           "position": 46
         }
       ],
@@ -40,7 +42,8 @@
       "title": "Da JHVH vendte Zions fangenskab",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedningerne«.",
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
           "position": 84
         }
       ],
@@ -57,11 +60,13 @@
       "title": "Bøn om at frelserværket føres til ende",
       "footnotes": [
         {
-          "text": "E: Konsonantteksten har: *šᵊvûtēnû*: »vor skæbne«, mens vokaliseringen forudsætter: *šᵊvîtēnû*: »vort fangenskab«, jf. note til v.1.",
+          "text": "Konsonantteksten har: *šᵊvûtēnû*: »vor skæbne«, mens vokaliseringen forudsætter: *šᵊvîtēnû*: »vort fangenskab«, jf. note til v.1.",
+          "type": "E",
           "position": 14
         },
         {
-          "text": "T: De fyldes i regntiden efter tørken.",
+          "text": "De fyldes i regntiden efter tørken.",
+          "type": "T",
           "position": 45
         }
       ],

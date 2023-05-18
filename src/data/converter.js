@@ -520,6 +520,7 @@ function convertFile(file) {
 }
 
 // DOESN'T HADNLE CURSIVE/ITALIC (*this is in italics*)
+// ERROR IN JOB 42, 1 with "//2:"
 function retrieveVerses(data) {
   let text = data.trim();
   let raw = text.split(/(?=v[0-9]|V[0-9])/g);
@@ -640,7 +641,8 @@ function retrieveVerses(data) {
       for (let j = 1; j < slices.length; j++) {
         let parts = slices[j].split("}");
         verses[i].footnotes.push({
-          text: parts[0],
+          text: parts[0].substring(2).trim(),
+          type: parts[0][0],
           position: index
         });
 

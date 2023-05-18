@@ -24,7 +24,8 @@
       "title": "Ord mod Jerusalem",
       "footnotes": [
         {
-          "text": "T: Dvs. Jerusalem, hvor profeterne havde mange syner.",
+          "text": "Dvs. Jerusalem, hvor profeterne havde mange syner.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -45,7 +46,8 @@
       "text": "\fDerfor sagde jeg: »Vend blikket fra mig, \fjeg må græde bittert; \ftræng ikke ind på mig for at trøste mig \fover ødelæggelsen af mit folks datter.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »jeg må være bitter i min gråd«.",
+          "text": "Ordret: »jeg må være bitter i min gråd«.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -56,15 +58,18 @@
       "text": "\fFor en dag med bestyrtelse og nedtrampning og forvirring\fer det for Herren, Hærskarers HERRE i Synernes Dal, \fman bryder mur ned, og der er skrig rettet hen mod bjerget.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 93
         },
         {
-          "text": "E: Oversættelsen af *mᵊqarqar* (»bryder ned«) er usikker og omdiskuteret. Andre oversætter: »laver spektakel«, atter andre: »udgraver en brønd«.",
+          "text": "Oversættelsen af *mᵊqarqar* (»bryder ned«) er usikker og omdiskuteret. Andre oversætter: »laver spektakel«, atter andre: »udgraver en brønd«.",
+          "type": "E",
           "position": 121
         },
         {
-          "text": "T: Oversættelsen af det hebraiske *qir* er usikker og omdiskuteret. Andre oversætter: »larm«.",
+          "text": "Oversættelsen af det hebraiske *qir* er usikker og omdiskuteret. Andre oversætter: »larm«.",
+          "type": "T",
           "position": 125
         }
       ],
@@ -75,7 +80,8 @@
       "text": "\fOg Elam tog kogger op, \fmed bemandet vogn, ryttere, \fog Kir tog dækket af sit skjold.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er usikker og omdiskuteret. Man vælger ofte at rette *ʔādām* til: *ʔᵃrām* : »Aram«. Oversættelsen af denne linje bliver da: »Aram med vogn, ryttere«.",
+          "text": "Oversættelsen er usikker og omdiskuteret. Man vælger ofte at rette *ʔādām* til: *ʔᵃrām* : »Aram«. Oversættelsen af denne linje bliver da: »Aram med vogn, ryttere«.",
+          "type": "E",
           "position": 37
         }
       ],
@@ -111,7 +117,8 @@
       "text": "\fHerren, Hærskarers HERRE, kaldte den dag \ftil gråd og til klage \fog til at klippe sig skaldet og til at binde sæk om sig.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 26
         }
       ],
@@ -122,7 +129,8 @@
       "text": "\fMen se, der er fryd og glæde, \fman dræber okse og slagter får, \fman spiser kød og drikker vin: \f»Lad os spise og drikke, for i morgen skal vi dø!«",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »at spise og at drikke«. Men i sammenhængen opfattes det oftest som opfordring.",
+          "text": "Ordret blot: »at spise og at drikke«. Men i sammenhængen opfattes det oftest som opfordring.",
+          "type": "T",
           "position": 121
         }
       ],
@@ -133,11 +141,13 @@
       "text": "\fMen Hærskarers HERRE åbenbarede sig for mine ører: \f»Denne synd kan ikke sones for jer, før I dør!« \fsiger Herren Hærskarers HERRE.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 21
         },
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 132
         }
       ],
@@ -149,11 +159,13 @@
       "title": "Ord mod forvalteren Shebna",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 35
         },
         {
-          "text": "E: Ordene »og sig til ham« står ikke i den hebraiske tekst, men er underforstået.",
+          "text": "Ordene »og sig til ham« står ikke i den hebraiske tekst, men er underforstået.",
+          "type": "E",
           "position": 116
         }
       ],
@@ -179,7 +191,8 @@
       "text": "\fOg jeg støder dig ned fra din stilling, \fog han  vil styrte dig ned fra dit embede,",
       "footnotes": [
         {
-          "text": "T: Sandsynligvis kong Hizkija",
+          "text": "Sandsynligvis kong Hizkija",
+          "type": "T",
           "position": 49
         }
       ],
@@ -210,7 +223,8 @@
       "text": "\fOg de skal hænge på ham al hans fars hus’ herlighed, de høje og de lave efterkommere, alle de små kar, både skålene og alle krukkerne.«",
       "footnotes": [
         {
-          "text": "T: Oversættelsen her usikker. Andre oversætter: »de ædle og de vilde skud« eller: »kvistene og bladene«.",
+          "text": "Oversættelsen her usikker. Andre oversætter: »de ædle og de vilde skud« eller: »kvistene og bladene«.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -221,7 +235,8 @@
       "text": "\f»På den dag,« lyder Hærskarers HERRES udsagn, »skal den nagle der sad på et fast sted, vige, og den skal brækkes af og falde ned, og det der hang på den, skal udslettes, for JHVH har talt.«",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 38
         }
       ],

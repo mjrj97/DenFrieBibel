@@ -40,7 +40,8 @@
       "text": "ligesom han har udvalgt os i ham før verdens grundlæggelse til at være hellige og fejlfrie over for ham. I kærlighed",
       "footnotes": [
         {
-          "text": "T: Der er indsat et punktum da »I kærlighed« kan høre sammen med det følgende og passer bedre der,",
+          "text": "Der er indsat et punktum da »I kærlighed« kan høre sammen med det følgende og passer bedre der,",
+          "type": "T",
           "position": 104
         }
       ],
@@ -81,11 +82,13 @@
       "text": "I ham blev vi også udvalgt til at være hans del, forudbestemt til det efter hans beslutning, ham som virker alt efter sin viljesafgørelse,",
       "footnotes": [
         {
-          "text": "E: I slutningen af vers 10 står der »i ham« som sandsynligvis hører sammen med begyndelsen på vers 11: »I ham, i hvem«.",
+          "text": "I slutningen af vers 10 står der »i ham« som sandsynligvis hører sammen med begyndelsen på vers 11: »I ham, i hvem«.",
+          "type": "E",
           "position": 5
         },
         {
-          "text": "T: Ordet betyder at bestemme ved lodkastning og i passiv at blive ramt af loddet, og meningen er sandsynligvis at den loddet falder på, tilhører Gud.",
+          "text": "Ordet betyder at bestemme ved lodkastning og i passiv at blive ramt af loddet, og meningen er sandsynligvis at den loddet falder på, tilhører Gud.",
+          "type": "T",
           "position": 48
         }
       ],
@@ -127,7 +130,8 @@
       "text": "og oplyste øjne i jeres hjerter så at I kan forstå det håb han har kaldet jer til, hvor rig hans herlige arv er i de hellige,",
       "footnotes": [
         {
-          "text": "T: Ordret: »hans kaldelses håb«. ",
+          "text": "Ordret: »hans kaldelses håb«.",
+          "type": "T",
           "position": 82
         }
       ],

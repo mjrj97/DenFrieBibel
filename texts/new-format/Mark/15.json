@@ -161,11 +161,13 @@
       "text": "Og Skriften blev opfyldt, der siger: »Og han blev regnet iblandt overtrædere.«]",
       "footnotes": [
         {
-          "text": "H: Es 53,12",
+          "text": "Es 53,12",
+          "type": "H",
           "position": 79
         },
         {
-          "text": "T: Verset findes ikke i de ældste og bedste håndskrifter",
+          "text": "Verset findes ikke i de ældste og bedste håndskrifter",
+          "type": "T",
           "position": 79
         }
       ],
@@ -202,7 +204,8 @@
       "text": "I den niende time råbte Jesus med høj stemme: »Eloí! Eloí! Lama sabaktani?« Det betyder: »Min Gud, min Gud! Hvorfor har du forladt mig?«",
       "footnotes": [
         {
-          "text": "H: Sal 22,2",
+          "text": "Sal 22,2",
+          "type": "H",
           "position": 136
         }
       ],

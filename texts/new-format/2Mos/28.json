@@ -50,7 +50,8 @@
       "title": "Forordning om efoden",
       "footnotes": [
         {
-          "text": "E: Navnet: »efod« bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
+          "text": "Navnet: »efod« bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -71,7 +72,8 @@
       "text": "Du skal tage de to shoham-sten og indgravere på dem Israels sønners navne:",
       "footnotes": [
         {
-          "text": "T: Se note til 25,7.",
+          "text": "Se note til 25,7.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -97,7 +99,8 @@
       "text": "Du skal lave fletværk af guld",
       "footnotes": [
         {
-          "text": "E: Det skal muligvis opfattes som øskener.",
+          "text": "Det skal muligvis opfattes som øskener.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -124,7 +127,8 @@
       "text": "Du skal lave en indfatning med sten på det, fire rækker sten; en række med en rubin, en topas og en smaragd, den første række;",
       "footnotes": [
         {
-          "text": "E: Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.",
+          "text": "Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.",
+          "type": "E",
           "position": 61
         }
       ],
@@ -135,7 +139,8 @@
       "text": "den anden række: en turkis, en safir og en månesten;",
       "footnotes": [
         {
-          "text": "T: Det hebraiske *nōfex* er ofte oversat: »granat«, men angiver formodentlig: »turkis«.",
+          "text": "Det hebraiske *nōfex* er ofte oversat: »granat«, men angiver formodentlig: »turkis«.",
+          "type": "T",
           "position": 27
         }
       ],
@@ -146,7 +151,8 @@
       "text": "den tredje række: en opal, en agat og en ametyst;",
       "footnotes": [
         {
-          "text": "T: Tidligere ofte oversat: »hyacint«, men oversættelsen er usikker.",
+          "text": "Tidligere ofte oversat: »hyacint«, men oversættelsen er usikker.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -157,7 +163,8 @@
       "text": "og den fjerde række: en krysolit og en shoham og en jaspis; de skal være indflettet i guld i deres indfatninger.",
       "footnotes": [
         {
-          "text": "T: Se note til 25,7.",
+          "text": "Se note til 25,7.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -213,11 +220,13 @@
       "text": "I doms-brystskjoldet skal du lægge Urim og Tummim; de skal være på Arons hjerte, når han går ind for JHVHs ansigt, og Aron skal altid bære Israels sønners domsafgørelse på sit hjerte for JHVHs ansigt.",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret, hvad især »Urim« betyder, måske »lys/oplysning«. Andre har dog foreslået: »forbandelse«. »Tummim« betyder: »fuldkommenhed/fuldendelse«. Det er måske vigtigt, at »Urim« begynder med det hebraiske alfabets første bogstav, mens »Tummim« begynder med det sidste bogstav, så de betegner totaliteten. Lodkastningen skal så vise Guds vej eller plan inden for helheden, 4 Mos. 27, 21. 1 Sam. 23, 9-13.",
+          "text": "Det er omdiskuteret, hvad især »Urim« betyder, måske »lys/oplysning«. Andre har dog foreslået: »forbandelse«. »Tummim« betyder: »fuldkommenhed/fuldendelse«. Det er måske vigtigt, at »Urim« begynder med det hebraiske alfabets første bogstav, mens »Tummim« begynder med det sidste bogstav, så de betegner totaliteten. Lodkastningen skal så vise Guds vej eller plan inden for helheden, 4 Mos. 27, 21. 1 Sam. 23, 9-13.",
+          "type": "E",
           "position": 49
         },
         {
-          "text": "T: Ordet: *mišpāṭ*, som indgår i betegnelsen »doms-brystskjoldet« kan også betyde : »ret/retsregel«. Som loddernes funktion viser, skal ordet her måske forstås lidt bredere end: »domsafgørelser« - med lodderne får folket svar og vejledning i afgørende situationer.",
+          "text": "Ordet: *mišpāṭ*, som indgår i betegnelsen »doms-brystskjoldet« kan også betyde : »ret/retsregel«. Som loddernes funktion viser, skal ordet her måske forstås lidt bredere end: »domsafgørelser« - med lodderne får folket svar og vejledning i afgørende situationer.",
+          "type": "T",
           "position": 168
         }
       ],
@@ -238,7 +247,8 @@
       "text": "På dens nedre sømme skal du lave granatæbler af purpurblå, purpurrød og karminrød uld, rundt på dens nedre sømme, og guldbjælder rundt imellem dem;",
       "footnotes": [
         {
-          "text": "T: Oversættes undertiden: »slæb«.",
+          "text": "Oversættes undertiden: »slæb«.",
+          "type": "T",
           "position": 19
         }
       ],
@@ -260,7 +270,8 @@
       "title": "Forordning om rosetten",
       "footnotes": [
         {
-          "text": "T: Det hebraiske: *ṣîṣ* (»roset«) er beslægtet med ordet: *ṣîṣāʰ*: »blomst« og verbet: *nṣṣ*: »funkle/skinne«. Man kan finde forskelige oversættelser: »blomst/plade/diadem«. Det har formodentlig været en plade, der var formet som en blomst, en roset. Det er denne roset, der i 29,6 kaldes: »det hellige diadem« (med et andet hebraisk ord).",
+          "text": "Det hebraiske: *ṣîṣ* (»roset«) er beslægtet med ordet: *ṣîṣāʰ*: »blomst« og verbet: *nṣṣ*: »funkle/skinne«. Man kan finde forskelige oversættelser: »blomst/plade/diadem«. Det har formodentlig været en plade, der var formet som en blomst, en roset. Det er denne roset, der i 29,6 kaldes: »det hellige diadem« (med et andet hebraisk ord).",
+          "type": "T",
           "position": 26
         }
       ],
@@ -276,7 +287,8 @@
       "text": "Den skal være på Arons pande, og Aron skal bære synden som er ved de hellige ting som Israels sønner helliger, ved alle deres helliggaver; den skal altid være på hans pande, så de må finde velbehag for JHVHs ansigt.«",
       "footnotes": [
         {
-          "text": "E: Der kan være tænkt på helliggaverne eller måske på folket.",
+          "text": "Der kan være tænkt på helliggaverne eller måske på folket.",
+          "type": "E",
           "position": 179
         }
       ],
@@ -299,7 +311,8 @@
       "text": "Du skal iføre Aron, din bror, dem, og hans sønner med ham, og du skal salve dem og fylde deres hænder og hellige dem, og de skal gøre præstetjeneste for mig.",
       "footnotes": [
         {
-          "text": "E: Meningen er enten, at de får de ting og redskaber i hånden som de skal bruge i tjenesten, og derved indvies de til tjenesten, eller at de får lagt et indvielsesoffer i hænderne.",
+          "text": "Meningen er enten, at de får de ting og redskaber i hånden som de skal bruge i tjenesten, og derved indvies de til tjenesten, eller at de får lagt et indvielsesoffer i hænderne.",
+          "type": "E",
           "position": 101
         }
       ],
@@ -310,7 +323,8 @@
       "text": "Og du skal lave linnedbukser til dem til at skjule deres kønsdele, de skal gå fra lænderne til lårene.",
       "footnotes": [
         {
-          "text": "T: *bᵊśar ʕerwāʰ* ordret: »nøgenheds kød« eller: »skams kød«.",
+          "text": "*bᵊśar ʕerwāʰ* ordret: »nøgenheds kød« eller: »skams kød«.",
+          "type": "T",
           "position": 66
         }
       ],

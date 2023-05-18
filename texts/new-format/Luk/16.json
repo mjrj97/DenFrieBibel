@@ -48,7 +48,8 @@
       "text": "Han sagde: ›100 ankre olie.‹ Han sagde til ham: ›Tag dit gældsbrev, og sæt dig hurtigt ned og skriv 50!‹",
       "footnotes": [
         {
-          "text": "T: Det græske ord er et mål for flydende varer svarende til 36,4 liter.",
+          "text": "Det græske ord er et mål for flydende varer svarende til 36,4 liter.",
+          "type": "T",
           "position": 21
         }
       ],
@@ -59,7 +60,8 @@
       "text": "Derefter sagde han til en anden: ›Men du, hvor meget skylder du?‹ Han sagde: ›100 mål hvede.‹ Han siger til ham: ›Tag dit gældsbrev og skriv 80!‹",
       "footnotes": [
         {
-          "text": "T: Det græske ord er et mål for både tørre og flydende varer svarende til 364 liter.",
+          "text": "Det græske ord er et mål for både tørre og flydende varer svarende til 364 liter.",
+          "type": "T",
           "position": 85
         }
       ],
@@ -70,7 +72,8 @@
       "text": "Herren roste den uærlige godsforvalter fordi han havde handlet klogt; for denne verdens børn er klogere end lysets børn over for deres egen slægt.",
       "footnotes": [
         {
-          "text": "T: Det græske ord er udtryk for denne (gudløse) tidsalder.",
+          "text": "Det græske ord er udtryk for denne (gudløse) tidsalder.",
+          "type": "T",
           "position": 87
         }
       ],
@@ -91,7 +94,8 @@
       "text": "Men en fattig mand ved navn Lazarus lå ved hans port og var fuld af sår",
       "footnotes": [
         {
-          "text": "T: Ordret: »kastet hen«.",
+          "text": "Ordret: »kastet hen«.",
+          "type": "T",
           "position": 38
         }
       ],
@@ -112,7 +116,8 @@
       "text": "Da han slog øjnene op i dødsriget, hvor han var i pine, ser han Abraham langt borte og Lazarus i hans skød.",
       "footnotes": [
         {
-          "text": "T: På græsk: »Hades«.",
+          "text": "På græsk: »Hades«.",
+          "type": "T",
           "position": 34
         }
       ],

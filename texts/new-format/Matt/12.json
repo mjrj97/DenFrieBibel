@@ -34,7 +34,8 @@
       "text": "Men han sagde til dem: »Har I ikke læst hvad David gjorde, da han og dem sammen med ham blev sultne, hvordan han gik i Guds hus, og de spiste skuebrødene, som det ikke var tilladt ham eller dem sammen med ham, men alene præsterne at spise?",
       "footnotes": [
         {
-          "text": "H: 1 Sam 21.",
+          "text": "1 Sam 21.",
+          "type": "H",
           "position": 39
         }
       ],
@@ -45,7 +46,8 @@
       "text": "Eller har I ikke læst i loven at på sabbatten vanhelliger præsterne i templet sabbatten, og de er uden skyld?",
       "footnotes": [
         {
-          "text": "H: 4 Mos 28,9.",
+          "text": "4 Mos 28,9.",
+          "type": "H",
           "position": 29
         }
       ],
@@ -61,7 +63,8 @@
       "text": "Men hvis I havde erkendt hvad det betyder: Barmhjertighed ønsker jeg og ikke offer, så havde I ikke fordømt dem der er uden skyld,",
       "footnotes": [
         {
-          "text": "H: Hos 6,6.",
+          "text": "Hos 6,6.",
+          "type": "H",
           "position": 41
         }
       ],
@@ -83,7 +86,8 @@
       "text": "og se, der var en mand med en vissen hånd. De spurgte ham: »Er det tilladt at helbrede på en sabbat?« Det gjorde de for at kunne anklage ham.",
       "footnotes": [
         {
-          "text": "T: »Det gjorde de« er underforstået i teksten.",
+          "text": "»Det gjorde de« er underforstået i teksten.",
+          "type": "T",
           "position": 115
         }
       ],
@@ -125,7 +129,8 @@
       "text": "for at det skal opfyldes, som er blevet talt ved profeten Esajas som sagde:",
       "footnotes": [
         {
-          "text": "H: Es 42,1-4.",
+          "text": "Es 42,1-4.",
+          "type": "H",
           "position": 74
         }
       ],
@@ -239,7 +244,8 @@
       "title": "Jonas’ tegn",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 35
         }
       ],

@@ -28,7 +28,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Formodentlig templets.",
+          "text": "Formodentlig templets.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -40,7 +41,8 @@
       "title": "Lovprisning for frelse fra døden",
       "footnotes": [
         {
-          "text": "T: Som man trækker en spand op fra brøndens dyb.",
+          "text": "Som man trækker en spand op fra brøndens dyb.",
+          "type": "T",
           "position": 57
         }
       ],
@@ -56,7 +58,8 @@
       "text": "\f\tJHVHv,\t\tdu løftede min sjæl op fra dødsriget,\f\t\t\t\t\tdu gav mig livet tilbage fra dem\t\t\t\t\t\tsom gik ned i graven.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet at der skal oversættes: »Du lod mig leve, så jeg ikke gik i graven«.",
+          "text": "Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet at der skal oversættes: »Du lod mig leve, så jeg ikke gik i graven«.",
+          "type": "E",
           "position": 112
         }
       ],
@@ -68,7 +71,8 @@
       "title": "Hele menigheden opfordres til at istemme lovsang",
       "footnotes": [
         {
-          "text": "T: Ordret nærmere: »ihukommelse / minde«. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af »navn«.",
+          "text": "Ordret nærmere: »ihukommelse / minde«. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af »navn«.",
+          "type": "T",
           "position": 72
         }
       ],
@@ -79,11 +83,13 @@
       "text": "\f\t\t\t\t\tJa, et øjeblik varer hans vrede,\f\t\t\t\t\t\t\thans nåde hele livet.\f\t\t\t\t\t\tOm aftenen gæster gråden os,\f\t\t\t\t\t\t\tmen om morgenen jubel.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Ja, kun et øjeblik i hans vrede, liv i hans nåde«. Der skal formodentlig underforstås »står man« eller lignende.",
+          "text": "Ordret: »Ja, kun et øjeblik i hans vrede, liv i hans nåde«. Der skal formodentlig underforstås »står man« eller lignende.",
+          "type": "T",
           "position": 67
         },
         {
-          "text": "T: Ordret: »vil overnatte«.",
+          "text": "Ordret: »vil overnatte«.",
+          "type": "T",
           "position": 91
         }
       ],
@@ -100,11 +106,13 @@
       "text": "\f\tJHVHv,\t\t\t\tved din gunst har du givet mit bjerg styrke.\f\t\t\t\t\tDu skjulte dit ansigt,\t\t\t\t\t\tjeg blev forfærdet.",
       "footnotes": [
         {
-          "text": "T: Dvs. mit rige og min kongemagt.",
+          "text": "Dvs. mit rige og min kongemagt.",
+          "type": "T",
           "position": 48
         },
         {
-          "text": "E: Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.",
+          "text": "Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -131,7 +139,8 @@
       "title": "Afsluttende lovprisning",
       "footnotes": [
         {
-          "text": "T: Dvs. »sørgedragt«.",
+          "text": "Dvs. »sørgedragt«.",
+          "type": "T",
           "position": 70
         }
       ],
@@ -142,7 +151,8 @@
       "text": "\f\t\t\t\tfor at min ære må lovsynge dig\t\t\t\t\tog ikke tie.\f\tJHVHv, min Gud,\t\tfor evigt vil jeg takke dig.",
       "footnotes": [
         {
-          "text": "E: Ordret blot »ære«. Normalt tilføjer man med Septuaginta »min«. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.",
+          "text": "Ordret blot »ære«. Normalt tilføjer man med Septuaginta »min«. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.",
+          "type": "E",
           "position": 19
         }
       ],

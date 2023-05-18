@@ -35,7 +35,8 @@
       "text": "Hans fødder skal på den dag stå på Oliebjerget, som er lige over for Jerusalem mod øst. Og Oliebjerget skal revne midt over fra øst til vest så der kommer en stor dal. Halvdelen af bjerget skal trække sig mod nord, og dets anden halvdel mod syd.",
       "footnotes": [
         {
-          "text": "T: Ordret »fra dets midte«.",
+          "text": "Ordret »fra dets midte«.",
+          "type": "T",
           "position": 123
         }
       ],
@@ -46,7 +47,8 @@
       "text": "Og I skal flygte ind i mine bjerges dal, for bjergdalen skal nå til Asal; I skal flygte, ligesom I flygtede for jordskælvet i Judas konge Uzzijas' dage.\fJHVH min Gud skal komme; alle de hellige med dig!",
       "footnotes": [
         {
-          "text": "E: *ʔāṣal* kan enten være et navn på en ukendt lokalitet eller betyde »side« forstået på den måde at bjergdalen når helt over til den anden side.",
+          "text": "*ʔāṣal* kan enten være et navn på en ukendt lokalitet eller betyde »side« forstået på den måde at bjergdalen når helt over til den anden side.",
+          "type": "E",
           "position": 73
         }
       ],
@@ -72,7 +74,8 @@
       "text": "\fOg JHVH skal være konge over hele landet;\fpå den dag skal JHVH være én\fog hans navn ét.",
       "footnotes": [
         {
-          "text": "T: Eller »verden«.",
+          "text": "Eller »verden«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -83,7 +86,8 @@
       "text": "\fHele landet skal forandre sig og blive som sletten,\ffra Geba til Rimmon syd for Jerusalem,\fmen Jerusalem skal hæve sig højt og trone på sit sted,\ffra Benjamins port indtil stedet for den første port, indtil Hjørneporten,\fog fra Hanan'el-tårnet indtil kongens vinperser.",
       "footnotes": [
         {
-          "text": "E: *ʕᵃrāvāh* kan både betyde slette generelt eller være navnet på Araba-sletten ned mod Det røde Hav.",
+          "text": "*ʕᵃrāvāh* kan både betyde slette generelt eller være navnet på Araba-sletten ned mod Det røde Hav.",
+          "type": "E",
           "position": 52
         }
       ],
@@ -129,11 +133,13 @@
       "text": "Og hvis egypternes slægt ikke drager op og ikke kommer, så skal der ikke falde regn over dem. De skal rammes af plagen med hvilken JHVH slår de folkeslag der ikke drager op for at fejre løvhyttefesten.",
       "footnotes": [
         {
-          "text": "T: »Regn« er underforstået.",
+          "text": "»Regn« er underforstået.",
+          "type": "T",
           "position": 83
         },
         {
-          "text": "T: »De skal rammes af« er tilføjet for forståelsens skyld.",
+          "text": "»De skal rammes af« er tilføjet for forståelsens skyld.",
+          "type": "T",
           "position": 111
         }
       ],
@@ -154,7 +160,8 @@
       "text": "Hver gryde i Jerusalem og i Juda skal være hellig for Hærskarers JHVHv, og alle som kommer for at ofre, skal tage af dem og koge i dem.\fDer skal ikke længere være en kana'anæer i Hærskarers JHVHvs hus på den dag.",
       "footnotes": [
         {
-          "text": "T: *xᵊnaʕᵃnî* kan både være en etnisk betegnelse for kana'anæer eller betyde handelsmand.",
+          "text": "*xᵊnaʕᵃnî* kan både være en etnisk betegnelse for kana'anæer eller betyde handelsmand.",
+          "type": "T",
           "position": 176
         }
       ],

@@ -70,7 +70,8 @@
       "title": "Identifikation af Elias",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 54
         }
       ],
@@ -127,7 +128,8 @@
       "text": "Jesus sagde til dem: »På grund af jeres lille tro, for sandelig siger jeg jer: Hvis I har tro som et sennepsfrø, så sig til dette bjerg: Flyt dig herfra, og det vil flytte sig, og intet skal være umuligt for jer.«",
       "footnotes": [
         {
-          "text": "T: Det store flertal af håndskrifter har en tilføjelse: Den slags uddrives ikke uden bøn og faste.",
+          "text": "Det store flertal af håndskrifter har en tilføjelse: Den slags uddrives ikke uden bøn og faste.",
+          "type": "T",
           "position": 211
         }
       ],

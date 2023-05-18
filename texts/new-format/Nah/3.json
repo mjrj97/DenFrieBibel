@@ -20,7 +20,8 @@
       "title": "Nineves ødelæggelse",
       "footnotes": [
         {
-          "text": "T: Ordret »sønderrivningen«, jf. v. 13-14.",
+          "text": "Ordret »sønderrivningen«, jf. v. 13-14.",
+          "type": "T",
           "position": 79
         }
       ],
@@ -36,7 +37,8 @@
       "text": "\fRyttere som sætter af sted,\fblinkende sværd og lynende spyd\fog en mængde dræbte og en stor bunke lig.\fDer er ingen ende på døde kroppe,\fman snubler over deres døde kroppe!",
       "footnotes": [
         {
-          "text": "E: Eller »angriber«.",
+          "text": "Eller »angriber«.",
+          "type": "E",
           "position": 27
         }
       ],
@@ -67,7 +69,8 @@
       "text": "\fMon du er bedre end No-Amon, som lå mellem floderne og havde vand rundt om sig;\fhvis værn var hav, hvis mur var af hav?",
       "footnotes": [
         {
-          "text": "T: Dvs. Theben i Egypten, jf. Jer 46,25. Ez 30,14.",
+          "text": "Dvs. Theben i Egypten, jf. Jer 46,25. Ez 30,14.",
+          "type": "T",
           "position": 29
         }
       ],
@@ -78,11 +81,13 @@
       "text": "\fKush var hendes styrke;\fder var ingen ende på Egypten.\fPut og Libyen kom dig til hjælp.",
       "footnotes": [
         {
-          "text": "T: Dvs. No-Amon.",
+          "text": "Dvs. No-Amon.",
+          "type": "T",
           "position": 16
         },
         {
-          "text": "E: Flere oversættelser retter til »hende«, og der er under alle omstændigheder tale om at Put og Libyen er blandt No-Amons allierede. Man kan dog godt beholde »dig«, hvis man forstår sætningen som direkte tale til No-Amon.",
+          "text": "Flere oversættelser retter til »hende«, og der er under alle omstændigheder tale om at Put og Libyen er blandt No-Amons allierede. Man kan dog godt beholde »dig«, hvis man forstår sætningen som direkte tale til No-Amon.",
+          "type": "E",
           "position": 77
         }
       ],
@@ -98,7 +103,8 @@
       "text": "\fOgså du skal blive drukken og besvime;\fogså du skal søge et værn mod fjenden.\f\n",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes med »skjule dig«.",
+          "text": "Kan også oversættes med »skjule dig«.",
+          "type": "E",
           "position": 39
         }
       ],
@@ -114,7 +120,8 @@
       "text": "\fSe, dit folk er som kvinder i din midte;\fdit lands porte står åbne for dine fjender,\fild har fortæret dine portbomme.",
       "footnotes": [
         {
-          "text": "E: Mange oversættelser vælger at oversætte med »dine soldater«, da det nok er soldaterne der først og fremmest nedgøres i dette vers. Men den ordrette oversættelse er »folk«.",
+          "text": "Mange oversættelser vælger at oversætte med »dine soldater«, da det nok er soldaterne der først og fremmest nedgøres i dette vers. Men den ordrette oversættelse er »folk«.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -130,11 +137,13 @@
       "text": "\fDér skal ilden fortære dig,\fsværdet udrydde dig;\fdet skal fortære dig som græshopper.\fGør dig kun så talrig som græshopper,\fgør dig kun så talrig som græshopper!",
       "footnotes": [
         {
-          "text": "E: Ordet *šām* bruges oftest lokativisk som her, men måske kan ordet også bruges temporalt, »da«, jf. Sl 14,5; 36,13; 66,6.",
+          "text": "Ordet *šām* bruges oftest lokativisk som her, men måske kan ordet også bruges temporalt, »da«, jf. Sl 14,5; 36,13; 66,6.",
+          "type": "E",
           "position": 4
         },
         {
-          "text": "T: Der bruges her to forskellige ord om græshopper.",
+          "text": "Der bruges her to forskellige ord om græshopper.",
+          "type": "T",
           "position": 162
         }
       ],
@@ -145,7 +154,8 @@
       "text": "\fDu har haft flere handelsfolk end himlens stjerner.\fGræshopperne brød ud og fløj bort.",
       "footnotes": [
         {
-          "text": "E: Der bruges sandsynligvis et billede om græshopper, der bryder ud af deres puppe.",
+          "text": "Der bruges sandsynligvis et billede om græshopper, der bryder ud af deres puppe.",
+          "type": "E",
           "position": 73
         }
       ],

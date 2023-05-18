@@ -29,7 +29,8 @@
       "text": "\fI skal tie af skræk, I kystbeboere, \fSidons handelsfolk, \fder rejser over havet, fyldte dig op!",
       "footnotes": [
         {
-          "text": "E: Med støtte i et ugaritisk ord der stort set er enslydende med *dōmmû*, og ud fra forventning om en parallel til »jamre« i vers 2, oversætter mange: »klag«.",
+          "text": "Med støtte i et ugaritisk ord der stort set er enslydende med *dōmmû*, og ud fra forventning om en parallel til »jamre« i vers 2, oversætter mange: »klag«.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -40,7 +41,8 @@
       "text": "\fOg på store vande blev Shihors sæd, Nilens høst, dens indtjening, \fog den var folkeslags erhvervelse.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedningernes«.",
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
           "position": 89
         }
       ],
@@ -76,7 +78,8 @@
       "text": "\fHærskarers HERRE har planlagt det \ffor at vanhellige enhver pragts stolthed, \ffor at vanære jordens fornemme.\f\n",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 17
         }
       ],
@@ -87,11 +90,13 @@
       "text": "\fFlyd ud over dit land som Nilen, \fdu datter af Tarshish! \fDer ikke længere noget bælte.",
       "footnotes": [
         {
-          "text": "E: I stedet for: *ʕivrî* (»flyd ud over«) foreslås det undertiden med støtte i Septuaginta at rette til: *ʕivdî*: »dyrk«. Det har dog ingen støtte i hebraiske håndskrifter.",
+          "text": "I stedet for: *ʕivrî* (»flyd ud over«) foreslås det undertiden med støtte i Septuaginta at rette til: *ʕivdî*: »dyrk«. Det har dog ingen støtte i hebraiske håndskrifter.",
+          "type": "E",
           "position": 13
         },
         {
-          "text": "T: Det er noget der binder.",
+          "text": "Det er noget der binder.",
+          "type": "T",
           "position": 88
         }
       ],
@@ -112,7 +117,8 @@
       "text": "\fSe, kaldæernes land - det er folket, som ikke var til, Assur har oprettet det til skibsfart – de har rejst belejringstårne, revet dets paladser ned, gjort det til en ruin.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er usikker. Ordet *ṣî*(som her er pluralis) forekommer kun ganske få gange i GT og oversættes nogle steder: »skib«, andre steder med »ørkenbeboere« eller: »ørkendyr«. Her er alle betydninger mulige.",
+          "text": "Oversættelsen er usikker. Ordet *ṣî*(som her er pluralis) forekommer kun ganske få gange i GT og oversættes nogle steder: »skib«, andre steder med »ørkenbeboere« eller: »ørkendyr«. Her er alle betydninger mulige.",
+          "type": "E",
           "position": 92
         }
       ],

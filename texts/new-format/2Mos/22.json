@@ -23,7 +23,8 @@
       "text": "Verset hører til kapitel 21, men hører meningsmæssigt sammen med de følgende vers. For meningens skyld bytter man i oversættelser oftest om på rækkefølgen af de følgende vers. Det er dog lidt forskelligt, hvordan man ordner versene. Oftest flytter man vers 2b og evt. vers 3 om foran vers 1, idet de er den logiske fortsættelse af 21,37.} »Når en mand stjæler en okse eller et stykke småkvæg og slagter det eller sælger det, skal han betale fem okser for oksen og fire stykker småkvæg for lammet eller kiddet.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord *śeʰ* dækker både lam og gedekid.",
+          "text": "Det hebraiske ord *śeʰ* dækker både lam og gedekid.",
+          "type": "T",
           "position": 391
         }
       ],
@@ -40,7 +41,8 @@
       "text": "Hvis solen er stået op over ham, foreligger der blodskyld for ham. Han skal afgjort betale; men har han intet, skal han sælges for sit tyveri.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *šlm* (»betale«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »afgjort«.",
+          "text": "Den hebraiske tekst har verbet *šlm* (»betale«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »afgjort«.",
+          "type": "T",
           "position": 91
         }
       ],
@@ -71,7 +73,8 @@
       "text": "Hvis tyven ikke bliver fundet, skal husets ejer træde frem for Gud, hvis han ikke har lagt sin hånd på sin næstes ting.",
       "footnotes": [
         {
-          "text": "T: De fleste oversættelser tilføjer: »og sværge«, men det er uden støttes i den hebraiske tekst. Meningen må være, at selve det at træde frem for Gud er farligt, hvis man har løjet.",
+          "text": "De fleste oversættelser tilføjer: »og sværge«, men det er uden støttes i den hebraiske tekst. Meningen må være, at selve det at træde frem for Gud er farligt, hvis man har løjet.",
+          "type": "T",
           "position": 67
         }
       ],
@@ -82,7 +85,8 @@
       "text": "Hvad angår enhver sag om svigagtig besiddelse af okse, af æsel, af småkvæg, af klæder, af alt hvad der er mistet, om hvilket nogen siger at dette er hans, da skal begges sag komme for Gud; den Gud erklærer skyldig, skal betale sin næste dobbelt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »siger: ›Det er det!‹«",
+          "text": "Ordret: »siger: ›Det er det!‹«",
+          "type": "T",
           "position": 154
         }
       ],
@@ -98,7 +102,8 @@
       "text": "skal der aflægges ed ved JHVH mellem de to på at han ikke har lagt sin hånd på sin næstes ejendom, og den skal dets ejer godtage, og den anden skal ikke betale.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst siger blot: »og han skal ikke betale«, men meningen i sammenhængen er, at det er den, der har haft en anden mands ejendom i forvaring, der ikke skal betale.",
+          "text": "Den hebraiske tekst siger blot: »og han skal ikke betale«, men meningen i sammenhængen er, at det er den, der har haft en anden mands ejendom i forvaring, der ikke skal betale.",
+          "type": "T",
           "position": 142
         }
       ],
@@ -146,7 +151,8 @@
       "text": "Enhver som parrer sig med et dyr, skal afgjort lide døden.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst siger egentlig kun: »ligger med«. Men meningen er uden tvivl: i seksuel betydning.",
+          "text": "Den hebraiske tekst siger egentlig kun: »ligger med«. Men meningen er uden tvivl: i seksuel betydning.",
+          "type": "T",
           "position": 21
         }
       ],
@@ -157,7 +163,8 @@
       "text": "Den som ofrer til guderne og ikke til JHVH alene, skal der lægges band på.«",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst vender anderledes: »Den der ofrer til guderne, skal der lægges band på, undtagen til JHVH alene«.",
+          "text": "Den hebraiske tekst vender anderledes: »Den der ofrer til guderne, skal der lægges band på, undtagen til JHVH alene«.",
+          "type": "T",
           "position": 75
         }
       ],
@@ -179,7 +186,8 @@
       "text": "Hvis du virkelig plager ham, og han råber højt til mig, vil jeg afgjort høre hans råb.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst siger egentlig: »for hvis han råber …«. Her er underforstået en advarsel: »Tag dig i agt for at plage …«.",
+          "text": "Den hebraiske tekst siger egentlig: »for hvis han råber …«. Her er underforstået en advarsel: »Tag dig i agt for at plage …«.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -205,11 +213,13 @@
       "text": "for den er hans eneste dække, den er hans kappe for hans krop; hvad skal han ellers sove i? Når han råber til mig, vil jeg høre det, for jeg er nådig.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »hud«.",
+          "text": "Ordret: »hud«.",
+          "type": "T",
           "position": 62
         },
         {
-          "text": "T: Ordret: »Og det skal ske, når han råber …«",
+          "text": "Ordret: »Og det skal ske, når han råber …«",
+          "type": "T",
           "position": 95
         }
       ],
@@ -226,7 +236,8 @@
       "text": "Du må ikke holde fylden af din høst og udstrømningen fra din vinperse tilbage. Den førstefødte af dine sønner skal du give mig.",
       "footnotes": [
         {
-          "text": "T: Oversættelsen er omdiskuteret, da formuleringen er meget knap. *mᵊlēʔāʰ* betyder egentlig blot: »fylde/overflod«, men forstås undertiden som betegnelse for »afgift«. I første tilfælde kan det være påmindelse om omsorg for den nødlidende, i det andet tilfælde er det indledning til den næste sætning: Førstegrøden tilhører Gud. Førstegrøden er dog ikke nævnt her.",
+          "text": "Oversættelsen er omdiskuteret, da formuleringen er meget knap. *mᵊlēʔāʰ* betyder egentlig blot: »fylde/overflod«, men forstås undertiden som betegnelse for »afgift«. I første tilfælde kan det være påmindelse om omsorg for den nødlidende, i det andet tilfælde er det indledning til den næste sætning: Førstegrøden tilhører Gud. Førstegrøden er dog ikke nævnt her.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -242,7 +253,8 @@
       "text": "I skal være hellige mennesker for mig. Kød som er sønderrevet på marken, må I ikke spise; til hunden skal I kaste det.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »helliges mennesker«. Meningen er formodentlig: »mennesker med et helligt kald«.",
+          "text": "Ordret: »helliges mennesker«. Meningen er formodentlig: »mennesker med et helligt kald«.",
+          "type": "T",
           "position": 29
         }
       ],

@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -51,11 +52,13 @@
       "text": "\fDeres røst når ud over hele jorden\fog deres ord til verdens ende.\fHan satte et telt for solen på himlen,",
       "footnotes": [
         {
-          "text": "E: Grundteksten har: *qawwām*: »deres rettesnor«. Det er vanskeligt at se mening med det, især ud fra parallellen »ord« i næste linje. Man følger derfor oftest Septuaginta og læser *qôlām*: »deres røst«, jf. citatet i Rom 10,18.",
+          "text": "Grundteksten har: *qawwām*: »deres rettesnor«. Det er vanskeligt at se mening med det, især ud fra parallellen »ord« i næste linje. Man følger derfor oftest Septuaginta og læser *qôlām*: »deres røst«, jf. citatet i Rom 10,18.",
+          "type": "E",
           "position": 11
         },
         {
-          "text": "E: Grundteksten har: *bāhem*: »i/på dem«. Det henviser formodentlig til »himlen« der på hebraisk er et flertalsord. Det kan overvejes om pronominerne i v. 4-5 (»deres«) alle henviser til »himlen« (v. 2), og de kunne da oversættes »dens«.",
+          "text": "Grundteksten har: *bāhem*: »i/på dem«. Det henviser formodentlig til »himlen« der på hebraisk er et flertalsord. Det kan overvejes om pronominerne i v. 4-5 (»deres«) alle henviser til »himlen« (v. 2), og de kunne da oversættes »dens«.",
+          "type": "E",
           "position": 105
         }
       ],
@@ -77,11 +80,13 @@
       "title": "Lovprisning af JHVHs lov",
       "footnotes": [
         {
-          "text": "N: Lov",
+          "text": "Lov",
+          "type": "N",
           "position": 10
         },
         {
-          "text": "T: Ordret: »den bringer sjælen tilbage«.",
+          "text": "Ordret: »den bringer sjælen tilbage«.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -97,7 +102,8 @@
       "text": "\fFrygt for JHVH er ren,\fden består til evig tid,\fJHVHs domme er sandhed,\fde er alle retfærdige.",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *yirʔāh*: »frygt«, synes at bryde rytmen i versene, idet »frygt« næppe kan være synonym for »lov«. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. »Frygt« for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud »til evig tid«. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: »ord«.",
+          "text": "Grundtekstens *yirʔāh*: »frygt«, synes at bryde rytmen i versene, idet »frygt« næppe kan være synonym for »lov«. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. »Frygt« for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud »til evig tid«. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: »ord«.",
+          "type": "E",
           "position": 15
         }
       ],

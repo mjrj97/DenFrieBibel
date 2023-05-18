@@ -38,7 +38,8 @@
       "text": "\fHan ophøjer ringe,\fog sørgende ophøjes til frelse.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »lykke«.",
+          "text": "Kan også oversættes: »lykke«.",
+          "type": "T",
           "position": 51
         }
       ],
@@ -64,7 +65,8 @@
       "text": "\fHan frelser fra deres munds sværd,\fog en fattig fra en stærks hånd.",
       "footnotes": [
         {
-          "text": "E: Ordret: »Han frelser fra sværd fra deres mund«. Manuskripterne er enige om denne tekst, men der foreslås ofte rettelser, enklest: *mēḥerev mippîhem* til: *mēḥerev pîhem*, der svarer til oversættelsen her (i den hebraiske tekst slettes der blot et *m*). En anden mulighed er: »Han frelser en forældreløs fra sværdet« (det kræver rettelse af: *mēḥerev mippîhem* til: *mēḥarbām jātōm*, i konsonantteksten: *mḥrbmpjhm* til: * mḥrbmjtm*).",
+          "text": "Ordret: »Han frelser fra sværd fra deres mund«. Manuskripterne er enige om denne tekst, men der foreslås ofte rettelser, enklest: *mēḥerev mippîhem* til: *mēḥerev pîhem*, der svarer til oversættelsen her (i den hebraiske tekst slettes der blot et *m*). En anden mulighed er: »Han frelser en forældreløs fra sværdet« (det kræver rettelse af: *mēḥerev mippîhem* til: *mēḥarbām jātōm*, i konsonantteksten: *mḥrbmpjhm* til: * mḥrbmjtm*).",
+          "type": "E",
           "position": 35
         }
       ],

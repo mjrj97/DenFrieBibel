@@ -50,7 +50,8 @@
       "text": "\fHvad er du, store bjerg, for Zerubbabels ansigt? Bliv til slette!\fOg han skal føre slutstenen frem, mens der lyder jubelråb over den!‹«",
       "footnotes": [
         {
-          "text": "T: Anden mulig oversættelse er »Og han skal føre slutstenen frem (under) jubelråbene: ›Nåde, nåde være over den!‹.",
+          "text": "Anden mulig oversættelse er »Og han skal føre slutstenen frem (under) jubelråbene: ›Nåde, nåde være over den!‹.",
+          "type": "T",
           "position": 136
         }
       ],
@@ -71,11 +72,13 @@
       "text": "\fFor hvem end der foragtede de tidligere dage,\fså skal de juble, når de ser tinstenen i Zerubbabels hånd.\fDisse syv er JHVHs øjne, som farer rundt over hele jorden.«",
       "footnotes": [
         {
-          "text": "E: *qatan* betyder ordret »lille« eller »ung« og kan altså forstås som enten tidligere dage eller ringe dage. Meningen i denne sammenhæng er, at begyndelsen på tempelbyggeriet så ynkelig ud, så begge betydninger er i spil.",
+          "text": "*qatan* betyder ordret »lille« eller »ung« og kan altså forstås som enten tidligere dage eller ringe dage. Meningen i denne sammenhæng er, at begyndelsen på tempelbyggeriet så ynkelig ud, så begge betydninger er i spil.",
+          "type": "E",
           "position": 40
         },
         {
-          "text": "E: En sten af ukendt betydning. Nogle (bl.a. Luther) foreslår et blylod til brug ved byggeri, mens andre forstår det som en dekorativ sten, der blev muret ind i det færdige byggeri som en del af indvielsen.",
+          "text": "En sten af ukendt betydning. Nogle (bl.a. Luther) foreslår et blylod til brug ved byggeri, mens andre forstår det som en dekorativ sten, der blev muret ind i det færdige byggeri som en del af indvielsen.",
+          "type": "E",
           "position": 85
         }
       ],
@@ -91,11 +94,13 @@
       "text": "Og jeg spurgte for anden gang: »Hvad betyder de to olivengrene, som udgyder olie gennem to guldrør?«",
       "footnotes": [
         {
-          "text": "T: Ordret »guld«, men det kan også være en måde at beskrive den gyldne olivenolie.",
+          "text": "Ordret »guld«, men det kan også være en måde at beskrive den gyldne olivenolie.",
+          "type": "T",
           "position": 80
         },
         {
-          "text": "E: Sætningen er vanskelig og lyder ordret: »Hvad er de to olivengrene, som (er) i hånden på to guldrør, der udgyder guld fra oven.« Participiet *hamᵊrîqîm* (»der udgyder«) kan lægge sig til både »guldrør« og »olivengrene«, hvilket komplicerer sætningen yderligere.",
+          "text": "Sætningen er vanskelig og lyder ordret: »Hvad er de to olivengrene, som (er) i hånden på to guldrør, der udgyder guld fra oven.« Participiet *hamᵊrîqîm* (»der udgyder«) kan lægge sig til både »guldrør« og »olivengrene«, hvilket komplicerer sætningen yderligere.",
+          "type": "E",
           "position": 100
         }
       ],
@@ -111,7 +116,8 @@
       "text": "Da sagde han: »Disse er de to salvede, som står foran hele jordens herre.«",
       "footnotes": [
         {
-          "text": "T: Ordret »oliebørn«.",
+          "text": "Ordret »oliebørn«.",
+          "type": "T",
           "position": 38
         }
       ],

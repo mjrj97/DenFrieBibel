@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Tillid til JHVHs omsorg",
       "footnotes": [
         {
-          "text": "T: Ordret: »omkring hende«.",
+          "text": "Ordret: »omkring hende«.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -47,7 +49,8 @@
       "text": "\fFor uretfærdighedens scepter skal ikke hvile\fover de retfærdiges arvelod\ffor at de retfærdige ikke skal række\fderes hænder til uretfærdighed.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »ugudelighedens«",
+          "text": "Kan også oversættes: »ugudelighedens«",
+          "type": "T",
           "position": 21
         }
       ],

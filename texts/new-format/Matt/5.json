@@ -45,7 +45,8 @@
       "text": "\fLykkelige er de ydmyge for de skal arve jorden.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes »sagtmodige« eller »milde«.",
+          "text": "Kan også oversættes »sagtmodige« eller »milde«.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -128,7 +129,8 @@
       "text": "For jeg siger jer: Hvis ikke jeres retfærdighed overgår de skriftlærdes og farisæernes, kommer I slet ikke ind i Himlenes rige.",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 71
         }
       ],
@@ -140,11 +142,13 @@
       "title": "Om drab og vrede",
       "footnotes": [
         {
-          "text": "H: 2 Mos 20,13; 5 Mos 5,17",
+          "text": "2 Mos 20,13; 5 Mos 5,17",
+          "type": "H",
           "position": 46
         },
         {
-          "text": "T: Citatet er ikke fra GT, men de farisæernes og de skriftlærdes tolkning af budet.",
+          "text": "Citatet er ikke fra GT, men de farisæernes og de skriftlærdes tolkning af budet.",
+          "type": "T",
           "position": 128
         }
       ],
@@ -155,7 +159,8 @@
       "text": "Men jeg siger jer: Enhver som bliver vred på sin bror, skal være skyldig for domstolen, og den som siger til sin bror: Raka! skal være skyldig for rådet, og den som siger: Tåbe, skal være skyldig til ildens Helvede.",
       "footnotes": [
         {
-          "text": "T: Raka betyder »tom« eller »tomhjernet«",
+          "text": "Raka betyder »tom« eller »tomhjernet«",
+          "type": "T",
           "position": 124
         }
       ],
@@ -187,7 +192,8 @@
       "title": "Om ægteskabsbrud",
       "footnotes": [
         {
-          "text": "H: 2 Mos 20,14",
+          "text": "2 Mos 20,14",
+          "type": "H",
           "position": 34
         }
       ],
@@ -214,7 +220,8 @@
       "title": "Om skilsmisse",
       "footnotes": [
         {
-          "text": "T: Citatet er ikke et citat fra GT, men farisæernes og de skriftlærdes tolkning af 5 Mos 24,1-4.",
+          "text": "Citatet er ikke et citat fra GT, men farisæernes og de skriftlærdes tolkning af 5 Mos 24,1-4.",
+          "type": "T",
           "position": 96
         }
       ],
@@ -231,11 +238,13 @@
       "title": "Om at sværge",
       "footnotes": [
         {
-          "text": "T: Dette er et citat fra GT, 3 Mos 19,12",
+          "text": "Dette er et citat fra GT, 3 Mos 19,12",
+          "type": "T",
           "position": 80
         },
         {
-          "text": "T: Dette er ikke et citat fra GT, men farisæernes og de skriftlærdes tolkning af buddet.",
+          "text": "Dette er ikke et citat fra GT, men farisæernes og de skriftlærdes tolkning af buddet.",
+          "type": "T",
           "position": 127
         }
       ],
@@ -267,7 +276,8 @@
       "title": "Om gengældelse",
       "footnotes": [
         {
-          "text": "H: 2 Mos 21,24",
+          "text": "2 Mos 21,24",
+          "type": "H",
           "position": 34
         }
       ],
@@ -299,11 +309,13 @@
       "title": "Om kærlighed til fjenderne",
       "footnotes": [
         {
-          "text": "H: 3 Mos 19,18",
+          "text": "3 Mos 19,18",
+          "type": "H",
           "position": 34
         },
         {
-          "text": "T: Sidste del af citatet (og hade din fjende) er ikke et citat fra GT.",
+          "text": "Sidste del af citatet (og hade din fjende) er ikke et citat fra GT.",
+          "type": "T",
           "position": 80
         }
       ],

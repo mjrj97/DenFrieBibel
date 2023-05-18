@@ -44,7 +44,8 @@
       "text": "\f»Sig til Zions datter: \fse din konge kommer til dig, \fydmyg og ridende på et æsel\fog på et trældyrs føl.«",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes »mild« eller »sagtmodig«.",
+          "text": "Kan også oversættes »mild« eller »sagtmodig«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -91,7 +92,8 @@
       "text": "og han sagde til dem: »Der står skrevet: Min Fars hus skal kaldes et bedehus, men I har gjort det til en røverhule.«",
       "footnotes": [
         {
-          "text": "H: Es 56,7; Jer 7,11",
+          "text": "Es 56,7; Jer 7,11",
+          "type": "H",
           "position": 39
         }
       ],
@@ -107,7 +109,8 @@
       "text": "Men da ypperstepræsterne og de skriftlærde så de undere han gjorde, og børnene som råbte i templet og sagde: »Hosianna, Davids søn!«, harmedes de,",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 42
         }
       ],
@@ -118,7 +121,8 @@
       "text": "og de sagde: »Hører du hvad de siger?« Men Jesus sagde til dem: »Jo, har I aldrig læst at ›af umyndiges og spædes mund har jeg beredt lovsang?‹«",
       "footnotes": [
         {
-          "text": "H: Sl 8,3",
+          "text": "Sl 8,3",
+          "type": "H",
           "position": 86
         }
       ],
@@ -258,7 +262,8 @@
       "text": "Jesus sagde til dem: »Har I aldrig læst i skrifterne: ›Den sten som murerne forkastede, den er blevet hjørnestenen; fra Herren er dette kommet, og det er underfuldt for vore øjne.‹",
       "footnotes": [
         {
-          "text": "H: Sl 118,22-23",
+          "text": "Sl 118,22-23",
+          "type": "H",
           "position": 52
         }
       ],

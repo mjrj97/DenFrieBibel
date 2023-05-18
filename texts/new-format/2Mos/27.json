@@ -34,7 +34,8 @@
       "text": "Og du skal lave dets spande til dets fedtaske og dets skovle, dets stænkeskåle, dets gafler og dets fyrbækkener: Alle dets redskaber skal du lave af bronze.",
       "footnotes": [
         {
-          "text": "T: Grundstammen i det hebraiske ord er roden: *dšn*, der oftest angiver »fedt«, men også bruges om den fede aske, der er tilbage efter at et offer er brændt.",
+          "text": "Grundstammen i det hebraiske ord er roden: *dšn*, der oftest angiver »fedt«, men også bruges om den fede aske, der er tilbage efter at et offer er brændt.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -65,7 +66,8 @@
       "text": "Det skal være hult, du skal lave det af brædder; som du fik det at se på bjerget, skal de lave det.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »som han lod dig se«, men verbet er her brugt upersonligt.",
+          "text": "Ordret: »som han lod dig se«, men verbet er her brugt upersonligt.",
+          "type": "T",
           "position": 69
         }
       ],
@@ -82,7 +84,8 @@
       "text": "og deres stolper, tyve, med deres tyve fodstykker af bronze; og stolpernes kroge og deres tværstænger af sølv.",
       "footnotes": [
         {
-          "text": "E: Henviser til »forhæng«, der er pluralis. Det gælder også i de følgende vers.",
+          "text": "Henviser til »forhæng«, der er pluralis. Det gælder også i de følgende vers.",
+          "type": "E",
           "position": 8
         }
       ],
@@ -93,11 +96,13 @@
       "text": "Og ligeledes med længden ved den nordre side: forhæng hundred alen langt, og dets stolper, tyve, med deres tyve fodstykker af bronze; og stolpernes kroge og deres tværstænger af sølv.",
       "footnotes": [
         {
-          "text": "T: Ordet: *ʔammāʰ * (»alen«) står ikke her i den hebraiske tekst, men er underforstået.",
+          "text": "Ordet: *ʔammāʰ * (»alen«) står ikke her i den hebraiske tekst, men er underforstået.",
+          "type": "T",
           "position": 66
         },
         {
-          "text": "T: Her er muligvis en skrivefejl i den hebraiske tekst, så der skulle oversættes: »deres«. I alle de andre vers henvises der til, at »forhæng« er pluralis",
+          "text": "Her er muligvis en skrivefejl i den hebraiske tekst, så der skulle oversættes: »deres«. I alle de andre vers henvises der til, at »forhæng« er pluralis",
+          "type": "T",
           "position": 81
         }
       ],
@@ -123,7 +128,8 @@
       "text": "og til den anden side forhæng på femten alen, med deres tre stolper og deres tre fodstykker.",
       "footnotes": [
         {
-          "text": "E: Den østlige side har altså en åbning i midten på 20 alen og forhæng til begge sider på 15 alen.",
+          "text": "Den østlige side har altså en åbning i midten på 20 alen og forhæng til begge sider på 15 alen.",
+          "type": "E",
           "position": 92
         }
       ],
@@ -139,7 +145,8 @@
       "text": "Alle stolperne i forgården hele vejen rundt skal være forbundne med sølv; deres kroge af sølv og deres fodstykker af bronze.",
       "footnotes": [
         {
-          "text": "T: Det er ikke i grundteksten angivet, om det skal være med tværstænger eller bånd.",
+          "text": "Det er ikke i grundteksten angivet, om det skal være med tværstænger eller bånd.",
+          "type": "T",
           "position": 73
         }
       ],
@@ -161,11 +168,13 @@
       "title": "Forordning om olien til lysestagen",
       "footnotes": [
         {
-          "text": "E: Af knuste oliven i modsætning til presset olie.",
+          "text": "Af knuste oliven i modsætning til presset olie.",
+          "type": "E",
           "position": 66
         },
         {
-          "text": "T: Ordret: »løfte en evig lampe op«. Dermed menes der enten, at man tænder den, eller at man sætter lamperne op på den syvarmede lysestage.",
+          "text": "Ordret: »løfte en evig lampe op«. Dermed menes der enten, at man tænder den, eller at man sætter lamperne op på den syvarmede lysestage.",
+          "type": "T",
           "position": 130
         }
       ],
@@ -176,7 +185,8 @@
       "text": "I forsamlingsteltet uden for forhænget som hænger foran Vidnesbyrdet, skal Aron og hans sønner gøre den i stand fra aften til morgen for Herrens ansigt; det skal være en evig forordning for deres efterkommere hos Israels børn.«",
       "footnotes": [
         {
-          "text": "E: Ordret: »mødeteltet«. Det er teltet, hvor JHVH møder folket. Nif’al af verbet *yʕd* skal i flere sammenhænge oversættes: »møde/komme sammen«, men om Gud oversættes det oftest: »åbenbare sig« (25,22).",
+          "text": "Ordret: »mødeteltet«. Det er teltet, hvor JHVH møder folket. Nif’al af verbet *yʕd* skal i flere sammenhænge oversættes: »møde/komme sammen«, men om Gud oversættes det oftest: »åbenbare sig« (25,22).",
+          "type": "E",
           "position": 19
         }
       ],

@@ -56,7 +56,7 @@
     },
     {
       "number": 8,
-      "text": "\f2 Da sagde Boaz til Ruth:\t\t\t\t\t»Hør her,\t\t\t\t\t\t\t\t\tmin datter!\t\t\t\t\t\t\t\tDu skal ikke gå hen\t\t\t\t\t\t\t\t\t\t\tog samle aks på andre marker,\t\t\t\t\t\t\t\t\t\tog gå heller ikke herfra.\t\t\t\t\t\t\t\t\tHold dig nær til mine unge piger!",
+      "text": "\f\t\tDa sagde Boaz til Ruth:\t\t\t\t\t»Hør her,\t\t\t\t\t\t\t\t\tmin datter!\t\t\t\t\t\t\t\tDu skal ikke gå hen\t\t\t\t\t\t\t\t\t\t\tog samle aks på andre marker,\t\t\t\t\t\t\t\t\t\tog gå heller ikke herfra.\t\t\t\t\t\t\t\t\tHold dig nær til mine unge piger!",
       "version": 1668034800000
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "number": 14,
-      "text": "\f2 Boaz sagde til hende: »Når det er spisetid,\t\t\t\t\tså kom herhen\t\t\t\t\t\tog spis af brødet\t\t\t\t\t\tog dyp dit stykke i eddiken.«\t\t\t\tHun satte sig ved siden af høstfolkene,\t\t\tog han rakte hende ristede korn.\t\t\t\tHun spiste\t\t\t\tog blev så mæt\t\t\t\tat hun levnede.",
+      "text": "\f\t\tBoaz sagde til hende: »Når det er spisetid,\t\t\t\t\tså kom herhen\t\t\t\t\t\tog spis af brødet\t\t\t\t\t\tog dyp dit stykke i eddiken.«\t\t\t\tHun satte sig ved siden af høstfolkene,\t\t\tog han rakte hende ristede korn.\t\t\t\tHun spiste\t\t\t\tog blev så mæt\t\t\t\tat hun levnede.",
       "version": 1668034800000
     },
     {
@@ -120,7 +120,8 @@
       "text": "\t\t\tNo'omi sagde til sin svigerdatter:\t\t\t\t»Velsignet være han for JHVH\t\t\t\t\tsom ikke har svigtet sin trofasthed mod de levende eller de døde.«\t\t\tOg No'omi sagde:\t\t\t\t»Den mand er en slægtning til os.\t\t\t\t\tHan er en af vores løsere.«",
       "footnotes": [
         {
-          "text": "E: Samme ord som i 1,8",
+          "text": "Samme ord som i 1,8",
+          "type": "E",
           "position": 109
         }
       ],

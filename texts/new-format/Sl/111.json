@@ -30,7 +30,8 @@
       "title": "Begrundelse for lovsangen",
       "footnotes": [
         {
-          "text": "E: *dᵊrûšîm* er participium passiv der må opfattes gerundivisk (»værd at udforske/som bør udforskes«). Andre oversætter dog: »søgt/erfaret«.",
+          "text": "*dᵊrûšîm* er participium passiv der må opfattes gerundivisk (»værd at udforske/som bør udforskes«). Andre oversætter dog: »søgt/erfaret«.",
+          "type": "E",
           "position": 43
         }
       ],
@@ -46,11 +47,13 @@
       "text": "\fHan har frembragt et minde for sine undere,\fnådig og barmhjertig er JHVH.",
       "footnotes": [
         {
-          "text": "T: Ordret: »gjort«.",
+          "text": "Ordret: »gjort«.",
+          "type": "T",
           "position": 18
         },
         {
-          "text": "E: Linjen kan også oversættes: »Han har fastsat en proklamation af sine undere«. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.",
+          "text": "Linjen kan også oversættes: »Han har fastsat en proklamation af sine undere«. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.",
+          "type": "E",
           "position": 44
         }
       ],
@@ -66,11 +69,13 @@
       "text": "\fHan forkyndte sine gerningers kraft for sit folk,\fnemlig at han ville give dem folkenes arvelod.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes: »da han gav«. Den sandsynlige mening er dog at linjen skal gengive indholdet i den forkyndelse der blev nævnt i foregående linje.",
+          "text": "Kan også oversættes: »da han gav«. Den sandsynlige mening er dog at linjen skal gengive indholdet i den forkyndelse der blev nævnt i foregående linje.",
+          "type": "E",
           "position": 75
         },
         {
-          "text": "T: Kan også oversættes: »hedningernes«.",
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
           "position": 88
         }
       ],
@@ -81,7 +86,8 @@
       "text": "\fHans hænders gerninger er sandhed og ret,\falle hans forordninger er til at stole på,",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »trofasthed«.",
+          "text": "Kan også oversættes: »trofasthed«.",
+          "type": "T",
           "position": 34
         }
       ],
@@ -92,11 +98,13 @@
       "text": "\furokkelige for altid og evigt,\ftil at blive holdt i sandhed og redeligt.",
       "footnotes": [
         {
-          "text": "E: Participiet: *ʕᵃśûyim* må her opfattes gerundivisk. Andre oversætter dog: »de er givet/fastlagt«.",
+          "text": "Participiet: *ʕᵃśûyim* må her opfattes gerundivisk. Andre oversætter dog: »de er givet/fastlagt«.",
+          "type": "E",
           "position": 50
         },
         {
-          "text": "E: Ofte retter man dog vokaliseringen af: *yāšār* (»redelig«) til: *yōšer*: »redelighed/oprigtighed«.",
+          "text": "Ofte retter man dog vokaliseringen af: *yāšār* (»redelig«) til: *yōšer*: »redelighed/oprigtighed«.",
+          "type": "E",
           "position": 73
         }
       ],
@@ -113,7 +121,8 @@
       "title": "Sand visdom",
       "footnotes": [
         {
-          "text": "T: Det er en henvisning til »forordninger« i v.7.",
+          "text": "Det er en henvisning til »forordninger« i v.7.",
+          "type": "T",
           "position": 82
         }
       ],

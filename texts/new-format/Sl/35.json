@@ -30,7 +30,8 @@
       "title": "En lidende beder om udfrielse",
       "footnotes": [
         {
-          "text": "T: Rundskjoldet er mindre, mens langskjoldet dækker hele kroppen",
+          "text": "Rundskjoldet er mindre, mens langskjoldet dækker hele kroppen",
+          "type": "T",
           "position": 35
         }
       ],
@@ -41,11 +42,13 @@
       "text": "\fLøft spyd og økse,\fsig til min sjæl: »Jeg er din frelse.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Træk frem«",
+          "text": "Ordret: »Træk frem«",
+          "type": "T",
           "position": 5
         },
         {
-          "text": "E: Den hebraiske tekst ordret: »og afskær«. Meningen kan være: »afskær vejen for mine forfølgere«. Men formuleringen er kort og sælsom. Man retter derfor oftest nu vokaliseringen fra *ûsgōr* til *wᵊsāgār* (»og økse«)",
+          "text": "Den hebraiske tekst ordret: »og afskær«. Meningen kan være: »afskær vejen for mine forfølgere«. Men formuleringen er kort og sælsom. Man retter derfor oftest nu vokaliseringen fra *ûsgōr* til *wᵊsāgār* (»og økse«)",
+          "type": "E",
           "position": 19
         }
       ],
@@ -56,7 +59,8 @@
       "text": "\fDe skal blive ydmygede og til skamme,\fde der efterstræber mit liv,\fde skal vige tilbage og blive skuffede,\fde der tænker ondt mod mig.",
       "footnotes": [
         {
-          "text": "T: Ordret »sjæl«",
+          "text": "Ordret »sjæl«",
+          "type": "T",
           "position": 67
         }
       ],
@@ -77,7 +81,8 @@
       "text": "\fFor uden grund har de hemmeligt lagt deres net ud for mig,\fuden grund gravede de grav for min sjæl.",
       "footnotes": [
         {
-          "text": "E: Ordret: »deres nets grav«. Udtrykket er sælsomt, og der mangler et objekt i næste linje, hvorfor man som regel flytter *šaḥat* (»grav«) til næste linje. Ændringen er fulgt her, men den er ikke absolut nødvendig",
+          "text": "Ordret: »deres nets grav«. Udtrykket er sælsomt, og der mangler et objekt i næste linje, hvorfor man som regel flytter *šaḥat* (»grav«) til næste linje. Ændringen er fulgt her, men den er ikke absolut nødvendig",
+          "type": "E",
           "position": 47
         }
       ],
@@ -109,11 +114,13 @@
       "text": "\fDe vil gengælde mig ondt for godt,\fde lurer på mit liv.",
       "footnotes": [
         {
-          "text": "E: Linjen ordret: »barnløshed for min sjæl«. Det kan godt give mening som udtryk for ensomhed. Men oftest regner man *l* i *šᵊxôl lᵊnafšî* for dittografi og læser *śāxû lᵊnafšî* (»de lurer på min sjæl«)",
+          "text": "Linjen ordret: »barnløshed for min sjæl«. Det kan godt give mening som udtryk for ensomhed. Men oftest regner man *l* i *šᵊxôl lᵊnafšî* for dittografi og læser *śāxû lᵊnafšî* (»de lurer på min sjæl«)",
+          "type": "E",
           "position": 44
         },
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -124,7 +131,8 @@
       "text": "\fMen jeg - da de var syge, iførte jeg mig sæk,\fjeg spægede min sjæl med faste,\fog min bøn skal vende tilbage til mit bryst.",
       "footnotes": [
         {
-          "text": "E: Mange oversætter: »vendte tilbage«. Meningen er enten at bønnen vendte ubesvaret tilbage, eller at den bedende bøjede hovedet dybt, eller (bedst) at han ønsker og beder om at de bønner han bad for sine modstandere, nu må gælde ham selv.",
+          "text": "Mange oversætter: »vendte tilbage«. Meningen er enten at bønnen vendte ubesvaret tilbage, eller at den bedende bøjede hovedet dybt, eller (bedst) at han ønsker og beder om at de bønner han bad for sine modstandere, nu må gælde ham selv.",
+          "type": "E",
           "position": 123
         }
       ],
@@ -140,11 +148,13 @@
       "text": "\fMen da jeg snublede, glædede de sig og samledes,\fde samledes imod mig,\ffremmede som jeg ikke kendte,\fde sønderrev uden ophør.",
       "footnotes": [
         {
-          "text": "E: Ordet: *nēxîm* betyder »slagne/slående«. Det sidste kan måske give mening: »de slår uden at jeg ved (grunden)«, men sætningen er dunkel. Oftest går man ud fra at der er faldet et *r* ud, så der skal stå: *nāxrîm*: »fremmede«",
+          "text": "Ordet: *nēxîm* betyder »slagne/slående«. Det sidste kan måske give mening: »de slår uden at jeg ved (grunden)«, men sætningen er dunkel. Oftest går man ud fra at der er faldet et *r* ud, så der skal stå: *nāxrîm*: »fremmede«",
+          "type": "E",
           "position": 80
         },
         {
-          "text": "E: Mange finder den hebraiske teksts *qārᵊʕû* (»sønderrev«) for voldsomt og retter til *qārᵊʔû* (»de råbte«) eller * qārᵊṣû* (»de hånede«)",
+          "text": "Mange finder den hebraiske teksts *qārᵊʕû* (»sønderrev«) for voldsomt og retter til *qārᵊʔû* (»de råbte«) eller * qārᵊṣû* (»de hånede«)",
+          "type": "E",
           "position": 114
         }
       ],
@@ -155,7 +165,8 @@
       "text": "\fBlandt de gudløse af kagespotterne\fskar de tænder imod mig.",
       "footnotes": [
         {
-          "text": "E: Det kan være en hånlig betegnelse for mennesker der snylter. De fleste oversættere vælger rettelse af *bᵊḥanfê laʕᵃgê māʕôg* til *bᵊḥanfî laʕᵃgê mᵊʔûwwāg*: »I gudløshed spottede de mig med spot«. En anden mulighed er at aflede *māʕôg* (»kage«) af roden *ʕôg*: »være krum« og forstå det om det sted man vender tilbage til: »som gudløse spottere af tilflugtsstedet«",
+          "text": "Det kan være en hånlig betegnelse for mennesker der snylter. De fleste oversættere vælger rettelse af *bᵊḥanfê laʕᵃgê māʕôg* til *bᵊḥanfî laʕᵃgê mᵊʔûwwāg*: »I gudløshed spottede de mig med spot«. En anden mulighed er at aflede *māʕôg* (»kage«) af roden *ʕôg*: »være krum« og forstå det om det sted man vender tilbage til: »som gudløse spottere af tilflugtsstedet«",
+          "type": "E",
           "position": 35
         }
       ],
@@ -166,11 +177,13 @@
       "text": "\fHerre, hvor længe vil du se på?\fudfri min sjæl fra deres ødelæggelser,\fmit eneste liv fra unge løver.",
       "footnotes": [
         {
-          "text": "E: I sammenhængen vælger de fleste oversættere at rette *miššōʔêhem* (»fra deres ødelæggelser«) til *miššōʔᵃgîm*: »fra brølende (dyr)«",
+          "text": "I sammenhængen vælger de fleste oversættere at rette *miššōʔêhem* (»fra deres ødelæggelser«) til *miššōʔᵃgîm*: »fra brølende (dyr)«",
+          "type": "E",
           "position": 71
         },
         {
-          "text": "T: Ordret blot: »mit/min eneste«",
+          "text": "Ordret blot: »mit/min eneste«",
+          "type": "T",
           "position": 86
         }
       ],
@@ -192,7 +205,8 @@
       "text": "\fFor de taler ikke fred,\fmen mod de stille i landet\fudtænker de bedrageriske ord.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »ting«",
+          "text": "Kan også oversættes: »ting«",
+          "type": "T",
           "position": 81
         }
       ],

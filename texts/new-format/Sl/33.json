@@ -24,7 +24,8 @@
       "title": "Opfordring til lovsang",
       "footnotes": [
         {
-          "text": "T: Kan evt. også oversættes: »Bryd ud i jubel for JHVH, I retfærdige«",
+          "text": "Kan evt. også oversættes: »Bryd ud i jubel for JHVH, I retfærdige«",
+          "type": "T",
           "position": 39
         }
       ],
@@ -56,7 +57,8 @@
       "text": "\fVed JHVHs ord blev himlen skabt,\fog ved hans munds ånde hele dens hær.",
       "footnotes": [
         {
-          "text": "E: *šāmayim* (»himmel«) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også »deres hær« i næste linje)",
+          "text": "*šāmayim* (»himmel«) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også »deres hær« i næste linje)",
+          "type": "E",
           "position": 26
         }
       ],
@@ -67,7 +69,8 @@
       "text": "\fHan samler havets vand som en vold,\fhan lægger urdybene i forrådskamre.",
       "footnotes": [
         {
-          "text": "E: Ofte retter man vokaliseringen af *kannēd* (»som en vold«) til *kannōd* = *kannō ʔd*: »som (i) en lædersæk«. Som teksten står, kan den ses som henvisning til 2 Mos 15,8",
+          "text": "Ofte retter man vokaliseringen af *kannēd* (»som en vold«) til *kannōd* = *kannō ʔd*: »som (i) en lædersæk«. Som teksten står, kan den ses som henvisning til 2 Mos 15,8",
+          "type": "E",
           "position": 36
         }
       ],
@@ -89,7 +92,8 @@
       "title": "Lovprisning af JHVHs råd",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes »hedningernes«",
+          "text": "Kan også oversættes »hedningernes«",
+          "type": "T",
           "position": 21
         }
       ],
@@ -116,7 +120,8 @@
       "text": "\fFra stedet, hvor han troner, så han\ftil alle jordens beboere.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hvor han bor«",
+          "text": "Kan også oversættes: »hvor han bor«",
+          "type": "T",
           "position": 29
         }
       ],
@@ -127,7 +132,8 @@
       "text": "\fHan er den som alene danner deres hjerte,\fsom giver agt på alle deres gerninger.",
       "footnotes": [
         {
-          "text": "E: Meningen med ordet *yaḥad* (»alene«)er usikker. Oftest betyder det »sammen«, men det giver næppe mening her. Det kan evt. betyde »alle«, men det taler sætningsbygningen imod. En mulighed er at forstå det som »individuelt«; det kræver dog en anden vokalisering (*yāḥid*)",
+          "text": "Meningen med ordet *yaḥad* (»alene«)er usikker. Oftest betyder det »sammen«, men det giver næppe mening her. Det kan evt. betyde »alle«, men det taler sætningsbygningen imod. En mulighed er at forstå det som »individuelt«; det kræver dog en anden vokalisering (*yāḥid*)",
+          "type": "E",
           "position": 21
         }
       ],
@@ -144,7 +150,8 @@
       "text": "\fHesten er et falsk håb som hjælper,\fja, ved sin store styrke kan den ikke redde.",
       "footnotes": [
         {
-          "text": "T: Der er tænkt på krig",
+          "text": "Der er tænkt på krig",
+          "type": "T",
           "position": 36
         }
       ],

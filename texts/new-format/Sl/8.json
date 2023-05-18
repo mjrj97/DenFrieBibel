@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: *lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder »lede, dirigere«.",
+          "text": "*lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder »lede, dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "T: Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -40,7 +42,8 @@
       "title": "David lovpriser skaberens herlighed",
       "footnotes": [
         {
-          "text": "E: *tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* »giv!«, men i sammenhængen kan det opfattes som kortform for infinitiven.",
+          "text": "*tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* »giv!«, men i sammenhængen kan det opfattes som kortform for infinitiven.",
+          "type": "E",
           "position": 83
         }
       ],
@@ -51,11 +54,13 @@
       "text": "\f\t\tAf spædes og diendes mund har du grundlagt et værn mod dine modstandere\f\t\t\tfor at standse fjenden og den som vil hævne sig.",
       "footnotes": [
         {
-          "text": "E: *ʕōz* betyder oftest »magt, styrke«, men dernæst også »fæstning, bolværk«. Endelig kan det betyde »hæder, lovprisning, lovsang«, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på »værn«.",
+          "text": "*ʕōz* betyder oftest »magt, styrke«, men dernæst også »fæstning, bolværk«. Endelig kan det betyde »hæder, lovprisning, lovsang«, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på »værn«.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "T: *lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
+          "text": "*lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
+          "type": "T",
           "position": 74
         }
       ],
@@ -77,7 +82,8 @@
       "text": "\f\t\t\t\t\t\tDu har gjort det kun lidt ringere end Gud;\f\t\t\t\t\t\t\tdu kronede det med ære og herlighed.",
       "footnotes": [
         {
-          "text": "T: Oversættes oftest »englene« (således LXX), jf. Hebr 2,7.",
+          "text": "Oversættes oftest »englene« (således LXX), jf. Hebr 2,7.",
+          "type": "T",
           "position": 48
         }
       ],

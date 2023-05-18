@@ -41,7 +41,8 @@
       "title": "Kaldæerne kommer",
       "footnotes": [
         {
-          "text": "E: Ordret: »jeres dage«.",
+          "text": "Ordret: »jeres dage«.",
+          "type": "E",
           "position": 113
         }
       ],
@@ -52,11 +53,13 @@
       "text": "\fFor se, jeg oprejser kaldæerne, et barskt og hurtigt folkefærd\fsom farer frem over den vide jord for at erobre områder som ikke tilhører dem.",
       "footnotes": [
         {
-          "text": "E: På hebraisk er der ordspil mellem barskt *mar* og hurtigt *nimhār*.",
+          "text": "På hebraisk er der ordspil mellem barskt *mar* og hurtigt *nimhār*.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: Ordret: »boliger« eller »telte«.",
+          "text": "Ordret: »boliger« eller »telte«.",
+          "type": "E",
           "position": 119
         }
       ],
@@ -67,7 +70,8 @@
       "text": "\fFrygtelige og forfærdelige er de;\fde bestemmer selv deres værdighed og ret.",
       "footnotes": [
         {
-          "text": "E: Ordret: »Ud fra ham selv udgår hans ret og værdighed.«",
+          "text": "Ordret: »Ud fra ham selv udgår hans ret og værdighed.«",
+          "type": "E",
           "position": 76
         }
       ],
@@ -83,7 +87,8 @@
       "text": "\fAlle sammen kommer de for at udøve vold;\fderes ansigter stirrer fremad,\fog de samler fanger som sand.",
       "footnotes": [
         {
-          "text": "E: En anden mulig oversættelse er »alle deres ansigter er som østenvinden«.",
+          "text": "En anden mulig oversættelse er »alle deres ansigter er som østenvinden«.",
+          "type": "E",
           "position": 72
         }
       ],
@@ -99,7 +104,8 @@
       "text": "\fDa farer de frem som en stormvind og drager af sted.\fDe er skyldige, de som gør deres egen kraft til gud.",
       "footnotes": [
         {
-          "text": "E: *ḥālaf* kan også oversættes med »skifter (retning)«.",
+          "text": "*ḥālaf* kan også oversættes med »skifter (retning)«.",
+          "type": "E",
           "position": 17
         }
       ],
@@ -111,15 +117,18 @@
       "title": "Habakkuks bøn",
       "footnotes": [
         {
-          "text": "E: Den hebraiske grundtekst lyder egentlig »lad os ikke dø, JHVHv«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
+          "text": "Den hebraiske grundtekst lyder egentlig »lad os ikke dø, JHVHv«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
+          "type": "E",
           "position": 72
         },
         {
-          "text": "T: kaldæernes konge.",
+          "text": "kaldæernes konge.",
+          "type": "T",
           "position": 103
         },
         {
-          "text": "E: Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.",
+          "text": "Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.",
+          "type": "E",
           "position": 112
         }
       ],
@@ -140,7 +149,8 @@
       "text": "\fAlle dem trækker han op med krog.\fHan samler dem i sit net; fanger dem i sit garn.\fDet glæder og fryder han sig over.",
       "footnotes": [
         {
-          "text": "T: Dvs. kaldæernes konge.",
+          "text": "Dvs. kaldæernes konge.",
+          "type": "T",
           "position": 21
         }
       ],
@@ -151,7 +161,8 @@
       "text": "\fDerfor ofrer han til sit net og brænder røgelse for sine garn,\ffor ved dem får han sin rigelige del,\fog hans mad er fed.",
       "footnotes": [
         {
-          "text": "E: Ordret »fede«.",
+          "text": "Ordret »fede«.",
+          "type": "E",
           "position": 96
         }
       ],

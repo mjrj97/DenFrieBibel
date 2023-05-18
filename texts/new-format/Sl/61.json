@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Klage og tillidsfuld bøn",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret om *rinnāʰ* her betegner jubelråb eller klageråb.",
+          "text": "Det er omdiskuteret om *rinnāʰ* her betegner jubelråb eller klageråb.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -47,11 +49,13 @@
       "text": "\fFra jordens ende\fråber jeg til dig\fnår mit hjerte bliver svagt.\fDu skal føre mig op på en klippe som er for høj for mig.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes: »fra landets yderste grænse«. Her måske mere udtryk for Davids afmagt end for hans opholdssted.",
+          "text": "Kan også oversættes: »fra landets yderste grænse«. Her måske mere udtryk for Davids afmagt end for hans opholdssted.",
+          "type": "E",
           "position": 12
         },
         {
-          "text": "T: Andre oversætter: »som er højere end mig«.",
+          "text": "Andre oversætter: »som er højere end mig«.",
+          "type": "T",
           "position": 121
         }
       ],
@@ -67,11 +71,13 @@
       "text": "\fJeg vil nyde gæstevenskab i dit telt i al evighed,\fjeg vil søge tilflugt under dine vingers skjul. Sela",
       "footnotes": [
         {
-          "text": "E: Den der blev modtaget som »gæst« hos orientaleren, fik tilsagt venskab og beskyttelse. Gæsten kunne vide sig helt under værtens beskyttelse og omsorg.",
+          "text": "Den der blev modtaget som »gæst« hos orientaleren, fik tilsagt venskab og beskyttelse. Gæsten kunne vide sig helt under værtens beskyttelse og omsorg.",
+          "type": "E",
           "position": 26
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 104
         }
       ],
@@ -82,7 +88,8 @@
       "text": "\fFor du, Gud, har hørt mine løfter,\fdu har givet mig arveret med dem som frygter dit navn.",
       "footnotes": [
         {
-          "text": "T: Ordret: »du har givet deres arveret, som frygter dit navn«. Præciseringen »mig« må underforstås. Sætningen er dog også omdiskuteret på grund af ordet *yᵊruššat* (»arveret/ejendom«) der er i genitivforbindelse med eftersætningen. Ofte foreslås en rettelse: *ˀᵃrešet*: »begær/bøn/ønske«: »Du opfylder deres ønske, som frygter dit navn«.",
+          "text": "Ordret: »du har givet deres arveret, som frygter dit navn«. Præciseringen »mig« må underforstås. Sætningen er dog også omdiskuteret på grund af ordet *yᵊruššat* (»arveret/ejendom«) der er i genitivforbindelse med eftersætningen. Ofte foreslås en rettelse: *ˀᵃrešet*: »begær/bøn/ønske«: »Du opfylder deres ønske, som frygter dit navn«.",
+          "type": "T",
           "position": 90
         }
       ],
@@ -94,11 +101,13 @@
       "title": "Bøn for kongen",
       "footnotes": [
         {
-          "text": "T: Ofte foreslås det at opfatte yiqtol her som jussiv: »Føj dage …«.",
+          "text": "Ofte foreslås det at opfatte yiqtol her som jussiv: »Føj dage …«.",
+          "type": "T",
           "position": 9
         },
         {
-          "text": "T: Ordret: »som slægt og slægt«.",
+          "text": "Ordret: »som slægt og slægt«.",
+          "type": "T",
           "position": 70
         }
       ],
@@ -109,11 +118,13 @@
       "text": "\fHan skal trone evigt for Guds ansigt,\ffastsæt at nåde og trofasthed skal beskytte ham!",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 54
         },
         {
-          "text": "T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
+          "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: »trofasthed«.",
+          "type": "T",
           "position": 68
         }
       ],

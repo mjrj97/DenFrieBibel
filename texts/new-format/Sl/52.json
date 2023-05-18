@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 22
         }
       ],
@@ -39,7 +41,8 @@
       "text": "\fDengang edomiten Do’eg kom og fortalte Saul: David er kommet til Akimeleks hus.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fortalte Saul og sagde til ham:«.",
+          "text": "Ordret: »fortalte Saul og sagde til ham:«.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -51,7 +54,8 @@
       "title": "Profetiske trusselsord",
       "footnotes": [
         {
-          "text": "T: Der kunne også oversættes: »du helt« der må opfattes ironisk spottende.",
+          "text": "Der kunne også oversættes: »du helt« der må opfattes ironisk spottende.",
+          "type": "T",
           "position": 44
         }
       ],
@@ -67,7 +71,8 @@
       "text": "\fDu elskede ondt frem for godt,\fløgn frem for retfærdig tale. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 66
         }
       ],
@@ -83,7 +88,8 @@
       "text": "\fDog, Gud skal ødelægge dig for evigt,\fhan skal snuppe dig op og udrydde dig af teltet,\frykke dig op med rode fra de levendes land. Sela",
       "footnotes": [
         {
-          "text": "T: Strengt taget står »telt« uden artikel. Der kan enten være tænkt på Guds »telt« (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: »dit telt«.",
+          "text": "Strengt taget står »telt« uden artikel. Der kan enten være tænkt på Guds »telt« (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: »dit telt«.",
+          "type": "T",
           "position": 87
         }
       ],

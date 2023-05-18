@@ -24,7 +24,8 @@
       "title": "Åbenbaringen på Sinaj",
       "footnotes": [
         {
-          "text": "E: Der er ikke angivet en dato; meningen er nok at det skete på den første dag (nymånen) i den tredje måned efter udvandringen.",
+          "text": "Der er ikke angivet en dato; meningen er nok at det skete på den første dag (nymånen) i den tredje måned efter udvandringen.",
+          "type": "E",
           "position": 83
         }
       ],
@@ -45,7 +46,8 @@
       "text": "›I har set, hvad jeg gjorde ved Egypten, og jeg bar jer på ørnevinger og bragte jer til mig.",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *nešer* kan betegne både »ørn« og »grib«. I antikke højkulturer var gribben (både han- og hunfuglen) symbol for forældreomsorg og forældrekærlighed.",
+          "text": "Grundtekstens *nešer* kan betegne både »ørn« og »grib«. I antikke højkulturer var gribben (både han- og hunfuglen) symbol for forældreomsorg og forældrekærlighed.",
+          "type": "E",
           "position": 69
         }
       ],
@@ -56,11 +58,13 @@
       "text": "Derfor: Hvis I vil lytte omhyggeligt til min røst og holde min pagt, skal I være mig en ejendom ud af alle folkeslagene, selv om hele jorden tilhører mig.",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *šmʕ* (»lytte«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *šmʕ* (»lytte«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 36
         },
         {
-          "text": "T: Det hebraiske *kî* (»selv om«) skal oftest oversættes: »for«, og det er også en mulighed her.",
+          "text": "Det hebraiske *kî* (»selv om«) skal oftest oversættes: »for«, og det er også en mulighed her.",
+          "type": "T",
           "position": 128
         }
       ],
@@ -71,7 +75,8 @@
       "text": "Så I skal for mig være et kongerige af præster og et helligt folk. Disse er de ord som du skal sige til Israels børn.‹«",
       "footnotes": [
         {
-          "text": "E: Det er omdiskuteret hvordan grundtekstens genitiv skal forstås. Sprogligt kan meningen være: »et kongerige med præster som regenter / et præsteligt kongerige / et kongerige, der består af præster«. Sidstnævnte synes mest oplagt i sammenhængen.",
+          "text": "Det er omdiskuteret hvordan grundtekstens genitiv skal forstås. Sprogligt kan meningen være: »et kongerige med præster som regenter / et præsteligt kongerige / et kongerige, der består af præster«. Sidstnævnte synes mest oplagt i sammenhængen.",
+          "type": "E",
           "position": 46
         }
       ],
@@ -108,11 +113,13 @@
       "text": "Du skal sætte gærde rundt omkring folket og sige: ›Vogt jer for at gå op på bjerget og at røre ved dets fod; hver den som rører ved bjerget skal så sandelig dø.‹",
       "footnotes": [
         {
-          "text": "T: Ordret: »grænse /rand«.",
+          "text": "Ordret: »grænse /rand«.",
+          "type": "T",
           "position": 108
         },
         {
-          "text": "T: Den hebraiske tekst har verbet *mwt* (»dø«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *mwt* (»dø«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 161
         }
       ],
@@ -123,7 +130,8 @@
       "text": "Ingen hånd må røre ved ham; men han skal så sandelig stenes eller skydes. Hvad enten det er et dyr eller et menneske, skal det ikke leve. Når hornet giver en lang lyd, må de gå op på bjerget.«",
       "footnotes": [
         {
-          "text": "E: På hebraisk hedder det: *yōvēl*. Ordet går igen i betegnelsen »jubelår«, som rettelig burde hedde: »jobelår«. Det indvarsles med vædderhorn.",
+          "text": "På hebraisk hedder det: *yōvēl*. Ordet går igen i betegnelsen »jubelår«, som rettelig burde hedde: »jobelår«. Det indvarsles med vædderhorn.",
+          "type": "E",
           "position": 148
         }
       ],
@@ -189,7 +197,8 @@
       "text": "Så steg Moses ned til folket og sagde det til dem.",
       "footnotes": [
         {
-          "text": "T: Ordret slutter kapitlet lidt abrupt. Der står kun: »og han sagde til dem.« Enten må man underforstå at Moses sagde det han havde fået besked på at sige, eller også må det ses som indledning til det følgende kapitel så der skal sættes et kolon: »… og sagde til dem:«",
+          "text": "Ordret slutter kapitlet lidt abrupt. Der står kun: »og han sagde til dem.« Enten må man underforstå at Moses sagde det han havde fået besked på at sige, eller også må det ses som indledning til det følgende kapitel så der skal sættes et kolon: »… og sagde til dem:«",
+          "type": "T",
           "position": 41
         }
       ],

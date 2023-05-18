@@ -25,7 +25,8 @@
       "text": "»Giv israelitterne befaling og sig til dem: ›I skal være omhyggelige med min offergave, min mad knyttet til mine ildofre, der er en dejlig duft for mig, at I frembærer dem på deres fastsatte tidspunkter.",
       "footnotes": [
         {
-          "text": "E: Teksten har først et foranstillet *qorbānî* »min offergave« og det er et helt generelt ord for et offer. Derefter følger i apposition *laḥmî*, »mit brød«, der tydeligvis indsnævrer emnet til omhandle afgrødeofferet. Dette brød, eller denne mad, er med *lᵊ* »knyttet til« forbundet til ʔiššay »mine ildofre«, der så er en dejlig duft. Fra andre tekster ved vi at en håndfuld af kornet blev brændt, og resten blev spist af præsten.",
+          "text": "Teksten har først et foranstillet *qorbānî* »min offergave« og det er et helt generelt ord for et offer. Derefter følger i apposition *laḥmî*, »mit brød«, der tydeligvis indsnævrer emnet til omhandle afgrødeofferet. Dette brød, eller denne mad, er med *lᵊ* »knyttet til« forbundet til ʔiššay »mine ildofre«, der så er en dejlig duft. Fra andre tekster ved vi at en håndfuld af kornet blev brændt, og resten blev spist af præsten.",
+          "type": "E",
           "position": 121
         }
       ],
@@ -46,11 +47,13 @@
       "text": "sammen med en tiendedel efa mel som afgrødeoffer, blandet med en fjerdedel hin olie af knuste oliven.",
       "footnotes": [
         {
-          "text": "T: Det samme som 2,2 liter.",
+          "text": "Det samme som 2,2 liter.",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "T: Det samme som 0,9 liter.",
+          "text": "Det samme som 0,9 liter.",
+          "type": "T",
           "position": 78
         }
       ],
@@ -77,7 +80,8 @@
       "title": "Sabbatsofrene.",
       "footnotes": [
         {
-          "text": "T: Der må være tale om efa, så der altså bruges 4,4 liter.",
+          "text": "Der må være tale om efa, så der altså bruges 4,4 liter.",
+          "type": "T",
           "position": 69
         }
       ],
@@ -99,7 +103,8 @@
       "text": "og tre tiendedele mel blandet med olie som afgrødeoffer til hver tyrekalv, og to tiendedele mel blandet med olie som afgrødeoffer til vædderen,",
       "footnotes": [
         {
-          "text": "T: Her og i de følgende angivelser må »efa« være underforstået.",
+          "text": "Her og i de følgende angivelser må »efa« være underforstået.",
+          "type": "T",
           "position": 17
         }
       ],
@@ -110,7 +115,8 @@
       "text": "og en tiendedel mel blandet med olie som afgrødeoffer til hvert lam. Det er et brændoffer, en dejlig duft, et ildoffer for JHVH.",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 15
         }
       ],
@@ -152,11 +158,13 @@
       "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele, skal I ofre til hver tyr, og to tiendedele til vædderen,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 60
         },
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 103
         }
       ],
@@ -167,7 +175,8 @@
       "text": "og en tiendedel skal du ofre til hvert af de syv lam,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 15
         }
       ],
@@ -209,7 +218,8 @@
       "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele, til hver tyrekalv og to tiendedele til vædderen,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 60
         }
       ],
@@ -220,7 +230,8 @@
       "text": "en tiendedel til hvert af de syv lam,",
       "footnotes": [
         {
-          "text": "T: efa",
+          "text": "efa",
+          "type": "T",
           "position": 12
         }
       ],

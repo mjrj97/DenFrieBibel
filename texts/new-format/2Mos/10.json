@@ -24,7 +24,8 @@
       "title": "Ottende plage: Græshopper",
       "footnotes": [
         {
-          "text": "T: Den hebraiske teksts: *bᵊqirbô* betyder: »i hans midte«. Meningen kan være: »midt i hans land«. Oftest følger oversættere de gamle oversættelser, som må have læst: *bᵊqirbām*: »i deres midte / blandt dem«.",
+          "text": "Den hebraiske teksts: *bᵊqirbô* betyder: »i hans midte«. Meningen kan være: »midt i hans land«. Oftest følger oversættere de gamle oversættelser, som må have læst: *bᵊqirbām*: »i deres midte / blandt dem«.",
+          "type": "T",
           "position": 138
         }
       ],
@@ -35,11 +36,13 @@
       "text": "og for at du kan fortælle din søn og sønnesøn om det jeg har handlet hårdt i Egypten, og om mine tegn som jeg har sat blandt dem, så I kan forstå at jeg er JHVH.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »i din søns og din sønnesøns ører«",
+          "text": "Ordret: »i din søns og din sønnesøns ører«",
+          "type": "T",
           "position": 45
         },
         {
-          "text": "T: Se note til 8,6.",
+          "text": "Se note til 8,6.",
+          "type": "T",
           "position": 145
         }
       ],
@@ -55,7 +58,8 @@
       "text": "For hvis du nægter at lade mit folk gå, se, så vil jeg i morgen lade græshopper komme i dit landområde,",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord er singularis, men det må opfattes kollektivt.",
+          "text": "Grundtekstens ord er singularis, men det må opfattes kollektivt.",
+          "type": "T",
           "position": 79
         }
       ],
@@ -66,11 +70,13 @@
       "text": "og de skal dække jordens overflade så man ikke skal kunne se jorden, og de skal æde den rest som er reddet, det der er blevet tilbage til jer fra haglen, og de skal æde hvert træ som vokser op hos jer af marken.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »landets«, men det er samme ord i næste sætning.",
+          "text": "Kan også oversættes: »landets«, men det er samme ord i næste sætning.",
+          "type": "T",
           "position": 24
         },
         {
-          "text": "T: Grundbetydningen af: *ʕayin* er: »øje«.",
+          "text": "Grundbetydningen af: *ʕayin* er: »øje«.",
+          "type": "T",
           "position": 34
         }
       ],
@@ -86,11 +92,13 @@
       "text": "Da sagde Faraos tjenere til ham: »Hvor længe skal denne være en snare for os? Lad de mænd gå så de kan dyrke JHVH, deres Gud. Kan du endnu ikke forstå at Egypten er ruineret?«",
       "footnotes": [
         {
-          "text": "E: Underforstået enten: »denne mand« eller: »denne situation«.",
+          "text": "Underforstået enten: »denne mand« eller: »denne situation«.",
+          "type": "E",
           "position": 55
         },
         {
-          "text": "T: Se note til 8,6.",
+          "text": "Se note til 8,6.",
+          "type": "T",
           "position": 150
         }
       ],
@@ -101,7 +109,8 @@
       "text": "Så blev Moses og Aron bragt tilbage til Farao, og han sagde til dem: »Gå, dyrk JHVH, jeres Gud. Hvem er det som går?«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Hvem og hvem«.",
+          "text": "Ordret: »Hvem og hvem«.",
+          "type": "T",
           "position": 100
         }
       ],
@@ -117,11 +126,13 @@
       "text": "Da sagde han til dem: »Må JHVH være med jer, om jeg vil lade jer og jeres små børn gå! Se der, I har ondt i sinde.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord er singularis, men det må opfattes kollektivt.",
+          "text": "Det hebraiske ord er singularis, men det må opfattes kollektivt.",
+          "type": "T",
           "position": 82
         },
         {
-          "text": "T: Ordret: »der er ondt over for jeres ansigt«.",
+          "text": "Ordret: »der er ondt over for jeres ansigt«.",
+          "type": "T",
           "position": 114
         }
       ],
@@ -132,7 +143,8 @@
       "text": "Nej, ikke sådan! I mænd kan gå og dyrke JHVH, for det er det I beder om.« Så jog man dem væk fra Farao.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra Faraos ansigt«.",
+          "text": "Ordret: »fra Faraos ansigt«.",
+          "type": "T",
           "position": 103
         }
       ],
@@ -158,11 +170,13 @@
       "text": "De dækkede hele landets overflade, landet blev formørket, og de åd hver en landets urt og hver et træets frugt, som haglen lod blive tilbage. Og der blev intet grønt tilbage på træet eller blandt markens urter i hele Egyptens land.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »jordens«, og dette vers er opfølgning på vers 5. Men i dette vers er der tænkt på landet.",
+          "text": "Kan også oversættes: »jordens«, og dette vers er opfølgning på vers 5. Men i dette vers er der tænkt på landet.",
+          "type": "T",
           "position": 23
         },
         {
-          "text": "T: Grundbetydningen af: *ʕayin* er: »øje«.",
+          "text": "Grundbetydningen af: *ʕayin* er: »øje«.",
+          "type": "T",
           "position": 34
         }
       ],
@@ -188,7 +202,8 @@
       "text": "Og JHVH vendte vinden til en meget stærk vestenvind som løftede græshopperne op og drev dem i Sivhavet. Der blev ikke én græshoppe tilbage i hele Egyptens landområde.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hav-vind«.",
+          "text": "Ordret: »hav-vind«.",
+          "type": "T",
           "position": 51
         }
       ],
@@ -210,7 +225,8 @@
       "text": "Moses rakte sin hånd op mod himlen, og der blev dybt mørke i hele Egyptens land i tre dage.",
       "footnotes": [
         {
-          "text": "T: Ordret: »dunkelheds mørke«.",
+          "text": "Ordret: »dunkelheds mørke«.",
+          "type": "T",
           "position": 58
         }
       ],
@@ -226,7 +242,8 @@
       "text": "Da kaldte Farao på Moses og sagde: »Gå, dyrk JHVH, kun jeres småkvæg og jeres hornkvæg skal blive tilbage. Også jeres små børn må gå med jer.«",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord er singularis, men det må opfattes kollektivt.",
+          "text": "Det hebraiske ord er singularis, men det må opfattes kollektivt.",
+          "type": "T",
           "position": 126
         }
       ],
@@ -237,7 +254,8 @@
       "text": "Moses sagde: »Også du skal give slagtofre og brændofre i vor hånd så vi kan ofre til JHVH, vor Gud.",
       "footnotes": [
         {
-          "text": "T: Ordret: »så vi kan bringe«, underforstået: »offer«.",
+          "text": "Ordret: »så vi kan bringe«, underforstået: »offer«.",
+          "type": "T",
           "position": 80
         }
       ],

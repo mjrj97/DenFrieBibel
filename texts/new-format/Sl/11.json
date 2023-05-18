@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Ordret: »Flygt til jeres bjerg (som en) fugl«. Der må tænkes på David og hans venner (»flygt« er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (»jeres bjerg«) til *harîm kᵊ-* (»til bjergene som«).",
+          "text": "Ordret: »Flygt til jeres bjerg (som en) fugl«. Der må tænkes på David og hans venner (»flygt« er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (»jeres bjerg«) til *harîm kᵊ-* (»til bjergene som«).",
+          "type": "E",
           "position": 110
         }
       ],
@@ -51,7 +53,8 @@
       "title": "JHVH er retfærdig og bevarer den retfærdige",
       "footnotes": [
         {
-          "text": "T: Meningen formodentlig: »hans blik«.",
+          "text": "Meningen formodentlig: »hans blik«.",
+          "type": "T",
           "position": 97
         }
       ],
@@ -67,7 +70,8 @@
       "text": "\fHan skal lade fælder regne ned over de ugudelige,\fild og svovl og glohed vind må blive deres tilmålte bæger.",
       "footnotes": [
         {
-          "text": "E: Der er usikkerhed i oversættelsen der også kunne lyde: »Over den uretfærdige lade han regne ild og svovl ned som fælder, og en glohed vind blive deres tilmålte bæger«. Mange retter *paḥîm* (»fælder«) til: *paḥmē*: »kul«, der forbindes med det følgende ord (»ild«) til »glødende kul«.",
+          "text": "Der er usikkerhed i oversættelsen der også kunne lyde: »Over den uretfærdige lade han regne ild og svovl ned som fælder, og en glohed vind blive deres tilmålte bæger«. Mange retter *paḥîm* (»fælder«) til: *paḥmē*: »kul«, der forbindes med det følgende ord (»ild«) til »glødende kul«.",
+          "type": "E",
           "position": 109
         }
       ],
@@ -78,7 +82,8 @@
       "text": "\fFor JHVH er retfærdig, han elsker retfærdighedshandlinger,\fde retskafne skal se JHVHs ansigt.",
       "footnotes": [
         {
-          "text": "E: *yāšār* (»retskaffen«) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: »hans ansigt skal iagttage de retskafne«, men sammenhængen taler for den første mulighed.",
+          "text": "*yāšār* (»retskaffen«) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: »hans ansigt skal iagttage de retskafne«, men sammenhængen taler for den første mulighed.",
+          "type": "E",
           "position": 94
         }
       ],

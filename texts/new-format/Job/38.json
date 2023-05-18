@@ -34,7 +34,8 @@
       "text": "Gør dig klar til handling som en mand, så vil jeg spørge dig, og du skal undervise mig!",
       "footnotes": [
         {
-          "text": "T: Ordret: »Bind op om dine lænder.«",
+          "text": "Ordret: »Bind op om dine lænder.«",
+          "type": "T",
           "position": 25
         }
       ],
@@ -61,7 +62,8 @@
       "text": "dengang morgenstjernerne sang i flok, og alle Guds børn råbte af glæde?",
       "footnotes": [
         {
-          "text": "T: På hebraisk: »sønner«",
+          "text": "På hebraisk: »sønner«",
+          "type": "T",
           "position": 55
         }
       ],
@@ -102,7 +104,8 @@
       "text": "Den forvandles ligesom det ler et segl trykkes ned i, eller som tøj der afslører formerne.",
       "footnotes": [
         {
-          "text": "E: Teksten er usikker og uklar. Meningen er måske: »dens konturer er iøjnefaldende som en klædning«. Ofte retter man den hebraiske tekst (*yitᵊyaṣṣᵊvû* til: *wᵊtiṣṣāvaʕ*): »så den farves (som en klædning)«.",
+          "text": "Teksten er usikker og uklar. Meningen er måske: »dens konturer er iøjnefaldende som en klædning«. Ofte retter man den hebraiske tekst (*yitᵊyaṣṣᵊvû* til: *wᵊtiṣṣāvaʕ*): »så den farves (som en klædning)«.",
+          "type": "E",
           "position": 90
         }
       ],
@@ -138,7 +141,8 @@
       "text": "så du kan bringe det til dets område, og så du kan kende stierne til dets hus?",
       "footnotes": [
         {
-          "text": "E: Undertiden foreslås en rettelse i vokaliseringen af den hebraiske tekst: *tāvîn* (»du kan kende«) til: *tᵊvîjænnu*: »du kan føre til«.",
+          "text": "Undertiden foreslås en rettelse i vokaliseringen af den hebraiske tekst: *tāvîn* (»du kan kende«) til: *tᵊvîjænnu*: »du kan føre til«.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -149,7 +153,8 @@
       "text": "Du ved det, for du blev født den gang, og dine dages tal er stort!",
       "footnotes": [
         {
-          "text": "T: Kan også opfattes som spørgsmål: »Ved du det?«",
+          "text": "Kan også opfattes som spørgsmål: »Ved du det?«",
+          "type": "T",
           "position": 11
         }
       ],
@@ -200,7 +205,8 @@
       "text": "Vandet skjuler sig som om det var en sten, og verdensdybets overflade lukkes til.",
       "footnotes": [
         {
-          "text": "E: Ofte går man ud fra, at der i stedet for: *yitḥabbāʔû*(»skjuler sig«) skulle stå: *yitḥabbārû*: »stivner (som en sten)«",
+          "text": "Ofte går man ud fra, at der i stedet for: *yitḥabbāʔû*(»skjuler sig«) skulle stå: *yitḥabbārû*: »stivner (som en sten)«",
+          "type": "E",
           "position": 33
         }
       ],
@@ -216,11 +222,13 @@
       "text": "Kan du lade Venus komme frem til dens tid? Eller føre Storebjørn med dens unger frem?",
       "footnotes": [
         {
-          "text": "T: Det er omdiskuteret og usikkert hvad der er tænkt på med ordet: *mazzārôt*. Man følger oftest Septuagintas forslag »Lucifer«, der er et andet navn for »Venus«. Andre oversætter det: »Dyrekredsens stjerner« eller generelt: »stjernebilleder«.",
+          "text": "Det er omdiskuteret og usikkert hvad der er tænkt på med ordet: *mazzārôt*. Man følger oftest Septuagintas forslag »Lucifer«, der er et andet navn for »Venus«. Andre oversætter det: »Dyrekredsens stjerner« eller generelt: »stjernebilleder«.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: Andre oversætter: »Løven« eller: »Aldebaran«.",
+          "text": "Andre oversætter: »Løven« eller: »Aldebaran«.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -246,11 +254,13 @@
       "text": "Hvem lagde visdom i hjertets inderste? Eller hvem gav forstand i tanken?",
       "footnotes": [
         {
-          "text": "T: Betydningen af det hebraiske ord: *ṭuḥôt* er usikker og omdiskuteret. Andre oversætter med: »ibisfuglen « eller: »sorte skyer«.",
+          "text": "Betydningen af det hebraiske ord: *ṭuḥôt* er usikker og omdiskuteret. Andre oversætter med: »ibisfuglen « eller: »sorte skyer«.",
+          "type": "T",
           "position": 37
         },
         {
-          "text": "T: Betydningen af det hebraiske ord: *śexwî* er usikker og omdiskuteret. Andre oversætter: »sindet« eller »hjertet« eller »tågen« eller »hanen«.",
+          "text": "Betydningen af det hebraiske ord: *śexwî* er usikker og omdiskuteret. Andre oversætter: »sindet« eller »hjertet« eller »tågen« eller »hanen«.",
+          "type": "T",
           "position": 72
         }
       ],

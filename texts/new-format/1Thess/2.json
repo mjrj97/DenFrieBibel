@@ -19,7 +19,8 @@
       "text": "I ved jo selv, brødre, at den modtagelse, vi fik hos jer, ikke var spildt.",
       "footnotes": [
         {
-          "text": "T: Ordret, »indgang«.",
+          "text": "Ordret, »indgang«.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -30,7 +31,8 @@
       "text": "Men skønt vi lige havde lidt og var blevet behandlet med foragt i Filippi, som I jo ved, fik vi ved Gud frimodighed til at tale Guds evangelium til jer under megen sjælekamp.",
       "footnotes": [
         {
-          "text": "T: Se ApG. 16,12-17,1.",
+          "text": "Se ApG. 16,12-17,1.",
+          "type": "T",
           "position": 73
         }
       ],
@@ -46,11 +48,13 @@
       "text": "Men eftersom vi er blevet prøvet og fundet værdige af Gud til at få evangeliet betroet, taler vi også således, ikke som for at behage mennesker, men for at behage Gud, som prøver vore hjerter.",
       "footnotes": [
         {
-          "text": "E: nemlig således som det kræves af dem, som har fået evangeliet betroet.",
+          "text": "nemlig således som det kræves af dem, som har fået evangeliet betroet.",
+          "type": "E",
           "position": 110
         },
         {
-          "text": "T: Ordet: »men Gud«. Ordene »for at behage« er indført for meningens skyld fra den foregående bisætning.",
+          "text": "Ordet: »men Gud«. Ordene »for at behage« er indført for meningens skyld fra den foregående bisætning.",
+          "type": "T",
           "position": 167
         }
       ],
@@ -71,7 +75,8 @@
       "text": "selvom vi som Kristi apostle nok kunne have lagt pres på jer. Men vi var milde iblandt jer -- som når en ammende giver sine egne børn bryst,",
       "footnotes": [
         {
-          "text": "E: Den græske tekst er tvetydig. Ordene for »lagt pres på jer« betyder egentlig blot, »at være jer til byrde«. Det kan eksempelvis betyde, at apostlene kunne have »udøvet autoritet«, men grundteksten siger ikke præcist, hvilken slags pres, der er tale om.",
+          "text": "Den græske tekst er tvetydig. Ordene for »lagt pres på jer« betyder egentlig blot, »at være jer til byrde«. Det kan eksempelvis betyde, at apostlene kunne have »udøvet autoritet«, men grundteksten siger ikke præcist, hvilken slags pres, der er tale om.",
+          "type": "E",
           "position": 61
         }
       ],
@@ -117,15 +122,18 @@
       "text": "som slog både Herren Jesus og profeterne ihjel, og som forfulgte os, og som ikke behager Gud, og som står alle mennesker imod. De forhindrer os nemlig i at tale til hedningerne for at de må blive frelst, så at de altid fylder deres synders mål op. Men vreden er kommet over dem til fulde.",
       "footnotes": [
         {
-          "text": "E: Mange håndskrifter har: »deres egne profeter«.",
+          "text": "Mange håndskrifter har: »deres egne profeter«.",
+          "type": "E",
           "position": 40
         },
         {
-          "text": "T: nemlig hedningerne.",
+          "text": "nemlig hedningerne.",
+          "type": "T",
           "position": 186
         },
         {
-          "text": "T: nemlig jøderne",
+          "text": "nemlig jøderne",
+          "type": "T",
           "position": 212
         }
       ],

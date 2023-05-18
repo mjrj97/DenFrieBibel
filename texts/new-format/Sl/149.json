@@ -20,7 +20,8 @@
       "title": "Syng for frelseren!",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »menighed«.",
+          "text": "Kan også oversættes: »menighed«.",
+          "type": "T",
           "position": 74
         }
       ],
@@ -31,7 +32,8 @@
       "text": "\fIsrael skal glæde sig over sin skaber,\fZions sønner skal juble over deres konge!",
       "footnotes": [
         {
-          "text": "E: Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
+          "text": "Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
+          "type": "E",
           "position": 39
         }
       ],
@@ -53,7 +55,8 @@
       "title": "Syng for dommeren",
       "footnotes": [
         {
-          "text": "E: Mange fortolkere og oversættere finder omtalen af »leje« umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (»på deres lejer«) til: *ʕal-mišmᵊrôtām*: »i deres familier« eller: *ʕal-maʕarᵊxôtām*: »i deres slagrækker«. Andre foreslår at opfatte den masoretiske teksts »leje« som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
+          "text": "Mange fortolkere og oversættere finder omtalen af »leje« umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (»på deres lejer«) til: *ʕal-mišmᵊrôtām*: »i deres familier« eller: *ʕal-maʕarᵊxôtām*: »i deres slagrækker«. Andre foreslår at opfatte den masoretiske teksts »leje« som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
+          "type": "E",
           "position": 74
         }
       ],
@@ -69,7 +72,8 @@
       "text": "\ftil at udføre hævn over folkene,\fstraf over folkeslagene;",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedningerne«.",
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
           "position": 33
         }
       ],

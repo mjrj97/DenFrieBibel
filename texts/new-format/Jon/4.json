@@ -24,11 +24,13 @@
       "title": "Jonas’ klage og Guds irettesættelse af ham ",
       "footnotes": [
         {
-          "text": "T: Ordret: »Og denne store ondskab var ond for Jonas.«",
+          "text": "Ordret: »Og denne store ondskab var ond for Jonas.«",
+          "type": "T",
           "position": 36
         },
         {
-          "text": "T: Ordret : »den (=hans vrede) brændte.«",
+          "text": "Ordret : »den (=hans vrede) brændte.«",
+          "type": "T",
           "position": 58
         }
       ],
@@ -39,11 +41,13 @@
       "text": "\t\tHan bad til HERREN\t\tog sagde:\t\t\t»Åh, HERRE,\t\t\t\t\tvar dette ikke min begrundelse \t\t\t\t\t\t\tså længe jeg var på min egen jord?\t\t\t\t\t\tDerfor tog jeg af sted\t\t\t\t\t\t\t\tfor at flygte til Tarshish,\t\t\t\t\t\t\tfor jeg ved\t\t\t\t\t\t\t\tat du er en nådig og barmhjertig Gud,\t\t\t\t\t\t\t\t\tsen til vrede\t\t\t\t\t\t\t\t\t\tog mægtig i trofast kærlighed,\t\t\t\t\t\t\t\t\t\t\tog du angrer det onde.",
       "footnotes": [
         {
-          "text": "E: *dāvār* har kernebetydningen »ord, begivenhed« og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.",
+          "text": "*dāvār* har kernebetydningen »ord, begivenhed« og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.",
+          "type": "E",
           "position": 81
         },
         {
-          "text": "N: Nåde",
+          "text": "Nåde",
+          "type": "N",
           "position": 310
         }
       ],
@@ -54,7 +58,8 @@
       "text": "\t\t\t\tOg nu, HERRE,\t\t\t\t\ttag mit liv  fra mig,\t\t\t\t\t\tfor min død er langt bedre end mit liv«",
       "footnotes": [
         {
-          "text": "T: Ordret: »sjæl«. Her er der dog ikke kun tale om sindet, men om hele personen. I den følgende sætning er der tale om kontrasten mellem livet og døden.",
+          "text": "Ordret: »sjæl«. Her er der dog ikke kun tale om sindet, men om hele personen. I den følgende sætning er der tale om kontrasten mellem livet og døden.",
+          "type": "T",
           "position": 34
         }
       ],
@@ -65,7 +70,8 @@
       "text": "\tHERREN sagde:\t\t»Er det med rette\t\t\tat du er rasende?«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Mon [det er] godt at [den] brænder for dig?« (jf. v. 1).",
+          "text": "Ordret: »Mon [det er] godt at [den] brænder for dig?« (jf. v. 1).",
+          "type": "T",
           "position": 52
         }
       ],
@@ -76,7 +82,8 @@
       "text": "\fJonas gik ud af byen\tog slog sig ned øst for byen.\tHan lavede sig en hytte der\tog satte sig i skyggen ved siden af den\t\tindtil han kunne se\t\t\thvad der ville ske i byen.",
       "footnotes": [
         {
-          "text": "T: Ordret: »under den.«",
+          "text": "Ordret: »under den.«",
+          "type": "T",
           "position": 115
         }
       ],
@@ -87,15 +94,18 @@
       "text": "Da sørgede Gud HERREN for en olieplante,\t\tog den voksede op over Jonas\t\t\tså den kunne kaste skygge over hans hoved\t\t\t\tfor at befri ham fra hans mismod,\tog Jonas glædede sig meget over denne olieplante. ",
       "footnotes": [
         {
-          "text": "E: Samme verbalform i 4,6-8 som i 2,1",
+          "text": "Samme verbalform i 4,6-8 som i 2,1",
+          "type": "E",
           "position": 10
         },
         {
-          "text": "T: Ordret »hans ondskab.« Det refererer til et ondt sind, tungsind, dårlige tanker eller lignende.",
+          "text": "Ordret »hans ondskab.« Det refererer til et ondt sind, tungsind, dårlige tanker eller lignende.",
+          "type": "T",
           "position": 151
         },
         {
-          "text": "T: Planten *qîqāyôn* identificeres ofte med olieplanten, lat. *ricinus communis*. Andre forslag omfatter en agurk.",
+          "text": "Planten *qîqāyôn* identificeres ofte med olieplanten, lat. *ricinus communis*. Andre forslag omfatter en agurk.",
+          "type": "T",
           "position": 202
         }
       ],
@@ -111,11 +121,13 @@
       "text": "\tDerpå,\t\tnetop da solen gik op,\tsørgede Gud for en glohed østenvind,\t\tog solen stak Jonas’ hoved\t\t\tså han blev dårlig.\t\t\tDa ønskede han for sig selv\t\t\t\tat han måtte dø,\t\t\tog han sagde:\t\t\t\t»Jeg vil heller dø end leve.«",
       "footnotes": [
         {
-          "text": "T: Ordret »spurgte for sin sjæl«. I hebraisk tankegang opereres ikke med en udødelig sjæl, der så her alligevel skulle kunne dø. Her er det ham selv og hele hans person, der er tale ",
+          "text": "Ordret »spurgte for sin sjæl«. I hebraisk tankegang opereres ikke med en udødelig sjæl, der så her alligevel skulle kunne dø. Her er det ham selv og hele hans person, der er tale",
+          "type": "T",
           "position": 148
         },
         {
-          "text": "T: Ordret: »Min død er bedre end mit liv.«",
+          "text": "Ordret: »Min død er bedre end mit liv.«",
+          "type": "T",
           "position": 217
         }
       ],

@@ -29,7 +29,8 @@
       "text": "\fda blev Juda til hans helligdom,\fIsrael til hans herredømme.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens: *mamšlôtāʸw* (»herredømme«) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
+          "text": "Grundtekstens: *mamšlôtāʸw* (»herredømme«) er pluralis, men opfattes som regel som singulær som forudsat i Septuginta og andre gamle oversættelser. Pluralis skal måske understrege storheden i Guds herredømme.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -46,7 +47,8 @@
       "text": "\fbjergene sprang som væddere,\fhøje som kid og lam.",
       "footnotes": [
         {
-          "text": "T: Ordret: »som småkvægs afkom«.",
+          "text": "Ordret: »som småkvægs afkom«.",
+          "type": "T",
           "position": 50
         }
       ],

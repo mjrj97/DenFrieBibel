@@ -1,5 +1,3 @@
-import React from 'react'
-
 import 'react-tooltip/dist/react-tooltip.css'
 import { Tooltip } from 'react-tooltip'
 import VerseNumber from './VerseNumber';
@@ -20,16 +18,18 @@ function Verse({ verse, index, onSelected, settings}) {
             let slice = FormatText(verse.text.slice(start, end), settings);
             const trimmed = slice.trimStart();
             const diff = slice.length - trimmed.length;
-            if (i == 0)
-            {
-                if (diff > 0) {
-                    let beginning = slice.substring(0, diff);
-                    if (index == 0 || (settings.showTitles && verse.title))
-                        beginning = beginning.replace(/\n/g, "");
-                    parts.push(<span key={verse.footnotes.length + "pA" + verse.number}>{beginning}</span>);
-                }
-                addVerseNumber(verse.number);
+            
+            if (diff > 0) {
+                let beginning = slice.substring(0, diff);
+                if (i == 0)
+                    beginning = beginning.replace(/ /g, "");
+                if (index == 0 || (settings.showTitles && verse.title))
+                    beginning = beginning.replace(/\n/g, "");
+                parts.push(<span key={verse.footnotes.length + "pA" + verse.number}>{beginning}</span>);
             }
+
+            if (i == 0)
+                addVerseNumber(verse.number);
             parts.push(<span key={i + "p" + verse.number}>{trimmed}</span>);
 
             const tooltipID = verse.number + verse.footnotes[i].type + verse.footnotes[i].designation;
@@ -48,27 +48,27 @@ function Verse({ verse, index, onSelected, settings}) {
         }
 
         let slice = FormatText(verse.text.slice(verse.footnotes[verse.footnotes.length - 1].position, verse.text.length), settings);
-        parts.push(<span key={verse.footnotes.length + "p" + verse.number}>{slice + " "}</span>);
+        parts.push(<span key={verse.footnotes.length + "p" + verse.number}>{slice}</span>);
     }
     else {
         const text = FormatText(verse.text, settings);
         const trimmed = text.trimStart();
         const diff = text.length - trimmed.length;
         if (diff > 0) {
-            let beginning = text.substring(0, diff);
+            let beginning = text.substring(0, diff).replace(/ /g, "");
             if (index == 0 || (settings.showTitles && verse.title))
                 beginning = beginning.replace(/\n/g, "");
             parts.push(<span key={0 + "pA" + verse.number}>{beginning}</span>);
         }
         addVerseNumber(verse.number);
-        parts.push(<span key={0 + "pB" + verse.number}>{trimmed + " "}</span>);
+        parts.push(<span key={0 + "pB" + verse.number}>{trimmed}</span>);
     }
 
     return (
         <>
-            {verse.title && settings.showTitles ? <SectionTitle>{verse.title}</SectionTitle> : <></>}
+            {verse.title && settings.showTitles ? <SectionTitle>{FormatText(verse.title, settings)}</SectionTitle> : <></>}
             <span className='verseLine'>
-                {parts}
+                {parts}&nbsp;
             </span>
         </>
     )
@@ -102,19 +102,13 @@ function FormatText(text, settings) {
         result = result.replace(/JHVH/g, "JHVH");
     }
 
-    // Temporary change new line
-    result = result.replace(/\n\n/g, "NEWLINE");
-
     if (settings && !settings.exegeticLayout) {
         // Remove exergetic layout
-        result = result.replace(/\n/g, " ").replace(/\t/g, "");
+        result = result.replace(/\t/g, " ").replace(/ +(?= )/g,'');;
 
         // Add poetic indentation
         result = result.replace(/\f /g, "\n\t").replace(/\f/g, "\n\t");
     }
-
-    result = result.replace(/NEWLINE/g, "\n\n");
-    result = result.replace(/  /g, " ");
 
     return result;
 }

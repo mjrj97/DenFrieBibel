@@ -35,7 +35,8 @@
       "text": "\fat forkynde din nåde om morgenen\fog din trofasthed om natten,",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »sandhed«.",
+          "text": "Kan også oversættes: »sandhed«.",
+          "type": "T",
           "position": 51
         }
       ],
@@ -46,7 +47,8 @@
       "text": "\ftil tistrenget lyre og til harpe,\ftil strengespil på citer.",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »til tistrenget«. Man går ud fra at der er tænkt på en lyre (eller harpe), udseendet er ukendt.",
+          "text": "Ordret blot: »til tistrenget«. Man går ud fra at der er tænkt på en lyre (eller harpe), udseendet er ukendt.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -68,7 +70,8 @@
       "text": "\fEn stupid person kender det ikke,\fog en tåbe forstår ikke dette.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens *baʕar* betyder: »kvæg«. Det bruges her som betegnelse for et menneske uden ånd.",
+          "text": "Grundtekstens *baʕar* betyder: »kvæg«. Det bruges her som betegnelse for et menneske uden ånd.",
+          "type": "T",
           "position": 10
         }
       ],
@@ -94,7 +97,8 @@
       "text": "\fDu løftede mit horn som en vildokse,\fdu har overgydt mig med frisk olie.",
       "footnotes": [
         {
-          "text": "E: Grundteksten har: *ballōtî*: »jeg har overgydt«. I sammenhængen er det utænkeligt at salmisten har overgydt sig selv, men den passive betydning af verbet findes ikke andre steder i GT, så der kan næppe oversættes: »jeg er blevet overgydt«. Oftest retter man – med nogle af de gamle oversættelser – til: *ballōtanî*: »du har overgydt mig«.",
+          "text": "Grundteksten har: *ballōtî*: »jeg har overgydt«. I sammenhængen er det utænkeligt at salmisten har overgydt sig selv, men den passive betydning af verbet findes ikke andre steder i GT, så der kan næppe oversættes: »jeg er blevet overgydt«. Oftest retter man – med nogle af de gamle oversættelser – til: *ballōtanî*: »du har overgydt mig«.",
+          "type": "E",
           "position": 57
         }
       ],
@@ -105,7 +109,8 @@
       "text": "\fMit øje så med fryd på mine fjender,\fmine ører hørte med fryd om de onde som står mig imod.",
       "footnotes": [
         {
-          "text": "E: Grundteksten har: *šûrāʸ*: »mine mure«. De gamle oversættelser forudsætter: *šōrᵊrāʸ*: »mine fjender«. Ud fra sammenhængen vælger man at følge denne læsemåde.",
+          "text": "Grundteksten har: *šûrāʸ*: »mine mure«. De gamle oversættelser forudsætter: *šōrᵊrāʸ*: »mine fjender«. Ud fra sammenhængen vælger man at følge denne læsemåde.",
+          "type": "E",
           "position": 37
         }
       ],
@@ -121,7 +126,8 @@
       "text": "\fDe som er plantet i JHVHs hus,\fskal skyde op i vor Guds forgårde.",
       "footnotes": [
         {
-          "text": "T: Det er en ofte brugt betegnelse i GT for templet.",
+          "text": "Det er en ofte brugt betegnelse i GT for templet.",
+          "type": "T",
           "position": 31
         }
       ],

@@ -20,7 +20,8 @@
       "title": "Faste og lydighed",
       "footnotes": [
         {
-          "text": "T: regeringsår.",
+          "text": "regeringsår.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -31,11 +32,13 @@
       "text": "\fBetel havde sendt Sar-ezer, Regem-Melek og hans mænd for at søge JHVHs gunst,",
       "footnotes": [
         {
-          "text": "E: Der er forskellige fortolkninger af, hvordan Betel skal forstås i sammenhæng med de andre navne. Nogle mener, at Betel lægger sig til Sar-Ezer som et sammensat navn. Andre foreslår, at Betel er subjekt, og at personnavnene lægger sig som appositioner til Betel. Andre igen foreslår, at Betel er subjekt, og personnavnene er objekter. Fordelen er, at verbet får et objekt, men normalt ville man forvente en eksplicit objekt-markør i teksten, hvilket her ikke er tilfældet.",
+          "text": "Der er forskellige fortolkninger af, hvordan Betel skal forstås i sammenhæng med de andre navne. Nogle mener, at Betel lægger sig til Sar-Ezer som et sammensat navn. Andre foreslår, at Betel er subjekt, og at personnavnene lægger sig som appositioner til Betel. Andre igen foreslår, at Betel er subjekt, og personnavnene er objekter. Fordelen er, at verbet får et objekt, men normalt ville man forvente en eksplicit objekt-markør i teksten, hvilket her ikke er tilfældet.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: »at søge JHVHs gunst« bygger på en tanke om, at JHVH er den himmelske konge, man kan søge audiens hos og komme med et ydmygt ønske. Samme ord bruges to gange i Zak 8,21-22.",
+          "text": "»at søge JHVHs gunst« bygger på en tanke om, at JHVH er den himmelske konge, man kan søge audiens hos og komme med et ydmygt ønske. Samme ord bruges to gange i Zak 8,21-22.",
+          "type": "E",
           "position": 78
         }
       ],
@@ -46,7 +49,8 @@
       "text": "idet de skulle sige til præsterne, som var ved Hærskarers JHVHvs hus, og til profeterne: »Skal vi mon græde i den femte måned og være afholdende, som vi har gjort i så mange år nu?«",
       "footnotes": [
         {
-          "text": "E: Ordret »jeg« som dog må forstås kollektivt.",
+          "text": "Ordret »jeg« som dog må forstås kollektivt.",
+          "type": "E",
           "position": 97
         }
       ],

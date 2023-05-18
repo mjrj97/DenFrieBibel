@@ -28,11 +28,13 @@
       "title": "Truslen fra Assyrien. JHVH kalder folket til omvendelse",
       "footnotes": [
         {
-          "text": "T: Meningen er: »med tydelig, alment læselig skrift«",
+          "text": "Meningen er: »med tydelig, alment læselig skrift«",
+          "type": "T",
           "position": 87
         },
         {
-          "text": "E: Hebraisk: *lᵊmahēr šālāl ḥāš baz*. Det indledende *lᵊ* er ikke oversat. Det bruges på mindesten til at angive at den er »for …«.",
+          "text": "Hebraisk: *lᵊmahēr šālāl ḥāš baz*. Det indledende *lᵊ* er ikke oversat. Det bruges på mindesten til at angive at den er »for …«.",
+          "type": "E",
           "position": 123
         }
       ],
@@ -48,7 +50,8 @@
       "text": "\t\tSå gik jeg ind til profetinden,\t\t\t\tog hun blev gravid\t\t\t\tog fødte en søn;\t\t\tog HERREN sagde til mig:\t\t\t\t»Kald ham: Hurtigt bytte - hastigt rov,",
       "footnotes": [
         {
-          "text": "T: Ordret: »nærmede mig«. Formuleringen dækker over intimt samvær.",
+          "text": "Ordret: »nærmede mig«. Formuleringen dækker over intimt samvær.",
+          "type": "T",
           "position": 20
         }
       ],
@@ -59,7 +62,8 @@
       "text": "\t\t\t\t\tfor\t\t\t\t\t\t\tfør barnet forstår\t\t\t\t\t\t\t\tat kalde ›Min far og min mor!‹\t\t\t\t\t\tskal man bringe Damaskus’ rigdom og Samarias bytte hen til kongen af Assyrien«",
       "footnotes": [
         {
-          "text": "T: Ordret: »hen foran Assyriens konges ansigt«.",
+          "text": "Ordret: »hen foran Assyriens konges ansigt«.",
+          "type": "T",
           "position": 155
         }
       ],
@@ -75,11 +79,13 @@
       "text": "\f\t\t\t\t\t»Fordi dette folk \fhar forkastet \fSiloas vande\t\t\t\t\t\t\tder flyder sagte,\t\t\t\t\t\t\t\tog der er glæde over Resin  og Remaljas søn,",
       "footnotes": [
         {
-          "text": "E: Der er foreslået forskellige rettelser til den hebraiske tekst, mest oplagt: *mᵊśôś ʔet* til: *māsôs miśśʔet*: »har mistet modet«. Rettelsen har dog ingen støtte i hebraiske håndskrifter.",
+          "text": "Der er foreslået forskellige rettelser til den hebraiske tekst, mest oplagt: *mᵊśôś ʔet* til: *māsôs miśśʔet*: »har mistet modet«. Rettelsen har dog ingen støtte i hebraiske håndskrifter.",
+          "type": "E",
           "position": 99
         },
         {
-          "text": "T: Ordret: »med«.",
+          "text": "Ordret: »med«.",
+          "type": "T",
           "position": 104
         }
       ],
@@ -90,7 +96,8 @@
       "text": "\f\t\t\t\t\t\tse, derfor lader Herren flodens vande kommer over dem, \fde mægtige og mange \f– Assyriens konge og hele hans herlighed – \f\t\t\t\t\t\t\t\tog den skal stige op over alle sine flodlejer \f\t\t\t\t\t\t\t\tog gå over alle sine bredder;",
       "footnotes": [
         {
-          "text": "T: Det er Eufrat.",
+          "text": "Det er Eufrat.",
+          "type": "T",
           "position": 38
         }
       ],
@@ -101,15 +108,18 @@
       "text": "\f\t\t\t\t\t\t\t\tden trænger ind i Juda, \f\t\t\t\t\t\t\toversvømmer\t\t\t\t\t\t\t\t\tog går op over; \f\t\t\t\t\t\t\t\tden skal nå til halsen. \f\t\t\t\t\t\t\t\t\tOg hans spredte vinger \fskal fylde dit land så langt det er. \f\t\t\t\t\t\t\t\t\t\tGud med os!",
       "footnotes": [
         {
-          "text": "T: Der er muligvis tænkt på at vandet stiger over højene.",
+          "text": "Der er muligvis tænkt på at vandet stiger over højene.",
+          "type": "T",
           "position": 76
         },
         {
-          "text": "T: Kan også oversættes: »dens«. Det hebraiske ord kan gå på både assyrerkongen og floden.",
+          "text": "Kan også oversættes: »dens«. Det hebraiske ord kan gå på både assyrerkongen og floden.",
+          "type": "T",
           "position": 127
         },
         {
-          "text": "E: Hebraisk: *ʕimmānû ʔēl*. I 7,14 og Matt 1,23 er det opfattet som navn på den kommende søn. På hebraisk er det to ord – det er usikkert om det her og i vers 10 er et navn eller en bøn eller tillidserklæring.",
+          "text": "Hebraisk: *ʕimmānû ʔēl*. I 7,14 og Matt 1,23 er det opfattet som navn på den kommende søn. På hebraisk er det to ord – det er usikkert om det her og i vers 10 er et navn eller en bøn eller tillidserklæring.",
+          "type": "E",
           "position": 203
         }
       ],
@@ -125,11 +135,13 @@
       "text": "\f\t\t\t\tLæg en plan,\t\t\t\t\tmen den vil blive til intet! \f\t\t\t\tUdsted en ordre, \f\t\t\t\t\tmen den vil ikke blive udført! \f\t\t\t\t\t\tFor Gud er med os!«",
       "footnotes": [
         {
-          "text": "T: Ordret: »tal et ord«.",
+          "text": "Ordret: »tal et ord«.",
+          "type": "T",
           "position": 72
         },
         {
-          "text": "T: Hebraisk: »Immanuel«.",
+          "text": "Hebraisk: »Immanuel«.",
+          "type": "T",
           "position": 136
         }
       ],
@@ -150,7 +162,8 @@
       "text": "\f\t\t\t\tHærskarers HERRE,\t\t\t\t\t\t\t\t\than skal være hellig for jer; \f\t\t\t\t\t\t\t\than skal være genstand for jeres frygt, \f\t\t\t\t\t\t\t\tog han skal være jeres rædsel.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 22
         }
       ],
@@ -171,7 +184,8 @@
       "text": "\f\t\t\t\t\t\tBind til for vidnesbyrdet,\f\t\t\t\t\t\t\t\tforsegl loven hos mine disciple!«",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord »tora« kan også i sammenhængen oversættes: »belæring/vejledning«. Disse betydninger ligger også i det hebraiske ord.",
+          "text": "Det hebraiske ord »tora« kan også i sammenhængen oversættes: »belæring/vejledning«. Disse betydninger ligger også i det hebraiske ord.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -187,7 +201,8 @@
       "text": "\f\t\t\t\t\t\t\tSe, her er jeg og de børn \f\t\t\t\t\t\t\t\t\tsom JHVH har givet mig,\t\t\t\t\t\t\t\ttil tegn og varsler i Israel fra Hærskarers HERRE,\f\t\t\t\t\t\t\t\t\tder bor på Zions bjerg.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 125
         }
       ],
@@ -198,7 +213,8 @@
       "text": "\f\t\t\t\t\tOg når de siger til jer:\t\t\t\t\t\t\t»Konsulter dødemanerne og sandsigerne,\t\t\t\t\t\t\t\tder hvisker\t\t\t\t\t\t\t\t\tog mumler.\t\t\t\t\t\t« Skal et folk ikke søge til sin Gud?\t\t\t\t\t\t\t\tSøge til de døde frem for de levende?",
       "footnotes": [
         {
-          "text": "T: Meningen må være at folket skal svare: »Skal et folk ikke …«",
+          "text": "Meningen må være at folket skal svare: »Skal et folk ikke …«",
+          "type": "T",
           "position": 125
         }
       ],
@@ -214,7 +230,8 @@
       "text": "\f\t\t\t\t\t\t\t\tHan skal drage igennem det,\t\t\t\t\t\t\t\t\tplaget\t\t\t\t\t\t\t\t\t\tog sulten; \f\t\t\t\t\t\t\t\tog\t\t\t\t\t\t\t\t\tnår han sulter,\t\t\t\t\t\t\t\t\t\tvil han blive rasende \f\t\t\t\t\t\t\t\t\t\tog forbande sin konge og sin Gud. \f\t\t\t\t\t\t\t\t\t\tOg er han vendt mod det høje,",
       "footnotes": [
         {
-          "text": "T: Landet.",
+          "text": "Landet.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -231,15 +248,18 @@
       "title": "Davidssønnens fødsel og virke",
       "footnotes": [
         {
-          "text": "T: Landet.",
+          "text": "Landet.",
+          "type": "T",
           "position": 54
         },
         {
-          "text": "T: Ordret: »Havets Vej«.",
+          "text": "Ordret: »Havets Vej«.",
+          "type": "T",
           "position": 269
         },
         {
-          "text": "T: Kan også oversættes: »hedningernes«.",
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
           "position": 315
         }
       ],

@@ -29,7 +29,8 @@
       "text": "Ja, også i den sukker vi, længselsfulde efter at blive iklædt vores bolig fra himmelen,",
       "footnotes": [
         {
-          "text": "T: den jordiske teltbolig.",
+          "text": "den jordiske teltbolig.",
+          "type": "T",
           "position": 14
         }
       ],
@@ -40,7 +41,8 @@
       "text": "så sandt vi da som påklædte ikke skal findes nøgne.",
       "footnotes": [
         {
-          "text": "T: dvs. uden legeme, i dødsriget, jfr. v. 4.",
+          "text": "dvs. uden legeme, i dødsriget, jfr. v. 4.",
+          "type": "T",
           "position": 51
         }
       ],
@@ -111,7 +113,8 @@
       "text": "Sådan ved vi fra nu af ikke af nogen efter kødet; selvom vi også har kendt Kristus efter kødet, gør vi det dog ikke mere nu.",
       "footnotes": [
         {
-          "text": "T: efter det ydre",
+          "text": "efter det ydre",
+          "type": "T",
           "position": 48
         }
       ],

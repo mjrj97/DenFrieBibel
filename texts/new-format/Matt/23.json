@@ -29,7 +29,8 @@
       "text": "og sagde: »De skriftlærde og farisæerne har sat sig på Moses’ stol.",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 25
         }
       ],
@@ -95,7 +96,8 @@
       "text": "Men ve jer, skriftlærde og farisæere, hyklere, for I æder enkers huse op og beder længe for et syns skyld, derfor skal I modtage en hårdere dom.",
       "footnotes": [
         {
-          "text": "T: Verset mangler i de ældste og bedste håndskrifter",
+          "text": "Verset mangler i de ældste og bedste håndskrifter",
+          "type": "T",
           "position": 144
         }
       ],

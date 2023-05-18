@@ -20,7 +20,8 @@
       "title": "Synet om de fire stridsvogne",
       "footnotes": [
         {
-          "text": "E: *yaṣaˀ* betyder oftest »går ud«, men dækker et bredt betydningsspektrum. I denne sammenhæng giver det mest mening at forstå det som noget, som kommer til syne. Ordet forekommer i øvrigt syv gange mellem v. 1-8: v. 1, 5, 6 (x 3), 7, 8. I denne oversættelse er ordet oversat forskelligt fra vers til vers.",
+          "text": "*yaṣaˀ* betyder oftest »går ud«, men dækker et bredt betydningsspektrum. I denne sammenhæng giver det mest mening at forstå det som noget, som kommer til syne. Ordet forekommer i øvrigt syv gange mellem v. 1-8: v. 1, 5, 6 (x 3), 7, 8. I denne oversættelse er ordet oversat forskelligt fra vers til vers.",
+          "type": "E",
           "position": 63
         }
       ],
@@ -31,7 +32,8 @@
       "text": "For den første vogn var der røde heste, for den anden vogn sorte heste, for den tredje vogn hvide heste, og for den fjerde vogn spraglede heste; det var stærke dyr.",
       "footnotes": [
         {
-          "text": "E: 1871-oversættelsen knytter »stærke« til de spraglede heste, men i v. 7 bruges samme ord som en fælles betegnelse for alle heste.",
+          "text": "1871-oversættelsen knytter »stærke« til de spraglede heste, men i v. 7 bruges samme ord som en fælles betegnelse for alle heste.",
+          "type": "E",
           "position": 164
         }
       ],
@@ -62,7 +64,8 @@
       "text": "Da råbte han til mig: »Se, de som drager mod nordens land, har bragt min Ånd til hvile i nordens land.«",
       "footnotes": [
         {
-          "text": "E: Afhængigt af, om man forstår sætningen, som noget der angår datid eller fremtid, giver det forskellige tolkninger. Verbet er dog i perfektiv, hvilket taler for at forstå det som datid.",
+          "text": "Afhængigt af, om man forstår sætningen, som noget der angår datid eller fremtid, giver det forskellige tolkninger. Verbet er dog i perfektiv, hvilket taler for at forstå det som datid.",
+          "type": "E",
           "position": 103
         }
       ],
@@ -84,7 +87,8 @@
       "text": "Ja, tag sølv og guld og lav en krone. Sæt den på ypperstepræsten Josvas, Josadaks søns, hoved,",
       "footnotes": [
         {
-          "text": "T: I grundteksten står der kroner i flertal, men i vers 14 er det efterfulgt af et verbum i ental, så der er sandsynligvis tale om blot én krone.",
+          "text": "I grundteksten står der kroner i flertal, men i vers 14 er det efterfulgt af et verbum i ental, så der er sandsynligvis tale om blot én krone.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -95,7 +99,8 @@
       "text": "og sig til ham: ›Således siger Hærskarers JHVHv: Se, en mand ved navn Semak skal skyde frem fra sit sted, og han skal bygge JHVHs tempel.",
       "footnotes": [
         {
-          "text": "T: Semak betyder »spire«, men er her beholdt som et navn eller en titel.",
+          "text": "Semak betyder »spire«, men er her beholdt som et navn eller en titel.",
+          "type": "T",
           "position": 75
         }
       ],
@@ -106,11 +111,13 @@
       "text": "Han skal bygge JHVHs tempel, og han skal have kongeværdighed. Han skal sidde og herske på sin trone, og han skal være præst på sin trone. Imellem dem skal der være fredsråd.",
       "footnotes": [
         {
-          "text": "E: En anden mulighed er »en præst skal sidde på sin trone«.",
+          "text": "En anden mulighed er »en præst skal sidde på sin trone«.",
+          "type": "E",
           "position": 137
         },
         {
-          "text": "E: Det er vanskeligt at afgøre, om der er tænkt på to personer – en konge og en præst – eller om det er én person, der deler begge titler. Semak-titlen taler for sidste mulighed, mens sidste del af sætningen taler for, at der er to forskellige personer.",
+          "text": "Det er vanskeligt at afgøre, om der er tænkt på to personer – en konge og en præst – eller om det er én person, der deler begge titler. Semak-titlen taler for sidste mulighed, mens sidste del af sætningen taler for, at der er to forskellige personer.",
+          "type": "E",
           "position": 173
         }
       ],

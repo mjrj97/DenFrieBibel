@@ -29,7 +29,8 @@
       "text": "for jeg ville ikke vide af noget iblandt jer undtagen Jesus Kristus og ham som korsfæstet;",
       "footnotes": [
         {
-          "text": "T: d. e. og det som korsfæstet, 1. Kor 1,23.",
+          "text": "d. e. og det som korsfæstet, 1. Kor 1,23.",
+          "type": "T",
           "position": 74
         }
       ],
@@ -95,7 +96,8 @@
       "text": "\fMen det sjælelige menneske tager ikke imod de ting, der hører Guds Ånd til; for de er en tåbelighed for ham, og han kan ikke erkende dem, de bedømmes nemlig åndeligt.",
       "footnotes": [
         {
-          "text": "T: d. e. det uåndelige.",
+          "text": "d. e. det uåndelige.",
+          "type": "T",
           "position": 18
         }
       ],

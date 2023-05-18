@@ -44,7 +44,8 @@
       "text": "JHVH kom ned i skyen og stillede sig der hos ham og udråbte JHVHs navn.",
       "footnotes": [
         {
-          "text": "T: Sidste del af sætningen oversættes forskelligt. Nogle vælger at supplere med Moses’ navn og oversætte: »Moses påkaldte JHVHs navn«. Problemet er at Moses ikke er nævnt. Andre oversætter: »udråbte sit navn: JHVH«. Problemet her er at den hebraiske tekst ikke har det personlige pronomen: »sit«. Meningen er formodentlig at de følgende vers specificerer det JHVH udråber.",
+          "text": "Sidste del af sætningen oversættes forskelligt. Nogle vælger at supplere med Moses’ navn og oversætte: »Moses påkaldte JHVHs navn«. Problemet er at Moses ikke er nævnt. Andre oversætter: »udråbte sit navn: JHVH«. Problemet her er at den hebraiske tekst ikke har det personlige pronomen: »sit«. Meningen er formodentlig at de følgende vers specificerer det JHVH udråber.",
+          "type": "T",
           "position": 71
         }
       ],
@@ -55,11 +56,13 @@
       "text": "JHVH gik forbi ham og råbte: »JHVH, JHVH er en barmhjertig og nådig Gud, sen til vrede og mægtig i nåde og sandhed,",
       "footnotes": [
         {
-          "text": "T: Ordret: »for hans ansigt«.",
+          "text": "Ordret: »for hans ansigt«.",
+          "type": "T",
           "position": 18
         },
         {
-          "text": "T: Man kan overveje, om der er tale om en nominalsætning så der skulle oversættes: »JHVH er JHVH«. Verbet »er« bruges ikke i præsens i hebraisk.",
+          "text": "Man kan overveje, om der er tale om en nominalsætning så der skulle oversættes: »JHVH er JHVH«. Verbet »er« bruges ikke i præsens i hebraisk.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -70,7 +73,8 @@
       "text": "som bevarer nåde mod tusinder, tilgiver skyld og overtrædelse og synd, men som afgjort ikke lader ustraffet, som hjemsøger fædrenes skyld på børn og på børnebørn, på dem i tredje og på dem i fjerde led.«",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *nqh* (»lade ustraffet«) to gange: Først som infinitiv absolutus og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *nqh* (»lade ustraffet«) to gange: Først som infinitiv absolutus og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -86,7 +90,8 @@
       "text": "og han sagde: »Hvis jeg virkelig har fundet nåde for dine øjne, Herre, så beder jeg, Herre, gå nu blandt os; for det er et stivnakket folk, men tilgiv os vor skyld og vor synd, og gør os til din arvelod!«",
       "footnotes": [
         {
-          "text": "T: Sætningen kan også oversættes: »men du har tilgivet os vor skyld og synd og gjort os til din arvelod.« I sammenhængen er det dog rimeligere at opfatte den som ydmyg bøn.",
+          "text": "Sætningen kan også oversættes: »men du har tilgivet os vor skyld og synd og gjort os til din arvelod.« I sammenhængen er det dog rimeligere at opfatte den som ydmyg bøn.",
+          "type": "T",
           "position": 204
         }
       ],
@@ -97,7 +102,8 @@
       "text": "Han sagde: »Se, jeg vil slutte en pagt – foran hele dit folk vil jeg gøre undere som ikke er skabt på hele jorden eller hos noget folkeslag; og hele det folk, i hvis midte du er, skal se JHVHs gerning; for frygtindgydende er det som jeg skal gøre med dig.",
       "footnotes": [
         {
-          "text": "T: Mange oversætter: »for dig«, men *ʕim* angiver her, hvad der vil ske når JHVH går med Moses og folket.",
+          "text": "Mange oversætter: »for dig«, men *ʕim* angiver her, hvad der vil ske når JHVH går med Moses og folket.",
+          "type": "T",
           "position": 255
         }
       ],
@@ -109,7 +115,8 @@
       "title": "Advarsel mod at blive som andre",
       "footnotes": [
         {
-          "text": "T: Ordret: »bort fra dit ansigt«.",
+          "text": "Ordret: »bort fra dit ansigt«.",
+          "type": "T",
           "position": 157
         }
       ],
@@ -120,7 +127,8 @@
       "text": "Vogt dig for at slutte pagt med nogen indbygger i landet du kommer ind i, for at han ikke skal blive en snare i din midte.",
       "footnotes": [
         {
-          "text": "T: Ordret: »med en landets indbygger«.",
+          "text": "Ordret: »med en landets indbygger«.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -131,7 +139,8 @@
       "text": "Derimod skal I bryde deres altre ned og sønderbryde deres stenstøtter og hugge deres Ashera-pæle om –",
       "footnotes": [
         {
-          "text": "T: I den hebraiske tekst tales der blot om »ashera’er«. Det er usikkert om det drejer sig om »pæle« eller gudebilleder.",
+          "text": "I den hebraiske tekst tales der blot om »ashera’er«. Det er usikkert om det drejer sig om »pæle« eller gudebilleder.",
+          "type": "T",
           "position": 96
         }
       ],
@@ -147,7 +156,8 @@
       "text": "– så at du ikke slutter pagt med nogen indbygger i landet, de horer med deres guder og ofrer til deres guder, og så indbyder en dig, så du spiser af hans offer;",
       "footnotes": [
         {
-          "text": "T: Ordret: »med en landets indbygger«.",
+          "text": "Ordret: »med en landets indbygger«.",
+          "type": "T",
           "position": 58
         }
       ],
@@ -174,7 +184,8 @@
       "text": "Alt det som åbner moderliv, tilhører mig, også hvert handyr af dit kvæg, førstefødt okse eller småkvæg.",
       "footnotes": [
         {
-          "text": "T: Grundteksten har: *tizzāxār* der skulle oversættes: »bliver husket«. Det er i øvrigt femininum der er vanskeligt at indplacere i sammenhængen. Normalt går man ud fra at der skulle stå: *hāzzāxār*: »handyr«. Denne forståelse støttes af de gamle oversættelser.",
+          "text": "Grundteksten har: *tizzāxār* der skulle oversættes: »bliver husket«. Det er i øvrigt femininum der er vanskeligt at indplacere i sammenhængen. Normalt går man ud fra at der skulle stå: *hāzzāxār*: »handyr«. Denne forståelse støttes af de gamle oversættelser.",
+          "type": "T",
           "position": 59
         }
       ],
@@ -185,7 +196,8 @@
       "text": "Det førstefødte æsel kan du løskøbe med et stykke småkvæg, men hvis du ikke vil frikøbe det, skal du brække halsen på det. Enhver førstefødt blandt dine sønner skal du løskøbe, og ingen må vise sig for mig tomhændet.",
       "footnotes": [
         {
-          "text": "T: Ordret: »for mit ansigt«.",
+          "text": "Ordret: »for mit ansigt«.",
+          "type": "T",
           "position": 205
         }
       ],
@@ -206,7 +218,8 @@
       "text": "Tre gange om året skal alt dit mandkøn vise sig for Herren JHVH, Israels Gud.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Guds ansigt«, ligesom i det følgende vers.",
+          "text": "Ordret: »Guds ansigt«, ligesom i det følgende vers.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -217,7 +230,8 @@
       "text": "For jeg vil drive folkeslag bort fra dig og udvide din grænse; og ingen skal begære din jord når du drager op for at vise dig for JHVH, din Gud, tre gange om året.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »dit land«.",
+          "text": "Kan også oversættes: »dit land«.",
+          "type": "T",
           "position": 92
         }
       ],
@@ -244,7 +258,8 @@
       "text": "Og han var dér hos JHVH fyrre dage og fyrre nætter, han spiste ikke brød og drak ikke vand; og han skrev pagtens ord, de ti ord på tavlerne.",
       "footnotes": [
         {
-          "text": "E: Ifølge vers 1 og 5 Mos. 4, 13 er meningen at det er JHVH der skriver på tavlerne.",
+          "text": "Ifølge vers 1 og 5 Mos. 4, 13 er meningen at det er JHVH der skriver på tavlerne.",
+          "type": "E",
           "position": 98
         }
       ],
@@ -256,7 +271,8 @@
       "title": "Moses’ skinnende ansigt",
       "footnotes": [
         {
-          "text": "E: det er JHVH.",
+          "text": "det er JHVH.",
+          "type": "E",
           "position": 193
         }
       ],

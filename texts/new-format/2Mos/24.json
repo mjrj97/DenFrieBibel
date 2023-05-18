@@ -24,7 +24,8 @@
       "title": "Pagtslutningen på Sinaj",
       "footnotes": [
         {
-          "text": "E: Der er tale om tilbedelse, hvor den tilbedende knæler ned og bøjer panden ned mod jorden.",
+          "text": "Der er tale om tilbedelse, hvor den tilbedende knæler ned og bøjer panden ned mod jorden.",
+          "type": "E",
           "position": 121
         }
       ],
@@ -45,7 +46,8 @@
       "text": "Moses skrev alle JHVHs ord ned, og han stod op tidligt om morgenen og byggede et alter neden for bjerget og rejste tolv stenstøtter svarende til Israels tolv stammer.",
       "footnotes": [
         {
-          "text": "T: Dette ord er underforstået i forlængelse af »byggede«, idet grundteksten ikke har noget verbum her. En anden oversættelse kunne være: »byggede et alter neden for bjerget, nemlig af tolv stenstøtter for Israels tolv stammer«.",
+          "text": "Dette ord er underforstået i forlængelse af »byggede«, idet grundteksten ikke har noget verbum her. En anden oversættelse kunne være: »byggede et alter neden for bjerget, nemlig af tolv stenstøtter for Israels tolv stammer«.",
+          "type": "T",
           "position": 114
         }
       ],
@@ -56,15 +58,18 @@
       "text": "Han sendte de unge mænd af Israels børn, og de ofrede brændofre, og de ofrede unge tyre som måltidsofre til JHVH.",
       "footnotes": [
         {
-          "text": "E: Der er formodentlig tænkt på de førstefødte.",
+          "text": "Der er formodentlig tænkt på de førstefødte.",
+          "type": "E",
           "position": 23
         },
         {
-          "text": "E: Det er ofre, hvor hele dyret ofres til Gud. En meningsfuld oversættelse af det hebraiske *ʕōlāʰ* kunne være: »heldyrsofre«. Se 3 Mos 1,3-17.",
+          "text": "Det er ofre, hvor hele dyret ofres til Gud. En meningsfuld oversættelse af det hebraiske *ʕōlāʰ* kunne være: »heldyrsofre«. Se 3 Mos 1,3-17.",
+          "type": "E",
           "position": 64
         },
         {
-          "text": "E: Det er ofre, hvor fedt, nyrer og lever brændes, mens resten spises af den ofrende og hans husstand. En meningsfuld oversættelse af *zevaḥ šelem* kunne være: »fællesskabsofre« som udtryk for fællesskab mellem Gud og de ofrende. Se 3 Mos 3,1-17.",
+          "text": "Det er ofre, hvor fedt, nyrer og lever brændes, mens resten spises af den ofrende og hans husstand. En meningsfuld oversættelse af *zevaḥ šelem* kunne være: »fællesskabsofre« som udtryk for fællesskab mellem Gud og de ofrende. Se 3 Mos 3,1-17.",
+          "type": "E",
           "position": 103
         }
       ],
@@ -115,11 +120,13 @@
       "text": "Og til de ældste sagde han: »Vent her på os indtil vi kommer tilbage til jer; og se, Aron og Hur er hos jer, den der har stridigheder må henvende sig til dem.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »bliv her for os«.",
+          "text": "Ordret: »bliv her for os«.",
+          "type": "T",
           "position": 43
         },
         {
-          "text": "T: *dᵊvār* har en bred betydning. I sammenhængen er der nok tænkt på tvister eller retssager, men ordet – der oftest skal oversættes: »ord« – kan også oversættes mere alment: »sag«.",
+          "text": "*dᵊvār* har en bred betydning. I sammenhængen er der nok tænkt på tvister eller retssager, men ordet – der oftest skal oversættes: »ord« – kan også oversættes mere alment: »sag«.",
+          "type": "T",
           "position": 133
         }
       ],
@@ -135,11 +142,13 @@
       "text": "og JHVHs herlighed sænkede sig ned over Sinajs bjerg, og skyen dækkede det i seks dage, og på den syvende dag kaldte han på Moses inde fra skyen.",
       "footnotes": [
         {
-          "text": "T: Verbet: *škn* skal i mange sammenhænge oversættes: »bo/tage bolig«, men her er der tale om en tidsbegrænset tilstedeværelse, ikke om at JHVHs herlighed bliver på bjerget og gør det til central helligdom.",
+          "text": "Verbet: *škn* skal i mange sammenhænge oversættes: »bo/tage bolig«, men her er der tale om en tidsbegrænset tilstedeværelse, ikke om at JHVHs herlighed bliver på bjerget og gør det til central helligdom.",
+          "type": "T",
           "position": 34
         },
         {
-          "text": "T: Ordret: »fra skyens midte«.",
+          "text": "Ordret: »fra skyens midte«.",
+          "type": "T",
           "position": 145
         }
       ],
@@ -150,7 +159,8 @@
       "text": "For Israels børns øjne fremtrådte JHVHs herlighed som en fortærende ild på bjergets top.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens sætning vender anderledes: »JHVHs herligheds udseende var som en fortærende ild på bjergets top for Israels børns øjne«",
+          "text": "Grundtekstens sætning vender anderledes: »JHVHs herligheds udseende var som en fortærende ild på bjergets top for Israels børns øjne«",
+          "type": "T",
           "position": 88
         }
       ],

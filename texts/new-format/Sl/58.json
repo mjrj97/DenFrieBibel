@@ -24,15 +24,18 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "T: Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt - salme",
+          "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt - salme",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "T: Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-57; 59-60) fastholde en alvorlig situation i folkets erindring.",
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-57; 59-60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -44,7 +47,8 @@
       "title": "De uretfærdige ledere tiltales",
       "footnotes": [
         {
-          "text": "T: Forståelsen af linjen er usikker. Meningen kan være at ledere og dommere tier, hvor de burde hævde retfærdigheden. Ofte ændrer man dog vokaliseringen af ordet *ʔēlem* (»stumhed«) til *ʔēlîm*: »I guder« eller »I mægtige«. I så fald passer det sidste bedst i sammenhængen.",
+          "text": "Forståelsen af linjen er usikker. Meningen kan være at ledere og dommere tier, hvor de burde hævde retfærdigheden. Ofte ændrer man dog vokaliseringen af ordet *ʔēlem* (»stumhed«) til *ʔēlîm*: »I guder« eller »I mægtige«. I så fald passer det sidste bedst i sammenhængen.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -55,7 +59,8 @@
       "text": "\fNej, i hjertet øver I uret i landet,\fbaner vej for jeres hænders vold.",
       "footnotes": [
         {
-          "text": "T: Ordet »landet« kan evt. henføres til andet halvvers: »baner vej for jeres hænders vold i landet«.",
+          "text": "Ordet »landet« kan evt. henføres til andet halvvers: »baner vej for jeres hænders vold i landet«.",
+          "type": "T",
           "position": 37
         }
       ],
@@ -72,7 +77,8 @@
       "text": "\fDe har gift som en slanges gift,\fde er som en døv kobra der stopper sit øre til",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord *peten* er navn på en giftslange, formodentlig en »kobra« eller lignende.",
+          "text": "Det hebraiske ord *peten* er navn på en giftslange, formodentlig en »kobra« eller lignende.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -94,7 +100,8 @@
       "text": "\fLad dem flyde ud som vand der løber bort,\fhan skal skyde sine pile af som om de er uden kraft,",
       "footnotes": [
         {
-          "text": "E: Ordret: »han rette sine pile som om de er afskårne/afstumpede/uden kraft«. På baggrund af parallellen v. 8a foreslås ofte en omstilling i konsonantteksten: »de skal visne som græs ved vejen«. Omstillingen har dog hverken støtte i hebraiske håndskrifter eller i gamle oversættelser.",
+          "text": "Ordret: »han rette sine pile som om de er afskårne/afstumpede/uden kraft«. På baggrund af parallellen v. 8a foreslås ofte en omstilling i konsonantteksten: »de skal visne som græs ved vejen«. Omstillingen har dog hverken støtte i hebraiske håndskrifter eller i gamle oversættelser.",
+          "type": "E",
           "position": 95
         }
       ],
@@ -110,11 +117,13 @@
       "text": "\fFør jeres gryder mærker tjørnen,\fsom frisk eller som glød, blæser han ham bort.",
       "footnotes": [
         {
-          "text": "T: Underforstået formodentlig: »varmen fra tjørnen«.",
+          "text": "Underforstået formodentlig: »varmen fra tjørnen«.",
+          "type": "T",
           "position": 33
         },
         {
-          "text": "E: Oversættelsen af v. 9-10 er højst usikker. Der er mange forslag til rettelser, men de bliver alle vilkårlige.",
+          "text": "Oversættelsen af v. 9-10 er højst usikker. Der er mange forslag til rettelser, men de bliver alle vilkårlige.",
+          "type": "E",
           "position": 80
         }
       ],
@@ -131,7 +140,8 @@
       "text": "\fog mennesker skal sige:\f»Ja, der er løn til den retfærdige,\fJa, der er en Gud, som dømmer på jorden!«",
       "footnotes": [
         {
-          "text": "T: Ordret: »et menneske«, men det må opfattes kollektivt«.",
+          "text": "Ordret: »et menneske«, men det må opfattes kollektivt«.",
+          "type": "T",
           "position": 13
         }
       ],

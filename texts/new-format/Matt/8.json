@@ -117,7 +117,8 @@
       "text": "En skriftlærd kom og sagde til ham: »Lærer! Jeg vil følge dig hvor som helst du går hen.«",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 13
         }
       ],
@@ -175,7 +176,8 @@
       "text": "Og se, de råbte: »Hvad har vi med dig at gøre, Guds søn? Er du kommet her for at pine os før tiden?«",
       "footnotes": [
         {
-          "text": "T: Der står egentlig: »Hvad for os og for dig,« som betyder at de ikke har noget forhold til hinanden, så Jesus skal lade dem være i fred",
+          "text": "Der står egentlig: »Hvad for os og for dig,« som betyder at de ikke har noget forhold til hinanden, så Jesus skal lade dem være i fred",
+          "type": "T",
           "position": 45
         }
       ],

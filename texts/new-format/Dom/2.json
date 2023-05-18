@@ -41,7 +41,8 @@
       "title": "Israel var lydig mod JHVH så længe Josva levede, og når Gud kaldte en til at være dommer for dem, tjente de JHVH en kort tid, men siden faldt de fra og tilstanden forværredes.{E: Teksten i vers 5 hører sammen med det forudgående. Det er almindeligt at opfatte 2,6-3,6 som den anden indledning til bogen, lige forud for fortællingerne om dommerne.}",
       "footnotes": [
         {
-          "text": "T: Det betyder »de grædende«.",
+          "text": "Det betyder »de grædende«.",
+          "type": "T",
           "position": 27
         }
       ],
@@ -97,7 +98,8 @@
       "text": "gang de drog ud, brugte JHVH sin magt til deres ulykke, sådan som han havde sagt og lovet dem under ed. Og de blev presset til det yderste.",
       "footnotes": [
         {
-          "text": "E: Hebraisk *wayyēṣer lāhem mᵊʔōd* »det.blev.snæver for dem såre« blev i 1871 oversat »og de bleve saare ængstede«, mens DO92 har »de kom i stor nød«. Forslaget her tager højde for det umulige i situationen. I Frihedskampen blev det oversat »Israelitterne kunne ikke stille noget op«",
+          "text": "Hebraisk *wayyēṣer lāhem mᵊʔōd* »det.blev.snæver for dem såre« blev i 1871 oversat »og de bleve saare ængstede«, mens DO92 har »de kom i stor nød«. Forslaget her tager højde for det umulige i situationen. I Frihedskampen blev det oversat »Israelitterne kunne ikke stille noget op«",
+          "type": "E",
           "position": 139
         }
       ],
@@ -123,7 +125,8 @@
       "text": "Men når dommeren døde, handlede de igen ondt og endog værre end deres fædre. De fulgte andre guder, dyrkede dem og tilbad dem, og de holdt ikke op med deres gerninger eller veg bort fra deres trodsige vej.",
       "footnotes": [
         {
-          "text": "E: Ordret oversættelse. Allerede GT1931 forbedrer til »genstridige Færd« og DO92 til »trodsig adfærd«",
+          "text": "Ordret oversættelse. Allerede GT1931 forbedrer til »genstridige Færd« og DO92 til »trodsig adfærd«",
+          "type": "E",
           "position": 205
         }
       ],
@@ -145,7 +148,8 @@
       "text": "Jeg vil bruge dem til at sætte Israel på prøve for at se om de vil blive på JHVHs vej og vandre på den ligesom deres fædre omhyggeligt gjorde.«",
       "footnotes": [
         {
-          "text": "E: Verset er blevet oversat vidt forskelligt op igennem tiden, og 1871 er næsten præcis: »om de vilde tage Vare paa Herrens Vej, at vandre paa den, ligesom deres Fædre toge Vare derpaa, eller ej.« Webb oversætter »- [to see] whether they would observe the way of Yahweh by walking in it as their fathers did, or not.«",
+          "text": "Verset er blevet oversat vidt forskelligt op igennem tiden, og 1871 er næsten præcis: »om de vilde tage Vare paa Herrens Vej, at vandre paa den, ligesom deres Fædre toge Vare derpaa, eller ej.« Webb oversætter »- [to see] whether they would observe the way of Yahweh by walking in it as their fathers did, or not.«",
+          "type": "E",
           "position": 143
         }
       ],

@@ -49,7 +49,8 @@
       "text": "Moses og Aron sagde til alle Israels børn: »I aften skal I forstå at det var JHVH der førte jer ud af Egyptens land;",
       "footnotes": [
         {
-          "text": "E: Det var JHVH og ikke Moses og Aron, der førte folket ud af Egypten, som folket ellers påstod i v. 3.",
+          "text": "Det var JHVH og ikke Moses og Aron, der førte folket ud af Egypten, som folket ellers påstod i v. 3.",
+          "type": "E",
           "position": 116
         }
       ],
@@ -85,7 +86,8 @@
       "text": "»Jeg har hørt Israels børns knurren; tal til dem og sig: ›Lige inden mørket falder på, skal I spise kød, og i morgen skal I mættes af brød; så skal I forstå at jeg er JHVH, jeres Gud.‹«",
       "footnotes": [
         {
-          "text": "T: Ordret: »mellem de to aftner«. Det dækker formodentlig tiden mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.",
+          "text": "Ordret: »mellem de to aftner«. Det dækker formodentlig tiden mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -97,7 +99,8 @@
       "title": " Vagtler og manna",
       "footnotes": [
         {
-          "text": "T: Ordret: »vagtlen«. Det skal formodentlig opfattes kollektivt, men angiver også, at vagteltrækket var et velkendt fænomen.",
+          "text": "Ordret: »vagtlen«. Det skal formodentlig opfattes kollektivt, men angiver også, at vagteltrækket var et velkendt fænomen.",
+          "type": "T",
           "position": 44
         }
       ],
@@ -108,7 +111,8 @@
       "text": "Da duggen som lå der, fordampede, se, da lå der over ørkenens overflade noget tyndt, skælagtigt, tyndt ligesom rimfrost, på jorden.",
       "footnotes": [
         {
-          "text": "T: Ordret: »steg op«. Der er ordspil med v. 13 (»kom op«).",
+          "text": "Ordret: »steg op«. Der er ordspil med v. 13 (»kom op«).",
+          "type": "T",
           "position": 33
         }
       ],
@@ -124,11 +128,13 @@
       "text": "Dette er det ord som JHVH har befalet: ›Enhver skal samle deraf efter hvad han kan spise; I skal tage en omer for hvert hoved, efter det antal personer som hver har i sit telt.‹«",
       "footnotes": [
         {
-          "text": "T: Ordret: »svarende til hans føde«.",
+          "text": "Ordret: »svarende til hans føde«.",
+          "type": "T",
           "position": 89
         },
         {
-          "text": "E: En omer er rummål = 3,9 l, jf. v. 36.",
+          "text": "En omer er rummål = 3,9 l, jf. v. 36.",
+          "type": "E",
           "position": 109
         }
       ],
@@ -211,7 +217,8 @@
       "title": "Note om mannaen",
       "footnotes": [
         {
-          "text": "T: På hebraisk: *mān*, der også betyder: »hvad?«, jf. vers 15.",
+          "text": "På hebraisk: *mān*, der også betyder: »hvad?«, jf. vers 15.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -237,7 +244,8 @@
       "text": "Israels børn spiste mannaen i fyrre år, til de kom til beboet land. De spiste mannaen indtil de kom til grænsen af Kanaans land.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »som kunne beboes«.",
+          "text": "Kan også oversættes: »som kunne beboes«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -248,7 +256,8 @@
       "text": "Omeren er en tiendedel af efaen.",
       "footnotes": [
         {
-          "text": "E: En efa er rummål = 39,3 l, jf. v. 16.",
+          "text": "En efa er rummål = 39,3 l, jf. v. 16.",
+          "type": "E",
           "position": 31
         }
       ],

@@ -27,7 +27,8 @@
       "text": "\t\t\t\tsjæl,pris\t\t\tJHVH!\f\t\tJHVHv, min Gud,\t\t\tdu er meget stor!\f\t\t\t\tDu har iført dig højhed og ære.",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -38,7 +39,8 @@
       "text": "\f\t\t\t\t\t\tDu som er hyllet i lys som kappe,\f\t\t\t\t\t\tsom spænder himlen ud som en teltdug,",
       "footnotes": [
         {
-          "text": "E: Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Der kan oversættes: »Han (som) er hyllet …«, »han spænder …« osv. Det er dog naturligst at se participierne som tæt knyttet til verberne i v.1 som forudsat i oversættelsen her.",
+          "text": "Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Der kan oversættes: »Han (som) er hyllet …«, »han spænder …« osv. Det er dog naturligst at se participierne som tæt knyttet til verberne i v.1 som forudsat i oversættelsen her.",
+          "type": "E",
           "position": 23
         }
       ],
@@ -54,7 +56,8 @@
       "text": "\f\t\t\t\t\t\tsom gør vinde til dine sendebud,\f\t\t\t\t\t\t\t\tflammende ild til dine tjenere.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske ord oversættes i andre sammenhænge: »engle«.",
+          "text": "Det hebraiske ord oversættes i andre sammenhænge: »engle«.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -76,7 +79,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\tDet flygtede for din trussel,\f\t\t\t\t\t\t\t\t\tløb skræmt bort for din tordens skrald.",
       "footnotes": [
         {
-          "text": "T: Ordret: »din tordens røst«.",
+          "text": "Ordret: »din tordens røst«.",
+          "type": "T",
           "position": 88
         }
       ],
@@ -118,7 +122,8 @@
       "text": "\f\t\t\t\t\t\t\t\tHan lader græs gro frem til kvæget\f\t\t\t\t\t\t\t\t\t\t\t\t\tog planter til mennesket at arbejde med\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tfor at frembringe brød af jorden",
       "footnotes": [
         {
-          "text": "T: Ordret: »til menneskets arbejde«. Det kan også oversættes: »menneskets tjeneste«.",
+          "text": "Ordret: »til menneskets arbejde«. Det kan også oversættes: »menneskets tjeneste«.",
+          "type": "T",
           "position": 96
         }
       ],
@@ -129,7 +134,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tog vin\t\t\t\t\t\t\t\t\t\t\t\t\tder glæder et menneskes hjerte,\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tså ansigtet kommer til at stråle af olie,\f\t\t\t\t\t\t\t\t\t\t\tog brød\t\t\t\t\t\t\t\t\t\t\t\tstyrker et menneskes hjerte.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »stråle mere end olie«.",
+          "text": "Kan også oversættes: »stråle mere end olie«.",
+          "type": "T",
           "position": 119
         }
       ],
@@ -171,7 +177,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\tNår solen står op,\t\t\t\t\t\t\t\t\t\t\t\ttrækker de sig tilbage\f\t\t\t\t\t\t\t\t\t\t\t\t\tog lægger sig i deres huler.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »samles de igen«.",
+          "text": "Kan også oversættes: »samles de igen«.",
+          "type": "T",
           "position": 63
         }
       ],
@@ -188,7 +195,8 @@
       "title": "Gud skabte også havenes vrimmel",
       "footnotes": [
         {
-          "text": "E: Ordret: »din skabning«. Det må enten opfattes kollektivt som »skaberværk«, eller man må med mange håndskrifter læse pluralis: »skabninger«.",
+          "text": "Ordret: »din skabning«. Det må enten opfattes kollektivt som »skaberværk«, eller man må med mange håndskrifter læse pluralis: »skabninger«.",
+          "type": "E",
           "position": 144
         }
       ],
@@ -199,7 +207,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\tHer er havet,\t\t\t\t\t\t\t\t\t\t\t\t\t\tstort og vidt til alle sider,\f\t\t\t\t\t\t\t\t\t\t\t\t\tder er en vrimmel\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tuden tal,\f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbåde små og store dyr.",
       "footnotes": [
         {
-          "text": "T: Ordret: »til begge sider«.",
+          "text": "Ordret: »til begge sider«.",
+          "type": "T",
           "position": 68
         }
       ],
@@ -210,15 +219,18 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tDer sejler skibene,\f\t\t\t\t\t\t\t\t\t\t\t\tder er Livjatan,\t\t\t\t\t\t\t\t\t\t\t\t\tsom du skabte\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil at lege med.",
       "footnotes": [
         {
-          "text": "T: Ordret: »går«.",
+          "text": "Ordret: »går«.",
+          "type": "T",
           "position": 25
         },
         {
-          "text": "E: Ordene: »der er« står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: »der går/sejler« styrer også denne linje.",
+          "text": "Ordene: »der er« står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: »der går/sejler« styrer også denne linje.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: »til at lege deri«.",
+          "text": "Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: »til at lege deri«.",
+          "type": "E",
           "position": 119
         }
       ],
@@ -235,7 +247,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\tDu giver dem,\t\t\t\t\t\t\t\t\t\t\t\tog de samler op,\f\t\t\t\t\t\t\t\t\t\t\tdu åbner din hånd,\t\t\t\t\t\t\t\t\t\t\t\tog de mættes med godt.",
       "footnotes": [
         {
-          "text": "E: Verset kan også oversættes: »Hvis du giver dem, samler de op, hvis du åbner din hånd, mættes de med godt«.",
+          "text": "Verset kan også oversættes: »Hvis du giver dem, samler de op, hvis du åbner din hånd, mættes de med godt«.",
+          "type": "E",
           "position": 117
         }
       ],
@@ -246,11 +259,13 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\tDu skjuler dit ansigt,\t\t\t\t\t\t\t\t\t\t\t\tog de forfærdes,\f\t\t\t\t\t\t\t\t\t\t\tdu tager deres ånd tilbage,\t\t\t\t\t\t\t\t\t\t\t\tog de dør\f\t\t\t\t\t\t\t\t\t\t\t\t\tog vender tilbage til deres støv.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »ånde/åndedrag«.",
+          "text": "Kan også oversættes: »ånde/åndedrag«.",
+          "type": "T",
           "position": 92
         },
         {
-          "text": "E: Verset kan også oversættes: »Hvis du skjuler dit ansigt, forfærdes de, hvis du tager deres ånd tilbage, dør de og vender tilbage til deres støv«.",
+          "text": "Verset kan også oversættes: »Hvis du skjuler dit ansigt, forfærdes de, hvis du tager deres ånd tilbage, dør de og vender tilbage til deres støv«.",
+          "type": "E",
           "position": 169
         }
       ],
@@ -261,7 +276,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\tDu sender din Ånd,\t\t\t\t\t\t\t\t\t\t\t\t\tog de skabes,\f\t\t\t\t\t\t\t\t\t\t\t\tog du fornyer jordens skikkelse.",
       "footnotes": [
         {
-          "text": "E: Linjen kan også oversætte: »Hvis du sender din Ånd, skabes de«.",
+          "text": "Linjen kan også oversætte: »Hvis du sender din Ånd, skabes de«.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -283,11 +299,13 @@
       "text": "\f\tJeg vil synge for JHVH så længe jeg lever,\f\tjeg vil lovsynge min Gud så længe jeg er til.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i mit liv«.",
+          "text": "Ordret: »i mit liv«.",
+          "type": "T",
           "position": 44
         },
         {
-          "text": "T: Ordret: »i min varighed«.",
+          "text": "Ordret: »i min varighed«.",
+          "type": "T",
           "position": 91
         }
       ],
@@ -298,7 +316,8 @@
       "text": "\f\t\t\tGid mit digt må behage ham,\f\t\tjeg vil glædes i JHVH.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord (*śîₐḥ*) betyder måske nærmere: »from, bedende tale«.",
+          "text": "Grundtekstens ord (*śîₐḥ*) betyder måske nærmere: »from, bedende tale«.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -309,7 +328,8 @@
       "text": "\f\t\t\tGid syndere må udryddes fra jorden\f\t\t\t\tog ugudelige\t\t\t\t\tikke være til længere!\f\t\t\tMin sjæl,pris\t\tJHVH!\f\tHalleluja!",
       "footnotes": [
         {
-          "text": "T: Mange oversættere lader (med støtte i Septuaginta) »halleluja« være indledning til Sl 105",
+          "text": "Mange oversættere lader (med støtte i Septuaginta) »halleluja« være indledning til Sl 105",
+          "type": "T",
           "position": 118
         }
       ],

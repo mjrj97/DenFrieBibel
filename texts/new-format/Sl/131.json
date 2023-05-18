@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Barnlig tillid",
       "footnotes": [
         {
-          "text": "E: Grundteksten har blot: *gāmul* (her oversat: »mæt barn«). Når verbet: *gml* bruges om børn i GT, betegner det et »fravænnet« barn. Verbets grundbetydning er: »færdig, moden«. I sammenhængen her bruges det formodentlig om et barn der er »færdig med at die = mæt barn«.",
+          "text": "Grundteksten har blot: *gāmul* (her oversat: »mæt barn«). Når verbet: *gml* bruges om børn i GT, betegner det et »fravænnet« barn. Verbets grundbetydning er: »færdig, moden«. I sammenhængen her bruges det formodentlig om et barn der er »færdig med at die = mæt barn«.",
+          "type": "E",
           "position": 65
         }
       ],

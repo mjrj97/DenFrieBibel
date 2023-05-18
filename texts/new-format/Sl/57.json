@@ -24,15 +24,18 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "T: Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+          "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "T: Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56; 58-60) fastholde en alvorlig situation i folkets erindring.",
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56; 58-60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -54,11 +57,13 @@
       "text": "\fHan skal sende fra himlen og frelse mig,\f- den der jager mig, spottede - Sela\fGud skal sende sin nåde og sin sandhed.",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er omdiskuteret. Den valgte er sprogligt den mest sandsynlige, men af indholdsmæssige grunde vælger mange i direkte fortsættelse af den foregående linje: »han gør den der jager mig, til spot«.",
+          "text": "Oversættelsen er omdiskuteret. Den valgte er sprogligt den mest sandsynlige, men af indholdsmæssige grunde vælger mange i direkte fortsættelse af den foregående linje: »han gør den der jager mig, til spot«.",
+          "type": "E",
           "position": 71
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 78
         }
       ],
@@ -69,11 +74,13 @@
       "text": "\fJeg, ja, jeg må ligge blandt løver\fsom fortærer menneskets børn,\fderes tænder er spyd og pile,\fog deres tunge er et skarpt sværd.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Min sjæl«.",
+          "text": "Ordret: »Min sjæl«.",
+          "type": "T",
           "position": 13
         },
         {
-          "text": "E: Meningen må være at modstanderne som rovgriske løver hungrer efter menneskekød.",
+          "text": "Meningen må være at modstanderne som rovgriske løver hungrer efter menneskekød.",
+          "type": "E",
           "position": 48
         }
       ],
@@ -90,11 +97,13 @@
       "title": "Tak",
       "footnotes": [
         {
-          "text": "T: Ordret: »de beredte net«.",
+          "text": "Ordret: »de beredte net«.",
+          "type": "T",
           "position": 16
         },
         {
-          "text": "T: Der er givet forskellige forslag til oversættelsen og til rettelser, men den ordrette oversættelse giver god mening.",
+          "text": "Der er givet forskellige forslag til oversættelsen og til rettelser, men den ordrette oversættelse giver god mening.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -110,7 +119,8 @@
       "text": "\fVågn op, min ære!\fVågn op, du harpe og citer!\fJeg vil vække morgenrøden.",
       "footnotes": [
         {
-          "text": "T: Her omskrivning for »sjæl« eller »personlighed«.",
+          "text": "Her omskrivning for »sjæl« eller »personlighed«.",
+          "type": "T",
           "position": 18
         }
       ],
@@ -126,11 +136,13 @@
       "text": "\fFor din nåde er stor indtil himlene,\fog din sandhed indtil skyerne.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 13
         },
         {
-          "text": "T: Eller: »troskab«.",
+          "text": "Eller: »troskab«.",
+          "type": "T",
           "position": 52
         }
       ],

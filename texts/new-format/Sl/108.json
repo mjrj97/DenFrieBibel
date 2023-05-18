@@ -30,7 +30,8 @@
       "title": "Tak",
       "footnotes": [
         {
-          "text": "E: Her formodentlig synonym for »sjæl« eller »personlighed«. Mange følger dog et betydeligt antal håndskrifter, der har samme tekst som Sl 57,9: »Vågn op, min ære!«. Grundtekstens: * kāvôd* kan også oversættes: »herlighed«; det er da Gud, der kaldes: »min herlighed«.",
+          "text": "Her formodentlig synonym for »sjæl« eller »personlighed«. Mange følger dog et betydeligt antal håndskrifter, der har samme tekst som Sl 57,9: »Vågn op, min ære!«. Grundtekstens: * kāvôd* kan også oversættes: »herlighed«; det er da Gud, der kaldes: »min herlighed«.",
+          "type": "E",
           "position": 64
         }
       ],
@@ -51,11 +52,13 @@
       "text": "\fFor din nåde er stor op over himlene,\fog din sandhed op til skyerne.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 13
         },
         {
-          "text": "T: Eller: »troskab«.",
+          "text": "Eller: »troskab«.",
+          "type": "T",
           "position": 53
         }
       ],
@@ -78,7 +81,8 @@
       "title": "Guds løfte",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hellighed«.",
+          "text": "Kan også oversættes: »hellighed«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -89,7 +93,8 @@
       "text": "\fMig tilhører Gilead, og mig tilhører Manasse,\fog Efraim er mit hoveds hjelm,\fJuda er min herskerstav.",
       "footnotes": [
         {
-          "text": "T: Ordret: »værn«.",
+          "text": "Ordret: »værn«.",
+          "type": "T",
           "position": 77
         }
       ],
@@ -106,7 +111,8 @@
       "title": "Klage og bøn",
       "footnotes": [
         {
-          "text": "T: Mange følger Septuaginta og retter *nāḥanî* (»har ledt mig«) til: *janḥēnî*: »vil/skal lede mig«.",
+          "text": "Mange følger Septuaginta og retter *nāḥanî* (»har ledt mig«) til: *janḥēnî*: »vil/skal lede mig«.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -122,7 +128,8 @@
       "text": "\fBring os hjælp mod en fjende,\ffor menneskers frelse er værdiløs.",
       "footnotes": [
         {
-          "text": "E: Det er overraskende at første linje har ordet: *ʕezrāʰ* (»hjælp«), som er det bedste, mennesker i bedste fald formår, mens anden linje har: *tᵊšûʕāʰ* (»frelse«), som alene Gud kan give.",
+          "text": "Det er overraskende at første linje har ordet: *ʕezrāʰ* (»hjælp«), som er det bedste, mennesker i bedste fald formår, mens anden linje har: *tᵊšûʕāʰ* (»frelse«), som alene Gud kan give.",
+          "type": "E",
           "position": 52
         }
       ],

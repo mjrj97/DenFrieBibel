@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fJHVH vil bevare ham og holde ham i live,\fhan skal prises lykkelig i landet.\fPrisgiv ham ikke hans fjenders begær.",
       "footnotes": [
         {
-          "text": "T: Ordret »sjæl«, men det hebraiske ord har videre betydning end det danske.",
+          "text": "Ordret »sjæl«, men det hebraiske ord har videre betydning end det danske.",
+          "type": "T",
           "position": 114
         }
       ],
@@ -52,7 +54,8 @@
       "text": "\fJHVH skal støtte ham på sygelejet,\fdu har hjulpet ham op igen fra hvert sygeleje.",
       "footnotes": [
         {
-          "text": "T: Ordret: »du har vendt hvert sygeleje under hans sygdom.«",
+          "text": "Ordret: »du har vendt hvert sygeleje under hans sygdom.«",
+          "type": "T",
           "position": 82
         }
       ],
@@ -74,7 +77,8 @@
       "text": "\fOg hvis der kommer en for at se til mig, taler han falskhed,\fi hans hjerte samler der sig ondskabsfuldhed,\fhan går udenfor, da taler han derom.",
       "footnotes": [
         {
-          "text": "T: Ordene »til mig« fremgår ikke af den hebraiske tekst, men de må være underforstået.",
+          "text": "Ordene »til mig« fremgår ikke af den hebraiske tekst, men de må være underforstået.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -90,7 +94,8 @@
       "text": "\f»En grufuld sag skal ramme ham,\fog som han ligger, skal han ikke mere rejse sig.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »skal hældes ud over ham«.",
+          "text": "Ordret: »skal hældes ud over ham«.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -101,7 +106,8 @@
       "text": "\fSelv min ven som jeg stolede på,\fsom spiste mit brød,\fhar løftet sin hæl imod mig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »selv en mand af min fred«.",
+          "text": "Ordret: »selv en mand af min fred«.",
+          "type": "T",
           "position": 13
         }
       ],

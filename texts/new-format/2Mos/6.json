@@ -54,7 +54,8 @@
       "text": "Jeg vil tage jer til mig som folk, og jeg vil være Gud for jer, og I skal forstå  at jeg er JHVH, jeres Gud, som fører jer ud fra Egyptens tvangsarbejde.",
       "footnotes": [
         {
-          "text": "T: Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: »lære at kende / indse / vide«.",
+          "text": "Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: »lære at kende / indse / vide«.",
+          "type": "T",
           "position": 81
         }
       ],
@@ -65,7 +66,8 @@
       "text": "Jeg vil bringe jer til det land som jeg med min løftede hånd har svoret at give til Abraham, til Isak og til Jakob. Jeg vil give jer det til ejendom. Jeg er JHVH.‹«",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »som jeg har løftet min hånd«, men det er udtryk at sværge eller aflægge løfte.",
+          "text": "Ordret blot: »som jeg har løftet min hånd«, men det er udtryk at sværge eller aflægge løfte.",
+          "type": "T",
           "position": 71
         }
       ],
@@ -102,7 +104,8 @@
       "title": "Rubens, Simeons og Levis slægter",
       "footnotes": [
         {
-          "text": "T: Navnet er i mange danske oversættelser gengivet som »Enok«, andre har dog: »Hanok«. På hebraisk er navnet: *ḥᵃnôx*. Engelske oversættelser skriver oftest: »Hanoch«.",
+          "text": "Navnet er i mange danske oversættelser gengivet som »Enok«, andre har dog: »Hanok«. På hebraisk er navnet: *ḥᵃnôx*. Engelske oversættelser skriver oftest: »Hanoch«.",
+          "type": "T",
           "position": 91
         }
       ],
@@ -113,11 +116,13 @@
       "text": "Simeons sønner: Jemuel og Jamin og Ohad og Jakin og Sohar og Saul, kana’anæerindens søn. Disse var Simeons slægter.",
       "footnotes": [
         {
-          "text": "T: På hebraisk: *šimʕôn*.",
+          "text": "På hebraisk: *šimʕôn*.",
+          "type": "T",
           "position": 7
         },
         {
-          "text": "T: På hebraisk: *šāʔûl*.",
+          "text": "På hebraisk: *šāʔûl*.",
+          "type": "T",
           "position": 66
         }
       ],
@@ -148,7 +153,8 @@
       "text": "Amram tog Jokebed, sin faster, til hustru, og hun fødte ham Aron og Moses. Amrams leveår blev 137 år.",
       "footnotes": [
         {
-          "text": "E: Det hebraiske ord: *dôdāʰ* kan betyde både »faster« og »tante«, men ifølge 4 Mosebog 26,59 var Jokebed datter af Levi og således faster til Amram. Ifølge Septuagintas tekst her var de fætter og kusine.",
+          "text": "Det hebraiske ord: *dôdāʰ* kan betyde både »faster« og »tante«, men ifølge 4 Mosebog 26,59 var Jokebed datter af Levi og således faster til Amram. Ifølge Septuagintas tekst her var de fætter og kusine.",
+          "type": "E",
           "position": 30
         }
       ],
@@ -169,7 +175,8 @@
       "text": "Aron tog Elisheba, Amminadabs datter, Nahshons søster, til hustru, og hun fødte ham Nadab og Abihu, Ele’azar og Itamar.",
       "footnotes": [
         {
-          "text": "E: *naḥšôn*. På dansk ofte gengivet »Nakshon«.",
+          "text": "*naḥšôn*. På dansk ofte gengivet »Nakshon«.",
+          "type": "E",
           "position": 46
         }
       ],
@@ -191,7 +198,8 @@
       "title": "Faraos forhærdelse",
       "footnotes": [
         {
-          "text": "T: Ordret: »Han, Aron og Moses«.",
+          "text": "Ordret: »Han, Aron og Moses«.",
+          "type": "T",
           "position": 22
         }
       ],
@@ -202,11 +210,13 @@
       "text": "Det var dem der talte til Farao, Egyptens konge, om at føre Israels børn af Egypten. Det var Moses og Aron.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »for at«.",
+          "text": "Kan også oversættes: »for at«.",
+          "type": "T",
           "position": 54
         },
         {
-          "text": "T: Ordret: »Han, Moses og Aron«.",
+          "text": "Ordret: »Han, Moses og Aron«.",
+          "type": "T",
           "position": 107
         }
       ],

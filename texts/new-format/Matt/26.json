@@ -127,7 +127,8 @@
       "text": "Mens de spiste, sagde han: »Sandelig siger jeg jer: En af jer skal forråde mig.«",
       "footnotes": [
         {
-          "text": "T: Grundbetydningen af grundtekstens ord er: »udlevere/overgive«.",
+          "text": "Grundbetydningen af grundtekstens ord er: »udlevere/overgive«.",
+          "type": "T",
           "position": 74
         }
       ],
@@ -184,7 +185,8 @@
       "text": "Da siger Jesus til dem: »I skal alle tage anstød af mig i denne nat, for der står skrevet: \tJeg vil slå hyrden,\f\tog hjordens får skal spredes.",
       "footnotes": [
         {
-          "text": "H: Zak 13,7",
+          "text": "Zak 13,7",
+          "type": "H",
           "position": 89
         }
       ],
@@ -226,7 +228,8 @@
       "text": "Da sagde han til dem: »Min sjæl er bedrøvet til døden, bliv her og våg sammen med mig.«",
       "footnotes": [
         {
-          "text": "H: Sl 42,6",
+          "text": "Sl 42,6",
+          "type": "H",
           "position": 20
         }
       ],
@@ -329,7 +332,8 @@
       "title": "Processen mod Jesus om natten i Rådet",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 89
         }
       ],

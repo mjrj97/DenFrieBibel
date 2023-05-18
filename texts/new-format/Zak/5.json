@@ -25,7 +25,8 @@
       "text": "Han sagde til mig: »Hvad ser du?« og jeg sagde: »Jeg ser en flyvende skriftrulle. Dens længde er tyve alen, og dens bredde er 10 alen.«",
       "footnotes": [
         {
-          "text": "T: En alen svarer til cirka 50 cm.",
+          "text": "En alen svarer til cirka 50 cm.",
+          "type": "T",
           "position": 135
         }
       ],
@@ -47,7 +48,8 @@
       "title": "Synet om kvinden i efaen",
       "footnotes": [
         {
-          "text": "E: *yaṣaˀ* betyder oftest »går ud«, men dækker et bredt betydningsspektrum. I denne sammenhæng giver det mest mening at forstå det som noget, som kommer til syne.",
+          "text": "*yaṣaˀ* betyder oftest »går ud«, men dækker et bredt betydningsspektrum. I denne sammenhæng giver det mest mening at forstå det som noget, som kommer til syne.",
+          "type": "E",
           "position": 108
         }
       ],
@@ -58,11 +60,13 @@
       "text": "Jeg sagde: »Hvad er det?« og han sagde: »Dette er den efa, som er kommet til syne.« Og han sagde: »Dette er deres øjne i hele landet.«",
       "footnotes": [
         {
-          "text": "T: En efa er et målebæger, der ofte blev brugt til at måle korn op med. En efa svarer til cirka 23 liter.",
+          "text": "En efa er et målebæger, der ofte blev brugt til at måle korn op med. En efa svarer til cirka 23 liter.",
+          "type": "T",
           "position": 58
         },
         {
-          "text": "E: Enkelte manuskripter, herunder LXX, har »ondskab«, der på hebraisk næsten er identisk med »øjne«. Men det er til gengæld svært at forklare, hvorfor en skribent skulle have rettet fra »ondskab« til »øjne«, så »øjne« er sandsynligvis det originale. Det kan også oversættes i retning af »udseende«, hvormed efaen forstås som ugudelighedens udseende.",
+          "text": "Enkelte manuskripter, herunder LXX, har »ondskab«, der på hebraisk næsten er identisk med »øjne«. Men det er til gengæld svært at forklare, hvorfor en skribent skulle have rettet fra »ondskab« til »øjne«, så »øjne« er sandsynligvis det originale. Det kan også oversættes i retning af »udseende«, hvormed efaen forstås som ugudelighedens udseende.",
+          "type": "E",
           "position": 118
         }
       ],
@@ -93,7 +97,8 @@
       "text": "Og han sagde til mig: »Hen for at bygge et hus til hende i landet Sinear, så hun kan sættes der på sit sted, når det er opført.«",
       "footnotes": [
         {
-          "text": "T: Sinear er et andet navn for Babylon.",
+          "text": "Sinear er et andet navn for Babylon.",
+          "type": "T",
           "position": 73
         }
       ],

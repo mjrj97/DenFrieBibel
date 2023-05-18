@@ -29,11 +29,13 @@
       "text": "\f\t\t»Hvor længe vil du tale på denne måde\f\t\t\t\tog din munds tale være som en stærk vind?",
       "footnotes": [
         {
-          "text": "T: Ordret: »disse« underforstået »disse ord«",
+          "text": "Ordret: »disse« underforstået »disse ord«",
+          "type": "T",
           "position": 40
         },
         {
-          "text": "E: *tᵊmallel* betyder her »tale«. Ordet kan også betyde »omskære« sml. 1 Mos 17.11. Moses siger i 2 Mos 6.12 at han er *uomskåret* på læberne *ʕᵃral*, formentlig udtryk for at han har svært ved at udtrykke sig (2 Mos 4.10). Så ved at anvende ordet *mallal* »omskåret« om »at tale«, udtrykker Bildad at for Job flyder talen uhindret, måske for flydende, modsat for Moses.",
+          "text": "*tᵊmallel* betyder her »tale«. Ordet kan også betyde »omskære« sml. 1 Mos 17.11. Moses siger i 2 Mos 6.12 at han er *uomskåret* på læberne *ʕᵃral*, formentlig udtryk for at han har svært ved at udtrykke sig (2 Mos 4.10). Så ved at anvende ordet *mallal* »omskåret« om »at tale«, udtrykker Bildad at for Job flyder talen uhindret, måske for flydende, modsat for Moses.",
+          "type": "E",
           "position": 40
         }
       ],
@@ -49,11 +51,13 @@
       "text": "\f\t\t\t\t\t\tHvis dine sønner har syndet imod ham,\f\t\t\t\t\t\t\t\tda vil han række sin hånd ud til deres dom.",
       "footnotes": [
         {
-          "text": "T: Ordret: »strække«.",
+          "text": "Ordret: »strække«.",
+          "type": "T",
           "position": 69
         },
         {
-          "text": "T: Ordret: »deres overtrædelse«, her i betydningen »deres straf for overtrædelse«.",
+          "text": "Ordret: »deres overtrædelse«, her i betydningen »deres straf for overtrædelse«.",
+          "type": "T",
           "position": 96
         }
       ],
@@ -70,11 +74,13 @@
       "text": "\f\t\t\t\t\t\t\t\t\tHvis du er ren og oprigtig,\f\t\t\t\t\t\t\t\tda vil han komme dig til hjælp\f\t\t\t\t\t\t\t\t\t\tog genrejse din retfærdigheds bolig.",
       "footnotes": [
         {
-          "text": "T: Kan oversættes med »retskaffen«.",
+          "text": "Kan oversættes med »retskaffen«.",
+          "type": "T",
           "position": 37
         },
         {
-          "text": "T: Ordret: »vågne op over dig«.",
+          "text": "Ordret: »vågne op over dig«.",
+          "type": "T",
           "position": 76
         }
       ],
@@ -85,7 +91,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\tDin begyndelse var ringe,\f\t\t\t\t\t\t\t\t\t\tmen din fremtid vil han gøre stor.",
       "footnotes": [
         {
-          "text": "T: Ordret: »vokse stor«, sml. Sl 92.13: »den retfærdige vokser sig stor som cedertræet«.",
+          "text": "Ordret: »vokse stor«, sml. Sl 92.13: »den retfærdige vokser sig stor som cedertræet«.",
+          "type": "T",
           "position": 80
         }
       ],
@@ -107,7 +114,8 @@
       "text": "\f\t\t\t\t\t\tMon ikke de kan belære dig,\t\t\t\t\t\t\t\t\ttale til dig\f\t\t\t\t\t\t\t\tog komme med ord fra hjertet?",
       "footnotes": [
         {
-          "text": "T: Ordret: »deres hjerte«.",
+          "text": "Ordret: »deres hjerte«.",
+          "type": "T",
           "position": 93
         }
       ],
@@ -118,11 +126,13 @@
       "text": "\f\t\t\t\t\t\t\tSkyder papyrus i vejret hvor der ikke er sumpet?\f\t\t\t\t\t\t\t\t\tKan nilgræs vokse uden vand?",
       "footnotes": [
         {
-          "text": "T: I verbet *yigᵊʔeʰ*, der her betyder »vokse op«, ligger der også den betydning »at være pralende og stolt«.",
+          "text": "I verbet *yigᵊʔeʰ*, der her betyder »vokse op«, ligger der også den betydning »at være pralende og stolt«.",
+          "type": "T",
           "position": 31
         },
         {
-          "text": "E: Kan oversættes med »sivgræs« eller »siv«. Det hebraiske ord for »nilgræs« er *ʔāḥû*. Det findes kun 3 andre steder i GT. I 1 Mos 41.2 og 18 er nilgræs det græs som køerne i Faraos drøm spiste sig mætte i. Det er sivagtigt græs, der vokser i vand.",
+          "text": "Kan oversættes med »sivgræs« eller »siv«. Det hebraiske ord for »nilgræs« er *ʔāḥû*. Det findes kun 3 andre steder i GT. I 1 Mos 41.2 og 18 er nilgræs det græs som køerne i Faraos drøm spiste sig mætte i. Det er sivagtigt græs, der vokser i vand.",
+          "type": "E",
           "position": 77
         }
       ],
@@ -133,15 +143,18 @@
       "text": "\f\t\t\t\t\t\t\t\tEndnu med grønne skud står det,\t\t\t\t\t\t\t\t\t\t\tikke skåret ned,\f\t\t\t\t\t\t\t\t\t\tmen før al andet græs visner det.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hans/dens friskhed« eller »frisk grøn«.",
+          "text": "Ordret: »hans/dens friskhed« eller »frisk grøn«.",
+          "type": "T",
           "position": 30
         },
         {
-          "text": "T: Ordene »står det« er tilføjet.",
+          "text": "Ordene »står det« er tilføjet.",
+          "type": "T",
           "position": 40
         },
         {
-          "text": "E: Det hebraiske ord *ḥāṣîr* kan oversættes med »siv«. Der findes mange forskellige slags siv. Se Es 35.7.",
+          "text": "Det hebraiske ord *ḥāṣîr* kan oversættes med »siv«. Der findes mange forskellige slags siv. Se Es 35.7.",
+          "type": "E",
           "position": 99
         }
       ],
@@ -152,7 +165,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\tSådan går det enhver der glemmer Gud;\f\t\t\t\t\t\t\t\t\t\tden gudløses håb går til grunde.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sådan er stierne«.",
+          "text": "Ordret: »sådan er stierne«.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -163,11 +177,13 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tHans sikkerhed er en skrøbelig sag,\f\t\t\t\t\t\t\t\t\t\t\t\t\thans tryghed er som et spindelvæv.",
       "footnotes": [
         {
-          "text": "T: Kan oversættes med »tillid«.",
+          "text": "Kan oversættes med »tillid«.",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "T: Ordret: »en edderkops hus«.",
+          "text": "Ordret: »en edderkops hus«.",
+          "type": "T",
           "position": 96
         }
       ],
@@ -183,7 +199,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tFuld af saft  står han der i solen,\f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog ud over hans have breder hans friske skud sig.",
       "footnotes": [
         {
-          "text": "T: »som en plante« er underforstået. Billedet er figurativt om mennesket. Derfor oversættes også »skud« og »rødder« i det følgende som hans, selvom de jo tilhører planten.",
+          "text": "»som en plante« er underforstået. Billedet er figurativt om mennesket. Derfor oversættes også »skud« og »rødder« i det følgende som hans, selvom de jo tilhører planten.",
+          "type": "T",
           "position": 26
         }
       ],
@@ -194,7 +211,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tUd over en stenhøj slynger hans rødder sig,\f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\than får øje på et hus af sten.",
       "footnotes": [
         {
-          "text": "T: Ordret: »viklet ind i sig«.",
+          "text": "Ordret: »viklet ind i sig«.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -216,7 +234,8 @@
       "title": " Gud elsker de fromme og hader de onde",
       "footnotes": [
         {
-          "text": "T: Ordret: »fuldkommen« Job 1.1, Job 1.8.",
+          "text": "Ordret: »fuldkommen« Job 1.1, Job 1.8.",
+          "type": "T",
           "position": 45
         }
       ],

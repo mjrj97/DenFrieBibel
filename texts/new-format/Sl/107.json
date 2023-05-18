@@ -24,7 +24,8 @@
       "title": "Opfordring til taksigelse",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 39
         }
       ],
@@ -35,7 +36,8 @@
       "text": "\fDet skal JHVHs genløste sige,\fdem som han har genløst af fjendes hånd,",
       "footnotes": [
         {
-          "text": "E: Grundtekstens: *ṣār* (»fjende«) kan også oversættes: »nød«, og sådan må det oversættes videre gennem salmen (v.6.13.19.28).",
+          "text": "Grundtekstens: *ṣār* (»fjende«) kan også oversættes: »nød«, og sådan må det oversættes videre gennem salmen (v.6.13.19.28).",
+          "type": "E",
           "position": 65
         }
       ],
@@ -46,15 +48,18 @@
       "text": "\fog som han har samlet fra landene,\ffra øst og fra vest, fra nord og fra hav.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra opgang«.",
+          "text": "Ordret: »fra opgang«.",
+          "type": "T",
           "position": 43
         },
         {
-          "text": "T: Ordret: »fra nedgang«.",
+          "text": "Ordret: »fra nedgang«.",
+          "type": "T",
           "position": 55
         },
         {
-          "text": "E: Mange oversættere vælger at følge en foreslået rettelse af: *miyyām* (»fra hav«) til: *miyyāmîn*: »fra syd«. Der er dog ingen håndskrifter der støtter rettelsen.",
+          "text": "Mange oversættere vælger at følge en foreslået rettelse af: *miyyām* (»fra hav«) til: *miyyāmîn*: »fra syd«. Der er dog ingen håndskrifter der støtter rettelsen.",
+          "type": "E",
           "position": 77
         }
       ],
@@ -66,7 +71,8 @@
       "title": "Gud frelste fra ørkenen",
       "footnotes": [
         {
-          "text": "E: Ofte flytter man masoreternes skillende accent tilbage fra *derex* (»vej«) til: *yᵊšîmôn* (»øde/ødemark«), så *derex* hører til anden verslinje. Verset lyder så: »De flakkede om i ørkenen, i en ødemark, / de fandt ikke vej til en by at bo i«.",
+          "text": "Ofte flytter man masoreternes skillende accent tilbage fra *derex* (»vej«) til: *yᵊšîmôn* (»øde/ødemark«), så *derex* hører til anden verslinje. Verset lyder så: »De flakkede om i ørkenen, i en ødemark, / de fandt ikke vej til en by at bo i«.",
+          "type": "E",
           "position": 41
         }
       ],
@@ -97,7 +103,8 @@
       "text": "\ffor han har tilfredsstillet en tørstig sjæl\fog har fyldt en sulten sjæl med godt.",
       "footnotes": [
         {
-          "text": "T: Ordret: »mættet«.",
+          "text": "Ordret: »mættet«.",
+          "type": "T",
           "position": 28
         }
       ],
@@ -109,7 +116,8 @@
       "title": "Gud frelste fra fangehullet",
       "footnotes": [
         {
-          "text": "E: Der introduceres her og i det følgende forskellige grupper. Meningen er formodentlig: »Nogle var …«,",
+          "text": "Der introduceres her og i det følgende forskellige grupper. Meningen er formodentlig: »Nogle var …«,",
+          "type": "E",
           "position": 3
         }
       ],
@@ -127,7 +135,8 @@
       "title": "Gud frelste fra druknedøden",
       "footnotes": [
         {
-          "text": "E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwæt* (»død«). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
+          "text": "*ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwæt* (»død«). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
+          "type": "E",
           "position": 48
         }
       ],
@@ -153,7 +162,8 @@
       "text": "\fHan førte dem af mørke og dødsskygge\fog sønderrev deres lænker.",
       "footnotes": [
         {
-          "text": "E: Se note til v.10.",
+          "text": "Se note til v.10.",
+          "type": "E",
           "position": 37
         }
       ],
@@ -169,7 +179,8 @@
       "text": "\ffor han har knust kobber\fog hugget jernslåer af.",
       "footnotes": [
         {
-          "text": "E: Ordet: *nᵊḥōšet* oversættes både ved: »kobber, bronze« og »metal«.",
+          "text": "Ordet: *nᵊḥōšet* oversættes både ved: »kobber, bronze« og »metal«.",
+          "type": "E",
           "position": 25
         }
       ],
@@ -181,7 +192,8 @@
       "title": "Gud frelste fra sygdom",
       "footnotes": [
         {
-          "text": "T: Se note til",
+          "text": "Se note til",
+          "type": "T",
           "position": 6
         }
       ],
@@ -193,7 +205,8 @@
       "title": "Gud frelste fra fangehullet",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: »De var tåber ved deres overtrædelser«. Fortolkere har foreslået at rette: *ʔᵉwilîm* (»tåber«) til enten: *ʔumlālîm*: »hensygnende« (»De sygnede hen på grund af deres overtrædelser«) eller: * ḥôlîm*: »syge« (»de blev syge …«).",
+          "text": "Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: »De var tåber ved deres overtrædelser«. Fortolkere har foreslået at rette: *ʔᵉwilîm* (»tåber«) til enten: *ʔumlālîm*: »hensygnende« (»De sygnede hen på grund af deres overtrædelser«) eller: * ḥôlîm*: »syge« (»de blev syge …«).",
+          "type": "E",
           "position": 38
         }
       ],
@@ -214,7 +227,8 @@
       "text": "\fHan sendte sit ord for at helbrede dem\fog redde fra deres grave.",
       "footnotes": [
         {
-          "text": "E: Undertiden retter man: *miššᵊḥîtôtām* (»fra deres grave«) til: *miššaḥat ḥayyātām*: »deres liv fra graven«. Rettelsen har dog ingen støtte i håndskrifter.",
+          "text": "Undertiden retter man: *miššᵊḥîtôtām* (»fra deres grave«) til: *miššaḥat ḥayyātām*: »deres liv fra graven«. Rettelsen har dog ingen støtte i håndskrifter.",
+          "type": "E",
           "position": 65
         }
       ],
@@ -236,7 +250,8 @@
       "title": "Gud frelste fra druknedøden",
       "footnotes": [
         {
-          "text": "T: Se note til",
+          "text": "Se note til",
+          "type": "T",
           "position": 4
         }
       ],
@@ -248,7 +263,8 @@
       "title": "Gud frelste fra fangehullet",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »mange vande«.",
+          "text": "Kan også oversættes: »mange vande«.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -284,7 +300,8 @@
       "text": "\fHan fik stormen til at stilne af,\fog deres bølger lagde sig.",
       "footnotes": [
         {
-          "text": "E: »deres« går enten på de »store vande« (v.23) eller på søfolkene som var truet af bølgerne. Mange oversættere følger den syriske oversættelse, der forudsætter: *gallê hayām*: »havets bølger«, i stedet for den masoretiske teksts: *gallêhem* (»deres bølger«).",
+          "text": "»deres« går enten på de »store vande« (v.23) eller på søfolkene som var truet af bølgerne. Mange oversættere følger den syriske oversættelse, der forudsætter: *gallê hayām*: »havets bølger«, i stedet for den masoretiske teksts: *gallêhem* (»deres bølger«).",
+          "type": "E",
           "position": 43
         }
       ],
@@ -351,7 +368,8 @@
       "text": "\fMen han løftede en fattig op af elendighed\fog gjorde slægter frugtbare som småkvæget.",
       "footnotes": [
         {
-          "text": "T: Ordret blot: »han gjorde slægter som småkvæget« Småkvæg omfatter får og geder.",
+          "text": "Ordret blot: »han gjorde slægter som småkvæget« Småkvæg omfatter får og geder.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -367,7 +385,8 @@
       "text": "\fDen som er vís, skal give agt dette,\fog de skal reflektere over JHVHs nåde!",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 75
         }
       ],

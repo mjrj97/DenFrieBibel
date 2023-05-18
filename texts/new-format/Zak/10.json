@@ -31,7 +31,8 @@
       "title": "JHVH vil føre Israel hjem",
       "footnotes": [
         {
-          "text": "E: Det hebraiske ord *fāqad* bruges både om »hjemsøge« og »besøge« i dette vers. Ordet kan altså både være negativt og positivt.",
+          "text": "Det hebraiske ord *fāqad* bruges både om »hjemsøge« og »besøge« i dette vers. Ordet kan altså både være negativt og positivt.",
+          "type": "E",
           "position": 96
         }
       ],
@@ -57,11 +58,13 @@
       "text": "\fEfraim skal blive som en kriger;\fderes hjerte skal juble som beruset.\fDeres børn skal se det og juble;\fderes hjerte skal råbe af fryd over JHVH.",
       "footnotes": [
         {
-          "text": "T: Ordret »som af vin«.",
+          "text": "Ordret »som af vin«.",
+          "type": "T",
           "position": 70
         },
         {
-          "text": "T: Ordret: »sønner«.",
+          "text": "Ordret: »sønner«.",
+          "type": "T",
           "position": 81
         }
       ],
@@ -77,7 +80,8 @@
       "text": "\fJeg vil så dem blandt folkeslagene;\fi det fjerne skal de huske på mig.\fDe og deres børn skal leve,\fog de skal vende hjem.",
       "footnotes": [
         {
-          "text": "E: En anden mulighed er at oversætte sætningen med »de skal give deres børn liv«, eftersom »børn« er markeret som objekt i sætningen.",
+          "text": "En anden mulighed er at oversætte sætningen med »de skal give deres børn liv«, eftersom »børn« er markeret som objekt i sætningen.",
+          "type": "E",
           "position": 99
         }
       ],
@@ -93,7 +97,8 @@
       "text": "\fHan skal gå igennem trængselshavet;\fslå bølgerne i havet;\falle Nilens strømme udtørres.\fAssyriens hovmod skal undertrykkes;\fEgyptens scepter skal fjernes.",
       "footnotes": [
         {
-          "text": "E: *yeor* skal ikke nødvendigvis forstås som Nilen, men kan forstås mere generelt om floder. Det er klart, at billedet i første omgang henviser til den første exodus fra Egypten, men i anden omgang udvides billedet til en ny exodus fra både Egypten og Assyrien – begge steder med berømte floder.",
+          "text": "*yeor* skal ikke nødvendigvis forstås som Nilen, men kan forstås mere generelt om floder. Det er klart, at billedet i første omgang henviser til den første exodus fra Egypten, men i anden omgang udvides billedet til en ny exodus fra både Egypten og Assyrien – begge steder med berømte floder.",
+          "type": "E",
           "position": 70
         }
       ],

@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         },
         {
-          "text": "T: Sætningen kan også oversættes: »Hvis ikke det var JHVH, der havde været med os«.",
+          "text": "Sætningen kan også oversættes: »Hvis ikke det var JHVH, der havde været med os«.",
+          "type": "T",
           "position": 57
         }
       ],
@@ -40,7 +42,8 @@
       "title": "Hvis ikke JHVH havde været med os",
       "footnotes": [
         {
-          "text": "T: Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.",
+          "text": "Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.",
+          "type": "T",
           "position": 53
         }
       ],
@@ -56,7 +59,8 @@
       "text": "\fså var vandene skyllet over os,\fen vandstrøm var gået over vor hals,",
       "footnotes": [
         {
-          "text": "E: Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: »hals«. Grundbetydningen i GT er dog: »sjæl«. Det oversættes ofte: »liv«. Her oversættes det ofte: »os«.",
+          "text": "Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: »hals«. Grundbetydningen i GT er dog: »sjæl«. Det oversættes ofte: »liv«. Her oversættes det ofte: »os«.",
+          "type": "E",
           "position": 69
         }
       ],
@@ -73,7 +77,8 @@
       "title": "Lovet være JHVH som var med os",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »velsignet«.",
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
           "position": 6
         }
       ],
@@ -84,7 +89,8 @@
       "text": "\fVort liv undslap som en fugl\faf fuglefængernes fælde.\fFælden blev knust,\fog vi undslap.",
       "footnotes": [
         {
-          "text": "T: Ordret: »sjæl«.",
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
           "position": 9
         }
       ],

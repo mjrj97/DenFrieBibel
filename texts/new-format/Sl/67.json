@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,11 +37,13 @@
       "title": "Velsign!",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst har her ikke præpositionen *ʔel* (»over/hen imod«, 4 Mos 6,25), men: *ʔēt*: »hos/med«.",
+          "text": "Den hebraiske tekst har her ikke præpositionen *ʔel* (»over/hen imod«, 4 Mos 6,25), men: *ʔēt*: »hos/med«.",
+          "type": "E",
           "position": 63
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 72
         }
       ],
@@ -51,7 +54,8 @@
       "text": "\fså man kan kende din vej på jorden,\fdin frelse blandt alle folkeslag!",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedninger«, men det er næppe det der er lagt vægt på her.",
+          "text": "Kan også oversættes: »hedninger«, men det er næppe det der er lagt vægt på her.",
+          "type": "T",
           "position": 70
         }
       ],
@@ -79,11 +83,13 @@
       "title": "Gud har velsignet – velsign igen!",
       "footnotes": [
         {
-          "text": "T: Det er omdiskuteret om der her skal oversættes »landet« eller »jorden«. Sidstnævnte bruges dog ikke om agerjord.",
+          "text": "Det er omdiskuteret om der her skal oversættes »landet« eller »jorden«. Sidstnævnte bruges dog ikke om agerjord.",
+          "type": "T",
           "position": 7
         },
         {
-          "text": "T: *yᵊvārēx* kan opfattes som enten jussiv (her, som i v.2) eller som yiqtol: »vil velsigne«. Begge oversættelser giver god mening.",
+          "text": "*yᵊvārēx* kan opfattes som enten jussiv (her, som i v.2) eller som yiqtol: »vil velsigne«. Begge oversættelser giver god mening.",
+          "type": "T",
           "position": 53
         }
       ],

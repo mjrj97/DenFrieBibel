@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: »guds forsamling/menighed«, idet der er anvendt det korte *ʔēl* (»gud«), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
+          "text": "Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: »guds forsamling/menighed«, idet der er anvendt det korte *ʔēl* (»gud«), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
+          "type": "E",
           "position": 47
         },
         {
-          "text": "T: Her er formodentlig tænkt på jordiske dommere. Andre tænker dog på det himmelske råd.",
+          "text": "Her er formodentlig tænkt på jordiske dommere. Andre tænker dog på det himmelske råd.",
+          "type": "T",
           "position": 66
         }
       ],
@@ -40,11 +42,13 @@
       "title": "Indledning",
       "footnotes": [
         {
-          "text": "T: Det er: Begunstige og tage parti for de ugudelige, favorisere dem.",
+          "text": "Det er: Begunstige og tage parti for de ugudelige, favorisere dem.",
+          "type": "T",
           "position": 69
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 74
         }
       ],

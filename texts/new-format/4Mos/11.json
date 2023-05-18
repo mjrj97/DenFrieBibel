@@ -20,7 +20,8 @@
       "title": "JHVH straffer det utilfredse folk.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Folket blev som dem der vedvarende beklager sig ondt i JHVHs ører«. Biordet »ondt« kan bruges om et forbitret sindelag, men også om bitter eller dårlig situation.",
+          "text": "Ordret: »Folket blev som dem der vedvarende beklager sig ondt i JHVHs ører«. Biordet »ondt« kan bruges om et forbitret sindelag, men også om bitter eller dårlig situation.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -36,7 +37,8 @@
       "text": "Og han gav stedet navnet Tab’era, for JHVHs ild brændte iblandt dem.",
       "footnotes": [
         {
-          "text": "T: Dvs.: En brand.",
+          "text": "Dvs.: En brand.",
+          "type": "T",
           "position": 33
         }
       ],
@@ -58,7 +60,8 @@
       "text": "Men nu svinder vores kræfter, for her er slet intet andet end det manna vi kan se.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »Længes vor sjæl«",
+          "text": "Ordret: »Længes vor sjæl«",
+          "type": "T",
           "position": 29
         }
       ],
@@ -90,7 +93,8 @@
       "text": "Moses sagde til JHVH: »Hvorfor behandlede du din tjener så dårligt? Hvorfor finder jeg ikke nåde for dine øjne, og hvorfor lægger du byrden af hele dette folk på mig?",
       "footnotes": [
         {
-          "text": "T: Ordret: »Hvorfor handlede du ondt mod din tjener?«",
+          "text": "Ordret: »Hvorfor handlede du ondt mod din tjener?«",
+          "type": "T",
           "position": 67
         }
       ],
@@ -199,7 +203,8 @@
       "text": "Da kom der et vindstød fra JHVH og førte vagtler fra havet og strøede dem ud over lejren, fra en dagsrejse til den ene side og en dagsrejse til den anden side af lejren og sine steder helt op til en meters højde.",
       "footnotes": [
         {
-          "text": "T: Samme glose som bruges om Ånd i de tidligere vers.",
+          "text": "Samme glose som bruges om Ånd i de tidligere vers.",
+          "type": "T",
           "position": 22
         }
       ],
@@ -210,7 +215,8 @@
       "text": "Da stod folket op hele den dag og hele natten og hele den næste dag, og de samlede vagtler. Den der havde mindst, havde samlet ti homer. De bredte dem ud rundt om lejren.",
       "footnotes": [
         {
-          "text": "T: En homer er et rummål der svarer til 220 liter.",
+          "text": "En homer er et rummål der svarer til 220 liter.",
+          "type": "T",
           "position": 135
         }
       ],
@@ -226,7 +232,8 @@
       "text": "Det sted kaldte man Kibrot-ha-Ta’ava fordi de dér begravede folket, dem der var blevet grådige.",
       "footnotes": [
         {
-          "text": "T: Dvs. grådighedens grave.",
+          "text": "Dvs. grådighedens grave.",
+          "type": "T",
           "position": 36
         }
       ],

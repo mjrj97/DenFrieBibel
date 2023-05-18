@@ -25,7 +25,8 @@
       "text": "\fLovpris ham, alle hans engle,\flovpris ham, hele hans hærskare!",
       "footnotes": [
         {
-          "text": "E: Konsonantteksten forudsætter singularis (»hele hans hærskare«), men masoreternes vokalisering peger på pluralis: »alle hans hærskarer«.",
+          "text": "Konsonantteksten forudsætter singularis (»hele hans hærskare«), men masoreternes vokalisering peger på pluralis: »alle hans hærskarer«.",
+          "type": "E",
           "position": 63
         }
       ],
@@ -51,7 +52,8 @@
       "text": "\fOg han har stillet dem hen for altid, for evigt,\fhan gav en lov, og den skal ikke ophæves.",
       "footnotes": [
         {
-          "text": "E: Mange oversættere retter: *yaʕᵃvôr* (»ophæves«, ordret: »gå forbi«) til pluralis: *yaʕᵃvrû*, så oversættelsen bliver: »(han gav en lov/grænse) de (ikke) må overskride«.",
+          "text": "Mange oversættere retter: *yaʕᵃvôr* (»ophæves«, ordret: »gå forbi«) til pluralis: *yaʕᵃvrû*, så oversættelsen bliver: »(han gav en lov/grænse) de (ikke) må overskride«.",
+          "type": "E",
           "position": 91
         }
       ],
@@ -88,7 +90,8 @@
       "text": "\funge mænd og også piger,\fgamle med unge:",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »jomfruer«.",
+          "text": "Kan også oversættes: »jomfruer«.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -99,7 +102,8 @@
       "text": "\fDe skal lovprise JHVHs navn,\ffor hans navn alene er ophøjet,\fhans højhed er over jorden og himlen.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »majestæt«.",
+          "text": "Kan også oversættes: »majestæt«.",
+          "type": "T",
           "position": 73
         }
       ],
@@ -110,7 +114,8 @@
       "text": "\fHan har løftet et horn for sit folk,\fhan der er en lovsang for alle sine fromme,\ffor Israels børn, det folk der står ham nær.\fHalleluja!",
       "footnotes": [
         {
-          "text": "E: Ordret: »hans nærheds folk« eller: »folk af den der står ham nær«. Mange ændrer dog vokaliseringen af: *qᵊrōvô* (»den der står ham nær/hans nærhed«) til: *qᵊrōvāʸw*: »dem der står ham nær«.",
+          "text": "Ordret: »hans nærheds folk« eller: »folk af den der står ham nær«. Mange ændrer dog vokaliseringen af: *qᵊrōvô* (»den der står ham nær/hans nærhed«) til: *qᵊrōvāʸw*: »dem der står ham nær«.",
+          "type": "E",
           "position": 126
         }
       ],

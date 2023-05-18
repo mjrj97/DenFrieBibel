@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes »folkeslag«, men her ligger vægten på modsætningen til Guds folk.",
+          "text": "Kan også oversættes »folkeslag«, men her ligger vægten på modsætningen til Guds folk.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Klage",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »jordens«.",
+          "text": "Kan også oversættes: »jordens«.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -63,7 +65,8 @@
       "text": "\fUdøs din harme over hedningerne\fsom ikke kender dig,\fog over riger\fsom ikke påkalder dit navn.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »de folk«.",
+          "text": "Kan også oversættes: »de folk«.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -74,7 +77,8 @@
       "text": "\fFor de har fortæret Jakob\fog raseret hans bolig.",
       "footnotes": [
         {
-          "text": "E: Den masoretiske tekst har singularis, men pluralis støttes af en del håndskrifter og gamle oversættelser og også af pluralis i næste linje. Singularis kan evt. oversættes: »man«, men der har ikke i det foregående været talt om en enkelt fjende (singularis).",
+          "text": "Den masoretiske tekst har singularis, men pluralis støttes af en del håndskrifter og gamle oversættelser og også af pluralis i næste linje. Singularis kan evt. oversættes: »man«, men der har ikke i det foregående været talt om en enkelt fjende (singularis).",
+          "type": "E",
           "position": 7
         }
       ],
@@ -85,7 +89,8 @@
       "text": "\fHusk os ikke for vore tidligere misgerninger,\fskynd dig, lad din barmhjertighed komme os i møde,\ffor vi er blevet meget svage.",
       "footnotes": [
         {
-          "text": "E: Oversættes ofte: »vore forfædres«. I så fald må versets indledning: *ʔal-tizkor-lānû* (»husk os ikke«) oversættes: »tilregn os ikke«.",
+          "text": "Oversættes ofte: »vore forfædres«. I så fald må versets indledning: *ʔal-tizkor-lānû* (»husk os ikke«) oversættes: »tilregn os ikke«.",
+          "type": "E",
           "position": 32
         }
       ],
@@ -101,15 +106,18 @@
       "text": "\fHvorfor skal hedningerne sige:\f»Hvor er deres Gud?«\fLad det kendes hos hedningerne for vore øjne,\fat dine tjeneres blod, som er udøst, bliver hævnet.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »folkene«.",
+          "text": "Kan også oversættes: »folkene«.",
+          "type": "T",
           "position": 25
         },
         {
-          "text": "T: Kan også oversættes: »folkene«.",
+          "text": "Kan også oversættes: »folkene«.",
+          "type": "T",
           "position": 83
         },
         {
-          "text": "E: Ordret skulle de to linjer oversættes: »Lad hævnen for dine tjeneres blod, som er udgydt, blive kendt hos hedningerne for vore øjne«.",
+          "text": "Ordret skulle de to linjer oversættes: »Lad hævnen for dine tjeneres blod, som er udgydt, blive kendt hos hedningerne for vore øjne«.",
+          "type": "E",
           "position": 150
         }
       ],
@@ -120,15 +128,18 @@
       "text": "\fLad fangens stønnen komme for dit ansigt,\fspar efter din arms storhed de dødsdømte.",
       "footnotes": [
         {
-          "text": "T: Ordret: »levn«.",
+          "text": "Ordret: »levn«.",
+          "type": "T",
           "position": 47
         },
         {
-          "text": "T: Kan også oversættes: »din magts«.",
+          "text": "Kan også oversættes: »din magts«.",
+          "type": "T",
           "position": 62
         },
         {
-          "text": "E: Ordret: »dødens børn«. Den masoretiske teksts accenter tilkendegiver måske at linjen skal deles i to: »Hvor stor er din arm! / Spar de dødsdømte!«.",
+          "text": "Ordret: »dødens børn«. Den masoretiske teksts accenter tilkendegiver måske at linjen skal deles i to: »Hvor stor er din arm! / Spar de dødsdømte!«.",
+          "type": "E",
           "position": 84
         }
       ],

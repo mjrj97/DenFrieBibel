@@ -28,7 +28,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -45,7 +46,8 @@
       "text": "\f\t\t\t\tHvor længe skal jeg have bekymringer i min sjæl,\f\t\t\t\t\t\tdagligt have sorg i mit hjerte?\f\t\t\t\t\tHvor længe skal min fjende triumfere over mig?",
       "footnotes": [
         {
-          "text": "T: *ʕēṣôt* betyder normalt »planer«. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: »smerter«.",
+          "text": "*ʕēṣôt* betyder normalt »planer«. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: »smerter«.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -67,7 +69,8 @@
       "text": "\f\t\t\tMen jeg stoler på din nåde,\f\t\t\t\tmit hjerte skal juble over din frelse.\f\tJeg vil synge for JHVH,\f\t\tfor han har gjort vel imod mig.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 30
         }
       ],

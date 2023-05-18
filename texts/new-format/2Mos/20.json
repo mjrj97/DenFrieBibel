@@ -23,7 +23,8 @@
       "text": "@De ti bud@",
       "footnotes": [
         {
-          "text": "E: Budene er ikke nummererede og tælles forskelligt af jøder, ortodokse kristne og katoliker/lutheranere. Jøderne regner v. 2 for det første bud/ord, men denne tælling går muligvis kun tilbage til 2.-3. århundrede e.Kr. Ortodokse kirker regner v. 4-6 for det andet bud og undgår derved at skulle dele det sidste bud (vers 17) op i to (9. og 10. bud), som det er tilfældet i katolsk og luthersk forståelse.",
+          "text": "Budene er ikke nummererede og tælles forskelligt af jøder, ortodokse kristne og katoliker/lutheranere. Jøderne regner v. 2 for det første bud/ord, men denne tælling går muligvis kun tilbage til 2.-3. århundrede e.Kr. Ortodokse kirker regner v. 4-6 for det andet bud og undgår derved at skulle dele det sidste bud (vers 17) op i to (9. og 10. bud), som det er tilfældet i katolsk og luthersk forståelse.",
+          "type": "E",
           "position": 10
         }
       ],
@@ -35,7 +36,8 @@
       "title": "De ti bud{E: Budene er ikke nummererede og tælles forskelligt af jøder, ortodokse kristne og katoliker/lutheranere. Jøderne regner v. 2 for det første bud/ord, men denne tælling går muligvis kun tilbage til 2.-3. århundrede e.Kr. Ortodokse kirker regner v. 4-6 for det andet bud og undgår derved at skulle dele det sidste bud (vers 17) op i to (9. og 10. bud), som det er tilfældet i katolsk og luthersk forståelse.}",
       "footnotes": [
         {
-          "text": "E: I Mosebøgerne tales der strengt ikke om *de ti bud*, men om *de ti ord*, jf. vers 1, og i grundteksten gælder det også 34,28; 5 Mos 4,13; 10,4.",
+          "text": "I Mosebøgerne tales der strengt ikke om *de ti bud*, men om *de ti ord*, jf. vers 1, og i grundteksten gælder det også 34,28; 5 Mos 4,13; 10,4.",
+          "type": "E",
           "position": 24
         }
       ],
@@ -46,7 +48,8 @@
       "text": "»Jeg er JHVH din Gud, som førte dig ud af Egyptens land, af trællehuset.",
       "footnotes": [
         {
-          "text": "T: Grundteksten kan også oversættes: »Jeg, JHVH, er din Gud«. Da Guds navn (JHVH) allerede er brugt mange gange i det foregående, og da Israel allerede kendte navnet, kan denne oversættelse ikke helt afvises. Gud præsenterer sig ikke, men tilsiger fællesskab.",
+          "text": "Grundteksten kan også oversættes: »Jeg, JHVH, er din Gud«. Da Guds navn (JHVH) allerede er brugt mange gange i det foregående, og da Israel allerede kendte navnet, kan denne oversættelse ikke helt afvises. Gud præsenterer sig ikke, men tilsiger fællesskab.",
+          "type": "T",
           "position": 21
         }
       ],
@@ -57,11 +60,13 @@
       "text": "Du må ikke have andre guder end mig!",
       "footnotes": [
         {
-          "text": "T: Når nægtelsen *lōʔ* (»ikke«) efterfølges af verbum i wayyiqtol (imperfektum), kan det udtrykke stærkest muligt forbud når Gud taler til mennesker. Sådan må det opfattes her i buddene/ordene. Samtidig kan det dog ikke helt udelukkes at der også ligger en forjættelse i formuleringen om det som skal opfyldes i samlivet med Gud. En oversættelse kunne være: »Du skal ikke have andre guder end mig!« Tilsvarende gælder for de andre bud.",
+          "text": "Når nægtelsen *lōʔ* (»ikke«) efterfølges af verbum i wayyiqtol (imperfektum), kan det udtrykke stærkest muligt forbud når Gud taler til mennesker. Sådan må det opfattes her i buddene/ordene. Samtidig kan det dog ikke helt udelukkes at der også ligger en forjættelse i formuleringen om det som skal opfyldes i samlivet med Gud. En oversættelse kunne være: »Du skal ikke have andre guder end mig!« Tilsvarende gælder for de andre bud.",
+          "type": "T",
           "position": 10
         },
         {
-          "text": "T: Ordret: »Der må ikke for dig være andre guder foran mit ansigt / i mit nærvær«. Meningen er enten som det er oversat her, eller: »ved siden af mig«.",
+          "text": "Ordret: »Der må ikke for dig være andre guder foran mit ansigt / i mit nærvær«. Meningen er enten som det er oversat her, eller: »ved siden af mig«.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -77,7 +82,8 @@
       "text": "Du må ikke tilbede dem og ikke tillade dig at tjene dem; for jeg, JHVH din Gud, er en skinsyg Gud som hjemsøger fædres skyld på børn, på dem i tredje og på dem i fjerde led af dem som hader mig;",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »ikke lade dig lede til at tjene dem«.",
+          "text": "Kan også oversættes: »ikke lade dig lede til at tjene dem«.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -93,15 +99,18 @@
       "text": "Du må ikke bruge JHVH din Guds navn til falskhed; for JHVH vil ikke lade den ustraffet som bruger hans navn til falskhed.",
       "footnotes": [
         {
-          "text": "T: Ordret: »løfte«. Det er formodentlig underforstået: »løfte op på læberne«, altså bruge Guds navn.",
+          "text": "Ordret: »løfte«. Det er formodentlig underforstået: »løfte op på læberne«, altså bruge Guds navn.",
+          "type": "T",
           "position": 16
         },
         {
-          "text": "T: Ordret: »intethed«. Der er i sammenhængen tænkt både på falsk ed, løgn og på ligegyldig brug af Guds navn.",
+          "text": "Ordret: »intethed«. Der er i sammenhængen tænkt både på falsk ed, løgn og på ligegyldig brug af Guds navn.",
+          "type": "T",
           "position": 49
         },
         {
-          "text": "T: Eller: »erklære uskyldig«",
+          "text": "Eller: »erklære uskyldig«",
+          "type": "T",
           "position": 86
         }
       ],
@@ -122,11 +131,13 @@
       "text": "men den syvende dag er sabbat for JHVH din Gud; da skal du ingen gerning gøre, hverken du eller din søn eller din datter, din træl eller din trælkvinde eller dit kvæg eller din fremmede som er indenfor dine porte.",
       "footnotes": [
         {
-          "text": "T: Både her og i vers 17 kan de hebraiske ord også oversættes: »din tjener eller din tjenestepige«.",
+          "text": "Både her og i vers 17 kan de hebraiske ord også oversættes: »din tjener eller din tjenestepige«.",
+          "type": "T",
           "position": 151
         },
         {
-          "text": "E: Den »fremmede« hører ikke til husstanden, men er alligevel afhængig af den behandling, han får. Derfor kaldes han »din fremmede«.",
+          "text": "Den »fremmede« hører ikke til husstanden, men er alligevel afhængig af den behandling, han får. Derfor kaldes han »din fremmede«.",
+          "type": "E",
           "position": 176
         }
       ],
@@ -142,7 +153,8 @@
       "text": "Ær din far og din mor for at dine dage må blive mange på den jord som JHVH din Gud giver dig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »må være lange«.",
+          "text": "Ordret: »må være lange«.",
+          "type": "T",
           "position": 53
         }
       ],
@@ -153,7 +165,8 @@
       "text": "Du må ikke begå drab.",
       "footnotes": [
         {
-          "text": "E: Det hebraiske verbum (*rṣḥ*) bruges med én undtagelse (Ordsp 22,13) af 46 tilfælde i GT om selvisk mord og manddrab. Hebraisk har to andre verber der med lidt forskellig vinkel betyder »at slå ihjel«.",
+          "text": "Det hebraiske verbum (*rṣḥ*) bruges med én undtagelse (Ordsp 22,13) af 46 tilfælde i GT om selvisk mord og manddrab. Hebraisk har to andre verber der med lidt forskellig vinkel betyder »at slå ihjel«.",
+          "type": "E",
           "position": 21
         }
       ],
@@ -164,7 +177,8 @@
       "text": "Du må ikke bryde ægteskab.",
       "footnotes": [
         {
-          "text": "E: Buddet vender sig imod at bryde en gudgivet ordning for det seksuelle samliv og familieliv.",
+          "text": "Buddet vender sig imod at bryde en gudgivet ordning for det seksuelle samliv og familieliv.",
+          "type": "E",
           "position": 26
         }
       ],
@@ -191,19 +205,23 @@
       "title": " Folkets reaktion",
       "footnotes": [
         {
-          "text": "T: Ordret: »så«.",
+          "text": "Ordret: »så«.",
+          "type": "T",
           "position": 21
         },
         {
-          "text": "T: Ordret: »røsterne«.",
+          "text": "Ordret: »røsterne«.",
+          "type": "T",
           "position": 30
         },
         {
-          "text": "T: Ordret: »faklerne«.",
+          "text": "Ordret: »faklerne«.",
+          "type": "T",
           "position": 40
         },
         {
-          "text": "E: af angst.",
+          "text": "af angst.",
+          "type": "E",
           "position": 110
         }
       ],
@@ -219,7 +237,8 @@
       "text": "Men Moses sagde til folket: »Frygt ikke, for Gud er kommet for at sætte jer på prøve, og for at frygt for ham skal være for jeres ansigt så I ikke synder.«",
       "footnotes": [
         {
-          "text": "E: I betydningen »ærefrygt«, ikke som »rædsel«.",
+          "text": "I betydningen »ærefrygt«, ikke som »rædsel«.",
+          "type": "E",
           "position": 101
         }
       ],
@@ -236,7 +255,8 @@
       "title": "Forordning om alteret",
       "footnotes": [
         {
-          "text": "T: Ordret: »set«.",
+          "text": "Ordret: »set«.",
+          "type": "T",
           "position": 78
         }
       ],
@@ -247,7 +267,8 @@
       "text": "I må ikke lave jer noget ved siden af mig; guder af sølv og guder af guld må I ikke lave jer.‹",
       "footnotes": [
         {
-          "text": "T: Således er det forudsat med grundtekstens accent. Mange oversættere vælger at flytte accenten og oversætter: »I må ikke lave jer guder af sølv ved siden af mig, og I må ikke lave jer guder af guld«.",
+          "text": "Således er det forudsat med grundtekstens accent. Mange oversættere vælger at flytte accenten og oversætter: »I må ikke lave jer guder af sølv ved siden af mig, og I må ikke lave jer guder af guld«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -258,7 +279,8 @@
       "text": "Du skal lave mig et alter af jord, og på det skal du ofre dine brændofre og dine måltidsofre, dine får og dine okser; på hvert sted, hvor jeg lader mit navn blive husket, vil jeg komme til dig og velsigne dig.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske: *šelem* kunne også oversættes: »fælesskabsofre« eller »fredsofre«, idet samme rod (*šlm*) angiver helhed og fællesskab og går igen i ordet: *šālôm*: »fred«.",
+          "text": "Det hebraiske: *šelem* kunne også oversættes: »fælesskabsofre« eller »fredsofre«, idet samme rod (*šlm*) angiver helhed og fællesskab og går igen i ordet: *šālôm*: »fred«.",
+          "type": "T",
           "position": 93
         }
       ],

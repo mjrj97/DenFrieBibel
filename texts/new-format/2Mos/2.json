@@ -24,11 +24,13 @@
       "title": "Moses’ fødsel",
       "footnotes": [
         {
-          "text": "T: *bayit* betyder ordret både »hus« og »familie/slægt«. Her er det det sidste, der er tale om.",
+          "text": "*bayit* betyder ordret både »hus« og »familie/slægt«. Her er det det sidste, der er tale om.",
+          "type": "T",
           "position": 25
         },
         {
-          "text": "E: Underforstået: »til ægte«.",
+          "text": "Underforstået: »til ægte«.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -44,7 +46,8 @@
       "text": "Men da hun ikke længere kunne skjule ham, tog hun en kurv af siv og klinede den med asfalt og beg, og hun lagde barnet i den og anbragte den mellem sivene ved bredden af Nilen.",
       "footnotes": [
         {
-          "text": "E: Samme hebraiske ord bruges om Noas ark (1 Mos 6,14ff). *tēvāʰ* er egentlig et egyptisk ord som bruges om »kurv« eller »kasse/æske«.",
+          "text": "Samme hebraiske ord bruges om Noas ark (1 Mos 6,14ff). *tēvāʰ* er egentlig et egyptisk ord som bruges om »kurv« eller »kasse/æske«.",
+          "type": "E",
           "position": 57
         }
       ],
@@ -86,11 +89,13 @@
       "text": "Da drengen var blevet stor, bragte hun ham til Faraos datter, og han blev hendes søn. Hun gav ham navnet Moses idet hun sagde: »For jeg har trukket ham op af vandet.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »hun kaldte hans navn Moses«",
+          "text": "Ordret: »hun kaldte hans navn Moses«",
+          "type": "T",
           "position": 110
         },
         {
-          "text": "E: Denne bemærkning er omdiskuteret. »Moses« var et almindeligt egyptisk navn som betyder: »søn«. Det indgår fx i mange faraoners navne. Den almindeligst accepterede forklaring er at det for det hebraiske øre har haft en anden, dybere mening: At Faraos datter kom til at profetere om Moses’ indsats: Han skal *trække* sit folk *op af vandet*. Den jødiske historiker Josefus hævdede at egypterne kaldte vand for *mo*, og den der redder fra vand, for *uses*.",
+          "text": "Denne bemærkning er omdiskuteret. »Moses« var et almindeligt egyptisk navn som betyder: »søn«. Det indgår fx i mange faraoners navne. Den almindeligst accepterede forklaring er at det for det hebraiske øre har haft en anden, dybere mening: At Faraos datter kom til at profetere om Moses’ indsats: Han skal *trække* sit folk *op af vandet*. Den jødiske historiker Josefus hævdede at egypterne kaldte vand for *mo*, og den der redder fra vand, for *uses*.",
+          "type": "E",
           "position": 166
         }
       ],
@@ -102,11 +107,13 @@
       "title": "Moses’ flugt til Midjan",
       "footnotes": [
         {
-          "text": "T: Ordet »brødre« skal her ikke forstås bogstaveligt, men dækker over folkefæller.",
+          "text": "Ordet »brødre« skal her ikke forstås bogstaveligt, men dækker over folkefæller.",
+          "type": "T",
           "position": 76
         },
         {
-          "text": "T: Verbet *nkh* i hif’il kan både betyde: »slå« og: »slå ihjel«. Brugen af samme ord i næste vers betyder dog nok at der her må være tænkt på det sidste, mens der i vers 13 er tænkt på det første. I vers 14 er der brugt et andet ord.",
+          "text": "Verbet *nkh* i hif’il kan både betyde: »slå« og: »slå ihjel«. Brugen af samme ord i næste vers betyder dog nok at der her må være tænkt på det sidste, mens der i vers 13 er tænkt på det første. I vers 14 er der brugt et andet ord.",
+          "type": "T",
           "position": 151
         }
       ],
@@ -117,7 +124,8 @@
       "text": "Da vendte han sig fra side til side og så at der intet menneske var, og han slog egypteren ihjel og skjulte ham i sandet.",
       "footnotes": [
         {
-          "text": "T: Ordret: »således og således«.",
+          "text": "Ordret: »således og således«.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -128,7 +136,8 @@
       "text": "Næste dag gik han ud, og se, to hebraiske mænd sloges; da sagde han til ham som havde uret: »Hvorfor slår du din modpart?«",
       "footnotes": [
         {
-          "text": "T: Ordet: »anden«.",
+          "text": "Ordet: »anden«.",
+          "type": "T",
           "position": 5
         }
       ],
@@ -144,7 +153,8 @@
       "text": "Da Farao hørte om denne gerning, søgte han at dræbe Moses; men Moses flygtede bort fra Farao og slog sig ned i landet Midjan og slog sig ned ved brønden.",
       "footnotes": [
         {
-          "text": "T: Ordret: »fra Faraos ansigt«.",
+          "text": "Ordret: »fra Faraos ansigt«.",
+          "type": "T",
           "position": 92
         }
       ],
@@ -175,7 +185,8 @@
       "text": "Han sagde til sine døtre: »Og hvor er han? Hvorfor forlod I dog den mand? Kald på ham, så han kan få noget at spise.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »så han kan spise brød«.",
+          "text": "Ordret: »så han kan spise brød«.",
+          "type": "T",
           "position": 117
         }
       ],
@@ -186,7 +197,8 @@
       "text": "Moses besluttede sig for at slå sig ned hos manden; og han gav Sippora, sin datter, til Moses.",
       "footnotes": [
         {
-          "text": "E: Underforstået: »til ægte«.",
+          "text": "Underforstået: »til ægte«.",
+          "type": "E",
           "position": 94
         }
       ],
@@ -197,7 +209,8 @@
       "text": "Hun fødte en søn, og han gav ham navnet Gershom, for han sagde: »Jeg er blevet fremmed i et fremmed land.«",
       "footnotes": [
         {
-          "text": "E: På hebraisk er der ordspil mellem »Gershom« (*gēršōm*) og »fremmed« (*gēr*).",
+          "text": "På hebraisk er der ordspil mellem »Gershom« (*gēršōm*) og »fremmed« (*gēr*).",
+          "type": "E",
           "position": 86
         }
       ],
@@ -209,7 +222,8 @@
       "title": "Gud vil se til sit folk",
       "footnotes": [
         {
-          "text": "T: Ordret: »de mange dage«.",
+          "text": "Ordret: »de mange dage«.",
+          "type": "T",
           "position": 22
         }
       ],

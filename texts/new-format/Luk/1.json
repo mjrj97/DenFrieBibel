@@ -28,7 +28,8 @@
       "text": "til en jomfru som var trolovet med en mand ved navn Josef, af Davids hus; og jomfruens navn var Maria.",
       "footnotes": [
         {
-          "text": "T: En trolovelse var langt mere bindende end vore dages forlovelser.",
+          "text": "En trolovelse var langt mere bindende end vore dages forlovelser.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -69,7 +70,8 @@
       "text": "Men Maria sagde til englen: »Hvordan skal det gå til, da jeg ikke har været sammen med nogen mand?«",
       "footnotes": [
         {
-          "text": "T: Ordret: »kender«.",
+          "text": "Ordret: »kender«.",
+          "type": "T",
           "position": 86
         }
       ],

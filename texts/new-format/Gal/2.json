@@ -44,7 +44,8 @@
       "text": "for dem bøjede vi os ikke et øjeblik, for at evangeliets sandhed skulle forblive hos jer,",
       "footnotes": [
         {
-          "text": "T: Der er brud mellem vers fire og fem",
+          "text": "Der er brud mellem vers fire og fem",
+          "type": "T",
           "position": 7
         }
       ],
@@ -60,7 +61,8 @@
       "text": "for han der har virket for Peter i aposteltjenesten for de omskårne, har også virket for mig for hedningerne,",
       "footnotes": [
         {
-          "text": "T: Underforstået »i aposteltjenesten«.",
+          "text": "Underforstået »i aposteltjenesten«.",
+          "type": "T",
           "position": 92
         }
       ],

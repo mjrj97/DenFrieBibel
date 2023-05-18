@@ -39,7 +39,8 @@
       "text": "\fFor du var værn for den ringe, \fværn for den fattige i hans nød, \ftilflugt fra regnskyl, skygge mod hede; \ffor voldsmænds fnysen er som regnskyl mod en mur.",
       "footnotes": [
         {
-          "text": "E: Det foreslås ofte at ændre vokaliseringen fra: *qîr* (»mur«) til: *qōr*: »kulde«, så oversættelsen bliver: »som et koldt regnskyl«.",
+          "text": "Det foreslås ofte at ændre vokaliseringen fra: *qîr* (»mur«) til: *qōr*: »kulde«, så oversættelsen bliver: »som et koldt regnskyl«.",
+          "type": "E",
           "position": 157
         }
       ],
@@ -55,7 +56,8 @@
       "text": "\fPå dette bjerg skal Hærskarers HERRE \fholde et måltid med fede retter\ffor alle folkeslagene\fet måltid med lagret vin, \ffede, marvfulde retter, \flagret, klaret vin.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 37
         }
       ],
@@ -66,7 +68,8 @@
       "text": "\fPå dette bjerg skal han bortskaffe \fsløret der tildækker, sløret over alle folkene, \fog det dække som alle folkeslagene er dækket med.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedningerne«.",
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
           "position": 120
         }
       ],
@@ -92,11 +95,13 @@
       "text": "\fOg det skal brede sine hænder ud i den, \fsom den der svømmer, breder sine hænder ud for at svømme; \fog han skal ydmyge dets overmod \fsammen med dets hænders dygtighed.",
       "footnotes": [
         {
-          "text": "T: JHVH",
+          "text": "JHVH",
+          "type": "T",
           "position": 107
         },
         {
-          "text": "E: Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.",
+          "text": "Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.",
+          "type": "E",
           "position": 168
         }
       ],
@@ -107,11 +112,13 @@
       "text": "\fOg dine  mures høje fæstningsværk \fskal han kaste ned, vælte, jævne med jorden, \fhelt ned i støvet.",
       "footnotes": [
         {
-          "text": "T: Moabs",
+          "text": "Moabs",
+          "type": "T",
           "position": 9
         },
         {
-          "text": "T: Ordret: »få til at berøre«.",
+          "text": "Ordret: »få til at berøre«.",
+          "type": "T",
           "position": 72
         }
       ],

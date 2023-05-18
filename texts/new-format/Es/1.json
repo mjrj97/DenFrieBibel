@@ -63,7 +63,8 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tOg Zions datter er blevet tilbage som en hytte i en vingård,\fsom et skur i en agurkehave,\fsom en belejret by.",
       "footnotes": [
         {
-          "text": "T: Der er måske tænkt på et primitivt vagtskur som man satte op i markerne for at kunne holde vagt.",
+          "text": "Der er måske tænkt på et primitivt vagtskur som man satte op i markerne for at kunne holde vagt.",
+          "type": "T",
           "position": 86
         }
       ],
@@ -129,7 +130,8 @@
       "text": "\f\t\t\t\t\t\t\tMen hvis I er uvillige\t\t\t\t\t\t\t\t\tog trodsige,\f\t\t\t\t\t\t\t\tskal I fortæres af sværdet;\f\t\t\t\t\t\t\t\t\tfor JHVHs mund har talt.",
       "footnotes": [
         {
-          "text": "E: Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.",
+          "text": "Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.",
+          "type": "E",
           "position": 75
         }
       ],
@@ -180,7 +182,8 @@
       "text": "\f\t\t\t\t\t\t\tFor de skal blive til skamme på grund af de terebinter\f\t\t\t\t\t\t\t\tsom I begærede,\f\t\t\t\t\t\tog I skal blive skamfulde på grund af de haver\f\t\t\t\t\t\t\t\t\tder var jeres glæde.",
       "footnotes": [
         {
-          "text": "T: Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.",
+          "text": "Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.",
+          "type": "T",
           "position": 62
         }
       ],

@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Ordret: »forstillede sin forstand«",
+          "text": "Ordret: »forstillede sin forstand«",
+          "type": "T",
           "position": 40
         }
       ],
@@ -57,7 +58,8 @@
       "text": "\fDe så på ham og strålede af glæde,\fog deres ansigter skal ikke blive skamfulde.",
       "footnotes": [
         {
-          "text": "E: Sætningen er vanskelig. Der mangler et subjekt, der må underforstås: »de/man«. Ellers skal *hibbîṭû* (»de så«)og *nāhārû* (»strålede af glæde«) vokaliseres som imperativer: *habbîṭû* og *nᵊhārû*: »Se hen til ham og strål af glæde«. Det kræver dog også rettelse i næste linje, hvor *ûfnêhem* (»og deres ansigt«) skal rettes til *ûfnêkem*: »jeres ansigter«",
+          "text": "Sætningen er vanskelig. Der mangler et subjekt, der må underforstås: »de/man«. Ellers skal *hibbîṭû* (»de så«)og *nāhārû* (»strålede af glæde«) vokaliseres som imperativer: *habbîṭû* og *nᵊhārû*: »Se hen til ham og strål af glæde«. Det kræver dog også rettelse i næste linje, hvor *ûfnêhem* (»og deres ansigt«) skal rettes til *ûfnêkem*: »jeres ansigter«",
+          "type": "E",
           "position": 35
         }
       ],
@@ -68,7 +70,8 @@
       "text": "\fDenne hjælpeløse råbte, og JHVH hørte\fog frelste ham af alle hans trængsler.",
       "footnotes": [
         {
-          "text": "T: Andre oversætter: »Her er en hjælpeløs, der råbte«",
+          "text": "Andre oversætter: »Her er en hjælpeløs, der råbte«",
+          "type": "T",
           "position": 24
         }
       ],
@@ -130,7 +133,8 @@
       "text": "\fDe skreg, og JHVH hørte,\fog fra alle deres trængsler befriede han dem.",
       "footnotes": [
         {
-          "text": "E: Som regel supplerer man med »retfærdige« (med støtte i gamle oversættelser). Andre foreslår at bytte om på v. 16 og v. 17, men dermed brydes salmens alfabetiske orden (se note til salmens nummer). Man skal dog ikke helt afskrive den mulighed at det faktisk er dem »som gør ondt« (v. 17), der »skreg« i smerte og angst, da »trængsler« ramte dem – og JHVH hørte og befriede",
+          "text": "Som regel supplerer man med »retfærdige« (med støtte i gamle oversættelser). Andre foreslår at bytte om på v. 16 og v. 17, men dermed brydes salmens alfabetiske orden (se note til salmens nummer). Man skal dog ikke helt afskrive den mulighed at det faktisk er dem »som gør ondt« (v. 17), der »skreg« i smerte og angst, da »trængsler« ramte dem – og JHVH hørte og befriede",
+          "type": "E",
           "position": 3
         }
       ],

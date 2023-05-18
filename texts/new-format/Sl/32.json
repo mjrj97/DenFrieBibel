@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende« Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende« Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«",
+          "type": "E",
           "position": 17
         }
       ],
@@ -47,11 +48,13 @@
       "text": "\fFor dag og nat lå din hånd tungt på mig,\fmin livskraft svandt hen\fi sommerens tørke. Sela",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lāšād* er højst usikker. Det optræder kun her og 4 Mos 11,8, hvor det oversættes »kage«. Her måske »fedt/saft«, der kan forstås som »livskraft«. Ellers må man rette til *lāšōn*: »tunge«",
+          "text": "Betydningen af *lāšād* er højst usikker. Det optræder kun her og 4 Mos 11,8, hvor det oversættes »kage«. Her måske »fedt/saft«, der kan forstås som »livskraft«. Ellers må man rette til *lāšōn*: »tunge«",
+          "type": "E",
           "position": 55
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 90
         }
       ],
@@ -69,7 +72,8 @@
       "title": "Opmuntring til at søge hjælp hos Gud",
       "footnotes": [
         {
-          "text": "E: Ordet *raq* er omdiskuteret. Oftest skal det oversættes »kun«. Det er usikkert om det skal knyttes til denne eller den foregående linje. Hvis det knyttes til den foregående linje, understreger det at tiden, hvor Gud kan findes, er begrænset",
+          "text": "Ordet *raq* er omdiskuteret. Oftest skal det oversættes »kun«. Det er usikkert om det skal knyttes til denne eller den foregående linje. Hvis det knyttes til den foregående linje, understreger det at tiden, hvor Gud kan findes, er begrænset",
+          "type": "E",
           "position": 62
         }
       ],
@@ -92,7 +96,8 @@
       "title": "Formaning og opmuntring til at stole på JHVH",
       "footnotes": [
         {
-          "text": "E: Verbet er plur., så verset kan ikke være umiddelbar forlængelse af det foregående vers",
+          "text": "Verbet er plur., så verset kan ikke være umiddelbar forlængelse af det foregående vers",
+          "type": "E",
           "position": 4
         }
       ],
@@ -103,7 +108,8 @@
       "text": "\fMange smerter er der til den ugudelige,\fmen den, som stoler på JHVH,\fomgiver han med nåde.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 90
         }
       ],

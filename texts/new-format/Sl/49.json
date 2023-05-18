@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -41,7 +42,8 @@
       "text": "\fbåde menneskesønner og herresønner,\frige og fattige sammen!",
       "footnotes": [
         {
-          "text": "T: Dvs.: Både lav og høj.",
+          "text": "Dvs.: Både lav og høj.",
+          "type": "T",
           "position": 36
         }
       ],
@@ -52,11 +54,13 @@
       "text": "\fMin mund taler dyb visdom,\fog mit hjertes tanke taler dyb indsigt.",
       "footnotes": [
         {
-          "text": "T: Grundteksten har »visdom« i pluralis, der angiver det intensive, altså: »dyb«.",
+          "text": "Grundteksten har »visdom« i pluralis, der angiver det intensive, altså: »dyb«.",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "T: »taler« er underforstået fra forrige linje.",
+          "text": "»taler« er underforstået fra forrige linje.",
+          "type": "T",
           "position": 54
         }
       ],
@@ -67,7 +71,8 @@
       "text": "\fJeg vil bøje mit øre til ordsprog,\fjeg vil åbne min gådetale til strengespil.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »billedtale, visdomsord«.",
+          "text": "Kan også oversættes: »billedtale, visdomsord«.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -79,7 +84,8 @@
       "title": "Rigdom sikrer ikke mod døden",
       "footnotes": [
         {
-          "text": "T: Det er omdiskuteret, om grundtekstens *ʕāqēv* kan betyde: »en der efterstræber«. I andre sammenhænge betyder det: »hæl«. Men den der griber efter næstens »hæl«, »efterstræber« ham netop. En del fortolkere ændrer vokaliseringen af *ʕᵃqēvay* til *ʕoqᵊvay*: »de der bedrager mig«.",
+          "text": "Det er omdiskuteret, om grundtekstens *ʕāqēv* kan betyde: »en der efterstræber«. I andre sammenhænge betyder det: »hæl«. Men den der griber efter næstens »hæl«, »efterstræber« ham netop. En del fortolkere ændrer vokaliseringen af *ʕᵃqēvay* til *ʕoqᵊvay*: »de der bedrager mig«.",
+          "type": "T",
           "position": 63
         }
       ],
@@ -95,7 +101,8 @@
       "text": "\fEn mand kan på ingen måde løskøbe en bror,\fhan kan ikke give Gud løsepenge for ham",
       "footnotes": [
         {
-          "text": "E: *ʔāḥ* (»bror«) står i grundteksten som versets første ord. Det er usædvanligt at objektet står først. Mange retter derfor til: *ʔax*: »dog«. Det fordrer dog også en rettelse af vokaliseringen af verbet til nif’al: *yifdeʰ* til: *yippādeʰ*: »Dog kan ingen mand på nogen måde købe sig fri.«",
+          "text": "*ʔāḥ* (»bror«) står i grundteksten som versets første ord. Det er usædvanligt at objektet står først. Mange retter derfor til: *ʔax*: »dog«. Det fordrer dog også en rettelse af vokaliseringen af verbet til nif’al: *yifdeʰ* til: *yippādeʰ*: »Dog kan ingen mand på nogen måde købe sig fri.«",
+          "type": "E",
           "position": 43
         }
       ],
@@ -106,7 +113,8 @@
       "text": "\f- og løsesummen for deres sjæl er høj\fog man må opgive det for evigt -",
       "footnotes": [
         {
-          "text": "T: Septuaginta har »hans sjæl«, der kunne være rigtig.",
+          "text": "Septuaginta har »hans sjæl«, der kunne være rigtig.",
+          "type": "T",
           "position": 26
         }
       ],
@@ -122,7 +130,8 @@
       "text": "\fFor man vil se at vise dør,\ftåbe og uforstandig omkommer sammen,\fog de efterlader deres formue til andre.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens *baʕar* betyder: »kvæg«. Det bruges her som betegnelse for et dyrisk menneske, et menneske uden ånd.",
+          "text": "Grundtekstens *baʕar* betyder: »kvæg«. Det bruges her som betegnelse for et dyrisk menneske, et menneske uden ånd.",
+          "type": "T",
           "position": 48
         }
       ],
@@ -133,7 +142,8 @@
       "text": "\fDeres inderste tanker er dette: deres huse skal stå for evigt,\fderes boliger slægt efter slægt,\fde har udråbt deres navne over jordlodder.",
       "footnotes": [
         {
-          "text": "E: Ordret: »deres indre«. De fleste fortolkere retter dog – med de gamle oversættelser - *qirbām* (»deres indre«) til: *qivrām*: »deres grav«, dvs.: »deres grav bliver deres huse for evigt«.",
+          "text": "Ordret: »deres indre«. De fleste fortolkere retter dog – med de gamle oversættelser - *qirbām* (»deres indre«) til: *qivrām*: »deres grav«, dvs.: »deres grav bliver deres huse for evigt«.",
+          "type": "E",
           "position": 22
         }
       ],
@@ -144,7 +154,8 @@
       "text": "\fDog kan et menneske med anseelse ikke bestå,\fhan bliver som kvæget der går til grunde.",
       "footnotes": [
         {
-          "text": "T: Ordret: »overnatte«, her i betydningen: være indlogeret i denne verden.",
+          "text": "Ordret: »overnatte«, her i betydningen: være indlogeret i denne verden.",
+          "type": "T",
           "position": 45
         }
       ],
@@ -156,11 +167,13 @@
       "title": "Tillid til rigdom og tillid til Gud",
       "footnotes": [
         {
-          "text": "E: *ʔaḥᵃrêhem* (»efter dem«) kan evt. angive det der kommer bagefter, altså: »deres ende«. Mange vælger dog at rette til: *ʔaḥᵃrîtām*: »deres ende«, altså: »og sådan er deres ende, som finder behag i deres mund«.",
+          "text": "*ʔaḥᵃrêhem* (»efter dem«) kan evt. angive det der kommer bagefter, altså: »deres ende«. Mange vælger dog at rette til: *ʔaḥᵃrîtām*: »deres ende«, altså: »og sådan er deres ende, som finder behag i deres mund«.",
+          "type": "E",
           "position": 95
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 100
         }
       ],
@@ -171,11 +184,13 @@
       "text": "\fSom får fører man dem til dødsriget,\fdøden skal vogte dem,\fog de retskafne skal herske over dem om morgenen,\fderes skikkelse undergives dødsrigets hensygnen,\fså de ikke får nogen bolig.",
       "footnotes": [
         {
-          "text": "T: Andre oversætter: »De styrer mod dødsriget som får«, men oversættelsen af hele verset er usikker.",
+          "text": "Andre oversætter: »De styrer mod dødsriget som får«, men oversættelsen af hele verset er usikker.",
+          "type": "T",
           "position": 37
         },
         {
-          "text": "E: Kan også oversættes: »og på dem« (dvs.: deres grave) »skal de retskafne træde om morgen«.",
+          "text": "Kan også oversættes: »og på dem« (dvs.: deres grave) »skal de retskafne træde om morgen«.",
+          "type": "E",
           "position": 109
         }
       ],
@@ -206,7 +221,8 @@
       "text": "\fså skal du dog gå til hans fædres slægt,\fi evighed skal de ikke se lys.",
       "footnotes": [
         {
-          "text": "T: Mange vælger at rette *tāvôʔ* (»du skal gå«) til *tāvôʔ*: »han skal gå«. Meningen med den overleverede tekst må være at den rige, selvglade, skal gå til den gudløses fædre.",
+          "text": "Mange vælger at rette *tāvôʔ* (»du skal gå«) til *tāvôʔ*: »han skal gå«. Meningen med den overleverede tekst må være at den rige, selvglade, skal gå til den gudløses fædre.",
+          "type": "T",
           "position": 11
         }
       ],

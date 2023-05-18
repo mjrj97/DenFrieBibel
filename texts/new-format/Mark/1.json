@@ -34,7 +34,8 @@
       "text": "\fDer er en stemme af en der råber i ørkenen: Forbered Herrens vej, gør hans stier jævne!«.",
       "footnotes": [
         {
-          "text": "H: Mal 3,1; Es 40,3",
+          "text": "Mal 3,1; Es 40,3",
+          "type": "H",
           "position": 89
         }
       ],
@@ -81,7 +82,8 @@
       "text": "og der lød en stemme fra himlene: »Du er min søn, den elskede, dig har jeg udvalgt.«",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »I dig har jeg velbehag.«",
+          "text": "Kan også oversættes: »I dig har jeg velbehag.«",
+          "type": "T",
           "position": 82
         }
       ],
@@ -259,7 +261,8 @@
       "text": "og sagde: »Se til at du ikke siger det til nogen; men gå hen og vis dig for præsten, og bring det offer for din renselse som Moses har befalet, til vidnesbyrd for dem!«",
       "footnotes": [
         {
-          "text": "H: 3 Mos 14,1-32",
+          "text": "3 Mos 14,1-32",
+          "type": "H",
           "position": 168
         }
       ],

@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Klage over menneskers fordærvede tilstand",
       "footnotes": [
         {
-          "text": "T: Ordret: »Adams børn/menneskes børn«.",
+          "text": "Ordret: »Adams børn/menneskes børn«.",
+          "type": "T",
           "position": 41
         }
       ],
@@ -58,7 +60,8 @@
       "text": "\fDa skal de gribes af stor rædsel,\ffor Gud er med en retfærdigs slægt.",
       "footnotes": [
         {
-          "text": "E: Perfektiv skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det, der vil ske. Ellers skal der oversættes: »Da var de grebet af stor rædsel«.",
+          "text": "Perfektiv skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det, der vil ske. Ellers skal der oversættes: »Da var de grebet af stor rædsel«.",
+          "type": "E",
           "position": 34
         }
       ],
@@ -75,11 +78,13 @@
       "title": "Bøn om frelse",
       "footnotes": [
         {
-          "text": "T: Ordret: »hvem giver«, men det er en almindelig ønskeformel.",
+          "text": "Ordret: »hvem giver«, men det er en almindelig ønskeformel.",
+          "type": "T",
           "position": 4
         },
         {
-          "text": "E: Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det er afledt af roden * šbh* (»tage til fange«), altså: »fangenskab«. Nu peges der oftest på roden *šwb* (egtl.: »vende tilbage«), her: »lod« eller evt. »ændre forholdene/situationen«.",
+          "text": "Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det er afledt af roden * šbh* (»tage til fange«), altså: »fangenskab«. Nu peges der oftest på roden *šwb* (egtl.: »vende tilbage«), her: »lod« eller evt. »ændre forholdene/situationen«.",
+          "type": "E",
           "position": 69
         }
       ],

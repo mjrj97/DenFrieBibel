@@ -24,7 +24,8 @@
       "title": "Jonas’ taksigelse i havdyret",
       "footnotes": [
         {
-          "text": "E: Fortælleren har her og i 4,6-8 valgt et sjældent verbum for Guds handling, *mnh*, som har en kernetydning af at bestemme og tildele noget.",
+          "text": "Fortælleren har her og i 4,6-8 valgt et sjældent verbum for Guds handling, *mnh*, som har en kernetydning af at bestemme og tildele noget.",
+          "type": "E",
           "position": 18
         }
       ],
@@ -40,7 +41,8 @@
       "text": "\tog sagde: \f\t\t»Jeg råbte i min nød til HERREN,\f\t\t\t\t\tog han svarede mig; \f\t\t\t\tfra gravens indre  råbte jeg om hjælp, \f\t\t\t\t\tog du hørte min røst.",
       "footnotes": [
         {
-          "text": "E: *beṭen šᵊʔôl* er ordret »sheols bug.« Ordet *šᵊʔôl* referer ofte til »dødsriget« eller »helvede«, men også til »graven« og i enkelte tilfælde til det der svarer til den nærorientalske »underverden«. Tidligere oversattes det med »dødsrigets dyb« (DO92) eller »skød« (1871, 1931). Det er svært af finde et godt dansk billede.",
+          "text": "*beṭen šᵊʔôl* er ordret »sheols bug.« Ordet *šᵊʔôl* referer ofte til »dødsriget« eller »helvede«, men også til »graven« og i enkelte tilfælde til det der svarer til den nærorientalske »underverden«. Tidligere oversattes det med »dødsrigets dyb« (DO92) eller »skød« (1871, 1931). Det er svært af finde et godt dansk billede.",
+          "type": "E",
           "position": 95
         }
       ],
@@ -61,11 +63,13 @@
       "text": "\f\t\t\t\t\t\t\t\t\t\tVandet omsluttede mig livstruende,  \f\t\t\t\t\t\t\t\t\t\t\tverdenshavet omgav mig, \f\t\t\t\t\t\t\t\t\t\t\t\t\tsiv  var viklet fast om mit hoved.",
       "footnotes": [
         {
-          "text": "T: Ordret: »indtil sjælen«; der må her være tænkt på profetens liv og ikke kun hans sind eller psyke.",
+          "text": "Ordret: »indtil sjælen«; der må her være tænkt på profetens liv og ikke kun hans sind eller psyke.",
+          "type": "T",
           "position": 46
         },
         {
-          "text": "E: sûf »siv«, henviser til sivene ved Nilen (2 Mos 2,3.5. Es 19,6) og indgår i betegnelsen *Sivhavet* (2 Mos 10,19. 1 Kong 9,26 osv.). Ofte antages at ordet her må have en særlig betydning med reference til vandplanter som tang.",
+          "text": "sûf »siv«, henviser til sivene ved Nilen (2 Mos 2,3.5. Es 19,6) og indgår i betegnelsen *Sivhavet* (2 Mos 10,19. 1 Kong 9,26 osv.). Ofte antages at ordet her må have en særlig betydning med reference til vandplanter som tang.",
+          "type": "E",
           "position": 101
         }
       ],
@@ -81,7 +85,8 @@
       "text": "\f\t\t\t\tDa mit liv var allersvagest \f\t\t\thuskede jeg på HERREN\f\t\t\t\t\t\tmin bøn nåede frem til dig, til dit hellige tempel.",
       "footnotes": [
         {
-          "text": "T: Der mangler et verbum i teksten; det suppleres for at teksten kan give mening.",
+          "text": "Der mangler et verbum i teksten; det suppleres for at teksten kan give mening.",
+          "type": "T",
           "position": 32
         }
       ],
@@ -102,7 +107,8 @@
       "text": "\fOg HERREN talte til havdyret,\tog den kastede Jonas op på det tørre land.",
       "footnotes": [
         {
-          "text": "T: Verbets grundbetydning er »kaste op, brække sig,« men effekten af det er at Jonas reddes i land.",
+          "text": "Verbets grundbetydning er »kaste op, brække sig,« men effekten af det er at Jonas reddes i land.",
+          "type": "T",
           "position": 54
         }
       ],

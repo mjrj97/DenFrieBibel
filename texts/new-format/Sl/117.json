@@ -24,7 +24,8 @@
       "title": "Lovpris JHVH",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hedninger«, men det er næppe meningen her.",
+          "text": "Kan også oversættes: »hedninger«, men det er næppe meningen her.",
+          "type": "T",
           "position": 24
         }
       ],
@@ -35,15 +36,18 @@
       "text": "\fFor hans nåde mod os har været mægtig,\fog JHVHs troskab varer til evig tid.\fHalleluja! ",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 14
         },
         {
-          "text": "T: Kan også oversættes: »sandhed«.",
+          "text": "Kan også oversættes: »sandhed«.",
+          "type": "T",
           "position": 56
         },
         {
-          "text": "T: Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 118.",
+          "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 118.",
+          "type": "T",
           "position": 88
         }
       ],

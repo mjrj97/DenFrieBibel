@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         },
         {
-          "text": "T: Verbet: *yšv* kan både betyde: »sidde« og: »bo«. Begge oversættelser er mulige her.",
+          "text": "Verbet: *yšv* kan både betyde: »sidde« og: »bo«. Begge oversættelser er mulige her.",
+          "type": "T",
           "position": 90
         }
       ],
@@ -40,11 +42,13 @@
       "title": "Brødrenes fællesskab",
       "footnotes": [
         {
-          "text": "T: Det er henvisning til »Arons skæg«, ikke til »olie«.",
+          "text": "Det er henvisning til »Arons skæg«, ikke til »olie«.",
+          "type": "T",
           "position": 82
         },
         {
-          "text": "E: *peʰ* betyder egentlig blot: »mund, munding, åbning«; det kan også oversættes: »søm, rand«, men her opfattes det traditionelt som: »halsåbning«. En del oversættere sletter i øvrigt både denne og den foregående linje (»Arons skæg«) som senere randbemærkning.",
+          "text": "*peʰ* betyder egentlig blot: »mund, munding, åbning«; det kan også oversættes: »søm, rand«, men her opfattes det traditionelt som: »halsåbning«. En del oversættere sletter i øvrigt både denne og den foregående linje (»Arons skæg«) som senere randbemærkning.",
+          "type": "E",
           "position": 122
         }
       ],

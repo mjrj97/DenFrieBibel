@@ -24,15 +24,18 @@
       "title": "Pagtsteltets indre",
       "footnotes": [
         {
-          "text": "E: Se note til 25,9.",
+          "text": "Se note til 25,9.",
+          "type": "E",
           "position": 12
         },
         {
-          "text": "T: Ordret: »karminrød orm«.",
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
           "position": 102
         },
         {
-          "text": "T: Ordet »med« står ikke i den hebraiske tekst, men meningen må være, at de der laver teltdugene skal væve dem, så der fremstår billeder af keruber.",
+          "text": "Ordet »med« står ikke i den hebraiske tekst, men meningen må være, at de der laver teltdugene skal væve dem, så der fremstår billeder af keruber.",
+          "type": "T",
           "position": 111
         }
       ],
@@ -63,7 +66,8 @@
       "text": "Og du skal lave halvtreds guldhager og fæste teltdugene, den ene til den anden, med hagerne, så boligen bliver en helhed.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »bliver ét«.",
+          "text": "Ordret: »bliver ét«.",
+          "type": "T",
           "position": 122
         }
       ],
@@ -105,7 +109,8 @@
       "text": "og den alen på den ene side og den alen på den anden side, som er tilovers i længden af teltets teltdug, skal hænge ned over hver sin side af teltet for at dække det.",
       "footnotes": [
         {
-          "text": "T: Ordret: »på den side og den side«.",
+          "text": "Ordret: »på den side og den side«.",
+          "type": "T",
           "position": 138
         }
       ],
@@ -116,7 +121,8 @@
       "text": "Du skal lave et dække over teltet af rødfarvede vædderskind og et dække derover af delfinskind.«",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
           "position": 96
         }
       ],
@@ -173,7 +179,8 @@
       "text": "og de skal være tvillinger forneden og samtidig samlede foroven i én ring; sådan skal det være med dem begge, de skal være til de to hjørner.",
       "footnotes": [
         {
-          "text": "E: Der er formodentlig tale om et teknisk udtryk. Meningen er nok, at det skal være dobbeltplanker med én dobbeltplanke i hvert hjørne.",
+          "text": "Der er formodentlig tale om et teknisk udtryk. Meningen er nok, at det skal være dobbeltplanker med én dobbeltplanke i hvert hjørne.",
+          "type": "E",
           "position": 26
         }
       ],
@@ -215,7 +222,8 @@
       "title": "Pagtsteltets forhæng",
       "footnotes": [
         {
-          "text": "T: Eller: »han«, nemlig kunstneren.",
+          "text": "Eller: »han«, nemlig kunstneren.",
+          "type": "T",
           "position": 141
         }
       ],

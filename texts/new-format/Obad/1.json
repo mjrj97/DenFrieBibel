@@ -19,7 +19,8 @@
       "text": "Obadias’ syn.\f\fSåledes siger den herre JHVH om Edom.\fVi har hørt et budskab fra JHVH;\fen budbringer er blevet sendt ud blandt folkeslagene:\f»Rejs jer! Lad os rejse os for at gå i krig mod hende.«",
       "footnotes": [
         {
-          "text": "T: Dvs. Edom.",
+          "text": "Dvs. Edom.",
+          "type": "T",
           "position": 195
         }
       ],
@@ -36,11 +37,13 @@
       "text": "\fDit hjertes hovmod har bedraget dig, du som bor i klippekløfter,\fi dine boliger højt oppe;\fdu som siger i dit hjerte:\f»Hvem kan bringe mig ned til jorden?«",
       "footnotes": [
         {
-          "text": "E: Ordret »klippernes kløfter« eller »Selas kløfter«, hvilket kan være et stednavn, jf. 2 Kong 14,17; 2 Krøn 25,12.",
+          "text": "Ordret »klippernes kløfter« eller »Selas kløfter«, hvilket kan være et stednavn, jf. 2 Kong 14,17; 2 Krøn 25,12.",
+          "type": "E",
           "position": 65
         },
         {
-          "text": "E: Ordret »hans«, men det referer til Edom.",
+          "text": "Ordret »hans«, men det referer til Edom.",
+          "type": "E",
           "position": 72
         }
       ],
@@ -56,15 +59,18 @@
       "text": "\fHvis røvere kom til dig;\fhvis plyndringsmænd kom om natten\f– hvor er du blevet ødelagt! –\fville de ikke blot røve hvad der var tilstrækkeligt for dem?\fHvis høstfolk kom til dig og plukkede druer,\fville de ikke efterlade en rest?",
       "footnotes": [
         {
-          "text": "E: »Kom« er tilføjet, men er underforstået fra første del af verset.",
+          "text": "»Kom« er tilføjet, men er underforstået fra første del af verset.",
+          "type": "E",
           "position": 49
         },
         {
-          "text": "E: Det hebraiske ord *dāmāʰ* kan både oversættes med »ødelægge« og »ligne«. Vælger man »ligne« ville meningen med verset være at Edom sammenlignes med røvere og plyndringsmænd.",
+          "text": "Det hebraiske ord *dāmāʰ* kan både oversættes med »ødelægge« og »ligne«. Vælger man »ligne« ville meningen med verset være at Edom sammenlignes med røvere og plyndringsmænd.",
+          "type": "E",
           "position": 88
         },
         {
-          "text": "E: Ordret »efterslæt«.",
+          "text": "Ordret »efterslæt«.",
+          "type": "E",
           "position": 228
         }
       ],
@@ -80,19 +86,23 @@
       "text": "\fDe har forvist dig til grænsen, alle dine allierede.\fDe har bedraget dig;\fdine venner har fået magten over dig.\fDe der spiser dit brød, har lagt fælder ud under dig.\fDer er ingen forstandighed hos ham.",
       "footnotes": [
         {
-          "text": "E: Ordret »pagtsfæller«.",
+          "text": "Ordret »pagtsfæller«.",
+          "type": "E",
           "position": 53
         },
         {
-          "text": "E: Ordret »fredsfæller«.",
+          "text": "Ordret »fredsfæller«.",
+          "type": "E",
           "position": 86
         },
         {
-          "text": "E: Den hebraiske grundtekst har ikke »de der spiser«, men denne læsning har støtte i Vulgata, Targum og en udgave af LXX.",
+          "text": "Den hebraiske grundtekst har ikke »de der spiser«, men denne læsning har støtte i Vulgata, Targum og en udgave af LXX.",
+          "type": "E",
           "position": 136
         },
         {
-          "text": "E: Sidste del af verset er vanskeligt, særligt betydningen af *māzôr*, her oversat med »fælder«. Ordet er sjældent i GT og oversættes ellers med »sår«. De fleste oversættelser oversætter med »fælder« med støtte i LXX, Vulgata, Targum og Peshitta. En tredje mulighed er at oversætte med »et sted for fremmede« efter ordet *zar* »fremmed«, hvilket ville give oversættelsen »De der spiser dit brød, har sat et fremmed folk i dit sted«.",
+          "text": "Sidste del af verset er vanskeligt, særligt betydningen af *māzôr*, her oversat med »fælder«. Ordet er sjældent i GT og oversættes ellers med »sår«. De fleste oversættelser oversætter med »fælder« med støtte i LXX, Vulgata, Targum og Peshitta. En tredje mulighed er at oversætte med »et sted for fremmede« efter ordet *zar* »fremmed«, hvilket ville give oversættelsen »De der spiser dit brød, har sat et fremmed folk i dit sted«.",
+          "type": "E",
           "position": 166
         }
       ],
@@ -108,7 +118,8 @@
       "text": "\fDine krigere, Teman, skal blive rædselsslagne, \fså at alle fra Esaus bjerg vil blive tilintetgjort ved slagtning.",
       "footnotes": [
         {
-          "text": "E: Ved fysiske ting oversættes *ḥatat* med »knust« eller »spredt«, men ved mennesker er der tale om en psykologisk tilstand af angst og lammelse.",
+          "text": "Ved fysiske ting oversættes *ḥatat* med »knust« eller »spredt«, men ved mennesker er der tale om en psykologisk tilstand af angst og lammelse.",
+          "type": "E",
           "position": 47
         }
       ],
@@ -129,7 +140,8 @@
       "text": "\fDu må ikke godte dig over din brors dag,\fover hans ulykkes dag.\fDu må ikke juble over Judas sønner på dagen for deres udryddelse.\fDu må ikke prale på trængslens dag.",
       "footnotes": [
         {
-          "text": "E: Ordret »gøre din mund stor«.",
+          "text": "Ordret »gøre din mund stor«.",
+          "type": "E",
           "position": 147
         }
       ],
@@ -155,7 +167,8 @@
       "text": "\fFor ligesom I har drukket på mit hellige bjerg,\fsådan skal alle folkeslagene drikke dagligt.\fDe skal drikke og synke\fog blive som havde de ikke været til.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes med »slubre«.",
+          "text": "Kan også oversættes med »slubre«.",
+          "type": "E",
           "position": 117
         }
       ],
@@ -177,11 +190,13 @@
       "text": "\fSydlandet skal erobre Esaus bjerg,\fog Lavlandet skal erobre filistrene.\fDe skal erobre Efraims område og Samarias område;\fBenjamin skal erobre Gilead.",
       "footnotes": [
         {
-          "text": "T: Dvs. Negev.",
+          "text": "Dvs. Negev.",
+          "type": "T",
           "position": 10
         },
         {
-          "text": "T: Dvs. Shefelah.",
+          "text": "Dvs. Shefelah.",
+          "type": "T",
           "position": 48
         }
       ],
@@ -192,11 +207,13 @@
       "text": "\fDe fordrevne, en gruppe af israelitterne som er kanaanæere, skal erobre så langt som til Sarepta.\fOg Jerusalems fordrevne som er i Sefarad, skal erobre Sydlandets byer.",
       "footnotes": [
         {
-          "text": "E: »Gruppe« skal her forstås som en mindre militærstyrke. En anden mulighed er at forstå *ḥēl* som en ydre fæstning eller vold, hvilket ville give oversættelsen »de fordrevne fra denne vold tilhørende israelitterne«.",
+          "text": "»Gruppe« skal her forstås som en mindre militærstyrke. En anden mulighed er at forstå *ḥēl* som en ydre fæstning eller vold, hvilket ville give oversættelsen »de fordrevne fra denne vold tilhørende israelitterne«.",
+          "type": "E",
           "position": 24
         },
         {
-          "text": "E: Det er mærkværdigt at israelitterne her betegnes som kanaanæere. Es 19,18 betegner dog hebraisk som et kanaanæisk sprog, så der findes paralleller til denne tankegang.",
+          "text": "Det er mærkværdigt at israelitterne her betegnes som kanaanæere. Es 19,18 betegner dog hebraisk som et kanaanæisk sprog, så der findes paralleller til denne tankegang.",
+          "type": "E",
           "position": 59
         }
       ],
@@ -207,7 +224,8 @@
       "text": "\fBefrierne skal drage op på Zions bjerg for at dømme Esaus bjerg.\fKongedømmet skal tilhøre JHVH.",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes med »herske over«.",
+          "text": "Kan også oversættes med »herske over«.",
+          "type": "E",
           "position": 52
         }
       ],

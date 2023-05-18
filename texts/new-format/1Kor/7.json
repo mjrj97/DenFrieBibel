@@ -79,11 +79,13 @@
       "text": "\fMen til de andre siger jeg, ikke Herren: Hvis en broder har en vantro kone, og hun samtykker i at bo hos ham, så skal han ikke forlade hende.",
       "footnotes": [
         {
-          "text": "T: i blandede ægteskaber.",
+          "text": "i blandede ægteskaber.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: ikke kristen.",
+          "text": "ikke kristen.",
+          "type": "T",
           "position": 70
         }
       ],
@@ -134,7 +136,8 @@
       "text": "Blev du kaldet som træl, så lad det ikke bekymre dig, men selvom du også kan blive fri, så gør hellere brug af det!",
       "footnotes": [
         {
-          "text": "T: nemlig enten: Af lejligheden til at blive fri, eller: Af din trællestand.",
+          "text": "nemlig enten: Af lejligheden til at blive fri, eller: Af din trællestand.",
+          "type": "T",
           "position": 115
         }
       ],
@@ -160,7 +163,8 @@
       "text": "\fMen om de unge piger har jeg ikke nogen befaling fra Herren, men giver min mening til kende som den, Herren barmhjertigt har undt at være troværdig.",
       "footnotes": [
         {
-          "text": "T: ordret:”Jomfruerne”",
+          "text": "ordret:”Jomfruerne”",
+          "type": "T",
           "position": 21
         }
       ],

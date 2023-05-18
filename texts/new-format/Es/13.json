@@ -24,7 +24,8 @@
       "title": "Profeti om Babylonien",
       "footnotes": [
         {
-          "text": "T: Der er tænkt på en profetisk vision.",
+          "text": "Der er tænkt på en profetisk vision.",
+          "type": "T",
           "position": 55
         }
       ],
@@ -45,7 +46,8 @@
       "text": "\fDer høres en larm på bjergene \fsom af et stort folk, \fder høres kongerigers bulder,\ffolkeslag der samles; \fHærskarers HERRE mønstrer \fen krigshær.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 124
         }
       ],
@@ -56,7 +58,8 @@
       "text": "\fDe kommer fra et land langt borte, \ffra himlens ende, \fJHVH og hans vredes redskab, \ffor at ødelægge hele landet.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »hele jorden«, men i sammenhængen er der tale om Babylonien.",
+          "text": "Kan også oversættes: »hele jorden«, men i sammenhængen er der tale om Babylonien.",
+          "type": "T",
           "position": 114
         }
       ],
@@ -82,7 +85,8 @@
       "text": "\fSe, JHVHs dag kommer frygtelig, med harme og glødende vrede, \ffor at lægge landet øde \fog udrydde dets syndere fra det.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »jorden«.",
+          "text": "Kan også oversættes: »jorden«.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -108,7 +112,8 @@
       "text": "\fDerfor vil jeg få himle til at ryste, \fog jorden skal rystes bort fra sit sted \fved Hærskarers HERRES harme \fog på hans glødende vredes dag.",
       "footnotes": [
         {
-          "text": "N: Hærskarers",
+          "text": "Hærskarers",
+          "type": "N",
           "position": 102
         }
       ],
@@ -154,15 +159,18 @@
       "text": "\fMen ørkendyr skal ligge der, \fog deres huse skal fyldes af ugler, \fdér skal strudses afkom tage bolig, \fog bukketrolde springer omkring der.",
       "footnotes": [
         {
-          "text": "T: Det vides ikke præcis hvilke dyr der er tale om.",
+          "text": "Det vides ikke præcis hvilke dyr der er tale om.",
+          "type": "T",
           "position": 13
         },
         {
-          "text": "T: Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med »ugle«, andre gætter på »sjakaler«.",
+          "text": "Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med »ugle«, andre gætter på »sjakaler«.",
+          "type": "T",
           "position": 66
         },
         {
-          "text": "T: Bukkelignende dæmoner.",
+          "text": "Bukkelignende dæmoner.",
+          "type": "T",
           "position": 119
         }
       ],
@@ -173,7 +181,8 @@
       "text": "\fHyæner skal hyle i borgene \fog sjakaler i herlige paladser; \fdet varer ikke længe før dets tid kommer, \fog dets dage skal ikke forlænges.",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: »mod dets/hans enker«. De gamle oversættelser har: »i paladserne/borgene«. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: »i dets borge«.",
+          "text": "Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: »mod dets/hans enker«. De gamle oversættelser har: »i paladserne/borgene«. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: »i dets borge«.",
+          "type": "E",
           "position": 27
         }
       ],

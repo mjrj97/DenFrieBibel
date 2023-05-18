@@ -64,7 +64,8 @@
       "text": "Og han spurgte ham: »Hvad er dit navn?« Han sagde til ham: »Legion er mit navn, for vi er mange.«",
       "footnotes": [
         {
-          "text": "T: En legion i den romerske hær bestod af 6.000 mand",
+          "text": "En legion i den romerske hær bestod af 6.000 mand",
+          "type": "T",
           "position": 66
         }
       ],

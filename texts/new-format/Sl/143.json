@@ -20,7 +20,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »bønhør«.",
+          "text": "Kan også oversættes: »bønhør«.",
+          "type": "T",
           "position": 66
         }
       ],
@@ -38,11 +39,13 @@
       "title": "Klage",
       "footnotes": [
         {
-          "text": "T: Ordret: »min sjæl«.",
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
           "position": 32
         },
         {
-          "text": "T: Andre oversætter: »dem der for længst er døde«.",
+          "text": "Andre oversætter: »dem der for længst er døde«.",
+          "type": "T",
           "position": 131
         }
       ],
@@ -64,11 +67,13 @@
       "text": "\fJeg har bredt mine hænder ud mod dig,\fmin sjæl er som udtørret land for dig. Sela",
       "footnotes": [
         {
-          "text": "T: Det er underforstået at sjælen tørster efter Gud.",
+          "text": "Det er underforstået at sjælen tørster efter Gud.",
+          "type": "T",
           "position": 77
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 82
         }
       ],
@@ -80,7 +85,8 @@
       "title": "Bøn",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »bønhør«.",
+          "text": "Kan også oversættes: »bønhør«.",
+          "type": "T",
           "position": 16
         }
       ],
@@ -91,7 +97,8 @@
       "text": "\fForkynd mig om morgenen din nåde,\ffor jeg har stolet på dig.\fLad mig kende den vej, jeg skal gå,\ffor jeg har løftet min sjæl til dig.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 33
         }
       ],
@@ -107,7 +114,8 @@
       "text": "\fLær mig at gøre din vilje,\ffor du er min Gud,\fdin Ånd er god,\ffør mig på jævnt land!",
       "footnotes": [
         {
-          "text": "E: Kan også oversættes: »lad den føre mig ...«. Mange oversættere flytter masoreternes skillende accent, så *tanḥēnî* (»før mig/lad den føre mig«) knyttes til foregående linje, der så oversættes: »lad din gode Ånd føre mig«. En del håndskrifter har: *ʔôraḥ*: »sti« i stedet for: *ʔereṣ* (»land«).",
+          "text": "Kan også oversættes: »lad den føre mig ...«. Mange oversættere flytter masoreternes skillende accent, så *tanḥēnî* (»før mig/lad den føre mig«) knyttes til foregående linje, der så oversættes: »lad din gode Ånd føre mig«. En del håndskrifter har: *ʔôraḥ*: »sti« i stedet for: *ʔereṣ* (»land«).",
+          "type": "E",
           "position": 85
         }
       ],
@@ -123,7 +131,8 @@
       "text": "\fUdslet i din nåde mine fjender,\fog lad alle dem som bekriger min sjæl, gå til grunde,\ffor jeg er din tjener.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 18
         }
       ],

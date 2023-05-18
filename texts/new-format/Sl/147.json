@@ -20,7 +20,8 @@
       "title": "Lovsyng JHVH som tager sig af sit folk",
       "footnotes": [
         {
-          "text": "E: Indledningen til salmen kan også oversættes: »Pris JHVH for det er godt ...«.",
+          "text": "Indledningen til salmen kan også oversættes: »Pris JHVH for det er godt ...«.",
+          "type": "E",
           "position": 14
         }
       ],
@@ -31,7 +32,8 @@
       "text": "\fJHVH bygger Jerusalem op,\fhan samler Israels fordrevne.",
       "footnotes": [
         {
-          "text": "E: Ordet: *nidḥê* (»fordrevne«) kan også oversættes: »dem der er skubbet til side« og derved være henvisning til landets svage og værdiløse.",
+          "text": "Ordet: *nidḥê* (»fordrevne«) kan også oversættes: »dem der er skubbet til side« og derved være henvisning til landets svage og værdiløse.",
+          "type": "E",
           "position": 56
         }
       ],
@@ -57,7 +59,8 @@
       "text": "\fJHVH tager sig af de ydmyge,\fde ugudelige fornedrer han til jorden.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »elendige«.",
+          "text": "Kan også oversættes: »elendige«.",
+          "type": "T",
           "position": 29
         }
       ],
@@ -68,7 +71,8 @@
       "text": "\fStem i med takkesang til JHVH,\fspil på citer for vor Gud,",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »svar med«. Der er tale om to forskellige hebraiske ord med samme stavemåde.",
+          "text": "Kan også oversættes: »svar med«. Der er tale om to forskellige hebraiske ord med samme stavemåde.",
+          "type": "T",
           "position": 7
         }
       ],
@@ -79,7 +83,8 @@
       "text": "\fsom dækker himlen med skyer,\fsom sørger for regn til jorden,\fsom lader græs spire frem på bjergene.",
       "footnotes": [
         {
-          "text": "E: På grundlag af nogle håndskrifter til Septuaginta supplerer man undertiden verset med en fjerde linje: »og planter til mennesket at arbejde med« (ordret: »til menneskets arbejde«). Det kan også oversættes: »til menneskets tjeneste«. Jf. Sl 104,14.",
+          "text": "På grundlag af nogle håndskrifter til Septuaginta supplerer man undertiden verset med en fjerde linje: »og planter til mennesket at arbejde med« (ordret: »til menneskets arbejde«). Det kan også oversættes: »til menneskets tjeneste«. Jf. Sl 104,14.",
+          "type": "E",
           "position": 100
         }
       ],
@@ -100,7 +105,8 @@
       "text": "\fJHVH har velbehag i dem som frygter ham,\fdem som håber på hans nåde.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 68
         }
       ],
@@ -122,7 +128,8 @@
       "text": "\fHan sørger for fred i dit territorium,\fhan mætter dig med hvedes fedme.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »ved din grænse«.",
+          "text": "Kan også oversættes: »ved din grænse«.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -133,11 +140,13 @@
       "text": "\fHan sender sit ord til jorden,\fhans ord løber meget hurtigt.",
       "footnotes": [
         {
-          "text": "T: Det hebraiske: *ʔimrāʰ* har ofte bibetydning af løfte.",
+          "text": "Det hebraiske: *ʔimrāʰ* har ofte bibetydning af løfte.",
+          "type": "T",
           "position": 19
         },
         {
-          "text": "T: Her det hebraiske: *dāvār*, der i sammenhængen angiver skaberord.",
+          "text": "Her det hebraiske: *dāvār*, der i sammenhængen angiver skaberord.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -153,15 +162,18 @@
       "text": "\fHan kaster sin hagl som brødstumper,\fhvem kan bestå for hans kulde?",
       "footnotes": [
         {
-          "text": "T: Ordret: »is«.",
+          "text": "Ordret: »is«.",
+          "type": "T",
           "position": 20
         },
         {
-          "text": "E: Ordret: »stykker, stumper«. Ordet: *pat* er en del steder i GT forbundet med: *leḥem* (»brød«). Det er formodentlig også underforstået her.",
+          "text": "Ordret: »stykker, stumper«. Ordet: *pat* er en del steder i GT forbundet med: *leḥem* (»brød«). Det er formodentlig også underforstået her.",
+          "type": "E",
           "position": 37
         },
         {
-          "text": "E: Ofte retter man: *mî yaʕᵃmōd* (»hvem kan bestå«) til: *mayim yaʕᵃmōdû*: »vand står stille«. Let omskrevet bliver oversættelsen: »for hans kulde bliver vandet til is«. Rettelsen har dog ingen støtte i håndskrifter eller gamle oversættelser.",
+          "text": "Ofte retter man: *mî yaʕᵃmōd* (»hvem kan bestå«) til: *mayim yaʕᵃmōdû*: »vand står stille«. Let omskrevet bliver oversættelsen: »for hans kulde bliver vandet til is«. Rettelsen har dog ingen støtte i håndskrifter eller gamle oversættelser.",
+          "type": "E",
           "position": 68
         }
       ],
@@ -172,7 +184,8 @@
       "text": "\fHan sender sit ord og smelter dem,\fnår han lader sin vind blæse, flyder vandene.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »Ånd«.",
+          "text": "Kan også oversættes: »Ånd«.",
+          "type": "T",
           "position": 58
         }
       ],
@@ -183,7 +196,8 @@
       "text": "\fHan kundgør Jakob sit ord,\fIsrael sine lovbud og sine bestemmelser.",
       "footnotes": [
         {
-          "text": "E: Konsonantteksten angiver singularis, mens vokaliseringen angiver pluralis: »sine ord«.",
+          "text": "Konsonantteksten angiver singularis, mens vokaliseringen angiver pluralis: »sine ord«.",
+          "type": "E",
           "position": 27
         }
       ],
@@ -194,7 +208,8 @@
       "text": "\fSådan har han ikke gjort ved noget andet folk,\fog bestemmelser, dem har de ikke kendt.\fHalleluja!",
       "footnotes": [
         {
-          "text": "E: Mange oversættere følger Septuaginta og flere af de gamle oversættelser, der forudsætter at: *yᵊdāʕûm* (»dem har de (ikke) kendt«) vokaliseres: *yōdiʕēm*: »dem har han (ikke) kundgjort dem«. Desuden følger mange Septuaginta og retter: *mišpāṭîm* (»bestemmelser«) til: *mišpāṭāʸw*: »sine bestemmelser«. Linjen lyder så: »og han har ikke kundgjort dem sine bestemmelser«.",
+          "text": "Mange oversættere følger Septuaginta og flere af de gamle oversættelser, der forudsætter at: *yᵊdāʕûm* (»dem har de (ikke) kendt«) vokaliseres: *yōdiʕēm*: »dem har han (ikke) kundgjort dem«. Desuden følger mange Septuaginta og retter: *mišpāṭîm* (»bestemmelser«) til: *mišpāṭāʸw*: »sine bestemmelser«. Linjen lyder så: »og han har ikke kundgjort dem sine bestemmelser«.",
+          "type": "E",
           "position": 87
         }
       ],

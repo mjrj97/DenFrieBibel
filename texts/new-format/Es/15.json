@@ -29,7 +29,8 @@
       "text": "\fHan er gået op til Bayit og Dibon, \ftil højene for at græde; \fpå Nebo og på Medeba \fskal Moab jamre, \fhvert af dets hoveder er skaldet, \fhvert skæg barberet af.",
       "footnotes": [
         {
-          "text": "E: Teksten (*ʕālāʰ habbayit wᵊdîvōn*) er omdiskuteret, men godt overleveret, og oversættelsen usikker. Man retter ofte til: *ʕāltāʰ bat wᵊdîvōn*: »Dibons datter er steget op«.",
+          "text": "Teksten (*ʕālāʰ habbayit wᵊdîvōn*) er omdiskuteret, men godt overleveret, og oversættelsen usikker. Man retter ofte til: *ʕāltāʰ bat wᵊdîvōn*: »Dibons datter er steget op«.",
+          "type": "E",
           "position": 35
         }
       ],
@@ -40,11 +41,13 @@
       "text": "\fPå dets gader binder de sæk om sig, \fpå dets tage \fog på dets torve jamrer enhver, \fsynker ned i gråd.",
       "footnotes": [
         {
-          "text": "E: Maskulinum: Det går på folket.",
+          "text": "Maskulinum: Det går på folket.",
+          "type": "E",
           "position": 8
         },
         {
-          "text": "E: Femininum: Det går på landet.",
+          "text": "Femininum: Det går på landet.",
+          "type": "E",
           "position": 45
         }
       ],

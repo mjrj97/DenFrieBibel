@@ -74,7 +74,8 @@
       "text": "Hvis jeg nu ikke kender sprogets betydning, bliver jeg en barbar for den, der taler, og den, der taler, bliver en barbar for mig.",
       "footnotes": [
         {
-          "text": "T: fremmed.",
+          "text": "fremmed.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -105,7 +106,8 @@
       "text": "Når du priser Gud i ånden, hvordan vil så ellers den, der sidder son en uindviet, kunne sige sit amen til din takkebøn, eftersom han ikke ved, hvad du siger?",
       "footnotes": [
         {
-          "text": "T: i Tungetalen.",
+          "text": "i Tungetalen.",
+          "type": "T",
           "position": 26
         }
       ],

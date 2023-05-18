@@ -24,7 +24,8 @@
       "title": "Overholdelse af sabbatten",
       "footnotes": [
         {
-          "text": "E: Grundtekstens: *dāvār* kan – alt efter sammenhængen – oversættes både: »ord« og: »ting«. Her spilles der på begge betydninger.",
+          "text": "Grundtekstens: *dāvār* kan – alt efter sammenhængen – oversættes både: »ord« og: »ting«. Her spilles der på begge betydninger.",
+          "type": "E",
           "position": 78
         }
       ],
@@ -35,11 +36,13 @@
       "text": "I seks dage må der udføres arbejde, men på den syvende dag skal der være hellighed for jer, en sabbat med fuldstændig hvile for JHVH; enhver som udfører arbejde på den, skal lide døden.",
       "footnotes": [
         {
-          "text": "E: Man skal muligvis underforstå »dag«, altså »en hellig dag«.",
+          "text": "Man skal muligvis underforstå »dag«, altså »en hellig dag«.",
+          "type": "E",
           "position": 82
         },
         {
-          "text": "E: På hebraisk: *šabbat šabbātôn*. Roden/verbet: *šbt* betyder: »hvile«. Tilføjelsen: *šabbātôn* understreger at hviledagen (sabbatten) skal være fuldstændig hviledag.",
+          "text": "På hebraisk: *šabbat šabbātôn*. Roden/verbet: *šbt* betyder: »hvile«. Tilføjelsen: *šabbātôn* understreger at hviledagen (sabbatten) skal være fuldstændig hviledag.",
+          "type": "E",
           "position": 123
         }
       ],
@@ -56,11 +59,13 @@
       "title": " Offergaver til helligdommen",
       "footnotes": [
         {
-          "text": "T: Ordret: »ved at sige«.",
+          "text": "Ordret: »ved at sige«.",
+          "type": "T",
           "position": 53
         },
         {
-          "text": "T: Se note til vers 1.",
+          "text": "Se note til vers 1.",
+          "type": "T",
           "position": 72
         }
       ],
@@ -76,7 +81,8 @@
       "text": "purpurblå, purpurrød og karminrød uld, fint linned og gedeuld,",
       "footnotes": [
         {
-          "text": "T: Ordret: »karminrød orm«.",
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
           "position": 33
         }
       ],
@@ -87,7 +93,8 @@
       "text": "rødfarvede vædderskind og delfinskind og akacietræ,",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
           "position": 37
         }
       ],
@@ -103,7 +110,8 @@
       "text": "shoham-sten og sten til at sætte på efoden og på brystskjoldet.",
       "footnotes": [
         {
-          "text": "T: Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord (*šōham*) antyder at stenen må være rødlig; karneol er måske det bedste bud.",
+          "text": "Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord (*šōham*) antyder at stenen må være rødlig; karneol er måske det bedste bud.",
+          "type": "T",
           "position": 11
         }
       ],
@@ -115,7 +123,8 @@
       "title": "Arbejdet der skal udføres",
       "footnotes": [
         {
-          "text": "T: Ordret: »har et vist hjerte«",
+          "text": "Ordret: »har et vist hjerte«",
+          "type": "T",
           "position": 52
         }
       ],
@@ -131,7 +140,8 @@
       "text": "arken med dens bærestænger, sonedækket og forhænget;",
       "footnotes": [
         {
-          "text": "T: Ordret: »dækkets forhæng«/»forhænget der dækker«. Der er tænkt på forhænget mellem det Hellige og det Allerhelligste.",
+          "text": "Ordret: »dækkets forhæng«/»forhænget der dækker«. Der er tænkt på forhænget mellem det Hellige og det Allerhelligste.",
+          "type": "T",
           "position": 52
         }
       ],
@@ -172,7 +182,8 @@
       "text": "vævede klæder til tjeneste i helligdommen; hellige klæder til Aron, præsten, og hans sønners klæder til at gøre præstetjeneste i.«",
       "footnotes": [
         {
-          "text": "T: Se note til 31,30.",
+          "text": "Se note til 31,30.",
+          "type": "T",
           "position": 13
         }
       ],
@@ -184,7 +195,8 @@
       "title": "Offergaverne samles ind",
       "footnotes": [
         {
-          "text": "T: Ordret: »bort fra Moses’ ansigt«.",
+          "text": "Ordret: »bort fra Moses’ ansigt«.",
+          "type": "T",
           "position": 64
         }
       ],
@@ -195,11 +207,13 @@
       "text": "Og de kom, enhver hvis hjerte opmuntrede ham, og hver den, hvis ånd tilskyndede ham, de bragte JHVHs offergave til arbejdet på forsamlingsteltet og til hele tjenesten ved det og til de hellige klæder.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hver mand«.",
+          "text": "Ordret: »hver mand«.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: Ordret: »hvis hjerte løftede ham«.",
+          "text": "Ordret: »hvis hjerte løftede ham«.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -210,23 +224,28 @@
       "text": "De kom, mændene såvel som kvinderne, alle med villigt hjerte bragte spænder, ringe og fingerringe og kugleformede smykker, alle ting af guld; enhver som foretog svingning med et svingningsoffer af guld for JHVH,",
       "footnotes": [
         {
-          "text": "E: Den masoretiske tekst har en ret speciel konstruktion: *wayyāvōʔû hāˀᵃnāšîm ʕal-hannāšîm*. Spørgsmålet er, hvad præpositionen *ʕal* angiver her, normalt: »på«. Formodentlig skal den enten oversættes: »såvel som« eller: »ved siden af«.",
+          "text": "Den masoretiske tekst har en ret speciel konstruktion: *wayyāvōʔû hāˀᵃnāšîm ʕal-hannāšîm*. Spørgsmålet er, hvad præpositionen *ʕal* angiver her, normalt: »på«. Formodentlig skal den enten oversættes: »såvel som« eller: »ved siden af«.",
+          "type": "E",
           "position": 36
         },
         {
-          "text": "T: Det hebraiske ord: *ḥāḥ* bruges andre steder om kroge, hvormed man holder dyr fangne. Her er der formodentlig tale om et spænde eller en broche. Men der er usikkerhed om hvilke smykker der præcist er ment i verset. De står alle i singularis der må opfattes som kollektiv betegnelse.",
+          "text": "Det hebraiske ord: *ḥāḥ* bruges andre steder om kroge, hvormed man holder dyr fangne. Her er der formodentlig tale om et spænde eller en broche. Men der er usikkerhed om hvilke smykker der præcist er ment i verset. De står alle i singularis der må opfattes som kollektiv betegnelse.",
+          "type": "T",
           "position": 76
         },
         {
-          "text": "T: Der er formodentlig tænkt på øre- og/eller næseringe.",
+          "text": "Der er formodentlig tænkt på øre- og/eller næseringe.",
+          "type": "T",
           "position": 82
         },
         {
-          "text": "T: Muligvis: »seglringe«.",
+          "text": "Muligvis: »seglringe«.",
+          "type": "T",
           "position": 97
         },
         {
-          "text": "T: Hermed menes: »indviede et offer«.",
+          "text": "Hermed menes: »indviede et offer«.",
+          "type": "T",
           "position": 193
         }
       ],
@@ -237,11 +256,13 @@
       "text": "og enhver hos hvem der fandtes purpurblå, purpurrød og karminrød uld og fint linned og gedeuld, rødfarvede vædderskind og delfinskind, bragte det.",
       "footnotes": [
         {
-          "text": "T: Ordret: »karminrød orm«.",
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
           "position": 64
         },
         {
-          "text": "T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
           "position": 133
         }
       ],
@@ -257,11 +278,13 @@
       "text": "Enhver kvinde som havde kunstnerisk færdighed, spandt med sine hænder, og de bragte det spundne: det purpurblå, purpurrøde og karminrøde uld og det fine linned.",
       "footnotes": [
         {
-          "text": "T: Ordret: »et víst hjerte«.",
+          "text": "Ordret: »et víst hjerte«.",
+          "type": "T",
           "position": 46
         },
         {
-          "text": "T: Ordret: »karminrød orm«.",
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
           "position": 136
         }
       ],
@@ -277,7 +300,8 @@
       "text": "Og overhovederne bragte shoham-sten og stenene til at indfatte på efoden og på brystskjoldet,",
       "footnotes": [
         {
-          "text": "T: Se note til vers 9.",
+          "text": "Se note til vers 9.",
+          "type": "T",
           "position": 35
         }
       ],
@@ -309,7 +333,8 @@
       "text": "til at lave kunstnerisk design, til at arbejde i guld, sølv og bronze,",
       "footnotes": [
         {
-          "text": "T: Ordret: »tænke tanker«.",
+          "text": "Ordret: »tænke tanker«.",
+          "type": "T",
           "position": 31
         }
       ],

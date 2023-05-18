@@ -86,7 +86,8 @@
       "text": "Dette er loven: Når en person dør i teltet, skal enhver som kommer ind i teltet, og alt det der er i teltet, være urent i syv dage,",
       "footnotes": [
         {
-          "text": "T: Ordret: undervisningen. Kan også oversættes med vejledning.",
+          "text": "Ordret: undervisningen. Kan også oversættes med vejledning.",
+          "type": "T",
           "position": 15
         }
       ],

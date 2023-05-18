@@ -20,7 +20,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "T: Der er især tænkt på det dyrkede land",
+          "text": "Der er især tænkt på det dyrkede land",
+          "type": "T",
           "position": 58
         }
       ],
@@ -32,7 +33,8 @@
       "title": "David lovpriser JHVH, som er herre over alle ting",
       "footnotes": [
         {
-          "text": "T: I det gammeltestamentlige verdensbillede (kosmologi) opfattede man jorden som fastgjort på søjler over det store underjordiske urhav eller strømmene, som det også kan kaldes.",
+          "text": "I det gammeltestamentlige verdensbillede (kosmologi) opfattede man jorden som fastgjort på søjler over det store underjordiske urhav eller strømmene, som det også kan kaldes.",
+          "type": "T",
           "position": 62
         }
       ],
@@ -59,11 +61,13 @@
       "text": "\fDette er den slægt som spørger efter ham,\fde som søger dit ansigt, Jakobs Gud. Sela",
       "footnotes": [
         {
-          "text": "E: Oversættelsen er usikker, for ordet »Gud« mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: »de som søger dit ansigt, er Jakob«. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)",
+          "text": "Oversættelsen er usikker, for ordet »Gud« mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: »de som søger dit ansigt, er Jakob«. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)",
+          "type": "E",
           "position": 78
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 84
         }
       ],
@@ -85,7 +89,8 @@
       "text": "\fLøft, I porte, jeres hoveder;\fløft jer, I ældgamle døre,\fså ærens konge kan drage ind!",
       "footnotes": [
         {
-          "text": "E: Grundteksten har: »og løft (dem), I ældgamle døre«. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.",
+          "text": "Grundteksten har: »og løft (dem), I ældgamle døre«. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.",
+          "type": "E",
           "position": 35
         }
       ],
@@ -96,7 +101,8 @@
       "text": "\fHvem er han, den ærens konge?\fHærskarers  JHVHv,\fhan er ærens konge! Sela",
       "footnotes": [
         {
-          "text": "T: I ældre tid oversat: »Zebaoth«.",
+          "text": "I ældre tid oversat: »Zebaoth«.",
+          "type": "T",
           "position": 42
         }
       ],

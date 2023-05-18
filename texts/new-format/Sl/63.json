@@ -30,11 +30,13 @@
       "title": "Længsel efter Gud",
       "footnotes": [
         {
-          "text": "E: Tidligere ofte oversat: »tidligt søger jeg dig«, idet verbet *šḥr* (»søge«) har samme rod som ordet for »morgenrøde« (*šaḥar*). Salmen er derfor også blevet brugt som morgensalme.",
+          "text": "Tidligere ofte oversat: »tidligt søger jeg dig«, idet verbet *šḥr* (»søge«) har samme rod som ordet for »morgenrøde« (*šaḥar*). Salmen er derfor også blevet brugt som morgensalme.",
+          "type": "E",
           "position": 33
         },
         {
-          "text": "T: Ordret nærmere: »vansmægtende«.",
+          "text": "Ordret nærmere: »vansmægtende«.",
+          "type": "T",
           "position": 120
         }
       ],
@@ -45,7 +47,8 @@
       "text": "\fSåledes skuede jeg dig i helligdommen,\fda jeg så din magt og din herlighed.",
       "footnotes": [
         {
-          "text": "E: Verset kan også oversættes: »Således spejdede jeg efter dig i helligdommen for at se din magt og din herlighed«.",
+          "text": "Verset kan også oversættes: »Således spejdede jeg efter dig i helligdommen for at se din magt og din herlighed«.",
+          "type": "E",
           "position": 76
         }
       ],
@@ -56,7 +59,8 @@
       "text": "\fFor din nåde er bedre end liv.\fMine læber skal prise dig,",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 13
         }
       ],
@@ -67,7 +71,8 @@
       "text": "\fja, jeg vil velsigne dig hele mit liv,\fi dit navn vil jeg løfte mine hænder.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i mit liv«.",
+          "text": "Ordret: »i mit liv«.",
+          "type": "T",
           "position": 39
         }
       ],
@@ -79,11 +84,13 @@
       "title": "Trygheden hos Gud",
       "footnotes": [
         {
-          "text": "E: Festmåltidets hovedretter var fede. Grundteksten har to ord der begge betyder: »fedt«; det ene oversættes dog undertiden: »marv«.",
+          "text": "Festmåltidets hovedretter var fede. Grundteksten har to ord der begge betyder: »fedt«; det ene oversættes dog undertiden: »marv«.",
+          "type": "E",
           "position": 49
         },
         {
-          "text": "T: Ordret: »jubels læber«.",
+          "text": "Ordret: »jubels læber«.",
+          "type": "T",
           "position": 98
         }
       ],
@@ -94,7 +101,8 @@
       "text": "\fnår jeg husker dig på mit leje\fog i nattevagterne mediterer over dig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »læser mumlende«.",
+          "text": "Ordret: »læser mumlende«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -116,11 +124,13 @@
       "title": "Modstandernes skæbne",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »Men til (eget) fordærv stræber de mig efter livet«.",
+          "text": "Kan også oversættes: »Men til (eget) fordærv stræber de mig efter livet«.",
+          "type": "T",
           "position": 48
         },
         {
-          "text": "E: Det er dødsriget.",
+          "text": "Det er dødsriget.",
+          "type": "E",
           "position": 87
         }
       ],
@@ -131,7 +141,8 @@
       "text": "\fMan skal give dem i sværdets magt,\fde skal blive ræves bytte.",
       "footnotes": [
         {
-          "text": "E: Ordret: »De skal give ham i sværdets magt«. »Ham« må i sammenhængen opfattes kollektivt, ligesom der må underforstås et »man«. En anden mulighed er dog at oversætte: »De som vil give ham (kongen) i sværdets magt, skal (selv) blive ræves bytte«.",
+          "text": "Ordret: »De skal give ham i sværdets magt«. »Ham« må i sammenhængen opfattes kollektivt, ligesom der må underforstås et »man«. En anden mulighed er dog at oversætte: »De som vil give ham (kongen) i sværdets magt, skal (selv) blive ræves bytte«.",
+          "type": "E",
           "position": 35
         }
       ],
@@ -142,7 +153,8 @@
       "text": "\fMen kongen skal glæde sig i Gud,\falle som sværger ved ham, skal rose sig,\ffor munden skal lukkes på dem som taler løgn.",
       "footnotes": [
         {
-          "text": "E: Meningen kan også være: »Alle, som sværger ham (kongen) troskab, skal ….",
+          "text": "Meningen kan også være: »Alle, som sværger ham (kongen) troskab, skal ….",
+          "type": "E",
           "position": 59
         }
       ],

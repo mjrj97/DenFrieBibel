@@ -48,7 +48,8 @@
       "text": "Men Thomas, hvilket betyder tvilling, en af de tolv, var ikke hos dem da Jesus kom.",
       "footnotes": [
         {
-          "text": "T: Kan evt. oversættes: »som blev kaldt Didymos«. Didymos er den græske oversættelse af det hebraiske navn Thomas.",
+          "text": "Kan evt. oversættes: »som blev kaldt Didymos«. Didymos er den græske oversættelse af det hebraiske navn Thomas.",
+          "type": "T",
           "position": 37
         }
       ],
@@ -59,7 +60,8 @@
       "text": "De andre disciple sagde da til ham: »Vi har set Herren.« Men han sagde til dem: »Hvis ikke jeg får set naglemærkerne i hans hænder og stikker min finger i naglehullerne og stikker min hånd i hans side, vil jeg ikke tro det.«",
       "footnotes": [
         {
-          "text": "T: Ordret: »naglernes sted«",
+          "text": "Ordret: »naglernes sted«",
+          "type": "T",
           "position": 168
         }
       ],

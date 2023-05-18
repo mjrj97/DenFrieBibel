@@ -24,7 +24,8 @@
       "title": "Hungersnød får Elimelek til at drage med sin hustru og to sønner fra Betlehem til landet Moab hvor han dør; hans sønner gifter sig og dør også.",
       "footnotes": [
         {
-          "text": "E: *šōfᵊṭîm* »dommere« bibeholdes men verbet *šᵊfōṭ* »dømme« oversættes ikke med »dømme«, fordi dommerne ikke først og fremmest fungerede i retssalen, men mere var ledere af befrielseskampene.",
+          "text": "*šōfᵊṭîm* »dommere« bibeholdes men verbet *šᵊfōṭ* »dømme« oversættes ikke med »dømme«, fordi dommerne ikke først og fremmest fungerede i retssalen, men mere var ledere af befrielseskampene.",
+          "type": "E",
           "position": 34
         }
       ],
@@ -56,7 +57,8 @@
       "title": "Hustruen, No'omi, vil drage tilbage til Betlehem; hendes ene svigerdatter tager tilbage til sin familie, men den anden, nemlig Ruth, vil ikke forlade hende.",
       "footnotes": [
         {
-          "text": "T: Udtrykket betyder at »skaffe mad«, men ved at bevare »brød« er det muligt at se en allusion til Bet-lehem »brødets hus«",
+          "text": "Udtrykket betyder at »skaffe mad«, men ved at bevare »brød« er det muligt at se en allusion til Bet-lehem »brødets hus«",
+          "type": "T",
           "position": 173
         }
       ],
@@ -72,7 +74,8 @@
       "text": "\tDa sagde No'omi til sine to svigerdøtre:\t\t\t»Gå\t\t\tI hjem\t\t\t\t\thver til jeres mors hus.\t\t\t\tMå JHVH være trofast mod jer,\t\t\t\t\tligesom I har været det mod de afdøde og mod mig!",
       "footnotes": [
         {
-          "text": "T: 1871 har »gøre Miskundhed«. En mulighed her er »vise sin trofaste kærlighed«",
+          "text": "1871 har »gøre Miskundhed«. En mulighed her er »vise sin trofaste kærlighed«",
+          "type": "T",
           "position": 109
         }
       ],
@@ -123,7 +126,8 @@
       "text": "\t\t\t\t\t\t\t\t\t\t\t\tHvor du dør,\t\t\t\t\t\t\t\t\t\t\tder vil jeg dø,\t\t\t\t\t\t\t\t\t\t\t\tog der vil jeg begraves.\t\t\t\t\t\t\t\tMå JHVH handle med mig\t\t\t\t\t\t\t\t\t\tsådan og føje mere til\t\t\t\t\t\t\t\t\thvis\t\t\t\t\t\t\t\t\t\tandet end døden skiller os ad.«",
       "footnotes": [
         {
-          "text": "E: Bag dette udtryk ligger en meget højtidelig ed, hvor Ruth nedkalder død og anden ulykke over sig selv hvis hun ikke følger sin svigermor til den bitre ende.",
+          "text": "Bag dette udtryk ligger en meget højtidelig ed, hvor Ruth nedkalder død og anden ulykke over sig selv hvis hun ikke følger sin svigermor til den bitre ende.",
+          "type": "E",
           "position": 201
         }
       ],
@@ -145,11 +149,13 @@
       "text": "\t\t\t\t\t\t\t\tHun sagde til dem:\t\t\t\t\t\t\t\t\t»Kald mig ikke No'omi.\t\t\t\t\t\t\t\t\t\t\t\tKald mig Mara,\t\t\t\t\t\t\t\t\t\t\t\t\tfor den Almægtige har gjort det bittert for mig.",
       "footnotes": [
         {
-          "text": "T: liflighed.",
+          "text": "liflighed.",
+          "type": "T",
           "position": 56
         },
         {
-          "text": "T: bitter.",
+          "text": "bitter.",
+          "type": "T",
           "position": 82
         }
       ],

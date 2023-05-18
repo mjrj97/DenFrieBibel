@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 14
         }
       ],
@@ -36,7 +37,8 @@
       "title": "Nødråb",
       "footnotes": [
         {
-          "text": "T: Ordret: »skaffede du rum for mig«.",
+          "text": "Ordret: »skaffede du rum for mig«.",
+          "type": "T",
           "position": 79
         }
       ],
@@ -48,11 +50,13 @@
       "title": "Henvendt til modstanderne",
       "footnotes": [
         {
-          "text": "T: Ordret: »mandssønner«.",
+          "text": "Ordret: »mandssønner«.",
+          "type": "T",
           "position": 15
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 95
         }
       ],
@@ -63,11 +67,13 @@
       "text": "\fMen I skal vide at JHVH har udvalgt sig en der er from;\fJHVH hører, når jeg råber til ham.",
       "footnotes": [
         {
-          "text": "E: Verbet forekommer kun her og i 2 Mos 8,18; 9,4; 11,7; 33,16, hvor Israels udvælgelse og kald pointeres.",
+          "text": "Verbet forekommer kun her og i 2 Mos 8,18; 9,4; 11,7; 33,16, hvor Israels udvælgelse og kald pointeres.",
+          "type": "E",
           "position": 36
         },
         {
-          "text": "E: Sætningen er omdiskuteret. Oftest foretager man små tekstrettelser så der kan oversættes: »JHVH har vist sin underfulde troskab mod mig«.",
+          "text": "Sætningen er omdiskuteret. Oftest foretager man små tekstrettelser så der kan oversættes: »JHVH har vist sin underfulde troskab mod mig«.",
+          "type": "E",
           "position": 55
         }
       ],
@@ -78,11 +84,13 @@
       "text": "\fBliv oprørte, men synd ikke!\fTænk efter på jeres leje, og vær stille! Sela",
       "footnotes": [
         {
-          "text": "E: Meningen her med verbet *rigzû* (»bliv oprørte«, ordret: »ryst«) er omdiskuteret. Meningen er enten: »Bliv vrede, (men synd ikke)«. I det tilfælde er vreden rettet mod salmisten. Eller: »Skælv (for Gud) (og synd ikke)«.",
+          "text": "Meningen her med verbet *rigzû* (»bliv oprørte«, ordret: »ryst«) er omdiskuteret. Meningen er enten: »Bliv vrede, (men synd ikke)«. I det tilfælde er vreden rettet mod salmisten. Eller: »Skælv (for Gud) (og synd ikke)«.",
+          "type": "E",
           "position": 28
         },
         {
-          "text": "T: Ordret: »tal i jeres hjerte«.",
+          "text": "Ordret: »tal i jeres hjerte«.",
+          "type": "T",
           "position": 40
         }
       ],
@@ -93,7 +101,8 @@
       "text": "\fBring retfærdigheds ofre,\fog stol på JHVH!",
       "footnotes": [
         {
-          "text": "T: Ofre der bringer retfærdighed fordi de er bragt af et menneske der længes efter Guds retfærdighed.",
+          "text": "Ofre der bringer retfærdighed fordi de er bragt af et menneske der længes efter Guds retfærdighed.",
+          "type": "T",
           "position": 25
         }
       ],
@@ -105,7 +114,8 @@
       "title": "Davids bøn og tillid til Gud",
       "footnotes": [
         {
-          "text": "T: I betydningen »lykke«.",
+          "text": "I betydningen »lykke«.",
+          "type": "T",
           "position": 42
         }
       ],
@@ -116,7 +126,8 @@
       "text": "\fDu gav glæde i mit hjerte,\fstørre end den de havde da deres korn og deres most var i overflod.",
       "footnotes": [
         {
-          "text": "T: Most er ugæret druesaft.",
+          "text": "Most er ugæret druesaft.",
+          "type": "T",
           "position": 79
         }
       ],
@@ -127,7 +138,8 @@
       "text": "I fred vil jeg både lægge mig og sove,\ffor du, JHVHv! lader mig bo ene i tryghed.",
       "footnotes": [
         {
-          "text": "E: Andre knytter ordet *lᵊvādād* til JHVH: »for alene du, JHVHv, lader mig bo i tryghed«.",
+          "text": "Andre knytter ordet *lᵊvādād* til JHVH: »for alene du, JHVHv, lader mig bo i tryghed«.",
+          "type": "E",
           "position": 70
         }
       ],

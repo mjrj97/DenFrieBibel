@@ -26,23 +26,28 @@
       "title": "Tak",
       "footnotes": [
         {
-          "text": "T: Ordret: »din helligheds tempel«.",
+          "text": "Ordret: »din helligheds tempel«.",
+          "type": "T",
           "position": 50
         },
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 81
         },
         {
-          "text": "T: Oversættes ofte: »troskab«.",
+          "text": "Oversættes ofte: »troskab«.",
+          "type": "T",
           "position": 101
         },
         {
-          "text": "T: Grundtekstens ord (*ʔimrāʰ*) har en biklang af: »løfte«.",
+          "text": "Grundtekstens ord (*ʔimrāʰ*) har en biklang af: »løfte«.",
+          "type": "T",
           "position": 126
         },
         {
-          "text": "E: Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (»hele dit navn«), men: *kol-šēm*: »hvert navn«. Mange oversættere retter: *šimxā* (»dit navn«) til: *šāmeʸxā*: »din himmel«. En tredje mulighed er at ændre vokaliseringen af: *kol-* (»hele«, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (»og«) foran: »dit navn«. Oversættelsen lyder da: »for du har ladet dit ord og dit navn overgå alt andet«.",
+          "text": "Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (»hele dit navn«), men: *kol-šēm*: »hvert navn«. Mange oversættere retter: *šimxā* (»dit navn«) til: *šāmeʸxā*: »din himmel«. En tredje mulighed er at ændre vokaliseringen af: *kol-* (»hele«, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (»og«) foran: »dit navn«. Oversættelsen lyder da: »for du har ladet dit ord og dit navn overgå alt andet«.",
+          "type": "E",
           "position": 155
         }
       ],
@@ -53,7 +58,8 @@
       "text": "\fDen dag jeg råbte, svarede du mig,\fdu gjorde mig stolt, jeg fik styrke.",
       "footnotes": [
         {
-          "text": "T: Ordret: »min sjæl«.",
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
           "position": 60
         }
       ],
@@ -86,7 +92,8 @@
       "text": "\fJHVH skal fuldføre det for mig.\fJHVHv, din nåde varer til evig tid,\fopgiv ikke dine hænders værker.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 48
         }
       ],

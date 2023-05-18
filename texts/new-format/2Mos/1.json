@@ -24,7 +24,8 @@
       "title": "Indledning: Israelitterne i Egypten",
       "footnotes": [
         {
-          "text": "T: *bayit* betyder ordret både »hus« og »familie«. Her er det det sidste der er tale om.",
+          "text": "*bayit* betyder ordret både »hus« og »familie«. Her er det det sidste der er tale om.",
+          "type": "T",
           "position": 96
         }
       ],
@@ -50,15 +51,18 @@
       "text": "Alle personer som var udgået af Jakobs lænd, var halvfjerds personer; men Josef var i Egypten.",
       "footnotes": [
         {
-          "text": "T: *nefeš* skal oftest oversættes: »sjæl«, men her er det betegnelse for: »person«.",
+          "text": "*nefeš* skal oftest oversættes: »sjæl«, men her er det betegnelse for: »person«.",
+          "type": "T",
           "position": 13
         },
         {
-          "text": "E: *yārēx* (ordret: »lår«, »hofte«, »side«) skal her forstås som Jakobs efterkommere.",
+          "text": "*yārēx* (ordret: »lår«, »hofte«, »side«) skal her forstås som Jakobs efterkommere.",
+          "type": "E",
           "position": 43
         },
         {
-          "text": "E: Der skal formodentlig underforstås et: »allerede«.",
+          "text": "Der skal formodentlig underforstås et: »allerede«.",
+          "type": "E",
           "position": 83
         }
       ],
@@ -74,7 +78,8 @@
       "text": "Men Israels børn var frugtbare og vrimlede og blev mange, og de blev uhyre talrige, og landet blev fuldt af dem.",
       "footnotes": [
         {
-          "text": "T: Ordret: »meget, meget«.",
+          "text": "Ordret: »meget, meget«.",
+          "type": "T",
           "position": 74
         }
       ],
@@ -86,7 +91,8 @@
       "title": "Undertrykkelse ved tvangsarbejde – og dog stor frugtbarhed",
       "footnotes": [
         {
-          "text": "T: Ordret: »rejste der sig«",
+          "text": "Ordret: »rejste der sig«",
+          "type": "T",
           "position": 7
         }
       ],
@@ -97,7 +103,8 @@
       "text": "Han sagde til sit folk: »Se, Israels børns folk er flere og mægtigere end vi.",
       "footnotes": [
         {
-          "text": "T: *rav min* kan både oversættes: »større end« og: »flere end«.",
+          "text": "*rav min* kan både oversættes: »større end« og: »flere end«.",
+          "type": "T",
           "position": 56
         }
       ],
@@ -108,15 +115,18 @@
       "text": "Kom, lad os handle klogt imod dem så de ikke skal blive endnu flere, så det kan ske, hvis der kommer krig, at de også slutter sig til vore fjender og fører krig imod os og drager op fra landet.«",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har singularis (»… imod det, så det …«) om det israelitiske folk i alle versene 10-14",
+          "text": "Den hebraiske tekst har singularis (»… imod det, så det …«) om det israelitiske folk i alle versene 10-14",
+          "type": "T",
           "position": 33
         },
         {
-          "text": "E: Verbet *śnʔ* betyder »hade«, men bruges i participium om »fjende«.",
+          "text": "Verbet *śnʔ* betyder »hade«, men bruges i participium om »fjende«.",
+          "type": "E",
           "position": 146
         },
         {
-          "text": "E: Det hebraiske verbum: *ʕālāʰ* (ordret: »stige op«) bruges ofte som betegnelse for at drage til Israel eller Jerusalem. Farao talte ikke hebraisk, men forfatteren har formentlig brugt ordet for at angive at Farao dog kendte til Israels ønske om at forlade Egypten og rejse til Kana’an. Det hebraiske ord for at »drage ud« er: *yāṣāʔ*.",
+          "text": "Det hebraiske verbum: *ʕālāʰ* (ordret: »stige op«) bruges ofte som betegnelse for at drage til Israel eller Jerusalem. Farao talte ikke hebraisk, men forfatteren har formentlig brugt ordet for at angive at Farao dog kendte til Israels ønske om at forlade Egypten og rejse til Kana’an. Det hebraiske ord for at »drage ud« er: *yāṣāʔ*.",
+          "type": "E",
           "position": 181
         }
       ],
@@ -127,7 +137,8 @@
       "text": "Så satte de hoverifogeder over dem for at de skulle plage dem med deres tvangsarbejde; og man byggede forrådsbyer til Farao, nemlig Pitom og Ramses.",
       "footnotes": [
         {
-          "text": "T: En mere korrekt gengivelse af navnet ville være: »Ra’amses«.",
+          "text": "En mere korrekt gengivelse af navnet ville være: »Ra’amses«.",
+          "type": "T",
           "position": 148
         }
       ],
@@ -138,11 +149,13 @@
       "text": "Men jo mere de plagede dem, desto flere blev de, og desto mere bredte de sig, og de frygtede for Israels børn.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »større«.",
+          "text": "Kan også oversættes: »større«.",
+          "type": "T",
           "position": 39
         },
         {
-          "text": "E: ordret: »for Israels børns ansigter«. Men *mippᵊnê* (»for … ansigt«) bruges ofte som fast udtryk, hvor »ansigt« ikke specielt spiller nogen rolle.",
+          "text": "ordret: »for Israels børns ansigter«. Men *mippᵊnê* (»for … ansigt«) bruges ofte som fast udtryk, hvor »ansigt« ikke specielt spiller nogen rolle.",
+          "type": "E",
           "position": 110
         }
       ],
@@ -153,7 +166,8 @@
       "text": "Egypterne tvang med mishandling Israels børn til at arbejde.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Egypten«.",
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
           "position": 9
         }
       ],
@@ -175,7 +189,8 @@
       "text": "han sagde: »Når I hjælper de hebraiske kvinder ved fødslen, så skal I se efter de to sten: Hvis det er en søn, så dræb ham, og hvis det er en datter, så må hun leve.«",
       "footnotes": [
         {
-          "text": "T: Det er omdiskuteret, hvad *hāʔovnāyim* betyder; om det (med en anden vokalisering, se nedenfor) skal opfattes som dualis af *ʔeven* (»sten«, altså: »to sten«) eller af *ʔōven*, der ellers kun optræder i Jer 18,3 (ligeledes i dualis), hvor det betegner pottemagerens drejeskive (med to stenskiver som i en kværn). Hvis ordet her skal afledes af *ʔōven*, betegner det her formodentlig et sæde som den fødende sad på. Disse »fødesten« er kendt fra både egyptiske relieffer og tekster. Masoreternes vokalisering tyder på at de har opfattet det som dualis af *ʔōven*. Hvis teksten havde været uvokaliseret – som den oprindelig var – ville man umiddelbart formodentlig have læst ordet som dualis af *ʔeven* (»sten«).",
+          "text": "Det er omdiskuteret, hvad *hāʔovnāyim* betyder; om det (med en anden vokalisering, se nedenfor) skal opfattes som dualis af *ʔeven* (»sten«, altså: »to sten«) eller af *ʔōven*, der ellers kun optræder i Jer 18,3 (ligeledes i dualis), hvor det betegner pottemagerens drejeskive (med to stenskiver som i en kværn). Hvis ordet her skal afledes af *ʔōven*, betegner det her formodentlig et sæde som den fødende sad på. Disse »fødesten« er kendt fra både egyptiske relieffer og tekster. Masoreternes vokalisering tyder på at de har opfattet det som dualis af *ʔōven*. Hvis teksten havde været uvokaliseret – som den oprindelig var – ville man umiddelbart formodentlig have læst ordet som dualis af *ʔeven* (»sten«).",
+          "type": "T",
           "position": 90
         }
       ],
@@ -206,7 +221,8 @@
       "text": "Så, fordi jordemødrene frygtede Gud, gav han dem familier.",
       "footnotes": [
         {
-          "text": "E: *bayit* betyder ordret både »hus« og »familie«. Her er det det sidste der er tale om, hvorfor betydningen er, at jordemødrene selv får afkom.",
+          "text": "*bayit* betyder ordret både »hus« og »familie«. Her er det det sidste der er tale om, hvorfor betydningen er, at jordemødrene selv får afkom.",
+          "type": "E",
           "position": 58
         }
       ],

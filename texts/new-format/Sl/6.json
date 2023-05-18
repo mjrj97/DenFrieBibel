@@ -28,11 +28,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 14
         },
         {
-          "text": "E: Ordret: »på den ottende«. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).",
+          "text": "Ordret: »på den ottende«. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).",
+          "type": "E",
           "position": 50
         }
       ],
@@ -49,7 +51,8 @@
       "text": "\f\t\tVær mig nådig,\t\t\t\tJHVHv,\t\t\tfor jeg er svag,\f\t\thelbred mig,\t\t\t\t\t\tJHVHv,\t\t\t\t\tfor jeg skælver i mine knogler,",
       "footnotes": [
         {
-          "text": "E: Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: »sygner hen«. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.",
+          "text": "Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: »sygner hen«. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.",
+          "type": "E",
           "position": 93
         }
       ],
@@ -65,11 +68,13 @@
       "text": "\f\t\t\tVend tilbage,\t\t\t\tJHVHv!\t\t\tred min sjæl,\f\t\t\t\tfrels mig på grund af din nåde!",
       "footnotes": [
         {
-          "text": "E: *šûvāʰ* (»vend tilbage«) kunne også opfattes adverbielt så v.5a skal oversættes: »red atter, JHVHv, min sjæl«",
+          "text": "*šûvāʰ* (»vend tilbage«) kunne også opfattes adverbielt så v.5a skal oversættes: »red atter, JHVHv, min sjæl«",
+          "type": "E",
           "position": 16
         },
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 78
         }
       ],
@@ -96,7 +101,8 @@
       "title": "David glæder sig over, at Gud har hørt hans bøn",
       "footnotes": [
         {
-          "text": "T:Ordret »min gråds røst«.",
+          "text": "Ordret »min gråds røst«.",
+          "type": "T",
           "position": 71
         }
       ],

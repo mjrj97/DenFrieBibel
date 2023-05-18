@@ -34,7 +34,8 @@
       "text": "Han er den som der er blevet talt om ved Esajas, profeten, som siger: »Der er en røst af en som råber i ørkenen: Forbered Herrens vej, gør hans stier jævne.«",
       "footnotes": [
         {
-          "text": "H: Es 40,3",
+          "text": "Es 40,3",
+          "type": "H",
           "position": 69
         }
       ],
@@ -111,7 +112,8 @@
       "text": "Og se, der lød en røst fra himlene som sagde: »Denne er min Søn, den elskede, ham har jeg udvalgt.«",
       "footnotes": [
         {
-          "text": "H: Sl 2,7; Es 42,1.",
+          "text": "Sl 2,7; Es 42,1.",
+          "type": "H",
           "position": 45
         }
       ],

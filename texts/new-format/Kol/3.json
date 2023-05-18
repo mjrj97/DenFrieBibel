@@ -45,7 +45,8 @@
       "title": "Aflæg synden",
       "footnotes": [
         {
-          "text": "T: Ordret: »som (er) på jorden«",
+          "text": "Ordret: »som (er) på jorden«",
+          "type": "T",
           "position": 23
         }
       ],
@@ -112,7 +113,8 @@
       "text": "og alt det I gør i ord og gerning, skal I gøre i Herrens navn, idet I takker Gud Fader ved ham.",
       "footnotes": [
         {
-          "text": "E: Der mangler et verbum, og her er indsat en imperativ »skal I gøre«; en alternativ mulighed er et supplere med et participium »idet I gør«: »og idet I gør alt det, I gør …«",
+          "text": "Der mangler et verbum, og her er indsat en imperativ »skal I gøre«; en alternativ mulighed er et supplere med et participium »idet I gør«: »og idet I gør alt det, I gør …«",
+          "type": "E",
           "position": 62
         }
       ],
@@ -144,7 +146,8 @@
       "text": "\fSlaver! Adlyd jeres jordiske  herrer i alt, ikke med øjentjeneste som nogle, der behager mennesker, men med hjertets oprigtighed, idet I frygter Herren.",
       "footnotes": [
         {
-          "text": "T: Ordret: »efter kødet«.",
+          "text": "Ordret: »efter kødet«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -155,7 +158,8 @@
       "text": "Det I gør, skal I gøre af hjertet som for Herren og ikke for mennesker,",
       "footnotes": [
         {
-          "text": "T: Ordret: »af sjælen«",
+          "text": "Ordret: »af sjælen«",
+          "type": "T",
           "position": 33
         }
       ],

@@ -20,7 +20,8 @@
       "title": "Synet om ypperstepræsten Josva",
       "footnotes": [
         {
-          "text": "E: I andre oversættelser oversættes der med personnavnet »Satan«, men det hebraiske ord *haśśāṭān* er med bestemt artikel, så det er ikke sandsynligt, at det er et personnavn.",
+          "text": "I andre oversættelser oversættes der med personnavnet »Satan«, men det hebraiske ord *haśśāṭān* er med bestemt artikel, så det er ikke sandsynligt, at det er et personnavn.",
+          "type": "E",
           "position": 80
         }
       ],
@@ -31,7 +32,8 @@
       "text": "JHVH sagde til anklageren: »JHVH irettesætter dig, anklager! JHVH, som har udvalgt Jerusalem, irettesætter dig! Er denne ikke et brændestykke, der er reddet ud af ilden?«",
       "footnotes": [
         {
-          "text": "T: Josva.",
+          "text": "Josva.",
+          "type": "T",
           "position": 120
         }
       ],
@@ -62,7 +64,8 @@
       "text": "\f»Således siger Hærskarers JHVHv:\fHvis du vandrer på mine veje,\fog hvis du varetager mine forordninger,\fskal du bestyre mit hus og varetage mine forgårde.\fOg jeg vil lade dig færdes blandt dem, som står her.«\f»Hør efter, Josva, du ypperstepræst: Du og dine venner, som sidder foran dig,\fI er tegn på, at jeg sender min tjener, Semak.",
       "footnotes": [
         {
-          "text": "T: Semak betyder spire, men er her bevaret som et navn eller titel.",
+          "text": "Semak betyder spire, men er her bevaret som et navn eller titel.",
+          "type": "T",
           "position": 333
         }
       ],
@@ -78,7 +81,8 @@
       "text": "\fPå den dag, siger Hærskarers JHVHv,\fskal I invitere hinanden til at sidde under vintræet og figentræet.",
       "footnotes": [
         {
-          "text": "E: Ordret »skal enhver kalde på sin ven hen under vintræet og hen under figentræet«.",
+          "text": "Ordret »skal enhver kalde på sin ven hen under vintræet og hen under figentræet«.",
+          "type": "E",
           "position": 104
         }
       ],

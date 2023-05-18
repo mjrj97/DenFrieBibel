@@ -75,7 +75,8 @@
       "text": "Jeg, jeg er den der trøster jer; hvem er da du at du frygter for et menneske der skal dø, og for et menneskebarn der skal blive som græs?",
       "footnotes": [
         {
-          "text": "E: Den hebraiske tekst benytter et ord (*ʔᵉnôš*) der understreger menneskets svaghed og forgængelighed.",
+          "text": "Den hebraiske tekst benytter et ord (*ʔᵉnôš*) der understreger menneskets svaghed og forgængelighed.",
+          "type": "E",
           "position": 76
         }
       ],
@@ -91,11 +92,13 @@
       "text": "En underkuet skal hurtigt slippes løs og skal ikke dø og komme i graven, og han skal ikke mangle brød.",
       "footnotes": [
         {
-          "text": "T: Kan muligvis også oversættes: »en lænket«.",
+          "text": "Kan muligvis også oversættes: »en lænket«.",
+          "type": "T",
           "position": 12
         },
         {
-          "text": "T: Ordret: »ikke dø til graven«.",
+          "text": "Ordret: »ikke dø til graven«.",
+          "type": "T",
           "position": 72
         }
       ],

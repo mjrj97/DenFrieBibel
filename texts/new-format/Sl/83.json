@@ -65,11 +65,13 @@
       "text": "\fAssur har også sluttet sig til dem,\fde er blevet Lots børns støtte. Sela",
       "footnotes": [
         {
-          "text": "T: Ordret: »arm«.",
+          "text": "Ordret: »arm«.",
+          "type": "T",
           "position": 68
         },
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 73
         }
       ],
@@ -101,7 +103,8 @@
       "text": "\fMin Gud, lad dem være som en hvirvelvind,\fsom strå for vinden.",
       "footnotes": [
         {
-          "text": "E: *galgal* betegner noget der kører rundt. »vognhjul/hvirvelvind«. Her oversættes det dog ofte: »kugletidsler«.",
+          "text": "*galgal* betegner noget der kører rundt. »vognhjul/hvirvelvind«. Her oversættes det dog ofte: »kugletidsler«.",
+          "type": "E",
           "position": 42
         }
       ],
@@ -127,7 +130,8 @@
       "text": "\fLad dem beskæmmes og forfærdes for evigt,\fog lad dem blive til skamme og gå til grunde,",
       "footnotes": [
         {
-          "text": "T: Kan eventuelt oversættes: »uafbrudt«.",
+          "text": "Kan eventuelt oversættes: »uafbrudt«.",
+          "type": "T",
           "position": 42
         }
       ],

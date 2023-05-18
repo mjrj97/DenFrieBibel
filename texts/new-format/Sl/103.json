@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "type": "E",
           "position": 24
         },
         {
-          "text": "E: Ordene: »skal prise« er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
+          "text": "Ordene: »skal prise« er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
+          "type": "E",
           "position": 59
         }
       ],
@@ -50,7 +52,8 @@
       "text": "\fham som udløser dit liv fra graven,\fham som kroner dig med nåde og barmhjertighed,",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 64
         }
       ],
@@ -61,11 +64,13 @@
       "text": "ham som mætter dit liv med det gode,\fså din ungdom bliver ny igen som ørnen.",
       "footnotes": [
         {
-          "text": "E: Grundtekstens: *ʕedyēx* betyder: »dit smykke«. Det kan være tænkt som synonym for »sjæl«. Men oftest rettes til: *ʕodēxî*: »din eksistens/dit liv/så længe du er til«. I konsonantteksten er det blot to bogstaver der byttes om.",
+          "text": "Grundtekstens: *ʕedyēx* betyder: »dit smykke«. Det kan være tænkt som synonym for »sjæl«. Men oftest rettes til: *ʕodēxî*: »din eksistens/dit liv/så længe du er til«. I konsonantteksten er det blot to bogstaver der byttes om.",
+          "type": "E",
           "position": 22
         },
         {
-          "text": "T: Grundtekstens ord kan også betyde: »gribben«.",
+          "text": "Grundtekstens ord kan også betyde: »gribben«.",
+          "type": "T",
           "position": 76
         }
       ],
@@ -87,7 +92,8 @@
       "text": "\fJHVH er barmhjertig og nådig,\fsen til vrede og rig på nåde",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 59
         }
       ],
@@ -113,11 +119,13 @@
       "text": "\fSå langt som øst er fra vest,\fhar han fjernet vore overtrædelser fra os.",
       "footnotes": [
         {
-          "text": "T: Ordret: »opgang«.",
+          "text": "Ordret: »opgang«.",
+          "type": "T",
           "position": 17
         },
         {
-          "text": "T: Ordret: »nedgang«.",
+          "text": "Ordret: »nedgang«.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -128,7 +136,8 @@
       "text": "\fSom en far forbarmer sig over sine børn,\fhar JHVH forbarmet sig over dem som frygter ham.",
       "footnotes": [
         {
-          "text": "T: Ordret: »som en fars forbarmen sig«",
+          "text": "Ordret: »som en fars forbarmen sig«",
+          "type": "T",
           "position": 25
         }
       ],
@@ -139,7 +148,8 @@
       "text": "\fFor han ved at vi er skabt,\fhan husker på at vi er støv.",
       "footnotes": [
         {
-          "text": "T: Ordret: »kender vor skabning/skabthed/formethed«. Det tilsvarende verbum (*yṣr*) betyder: »forme, modellere«. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.",
+          "text": "Ordret: »kender vor skabning/skabthed/formethed«. Det tilsvarende verbum (*yṣr*) betyder: »forme, modellere«. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.",
+          "type": "T",
           "position": 28
         }
       ],
@@ -150,7 +160,8 @@
       "text": "\fEt menneske – som græs er dets dage,\fsom markens blomst blomstrer det.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.",
+          "text": "Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.",
+          "type": "T",
           "position": 12
         }
       ],
@@ -161,7 +172,8 @@
       "text": "\fNår en vind farer over det, er det ikke mere,\fog dets sted kender det ikke længere.",
       "footnotes": [
         {
-          "text": "E: På hebraisk er både »menneske, græs« og »blomst« maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da »menneske« er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.",
+          "text": "På hebraisk er både »menneske, græs« og »blomst« maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da »menneske« er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.",
+          "type": "E",
           "position": 28
         }
       ],
@@ -188,11 +200,13 @@
       "text": "\fPris JHVH, I hans engle,\fI stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
       "footnotes": [
         {
-          "text": "E: Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "type": "E",
           "position": 5
         },
         {
-          "text": "T: Ordret: »hans ords røst«.",
+          "text": "Ordret: »hans ords røst«.",
+          "type": "T",
           "position": 94
         }
       ],

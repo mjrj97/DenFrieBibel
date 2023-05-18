@@ -24,7 +24,8 @@
       "title": "Paulus’ kamp for menigheden",
       "footnotes": [
         {
-          "text": "T: Ordret: »i kødet«",
+          "text": "Ordret: »i kødet«",
+          "type": "T",
           "position": 132
         }
       ],
@@ -50,7 +51,8 @@
       "text": "For selv om jeg er fysisk fraværende, er jeg dog sammen med jer i ånden, idet jeg glæder mig når jeg ser ordenen og fastheden i jeres tro på Kristus.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i kødet«",
+          "text": "Ordret: »i kødet«",
+          "type": "T",
           "position": 25
         }
       ],
@@ -92,7 +94,8 @@
       "text": "da I blev begravet sammen med ham i dåben, i den blev I også oprejst ved troen, som er virket af Guds kraft der oprejste ham fra de døde.",
       "footnotes": [
         {
-          "text": "E: Det er en oprindelsens genitiv (Ef 1,19); alternativ oversættelse: »ved troen på Guds kraft«; her forstår man genitiven som en objektiv genitiv.",
+          "text": "Det er en oprindelsens genitiv (Ef 1,19); alternativ oversættelse: »ved troen på Guds kraft«; her forstår man genitiven som en objektiv genitiv.",
+          "type": "E",
           "position": 107
         }
       ],
@@ -103,7 +106,8 @@
       "text": "Jer, som var døde i jeres overtrædelser og var i jeres uomskårne kød, har han gjort levende sammen med ham, da han tilgav os alle overtrædelserne.",
       "footnotes": [
         {
-          "text": "T: Ordret: »i jeres køds uomskårethed«.",
+          "text": "Ordret: »i jeres køds uomskårethed«.",
+          "type": "T",
           "position": 69
         }
       ],
@@ -125,7 +129,8 @@
       "title": "Advarsel mod menneskers regler",
       "footnotes": [
         {
-          "text": "T: Med »nymåne« er der tænkt på nymånefesten.",
+          "text": "Med »nymåne« er der tænkt på nymånefesten.",
+          "type": "T",
           "position": 82
         }
       ],
@@ -136,7 +141,8 @@
       "text": "som er en skygge af det kommende, men kroppen tilhører Kristus.",
       "footnotes": [
         {
-          "text": "T: Ordret: »men Kristi krop«",
+          "text": "Ordret: »men Kristi krop«",
+          "type": "T",
           "position": 62
         }
       ],
@@ -147,7 +153,8 @@
       "text": "Lad jer ikke frakende sejrsprisen af nogen som elsker ydmyghed og engledyrkelse, som går op i det han har set, så han uden grund bliver opblæst af sin kødelige tankegang",
       "footnotes": [
         {
-          "text": "T: Ordret: »sit køds«",
+          "text": "Ordret: »sit køds«",
+          "type": "T",
           "position": 159
         }
       ],

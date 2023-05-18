@@ -19,7 +19,8 @@
       "text": "Fra Paulus, Silvanus og Timotheus. Til Thessalonikernes menighed i Gud Fader og Herren Jesus Kristus. Nåde være med jer, og fred.",
       "footnotes": [
         {
-          "text": "E: Mange håndskrifter tilføjer desuden: »fra Gud, vor Far, og Herren Jesus Kristus.«",
+          "text": "Mange håndskrifter tilføjer desuden: »fra Gud, vor Far, og Herren Jesus Kristus.«",
+          "type": "E",
           "position": 129
         }
       ],
@@ -65,7 +66,8 @@
       "text": "For de fortæller nemlig selv om os, hvilken slags modtagelse vi fik hos jer, og hvorledes I omvendte jer fra afguderne til Gud, for at tjene den levende og sande Gud,",
       "footnotes": [
         {
-          "text": "T: Ordret, »indgang«.",
+          "text": "Ordret, »indgang«.",
+          "type": "T",
           "position": 60
         }
       ],

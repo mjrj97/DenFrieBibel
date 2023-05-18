@@ -29,7 +29,8 @@
       "text": "Han lavede horn på dets fire hjørner, dets horn gik i ét med det; og han beklædte det med bronze.",
       "footnotes": [
         {
-          "text": "T: Ordret: »dets horn gik ud fra det«.",
+          "text": "Ordret: »dets horn gik ud fra det«.",
+          "type": "T",
           "position": 65
         }
       ],
@@ -66,7 +67,8 @@
       "title": "Fremstilling af bronzebækkenet",
       "footnotes": [
         {
-          "text": "T: Ordet: *marʔāʰ* skal alle andre steder i GT oversættes: »syn/ansigt/tilsynekomst«, men her må det formodentlig oversættes: »spejl«.",
+          "text": "Ordet: *marʔāʰ* skal alle andre steder i GT oversættes: »syn/ansigt/tilsynekomst«, men her må det formodentlig oversættes: »spejl«.",
+          "type": "T",
           "position": 69
         }
       ],
@@ -83,7 +85,8 @@
       "text": "med tyve stolper dertil med deres tyve fodstykker af bronze, og stolpernes kroge og deres tværstænger, af sølv;",
       "footnotes": [
         {
-          "text": "T: Det er i grundteksten strengt taget ikke angivet om det skal være med tværstænger eller bånd.",
+          "text": "Det er i grundteksten strengt taget ikke angivet om det skal være med tværstænger eller bånd.",
+          "type": "T",
           "position": 102
         }
       ],
@@ -134,7 +137,8 @@
       "text": "dertil var der fire stolper med fire fodstykker af bronze, med kroge af sølv og toppe beklædt med sølv og tværstænger af sølv.",
       "footnotes": [
         {
-          "text": "T: Se note til vers 10.",
+          "text": "Se note til vers 10.",
+          "type": "T",
           "position": 117
         }
       ],
@@ -151,11 +155,13 @@
       "title": "Regnskabet for helligdommen",
       "footnotes": [
         {
-          "text": "T: Ordret: »mund«",
+          "text": "Ordret: »mund«",
+          "type": "T",
           "position": 97
         },
         {
-          "text": "T: Ordret: »hånd«.",
+          "text": "Ordret: »hånd«.",
+          "type": "T",
           "position": 132
         }
       ],
@@ -176,11 +182,13 @@
       "text": "Alt guldet, som blev brugt til arbejdet, til alt arbejdet på helligdommen, svingningens guld, var 29 talenter og 730 sekel efter helligdommens sekel.",
       "footnotes": [
         {
-          "text": "E: Hermed menes: »det indviede«.",
+          "text": "Hermed menes: »det indviede«.",
+          "type": "E",
           "position": 87
         },
         {
-          "text": "T: Kan også oversættes: »efter helligdommens vægt« eller: »efter den hellige sekel«.",
+          "text": "Kan også oversættes: »efter helligdommens vægt« eller: »efter den hellige sekel«.",
+          "type": "T",
           "position": 149
         }
       ],

@@ -24,7 +24,8 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Se note til Sl 120,1.",
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
           "position": 13
         }
       ],
@@ -47,11 +48,13 @@
       "text": "\fVor sjæl er overmæt\faf spotten, de sorgløse,\fforagten fra stolte.",
       "footnotes": [
         {
-          "text": "E: Udtrykket kan måske betyde: »af spotten, nemlig fra de sorgløse«. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (»de sorgløse«) ser ud til at have læst: *laššaˀᵃnannîm*: »fra de sorgløse«.",
+          "text": "Udtrykket kan måske betyde: »af spotten, nemlig fra de sorgløse«. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (»de sorgløse«) ser ud til at have læst: *laššaˀᵃnannîm*: »fra de sorgløse«.",
+          "type": "E",
           "position": 45
         },
         {
-          "text": "E: Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (»fra stolte«) skal deles i to ord: *ligᵊʔê yônîm*: »fra undertrykkeres stolte« = »fra stolte blandt undertrykkere«.",
+          "text": "Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (»fra stolte«) skal deles i to ord: *ligᵊʔê yônîm*: »fra undertrykkeres stolte« = »fra stolte blandt undertrykkere«.",
+          "type": "E",
           "position": 66
         }
       ],

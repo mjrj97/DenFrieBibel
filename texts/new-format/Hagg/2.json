@@ -23,7 +23,8 @@
       "text": "»Dog nu, vær frimodig, Zerubbabel! siger HERREN, og vær frimodig, Josva, Josadaks Søn, du ypperstepræst! og vær frimodig, alt folk i Landet! siger HERREN, og arbejd, for jeg er med jer,« lyder det fra Hærskarers HERRE.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens *nᵊʔum* angiver at det er et højtideligt udsagn.",
+          "text": "Grundtekstens *nᵊʔum* angiver at det er et højtideligt udsagn.",
+          "type": "T",
           "position": 200
         }
       ],
@@ -34,7 +35,8 @@
       "text": "Det er løftet i min pagt med jer dengang I drog ud af Egypten, og min Ånd vil stadig være midt iblandt jer; frygt ikke!«",
       "footnotes": [
         {
-          "text": "T: ordret: »ordet«.",
+          "text": "ordret: »ordet«.",
+          "type": "T",
           "position": 13
         }
       ],

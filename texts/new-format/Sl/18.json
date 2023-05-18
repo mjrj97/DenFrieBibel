@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Salmen står også – med ubetydelige afvigelser – i 2 Sam 22.",
+          "text": "Salmen står også – med ubetydelige afvigelser – i 2 Sam 22.",
+          "type": "E",
           "position": 163
         }
       ],
@@ -56,7 +58,8 @@
       "title": "David råbte til Gud i sin nød",
       "footnotes": [
         {
-          "text": "E: Tidligere ofte oversat »Belials«, hvor »Belial« blev opfattet som synonym for Satan.",
+          "text": "Tidligere ofte oversat »Belials«, hvor »Belial« blev opfattet som synonym for Satan.",
+          "type": "E",
           "position": 43
         }
       ],
@@ -72,7 +75,8 @@
       "text": "\fDa jeg var i nød, råbte jeg til JHVH,\fjeg skreg til min Gud om hjælp.\fHan hørte min røst fra sit tempel,\fog mit skrig til ham nåede hans ører.",
       "footnotes": [
         {
-          "text": "E: Imperfektiv skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perfektiv",
+          "text": "Imperfektiv skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perfektiv",
+          "type": "E",
           "position": 24
         }
       ],
@@ -84,7 +88,8 @@
       "title": "Gud hørte og frelste",
       "footnotes": [
         {
-          "text": "T: Ordret: »det brændte for ham«.",
+          "text": "Ordret: »det brændte for ham«.",
+          "type": "T",
           "position": 91
         }
       ],
@@ -100,7 +105,8 @@
       "text": "\fHan sænkede himlen og steg ned,\fder var mørke skyer under hans fødder.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »udstrakte«.",
+          "text": "Kan også oversættes: »udstrakte«.",
+          "type": "T",
           "position": 12
         }
       ],
@@ -116,7 +122,8 @@
       "text": "\fHan gjorde mørke til sit skjul omkring sig,\fmørke vande og tykke skyer gjorde han til sin hytte.",
       "footnotes": [
         {
-          "text": "E: Verset er sprogligt knudret. Masoreterne har delt verset, så »sin hytte« hører til første halvvers (»til sin hytte omkring sig«), men man vælger oftest at se bort fra deres accent her. Ordene »gjorde han« står kun i første halvvers, men er for forståelsens skyld gentaget her.",
+          "text": "Verset er sprogligt knudret. Masoreterne har delt verset, så »sin hytte« hører til første halvvers (»til sin hytte omkring sig«), men man vælger oftest at se bort fra deres accent her. Ordene »gjorde han« står kun i første halvvers, men er for forståelsens skyld gentaget her.",
+          "type": "E",
           "position": 97
         }
       ],
@@ -127,7 +134,8 @@
       "text": "\fFra glansen foran ham fór hans skyer af sted,\fhagl og glødende kul.",
       "footnotes": [
         {
-          "text": "T: I stedet for *ʕāvᵊrû* (»fór af sted«) har 2 Sam 22,13 *bāʕᵃrû*: »brændte«.",
+          "text": "I stedet for *ʕāvᵊrû* (»fór af sted«) har 2 Sam 22,13 *bāʕᵃrû*: »brændte«.",
+          "type": "T",
           "position": 46
         }
       ],
@@ -143,7 +151,8 @@
       "text": "Han skød sine pile ud og spredte dem,\fmed mange lyn forfærdede han dem.",
       "footnotes": [
         {
-          "text": "T: Fjenderne, sprogligt kan det dog også være pilene.",
+          "text": "Fjenderne, sprogligt kan det dog også være pilene.",
+          "type": "T",
           "position": 37
         }
       ],
@@ -154,7 +163,8 @@
       "text": "\fHavets bund kom til syne,\fjordens grundvolde blottedes\fved din trussel, JHVHv!\fved din vredes ånde.",
       "footnotes": [
         {
-          "text": "T: Ordret: »vandenes« (*mayim*), men man vælger oftest med 2 Sam 22,16 at læse *yām*: »havets«.",
+          "text": "Ordret: »vandenes« (*mayim*), men man vælger oftest med 2 Sam 22,16 at læse *yām*: »havets«.",
+          "type": "T",
           "position": 7
         }
       ],
@@ -231,7 +241,8 @@
       "text": "\fFor ved din hjælp stormer jeg imod en skare,\fog ved min Guds hjælp springer jeg over en mur.",
       "footnotes": [
         {
-          "text": "E: Mange retter her *gᵊdûd*: »(hær)skare« til *gāder*: »mur, vold«, især ud fra parallellen i næste linje.",
+          "text": "Mange retter her *gᵊdûd*: »(hær)skare« til *gāder*: »mur, vold«, især ud fra parallellen i næste linje.",
+          "type": "E",
           "position": 45
         }
       ],
@@ -268,7 +279,8 @@
       "text": "\fDu giver mig din frelse som skjold,\fog din højre hånd støtter mig,\fog din ydmyghed gør mig stor.",
       "footnotes": [
         {
-          "text": "E: Ordet *ʕᵃnāwāʰ* (»ydmyghed«) er usædvanligt i sammenhængen, men dog muligt. Sætningen understreger at kongens sejr ikke skyldes hans storhed, men at Gud har bøjet sig ned til ham. Blandt rettelsesforslagene skal især nævnes: *ʕᵃnôtxā*: »dit svar« og *ʕezrātᵉxā*: »din hjælp«.",
+          "text": "Ordet *ʕᵃnāwāʰ* (»ydmyghed«) er usædvanligt i sammenhængen, men dog muligt. Sætningen understreger at kongens sejr ikke skyldes hans storhed, men at Gud har bøjet sig ned til ham. Blandt rettelsesforslagene skal især nævnes: *ʕᵃnôtxā*: »dit svar« og *ʕezrātᵉxā*: »din hjælp«.",
+          "type": "E",
           "position": 83
         }
       ],
@@ -299,7 +311,8 @@
       "text": "\fOg mine fjender – du gav mig deres nakke,\fdem der hadede mig, udryddede jeg.",
       "footnotes": [
         {
-          "text": "E: Meningen er enten: »Du lod mig se deres ryg (fordi de flygtede)«, eller måske snarere: »du lod mig som sejrherre sætte min fod på deres nakke«.",
+          "text": "Meningen er enten: »Du lod mig se deres ryg (fordi de flygtede)«, eller måske snarere: »du lod mig som sejrherre sætte min fod på deres nakke«.",
+          "type": "E",
           "position": 42
         }
       ],
@@ -310,7 +323,8 @@
       "text": "\fDe råber om hjælp, men der er ingen frelser,\fde råbte til Herren, men han svarede dem ikke.",
       "footnotes": [
         {
-          "text": "T: »de råbte« er underforstået fra forrige linje. Det står ikke her i grundteksten.",
+          "text": "»de råbte« er underforstået fra forrige linje. Det står ikke her i grundteksten.",
+          "type": "T",
           "position": 54
         }
       ],
@@ -326,7 +340,8 @@
       "text": "\fDu udfrier mig fra folkenes strid,\fdu gør mig til folkeslags hoved,\fet folk som jeg ikke kendte, skal tjene mig.",
       "footnotes": [
         {
-          "text": "T: Undertiden oversat »hedningers«, men det er næppe meningen her.",
+          "text": "Undertiden oversat »hedningers«, men det er næppe meningen her.",
+          "type": "T",
           "position": 61
         }
       ],
@@ -337,7 +352,8 @@
       "text": "\fNår de hører om mig, skal de adlyde mig,\ffremmede børn skal krybe for mig.",
       "footnotes": [
         {
-          "text": "T: Ordret: »Ved ørets høren«.",
+          "text": "Ordret: »Ved ørets høren«.",
+          "type": "T",
           "position": 21
         }
       ],
@@ -369,7 +385,8 @@
       "text": "\fDerfor vil jeg prise dig blandt folkeslagene, JHVHv!\fdit navn vil jeg lovsynge.",
       "footnotes": [
         {
-          "text": "T: Kan også oversættes: »blandt hedninger«, men det er næppe meningen her.",
+          "text": "Kan også oversættes: »blandt hedninger«, men det er næppe meningen her.",
+          "type": "T",
           "position": 46
         }
       ],
@@ -380,7 +397,8 @@
       "text": "\fStor hjælp giver han sin konge\fog viser nåde mod sin salvede,\fmod David og mod hans sæd til evig tid.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 45
         }
       ],

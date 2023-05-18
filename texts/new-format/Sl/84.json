@@ -24,11 +24,13 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "T: Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "type": "T",
           "position": 29
         }
       ],
@@ -40,7 +42,8 @@
       "title": "Længsel efter templet",
       "footnotes": [
         {
-          "text": "T: I ældre tid uoversat: »Zebaoth«",
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
           "position": 43
         }
       ],
@@ -51,11 +54,13 @@
       "text": "\fMin sjæl længtes, ja, var ved at gå til af længsel\fefter JHVHs forgårde,\fmit hjerte og mit kød skal jublende prise\fden levende Gud.",
       "footnotes": [
         {
-          "text": "T: Ordret: »hentæredes«.",
+          "text": "Ordret: »hentæredes«.",
+          "type": "T",
           "position": 51
         },
         {
-          "text": "T: Oversættes ofte: »råber efter«. Det vil dog være eneste gang at dette adskillige gange forekommende verbum optræder i pi’el i den betydning i GT.",
+          "text": "Oversættes ofte: »råber efter«. Det vil dog være eneste gang at dette adskillige gange forekommende verbum optræder i pi’el i den betydning i GT.",
+          "type": "T",
           "position": 115
         }
       ],
@@ -66,11 +71,13 @@
       "text": "\fSelv fuglen har fundet et bo\fog svalen en rede til sig,\fhvor den har lagt sine unger:\fDine altre, Hærskarers JHVHv,\fmin konge og min Gud!",
       "footnotes": [
         {
-          "text": "T: Undertiden oversat: »spurven«",
+          "text": "Undertiden oversat: »spurven«",
+          "type": "T",
           "position": 12
         },
         {
-          "text": "T: I ældre tid uoversat: »Zebaoth«",
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
           "position": 109
         }
       ],
@@ -81,7 +88,8 @@
       "text": "\fSalige er de som bor i dit hus,\ftil stadighed skal de prise dig. Sela",
       "footnotes": [
         {
-          "text": "N: Sela",
+          "text": "Sela",
+          "type": "N",
           "position": 70
         }
       ],
@@ -93,7 +101,8 @@
       "title": "Pilgrimmenes lykke",
       "footnotes": [
         {
-          "text": "E: Ordret: »i/på hvis hjerte der er veje«. Både Septuaginta og sammenhængen støtter at der med »veje« er tænkt på valfart. Der er forskellige forslag til rettelser, bl.a. at rette: *mᵊsillôt* (»veje«) til: *kislôt*: »tillid«.",
+          "text": "Ordret: »i/på hvis hjerte der er veje«. Både Septuaginta og sammenhængen støtter at der med »veje« er tænkt på valfart. Der er forskellige forslag til rettelser, bl.a. at rette: *mᵊsillôt* (»veje«) til: *kislôt*: »tillid«.",
+          "type": "E",
           "position": 93
         }
       ],
@@ -104,7 +113,8 @@
       "text": "\fNår de drager igennem Baka-dalen,\fgør de den til et kildevæld,\fja, tidligregnen skal hylle den i velsignelser.",
       "footnotes": [
         {
-          "text": "T: Det er efterårets første, lette regn efter sommerens tørke. Oversættes derfor også: »efterårsregnen«",
+          "text": "Det er efterårets første, lette regn efter sommerens tørke. Oversættes derfor også: »efterårsregnen«",
+          "type": "T",
           "position": 80
         }
       ],
@@ -115,7 +125,8 @@
       "text": "\fDe skal gå frem fra kraft til kraft,\fde skal se hen til Gud på Zion.",
       "footnotes": [
         {
-          "text": "E: Den masoretiske tekst lyder ordret oversat: »han skal vise sig for Gud på Zion«. Subjektet kan evt. opfattes kollektivt (»de«) eller upersonligt (»man«). Sætningen kan måske (let omskrevet) oversættes: »indtil enhver viser sig for Gud på Zion«. Ofte går man dog ud fra (som forudsat her) at verbet ikke skal være *yērāʔeʰ* (»han skal/vil vise sig«), men: *yirʔû*: »de skal se«, som i forbindelse med præpositionen *ʔel* (»hen til«) er udtryk for at man ser hen til én med håb.",
+          "text": "Den masoretiske tekst lyder ordret oversat: »han skal vise sig for Gud på Zion«. Subjektet kan evt. opfattes kollektivt (»de«) eller upersonligt (»man«). Sætningen kan måske (let omskrevet) oversættes: »indtil enhver viser sig for Gud på Zion«. Ofte går man dog ud fra (som forudsat her) at verbet ikke skal være *yērāʔeʰ* (»han skal/vil vise sig«), men: *yirʔû*: »de skal se«, som i forbindelse med præpositionen *ʔel* (»hen til«) er udtryk for at man ser hen til én med håb.",
+          "type": "E",
           "position": 48
         }
       ],
@@ -127,7 +138,8 @@
       "title": "Bøn for kongen",
       "footnotes": [
         {
-          "text": "E: Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
+          "text": "Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
+          "type": "E",
           "position": 19
         }
       ],
@@ -144,7 +156,8 @@
       "title": "Gud og hans tempel er livets kilde",
       "footnotes": [
         {
-          "text": "E: Ofte foreslås det i stedet for *bāḥartî* (»som jeg har valgt«) at rette til: *bᵊḥedrî*: »i mit kammer« = hjemme. Men rettelsen forekommer vilkårlig.",
+          "text": "Ofte foreslås det i stedet for *bāḥartî* (»som jeg har valgt«) at rette til: *bᵊḥedrî*: »i mit kammer« = hjemme. Men rettelsen forekommer vilkårlig.",
+          "type": "E",
           "position": 72
         }
       ],
@@ -160,7 +173,8 @@
       "text": "\fHærskarers JHVHv,\fsaligt er det menneske som stoler på dig!",
       "footnotes": [
         {
-          "text": "T: I ældre tid uoversat: »Zebaoth«",
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
           "position": 11
         }
       ],

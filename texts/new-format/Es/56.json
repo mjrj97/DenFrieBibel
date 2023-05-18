@@ -65,7 +65,8 @@
       "text": "Alle hans  vægtere er blinde, de ved ingenting, de er alle stumme hunde, der ikke kan gø, de ligger og drømmer, de holder af søvn.",
       "footnotes": [
         {
-          "text": "T: dvs. Israels",
+          "text": "dvs. Israels",
+          "type": "T",
           "position": 10
         }
       ],

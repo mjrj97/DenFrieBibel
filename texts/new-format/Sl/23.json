@@ -26,7 +26,8 @@
       "title": "David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt",
       "footnotes": [
         {
-          "text": "E: Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.",
+          "text": "Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.",
+          "type": "E",
           "position": 77
         }
       ],
@@ -37,7 +38,8 @@
       "text": "\f\t\t\t\t\tHan giver min sjæl nye kræfter;\f\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
       "footnotes": [
         {
-          "text": "E: Stier der fører til målet for Guds trofaste retfærdigheds skyld.",
+          "text": "Stier der fører til målet for Guds trofaste retfærdigheds skyld.",
+          "type": "E",
           "position": 78
         }
       ],
@@ -48,7 +50,8 @@
       "text": "\f\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens  dal,\f\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\f\t\t\t\t\t\t\tfor du er med mig;\f\t\t\t\t\t\t\t\t\tdin kæp og din stav,\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
       "footnotes": [
         {
-          "text": "E: *ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwet* (»død«). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
+          "text": "*ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwet* (»død«). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
+          "type": "E",
           "position": 46
         }
       ],
@@ -60,7 +63,8 @@
       "title": "Trøst og glæde i JHVH, som er den gæstfrie vært",
       "footnotes": [
         {
-          "text": "T: Ordret: »over for«",
+          "text": "Ordret: »over for«",
+          "type": "T",
           "position": 45
         }
       ],
@@ -71,15 +75,18 @@
       "text": "\f\tKun godhed og nåde skal følge mig\falle mine livsdage,\f\t\tog jeg skal blive i JHVHs hus\fhele livet.",
       "footnotes": [
         {
-          "text": "N: nåde",
+          "text": "nåde",
+          "type": "N",
           "position": 20
         },
         {
-          "text": "E: *wᵊšavtî* betyder: »og jeg skal vende tilbage«. Det passer dårligt til den følgende præposition *bᵊ* (»i«). Man vokaliserer ofte * wᵊšivtî*: »og min boen« eller *wᵊyāšavtî*: »og jeg skal bo«.",
+          "text": "*wᵊšavtî* betyder: »og jeg skal vende tilbage«. Det passer dårligt til den følgende præposition *bᵊ* (»i«). Man vokaliserer ofte * wᵊšivtî*: »og min boen« eller *wᵊyāšavtî*: »og jeg skal bo«.",
+          "type": "E",
           "position": 75
         },
         {
-          "text": "T: Egentlig: »i dages udstrækning«, dvs. »alle dage, hele livet«.",
+          "text": "Egentlig: »i dages udstrækning«, dvs. »alle dage, hele livet«.",
+          "type": "T",
           "position": 98
         }
       ],

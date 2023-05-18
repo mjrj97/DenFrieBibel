@@ -24,15 +24,18 @@
       "title": "Overskrift",
       "footnotes": [
         {
-          "text": "E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
           "position": 15
         },
         {
-          "text": "E: Betydningen af *ʕal-māḥᵃlat* er usikker. Det kan evt. betyde: »på lidende vis/under sygdom« eller være en melodihenvisning (på melodien »mahalat«) eller anvisning om et fløjteinstrument.",
+          "text": "Betydningen af *ʕal-māḥᵃlat* er usikker. Det kan evt. betyde: »på lidende vis/under sygdom« eller være en melodihenvisning (på melodien »mahalat«) eller anvisning om et fløjteinstrument.",
+          "type": "E",
           "position": 27
         },
         {
-          "text": "E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer, der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
           "position": 34
         }
       ],
@@ -54,7 +57,8 @@
       "text": "\fDe er alle faldet fra,\falle fordærvede,\fingen gør godt,\fend ikke en eneste.",
       "footnotes": [
         {
-          "text": "T: Grammatisk har grundteksten singularis, men det må opfattes kollektivt.",
+          "text": "Grammatisk har grundteksten singularis, men det må opfattes kollektivt.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -71,11 +75,13 @@
       "text": "\fDa skal de gribes af stor rædsel, hvor der ikke var rædsel,\ffor Gud skal splitte din belejrers knogler.\fDu har gjort til skamme, for Gud forkaster dem.",
       "footnotes": [
         {
-          "text": "E: Qatal skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det der vil ske. Ellers skal der oversættes: »Da var de grebet af stor rædsel«.",
+          "text": "Qatal skal oftest oversættes ved fortid, men her er den forstået som udtryk for vished om det der vil ske. Ellers skal der oversættes: »Da var de grebet af stor rædsel«.",
+          "type": "E",
           "position": 34
         },
         {
-          "text": "E: Ordene må være henvendt til den undertrykte der har gjort sine modstandere til skamme ved at bevare tilliden til Gud. Af hensyn til sammenhængen rettes der ofte til 3. person pluralis: »De er gjort til skamme«, evt.: »De bliver gjort til skamme«.",
+          "text": "Ordene må være henvendt til den undertrykte der har gjort sine modstandere til skamme ved at bevare tilliden til Gud. Af hensyn til sammenhængen rettes der ofte til 3. person pluralis: »De er gjort til skamme«, evt.: »De bliver gjort til skamme«.",
+          "type": "E",
           "position": 129
         }
       ],
@@ -87,15 +93,18 @@
       "title": "Bøn om frelse",
       "footnotes": [
         {
-          "text": "T: Ordret: »hvem giver«, men det er en almindelig ønskeformel.",
+          "text": "Ordret: »hvem giver«, men det er en almindelig ønskeformel.",
+          "type": "T",
           "position": 4
         },
         {
-          "text": "T: I grundteksten er ordet pluralis der understreger intensiteten.",
+          "text": "I grundteksten er ordet pluralis der understreger intensiteten.",
+          "type": "T",
           "position": 19
         },
         {
-          "text": "E: Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det var afledt af roden *šbh* (»tage til fange«, altså: »fangenskab«. Nu peges der oftest på roden *šwb* (egtl.: »vende tilbage«, her: »skæbne«.",
+          "text": "Ordet *šᵊvût* er omdiskuteret. Tidligere mente man det var afledt af roden *šbh* (»tage til fange«, altså: »fangenskab«. Nu peges der oftest på roden *šwb* (egtl.: »vende tilbage«, her: »skæbne«.",
+          "type": "E",
           "position": 71
         }
       ],

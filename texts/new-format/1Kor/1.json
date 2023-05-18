@@ -122,7 +122,8 @@
       "text": "Hvor er der en viis? Hvor er der en skriftlærd? Hvor er der en debattør af denne verden? Har Gud ikke gjort verdens visdom tåbelig?",
       "footnotes": [
         {
-          "text": "N: Skriftlærd",
+          "text": "Skriftlærd",
+          "type": "N",
           "position": 46
         }
       ],
@@ -174,7 +175,8 @@
       "text": "for at intet menneske skal rose sig for Gud.",
       "footnotes": [
         {
-          "text": "T: ingen dødelig",
+          "text": "ingen dødelig",
+          "type": "T",
           "position": 21
         }
       ],

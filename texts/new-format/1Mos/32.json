@@ -43,7 +43,8 @@
       "text": "Han sagde: »Fremover skal dit navn ikke være Jakob, men Israel; for du har holdt ud i kampen med Gud og med mennesker og vundet.«",
       "footnotes": [
         {
-          "text": "T: Israel betyder enten: »en der har holdt ud i kampen med Gud« eller: »Gud har holdt ud i kampen« (eller måske: »Gud har været udholdende«).",
+          "text": "Israel betyder enten: »en der har holdt ud i kampen med Gud« eller: »Gud har holdt ud i kampen« (eller måske: »Gud har været udholdende«).",
+          "type": "T",
           "position": 63
         }
       ],
@@ -59,15 +60,18 @@
       "text": "Jakob kaldte stedet Penuel; »for jeg har set Gud ansigt til ansigt, og mit liv  er frelst.«",
       "footnotes": [
         {
-          "text": "T: Penuel betyder: Guds ansigt.",
+          "text": "Penuel betyder: Guds ansigt.",
+          "type": "T",
           "position": 27
         },
         {
-          "text": "H: Sl 80,4.",
+          "text": "Sl 80,4.",
+          "type": "H",
           "position": 27
         },
         {
-          "text": "T: Ordret: »min sjæl«.",
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
           "position": 79
         }
       ],

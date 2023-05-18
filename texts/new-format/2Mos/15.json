@@ -24,11 +24,13 @@
       "title": "Moses’ sang",
       "footnotes": [
         {
-          "text": "T: Ordret: »og sagde, idet de sagde«.",
+          "text": "Ordret: »og sagde, idet de sagde«.",
+          "type": "T",
           "position": 61
         },
         {
-          "text": "T: Kohortativen kan også oversættes: »Lad mig synge«.",
+          "text": "Kohortativen kan også oversættes: »Lad mig synge«.",
+          "type": "T",
           "position": 76
         }
       ],
@@ -39,15 +41,18 @@
       "text": "\fMin styrke og min lovsang er JHVH,\fog han blev mig til frelse. \fHan er min Gud, og jeg vil prise ham,\fmin faders Gud, og jeg vil ophøje ham.",
       "footnotes": [
         {
-          "text": "T: Ordret skulle grundteksten oversættes: »Min styrke og JHVHs lovsang«. Men suffixet *-î* (»min«) regnes normalt for at være underforstået fra det foregående ord: *ʕāzzî* (»min styrke«).",
+          "text": "Ordret skulle grundteksten oversættes: »Min styrke og JHVHs lovsang«. Men suffixet *-î* (»min«) regnes normalt for at være underforstået fra det foregående ord: *ʕāzzî* (»min styrke«).",
+          "type": "T",
           "position": 26
         },
         {
-          "text": "T: Grundteksten har forkortelsen *yāh* for Guds navn.",
+          "text": "Grundteksten har forkortelsen *yāh* for Guds navn.",
+          "type": "T",
           "position": 35
         },
         {
-          "text": "T: Ordret: »denne«.",
+          "text": "Ordret: »denne«.",
+          "type": "T",
           "position": 68
         }
       ],
@@ -58,7 +63,8 @@
       "text": "\fJHVH er en kriger,\fJHVH er hans navn.",
       "footnotes": [
         {
-          "text": "T: Ordret: »krigsmand«.",
+          "text": "Ordret: »krigsmand«.",
+          "type": "T",
           "position": 19
         }
       ],
@@ -69,7 +75,8 @@
       "text": "\fFaraos vogne og hans hær kastede han i havet,\fog hans udvalgte vognkæmpere blev sænket i Sivhavet,",
       "footnotes": [
         {
-          "text": "T: Se note til 14,7.",
+          "text": "Se note til 14,7.",
+          "type": "T",
           "position": 75
         }
       ],
@@ -90,7 +97,8 @@
       "text": "\fog i din højheds storhed slår du dine modstandere ned;\fdu sender din vrede ud, den fortærer dem som strå.",
       "footnotes": [
         {
-          "text": "T: Verbet bruges især om mure og fæstningsværker, der gennembrydes eller brydes ned.",
+          "text": "Verbet bruges især om mure og fæstningsværker, der gennembrydes eller brydes ned.",
+          "type": "T",
           "position": 30
         }
       ],
@@ -101,15 +109,18 @@
       "text": "\fOg ved din vredes ånde tårnede vandet sig op,\fstrømmene stillede sig som en mur,\fvandmasserne stivnede midt i havet.",
       "footnotes": [
         {
-          "text": "T: Grundtekstens ord (*ʔaf*) har grundbetydningen: »næse«, men bruges også til at angive: »vrede«.",
+          "text": "Grundtekstens ord (*ʔaf*) har grundbetydningen: »næse«, men bruges også til at angive: »vrede«.",
+          "type": "T",
           "position": 18
         },
         {
-          "text": "T: Grundteksten anvender ordet *tᵊhôm*. Det bruges som betegnelse for urdybet og for store havdybder (jf. v. 5).",
+          "text": "Grundteksten anvender ordet *tᵊhôm*. Det bruges som betegnelse for urdybet og for store havdybder (jf. v. 5).",
+          "type": "T",
           "position": 94
         },
         {
-          "text": "T: Ordret: »i havets hjerte«.",
+          "text": "Ordret: »i havets hjerte«.",
+          "type": "T",
           "position": 117
         }
       ],
@@ -120,7 +131,8 @@
       "text": "\fFjenden sagde: ›Jeg vil forfølge, indhente,\fjeg vil dele bytte;\fmin sjæl skal stille sin lyst på dem,\fjeg vil trække mit sværd, min hånd skal udrydde dem.‹",
       "footnotes": [
         {
-          "text": "T: Ordret: »skal fylde sig med dem«.",
+          "text": "Ordret: »skal fylde sig med dem«.",
+          "type": "T",
           "position": 94
         }
       ],
@@ -176,7 +188,8 @@
       "text": "For da Faraos hest gik ud med hans vogn og hans ryttere i havet – da bragte JHVH tilbage over dem vandet fra havet – men Israels børn gik på det tørre midt i havet.",
       "footnotes": [
         {
-          "text": "E: Dette vers falder uden for sangens rytme og opfattes derfor normalt som forfatterens (Moses’) afrunding, der peger tilbage på begivenhederne i kap. 14. I ældre jødisk tradition opfattes verset som en del af sangen.",
+          "text": "Dette vers falder uden for sangens rytme og opfattes derfor normalt som forfatterens (Moses’) afrunding, der peger tilbage på begivenhederne i kap. 14. I ældre jødisk tradition opfattes verset som en del af sangen.",
+          "type": "E",
           "position": 164
         }
       ],
@@ -193,7 +206,8 @@
       "text": "Og Mirjam sang for dem: »Syng for JHVH,\ffor han er højt ophøjet;\fhesten og dens rytter\fhar han kastet i havet.«",
       "footnotes": [
         {
-          "text": "T: Det er ikke helt klart, hvad der menes med »dem«, der i grundteksten er maskulinum. Der er altså næppe blot tænkt på kvinderne i hendes følge, men formodentlig på hele folket.",
+          "text": "Det er ikke helt klart, hvad der menes med »dem«, der i grundteksten er maskulinum. Der er altså næppe blot tænkt på kvinderne i hendes følge, men formodentlig på hele folket.",
+          "type": "T",
           "position": 23
         }
       ],
@@ -210,7 +224,8 @@
       "text": "Så kom de til Mara; men de kunne ikke drikke vandet i Mara, for det var bittert; derfor kaldte man stedet Mara.",
       "footnotes": [
         {
-          "text": "T: Ordret enten: »Derfor kaldte han dets navn Mara« eller: »derfor kaldte man dets navn Mara«.",
+          "text": "Ordret enten: »Derfor kaldte han dets navn Mara« eller: »derfor kaldte man dets navn Mara«.",
+          "type": "T",
           "position": 111
         }
       ],
@@ -226,7 +241,8 @@
       "text": "Så skreg han til JHVH, og JHVH viste ham et træ. Han kastede det i vandet, og så blev vandet sødt. Dér fastsatte han lov og ret for det, og dér satte han det på prøve.",
       "footnotes": [
         {
-          "text": "E: for folket.",
+          "text": "for folket.",
+          "type": "E",
           "position": 136
         }
       ],
@@ -237,7 +253,8 @@
       "text": "Og han sagde: »Hvis du lytter nøje til JHVHs, din Guds, røst, og gør det som er ret i hans øjne og lytter til hans bud og holder alle hans love, så vil jeg ikke lægge nogen af de sygdomme på dig som jeg lagde på Egypten; For jeg er JHVH som læger dig.«",
       "footnotes": [
         {
-          "text": "T: Den hebraiske tekst har verbet *šmʕ* (»lytte«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "text": "Den hebraiske tekst har verbet *šmʕ* (»lytte«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
           "position": 34
         }
       ],

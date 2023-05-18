@@ -95,7 +95,8 @@
       "text": "Herre, ved disse ting  lever man, og ved dem alle får min ånd liv; gør mig stærk, og hold mig i live!",
       "footnotes": [
         {
-          "text": "T: nemlig ved dine ord og handlinger",
+          "text": "nemlig ved dine ord og handlinger",
+          "type": "T",
           "position": 22
         }
       ],
