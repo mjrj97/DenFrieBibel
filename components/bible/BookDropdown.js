@@ -6,12 +6,12 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
     const [chapters, setChapters] = useState([]);
 
     const [currentBook, setCurrentBook] = useState({ 
-        value: "Ruth", 
-        label: "Ruths Bog" 
+        value: "1Mos", 
+        label: "Første Mosebog" 
     });
     const [currentChapter, setCurrentChapter] = useState({ 
-        value: 1, 
-        label: "Kapitel 1" 
+        value: 3, 
+        label: "Kapitel 3" 
     });
 
     useEffect(()=>{
@@ -36,9 +36,9 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
         if (books && books.length > 0)
         {
             setCurrentBook({ 
-                value: books[7].abbreviation, 
-                label: books[7].name ,
-                chapters: books[7].chapters
+                value: books[0].abbreviation, 
+                label: books[0].name ,
+                chapters: books[0].chapters
             });
         }
     }, [books]);
@@ -95,7 +95,6 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
     }, [currentBook]);
 
     function onBookChange(book) {
-        onChapterChange({ value: 1, label: "Kapitel 1"});
         setCurrentBook(book);
         bookChanged(book.value);
     }
@@ -166,8 +165,8 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
             <div className="px-0 mx-0 mb-2">
                 <div className='arrow-container d-none d-sm-block'>
                     <div className='d-flex justify-content-between'>
-                        <a className={'btn btn-light arrow arrow-left ignore' + (currentChapter.value == 1 ? ' disabled' : '')} href='#' onClick={subtractChapter}>←</a>
-                        <a className={'btn btn-light arrow arrow-right ignore' + (currentBook.chapters && currentChapter.value == currentBook.chapters.length ? ' disabled' : '')} href='#' onClick={addChapter}>→</a>
+                        <button className={'btn btn-light arrow arrow-left ignore' + (currentChapter.value == 1 ? ' disabled' : '')} onClick={subtractChapter} type="button">←</button>
+                        <button className={'btn btn-light arrow arrow-right ignore' + (currentBook.chapters && currentChapter.value == currentBook.chapters.length ? ' disabled' : '')} onClick={addChapter} type="button">→</button>
                     </div>
                 </div>
                 <div className="row select-container">

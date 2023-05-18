@@ -8,8 +8,8 @@ import BookDropdown from '@/components/bible/BookDropdown'
 import CommentContainer from '@/components/bible/CommentContainer'
 
 const Index = () => {
-  const [currentBook, setCurrentBook] = useState("Ruth");
-  const [currentChapter, setCurrentChapter] = useState(1);
+  const [currentBook, setCurrentBook] = useState("1Mos");
+  const [currentChapter, setCurrentChapter] = useState(3);
   const [books, setBooks] = useState([]);
   const [text, setText] = useState("");
   
@@ -20,7 +20,7 @@ const Index = () => {
     fetch("/api/bible?book=" + currentBook + "&chapter=" + currentChapter).then(
       response => response.json()
     ).then(
-      data => {setText(data.content);}
+      data => {setText(data);}
     );
   }, [currentBook, currentChapter]);
   

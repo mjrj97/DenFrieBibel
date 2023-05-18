@@ -90,11 +90,11 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--ten);
   box-shadow: rgba(0, 0, 0, 0.20) 0px 5px 15px;
   border-radius: 25px;
+  padding-top: 0px;
 
+  line-height: 0px;
   font-size: 1.5rem;
   text-decoration: none;
-
-  line-height: 1.8rem;
   text-align: center;
 }
 
