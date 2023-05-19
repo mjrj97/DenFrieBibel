@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Select from 'react-select';
 
-function BookDropdown({books, bookChanged, chapterChanged}) {
+function BookDropdown({books, changed}) {
     const [currentBooks, setBooks] = useState([]);
     const [chapters, setChapters] = useState([]);
 
@@ -43,7 +43,7 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
         }
     }, [books]);
 
-    useEffect(()=>{
+    useEffect(() => {
         let buffer = [];
         for (let i = 1; currentBook.chapters &&  i <= currentBook.chapters.length; i++) {
             const translation = currentBook.chapters[i-1];
@@ -90,28 +90,22 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
                 label: "Kapitel 1" 
             }
         }
-        onChapterChange(first);
+        setCurrentChapter(first);
 
     }, [currentBook]);
 
-    function onBookChange(book) {
-        setCurrentBook(book);
-        bookChanged(book.value);
-    }
-
-    function onChapterChange(chapter) {
-        chapterChanged(chapter.value);
-        setCurrentChapter(chapter);
-    }
+    useEffect(() => {
+        changed(currentBook, currentChapter);
+    }, [currentChapter]);
 
     function addChapter() {
         if (currentChapter.value < currentBook.chapters.length)
-            onChapterChange(chapters[currentChapter.value]);
+            setCurrentChapter(chapters[currentChapter.value]);
     }
 
     function subtractChapter() {
         if (currentChapter.value > 1)
-            onChapterChange(chapters[currentChapter.value - 2]);
+            setCurrentChapter(chapters[currentChapter.value - 2]);
     }
 
     const colourStyles = {
@@ -149,16 +143,6 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
         }
     };
 
-    const style = {
-        control: base => ({
-            ...base,
-            height: 50,
-            minHeight: 50,
-            fontSize: 20,
-            fontFamily: "Verdana"
-        })
-    };
-
     return (
         // Sticky top: https://stackoverflow.com/questions/28340054/bootstrap-keep-div-fixed-after-scrolling-to-it
         <div className="sticky-top sticky-dropdown">
@@ -171,10 +155,10 @@ function BookDropdown({books, bookChanged, chapterChanged}) {
                 </div>
                 <div className="row select-container">
                     <div className='col-8'>
-                        <Select value={currentBook} options={currentBooks} onChange={(e) => onBookChange(e)} styles={colourStyles}/>
+                        <Select value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={colourStyles}/>
                     </div>
                     <div className='col-4'>
-                        <Select value={currentChapter} options={chapters} onChange={(e) => onChapterChange(e)} styles={colourStyles}/>
+                        <Select value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={colourStyles}/>
                     </div>
                 </div>
                 <div className='transparent-transition'/>

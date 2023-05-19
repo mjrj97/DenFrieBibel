@@ -15,11 +15,17 @@ const handler = async (req, res) => {
         let chapter = req.query.chapter;
     
         let text = { errors: [] };
-        let books = JSON.parse(readFileSync('./texts/new-format/books.json')).books;
 
-        //const test = arrayResult(await connection.query('SELECT * FROM Book'));
-        //console.log(test);
-    
+        const books = arrayResult(await connection.query('SELECT Name as name, Abbreviation as abbreviation FROM Book'));
+        for (let i = 0; i < books.length; i++) {
+            books[i].chapters = [];
+        }
+        const chapters = arrayResult(await connection.query('SELECT BookID, Translation FROM Chapter'));
+        for (let i = 0; i < chapters.length; i++) {
+            let bookID = chapters[i].BookID;
+            books[bookID-1].chapters.push(chapters[i].Translation);
+        }
+
         if (book) {
             if (book.toLowerCase() === "all") {
                 result.content = books;

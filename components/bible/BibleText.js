@@ -114,8 +114,6 @@ function BibleText ({ text, onSelectionChange }) {
         }
     }
 
-    console.log(text);
-
     return (
         <div className='py-0'>
             {bibleText.length == 0 ? (

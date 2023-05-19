@@ -8,8 +8,14 @@ import BookDropdown from '@/components/bible/BookDropdown'
 import CommentContainer from '@/components/bible/CommentContainer'
 
 const Index = () => {
-  const [currentBook, setCurrentBook] = useState("1Mos");
-  const [currentChapter, setCurrentChapter] = useState(3);
+  const [currentBook, setCurrentBook] = useState({ 
+    value: "1Mos", 
+    label: "Første Mosebog" 
+  });
+  const [currentChapter, setCurrentChapter] = useState({ 
+    value: 3, 
+    label: "Kapitel 3" 
+  });
   const [books, setBooks] = useState([]);
   const [text, setText] = useState("");
   
@@ -17,12 +23,12 @@ const Index = () => {
 
   useEffect(() => {
     setSelected([]);
-    fetch("/api/bible?book=" + currentBook + "&chapter=" + currentChapter).then(
+    fetch("/api/bible?book=" + currentBook.value + "&chapter=" + currentChapter.value).then(
       response => response.json()
     ).then(
       data => {setText(data);}
     );
-  }, [currentBook, currentChapter]);
+  }, [currentChapter]);
   
   useEffect(() => {
     fetch("/api/bible?book=all").then(
@@ -34,6 +40,12 @@ const Index = () => {
     );
   }, []);
   
+  // CHAPTER DOESN'T CHANGE WHEN CHANGING BOOKS WITH CHAPTER 1's
+  const setBookAndChapter = (book, chapter) => {
+    setCurrentBook(book);
+    setCurrentChapter(chapter);
+  }
+
   const onSelectedVerse = (number, state) => {
     if (state == true) {
         let array = [...selected];
@@ -53,8 +65,8 @@ const Index = () => {
       <Head>
         <title>Den Frie Bibel</title>
       </Head>
-      <CommentContainer selected={selected} chapter={currentChapter}/>
-      <BookDropdown bookChanged={setCurrentBook} chapterChanged={setCurrentChapter} books={books}/>
+      <CommentContainer selected={selected} chapter={currentChapter.value}/>
+      <BookDropdown changed={setBookAndChapter} books={books}/>
       <div className='my-4'/>
       <BibleText text={text} onSelectionChange={onSelectedVerse}/>
     </>

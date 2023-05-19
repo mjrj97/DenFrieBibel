@@ -521,6 +521,8 @@ function convertFile(file) {
 
 // DOESN'T HADNLE CURSIVE/ITALIC (*this is in italics*)
 // ERROR IN JOB 42, 1 with "//2:"
+// FOOTNOTES IN HEADLINES AREN'T ALLOWED... (Dom. 1)
+// "BREVET TIL HEBRÆERNE" burde være Hebræerbrevet
 function retrieveVerses(data) {
   let text = data.trim();
   let raw = text.split(/(?=v[0-9]|V[0-9])/g);
