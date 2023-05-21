@@ -17,10 +17,10 @@
     {
       "number": 1,
       "text": "Halleluja!\fJa, det er godt at synge vor Guds pris,\fja, det er lifligt, lovsang sømmer sig.",
-      "title": "Lovsyng JHVH som tager sig af sit folk",
+      "title": "Lovsyng HERREN som tager sig af sit folk",
       "footnotes": [
         {
-          "text": "Indledningen til salmen kan også oversættes: »Pris JHVH for det er godt ...«.",
+          "text": "Indledningen til salmen kan også oversættes: »Pris HERREN for det er godt ...«.",
           "type": "E",
           "position": 14
         }
@@ -29,12 +29,12 @@
     },
     {
       "number": 2,
-      "text": "\fJHVH bygger Jerusalem op,\fhan samler Israels fordrevne.",
+      "text": "\fHERREN bygger Jerusalem op,\fhan samler Israels fordrevne.",
       "footnotes": [
         {
           "text": "Ordet: *nidḥê* (»fordrevne«) kan også oversættes: »dem der er skubbet til side« og derved være henvisning til landets svage og værdiløse.",
           "type": "E",
-          "position": 56
+          "position": 58
         }
       ],
       "version": 1493330400000
@@ -56,19 +56,19 @@
     },
     {
       "number": 6,
-      "text": "\fJHVH tager sig af de ydmyge,\fde ugudelige fornedrer han til jorden.",
+      "text": "\fHERREN tager sig af de ydmyge,\fde ugudelige fornedrer han til jorden.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »elendige«.",
           "type": "T",
-          "position": 29
+          "position": 31
         }
       ],
       "version": 1493330400000
     },
     {
       "number": 7,
-      "text": "\fStem i med takkesang til JHVH,\fspil på citer for vor Gud,",
+      "text": "\fStem i med takkesang til HERREN,\fspil på citer for vor Gud,",
       "footnotes": [
         {
           "text": "Kan også oversættes: »svar med«. Der er tale om to forskellige hebraiske ord med samme stavemåde.",
@@ -102,20 +102,20 @@
     },
     {
       "number": 11,
-      "text": "\fJHVH har velbehag i dem som frygter ham,\fdem som håber på hans nåde.",
+      "text": "\fHERREN har velbehag i dem som frygter ham,\fdem som håber på hans nåde.",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 68
+          "position": 70
         }
       ],
       "version": 1493330400000
     },
     {
       "number": 12,
-      "text": "\fJerusalem, pris JHVH,\flovpris din Gud, Zion!",
-      "title": "Pris JHVH, hvis ord er levende og virksomt",
+      "text": "\fJerusalem, pris HERREN,\flovpris din Gud, Zion!",
+      "title": "Pris HERREN, hvis ord er levende og virksomt",
       "version": 1493330400000
     },
     {

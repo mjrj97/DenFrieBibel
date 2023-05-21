@@ -38,7 +38,7 @@
     },
     {
       "number": 2,
-      "text": "\fHvor elskelige er dine boliger,\fHærskarers JHVHv!",
+      "text": "\fHvor elskelige er dine boliger,\fHærskarers HERRE!",
       "title": "Længsel efter templet",
       "footnotes": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "number": 3,
-      "text": "\fMin sjæl længtes, ja, var ved at gå til af længsel\fefter JHVHs forgårde,\fmit hjerte og mit kød skal jublende prise\fden levende Gud.",
+      "text": "\fMin sjæl længtes, ja, var ved at gå til af længsel\fefter HERRENS forgårde,\fmit hjerte og mit kød skal jublende prise\fden levende Gud.",
       "footnotes": [
         {
           "text": "Ordret: »hentæredes«.",
@@ -61,14 +61,14 @@
         {
           "text": "Oversættes ofte: »råber efter«. Det vil dog være eneste gang at dette adskillige gange forekommende verbum optræder i pi’el i den betydning i GT.",
           "type": "T",
-          "position": 115
+          "position": 117
         }
       ],
       "version": 1500242400000
     },
     {
       "number": 4,
-      "text": "\fSelv fuglen har fundet et bo\fog svalen en rede til sig,\fhvor den har lagt sine unger:\fDine altre, Hærskarers JHVHv,\fmin konge og min Gud!",
+      "text": "\fSelv fuglen har fundet et bo\fog svalen en rede til sig,\fhvor den har lagt sine unger:\fDine altre, Hærskarers HERRE,\fmin konge og min Gud!",
       "footnotes": [
         {
           "text": "Undertiden oversat: »spurven«",
@@ -134,11 +134,11 @@
     },
     {
       "number": 9,
-      "text": "\fJHVHv, Gud Sebaot, hør min bøn,\flyt, Jakobs Gud. Sela",
+      "text": "\fHERRE, Gud Sebaot, hør min bøn,\flyt, Jakobs Gud. Sela",
       "title": "Bøn for kongen",
       "footnotes": [
         {
-          "text": "Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
+          "text": "Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til HERREN (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
           "type": "E",
           "position": 19
         }
@@ -165,12 +165,12 @@
     },
     {
       "number": 12,
-      "text": "\fFor JHVH Gud er sol og skjold,\fJHVH giver nåde og ære,\fintet godt nægter han dem\fsom vandrer i oprigtighed.",
+      "text": "\fFor HERREN Gud er sol og skjold,\fHERREN giver nåde og ære,\fintet godt nægter han dem\fsom vandrer i oprigtighed.",
       "version": 1500242400000
     },
     {
       "number": 13,
-      "text": "\fHærskarers JHVHv,\fsaligt er det menneske som stoler på dig!",
+      "text": "\fHærskarers HERRE,\fsaligt er det menneske som stoler på dig!",
       "footnotes": [
         {
           "text": "I ældre tid uoversat: »Zebaoth«",

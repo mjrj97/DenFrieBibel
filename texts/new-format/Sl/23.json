@@ -16,38 +16,38 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fEn salme af David.\f\fJHVH er min hyrde,\t\t\tjeg skal intet mangle.",
+      "text": "\fEn salme af David.\f\fHERREN er min hyrde,\n\t\t\tjeg skal intet mangle.",
       "title": "Overskrift",
       "version": 1466114400000
     },
     {
       "number": 2,
-      "text": "\f\t\tHan lader mig ligge i grønne græsgange;\f\t\t\than leder mig til hvilens vande.",
+      "text": "\f\n\t\tHan lader mig ligge i grønne græsgange;\f\n\t\t\than leder mig til hvilens vande.",
       "title": "David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt",
       "footnotes": [
         {
           "text": "Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.",
           "type": "E",
-          "position": 77
+          "position": 79
         }
       ],
       "version": 1466114400000
     },
     {
       "number": 3,
-      "text": "\f\t\t\t\t\tHan giver min sjæl nye kræfter;\f\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
+      "text": "\f\n\t\t\t\t\tHan giver min sjæl nye kræfter;\f\n\t\t\t\than fører mig på retfærdigheds stier for sit navns skyld.",
       "footnotes": [
         {
           "text": "Stier der fører til målet for Guds trofaste retfærdigheds skyld.",
           "type": "E",
-          "position": 78
+          "position": 80
         }
       ],
       "version": 1466114400000
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens  dal,\f\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\f\t\t\t\t\t\t\tfor du er med mig;\f\t\t\t\t\t\t\t\t\tdin kæp og din stav,\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
+      "text": "\f\n\t\t\t\t\tSelv når jeg skal vandre i dødsskyggens dal,\f\n\t\t\t\t\t\tskal jeg ikke frygte for noget ondt,\f\n\t\t\t\t\t\t\tfor du er med mig;\f\n\t\t\t\t\t\t\t\t\tdin kæp og din stav,\n\t\t\t\t\t\t\t\t\t\tde skal trøste mig.",
       "footnotes": [
         {
           "text": "*ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwet* (»død«). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
@@ -59,35 +59,35 @@
     },
     {
       "number": 5,
-      "text": "\f\t\t\t\t\t\t\t\tDu dækker bord for mig\ffor øjnene af mine fjender;\f\t\t\t\t\t\t\t\t\t\tdu har salvet mit hoved med olie,\f\t\t\t\t\t\t\t\t\tmit bæger flyder over.",
-      "title": "Trøst og glæde i JHVH, som er den gæstfrie vært",
+      "text": "\f\n\t\t\t\t\t\t\t\tDu dækker bord for mig\ffor øjnene af mine fjender;\f\n\t\t\t\t\t\t\t\t\t\tdu har salvet mit hoved med olie,\f\n\t\t\t\t\t\t\t\t\tmit bæger flyder over.",
+      "title": "Trøst og glæde i HERREN, som er den gæstfrie vært",
       "footnotes": [
         {
           "text": "Ordret: »over for«",
           "type": "T",
-          "position": 45
+          "position": 46
         }
       ],
       "version": 1466114400000
     },
     {
       "number": 6,
-      "text": "\f\tKun godhed og nåde skal følge mig\falle mine livsdage,\f\t\tog jeg skal blive i JHVHs hus\fhele livet.",
+      "text": "\f\n\tKun godhed og nåde skal følge mig\falle mine livsdage,\f\n\t\tog jeg skal blive i HERRENS hus\fhele livet.",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 20
+          "position": 21
         },
         {
           "text": "*wᵊšavtî* betyder: »og jeg skal vende tilbage«. Det passer dårligt til den følgende præposition *bᵊ* (»i«). Man vokaliserer ofte * wᵊšivtî*: »og min boen« eller *wᵊyāšavtî*: »og jeg skal bo«.",
           "type": "E",
-          "position": 75
+          "position": 77
         },
         {
           "text": "Egentlig: »i dages udstrækning«, dvs. »alle dage, hele livet«.",
           "type": "T",
-          "position": 98
+          "position": 102
         }
       ],
       "version": 1466114400000

@@ -20,25 +20,25 @@
   "verses": [
     {
       "number": 1,
-      "text": "Halleluja!\fLovpris, I JHVHs tjenere,\flovpris JHVHs navn!",
-      "title": "Lovpris JHVHs navn!",
+      "text": "Halleluja!\fLovpris, I HERRENS tjenere,\flovpris HERRENS navn!",
+      "title": "Lovpris HERRENS navn!",
       "version": 1499983200000
     },
     {
       "number": 2,
-      "text": "\fJHVHs navn være priset\ffra nu og til evig tid!",
+      "text": "\fHERRENS navn være priset\ffra nu og til evig tid!",
       "footnotes": [
         {
           "text": "Kan også oversættes: »velsignet«.",
           "type": "T",
-          "position": 23
+          "position": 25
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 3,
-      "text": "\fFra solens opgang til dens nedgang\fer JHVHs navn højlovet.",
+      "text": "\fFra solens opgang til dens nedgang\fer HERRENS navn højlovet.",
       "footnotes": [
         {
           "text": "Dvs.: Øst.",
@@ -55,13 +55,13 @@
     },
     {
       "number": 4,
-      "text": "\fJHVH er ophøjet over alle folk,\fhans herlighed over himlen.",
-      "title": "JHVH er ophøjet",
+      "text": "\fHERREN er ophøjet over alle folk,\fhans herlighed over himlen.",
+      "title": "HERREN er ophøjet",
       "version": 1499983200000
     },
     {
       "number": 5,
-      "text": "\fHvem er som JHVH, vor Gud –\fhan som troner højt oppe,",
+      "text": "\fHvem er som HERREN, vor Gud –\fhan som troner højt oppe,",
       "version": 1499983200000
     },
     {

@@ -20,13 +20,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "JHVH er konge!\fHan har klædt sig i højhed,\fJHVH har klædt sig, har rustet sig med styrke.\fJa, jorden er grundfæstet, den skal ikke rokkes.",
+      "text": "HERREN er konge!\fHan har klædt sig i højhed,\fHERREN har klædt sig, har rustet sig med styrke.\fJa, jorden er grundfæstet, den skal ikke rokkes.",
       "title": "Guds kongedømme er evigt",
       "footnotes": [
         {
           "text": "Ordret: »omgjordet sig«.",
           "type": "T",
-          "position": 77
+          "position": 81
         }
       ],
       "version": 1500242400000
@@ -38,8 +38,8 @@
     },
     {
       "number": 3,
-      "text": "\fStrømme løftede, JHVHv,\fstrømme løftede deres røst,\fstrømme løfter deres drøn.",
-      "title": "JHVH er kosmisk konge",
+      "text": "\fStrømme løftede, HERRE,\fstrømme løftede deres røst,\fstrømme løfter deres drøn.",
+      "title": "HERREN er kosmisk konge",
       "footnotes": [
         {
           "text": "Egentlig om bølgers (voldsomme) brusen.",
@@ -51,7 +51,7 @@
     },
     {
       "number": 4,
-      "text": "\fFremfor vældige vandes buldren, \fmajestætiske havets brændinger,\fer JHVH majestætisk i det Høje.",
+      "text": "\fFremfor vældige vandes buldren,\fmajestætiske havets brændinger,\fer HERREN majestætisk i det Høje.",
       "footnotes": [
         {
           "text": "Ordret: »røst«.",
@@ -61,19 +61,19 @@
         {
           "text": "Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (»majestætiske/mægtige/herlige«) skal lægges til, om det er foregående linjes »vande« eller denne linjes »brændinger«.",
           "type": "E",
-          "position": 46
+          "position": 45
         }
       ],
       "version": 1500242400000
     },
     {
       "number": 5,
-      "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fJHVHv, i evighed. ",
+      "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fHERRE, i evighed.",
       "footnotes": [
         {
           "text": "Ordret: »i dages udstrækning«.",
           "type": "T",
-          "position": 90
+          "position": 89
         }
       ],
       "version": 1500242400000

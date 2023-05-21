@@ -33,8 +33,8 @@
     },
     {
       "number": 2,
-      "text": "\fJHVHv! Over din styrke glæder kongen sig,\fog over din frelse - hvor jubler han højt!",
-      "title": "Tak for JHVHs godhed mod kongen",
+      "text": "\fHERRE! Over din styrke glæder kongen sig,\fog over din frelse - hvor jubler han højt!",
+      "title": "Tak for HERRENS godhed mod kongen",
       "version": 1457218800000
     },
     {
@@ -85,12 +85,12 @@
     },
     {
       "number": 8,
-      "text": "\fFor kongen stoler på JHVH,\fog ved den Højestes nåde skal han ikke rokkes.",
+      "text": "\fFor kongen stoler på HERREN,\fog ved den Højestes nåde skal han ikke rokkes.",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 52
+          "position": 54
         }
       ],
       "version": 1457218800000
@@ -103,29 +103,29 @@
     },
     {
       "number": 10,
-      "text": "\fDu skal gøre dem som en brændende ovn når du viser dit ansigt,\fJHVH skal opsluge dem i sin vrede,\fog ild skal fortære dem.",
+      "text": "\fDu skal gøre dem som en brændende ovn når du viser dit ansigt,\fHERREN skal opsluge dem i sin vrede,\fog ild skal fortære dem.",
       "footnotes": [
         {
-          "text": "Der er flere tekstmæssige vanskeligheder i verset. Ifølge den adskillende accent går første halvvers hertil. Det er usædvanlig langt. Og derved er det et problem at afgøre hvor »JHVH« hører til. Hvis det hører til »viser dit ansigt«, er verset dog talt til JHVH i modsætning til de omkringstående vers. Derfor den valgte oversættelse.",
+          "text": "Der er flere tekstmæssige vanskeligheder i verset. Ifølge den adskillende accent går første halvvers hertil. Det er usædvanlig langt. Og derved er det et problem at afgøre hvor »HERREN« hører til. Hvis det hører til »viser dit ansigt«, er verset dog talt til HERREN i modsætning til de omkringstående vers. Derfor den valgte oversættelse.",
           "type": "E",
-          "position": 98
+          "position": 100
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 11,
-      "text": "\fDu skal udslette deres afkom  af jorden\fog deres sæd blandt menneskers børn.",
+      "text": "\fDu skal udslette deres afkom af jorden\fog deres sæd blandt menneskers børn.",
       "footnotes": [
         {
           "text": "Ordret: »frugt«",
           "type": "T",
-          "position": 30
+          "position": 29
         },
         {
           "text": "Ordret: »Adams børn«.",
           "type": "T",
-          "position": 77
+          "position": 76
         }
       ],
       "version": 1457218800000
@@ -149,7 +149,7 @@
     },
     {
       "number": 14,
-      "text": "\fRejs dig, JHVHv, i din styrke!\fVi vil prise din vælde med sang og spil.",
+      "text": "\fRejs dig, HERRE, i din styrke!\fVi vil prise din vælde med sang og spil.",
       "title": "Afsluttende bøn og lovprisning",
       "version": 1457218800000
     }

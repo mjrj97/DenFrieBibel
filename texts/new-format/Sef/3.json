@@ -22,7 +22,7 @@
     },
     {
       "number": 2,
-      "text": "\fDen hører ikke på nogen røst, den tager ikke imod tugt,\fden stoler ikke på JHVH, den holder sig ikke nær til sin Gud.",
+      "text": "\fDen hører ikke på nogen røst, den tager ikke imod tugt,\fden stoler ikke på HERREN, den holder sig ikke nær til sin Gud.",
       "footnotes": [
         {
           "text": "Kan også oversættes med »opdragelse« eller »formaning«.",
@@ -51,23 +51,23 @@
     },
     {
       "number": 5,
-      "text": "\fJHVH er retfærdig i dens midte, han gør ikke uret.\fMorgen efter morgen lader han sin beslutning komme for lyset.\f- Det slår ikke fejl. –\fMen den uretfærdige kender ikke til skam.",
-      "title": "JHVHs retfærdighed og Jerusalems genoprettelse",
+      "text": "\fHERREN er retfærdig i dens midte, han gør ikke uret.\fMorgen efter morgen lader han sin beslutning komme for lyset.\f- Det slår ikke fejl. –\fMen den uretfærdige kender ikke til skam.",
+      "title": "HERRENS retfærdighed og Jerusalems genoprettelse",
       "footnotes": [
         {
           "text": "Ordret »hendes«, sandsynligvis refererende til Jerusalem.",
           "type": "E",
-          "position": 25
+          "position": 27
         },
         {
           "text": "Det hebraiske *mišpāṭ* kan også oversættes med »ret« eller »bud«. »Beslutning« er dog det mest oplagte i konteksten, jf. v. 8.",
           "type": "E",
-          "position": 96
+          "position": 98
         },
         {
-          "text": "Sidste del af verset kan også oversættes »han [= JHVH] kender ikke til uretfærdighed, skam«, jf. LXX og Vulgata.",
+          "text": "Sidste del af verset kan også oversættes »han [= HERREN] kender ikke til uretfærdighed, skam«, jf. LXX og Vulgata.",
           "type": "E",
-          "position": 179
+          "position": 181
         }
       ],
       "version": 1518476400000
@@ -91,17 +91,17 @@
     },
     {
       "number": 8,
-      "text": "\fDerfor, vent på mig, siger JHVH,\fpå den dag hvor jeg rejser mig efter bytte!\fFor min beslutning er at jeg vil indsamle folkeslagene,\fat jeg vil samle kongerigerne\ffor at udøse min fortørnelse over dem, al min brændende vrede.\fFor ved min lidenskabelige ild skal hele jorden fortæres.",
+      "text": "\fDerfor, vent på mig, siger HERREN,\fpå den dag hvor jeg rejser mig efter bytte!\fFor min beslutning er at jeg vil indsamle folkeslagene,\fat jeg vil samle kongerigerne\ffor at udøse min fortørnelse over dem, al min brændende vrede.\fFor ved min lidenskabelige ild skal hele jorden fortæres.",
       "version": 1518476400000
     },
     {
       "number": 9,
-      "text": "\fFor da vil jeg forvandle folkenes læber til rene læber for at de alle kan påkalde JHVHs navn og tjene ham i enhed.",
+      "text": "\fFor da vil jeg forvandle folkenes læber til rene læber for at de alle kan påkalde HERRENS navn og tjene ham i enhed.",
       "footnotes": [
         {
           "text": "Ordret »med én skulder«, der på dansk kan gengives med »skulder ved skulder«.",
           "type": "E",
-          "position": 115
+          "position": 117
         }
       ],
       "version": 1518476400000
@@ -118,12 +118,12 @@
     },
     {
       "number": 12,
-      "text": "\fMen jeg vil lade et ydmygt og svagt folk blive tilbage i din midte,\fog de skal søge tilflugt i JHVHs navn.",
+      "text": "\fMen jeg vil lade et ydmygt og svagt folk blive tilbage i din midte,\fog de skal søge tilflugt i HERRENS navn.",
       "version": 1518476400000
     },
     {
       "number": 13,
-      "text": "\fIsraels rest skal ikke gøre uret og ikke lyve,\fog der skal ikke findes en bedragerisk tunge i deres mund,\ffor de skal finde føde og hvile,\fog ingen skal skræmme dem.\f\n",
+      "text": "\fIsraels rest skal ikke gøre uret og ikke lyve,\fog der skal ikke findes en bedragerisk tunge i deres mund,\ffor de skal finde føde og hvile,\fog ingen skal skræmme dem.\f\u000b",
       "footnotes": [
         {
           "text": "Ordret »græsse«, der er taget fra en hyrde-metaforik.",
@@ -140,12 +140,12 @@
     },
     {
       "number": 15,
-      "text": "\fJHVH har fjernet dommene over dig;\fhan har udryddet din fjende.\fJHVH, Israels konge, er i din midte,\fdu skal ikke længere frygte noget ondt.",
+      "text": "\fHERREN har fjernet dommene over dig;\fhan har udryddet din fjende.\fHERREN, Israels konge, er i din midte,\fdu skal ikke længere frygte noget ondt.",
       "footnotes": [
         {
           "text": "Eller »beslutningerne«, jf. v. 5 og 8.",
           "type": "E",
-          "position": 25
+          "position": 27
         }
       ],
       "version": 1518476400000
@@ -157,12 +157,12 @@
     },
     {
       "number": 17,
-      "text": "\fJHVH din Gud i din midte;\fen kriger som frelser.\fHan skal glæde sig over dig med fryd,\fhan skal tie i sin kærlighed,\fhan skal juble over dig med lovsang.",
+      "text": "\fHERREN din Gud i din midte;\fen kriger som frelser.\fHan skal glæde sig over dig med fryd,\fhan skal tie i sin kærlighed,\fhan skal juble over dig med lovsang.",
       "footnotes": [
         {
           "text": "»som« er underforstået i »en kriger som frelser«.",
           "type": "E",
-          "position": 49
+          "position": 51
         }
       ],
       "version": 1518476400000
@@ -198,7 +198,7 @@
     },
     {
       "number": 20,
-      "text": "\fTil den tid vil jeg bringe jer;\ftil den tid vil jeg samle.\fFor jeg vil gøre jer til ære og pris blandt alle jordens folk\fnår jeg omvender jeres fangenskab for øjnene af jer,\fsiger JHVH.",
+      "text": "\fTil den tid vil jeg bringe jer;\ftil den tid vil jeg samle.\fFor jeg vil gøre jer til ære og pris blandt alle jordens folk\fnår jeg omvender jeres fangenskab for øjnene af jer,\fsiger HERREN.",
       "footnotes": [
         {
           "text": "Ordret »navn«.",

@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "En salme til taksigelse.\fBryd ud i fryderåb for JHVH, hele landet!",
+      "text": "En salme til taksigelse.\fBryd ud i fryderåb for HERREN, hele landet!",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -31,30 +31,30 @@
         {
           "text": "Langt de fleste oversættere oversætter: *kol-hāʔāreṣ* ved: »hele jorden«, som det oftest betyder i salmerne. Men »hele jordens« folkeslag synes slet ikke inde i synsfeltet i denne salme. *hāʔāreṣ* kan både betyde: »landet« og »jorden«. Da vi ikke kan gengive denne dobbelthed på dansk, må oversætteren vælge. Ud fra sammenhængen vælger jeg »landet«.",
           "type": "E",
-          "position": 66
+          "position": 68
         }
       ],
       "version": 1500242400000
     },
     {
       "number": 2,
-      "text": "\fTjen JHVH med glæde,\fkom for hans ansigt med jubel!",
-      "title": "Lovsyng JHVH, Israels skaber og vogter",
+      "text": "\fTjen HERREN med glæde,\fkom for hans ansigt med jubel!",
+      "title": "Lovsyng HERREN, Israels skaber og vogter",
       "version": 1500242400000
     },
     {
       "number": 3,
-      "text": "\fErkend at JHVH er Gud,\fhan har skabt os, og ikke vi selv,\fvi er hans folk og de får han vogter.",
+      "text": "\fErkend at HERREN er Gud,\fhan har skabt os, og ikke vi selv,\fvi er hans folk og de får han vogter.",
       "footnotes": [
         {
           "text": "Således konsonantteksten. Vokaliseringen forudsætter at *lōʔ* (»ikke«) skulle have været: *lô*: »for ham«, så sidste halvlinje skal oversættes: »og ham hører vi til«.",
           "type": "E",
-          "position": 58
+          "position": 60
         },
         {
           "text": "Ordret: »lader gå på græs«.",
           "type": "T",
-          "position": 96
+          "position": 98
         }
       ],
       "version": 1500242400000
@@ -62,7 +62,7 @@
     {
       "number": 4,
       "text": "\fGå ind ad hans porte med takkesang,\fi hans forgårde med lovsang;\ftak ham, pris hans navn!",
-      "title": "Lovsyng JHVH, for han er god!",
+      "title": "Lovsyng HERREN, for han er god!",
       "footnotes": [
         {
           "text": "Kan også oversættes: »velsign«.",
@@ -74,17 +74,17 @@
     },
     {
       "number": 5,
-      "text": "\fFor JHVH er god,\fhans nåde varer til evig tid,\fog hans troskab fra slægt til slægt.",
+      "text": "\fFor HERREN er god,\fhans nåde varer til evig tid,\fog hans troskab fra slægt til slægt.",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 27
+          "position": 29
         },
         {
           "text": "Kan også oversættes: »sandhed«.",
           "type": "T",
-          "position": 63
+          "position": 65
         }
       ],
       "version": 1500242400000

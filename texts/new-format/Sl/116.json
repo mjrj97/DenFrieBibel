@@ -20,23 +20,23 @@
   "verses": [
     {
       "number": 1,
-      "text": "Jeg elsker at JHVH har hørt\fmin tryglende røst.",
+      "text": "Jeg elsker at HERREN har hørt\fmin tryglende røst.",
       "title": "Du har reddet mit liv",
       "footnotes": [
         {
-          "text": "Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: »Jeg elsker, for JHVH har hørt«, men verbet »elske« kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller »JHVH« må flyttes frem, så oversættelsen bliver: »Jeg elsker JHVH, for han har hørt min tryglende røst«.",
+          "text": "Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: »Jeg elsker, for HERREN har hørt«, men verbet »elske« kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller »HERREN« må flyttes frem, så oversættelsen bliver: »Jeg elsker HERREN, for han har hørt min tryglende røst«.",
           "type": "E",
           "position": 10
         },
         {
-          "text": "Den masoretiske tekst har yiqtol: *yišmaʕ*: »(JHVH) vil høre«. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (»for«) (*y* og *î* dækker begge over bogstavet »jod«), så der skal læses qatal: *šāmaʕ*: »har hørt«.",
+          "text": "Den masoretiske tekst har yiqtol: *yišmaʕ*: »(HERREN) vil høre«. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (»for«) (*y* og *î* dækker begge over bogstavet »jod«), så der skal læses qatal: *šāmaʕ*: »har hørt«.",
           "type": "E",
-          "position": 27
+          "position": 29
         },
         {
           "text": "Ordret: »min tryglens røst«.",
           "type": "T",
-          "position": 47
+          "position": 49
         }
       ],
       "version": 1499983200000
@@ -46,7 +46,7 @@
       "text": "\fFor han har bøjet sit øre til mig,\fog i mine dage vil jeg udråbe:",
       "footnotes": [
         {
-          "text": "Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil »råbe« i betydningen påkalde JHVH. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (»og i mine dage«) til: *bᵊyôm*: »den dag da« = »da«; man oversætter også yiqtol: *ʔeqrāˀ* (»jeg vil råbe/udråbe«) ved fortid: »(da) jeg råbte«.",
+          "text": "Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil »råbe« i betydningen påkalde HERREN. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (»og i mine dage«) til: *bᵊyôm*: »den dag da« = »da«; man oversætter også yiqtol: *ʔeqrāˀ* (»jeg vil råbe/udråbe«) ved fortid: »(da) jeg råbte«.",
           "type": "E",
           "position": 66
         }
@@ -67,29 +67,29 @@
     },
     {
       "number": 4,
-      "text": "\fDa påkaldte jeg JHVHs navn:\f»Ak, JHVHv, red mit liv!«",
+      "text": "\fDa påkaldte jeg HERRENS navn:\f»Ak, HERRE, red mit liv!«",
       "footnotes": [
         {
           "text": "Ordret: »min sjæl«.",
           "type": "T",
-          "position": 54
+          "position": 56
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 5,
-      "text": "\fJHVH er nådig og retfærdig,\fog vor Gud forbarmer sig.",
+      "text": "\fHERREN er nådig og retfærdig,\fog vor Gud forbarmer sig.",
       "version": 1499983200000
     },
     {
       "number": 6,
-      "text": "\fJHVH beskytter enfoldige,\fjeg var ringe, men han hjalp mig.«",
+      "text": "\fHERREN beskytter enfoldige,\fjeg var ringe, men han hjalp mig.«",
       "version": 1499983200000
     },
     {
       "number": 7,
-      "text": "\fMin sjæl, kom tilbage til din ro,\ffor JHVH har handlet vel imod dig.",
+      "text": "\fMin sjæl, kom tilbage til din ro,\ffor HERREN har handlet vel imod dig.",
       "version": 1499983200000
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "number": 9,
-      "text": "\fJeg kan vandre for JHVHs ansigt\fi de levendes lande.",
+      "text": "\fJeg kan vandre for HERRENS ansigt\fi de levendes lande.",
       "version": 1499983200000
     },
     {
@@ -121,55 +121,55 @@
     },
     {
       "number": 12,
-      "text": "\fHvordan skal jeg gengælde JHVH\falle hans velgerninger mod mig?",
+      "text": "\fHvordan skal jeg gengælde HERREN\falle hans velgerninger mod mig?",
       "title": "Jeg vil løfte frelsens bæger",
       "version": 1499983200000
     },
     {
       "number": 13,
-      "text": "\fFrelsens bæger vil jeg løfte\fog påkalde JHVHs navn.",
+      "text": "\fFrelsens bæger vil jeg løfte\fog påkalde HERRENS navn.",
       "version": 1499983200000
     },
     {
       "number": 14,
-      "text": "\fJeg vil indfri mine løfter til JHVH,\fog det foran hele hans folk.",
+      "text": "\fJeg vil indfri mine løfter til HERREN,\fog det foran hele hans folk.",
       "version": 1499983200000
     },
     {
       "number": 15,
-      "text": "\fKostbar i JHVHs øjne\fer hans frommes død.",
+      "text": "\fKostbar i HERRENS øjne\fer hans frommes død.",
       "footnotes": [
         {
           "text": "Oversættes nu ofte: »liv«, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes »liv« (jf. v. 8). Men grundteksten har: *māwet*: »død«.",
           "type": "T",
-          "position": 42
+          "position": 44
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 16,
-      "text": "\fAk, JHVHv, jeg er jo din træl,\fjeg er din træl, din trælkvindes søn,\fdu har løst mine lænker.",
+      "text": "\fAk, HERRE, jeg er jo din træl,\fjeg er din træl, din trælkvindes søn,\fdu har løst mine lænker.",
       "version": 1499983200000
     },
     {
       "number": 17,
-      "text": "\fTil dig vil jeg ofre slagtoffer som takoffer\fog påkalde JHVHs navn.",
+      "text": "\fTil dig vil jeg ofre slagtoffer som takoffer\fog påkalde HERRENS navn.",
       "version": 1499983200000
     },
     {
       "number": 18,
-      "text": "\fJeg vil indfri mine løfter til JHVH,\fog det foran hele hans folk,",
+      "text": "\fJeg vil indfri mine løfter til HERREN,\fog det foran hele hans folk,",
       "version": 1499983200000
     },
     {
       "number": 19,
-      "text": "\fi forgårdene til JHVHs hus,\fi din midte, Jerusalem!\fHalleluja!",
+      "text": "\fi forgårdene til HERRENS hus,\fi din midte, Jerusalem!\fHalleluja!",
       "footnotes": [
         {
           "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 117.",
           "type": "T",
-          "position": 63
+          "position": 65
         }
       ],
       "version": 1499983200000

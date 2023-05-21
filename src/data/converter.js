@@ -1,5 +1,4 @@
 // This script is used to convert the bible text from the old format into a more universal .json format
-
 const path = require('path');
 const fs = require('fs');
 
@@ -38,6 +37,7 @@ fs.readdir(projectPath + "/texts/old-format", function (err, files)
         for (let i = 0; i < books.length; i++) {
           if (books[i].abbreviation == result.abbreviation) {
             books[i].chapters[result.chapter - 1] = result.translation;
+            result.book = books[i].name;
           }
         }
 
@@ -519,10 +519,7 @@ function convertFile(file) {
   }
 }
 
-// DOESN'T HADNLE CURSIVE/ITALIC (*this is in italics*)
-// ERROR IN JOB 42, 1 with "//2:"
-// FOOTNOTES IN HEADLINES AREN'T ALLOWED... (Dom. 1)
-// "BREVET TIL HEBRÆERNE" burde være Hebræerbrevet
+// I Job bliver "HERREN" fremfor "JHVH" brugt...
 function retrieveVerses(data) {
   let text = data.trim();
   let raw = text.split(/(?=v[0-9]|V[0-9])/g);
@@ -568,7 +565,7 @@ function retrieveVerses(data) {
 
       titles.push({
         verse: verseNumber + 1,
-        text: title
+        text: fixGodsName(title.replace(/ *\{[^)]*\} */g, "")) // REMOVE FOOTNOTES FROM HEADLINES
       });
 
       line = line.replace(/ *\@[^)]*\@ */g, "");
@@ -595,11 +592,13 @@ function retrieveVerses(data) {
 
           found = -1;
           for (let k = 0; k < slices[j].length && found == -1; k++) {
-            if (slices[j][k] === ' ')
+            if (!/^\d$/.test(slices[j][k]))
               found = k;
           }
           
           let exegeticalIndentation = parseInt(slices[j].substring(0, found));
+          if (exegeticalIndentation > 0)
+            line += "$"
           for (let k = 0; k < exegeticalIndentation; k++) {
             line += "£"
           }
@@ -610,11 +609,14 @@ function retrieveVerses(data) {
           line += slices[j].trim();
         }
       }
+      
+      line = line.replace(/ %/g, "%");
+      line = line.replace(/  /g, " ");
 
       // PUSH VERSE TO ARRAY
       verses.push({
         number: verseNumber,
-        text: line.replace(/£/g, "\t").replace(/%/g, "\f").replace(/\*\*\*/g, "\n")
+        text: fixGodsName(line.replace(/£/g, "\t").replace(/\$/g, "\n").replace(/%/g, "\f").replace(/\*\*\*/g, "\v"))
       });
     }
     else {
@@ -636,6 +638,11 @@ function retrieveVerses(data) {
     if (verses[i].text.includes("{")) {
       verses[i].footnotes = [];
       let slices = verses[i].text.split("{");
+
+      for (let j = 0; j < slices.length -1; j++) {
+        slices[j] = fixGodsName(slices[j].trimEnd());
+      }
+
       let index = slices[0].length;
 
       verses[i].text = slices[0];
@@ -712,4 +719,15 @@ function retrieveMetaData(data) {
   }
 
   return meta;
+}
+
+function fixGodsName(text) {
+  let result = text;
+
+  result = result.replace(/JHVHvs/g, "HERRES");
+  result = result.replace(/JHVHs/g, "HERRENS");
+  result = result.replace(/JHVHv/g, "HERRE");
+  result = result.replace(/JHVH/g, "HERREN");
+
+  return result;
 }

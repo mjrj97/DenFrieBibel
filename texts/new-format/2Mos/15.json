@@ -20,52 +20,52 @@
   "verses": [
     {
       "number": 1,
-      "text": "Da sang Moses og Israels børn denne sang for JHVH med ordene: »Jeg vil synge for JHVH, \ffor han er højt ophøjet.\fHest og dens rytter styrtede han i et hav.",
+      "text": "Da sang Moses og Israels børn denne sang for HERREN med ordene: »Jeg vil synge for HERREN,\ffor han er højt ophøjet.\fHest og dens rytter styrtede han i et hav.",
       "title": "Moses’ sang",
       "footnotes": [
         {
           "text": "Ordret: »og sagde, idet de sagde«.",
           "type": "T",
-          "position": 61
+          "position": 63
         },
         {
           "text": "Kohortativen kan også oversættes: »Lad mig synge«.",
           "type": "T",
-          "position": 76
+          "position": 78
         }
       ],
       "version": 1587506400000
     },
     {
       "number": 2,
-      "text": "\fMin styrke og min lovsang er JHVH,\fog han blev mig til frelse. \fHan er min Gud, og jeg vil prise ham,\fmin faders Gud, og jeg vil ophøje ham.",
+      "text": "\fMin styrke og min lovsang er HERREN,\fog han blev mig til frelse.\fHan er min Gud, og jeg vil prise ham,\fmin faders Gud, og jeg vil ophøje ham.",
       "footnotes": [
         {
-          "text": "Ordret skulle grundteksten oversættes: »Min styrke og JHVHs lovsang«. Men suffixet *-î* (»min«) regnes normalt for at være underforstået fra det foregående ord: *ʕāzzî* (»min styrke«).",
+          "text": "Ordret skulle grundteksten oversættes: »Min styrke og HERRENS lovsang«. Men suffixet *-î* (»min«) regnes normalt for at være underforstået fra det foregående ord: *ʕāzzî* (»min styrke«).",
           "type": "T",
           "position": 26
         },
         {
           "text": "Grundteksten har forkortelsen *yāh* for Guds navn.",
           "type": "T",
-          "position": 35
+          "position": 37
         },
         {
           "text": "Ordret: »denne«.",
           "type": "T",
-          "position": 68
+          "position": 69
         }
       ],
       "version": 1587506400000
     },
     {
       "number": 3,
-      "text": "\fJHVH er en kriger,\fJHVH er hans navn.",
+      "text": "\fHERREN er en kriger,\fHERREN er hans navn.",
       "footnotes": [
         {
           "text": "Ordret: »krigsmand«.",
           "type": "T",
-          "position": 19
+          "position": 21
         }
       ],
       "version": 1587506400000
@@ -89,7 +89,7 @@
     },
     {
       "number": 6,
-      "text": "\fDin højre hånd, JHVH, herlig i styrken,\fdin højre hånd, JHVH, knuser fjenden,",
+      "text": "\fDin højre hånd, HERREN, herlig i styrken,\fdin højre hånd, HERREN, knuser fjenden,",
       "version": 1587506400000
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "number": 11,
-      "text": "\fHvem er som du blandt guderne, JHVH?\fHvem er som du, herlig i hellighed,\ffrygtindgydende i glorværdige gerninger, som udfører under?",
+      "text": "\fHvem er som du blandt guderne, HERREN?\fHvem er som du, herlig i hellighed,\ffrygtindgydende i glorværdige gerninger, som udfører under?",
       "version": 1587506400000
     },
     {
@@ -170,27 +170,27 @@
     },
     {
       "number": 16,
-      "text": "\fDer skal falde\fskræk og rædsel over dem,\fved din arms storhed\fskal de blive tavse som en sten,\findtil dit folk kommer over, JHVH,\findtil dette folk, som du har erhvervet dig, kommer over.",
+      "text": "\fDer skal falde\fskræk og rædsel over dem,\fved din arms storhed\fskal de blive tavse som en sten,\findtil dit folk kommer over, HERREN,\findtil dette folk, som du har erhvervet dig, kommer over.",
       "version": 1587506400000
     },
     {
       "number": 17,
-      "text": "\fDu skal føre dem ind og plante dem\fpå din arvelods bjerg,\fdet sted du har gjort\ftil din bolig, JHVH;\fen helligdom, Herre,\fhar dine hænder grundfæstet.",
+      "text": "\fDu skal føre dem ind og plante dem\fpå din arvelods bjerg,\fdet sted du har gjort\ftil din bolig, HERREN;\fen helligdom, Herre,\fhar dine hænder grundfæstet.",
       "version": 1587506400000
     },
     {
       "number": 18,
-      "text": "\fJHVH skal regere evigt og altid.«",
+      "text": "\fHERREN skal regere evigt og altid.«",
       "version": 1587506400000
     },
     {
       "number": 19,
-      "text": "For da Faraos hest gik ud med hans vogn og hans ryttere i havet – da bragte JHVH tilbage over dem vandet fra havet – men Israels børn gik på det tørre midt i havet.",
+      "text": "For da Faraos hest gik ud med hans vogn og hans ryttere i havet – da bragte HERREN tilbage over dem vandet fra havet – men Israels børn gik på det tørre midt i havet.",
       "footnotes": [
         {
           "text": "Dette vers falder uden for sangens rytme og opfattes derfor normalt som forfatterens (Moses’) afrunding, der peger tilbage på begivenhederne i kap. 14. I ældre jødisk tradition opfattes verset som en del af sangen.",
           "type": "E",
-          "position": 164
+          "position": 166
         }
       ],
       "version": 1587506400000
@@ -203,7 +203,7 @@
     },
     {
       "number": 21,
-      "text": "Og Mirjam sang for dem: »Syng for JHVH,\ffor han er højt ophøjet;\fhesten og dens rytter\fhar han kastet i havet.«",
+      "text": "Og Mirjam sang for dem: »Syng for HERREN,\ffor han er højt ophøjet;\fhesten og dens rytter\fhar han kastet i havet.«",
       "footnotes": [
         {
           "text": "Det er ikke helt klart, hvad der menes med »dem«, der i grundteksten er maskulinum. Der er altså næppe blot tænkt på kvinderne i hendes følge, men formodentlig på hele folket.",
@@ -238,19 +238,19 @@
     },
     {
       "number": 25,
-      "text": "Så skreg han til JHVH, og JHVH viste ham et træ. Han kastede det i vandet, og så blev vandet sødt. Dér fastsatte han lov og ret for det, og dér satte han det på prøve.",
+      "text": "Så skreg han til HERREN, og HERREN viste ham et træ. Han kastede det i vandet, og så blev vandet sødt. Dér fastsatte han lov og ret for det, og dér satte han det på prøve.",
       "footnotes": [
         {
           "text": "for folket.",
           "type": "E",
-          "position": 136
+          "position": 140
         }
       ],
       "version": 1587506400000
     },
     {
       "number": 26,
-      "text": "Og han sagde: »Hvis du lytter nøje til JHVHs, din Guds, røst, og gør det som er ret i hans øjne og lytter til hans bud og holder alle hans love, så vil jeg ikke lægge nogen af de sygdomme på dig som jeg lagde på Egypten; For jeg er JHVH som læger dig.«",
+      "text": "Og han sagde: »Hvis du lytter nøje til HERRENS, din Guds, røst, og gør det som er ret i hans øjne og lytter til hans bud og holder alle hans love, så vil jeg ikke lægge nogen af de sygdomme på dig som jeg lagde på Egypten; For jeg er HERREN som læger dig.«",
       "footnotes": [
         {
           "text": "Den hebraiske tekst har verbet *šmʕ* (»lytte«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",

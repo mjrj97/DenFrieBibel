@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "En Shiggajon af David, som han sang til JHVH, over benjaminitten Kush's ord.",
+      "text": "En Shiggajon af David, som han sang til HERREN, over benjaminitten Kush's ord.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -31,14 +31,14 @@
         {
           "text": "Meningen kan evt. blot være: »på grund af Kush«.",
           "type": "T",
-          "position": 75
+          "position": 77
         }
       ],
       "version": 1486335600000
     },
     {
       "number": 2,
-      "text": "\fJHVHv, min Gud! Hos dig søger jeg tilflugt,\ffrels mig fra alle mine forfølgere og befri mig",
+      "text": "\fHERRE, min Gud! Hos dig søger jeg tilflugt,\ffrels mig fra alle mine forfølgere og befri mig",
       "title": "David beder mod sine forfølgere",
       "version": 1486335600000
     },
@@ -56,7 +56,7 @@
     },
     {
       "number": 4,
-      "text": "\fJHVHv, min Gud! Hvis jeg har gjort dette,\fhvis der er uret i mine hænder,",
+      "text": "\fHERRE, min Gud! Hvis jeg har gjort dette,\fhvis der er uret i mine hænder,",
       "title": "David bevidner sin uskyld i forhold til modstanderen",
       "version": 1486335600000
     },
@@ -96,7 +96,7 @@
     },
     {
       "number": 7,
-      "text": "\fStå op, JHVHv! i din vrede,\frejs dig imod mine fjenders harme,\fog vågn op for min skyld; du har jo sat retten.",
+      "text": "\fStå op, HERRE! i din vrede,\frejs dig imod mine fjenders harme,\fog vågn op for min skyld; du har jo sat retten.",
       "title": "David beder Gud om at dømme",
       "version": 1486335600000
     },
@@ -114,7 +114,7 @@
     },
     {
       "number": 9,
-      "text": "\fJHVH holder dom over folkene.\fDøm mig, JHVHv,\fefter min retfærdighed og efter min uskyld, som er hos mig.",
+      "text": "\fHERREN holder dom over folkene.\fDøm mig, HERRE,\fefter min retfærdighed og efter min uskyld, som er hos mig.",
       "version": 1486335600000
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "number": 18,
-      "text": "\fJeg vil takke JHVH for hans retfærdighed\fog lovsynge JHVH den Højestes Navn.",
+      "text": "\fJeg vil takke HERREN for hans retfærdighed\fog lovsynge HERREN den Højestes Navn.",
       "title": "Lovprisning",
       "version": 1486335600000
     }

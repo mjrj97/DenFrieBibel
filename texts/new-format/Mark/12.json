@@ -66,12 +66,12 @@
     },
     {
       "number": 10,
-      "text": "Har I ikke læst dette skriftord: \fDen sten som murermestrene forkastede, \fden er blevet til en hovedhjørnesten?",
+      "text": "Har I ikke læst dette skriftord:\fDen sten som murermestrene forkastede,\fden er blevet til en hovedhjørnesten?",
       "version": 1667170800000
     },
     {
       "number": 11,
-      "text": "\fFra Herren er dette kommet, \fog det er underfuldt for vores øjne.«",
+      "text": "\fFra Herren er dette kommet,\fog det er underfuldt for vores øjne.«",
       "version": 1667170800000
     },
     {
@@ -207,12 +207,12 @@
     },
     {
       "number": 36,
-      "text": "David selv har sagt ved Helligånden: \fHerren sagde til min Herre: \fSæt dig ved min højre hånd, \findtil jeg får lagt dine fjender \funder dine fødder.",
+      "text": "David selv har sagt ved Helligånden:\fHerren sagde til min Herre:\fSæt dig ved min højre hånd,\findtil jeg får lagt dine fjender\funder dine fødder.",
       "footnotes": [
         {
           "text": "Sal 110, 1.",
           "type": "H",
-          "position": 148
+          "position": 144
         }
       ],
       "version": 1667170800000

@@ -35,7 +35,7 @@
     },
     {
       "number": 3,
-      "text": "\fJHVH er stor og højt lovprist,\fog hans storhed kan ikke udforskes.",
+      "text": "\fHERREN er stor og højt lovprist,\fog hans storhed kan ikke udforskes.",
       "version": 1493330400000
     },
     {
@@ -68,24 +68,24 @@
     },
     {
       "number": 8,
-      "text": "\fJHVH er nådig og barmhjertig, sen til vrede og rig på nåde.",
+      "text": "\fHERREN er nådig og barmhjertig, sen til vrede og rig på nåde.",
       "footnotes": [
         {
           "text": "Oversættes også: »langmodig«.",
           "type": "T",
-          "position": 44
+          "position": 46
         },
         {
           "text": "nåde",
           "type": "N",
-          "position": 59
+          "position": 61
         }
       ],
       "version": 1493330400000
     },
     {
       "number": 9,
-      "text": "JHVH er god mod alle,\fog hans barmhjertighed er over alle hans skabninger.",
+      "text": "HERREN er god mod alle,\fog hans barmhjertighed er over alle hans skabninger.",
       "version": 1493330400000
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "number": 14,
-      "text": "\fJHVH støtter alle som falder,\fog rejser alle nedbøjede.",
+      "text": "\fHERREN støtter alle som falder,\fog rejser alle nedbøjede.",
       "version": 1493330400000
     },
     {
@@ -178,17 +178,17 @@
     },
     {
       "number": 17,
-      "text": "\fRetfærdig er JHVH på alle sine veje,\fnådig i alle sine gerninger.",
+      "text": "\fRetfærdig er HERREN på alle sine veje,\fnådig i alle sine gerninger.",
       "version": 1493330400000
     },
     {
       "number": 18,
-      "text": "Nær er JHVH hos alle som kalder på ham,\fhos alle som kalder på ham i oprigtighed.",
+      "text": "Nær er HERREN hos alle som kalder på ham,\fhos alle som kalder på ham i oprigtighed.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »i sandhed«.",
           "type": "T",
-          "position": 81
+          "position": 83
         }
       ],
       "version": 1493330400000
@@ -212,13 +212,13 @@
     },
     {
       "number": 21,
-      "text": "\fMin mund skal udsige JHVHs pris,\fog alt kød skal prise hans hellige navn\fevigt og altid.",
+      "text": "\fMin mund skal udsige HERRENS pris,\fog alt kød skal prise hans hellige navn\fevigt og altid.",
       "title": "Afslutning",
       "footnotes": [
         {
           "text": "Kan også oversættes: »velsigne«.",
           "type": "T",
-          "position": 55
+          "position": 57
         }
       ],
       "version": 1493330400000

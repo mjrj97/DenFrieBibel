@@ -24,7 +24,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Sang til valfarterne.\fJeg løfter mine øjne til bjergene,\f\thvorfra skal min hjælp komme?",
+      "text": "Sang til valfarterne.\fJeg løfter mine øjne til bjergene,\f\n\thvorfra skal min hjælp komme?",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -37,46 +37,46 @@
     },
     {
       "number": 2,
-      "text": "\f\t\t\tMin hjælp kommer fra JHVH,\fhimlens og jordens skaber.",
-      "title": "Min hjælp kommer fra JHVH",
+      "text": "\f\n\t\t\tMin hjælp kommer fra HERREN,\fhimlens og jordens skaber.",
+      "title": "Min hjælp kommer fra HERREN",
       "version": 1666562400000
     },
     {
       "number": 3,
-      "text": "\f\t\tHan lader ikke din fod vakle,\f\t\t\tog han som bevarer dig, slumrer ikke!",
-      "title": "JHVH bevarer dig",
+      "text": "\f\n\t\tHan lader ikke din fod vakle,\f\n\t\t\tog han som bevarer dig, slumrer ikke!",
+      "title": "HERREN bevarer dig",
       "version": 1666562400000
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\tSe, han slumrer ikke\f\t\t\t\t\t\tog sover ikke,\fhan som bevarer Israel!",
+      "text": "\f\n\t\t\t\tSe, han slumrer ikke\f\n\t\t\t\t\t\tog sover ikke,\fhan som bevarer Israel!",
       "version": 1666562400000
     },
     {
       "number": 5,
-      "text": "\f\t\t\t\t\tJHVH er den der bevarer dig,\f\t\t\t\t\t\tJHVH er din skygge\fved din højre hånd.",
+      "text": "\f\n\t\t\t\t\tHERREN er den der bevarer dig,\f\n\t\t\t\t\t\tHERREN er din skygge\fved din højre hånd.",
       "version": 1666562400000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\t\t\t\t\tOm dagen skal solen ikke stikke dig\f\t\t\t\t\t\t\t\t\teller månen om natten.",
+      "text": "\f\n\t\t\t\t\t\t\t\tOm dagen skal solen ikke stikke dig\f\n\t\t\t\t\t\t\t\t\teller månen om natten.",
       "version": 1666562400000
     },
     {
       "number": 7,
-      "text": "\f\t\t\t\t\t\t\tJHVH vil bevare dig fra alt ondt,\f\t\t\t\t\t\t\t\t\than vil bevare dit liv.",
+      "text": "\f\n\t\t\t\t\t\t\tHERREN vil bevare dig fra alt ondt,\f\n\t\t\t\t\t\t\t\t\than vil bevare dit liv.",
       "footnotes": [
         {
           "text": "Den hebraiske tekst har ordet: *nefeš*, der ofte skal oversættes: »sjæl«, men her utvivlsomt er brugt i betydningen: »liv«. Samtidig angiver ordet dog at det drejer sig om mere end den fysiske overlevelse, nemlig om livet med Gud.",
           "type": "E",
-          "position": 74
+          "position": 78
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 8,
-      "text": "\f\t\t\t\t\t\t\t\tJHVH vil bevare\t\t\t\t\t\t\t\t\t\tdin udgang\t\t\t\t\t\t\t\t\t\t\tog din indgang\f\t\t\t\t\t\t\t\t\tfra nu af og til evig tid.",
+      "text": "\f\n\t\t\t\t\t\t\t\tHERREN vil bevare\n\t\t\t\t\t\t\t\t\t\tdin udgang\n\t\t\t\t\t\t\t\t\t\t\tog din indgang\f\n\t\t\t\t\t\t\t\t\tfra nu af og til evig tid.",
       "version": 1666562400000
     }
   ]

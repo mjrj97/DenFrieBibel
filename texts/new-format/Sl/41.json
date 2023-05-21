@@ -33,37 +33,37 @@
     },
     {
       "number": 2,
-      "text": "\fSalig den der har omsorg for den ringe,\fpå ulykkens dag vil JHVH redde ham.",
-      "title": "JHVH viser den barmhjertige barmhjertighed",
+      "text": "\fSalig den der har omsorg for den ringe,\fpå ulykkens dag vil HERREN redde ham.",
+      "title": "HERREN viser den barmhjertige barmhjertighed",
       "version": 1457218800000
     },
     {
       "number": 3,
-      "text": "\fJHVH vil bevare ham og holde ham i live,\fhan skal prises lykkelig i landet.\fPrisgiv ham ikke hans fjenders begær.",
+      "text": "\fHERREN vil bevare ham og holde ham i live,\fhan skal prises lykkelig i landet.\fPrisgiv ham ikke hans fjenders begær.",
       "footnotes": [
         {
           "text": "Ordret »sjæl«, men det hebraiske ord har videre betydning end det danske.",
           "type": "T",
-          "position": 114
+          "position": 116
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 4,
-      "text": "\fJHVH skal støtte ham på sygelejet,\fdu har hjulpet ham op igen fra hvert sygeleje.",
+      "text": "\fHERREN skal støtte ham på sygelejet,\fdu har hjulpet ham op igen fra hvert sygeleje.",
       "footnotes": [
         {
           "text": "Ordret: »du har vendt hvert sygeleje under hans sygdom.«",
           "type": "T",
-          "position": 82
+          "position": 84
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 5,
-      "text": "\fJeg sagde: JHVHv, vær mig nådig,\fhelbred min sjæl, for jeg har syndet mod dig.",
+      "text": "\fJeg sagde: HERRE, vær mig nådig,\fhelbred min sjæl, for jeg har syndet mod dig.",
       "title": "Den syges bøn og klage",
       "version": 1457218800000
     },
@@ -115,7 +115,7 @@
     },
     {
       "number": 11,
-      "text": "\fMen du, JHVHv, vær mig nådig og rejs mig op,\fså vil jeg gengælde dem.",
+      "text": "\fMen du, HERRE, vær mig nådig og rejs mig op,\fså vil jeg gengælde dem.",
       "version": 1457218800000
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "number": 14,
-      "text": "\fLovet være JHVH, Israels Gud,\ffra evighed og til evighed!\fAmen og amen.",
+      "text": "\fLovet være HERREN, Israels Gud,\ffra evighed og til evighed!\fAmen og amen.",
       "title": "Liturgisk lovprisning",
       "version": 1457218800000
     }

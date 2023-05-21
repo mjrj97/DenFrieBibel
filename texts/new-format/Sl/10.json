@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Hvorfor, JHVHv, står du så langt borte?\fHvorfor skjuler du dig i trængselstider?",
+      "text": "Hvorfor, HERRE, står du så langt borte?\fHvorfor skjuler du dig i trængselstider?",
       "title": "Klage over de ugudeliges ondskab og magt",
       "footnotes": [
         {
@@ -60,7 +60,7 @@
     },
     {
       "number": 3,
-      "text": "\fFor den ugudelige jublede over sin sjæls ønske,\fog bedrageren forbandede og foragtede JHVH.",
+      "text": "\fFor den ugudelige jublede over sin sjæls ønske,\fog bedrageren forbandede og foragtede HERREN.",
       "footnotes": [
         {
           "text": "Her i betydningen: »begær«",
@@ -68,9 +68,9 @@
           "position": 47
         },
         {
-          "text": "Sætningen er omdiskuteret. Andre oversætter: »og bedrageren velsignede/roste han, men foragtede JHVH«. Verbet *brk* betyder i de allerfleste sammenhænge »velsigne/prise/rose«, men enkelte steder er det opfattet ironisk så det må oversættes: »forbande«. Jødiske lærde har ment at de to sidste ord i v.3 (»JHVH foragtede han«) skal høre til v.4: »Den ugudelige hånede JHVH i sit hovmod«.",
+          "text": "Sætningen er omdiskuteret. Andre oversætter: »og bedrageren velsignede/roste han, men foragtede HERREN«. Verbet *brk* betyder i de allerfleste sammenhænge »velsigne/prise/rose«, men enkelte steder er det opfattet ironisk så det må oversættes: »forbande«. Jødiske lærde har ment at de to sidste ord i v.3 (»HERREN foragtede han«) skal høre til v.4: »Den ugudelige hånede HERREN i sit hovmod«.",
           "type": "E",
-          "position": 91
+          "position": 93
         }
       ],
       "version": 1486335600000
@@ -160,7 +160,7 @@
     },
     {
       "number": 12,
-      "text": "\fRejs dig, JHVHv! Gud, løft din hånd,\fglem ikke de elendige!",
+      "text": "\fRejs dig, HERRE! Gud, løft din hånd,\fglem ikke de elendige!",
       "title": "Bøn om Guds indgreb",
       "version": 1486335600000
     },
@@ -188,19 +188,19 @@
     },
     {
       "number": 16,
-      "text": "\fJHVH er konge for evigt og altid,\ffolkeslag blev udryddet af hans land.",
+      "text": "\fHERREN er konge for evigt og altid,\ffolkeslag blev udryddet af hans land.",
       "footnotes": [
         {
           "text": "Kan også oversættes »hedningefolk«.",
           "type": "T",
-          "position": 44
+          "position": 46
         }
       ],
       "version": 1486335600000
     },
     {
       "number": 17,
-      "text": "\fDu har hørt de ydmyges ønske, JHVHv,\fdu styrker deres hjerte, dit øre lytter opmærksomt",
+      "text": "\fDu har hørt de ydmyges ønske, HERRE,\fdu styrker deres hjerte, dit øre lytter opmærksomt",
       "version": 1486335600000
     },
     {

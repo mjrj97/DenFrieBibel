@@ -61,7 +61,7 @@
     },
     {
       "number": 7,
-      "text": "\fSå vil enhver som ser dig, flygte væk fra dig og sige:\f»Nineve er ødelagt! Hvem vil have medlidenhed med den?\fHvor kan jeg finde nogen der vil trøste dig?«\f\n",
+      "text": "\fSå vil enhver som ser dig, flygte væk fra dig og sige:\f»Nineve er ødelagt! Hvem vil have medlidenhed med den?\fHvor kan jeg finde nogen der vil trøste dig?«\f\u000b",
       "version": 1511218800000
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "number": 11,
-      "text": "\fOgså du skal blive drukken og besvime;\fogså du skal søge et værn mod fjenden.\f\n",
+      "text": "\fOgså du skal blive drukken og besvime;\fogså du skal søge et værn mod fjenden.\f\u000b",
       "footnotes": [
         {
           "text": "Kan også oversættes med »skjule dig«.",

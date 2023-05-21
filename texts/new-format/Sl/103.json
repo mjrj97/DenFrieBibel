@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Af David.\fMin sjæl, pris JHVH,\fog hele mit indre skal prise hans hellige navn!",
+      "text": "Af David.\fMin sjæl, pris HERREN,\fog hele mit indre skal prise hans hellige navn!",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -31,15 +31,15 @@
         {
           "text": "Ordene: »skal prise« er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.",
           "type": "E",
-          "position": 59
+          "position": 61
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 2,
-      "text": "\fMin sjæl, pris JHVH,\fog glem ikke alle hans velgerninger,",
-      "title": "Min sjæl, pris JHVH!",
+      "text": "\fMin sjæl, pris HERREN,\fog glem ikke alle hans velgerninger,",
+      "title": "Min sjæl, pris HERREN!",
       "version": 1499983200000
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "number": 6,
-      "text": "\fJHVH udøver retfærdighed\fog ret for alle undertrykte.",
+      "text": "\fHERREN udøver retfærdighed\fog ret for alle undertrykte.",
       "title": "Guds nåde igennem tiderne",
       "version": 1499983200000
     },
@@ -89,12 +89,12 @@
     },
     {
       "number": 8,
-      "text": "\fJHVH er barmhjertig og nådig,\fsen til vrede og rig på nåde",
+      "text": "\fHERREN er barmhjertig og nådig,\fsen til vrede og rig på nåde",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 59
+          "position": 61
         }
       ],
       "version": 1499983200000
@@ -133,7 +133,7 @@
     },
     {
       "number": 13,
-      "text": "\fSom en far forbarmer sig over sine børn,\fhar JHVH forbarmet sig over dem som frygter ham.",
+      "text": "\fSom en far forbarmer sig over sine børn,\fhar HERREN forbarmet sig over dem som frygter ham.",
       "footnotes": [
         {
           "text": "Ordret: »som en fars forbarmen sig«",
@@ -181,7 +181,7 @@
     },
     {
       "number": 17,
-      "text": "\fMen JHVHs nåde er fra evighed og til evighed over dem som frygter ham,\fog hans retfærdighed er med børns børn,",
+      "text": "\fMen HERRENS nåde er fra evighed og til evighed over dem som frygter ham,\fog hans retfærdighed er med børns børn,",
       "version": 1499983200000
     },
     {
@@ -191,13 +191,13 @@
     },
     {
       "number": 19,
-      "text": "\fJHVH har rejst sin trone i himlen,\fog hans kongerige behersker Altet.",
-      "title": "Pris JHVH, alle hans skaberværker",
+      "text": "\fHERREN har rejst sin trone i himlen,\fog hans kongerige behersker Altet.",
+      "title": "Pris HERREN, alle hans skaberværker",
       "version": 1499983200000
     },
     {
       "number": 20,
-      "text": "\fPris JHVH, I hans engle,\fI stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
+      "text": "\fPris HERREN, I hans engle,\fI stærke krigere som udfører hans ord, idet I adlyder hans befaling!",
       "footnotes": [
         {
           "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
@@ -207,19 +207,19 @@
         {
           "text": "Ordret: »hans ords røst«.",
           "type": "T",
-          "position": 94
+          "position": 96
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 21,
-      "text": "\fPris JHVH, alle hans hærskarer,\fI hans tjenere som udfører hans vilje!",
+      "text": "\fPris HERREN, alle hans hærskarer,\fI hans tjenere som udfører hans vilje!",
       "version": 1499983200000
     },
     {
       "number": 22,
-      "text": "\fPris JHVH, alle hans værker\fpå alle steder i hans kongerige.\fMin sjæl, pris JHVH!",
+      "text": "\fPris HERREN, alle hans værker\fpå alle steder i hans kongerige.\fMin sjæl, pris HERREN!",
       "version": 1499983200000
     }
   ]

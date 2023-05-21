@@ -20,49 +20,49 @@
   "verses": [
     {
       "number": 1,
-      "text": "Salme af David.\fGiv JHVH, I Guds sønner,\fgiv JHVH ære og styrke!",
+      "text": "Salme af David.\fGiv HERREN, I Guds sønner,\fgiv HERREN ære og styrke!",
       "title": "Overskrift",
       "footnotes": [
         {
           "text": "Der er formodentlig tænkt på engle, der udgør det himmelske hof. Ofte formuleret: »gudssønner«.",
           "type": "E",
-          "position": 40
+          "position": 42
         },
         {
           "text": "Ordet *ʕōz* kan også oversættes »lovprisning / hæder«. I sammenhængen er det dog vigtigt at understrege Guds magt.",
           "type": "E",
-          "position": 64
+          "position": 68
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 2,
-      "text": "\fGiv JHVH hans navns ære,\fkast jer ned for JHVH i hellig klædning.",
+      "text": "\fGiv HERREN hans navns ære,\fkast jer ned for HERREN i hellig klædning.",
       "title": "Ære være Gud!",
       "footnotes": [
         {
           "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
           "type": "E",
-          "position": 66
+          "position": 70
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 3,
-      "text": "\fHerrens røst er over vandene.\fÆrens Gud får det til at tordne,\fJHVH er over de vældige vande.",
-      "title": "Åbenbaringen af JHVHs magt og herlighed",
+      "text": "\fHerrens røst er over vandene.\fÆrens Gud får det til at tordne,\fHERREN er over de vældige vande.",
+      "title": "Åbenbaringen af HERRENS magt og herlighed",
       "version": 1457218800000
     },
     {
       "number": 4,
-      "text": "\fJHVHs røst er med kraft,\fJHVHs røst er med herlighed.",
+      "text": "\fHERRENS røst er med kraft,\fHERRENS røst er med herlighed.",
       "version": 1457218800000
     },
     {
       "number": 5,
-      "text": "\fJHVHs røst splintrer cedertræer,\fog JHVH smadrer Libanons cedre.",
+      "text": "\fHERRENS røst splintrer cedertræer,\fog HERREN smadrer Libanons cedre.",
       "version": 1457218800000
     },
     {
@@ -84,28 +84,28 @@
     },
     {
       "number": 7,
-      "text": "\fJHVHs røst slår ned med ildsluer.",
+      "text": "\fHERRENS røst slår ned med ildsluer.",
       "version": 1457218800000
     },
     {
       "number": 8,
-      "text": "\fJHVHs røst får ørken til at skælve,\fJHVH får Kadesh’ ørken til at skælve.",
+      "text": "\fHERRENS røst får ørken til at skælve,\fHERREN får Kadesh’ ørken til at skælve.",
       "version": 1457218800000
     },
     {
       "number": 9,
-      "text": "\fJHVHs røst får hinder til at føde\fog afbarker skove.\fMen i hans tempel siger de alle: »Ære!«",
+      "text": "\fHERRENS røst får hinder til at føde\fog afbarker skove.\fMen i hans tempel siger de alle: »Ære!«",
       "version": 1457218800000
     },
     {
       "number": 10,
-      "text": "\fJHVH har taget sæde over vandfloden,\fog JHVH troner som konge i evighed.",
+      "text": "\fHERREN har taget sæde over vandfloden,\fog HERREN troner som konge i evighed.",
       "title": "Afsluttende lovprisning",
       "version": 1457218800000
     },
     {
       "number": 11,
-      "text": "\fJHVH skal give sit folk styrke,\fJHVH skal velsigne sit folk med fred.",
+      "text": "\fHERREN skal give sit folk styrke,\fHERREN skal velsigne sit folk med fred.",
       "version": 1457218800000
     }
   ]

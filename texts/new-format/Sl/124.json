@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Valfartssang. Af David.\fHvis ikke JHVH havde været med os\f– sådan skal Israel sige –",
+      "text": "Valfartssang. Af David.\fHvis ikke HERREN havde været med os\f– sådan skal Israel sige –",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -29,22 +29,22 @@
           "position": 13
         },
         {
-          "text": "Sætningen kan også oversættes: »Hvis ikke det var JHVH, der havde været med os«.",
+          "text": "Sætningen kan også oversættes: »Hvis ikke det var HERREN, der havde været med os«.",
           "type": "T",
-          "position": 57
+          "position": 59
         }
       ],
       "version": 1492552800000
     },
     {
       "number": 2,
-      "text": "\fhvis ikke JHVH havde været med os,\fdengang mennesker rejste sig mod os,",
-      "title": "Hvis ikke JHVH havde været med os",
+      "text": "\fhvis ikke HERREN havde været med os,\fdengang mennesker rejste sig mod os,",
+      "title": "Hvis ikke HERREN havde været med os",
       "footnotes": [
         {
           "text": "Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.",
           "type": "T",
-          "position": 53
+          "position": 55
         }
       ],
       "version": 1492552800000
@@ -73,8 +73,8 @@
     },
     {
       "number": 6,
-      "text": "\fLovet være JHVH\fsom ikke gav os til bytte for deres tænder!",
-      "title": "Lovet være JHVH som var med os",
+      "text": "\fLovet være HERREN\fsom ikke gav os til bytte for deres tænder!",
+      "title": "Lovet være HERREN som var med os",
       "footnotes": [
         {
           "text": "Kan også oversættes: »velsignet«.",
@@ -98,7 +98,7 @@
     },
     {
       "number": 8,
-      "text": "\fVor hjælp er i JHVHs navn,\fhans som skabte himmel og jord.",
+      "text": "\fVor hjælp er i HERRENS navn,\fhans som skabte himmel og jord.",
       "version": 1492552800000
     }
   ]

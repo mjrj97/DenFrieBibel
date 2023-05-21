@@ -76,35 +76,35 @@
     },
     {
       "number": 8,
-      "text": "\fJHVHs lov er fuldkommen,\fden styrker sjælen.\fJHVHs vidnesbyrd er pålideligt,\fdet giver den enfoldige visdom.",
-      "title": "Lovprisning af JHVHs lov",
+      "text": "\fHERRENS lov er fuldkommen,\fden styrker sjælen.\fHERRENS vidnesbyrd er pålideligt,\fdet giver den enfoldige visdom.",
+      "title": "Lovprisning af HERRENS lov",
       "footnotes": [
         {
           "text": "Lov",
           "type": "N",
-          "position": 10
+          "position": 12
         },
         {
           "text": "Ordret: »den bringer sjælen tilbage«.",
           "type": "T",
-          "position": 45
+          "position": 47
         }
       ],
       "version": 1631570400000
     },
     {
       "number": 9,
-      "text": "\fJHVHs bestemmelser er rette,\fde glæder hjertet.\fJHVHs befaling er pur,\fdet giver øjnene lys.",
+      "text": "\fHERRENS bestemmelser er rette,\fde glæder hjertet.\fHERRENS befaling er pur,\fdet giver øjnene lys.",
       "version": 1631570400000
     },
     {
       "number": 10,
-      "text": "\fFrygt for JHVH er ren,\fden består til evig tid,\fJHVHs domme er sandhed,\fde er alle retfærdige.",
+      "text": "\fFrygt for HERREN er ren,\fden består til evig tid,\fHERRENS domme er sandhed,\fde er alle retfærdige.",
       "footnotes": [
         {
           "text": "Grundtekstens *yirʔāh*: »frygt«, synes at bryde rytmen i versene, idet »frygt« næppe kan være synonym for »lov«. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. »Frygt« for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud »til evig tid«. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: »ord«.",
           "type": "E",
-          "position": 15
+          "position": 17
         }
       ],
       "version": 1631570400000
@@ -132,7 +132,7 @@
     },
     {
       "number": 15,
-      "text": "\fLad min munds ord og mit hjertes tanker være til behag for dit ansigt,\fJHVHv, min klippe og min genløser!",
+      "text": "\fLad min munds ord og mit hjertes tanker være til behag for dit ansigt,\fHERRE, min klippe og min genløser!",
       "version": 1631570400000
     }
   ]

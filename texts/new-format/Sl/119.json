@@ -16,7 +16,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Salige er de hvis færd er fuldkommen,\fde som vandrer efter JHVHs lov.",
+      "text": "Salige er de hvis færd er fuldkommen,\fde som vandrer efter HERRENS lov.",
       "title": "I.",
       "footnotes": [
         {
@@ -37,7 +37,7 @@
         {
           "text": "lov",
           "type": "N",
-          "position": 69
+          "position": 71
         }
       ],
       "version": 1492552800000
@@ -123,7 +123,7 @@
     },
     {
       "number": 12,
-      "text": "\fLovet være du, JHVHv!\flær mig dine lovbud!",
+      "text": "\fLovet være du, HERRE!\flær mig dine lovbud!",
       "footnotes": [
         {
           "text": "Kan også oversættes: »velsignet«.",
@@ -255,7 +255,7 @@
     },
     {
       "number": 31,
-      "text": "\fJeg har holdt fast ved dine vedtægter,\fJHVH, gør mig ikke til skamme!",
+      "text": "\fJeg har holdt fast ved dine vedtægter,\fHERREN, gør mig ikke til skamme!",
       "version": 1492552800000
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "number": 33,
-      "text": "\fLær mig, JHVHv, dine lovbuds vej,\fså vil jeg overholde den indtil enden.",
+      "text": "\fLær mig, HERRE, dine lovbuds vej,\fså vil jeg overholde den indtil enden.",
       "title": "V.",
       "footnotes": [
         {
@@ -339,7 +339,7 @@
     },
     {
       "number": 41,
-      "text": "\fLad din nåde, JHVHv, komme over mig,\fdin frelse, efter dit ord,",
+      "text": "\fLad din nåde, HERRE, komme over mig,\fdin frelse, efter dit ord,",
       "title": "VI.",
       "footnotes": [
         {
@@ -429,7 +429,7 @@
     },
     {
       "number": 52,
-      "text": "\fJeg har husket dine bestemmelser fra gammel tid,\fog jeg blev trøstet, JHVHv.",
+      "text": "\fJeg har husket dine bestemmelser fra gammel tid,\fog jeg blev trøstet, HERRE.",
       "version": 1492552800000
     },
     {
@@ -451,7 +451,7 @@
     },
     {
       "number": 55,
-      "text": "\fOm natten har jeg husket på dit navn, JHVHv,\fog jeg har holdt din lov.",
+      "text": "\fOm natten har jeg husket på dit navn, HERRE,\fog jeg har holdt din lov.",
       "version": 1492552800000
     },
     {
@@ -468,13 +468,13 @@
     },
     {
       "number": 57,
-      "text": "\fJHVH er min del,\fjeg har lovet at holde dine ord.",
+      "text": "\fHERREN er min del,\fjeg har lovet at holde dine ord.",
       "title": "VIII.",
       "footnotes": [
         {
           "text": "Ordret: »jeg har sagt«. Formodentlig er det underforstået at det følgende er sagt til Gud. En anden mulighed er dog at salmisten har sagt det ved sig selv, så der må oversættes: »jeg har sat mig for«.",
           "type": "E",
-          "position": 31
+          "position": 33
         }
       ],
       "version": 1492552800000
@@ -530,7 +530,7 @@
     },
     {
       "number": 64,
-      "text": "\fDin nåde, JHVHv, fylder jorden,\flær mig dine lovbud!",
+      "text": "\fDin nåde, HERRE, fylder jorden,\flær mig dine lovbud!",
       "footnotes": [
         {
           "text": "Kan også oversættes: »landet«.",
@@ -542,7 +542,7 @@
     },
     {
       "number": 65,
-      "text": "\fDu har handlet godt mod din tjener,\fJHVHv, efter dit ord.",
+      "text": "\fDu har handlet godt mod din tjener,\fHERRE, efter dit ord.",
       "title": "IX.",
       "version": 1492552800000
     },
@@ -608,7 +608,7 @@
     },
     {
       "number": 75,
-      "text": "\fJeg har vidst, JHVHv, at dine bestemmelser er retfærdige,\fog at du af trofasthed ydmygede mig.",
+      "text": "\fJeg har vidst, HERRE, at dine bestemmelser er retfærdige,\fog at du af trofasthed ydmygede mig.",
       "version": 1492552800000
     },
     {
@@ -721,7 +721,7 @@
     },
     {
       "number": 89,
-      "text": "\fI evighed, JHVHv,\fstår dit ord fast i himlen.",
+      "text": "\fI evighed, HERRE,\fstår dit ord fast i himlen.",
       "title": "XII.",
       "version": 1492552800000
     },
@@ -854,12 +854,12 @@
     },
     {
       "number": 107,
-      "text": "\fJeg er blevet dybt bøjet,\fJHVHv, giv mig liv efter dit ord.",
+      "text": "\fJeg er blevet dybt bøjet,\fHERRE, giv mig liv efter dit ord.",
       "version": 1492552800000
     },
     {
       "number": 108,
-      "text": "\fLad min munds frivilligofre behage dig, JHVHv,\fog lær mig dine bestemmelser.",
+      "text": "\fLad min munds frivilligofre behage dig, HERRE,\fog lær mig dine bestemmelser.",
       "version": 1492552800000
     },
     {
@@ -1026,12 +1026,12 @@
     },
     {
       "number": 126,
-      "text": "\fDet er tid for JHVH at handle,\fde har brudt din lov.",
+      "text": "\fDet er tid for HERREN at handle,\fde har brudt din lov.",
       "footnotes": [
         {
-          "text": "Den masoretiske tekst har præpositionen: *lᵊ-* (»for«) foran »JHVH«. I næste linje tales der dog igen direkte i 2. person til »JHVH«, hvorfor mange oversættere (med et enkelt håndskrift) sletter *lᵊ-* her så linjen oversættes: »Det er tid at handle, JHVH«.",
+          "text": "Den masoretiske tekst har præpositionen: *lᵊ-* (»for«) foran »HERREN«. I næste linje tales der dog igen direkte i 2. person til »HERREN«, hvorfor mange oversættere (med et enkelt håndskrift) sletter *lᵊ-* her så linjen oversættes: »Det er tid at handle, HERREN«.",
           "type": "E",
-          "position": 20
+          "position": 22
         }
       ],
       "version": 1492552800000
@@ -1117,7 +1117,7 @@
     },
     {
       "number": 137,
-      "text": "\fDu er retfærdig, JHVHv,\fog dine bestemmelser er retskafne.",
+      "text": "\fDu er retfærdig, HERRE,\fog dine bestemmelser er retskafne.",
       "title": "XVIII.",
       "footnotes": [
         {
@@ -1184,7 +1184,7 @@
     },
     {
       "number": 145,
-      "text": "\fJeg har råbt af helt hjerte; svar mig, JHVHv!\fJeg vil overholde dine lovbud.",
+      "text": "\fJeg har råbt af helt hjerte; svar mig, HERRE!\fJeg vil overholde dine lovbud.",
       "title": "XIX.",
       "version": 1492552800000
     },
@@ -1224,7 +1224,7 @@
     },
     {
       "number": 149,
-      "text": "\fHør mit råb i overensstemmelse med din nåde,\fJHVHv, giv mig liv i overensstemmelse med din bestemmelse.",
+      "text": "\fHør mit råb i overensstemmelse med din nåde,\fHERRE, giv mig liv i overensstemmelse med din bestemmelse.",
       "version": 1492552800000
     },
     {
@@ -1234,7 +1234,7 @@
     },
     {
       "number": 151,
-      "text": "\fNær er du, JHVHv,\fog alle dine befalinger er sandhed.",
+      "text": "\fNær er du, HERRE,\fog alle dine befalinger er sandhed.",
       "version": 1492552800000
     },
     {
@@ -1267,7 +1267,7 @@
     },
     {
       "number": 156,
-      "text": "\fOverordentlig stor er din barmhjertighed, JHVHv,\fgiv mig liv i overensstemmelse med dine bestemmelser!",
+      "text": "\fOverordentlig stor er din barmhjertighed, HERRE,\fgiv mig liv i overensstemmelse med dine bestemmelser!",
       "footnotes": [
         {
           "text": "Ordret: »Store er dine barmhjertigheder«. Pluralis skal her understrege storheden.",
@@ -1296,7 +1296,7 @@
     },
     {
       "number": 159,
-      "text": "\fSe hvor jeg har elsket dine forordninger,\fJHVH, giv mig liv i overensstemmelse med din nåde.",
+      "text": "\fSe hvor jeg har elsket dine forordninger,\fHERREN, giv mig liv i overensstemmelse med din nåde.",
       "version": 1492552800000
     },
     {
@@ -1358,7 +1358,7 @@
     },
     {
       "number": 166,
-      "text": "\fJeg har håbet på din frelse, JHVHv,\fog jeg har udført dine befalinger.",
+      "text": "\fJeg har håbet på din frelse, HERRE,\fog jeg har udført dine befalinger.",
       "version": 1492552800000
     },
     {
@@ -1373,7 +1373,7 @@
     },
     {
       "number": 169,
-      "text": "\fGid mit råb må komme frem for dit ansigt, JHVHv,\fgiv mig indsigt efter dit ord!",
+      "text": "\fGid mit råb må komme frem for dit ansigt, HERRE,\fgiv mig indsigt efter dit ord!",
       "title": "XXII.",
       "version": 1492552800000
     },
@@ -1413,7 +1413,7 @@
     },
     {
       "number": 174,
-      "text": "\fJeg har længtes efter din frelse, JHVHv,\fog din lov er min glæde.",
+      "text": "\fJeg har længtes efter din frelse, HERRE,\fog din lov er min glæde.",
       "version": 1492552800000
     },
     {

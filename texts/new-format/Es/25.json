@@ -1,5 +1,5 @@
 {
-  "book": "Esajas",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 25,
   "translation": 100,
@@ -20,40 +20,40 @@
   "verses": [
     {
       "number": 1,
-      "text": "HERRE! Du er min Gud, \fjeg vil ophøje dig, jeg vil prise dit navn, \ffor du har gjort under; \fplaner, der er lagt for længe siden, \fer trofasthed og sandhed.",
-      "title": "Guds folk priser JHVH",
+      "text": "HERRE! Du er min Gud,\fjeg vil ophøje dig, jeg vil prise dit navn,\ffor du har gjort under;\fplaner, der er lagt for længe siden,\fer trofasthed og sandhed.",
+      "title": "Guds folk priser HERREN",
       "version": 1681336800000
     },
     {
       "number": 2,
-      "text": "\fFor du har forvandlet en by til en stendynge, \fen befæstet stad til en ruinhob, \ffremmedes palads er ikke længere en by; \fden skal aldrig mere bygges.",
+      "text": "\fFor du har forvandlet en by til en stendynge,\fen befæstet stad til en ruinhob,\ffremmedes palads er ikke længere en by;\fden skal aldrig mere bygges.",
       "version": 1681336800000
     },
     {
       "number": 3,
-      "text": "\fDerfor skal et stærkt folk ære dig; \fvoldelige folkeslags stad skal frygte dig.",
+      "text": "\fDerfor skal et stærkt folk ære dig;\fvoldelige folkeslags stad skal frygte dig.",
       "version": 1681336800000
     },
     {
       "number": 4,
-      "text": "\fFor du var værn for den ringe, \fværn for den fattige i hans nød, \ftilflugt fra regnskyl, skygge mod hede; \ffor voldsmænds fnysen er som regnskyl mod en mur.",
+      "text": "\fFor du var værn for den ringe,\fværn for den fattige i hans nød,\ftilflugt fra regnskyl, skygge mod hede;\ffor voldsmænds fnysen er som regnskyl mod en mur.",
       "footnotes": [
         {
           "text": "Det foreslås ofte at ændre vokaliseringen fra: *qîr* (»mur«) til: *qōr*: »kulde«, så oversættelsen bliver: »som et koldt regnskyl«.",
           "type": "E",
-          "position": 157
+          "position": 154
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 5,
-      "text": "\fSom hede i et tørt land \fbetvinger du fremmedes larm; \fsom heden dæmpes af skygge fra en sky, \fdæmpes tyranners jubelsang.\f\n",
+      "text": "\fSom hede i et tørt land\fbetvinger du fremmedes larm;\fsom heden dæmpes af skygge fra en sky,\fdæmpes tyranners jubelsang.\f\u000b",
       "version": 1681336800000
     },
     {
       "number": 6,
-      "text": "\fPå dette bjerg skal Hærskarers HERRE \fholde et måltid med fede retter\ffor alle folkeslagene\fet måltid med lagret vin, \ffede, marvfulde retter, \flagret, klaret vin.",
+      "text": "\fPå dette bjerg skal Hærskarers HERRE\fholde et måltid med fede retter\ffor alle folkeslagene\fet måltid med lagret vin,\ffede, marvfulde retter,\flagret, klaret vin.",
       "footnotes": [
         {
           "text": "Hærskarers",
@@ -65,61 +65,61 @@
     },
     {
       "number": 7,
-      "text": "\fPå dette bjerg skal han bortskaffe \fsløret der tildækker, sløret over alle folkene, \fog det dække som alle folkeslagene er dækket med.",
+      "text": "\fPå dette bjerg skal han bortskaffe\fsløret der tildækker, sløret over alle folkene,\fog det dække som alle folkeslagene er dækket med.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »hedningerne«.",
           "type": "T",
-          "position": 120
+          "position": 118
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 8,
-      "text": "\fHan skal opsluge døden for evigt, \fog Herren JHVH skal tørre tårer af alle ansigter \fog fjerne spotten mod sit folk fra hele jorden; \ffor JHVH har talt.",
+      "text": "\fHan skal opsluge døden for evigt,\fog Herren HERREN skal tørre tårer af alle ansigter\fog fjerne spotten mod sit folk fra hele jorden;\ffor HERREN har talt.",
       "version": 1681336800000
     },
     {
       "number": 9,
-      "text": "\fPå den dag skal man sige: \f»Se, dette er vores Gud, som vi håbede på\fat han skulle frelse os. \fDenne er HERREN, vi har håbet på, \flad os juble og glæde os over hans frelse.«\f\n",
+      "text": "\fPå den dag skal man sige:\f»Se, dette er vores Gud, som vi håbede på\fat han skulle frelse os.\fDenne er HERREN, vi har håbet på,\flad os juble og glæde os over hans frelse.«\f\u000b",
       "version": 1681336800000
     },
     {
       "number": 10,
-      "text": "\fFor JHVHs hånd skal hvile \fover dette bjerg; \fi stedet skal Moab trædes ned, \fsom halm trædes ned i en møddingpøl.",
+      "text": "\fFor HERRENS hånd skal hvile\fover dette bjerg;\fi stedet skal Moab trædes ned,\fsom halm trædes ned i en møddingpøl.",
       "version": 1681336800000
     },
     {
       "number": 11,
-      "text": "\fOg det skal brede sine hænder ud i den, \fsom den der svømmer, breder sine hænder ud for at svømme; \fog han skal ydmyge dets overmod \fsammen med dets hænders dygtighed.",
+      "text": "\fOg det skal brede sine hænder ud i den,\fsom den der svømmer, breder sine hænder ud for at svømme;\fog han skal ydmyge dets overmod\fsammen med dets hænders dygtighed.",
       "footnotes": [
         {
-          "text": "JHVH",
+          "text": "HERREN",
           "type": "T",
-          "position": 107
+          "position": 105
         },
         {
           "text": "Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.",
           "type": "E",
-          "position": 168
+          "position": 165
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 12,
-      "text": "\fOg dine  mures høje fæstningsværk \fskal han kaste ned, vælte, jævne med jorden, \fhelt ned i støvet.",
+      "text": "\fOg dine mures høje fæstningsværk\fskal han kaste ned, vælte, jævne med jorden,\fhelt ned i støvet.",
       "footnotes": [
         {
           "text": "Moabs",
           "type": "T",
-          "position": 9
+          "position": 8
         },
         {
           "text": "Ordret: »få til at berøre«.",
           "type": "T",
-          "position": 72
+          "position": 70
         }
       ],
       "version": 1681336800000

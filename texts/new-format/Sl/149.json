@@ -16,13 +16,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "Halleluja!\fSyng for JHVH en ny sang,\fhans lovsang i de frommes forsamling!",
+      "text": "Halleluja!\fSyng for HERREN en ny sang,\fhans lovsang i de frommes forsamling!",
       "title": "Syng for frelseren!",
       "footnotes": [
         {
           "text": "Kan også oversættes: »menighed«.",
           "type": "T",
-          "position": 74
+          "position": 76
         }
       ],
       "version": 1493330400000
@@ -46,7 +46,7 @@
     },
     {
       "number": 4,
-      "text": "\fFor JHVH har velbehag i sit folk,\fhan pryder de ydmyge med frelse.",
+      "text": "\fFor HERREN har velbehag i sit folk,\fhan pryder de ydmyge med frelse.",
       "version": 1493330400000
     },
     {

@@ -1,5 +1,5 @@
 {
-  "book": "Esajas",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 21,
   "translation": 100,
@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Udsagn om ørkenen ved havet. \fLigesom hvirvelvinde farer forbi i Sydlandet, \fkommer det fra ørkenen, \ffra det forfærdelige land.",
+      "text": "Udsagn om ørkenen ved havet.\fLigesom hvirvelvinde farer forbi i Sydlandet,\fkommer det fra ørkenen,\ffra det forfærdelige land.",
       "title": "Ord mod Babylonien",
       "footnotes": [
         {
@@ -31,68 +31,68 @@
         {
           "text": "Ordret: »i Negev«.",
           "type": "T",
-          "position": 75
+          "position": 74
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 2,
-      "text": "\fEt hårdt syn er forkyndt mig: \fDen troløse handler troløst, \fog voldsmanden øver vold. \fDrag op, Elam! \fBelejr, Medien! \fEthvert af hendes suk gør jeg ende på.",
+      "text": "\fEt hårdt syn er forkyndt mig:\fDen troløse handler troløst,\fog voldsmanden øver vold.\fDrag op, Elam!\fBelejr, Medien!\fEthvert af hendes suk gør jeg ende på.",
       "version": 1681336800000
     },
     {
       "number": 3,
-      "text": "\fDerfor er mine lænder fulde af krampesmerter, \fveer er kommet over mig \fsom en fødendes veer; \fjeg vrider mig så jeg ikke kan høre, \fjeg er forfærdet så jeg ikke kan se.",
+      "text": "\fDerfor er mine lænder fulde af krampesmerter,\fveer er kommet over mig\fsom en fødendes veer;\fjeg vrider mig så jeg ikke kan høre,\fjeg er forfærdet så jeg ikke kan se.",
       "version": 1681336800000
     },
     {
       "number": 4,
-      "text": "\fMit hjerte er faret vild, \fgru har overvældet mig, \fskumringen jeg længtes efter, \fer blevet gjort til rædsel for mig.",
+      "text": "\fMit hjerte er faret vild,\fgru har overvældet mig,\fskumringen jeg længtes efter,\fer blevet gjort til rædsel for mig.",
       "version": 1681336800000
     },
     {
       "number": 5,
-      "text": "\fMan dækker bordet, \fman breder tæppet ud, \fman spiser, man drikker. \f»Rejs jer, ledere, \fsalv skjold!«\f\n",
+      "text": "\fMan dækker bordet,\fman breder tæppet ud,\fman spiser, man drikker.\f»Rejs jer, ledere,\fsalv skjold!«\f\u000b",
       "footnotes": [
         {
           "text": "Tidligere oversat: »vagten holder vagt«. Der er tale om to ensskrevne verber og deraf afledte substantiver.",
           "type": "T",
-          "position": 42
+          "position": 41
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 6,
-      "text": "\fFor sådan har JHVH sagt til mig: \f»Gå, sæt vagtposten ud, \fsom skal melde, hvad han ser!",
+      "text": "\fFor sådan har HERREN sagt til mig:\f»Gå, sæt vagtposten ud,\fsom skal melde, hvad han ser!",
       "version": 1681336800000
     },
     {
       "number": 7,
-      "text": "\fOg ser han en stridsvogn, \fmed et par heste for, \fæselryttere, \fkamelryttere, \fså skal han lytte opmærksomt, \fmeget opmærksomt.«",
+      "text": "\fOg ser han en stridsvogn,\fmed et par heste for,\fæselryttere,\fkamelryttere,\fså skal han lytte opmærksomt,\fmeget opmærksomt.«",
       "footnotes": [
         {
           "text": "Kan også oversættes: »med et par ryttere«.",
           "type": "T",
-          "position": 49
+          "position": 48
         },
         {
           "text": "Kan også oversættes: »vogn trukket af æsel«.",
           "type": "T",
-          "position": 63
+          "position": 61
         },
         {
           "text": "Kan også oversættes: »vogn trukket af kamel«.",
           "type": "T",
-          "position": 78
+          "position": 75
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 8,
-      "text": "\fOg han skal råbe som en løve: \f»På vagt, Herre, \fstår jeg \faltid om dagen, \fog på min vagtpost\fstår jeg \fhver nat.«",
+      "text": "\fOg han skal råbe som en løve:\f»På vagt, Herre,\fstår jeg\faltid om dagen,\fog på min vagtpost\fstår jeg\fhver nat.«",
       "footnotes": [
         {
           "text": "Ofte går man ud fra at *ʔaryēʰ* (»løve«) må være en skrivefejl for: *harōʔeʰ*: »udkigsmand«. Det har dog ingen støtte i manuskripterne.",
@@ -104,19 +104,19 @@
     },
     {
       "number": 9,
-      "text": "\fOg se, da kom der \fen vogn med en mand, \fmed et par heste for.\fHan erklærede: »Faldet,\fBabylon er faldet, \fog dens gudebilleder \fer knust til jorden!«",
+      "text": "\fOg se, da kom der\fen vogn med en mand,\fmed et par heste for.\fHan erklærede: »Faldet,\fBabylon er faldet,\fog dens gudebilleder\fer knust til jorden!«",
       "footnotes": [
         {
           "text": "Kan også oversættes: »med et par ryttere«.",
           "type": "T",
-          "position": 63
+          "position": 61
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 10,
-      "text": "\fDu, min tærskede, \fog søn af min tærskeplads! \fDet jeg har hørt fra Hærskarers HERRE, \fIsraels Gud, \fhar jeg meddelt jer.",
+      "text": "\fDu, min tærskede,\fog søn af min tærskeplads!\fDet jeg har hørt fra Hærskarers HERRE,\fIsraels Gud,\fhar jeg meddelt jer.",
       "footnotes": [
         {
           "text": "Dvs. det mishandlede jødiske folk.",
@@ -126,14 +126,14 @@
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 85
+          "position": 83
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 11,
-      "text": "\fUdsagn om Duma. \fDer er en der råber til mig fra Se’ir: \f»Vægter, hvad er der tilbage af natten? \fVægter, hvad er der tilbage af natten?«",
+      "text": "\fUdsagn om Duma.\fDer er en der råber til mig fra Se’ir:\f»Vægter, hvad er der tilbage af natten?\fVægter, hvad er der tilbage af natten?«",
       "title": "Ord mod Edom",
       "footnotes": [
         {
@@ -146,12 +146,12 @@
     },
     {
       "number": 12,
-      "text": "\fVægteren siger: \f»Der kommer morgen, \fmen også nat. \fVil I spørge, så spørg! \fVend tilbage, kom!«",
+      "text": "\fVægteren siger:\f»Der kommer morgen,\fmen også nat.\fVil I spørge, så spørg!\fVend tilbage, kom!«",
       "version": 1681336800000
     },
     {
       "number": 13,
-      "text": "\fUdsagn om dem på steppen. \fI buskadset, på steppen skal I overnatte, \fI, dedanitters karavaner!",
+      "text": "\fUdsagn om dem på steppen.\fI buskadset, på steppen skal I overnatte,\fI, dedanitters karavaner!",
       "title": "Ord mod dem på steppen",
       "footnotes": [
         {
@@ -164,36 +164,36 @@
     },
     {
       "number": 14,
-      "text": "\fTil en tørstig \fskal I bringe vand; \fI der bor i Themas land, \fgå en flygtning i møde med det brød han har brug for.",
+      "text": "\fTil en tørstig\fskal I bringe vand;\fI der bor i Themas land,\fgå en flygtning i møde med det brød han har brug for.",
       "footnotes": [
         {
           "text": "Ordret: »med hans brød«.",
           "type": "T",
-          "position": 117
+          "position": 114
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 15,
-      "text": "\fFor de flygtede for sværd, \ffor et draget sværd, \fog for en spændt bue \fog for en krigs voldsomhed.",
+      "text": "\fFor de flygtede for sværd,\ffor et draget sværd,\fog for en spændt bue\fog for en krigs voldsomhed.",
       "footnotes": [
         {
           "text": "Ordret: »tunghed«.",
           "type": "T",
-          "position": 100
+          "position": 97
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 16,
-      "text": "\fFor sådan sagde JHVH til mig: »Indenfor et år, som en daglejers år, skal det være forbi med al Kedars herlighed.",
+      "text": "\fFor sådan sagde HERREN til mig: »Indenfor et år, som en daglejers år, skal det være forbi med al Kedars herlighed.",
       "version": 1681336800000
     },
     {
       "number": 17,
-      "text": "Og resttallet af buer som Kedars tapre sønner har tilbage, skal være ringe.« For JHVH, Israels Gud, har sagt det.",
+      "text": "Og resttallet af buer som Kedars tapre sønner har tilbage, skal være ringe.« For HERREN, Israels Gud, har sagt det.",
       "version": 1681336800000
     }
   ]

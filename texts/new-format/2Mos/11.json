@@ -20,18 +20,18 @@
   "verses": [
     {
       "number": 1,
-      "text": "Men JHVH sagde til Moses: »Endnu én plage vil jeg bringe over Farao og over Egypten. Derefter vil han lade jer gå herfra. Når han lader jer gå, vil han helt afgjort drive jer fuldstændig ud herfra!",
+      "text": "Men HERREN sagde til Moses: »Endnu én plage vil jeg bringe over Farao og over Egypten. Derefter vil han lade jer gå herfra. Når han lader jer gå, vil han helt afgjort drive jer fuldstændig ud herfra!",
       "title": "Tiende plage annonceres: Drabet på de førstefødte",
       "footnotes": [
         {
           "text": "Den hebraiske tekst har verbet *grš* (»drive«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
           "type": "T",
-          "position": 170
+          "position": 172
         },
         {
           "text": "Meningen med grundtekstens *kālāʰ* er omdiskuteret. Grundbetydningen er: »ødelæggelse«, men her må det – som eneste sted i GT – nok opfattes som adverbium. Det kan da eventuelt oversættes: »ligefrem«. Mere oplagt er det dog enten at det oversættes: »(Når han lader jer gå,) vil det være komplet«, eller som i denne oversættelse knyttet til det følgende: »fuldstændig«.",
           "type": "T",
-          "position": 186
+          "position": 188
         }
       ],
       "version": 1587506400000
@@ -55,12 +55,12 @@
     },
     {
       "number": 3,
-      "text": "JHVH gav folket gunst i egypternes øjne; og manden Moses var meget mægtig i Egyptens land i Faraos tjeneres øjne og i folkets øjne.",
+      "text": "HERREN gav folket gunst i egypternes øjne; og manden Moses var meget mægtig i Egyptens land i Faraos tjeneres øjne og i folkets øjne.",
       "version": 1587506400000
     },
     {
       "number": 4,
-      "text": "Så sagde Moses: »Således har JHVH sagt: ›Ved midnat går jeg ud midt i Egypten.",
+      "text": "Så sagde Moses: »Således har HERREN sagt: ›Ved midnat går jeg ud midt i Egypten.",
       "version": 1587506400000
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "number": 7,
-      "text": "Men ikke en hund skal gø ad alle Israels børn, hverken ad menneske eller kvæg, for at I skal vide at JHVH gør skel mellem egypterne og Israel.‹",
+      "text": "Men ikke en hund skal gø ad alle Israels børn, hverken ad menneske eller kvæg, for at I skal vide at HERREN gør skel mellem egypterne og Israel.‹",
       "footnotes": [
         {
           "text": "Ordret: »ikke en hund skal true/gøre fortræd med sin tunge.«",
@@ -99,12 +99,12 @@
     },
     {
       "number": 9,
-      "text": "JHVH sagde til Moses: »Farao vil ikke høre på jer for at mine undere skal blive mange i Egyptens land.«",
+      "text": "HERREN sagde til Moses: »Farao vil ikke høre på jer for at mine undere skal blive mange i Egyptens land.«",
       "version": 1587506400000
     },
     {
       "number": 10,
-      "text": "Moses og Aron gjorde alle disse undere foran Farao; men JHVH forhærdede Faraos hjerte så han lod ikke Israels børn gå ud af sit land.",
+      "text": "Moses og Aron gjorde alle disse undere foran Farao; men HERREN forhærdede Faraos hjerte så han lod ikke Israels børn gå ud af sit land.",
       "version": 1587506400000
     }
   ]

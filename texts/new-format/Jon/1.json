@@ -1,5 +1,5 @@
 {
-  "book": "Jonas’ Bog",
+  "book": "Jonas' Bog",
   "abbreviation": "Jon",
   "chapter": 1,
   "translation": 75,
@@ -20,133 +20,133 @@
   "verses": [
     {
       "number": 1,
-      "text": "HERRENS ord kom til Jonas, Amittajs søn,\tsom følger:",
+      "text": "HERRENS ord kom til Jonas, Amittajs søn,\n\tsom følger:",
       "title": "Gud kalder Jonas, men han flygter fra Gud",
       "version": 1645570800000
     },
     {
       "number": 2,
-      "text": "\t\tRejs dig,\t\tgå til den store by Nineve,\t\t\t\tog råb ud over den\t\t\tat deres ondskab er nået op til mig.",
+      "text": "\n\t\tRejs dig,\n\t\tgå til den store by Nineve,\n\t\t\t\tog råb ud over den\n\t\t\tat deres ondskab er nået op til mig.",
       "footnotes": [
         {
           "text": "Ordret: »for mit ansigt.«",
           "type": "T",
-          "position": 101
+          "position": 105
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 3,
-      "text": "Men Jonas rejste sig\t\t\tfor at flygte fra HERREN til Tarshish.\t\tHan begav sig ned til Jafo\t\tog fandt et skib\t\t\tsom skulle til Tarshish.\t\tHan betalte for sin overfart\t\tog gik om bord i det\t\t\tfor at rejse med dem til Tarshish, væk fra HERREN.",
+      "text": "Men Jonas rejste sig\n\t\t\tfor at flygte fra HERREN til Tarshish.\n\t\tHan begav sig ned til Jafo\n\t\tog fandt et skib\n\t\t\tsom skulle til Tarshish.\n\t\tHan betalte for sin overfart\n\t\tog gik om bord i det\n\t\t\tfor at rejse med dem til Tarshish, væk fra HERREN.",
       "title": "Jonas og sømændene i stormvejr",
       "footnotes": [
         {
           "text": "Ordret: »væk fra HERRENS ansigt;« tilsvarende senere i verset.",
           "type": "T",
-          "position": 47
+          "position": 48
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 4,
-      "text": "\tMen HERREN sendte stærk vind ned over havet,\t\tså der blev en voldsom storm på havet,\t\t\tog skibet virkede til \t\t\t\tat ville blive slået i stykker.",
+      "text": "\n\tMen HERREN sendte stærk vind ned over havet,\n\t\tså der blev en voldsom storm på havet,\n\t\t\tog skibet virkede til\n\t\t\t\tat ville blive slået i stykker.",
       "footnotes": [
         {
           "text": "Verbet *ḥiššᵊvāʰ* i piel betyder »antage, planlægge«. Når skibet bruges som grundled for et aktivt verbum om erkendelse, er skibet personliggjort og brugt som et billede.",
           "type": "E",
-          "position": 110
+          "position": 112
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 5,
-      "text": "\t\tSøfolkene blev bange\t\t\tog råbte,\t\t\t\t\t\thver især til sin egen gud,\t\t\t\t\tog de smed krukkerne,\t\t\t\t\t\t\t\tsom var på skibet,\t\t\t\t\t\t\ti havet\t\t\t\t\t\tfor at lette skibet for dem.\t\t\t\tMen Jonas gik ned i det nederste del af skibet,\t\t\t\t\t\tlagde sig\t\t\t\t\t\tog faldt i dyb søvn",
+      "text": "\n\t\tSøfolkene blev bange\n\t\t\tog råbte,\n\t\t\t\t\t\thver især til sin egen gud,\n\t\t\t\t\tog de smed krukkerne,\n\t\t\t\t\t\t\t\tsom var på skibet,\n\t\t\t\t\t\t\ti havet\n\t\t\t\t\t\tfor at lette skibet for dem.\n\t\t\t\tMen Jonas gik ned i det nederste del af skibet,\n\t\t\t\t\t\tlagde sig\n\t\t\t\t\t\tog faldt i dyb søvn",
       "version": 1645570800000
     },
     {
       "number": 6,
-      "text": "\t\t\t\t\tKaptajnen gik så ned til ham\t\t\t\t\t\tog sagde til ham:\t\t\t\t\t\t\t»Hvordan kan du dog\t\t\t\t\t\t\t\t\tsove så dybt?\t\t\t\t\t\t\t\tRejs dig,\t\t\t\t\t\t\t\tråb til din Gud,\t\t\t\t\t\t\t\t\tmåske vil guden skænke os en tanke\t\t\t\t\t\t\t\t\t\tså vi ikke går under.«",
+      "text": "\n\t\t\t\t\tKaptajnen gik så ned til ham\n\t\t\t\t\t\tog sagde til ham:\n\t\t\t\t\t\t\t»Hvordan kan du dog\n\t\t\t\t\t\t\t\t\tsove så dybt?\n\t\t\t\t\t\t\t\tRejs dig,\n\t\t\t\t\t\t\t\tråb til din Gud,\n\t\t\t\t\t\t\t\t\tmåske vil guden skænke os en tanke\n\t\t\t\t\t\t\t\t\t\tså vi ikke går under.«",
       "version": 1645570800000
     },
     {
       "number": 7,
-      "text": "\t\t\tSå sagde de\t\t\t\t\t\thver især til hinanden:\t\t\t\t\t»Kom,\t\t\t\t\t\t\tlad os kaste lod\t\t\t\t\t\tog finde ud af\t\t\t\t\t\t\thvem der er skyld i at vi er i havsnød.«\t\t\t\tDe kastede lod,\t\t\t\t\tog loddet faldt på Jonas.",
+      "text": "\n\t\t\tSå sagde de\n\t\t\t\t\t\thver især til hinanden:\n\t\t\t\t\t»Kom,\n\t\t\t\t\t\t\tlad os kaste lod\n\t\t\t\t\t\tog finde ud af\n\t\t\t\t\t\t\thvem der er skyld i at vi er i havsnød.«\n\t\t\t\tDe kastede lod,\n\t\t\t\t\tog loddet faldt på Jonas.",
       "footnotes": [
         {
           "text": "Vendingen *bᵊšellᵊmî* betyder ordret »i som til hvem« og følges her af *hārāʕāʰ hazzōˀt lānû* »dette onde til os.« Det er sikkert talesprog, og lignende formuleringer findes i v. 8 og 12. »Dette onde« bruges her enten om en forfærdelig hændelse i naturen (en voldsom storm) eller om faren for forlis, og dermed den truende ulykke.",
           "type": "E",
-          "position": 142
+          "position": 148
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 8,
-      "text": "\t\t\t\tDa sagde de til ham:\t\t\t\t\t\t»Fortæl os dog\t\t\t\t\t\t\t\thvem der er skyld i at vi er i havsnød\t\t\t\t\t\t\tHvad er dit job,\t\t\t\t\t\t\t\tog hvor kommer du fra?\t\t\t\t\t\t\tHvilket land er du fra,\t\t\t\t\t\t\t\tog hvilket folk er du af?«",
+      "text": "\n\t\t\t\tDa sagde de til ham:\n\t\t\t\t\t\t»Fortæl os dog\n\t\t\t\t\t\t\t\thvem der er skyld i at vi er i havsnød\n\t\t\t\t\t\t\tHvad er dit job,\n\t\t\t\t\t\t\t\tog hvor kommer du fra?\n\t\t\t\t\t\t\tHvilket land er du fra,\n\t\t\t\t\t\t\t\tog hvilket folk er du af?«",
       "version": 1645570800000
     },
     {
       "number": 9,
-      "text": "\t\t\t\t\tHan sagde til dem:\t\t\t\t\t\t»Jeg er hebræer,\t\t\t\t\t\t\tog jeg tilbeder gudfrygtigt  HERREN, himlens Gud,\t\t\t\t\t\t\t\tsom har skabt havet og det tørre land.«",
+      "text": "\n\t\t\t\t\tHan sagde til dem:\n\t\t\t\t\t\t»Jeg er hebræer,\n\t\t\t\t\t\t\tog jeg tilbeder gudfrygtigt HERREN, himlens Gud,\n\t\t\t\t\t\t\t\tsom har skabt havet og det tørre land.«",
       "footnotes": [
         {
           "text": "Verbet *yrʔ* »frygte« bruges både om gudsfrygten i v. 9 og om angst i v. 10. De to forskellige betydninger er brugt som et ironisk stilmiddel, for verbet antyder at den gudfrygtige burde frygte det værste, mens de bange sømænd ender med at handle gudfrygtigt.",
           "type": "E",
-          "position": 80
+          "position": 82
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 10,
-      "text": "\t\tDa blev mændene grebet af stor frygt,\t\t\t\t\t\tog de sagde til ham:\t\t\t\t\t\t\t»Hvad har du dog gjort?«\t\t\t\t\tFor mændene havde fået at vide\t\t\t\t\t\t\tat han var i færd med at flygte fra HERREN,\t\t\t\t\t\tfor det havde han fortalt dem.",
+      "text": "\n\t\tDa blev mændene grebet af stor frygt,\n\t\t\t\t\t\tog de sagde til ham:\n\t\t\t\t\t\t\t»Hvad har du dog gjort?«\n\t\t\t\t\tFor mændene havde fået at vide\n\t\t\t\t\t\t\tat han var i færd med at flygte fra HERREN,\n\t\t\t\t\t\tfor det havde han fortalt dem.",
       "version": 1645570800000
     },
     {
       "number": 11,
-      "text": "\t\t\t\tDe sagde til ham:\t\t\t\t\t\t\t»Hvad skal vi gøre ved dig\t\t\t\t\t\t\t\tså havet kan blive stille for os,«\t\t\t\t\t\tfor havet piskedes hele tiden op\t\t\t\t\t\t\tomkring dem i stormen. ",
+      "text": "\n\t\t\t\tDe sagde til ham:\n\t\t\t\t\t\t\t»Hvad skal vi gøre ved dig\n\t\t\t\t\t\t\t\tså havet kan blive stille for os,«\n\t\t\t\t\t\tfor havet piskedes hele tiden op\n\t\t\t\t\t\t\tomkring dem i stormen.",
       "footnotes": [
         {
           "text": "I sætningen *hayyām hôlēx wᵊsōʕēr ʕᵃlêhem* »havet [var] gående og stormende over dem« bruges navneordet *storm* som verbum; det sker kun her og i v. 13, og det bruges i hebraisk som stilistisk gentagelse.",
           "type": "E",
-          "position": 164
+          "position": 168
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 12,
-      "text": "\t\t\t\t\tHan sagde til dem:\t\t\t\t\t\t»Løft mig op\t\t\t\t\t\t\t\t\tog kast mig i havet,\t\t\t\t\t\t\t\tså vil havet blive roligt for jer,\t\t\t\t\t\t\tfor jeg ved\t\t\t\t\t\t\t\tat det er mig der er skyld i at I er i denne voldsomme storm.«",
+      "text": "\n\t\t\t\t\tHan sagde til dem:\n\t\t\t\t\t\t»Løft mig op\n\t\t\t\t\t\t\t\t\tog kast mig i havet,\n\t\t\t\t\t\t\t\tså vil havet blive roligt for jer,\n\t\t\t\t\t\t\tfor jeg ved\n\t\t\t\t\t\t\t\tat det er mig der er skyld i at I er i denne voldsomme storm.«",
       "version": 1645570800000
     },
     {
       "number": 13,
-      "text": "\t\t\tMændene roede\t\t\t\t\t\tfor at nå tilbage til det tørre land,\t\t\t\t\tmen de kunne ikke,\t\t\t\t\t\tfor havet vedblev med\t\t\t\t\t\t\tat piskes op af i stormen over dem.",
+      "text": "\n\t\t\tMændene roede\n\t\t\t\t\t\tfor at nå tilbage til det tørre land,\n\t\t\t\t\tmen de kunne ikke,\n\t\t\t\t\t\tfor havet vedblev med\n\t\t\t\t\t\t\tat piskes op af i stormen over dem.",
       "version": 1645570800000
     },
     {
       "number": 14,
-      "text": "\t\t\t\tDa råbte de til HERREN\t\t\t\tog sagde:\t\t\t\t\t»Åh, HERRE,\t\t\t\t\t\t\tlad os dog ikke gå under på grund af denne mand.\t\t\t\t\t\t\t\tBring ikke uskyldigt blod over os,\t\t\t\t\t\tfor du,\t\t\t\t\t\t\t\tHERRE,\t\t\t\t\t\t\t\thvad du ville,\t\t\t\t\t\t\thar du gjort.«",
+      "text": "\n\t\t\t\tDa råbte de til HERREN\n\t\t\t\tog sagde:\n\t\t\t\t\t»Åh, HERRE,\n\t\t\t\t\t\t\tlad os dog ikke gå under på grund af denne mand.\n\t\t\t\t\t\t\t\tBring ikke uskyldigt blod over os,\n\t\t\t\t\t\tfor du,\n\t\t\t\t\t\t\t\tHERRE,\n\t\t\t\t\t\t\t\thvad du ville,\n\t\t\t\t\t\t\thar du gjort.«",
       "footnotes": [
         {
           "text": "Ordret: »Giv.«",
           "type": "T",
-          "position": 123
+          "position": 128
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 15,
-      "text": "\t\t\t\tOg de løftede Jonas op\t\t\t\t\tog kastede ham i havet.\t\t\t\t\t\tDa faldt havet til ro efter sin voldsomme rasen.",
+      "text": "\n\t\t\t\tOg de løftede Jonas op\n\t\t\t\t\tog kastede ham i havet.\n\t\t\t\t\t\tDa faldt havet til ro efter sin voldsomme rasen.",
       "version": 1645570800000
     },
     {
       "number": 16,
-      "text": "\t\tEn stor frygt for HERREN greb mændene.\t\t\tDe ofrede et slagtoffer til HERREN\t\t\t\tog aflagde løfter.",
+      "text": "\n\t\tEn stor frygt for HERREN greb mændene.\n\t\t\tDe ofrede et slagtoffer til HERREN\n\t\t\t\tog aflagde løfter.",
       "version": 1645570800000
     }
   ]

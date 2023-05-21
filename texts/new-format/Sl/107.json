@@ -20,25 +20,25 @@
   "verses": [
     {
       "number": 1,
-      "text": "Tak JHVH, for han er god,\ffor hans nåde varer til evig tid.",
+      "text": "Tak HERREN, for han er god,\ffor hans nåde varer til evig tid.",
       "title": "Opfordring til taksigelse",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 39
+          "position": 41
         }
       ],
       "version": 1646002800000
     },
     {
       "number": 2,
-      "text": "\fDet skal JHVHs genløste sige,\fdem som han har genløst af fjendes hånd,",
+      "text": "\fDet skal HERRENS genløste sige,\fdem som han har genløst af fjendes hånd,",
       "footnotes": [
         {
           "text": "Grundtekstens: *ṣār* (»fjende«) kan også oversættes: »nød«, og sådan må det oversættes videre gennem salmen (v.6.13.19.28).",
           "type": "E",
-          "position": 65
+          "position": 67
         }
       ],
       "version": 1646002800000
@@ -85,7 +85,7 @@
     },
     {
       "number": 6,
-      "text": "\fDe råbte til JHVH i deres nød,\fhan reddede dem ud af deres trængsler.",
+      "text": "\fDe råbte til HERREN i deres nød,\fhan reddede dem ud af deres trængsler.",
       "version": 1646002800000
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "number": 8,
-      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn,",
+      "text": "\fDe skal takke HERREN for hans nåde\fog for hans undere mod menneskebørn,",
       "version": 1646002800000
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "number": 13,
-      "text": "\fDe råbte til JHVH i deres nød,\fhan frelste dem af deres trængsler.",
+      "text": "\fDe råbte til HERREN i deres nød,\fhan frelste dem af deres trængsler.",
       "version": 1646002800000
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "number": 15,
-      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn,",
+      "text": "\fDe skal takke HERREN for hans nåde\fog for hans undere mod menneskebørn,",
       "version": 1646002800000
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "number": 19,
-      "text": "\fDa råbte de til JHVH i deres nød,\fhan frelste dem fra deres trængsler.",
+      "text": "\fDa råbte de til HERREN i deres nød,\fhan frelste dem fra deres trængsler.",
       "version": 1646002800000
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "number": 21,
-      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn,",
+      "text": "\fDe skal takke HERREN for hans nåde\fog for hans undere mod menneskebørn,",
       "version": 1646002800000
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "number": 24,
-      "text": "\fde så JHVHs gerninger\fog hans undere på dybet.",
+      "text": "\fde så HERRENS gerninger\fog hans undere på dybet.",
       "version": 1646002800000
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "number": 28,
-      "text": "\fDa råbte de til JHVH i deres nød,\fhan frelste dem fra deres trængsler.",
+      "text": "\fDa råbte de til HERREN i deres nød,\fhan frelste dem fra deres trængsler.",
       "version": 1646002800000
     },
     {
@@ -314,7 +314,7 @@
     },
     {
       "number": 31,
-      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn",
+      "text": "\fDe skal takke HERREN for hans nåde\fog for hans undere mod menneskebørn",
       "version": 1646002800000
     },
     {
@@ -325,7 +325,7 @@
     {
       "number": 33,
       "text": "\fHan kan gøre floder til en ørken\fog kildevæld til udtørret jord,",
-      "title": "Lovprisning af JHVHs magt og trofasthed",
+      "title": "Lovprisning af HERRENS magt og trofasthed",
       "version": 1646002800000
     },
     {
@@ -382,12 +382,12 @@
     },
     {
       "number": 43,
-      "text": "\fDen som er vís, skal give agt dette,\fog de skal reflektere over JHVHs nåde!",
+      "text": "\fDen som er vís, skal give agt dette,\fog de skal reflektere over HERRENS nåde!",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 75
+          "position": 77
         }
       ],
       "version": 1646002800000

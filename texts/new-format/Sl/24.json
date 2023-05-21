@@ -16,13 +16,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fEn salme af David.\f\fJHVHs er jorden og dens fylde,\fverden og dens beboere.",
+      "text": "\fEn salme af David.\f\fHERRENS er jorden og dens fylde,\fverden og dens beboere.",
       "title": "Overskrift",
       "footnotes": [
         {
           "text": "Der er især tænkt på det dyrkede land",
           "type": "T",
-          "position": 58
+          "position": 60
         }
       ],
       "version": 1466114400000
@@ -30,7 +30,7 @@
     {
       "number": 2,
       "text": "For han grundlagde den på havene;\fgjorde den fast på strømmene.",
-      "title": "David lovpriser JHVH, som er herre over alle ting",
+      "title": "David lovpriser HERREN, som er herre over alle ting",
       "footnotes": [
         {
           "text": "I det gammeltestamentlige verdensbillede (kosmologi) opfattede man jorden som fastgjort på søjler over det store underjordiske urhav eller strømmene, som det også kan kaldes.",
@@ -42,7 +42,7 @@
     },
     {
       "number": 3,
-      "text": "\fHvem kan gå op på JHVHs bjerg?\fHvem kan stå på hans hellige sted?",
+      "text": "\fHvem kan gå op på HERRENS bjerg?\fHvem kan stå på hans hellige sted?",
       "title": "Betingelsen for at et menneske kan træde ind i Guds tempel",
       "version": 1466114400000
     },
@@ -53,7 +53,7 @@
     },
     {
       "number": 5,
-      "text": "\fHan skal få velsignelse fra JHVH;\fretfærdighed fra sin frelses Gud.",
+      "text": "\fHan skal få velsignelse fra HERREN;\fretfærdighed fra sin frelses Gud.",
       "version": 1466114400000
     },
     {
@@ -76,12 +76,12 @@
     {
       "number": 7,
       "text": "\fLøft, I porte, jeres hoveder;\fløft jer, I ældgamle døre,\fså ærens konge kan drage ind!",
-      "title": "JHVH holder sejrrigt indtog i helligdommen",
+      "title": "HERREN holder sejrrigt indtog i helligdommen",
       "version": 1466114400000
     },
     {
       "number": 8,
-      "text": "\fHvem er denne ærens konge?\fJHVH, stærk og mægtig,\fJHVH, mægtig i krig.",
+      "text": "\fHvem er denne ærens konge?\fHERREN, stærk og mægtig,\fHERREN, mægtig i krig.",
       "version": 1466114400000
     },
     {
@@ -98,12 +98,12 @@
     },
     {
       "number": 10,
-      "text": "\fHvem er han, den ærens konge?\fHærskarers  JHVHv,\fhan er ærens konge! Sela",
+      "text": "\fHvem er han, den ærens konge?\fHærskarers HERRE,\fhan er ærens konge! Sela",
       "footnotes": [
         {
           "text": "I ældre tid oversat: »Zebaoth«.",
           "type": "T",
-          "position": 42
+          "position": 41
         }
       ],
       "version": 1466114400000

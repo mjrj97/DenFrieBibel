@@ -182,7 +182,7 @@
     },
     {
       "number": 17,
-      "text": "\fJeg vil råbe til Gud,\fog JHVH skal frelse mig.",
+      "text": "\fJeg vil råbe til Gud,\fog HERREN skal frelse mig.",
       "title": "Tillid til at Gud hører",
       "version": 1500242400000
     },
@@ -240,13 +240,13 @@
     },
     {
       "number": 23,
-      "text": "\fKast din byrde på JHVH,\fså vil han holde dig oppe.\fhan lader ikke for evigt\fden retfærdige rokkes.",
+      "text": "\fKast din byrde på HERREN,\fså vil han holde dig oppe.\fhan lader ikke for evigt\fden retfærdige rokkes.",
       "title": "Opmuntringsord",
       "footnotes": [
         {
           "text": "Ordret: »Han skal ikke for evigt lægge vaklen hen til den retfærdige«.",
           "type": "T",
-          "position": 99
+          "position": 101
         }
       ],
       "version": 1500242400000

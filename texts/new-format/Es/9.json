@@ -24,31 +24,31 @@
   "verses": [
     {
       "number": 1,
-      "text": "Det folk\t\t\t\t\tder vandrer i mørket, \f\t\t\t\tskal se et stort lys; \f\t\t\tde der bor i dødsskyggens land, \f\t\t\t\tover dem skal et lys skinne.",
+      "text": "Det folk\n\t\t\t\t\tder vandrer i mørket,\f\n\t\t\t\tskal se et stort lys;\f\n\t\t\tde der bor i dødsskyggens land,\f\n\t\t\t\tover dem skal et lys skinne.",
       "footnotes": [
         {
           "text": "Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: »dødsskygge«, men ofte vokaliseres: *ṣalmut*, der skal oversættes: »mørke«.",
           "type": "E",
-          "position": 91
+          "position": 92
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 2,
-      "text": "\f\t\tDu gør folket talrigt, \f\t\t\t\tfor det gør du glæden stor; \f\t\t\tde skal glæde sig for dit ansigt, \fsom glæden er om høsten, \f\t\t\t\t\tligesom man jubler \f\t\t\t\t\t\tnår man fordeler bytte.",
+      "text": "\f\n\t\tDu gør folket talrigt,\f\n\t\t\t\tfor det gør du glæden stor;\f\n\t\t\tde skal glæde sig for dit ansigt,\fsom glæden er om høsten,\f\n\t\t\t\t\tligesom man jubler\f\n\t\t\t\t\t\tnår man fordeler bytte.",
       "footnotes": [
         {
           "text": "Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: »jubelen« (*haggilā*) i stedet for: »dets folk« (*haggôy lôʔ*), der dog også kræver en tekstændring fra: *loʔ* (»ikke«) til: *lô* (»dets/for det«), der har støtte i mange håndskrifter og i vokaliseringen, og i alle tilfælde må forudsættes, også i denne oversættelse.",
           "type": "E",
-          "position": 16
+          "position": 17
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 3,
-      "text": "\f\t\t\t\tFor åget der tynger det, \fog stangen over dets skulder, \fdets slavefogeds stav \f\t\t\t\t\t\t\tbrækker du\t\t\t\t\t\tsom på Midjans dag.",
+      "text": "\f\n\t\t\t\tFor åget der tynger det,\fog stangen over dets skulder,\fdets slavefogeds stav\f\n\t\t\t\t\t\t\tbrækker du\n\t\t\t\t\t\tsom på Midjans dag.",
       "footnotes": [
         {
           "text": "Det hebraiske ord betegner den øverste del af ryggen, hvor der typisk bliver slået.",
@@ -60,138 +60,138 @@
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\t\tFor hver støvle der tramper i krigslarm, \f\t\t\t\t\t\t\tog hver kappe der er sølet til i blod, \f\t\t\t\t\t\tden skal brændes, \fvære føde for ild.",
+      "text": "\f\n\t\t\t\t\tFor hver støvle der tramper i krigslarm,\f\n\t\t\t\t\t\t\tog hver kappe der er sølet til i blod,\f\n\t\t\t\t\t\tden skal brændes,\fvære føde for ild.",
       "version": 1675983600000
     },
     {
       "number": 5,
-      "text": "\f\t\t\t\t\t\t\tFor et barn er født os, \f\t\t\t\t\t\t\t\ten søn er givet os, \f\t\t\t\t\t\t\t\t\tog herredømmet skal være på hans skulder, \f\t\t\t\t\t\t\t\t\t\t\tog man skal kalde ham \fUnderfuld Rådgiver, \fVældig Gud, \fEvighedsfader, \fFredsfyrste.",
+      "text": "\f\n\t\t\t\t\t\t\tFor et barn er født os,\f\n\t\t\t\t\t\t\t\ten søn er givet os,\f\n\t\t\t\t\t\t\t\t\tog herredømmet skal være på hans skulder,\f\n\t\t\t\t\t\t\t\t\t\t\tog man skal kalde ham\fUnderfuld Rådgiver,\fVældig Gud,\fEvighedsfader,\fFredsfyrste.",
       "version": 1675983600000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\t\t\t\t\t\t\tPå herredømmets storhed og på freden vil der ikke blive nogen ende \ffor Davids trone og for hans rige, \f\t\t\t\t\t\t\t\t\t\t\t\tså han kan grundfæste det \f\t\t\t\t\t\t\t\t\t\t\t\t\tog understøtte det \fmed ret og retfærdighed \ffra nu og til evig tid; \f\t\t\t\t\t\t\t\t\t\t\tHærskarers HERRES nidkærhed skal gøre dette.",
+      "text": "\f\n\t\t\t\t\t\t\t\t\t\tPå herredømmets storhed og på freden vil der ikke blive nogen ende\ffor Davids trone og for hans rige,\f\n\t\t\t\t\t\t\t\t\t\t\t\tså han kan grundfæste det\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog understøtte det\fmed ret og retfærdighed\ffra nu og til evig tid;\f\n\t\t\t\t\t\t\t\t\t\t\tHærskarers HERRES nidkærhed skal gøre dette.",
       "footnotes": [
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 258
+          "position": 256
         },
         {
           "text": "Det hebraiske ord er betegnelse for jalousi og lidenskab.",
           "type": "T",
-          "position": 275
+          "position": 273
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 7,
-      "text": "\f\tHerren har sendt et ord mod Jakob, \f\t\t\tog det er faldet over Israel,",
+      "text": "\f\n\tHerren har sendt et ord mod Jakob,\f\n\t\t\tog det er faldet over Israel,",
       "title": "Domsord mod det selvsikre folk",
       "version": 1675983600000
     },
     {
       "number": 8,
-      "text": "\f\t\tog hele folket skal lære det at kende, \fEfraim og Samarias indbyggere, \fder i hovmod og hjertets overmod \f\t\t\t\tsiger:",
+      "text": "\f\n\t\tog hele folket skal lære det at kende,\fEfraim og Samarias indbyggere,\fder i hovmod og hjertets overmod\f\n\t\t\t\tsiger:",
       "version": 1675983600000
     },
     {
       "number": 9,
-      "text": "\f\t\t\t\t\t»Teglstenene er faldet, \f\t\t\t\t\t\tmen vi vil bygge med kvadersten; \f\t\t\t\t\tmorbærtræerne er fældet, \f\t\t\t\t\t\tmen vi vil sætte cedertræer i stedet!«",
+      "text": "\f\n\t\t\t\t\t»Teglstenene er faldet,\f\n\t\t\t\t\t\tmen vi vil bygge med kvadersten;\f\n\t\t\t\t\tmorbærtræerne er fældet,\f\n\t\t\t\t\t\tmen vi vil sætte cedertræer i stedet!«",
       "version": 1675983600000
     },
     {
       "number": 10,
-      "text": "\f\t\t\tMen JHVH har rejst Resins fjender imod ham,\f\t\t\t\t\t\t\tog han vil hidse hans modstandere op.",
+      "text": "\f\n\t\t\tMen HERREN har rejst Resins fjender imod ham,\f\n\t\t\t\t\t\t\tog han vil hidse hans modstandere op.",
       "version": 1675983600000
     },
     {
       "number": 11,
-      "text": "\f\t\t\t\t\t\tAram fra øst\t\t\t\t\t\t\t\tog filistrene fra vest, \f\t\t\t\t\t\t\tde fortærer Israel i én mundfuld. \f\t\t\t\t\tTrods det har hans vrede ikke lagt sig, \f\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
+      "text": "\f\n\t\t\t\t\t\tAram fra øst\n\t\t\t\t\t\t\t\tog filistrene fra vest,\f\n\t\t\t\t\t\t\tde fortærer Israel i én mundfuld.\f\n\t\t\t\t\tTrods det har hans vrede ikke lagt sig,\f\n\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »forfra«.",
           "type": "T",
-          "position": 19
+          "position": 20
         },
         {
           "text": "Kan også oversættes: »bagfra«.",
           "type": "T",
-          "position": 50
+          "position": 52
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 12,
-      "text": "\f\t\t\t\tFolket er ikke vendt om til ham\t\t\t\t\t\t\tder slog det,\t\t\t\t\t\tog har ikke søgt Hærskarers HERRE,",
+      "text": "\f\n\t\t\t\tFolket er ikke vendt om til ham\n\t\t\t\t\t\t\tder slog det,\n\t\t\t\t\t\tog har ikke søgt Hærskarers HERRE,",
       "footnotes": [
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 96
+          "position": 99
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 13,
-      "text": "\f\t\t\t\t\tDerfor vil JHVH hugge hoved og hale af Israel, \fpalmegren og siv på samme dag.",
+      "text": "\f\n\t\t\t\t\tDerfor vil HERREN hugge hoved og hale af Israel,\fpalmegren og siv på samme dag.",
       "version": 1675983600000
     },
     {
       "number": 14,
-      "text": "\f\t\t\t\t\t\t\tGammel og anset, \f\t\t\t\t\t\t\t\t\than er hovedet; \f\t\t\t\t\t\t\t\tmen en profet\t\t\t\t\t\t\t\t\t\tder lærer løgn, \f\t\t\t\t\t\t\t\t\than er halen.",
+      "text": "\f\n\t\t\t\t\t\t\tGammel og anset,\f\n\t\t\t\t\t\t\t\t\than er hovedet;\f\n\t\t\t\t\t\t\t\tmen en profet\n\t\t\t\t\t\t\t\t\t\tder lærer løgn,\f\n\t\t\t\t\t\t\t\t\than er halen.",
       "version": 1675983600000
     },
     {
       "number": 15,
-      "text": "\f\t\t\t\t\t\tDette folks vejledere har forført det, \f\t\t\t\t\t\t\t\tog de der er blevet vejledt, er ført vild.",
+      "text": "\f\n\t\t\t\t\t\tDette folks vejledere har forført det,\f\n\t\t\t\t\t\t\t\tog de der er blevet vejledt, er ført vild.",
       "version": 1675983600000
     },
     {
       "number": 16,
-      "text": "\f\t\t\t\t\t\t\tDerfor kan Herren ikke glæde sig over dets unge mænd \f\t\t\t\t\t\t\t\t\t\tog ikke forbarme sig over dets faderløse og dets enker; \f\t\t\t\t\t\t\t\t\tfor enhver i det er gudløs og handler ondt, \f\t\t\t\t\t\t\t\t\t\tog hver mund taler tåbelighed. \f\t\t\t\t\t\t\t\tTrods det har hans vrede ikke lagt sig, \f\t\t\t\t\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
+      "text": "\f\n\t\t\t\t\t\t\tDerfor kan Herren ikke glæde sig over dets unge mænd\f\n\t\t\t\t\t\t\t\t\t\tog ikke forbarme sig over dets faderløse og dets enker;\f\n\t\t\t\t\t\t\t\t\tfor enhver i det er gudløs og handler ondt,\f\n\t\t\t\t\t\t\t\t\t\tog hver mund taler tåbelighed.\f\n\t\t\t\t\t\t\t\tTrods det har hans vrede ikke lagt sig,\f\n\t\t\t\t\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
       "version": 1675983600000
     },
     {
       "number": 17,
-      "text": "\f\t\t\t\t\t\t\t\t\t\t\tFor skændsel brænder som en ild, \f\t\t\t\t\t\t\t\t\t\t\t\tden fortærer tjørn og tidsel \f\t\t\t\t\t\t\t\t\t\t\t\t\tog antænder skovens tykninger, \f\t\t\t\t\t\t\t\t\t\t\t\t\t\tog de skal hvirvle op i røg.",
+      "text": "\f\n\t\t\t\t\t\t\t\t\t\t\tFor skændsel brænder som en ild,\f\n\t\t\t\t\t\t\t\t\t\t\t\tden fortærer tjørn og tidsel\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog antænder skovens tykninger,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog de skal hvirvle op i røg.",
       "version": 1675983600000
     },
     {
       "number": 18,
-      "text": "\f\t\t\t\t\t\t\t\t\tVed Hærskarers HERRES vrede er landet sat i brand; \f\t\t\t\t\t\t\t\t\t\tog folket er som føde for ild, \f\t\t\t\t\t\t\t\t\t\t\tingen skåner\t\t\t\t\t\t\t\t\t\t\t\tsin bror.",
+      "text": "\f\n\t\t\t\t\t\t\t\t\tVed Hærskarers HERRES vrede er landet sat i brand;\f\n\t\t\t\t\t\t\t\t\t\tog folket er som føde for ild,\f\n\t\t\t\t\t\t\t\t\t\t\tingen skåner\n\t\t\t\t\t\t\t\t\t\t\t\tsin bror.",
       "footnotes": [
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 31
+          "position": 32
         },
         {
           "text": "Det hebraiske verbum *ʕtm* forekommer kun her, og betydningen er usikker og omdiskuteret. Septuaginta har tilsyneladende læst verbet: *nṣh*: »blevet ødelagt«.",
           "type": "E",
-          "position": 60
+          "position": 61
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 19,
-      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tMan sluger i sig til højre, \f\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen sulter, \f\t\t\t\t\t\t\t\t\t\t\t\t\tog man æder til venstre, \f\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen mættes ikke; \f\t\t\t\t\t\t\t\t\t\t\t\tenhver æder\t\t\t\t\t\t\t\t\t\t\t\t\tkødet af sin arm,",
+      "text": "\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tMan sluger i sig til højre,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen sulter,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog man æder til venstre,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen mættes ikke;\f\n\t\t\t\t\t\t\t\t\t\t\t\tenhver æder\n\t\t\t\t\t\t\t\t\t\t\t\t\tkødet af sin arm,",
       "footnotes": [
         {
           "text": "Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* »sin arm« skal læses: *reʕô*: »sin landsmand«. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.",
           "type": "E",
-          "position": 194
+          "position": 196
         }
       ],
       "version": 1675983600000
     },
     {
       "number": 20,
-      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tManasse mod Efraim \f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog Efraim mod Manasse; \f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tde falder sammen over Juda. \f\t\t\t\t\t\t\t\t\t\t\t\t\t\tTrods det har hans vrede ikke lagt sig, \f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
+      "text": "\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tManasse mod Efraim\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog Efraim mod Manasse;\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tde falder sammen over Juda.\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tTrods det har hans vrede ikke lagt sig,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen hans hånd er stadig udstrakt.",
       "version": 1675983600000
     }
   ]

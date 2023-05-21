@@ -16,8 +16,8 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fMen nu, sådan siger JHVH, der skabte dig, Jakob, og dannede dig, Israel: Vær ikke bange, for jeg har betalt løsepenge for dig, jeg kaldte dig ved navn, du er min.",
-      "title": "JHVH lover at udfri og beskytte sine troende og at ville samle hedningerne til sin menighed, 1-7; viser, at afguderne er tomhed, og at han alene er den sande Gud, 8-13; han vil især vise det, når han udfrier sit folk af det babyloniske fængsel, ikke fordi de er værdige, men på grund af sin egen nåde og forsoning, 14-28.",
+      "text": "\fMen nu, sådan siger HERREN, der skabte dig, Jakob, og dannede dig, Israel: Vær ikke bange, for jeg har betalt løsepenge for dig, jeg kaldte dig ved navn, du er min.",
+      "title": "HERREN lover at udfri og beskytte sine troende og at ville samle hedningerne til sin menighed, 1-7; viser, at afguderne er tomhed, og at han alene er den sande Gud, 8-13; han vil især vise det, når han udfrier sit folk af det babyloniske fængsel, ikke fordi de er værdige, men på grund af sin egen nåde og forsoning, 14-28.",
       "version": 1479423600000
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "number": 3,
-      "text": "For jeg er JHVH din Gud, Israels Hellige, din frelser; jeg giver Egypten som løsepenge for dig, Etiopien og Seba i stedet for dig.",
+      "text": "For jeg er HERREN din Gud, Israels Hellige, din frelser; jeg giver Egypten som løsepenge for dig, Etiopien og Seba i stedet for dig.",
       "version": 1479423600000
     },
     {
@@ -62,17 +62,17 @@
     },
     {
       "number": 10,
-      "text": "I er mine vidner, siger JHVH, og min tjener, som jeg udvalgte, for at I skulle vide det og tro mig og forstå, at jeg er; før mig er der ikke dannet nogen gud, og efter mig skal der ikke være nogen.",
+      "text": "I er mine vidner, siger HERREN, og min tjener, som jeg udvalgte, for at I skulle vide det og tro mig og forstå, at jeg er; før mig er der ikke dannet nogen gud, og efter mig skal der ikke være nogen.",
       "version": 1479423600000
     },
     {
       "number": 11,
-      "text": "Jeg er JHVH, og der er ingen frelser uden mig.",
+      "text": "Jeg er HERREN, og der er ingen frelser uden mig.",
       "version": 1479423600000
     },
     {
       "number": 12,
-      "text": "Jeg har bekendtgjort det og har frelst og ladet jer høre det, og der var ingen fremmed gud iblandt jer; og I er mine vidner, siger JHVH, på, at jeg er Gud.",
+      "text": "Jeg har bekendtgjort det og har frelst og ladet jer høre det, og der var ingen fremmed gud iblandt jer; og I er mine vidner, siger HERREN, på, at jeg er Gud.",
       "version": 1479423600000
     },
     {
@@ -82,17 +82,17 @@
     },
     {
       "number": 14,
-      "text": "\fSådan siger JHVH, jeres løskøber, Israels Hellige: For jeres skyld sender jeg bud til Babylon og lader alle dem sammen med kaldæerne blive jaget som flygtninge ned på skibene, som de frydede sig på.",
+      "text": "\fSådan siger HERREN, jeres løskøber, Israels Hellige: For jeres skyld sender jeg bud til Babylon og lader alle dem sammen med kaldæerne blive jaget som flygtninge ned på skibene, som de frydede sig på.",
       "version": 1479423600000
     },
     {
       "number": 15,
-      "text": "Jeg er JHVH, jeres Hellige, Israels skaber, jeres konge.",
+      "text": "Jeg er HERREN, jeres Hellige, Israels skaber, jeres konge.",
       "version": 1479423600000
     },
     {
       "number": 16,
-      "text": "Sådan siger JHVH, han, der lagde en vej i havet og en sti i de mægtige vande,",
+      "text": "Sådan siger HERREN, han, der lagde en vej i havet og en sti i de mægtige vande,",
       "version": 1479423600000
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "number": 24,
-      "text": "Du købte ikke kalmus  til mig for penge, du gav mig ikke dine slagtofres fedt i overflod; men du plagede mig med dine synder, du gav mig besvær med dine misgerninger.",
+      "text": "Du købte ikke kalmus til mig for penge, du gav mig ikke dine slagtofres fedt i overflod; men du plagede mig med dine synder, du gav mig besvær med dine misgerninger.",
       "footnotes": [
         {
           "text": "En vellugtende plante, hvis rod også brugtes som lægemiddel",
           "type": "T",
-          "position": 21
+          "position": 20
         }
       ],
       "version": 1479423600000
@@ -154,12 +154,12 @@
     },
     {
       "number": 27,
-      "text": "Din første far  syndede, og dine talsmænd har forbrudt sig imod mig.",
+      "text": "Din første far syndede, og dine talsmænd har forbrudt sig imod mig.",
       "footnotes": [
         {
           "text": "Jakob",
           "type": "T",
-          "position": 15
+          "position": 14
         }
       ],
       "version": 1479423600000

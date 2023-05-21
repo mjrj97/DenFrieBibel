@@ -20,21 +20,21 @@
   "verses": [
     {
       "number": 1,
-      "text": "På den dag skal du sige: \f»Jeg vil takke dig, JHVH, for du har været vred på mig, \fdin vrede har lagt sig, så du trøster mig.",
+      "text": "På den dag skal du sige:\f»Jeg vil takke dig, HERREN, for du har været vred på mig,\fdin vrede har lagt sig, så du trøster mig.",
       "title": "Det frelste Israels lovsang",
       "version": 1674774000000
     },
     {
       "number": 2,
-      "text": "\fSe, Gud er min frelse, \fjeg vil være tryg og ikke frygte, \ffor min styrke og min lovsang er JHVH, JHVH, \fog han blev mig til frelse.«",
+      "text": "\fSe, Gud er min frelse,\fjeg vil være tryg og ikke frygte,\ffor min styrke og min lovsang er HERREN, HERREN,\fog han blev mig til frelse.«",
       "footnotes": [
         {
           "text": "Formen på ordet: *zimrāt* (»min lovsang«) er speciel idet det mangler suffixet, bogstavet »jod«: *-î* (»min«). Det er også tilfældet i 2 Mos 15,2 og Sl 118,14, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: »jod«. Man har formodentlig villet undgå de to gange »jod« op ad hinanden.",
           "type": "E",
-          "position": 89
+          "position": 87
         },
         {
-          "text": "Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "text": "Guds navn (HERREN) står her i kortformen: *yāh*, svarende blot til »JH«. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
           "type": "E",
           "position": 98
         }
@@ -43,22 +43,22 @@
     },
     {
       "number": 3,
-      "text": "\fI skal øse vand med glæde \faf frelsens kilder.",
+      "text": "\fI skal øse vand med glæde\faf frelsens kilder.",
       "version": 1674774000000
     },
     {
       "number": 4,
-      "text": "\fPå den dag skal I sige: \f»Tak JHVH, påkald hans navn, \fkundgør hans gerninger blandt folkeslagene, \fforkynd at hans navn er stort.«",
+      "text": "\fPå den dag skal I sige:\f»Tak HERREN, påkald hans navn,\fkundgør hans gerninger blandt folkeslagene,\fforkynd at hans navn er stort.«",
       "version": 1674774000000
     },
     {
       "number": 5,
-      "text": "\fLovsyng JHVH, for han har gjort herlige ting, \fdet være kendt på hele jorden.",
+      "text": "\fLovsyng HERREN, for han har gjort herlige ting,\fdet være kendt på hele jorden.",
       "version": 1674774000000
     },
     {
       "number": 6,
-      "text": "\fBryd ud i jubel og råb af fryd, du Zions beboer, \ffor Israels Hellige er stor i din midte.",
+      "text": "\fBryd ud i jubel og råb af fryd, du Zions beboer,\ffor Israels Hellige er stor i din midte.",
       "footnotes": [
         {
           "text": "Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.",

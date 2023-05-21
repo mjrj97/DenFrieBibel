@@ -64,17 +64,17 @@
     },
     {
       "number": 4,
-      "text": "\fMen I skal vide at JHVH har udvalgt sig en der er from;\fJHVH hører, når jeg råber til ham.",
+      "text": "\fMen I skal vide at HERREN har udvalgt sig en der er from;\fHERREN hører, når jeg råber til ham.",
       "footnotes": [
         {
           "text": "Verbet forekommer kun her og i 2 Mos 8,18; 9,4; 11,7; 33,16, hvor Israels udvælgelse og kald pointeres.",
           "type": "E",
-          "position": 36
+          "position": 38
         },
         {
-          "text": "Sætningen er omdiskuteret. Oftest foretager man små tekstrettelser så der kan oversættes: »JHVH har vist sin underfulde troskab mod mig«.",
+          "text": "Sætningen er omdiskuteret. Oftest foretager man små tekstrettelser så der kan oversættes: »HERREN har vist sin underfulde troskab mod mig«.",
           "type": "E",
-          "position": 55
+          "position": 57
         }
       ],
       "version": 1486335600000
@@ -98,7 +98,7 @@
     },
     {
       "number": 6,
-      "text": "\fBring retfærdigheds ofre,\fog stol på JHVH!",
+      "text": "\fBring retfærdigheds ofre,\fog stol på HERREN!",
       "footnotes": [
         {
           "text": "Ofre der bringer retfærdighed fordi de er bragt af et menneske der længes efter Guds retfærdighed.",
@@ -110,7 +110,7 @@
     },
     {
       "number": 7,
-      "text": "\fMange siger: Hvem vil lade os opleve godt?\fLøft over os dit ansigts lys, JHVHv!",
+      "text": "\fMange siger: Hvem vil lade os opleve godt?\fLøft over os dit ansigts lys, HERRE!",
       "title": "Davids bøn og tillid til Gud",
       "footnotes": [
         {
@@ -135,10 +135,10 @@
     },
     {
       "number": 9,
-      "text": "I fred vil jeg både lægge mig og sove,\ffor du, JHVHv! lader mig bo ene i tryghed.",
+      "text": "I fred vil jeg både lægge mig og sove,\ffor du, HERRE! lader mig bo ene i tryghed.",
       "footnotes": [
         {
-          "text": "Andre knytter ordet *lᵊvādād* til JHVH: »for alene du, JHVHv, lader mig bo i tryghed«.",
+          "text": "Andre knytter ordet *lᵊvādād* til HERREN: »for alene du, HERRE, lader mig bo i tryghed«.",
           "type": "E",
           "position": 70
         }

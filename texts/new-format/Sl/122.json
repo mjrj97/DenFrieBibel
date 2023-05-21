@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Valfartssang. Af David.\fJeg glædede mig over dem som sagde til mig:\f»Vi vil gå til JHVHs hus.«",
+      "text": "Valfartssang. Af David.\fJeg glædede mig over dem som sagde til mig:\f»Vi vil gå til HERRENS hus.«",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -59,17 +59,17 @@
     },
     {
       "number": 4,
-      "text": "\fhvortil stammerne drog op,\fJHVHs stammer.\fDet er en vedtægt for Israel,\ftakkende at prise JHVHs navn.",
+      "text": "\fhvortil stammerne drog op,\fHERRENS stammer.\fDet er en vedtægt for Israel,\ftakkende at prise HERRENS navn.",
       "footnotes": [
         {
           "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
           "type": "T",
-          "position": 33
+          "position": 35
         },
         {
           "text": "Ordet: *ʕēdût* må i en del sammenhænge oversættes: »vidnesbyrd«, men her angiver det formodentlig en højtidelig givet og modtaget forordning.",
           "type": "E",
-          "position": 60
+          "position": 62
         }
       ],
       "version": 1504476000000
@@ -116,7 +116,7 @@
     },
     {
       "number": 9,
-      "text": "\fFor JHVHs, vor Guds, hus' skyld\fvil jeg søge dit bedste.",
+      "text": "\fFor HERRENS, vor Guds, hus' skyld\fvil jeg søge dit bedste.",
       "version": 1504476000000
     }
   ]

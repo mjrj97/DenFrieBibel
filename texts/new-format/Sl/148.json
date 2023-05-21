@@ -16,8 +16,8 @@
   "verses": [
     {
       "number": 1,
-      "text": "Halleluja!\fLovpris JHVH fra himlen,\flovpris ham i det høje!",
-      "title": "Lovpris JHVH fra himlen",
+      "text": "Halleluja!\fLovpris HERREN fra himlen,\flovpris ham i det høje!",
+      "title": "Lovpris HERREN fra himlen",
       "version": 1493330400000
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "number": 5,
-      "text": "\fDe skal lovprise JHVHs navn,\ffor han befalede, og de blev skabt.",
+      "text": "\fDe skal lovprise HERRENS navn,\ffor han befalede, og de blev skabt.",
       "version": 1493330400000
     },
     {
@@ -61,8 +61,8 @@
     },
     {
       "number": 7,
-      "text": "\fLovpris JHVH fra jorden,\fI søuhyrer og alle dyb,",
-      "title": "Lovpris JHVH fra jorden",
+      "text": "\fLovpris HERREN fra jorden,\fI søuhyrer og alle dyb,",
+      "title": "Lovpris HERREN fra jorden",
       "version": 1493330400000
     },
     {
@@ -99,12 +99,12 @@
     },
     {
       "number": 13,
-      "text": "\fDe skal lovprise JHVHs navn,\ffor hans navn alene er ophøjet,\fhans højhed er over jorden og himlen.",
+      "text": "\fDe skal lovprise HERRENS navn,\ffor hans navn alene er ophøjet,\fhans højhed er over jorden og himlen.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »majestæt«.",
           "type": "T",
-          "position": 73
+          "position": 75
         }
       ],
       "version": 1493330400000

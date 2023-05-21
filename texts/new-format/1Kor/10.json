@@ -1,5 +1,5 @@
 {
-  "book": "Paulus' Første Brev til Korintherne",
+  "book": "Første Korintherbrev",
   "abbreviation": "1Kor",
   "chapter": 10,
   "translation": 50,
@@ -128,17 +128,17 @@
     },
     {
       "number": 21,
-      "text": "I kan ikke drikke Herrens bæger og  onde ånders bæger; I kan ikke have del i Herrens bord og  i onde ånders bord.",
+      "text": "I kan ikke drikke Herrens bæger og onde ånders bæger; I kan ikke have del i Herrens bord og i onde ånders bord.",
       "footnotes": [
         {
           "text": "Meningen er: Samtidig",
           "type": "T",
-          "position": 35
+          "position": 34
         },
         {
           "text": "Meningen er: Samtidig",
           "type": "T",
-          "position": 93
+          "position": 91
         }
       ],
       "version": 1616540400000

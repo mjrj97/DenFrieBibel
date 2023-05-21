@@ -1,5 +1,5 @@
 {
-  "book": "Jobs bog",
+  "book": "Jobs Bog",
   "abbreviation": "Job",
   "chapter": 36,
   "translation": 50,
@@ -20,210 +20,210 @@
   "verses": [
     {
       "number": 1,
-      "text": "Elihu forsatte så\tmed at svare:",
+      "text": "Elihu forsatte så\n\tmed at svare:",
       "title": "Elihu lovpriser Guds storhed",
       "version": 1668726000000
     },
     {
       "number": 2,
-      "text": "\t\t»Vær tålmodig med mig lidt endnu,\t\t\t\t\tså skal jeg belære dig,\t\t\t\t\t\t\tfor her er endnu en tale om Gud.",
+      "text": "\n\t\t»Vær tålmodig med mig lidt endnu,\n\t\t\t\t\tså skal jeg belære dig,\n\t\t\t\t\t\t\tfor her er endnu en tale om Gud.",
       "version": 1668726000000
     },
     {
       "number": 3,
-      "text": "\t\t\t\t\t\tJeg vil bringe min kundskab langt borte fra\t\t\t\t\t\t\t\tog yde retfærdighed mod min skaber.",
+      "text": "\n\t\t\t\t\t\tJeg vil bringe min kundskab langt borte fra\n\t\t\t\t\t\t\t\tog yde retfærdighed mod min skaber.",
       "version": 1668726000000
     },
     {
       "number": 4,
-      "text": "\t\t\t\t\t\t\tFor sandelig, mine ord er ikke løgn,\t\t\t\t\t\t\t\ten med fuldkommen viden er hos dig.",
+      "text": "\n\t\t\t\t\t\t\tFor sandelig, mine ord er ikke løgn,\n\t\t\t\t\t\t\t\ten med fuldkommen viden er hos dig.",
       "version": 1668726000000
     },
     {
       "number": 5,
-      "text": "\t\t\t\tSe, Gud er mægtig,\t\t\t\t\t\t\t\tog han vil ikke forkaste nogen.\t\t\t\t\t\t\tHan er mægtig i sin viljestyrke.",
+      "text": "\n\t\t\t\tSe, Gud er mægtig,\n\t\t\t\t\t\t\t\tog han vil ikke forkaste nogen.\n\t\t\t\t\t\t\tHan er mægtig i sin viljestyrke.",
       "footnotes": [
         {
           "text": "Hebraisk kōₐḥ lēv »hjertes styrke« kan hentyde både til stor forstand og stærk vilje.",
           "type": "E",
-          "position": 100
+          "position": 103
         }
       ],
       "version": 1668726000000
     },
     {
       "number": 6,
-      "text": "\t\t\t\t\t\tHan lader ikke en ugudelig bevare livet,\t\t\t\t\t\t\t\t\t\tmen skaffer de elendige ret.",
+      "text": "\n\t\t\t\t\t\tHan lader ikke en ugudelig bevare livet,\n\t\t\t\t\t\t\t\t\t\tmen skaffer de elendige ret.",
       "version": 1668726000000
     },
     {
       "number": 7,
-      "text": "\t\t\t\t\t\t\t\t\tHan vender ikke sine øjne væk fra den retfærdige,\t\t\t\t\t\t\t\t\t\t\tmen er hos konger på tronen\t\t\t\t\t\t\t\t\t\tDe bor der for evigt,\t\t\t\t\t\t\t\t\t\t\tog han ophøjer dem i ære.",
+      "text": "\n\t\t\t\t\t\t\t\t\tHan vender ikke sine øjne væk fra den retfærdige,\n\t\t\t\t\t\t\t\t\t\t\tmen er hos konger på tronen\n\t\t\t\t\t\t\t\t\t\tDe bor der for evigt,\n\t\t\t\t\t\t\t\t\t\t\tog han ophøjer dem i ære.",
       "version": 1668726000000
     },
     {
       "number": 8,
-      "text": "\t\t\t\t\t\t\t\tHvis de bliver lagt i lænker,\t\t\t\t\t\t\t\t\t\t\tbliver fanget i lidelsens reb,",
+      "text": "\n\t\t\t\t\t\t\t\tHvis de bliver lagt i lænker,\n\t\t\t\t\t\t\t\t\t\t\tbliver fanget i lidelsens reb,",
       "version": 1668726000000
     },
     {
       "number": 9,
-      "text": "\t\t\t\t\t\t\t\t\t\tda forkynder han dem deres gerninger og deres oprør,\t\t\t\t\t\t\t\t\t\t\tat de var overmodige.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\tda forkynder han dem deres gerninger og deres oprør,\n\t\t\t\t\t\t\t\t\t\t\tat de var overmodige.",
       "version": 1668726000000
     },
     {
       "number": 10,
-      "text": "\t\t\t\t\t\t\t\t\t\tHan åbnede deres ører for retledning\t\t\t\t\t\t\t\t\t\tog sagde\t\t\t\t\t\t\t\t\t\t\tat de skulle vende sig bort fra uretfærdighed.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\tHan åbnede deres ører for retledning\n\t\t\t\t\t\t\t\t\t\tog sagde\n\t\t\t\t\t\t\t\t\t\t\tat de skulle vende sig bort fra uretfærdighed.",
       "version": 1668726000000
     },
     {
       "number": 11,
-      "text": "\t\t\t\t\t\t\t\t\tHvis de da vil høre\t\t\t\t\t\t\t\t\t\t\t\tog tjene ham,\t\t\t\t\t\t\t\t\t\t\tender deres dage i det gode\t\t\t\t\t\t\t\t\t\t\t\tog deres år i velbehag",
+      "text": "\n\t\t\t\t\t\t\t\t\tHvis de da vil høre\n\t\t\t\t\t\t\t\t\t\t\t\tog tjene ham,\n\t\t\t\t\t\t\t\t\t\t\tender deres dage i det gode\n\t\t\t\t\t\t\t\t\t\t\t\tog deres år i velbehag",
       "version": 1668726000000
     },
     {
       "number": 12,
-      "text": "\t\t\t\t\t\t\t\t\t\tmen hvis de ikke vil høre,\t\t\t\t\t\t\t\t\t\t\tda skal de omkomme ved kastespyd\t\t\t\t\t\t\t\t\t\t\t\tog udånde uden kundskab.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\tmen hvis de ikke vil høre,\n\t\t\t\t\t\t\t\t\t\t\tda skal de omkomme ved kastespyd\n\t\t\t\t\t\t\t\t\t\t\t\tog udånde uden kundskab.",
       "version": 1668726000000
     },
     {
       "number": 13,
-      "text": "\t\t\t\t\t\t\tDe af hjertet gudsfornægtende skaber vrede,\t\t\t\t\t\t\t\t\tde råber ikke til ham\t\t\t\t\t\t\t\t\t\tnår han binder dem.",
+      "text": "\n\t\t\t\t\t\t\tDe af hjertet gudsfornægtende skaber vrede,\n\t\t\t\t\t\t\t\t\tde råber ikke til ham\n\t\t\t\t\t\t\t\t\t\tnår han binder dem.",
       "version": 1668726000000
     },
     {
       "number": 14,
-      "text": "\t\t\t\t\t\t\t\tDeres sjæl dør hen i ungdommen\t\t\t\t\t\t\t\t\tog deres liv som tempelskøgerne.",
+      "text": "\n\t\t\t\t\t\t\t\tDeres sjæl dør hen i ungdommen\n\t\t\t\t\t\t\t\t\tog deres liv som tempelskøgerne.",
       "footnotes": [
         {
           "text": "Hebraisk qᵊdēšîm »indviede« kan referere til afgudsdyrkere, men fortolkes af mange som tempelprostitution.",
           "type": "E",
-          "position": 79
+          "position": 81
         }
       ],
       "version": 1668726000000
     },
     {
       "number": 15,
-      "text": "\t\t\t\t\tHan frelser dem midt i deres lidelse\t\t\t\t\t\t\tog åbner i undertrykkelsen deres ører.",
+      "text": "\n\t\t\t\t\tHan frelser dem midt i deres lidelse\n\t\t\t\t\t\t\tog åbner i undertrykkelsen deres ører.",
       "version": 1668726000000
     },
     {
       "number": 16,
-      "text": "\t\t\t\t\t\tMen han satte dig gennem trængslens åbning ud til det vidtstrakte sted,\t\t\t\t\t\t\t\t\t\thvor der ingen begrænsninger er,\t\t\t\t\t\t\t\t\tog til afslapningen ved dit bord, der er fuldt af fede retter.",
+      "text": "\n\t\t\t\t\t\tMen han satte dig gennem trængslens åbning ud til det vidtstrakte sted,\n\t\t\t\t\t\t\t\t\t\thvor der ingen begrænsninger er,\n\t\t\t\t\t\t\t\t\tog til afslapningen ved dit bord, der er fuldt af fede retter.",
       "footnotes": [
         {
           "text": "Se bemærkningerne til dette verbum i Job 2,3.",
           "type": "T",
-          "position": 19
+          "position": 20
         }
       ],
       "version": 1668726000000
     },
     {
       "number": 17,
-      "text": "\t\t\t\t\t\t\t\tMen du er fyldt op af retssagen mod den ugudelige,\t\t\t\t\t\t\t\t\ten retssag og lovgivningen holder dig fange.",
+      "text": "\n\t\t\t\t\t\t\t\tMen du er fyldt op af retssagen mod den ugudelige,\n\t\t\t\t\t\t\t\t\ten retssag og lovgivningen holder dig fange.",
       "version": 1668726000000
     },
     {
       "number": 18,
-      "text": "\t\t\t\t\t\t\t\t\t\tFor vreden,\t\t\t\t\t\t\t\t\t\t\t\tden er for at du ikke skal overbevises af spot,\t\t\t\t\t\t\t\t\t\t\tog den store løsesum slå dig ud.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\tFor vreden,\n\t\t\t\t\t\t\t\t\t\t\t\tden er for at du ikke skal overbevises af spot,\n\t\t\t\t\t\t\t\t\t\t\tog den store løsesum slå dig ud.",
       "footnotes": [
         {
           "text": "Det er helt uklart hvordan penge kan kombineres med *nth* »strække ud« og en person som objekt.",
           "type": "E",
-          "position": 123
+          "position": 126
         }
       ],
       "version": 1668726000000
     },
     {
       "number": 19,
-      "text": "\t\t\t\t\t\t\tMon dit råb om hjælp kan ordne det\t\t\t\t\t\t\t\t\tså du undgår trængsel,\t\t\t\t\t\t\t\teller er det hele styrken i din magt?",
+      "text": "\n\t\t\t\t\t\t\tMon dit råb om hjælp kan ordne det\n\t\t\t\t\t\t\t\t\tså du undgår trængsel,\n\t\t\t\t\t\t\t\teller er det hele styrken i din magt?",
       "version": 1668726000000
     },
     {
       "number": 20,
-      "text": "\t\t\tDu skal ikke længes efter natten\t\t\t\t\t\tfor at føre folk op fra deres sted.",
+      "text": "\n\t\t\tDu skal ikke længes efter natten\n\t\t\t\t\t\tfor at føre folk op fra deres sted.",
       "footnotes": [
         {
           "text": "De kryptiske vendinger kan være en beskrivelse af døden.",
           "type": "E",
-          "position": 76
+          "position": 78
         }
       ],
       "version": 1668726000000
     },
     {
       "number": 21,
-      "text": "\t\t\t\t\tTag dig i agt,\t\t\t\tvend dig ikke til uret,\t\t\t\t\t\t\tfor den kan du komme til at vælge på grund af lidelsen.",
+      "text": "\n\t\t\t\t\tTag dig i agt,\n\t\t\t\tvend dig ikke til uret,\n\t\t\t\t\t\t\tfor den kan du komme til at vælge på grund af lidelsen.",
       "version": 1668726000000
     },
     {
       "number": 22,
-      "text": "\t\t\t\t\t\tSe, Gud er ophøjet ved sin styrke.\t\t\t\t\t\t\tHvem er en lærer som han?",
+      "text": "\n\t\t\t\t\t\tSe, Gud er ophøjet ved sin styrke.\n\t\t\t\t\t\t\tHvem er en lærer som han?",
       "version": 1668726000000
     },
     {
       "number": 23,
-      "text": "\t\t\t\t\t\t\t\tHvem kunne bebrejde ham hans vej,\t\t\t\t\t\t\t\t\tog hvem kunne sige:\t\t\t\t\t\t\t\t\t\t›Du har øvet uret.‹?",
+      "text": "\n\t\t\t\t\t\t\t\tHvem kunne bebrejde ham hans vej,\n\t\t\t\t\t\t\t\t\tog hvem kunne sige:\n\t\t\t\t\t\t\t\t\t\t›Du har øvet uret.‹?",
       "footnotes": [
         {
           "text": "Ordet *ʕawlāʰ* er betegnelsen for den uret som Job bekæmper, men oversættes også i nogen situationer med »falskhed« (Job 13,7; 27,4) eller »ondskab« (24,20).",
           "type": "E",
-          "position": 99
+          "position": 102
         }
       ],
       "version": 1668726000000
     },
     {
       "number": 24,
-      "text": "\t\t\t\t\tHusk på\t\t\t\t\t\t\t\tat du skal berømme hans gerning\t\t\t\t\t\t\t\t\tsom folk har prist.",
+      "text": "\n\t\t\t\t\tHusk på\n\t\t\t\t\t\t\t\tat du skal berømme hans gerning\n\t\t\t\t\t\t\t\t\tsom folk har prist.",
       "version": 1668726000000
     },
     {
       "number": 25,
-      "text": "\t\t\t\t\t\t\tAlle mennesker har set den,\t\t\t\t\t\t\t\tmennesket kan betragte den på lang afstand.",
+      "text": "\n\t\t\t\t\t\t\tAlle mennesker har set den,\n\t\t\t\t\t\t\t\tmennesket kan betragte den på lang afstand.",
       "version": 1668726000000
     },
     {
       "number": 26,
-      "text": "\t\t\t\t\t\tSe, Gud er stor,\t\t\t\t\t\t\t\t\tog vi kan ikke vide noget om antallet på hans år,\t\t\t\t\t\t\t\t\t\tikke en gang ved en undersøgelse!",
+      "text": "\n\t\t\t\t\t\tSe, Gud er stor,\n\t\t\t\t\t\t\t\t\tog vi kan ikke vide noget om antallet på hans år,\n\t\t\t\t\t\t\t\t\t\tikke en gang ved en undersøgelse!",
       "version": 1668726000000
     },
     {
       "number": 27,
-      "text": "\t\t\t\t\t\t\t\tFor han kan trække dråber af vand op\t\t\t\t\t\t\t\t\tog så lede regnen gennem kilder;",
+      "text": "\n\t\t\t\t\t\t\t\tFor han kan trække dråber af vand op\n\t\t\t\t\t\t\t\t\tog så lede regnen gennem kilder;",
       "version": 1668726000000
     },
     {
       "number": 28,
-      "text": "\t\t\t\t\t\t\t\t\t\tnår skyerne lader det øse ned,\t\t\t\t\t\t\t\t\t\t\tså drypper det på en overflod af mennesker.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\tnår skyerne lader det øse ned,\n\t\t\t\t\t\t\t\t\t\t\tså drypper det på en overflod af mennesker.",
       "version": 1668726000000
     },
     {
       "number": 29,
-      "text": "\t\t\t\t\t\t\tMon nogen forstår udbredelsen af hans skyer,\t\t\t\t\t\t\t\t\ttordenskraldene fra hans hytte?",
+      "text": "\n\t\t\t\t\t\t\tMon nogen forstår udbredelsen af hans skyer,\n\t\t\t\t\t\t\t\t\ttordenskraldene fra hans hytte?",
       "version": 1668726000000
     },
     {
       "number": 30,
-      "text": "\t\t\t\t\t\t\t\tSe, han spreder lyset over den\t\t\t\t\t\t\t\t\t\tog dækker havets rødder,",
+      "text": "\n\t\t\t\t\t\t\t\tSe, han spreder lyset over den\n\t\t\t\t\t\t\t\t\t\tog dækker havets rødder,",
       "version": 1668726000000
     },
     {
       "number": 31,
-      "text": "\t\t\t\t\t\t\t\t\t\t\tfordi han ved dem udøver sit styre over folkene,\t\t\t\t\t\t\t\t\t\t\t\tgiver mad i overflod.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\tfordi han ved dem udøver sit styre over folkene,\n\t\t\t\t\t\t\t\t\t\t\t\tgiver mad i overflod.",
       "version": 1668726000000
     },
     {
       "number": 32,
-      "text": "\t\t\t\t\t\t\t\t\tVed sine håndflader har han skjult lyset,\t\t\t\t\t\t\t\t\t\t\tmen så befalede han dets lynnedslag.",
+      "text": "\n\t\t\t\t\t\t\t\t\tVed sine håndflader har han skjult lyset,\n\t\t\t\t\t\t\t\t\t\t\tmen så befalede han dets lynnedslag.",
       "version": 1668726000000
     },
     {
       "number": 33,
-      "text": "\t\t\t\t\t\t\t\t\t\tDets tordenskrald kan forkynde om ham,\t\t\t\t\t\t\t\t\t\t\togså kvæget om at han drager op.",
+      "text": "\n\t\t\t\t\t\t\t\t\t\tDets tordenskrald kan forkynde om ham,\n\t\t\t\t\t\t\t\t\t\t\togså kvæget om at han drager op.",
       "version": 1668726000000
     }
   ]

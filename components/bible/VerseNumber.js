@@ -8,11 +8,13 @@ function VerseNumber({ number, onClick }) {
         onClick(!active);
     };
 
-    return <button 
-                id={number}
-                onClick={handleClick}
-                className={ active ? "verseNumber verseNumber-dark ignore" : "verseNumber verseNumber-light ignore" }>v{number}
-            </button>
+    return <span className='ignore'>
+        <button 
+            id={number}
+            onClick={handleClick}
+            className={ active ? "verseNumber verseNumber-dark" : "verseNumber verseNumber-light" }>v{number}
+        </button>
+    </span>
 }
 
 export default VerseNumber;

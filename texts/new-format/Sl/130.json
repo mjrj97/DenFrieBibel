@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Valfartssang.\fFra det dybe råber jeg til dig, JHVHv!",
+      "text": "Valfartssang.\fFra det dybe råber jeg til dig, HERRE!",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "number": 3,
-      "text": "\fHvis du, JHVHv, vil vogte på skyld,\fHerre, hvem kan så bestå?",
+      "text": "\fHvis du, HERRE, vil vogte på skyld,\fHerre, hvem kan så bestå?",
       "footnotes": [
         {
           "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
@@ -68,7 +68,7 @@
     },
     {
       "number": 5,
-      "text": "\fJeg håber på JHVH,\fmin sjæl håber,\fog jeg venter på hans ord,",
+      "text": "\fJeg håber på HERREN,\fmin sjæl håber,\fog jeg venter på hans ord,",
       "title": "Længselsfuld tillid",
       "footnotes": [
         {
@@ -93,13 +93,13 @@
     },
     {
       "number": 7,
-      "text": "\fIsrael, vent på JHVH,\ffor hos JHVH er nåden,\fog megen forløsning er hos ham.",
+      "text": "\fIsrael, vent på HERREN,\ffor hos HERREN er nåden,\fog megen forløsning er hos ham.",
       "title": "Salmistens vidnesbyrd",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 44
+          "position": 48
         }
       ],
       "version": 1504476000000

@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "En bøn af David.\fHør, JHVHv, på retfærdighed!\fLyt opmærksomt til min klage,\fhør på min bøn\ffra mine læber uden svig.",
+      "text": "En bøn af David.\fHør, HERRE, på retfærdighed!\fLyt opmærksomt til min klage,\fhør på min bøn\ffra mine læber uden svig.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -138,7 +138,7 @@
     },
     {
       "number": 11,
-      "text": "\fHvor vi end går, har de nu omringet mig, \fderes øjne er rettet mod at kaste mig til jorden.",
+      "text": "\fHvor vi end går, har de nu omringet mig,\fderes øjne er rettet mod at kaste mig til jorden.",
       "footnotes": [
         {
           "text": "*ʔaššurênû* ordret: »vore skridt«. Der er afvigende formuleringer i en del håndskrifter og gamle oversættelser. Evt. kan der stå: *ʔiššudunî*: »de har opsporet mig« eller: *jᵊšurûnî*: »de lurer på mig«.",
@@ -148,7 +148,7 @@
         {
           "text": "»mig« står ikke i den hebraiske tekst, men er formodentlig underforstået. Sætningen kan dog også forstås mere generelt: »De er opsatte på at kaste alle modstandere til jorden«.",
           "type": "E",
-          "position": 80
+          "position": 79
         }
       ],
       "version": 1475704800000
@@ -160,15 +160,15 @@
     },
     {
       "number": 13,
-      "text": "\fRejs dig, JHVHv, træd op imod hans ansigt, kast ham ned,\ffrels min sjæl fra den ugudelige ved dit sværd,",
+      "text": "\fRejs dig, HERRE, træd op imod hans ansigt, kast ham ned,\ffrels min sjæl fra den ugudelige ved dit sværd,",
       "version": 1475704800000
     },
     {
       "number": 14,
-      "text": "\ffra folk ved din hånd,\fJHVHv! fra folk hvis del i livet er af verden,\fog fyld deres bug med det du har gemt,\flad deres børn mættes\fog efterlade deres rest til deres småbørn.",
+      "text": "\ffra folk ved din hånd,\fHERRE! fra folk hvis del i livet er af verden,\fog fyld deres bug med det du har gemt,\flad deres børn mættes\fog efterlade deres rest til deres småbørn.",
       "footnotes": [
         {
-          "text": "Versets første halvdel er omdiskuteret. Den stakåndede sætningsbygning kan afspejle at David har mistet kontrollen over sine følelser, men især synes der at mangle et verbum i dette halvvers. Det er foreslået, at *mimᵊtîm* (»fra folk«) kan være fejlskrivning for *mᵊmîtām*: »Dræb dem«, altså: »dræb dem ved din hånd, JHVHv, dræb dem fra verden, fra deres andel i livet«.",
+          "text": "Versets første halvdel er omdiskuteret. Den stakåndede sætningsbygning kan afspejle at David har mistet kontrollen over sine følelser, men især synes der at mangle et verbum i dette halvvers. Det er foreslået, at *mimᵊtîm* (»fra folk«) kan være fejlskrivning for *mᵊmîtām*: »Dræb dem«, altså: »dræb dem ved din hånd, HERRE, dræb dem fra verden, fra deres andel i livet«.",
           "type": "E",
           "position": 70
         }

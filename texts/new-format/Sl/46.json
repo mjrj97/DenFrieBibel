@@ -24,7 +24,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Til korlederen.\f\t\t\tAf Koras sønner.\t\tAl-alamot.\tEn sang.",
+      "text": "Til korlederen.\f\n\t\t\tAf Koras sønner.\n\t\tAl-alamot.\n\tEn sang.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -35,14 +35,14 @@
         {
           "text": "Betydningen af dette udtryk er ukendt, egtl.: »efter de unge kvinder/på unge kvinders vis«. Udtrykket betyder muligvis at salmen skulle synges af sopranerne, eller at den skulle synges på samme melodi som en anden salme, der begyndte med ordet »alamot«.",
           "type": "E",
-          "position": 47
+          "position": 49
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 2,
-      "text": "\fGud er for os tilflugt og værn,\fnærværende\t\t\t\tsom en hjælp i trængsler, ja, meget.",
+      "text": "\fGud er for os tilflugt og værn,\fnærværende\n\t\t\t\tsom en hjælp i trængsler, ja, meget.",
       "title": "Gud er tilflugt mod naturens luner",
       "footnotes": [
         {
@@ -55,118 +55,118 @@
     },
     {
       "number": 3,
-      "text": "\f\t\t\tDerfor vil vi ikke frygte,\t\t\t\t\tnår jorden forandres,\f\t\t\t\t\t\tog bjergene vakler midt i havet,",
+      "text": "\f\n\t\t\tDerfor vil vi ikke frygte,\n\t\t\t\t\tnår jorden forandres,\f\n\t\t\t\t\t\tog bjergene vakler midt i havet,",
       "footnotes": [
         {
           "text": "Oversættes ofte: »skælver, rystes«, men det ville være eneste sted i GT at verbet har den betydning.",
           "type": "T",
-          "position": 56
+          "position": 58
         },
         {
           "text": "Ordret: »i havets hjerte«. Andre oversætter: »i havets dyb«. Ordet *yammîm* er egentlig pluralis (»have«), men er opfattet som singularis i suffikserne i v. 4. Pluralis er her udtryk for storheden.",
           "type": "T",
-          "position": 95
+          "position": 98
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\tnår dets vande buldrer\t\t\t\t\tog skummer,\f\t\t\t\t\tnår bjergene bæver for dets vælde.\t\t\t\t\t\tSela",
+      "text": "\f\n\t\t\t\tnår dets vande buldrer\n\t\t\t\t\tog skummer,\f\n\t\t\t\t\tnår bjergene bæver for dets vælde.\n\t\t\t\t\t\tSela",
       "footnotes": [
         {
           "text": "Sela",
           "type": "N",
-          "position": 93
+          "position": 97
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 5,
-      "text": "\f\t\tEn flod,\t\t\tdens kanaler glæder Guds by,\fden Højestes hellige bolig.",
+      "text": "\f\n\t\tEn flod,\n\t\t\tdens kanaler glæder Guds by,\fden Højestes hellige bolig.",
       "title": "Gud er tilflugt mod folkeslags angreb",
       "footnotes": [
         {
           "text": "Ordret: »boliger«, men pluralis skal formodentlig understrege storheden og helligheden.",
           "type": "T",
-          "position": 70
+          "position": 72
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\tGud er i dens midte,\t\t\t\t\t\tden skal ikke rokkes,\f\t\t\t\t\tGud vil hjælpe den\t\t\t\t\t\t\t\tnår morgenen bryder frem.",
+      "text": "\f\n\t\t\t\tGud er i dens midte,\n\t\t\t\t\t\tden skal ikke rokkes,\f\n\t\t\t\t\tGud vil hjælpe den\n\t\t\t\t\t\t\t\tnår morgenen bryder frem.",
       "version": 1666562400000
     },
     {
       "number": 7,
-      "text": "\f\t\t\t\t\t\t\tFolkeslag buldrede,\t\t\t\t\t\t\tkongeriger vaklede,\f\t\t\t\t\t\than lod sin røst lyde -\t\t\t\t\t\t\tjorden ryster.",
+      "text": "\f\n\t\t\t\t\t\t\tFolkeslag buldrede,\n\t\t\t\t\t\t\tkongeriger vaklede,\f\n\t\t\t\t\t\than lod sin røst lyde -\n\t\t\t\t\t\t\tjorden ryster.",
       "footnotes": [
         {
           "text": "Kunne også oversættes: »hedninger‹, men det er der næppe tænkt på her.",
           "type": "T",
-          "position": 17
+          "position": 18
         },
         {
           "text": "Betydningen er usikker. Andre oversætter: »smelter«.",
           "type": "T",
-          "position": 104
+          "position": 108
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 8,
-      "text": "\f\tHærskarers JHVHv er med os,\f\t\t\tJakobs Gud er en borg for os.\t\t\t\tSela",
+      "text": "\f\n\tHærskarers HERRE er med os,\f\n\t\t\tJakobs Gud er en borg for os.\n\t\t\t\tSela",
       "footnotes": [
         {
           "text": "I ældre tid uoversat: »Zebaoth«.",
           "type": "T",
-          "position": 12
+          "position": 13
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 9,
-      "text": "\f\t\tKom,\t\tse JHVHs gerninger,\f\t\t\t\thvorledes han har anrettet forfærdelse på jorden.",
+      "text": "\f\n\t\tKom,\n\t\tse HERRENS gerninger,\f\n\t\t\t\thvorledes han har anrettet forfærdelse på jorden.",
       "title": "Gud sejrer",
       "footnotes": [
         {
           "text": "Oversættes ofte: »ødelæggelser«. Denne betydning er dog omdiskuteret og usikker. I givet fald må det forudsættes at »ødelæggelse« regnes som grund til »forfærdelse«.",
           "type": "T",
-          "position": 71
+          "position": 76
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 10,
-      "text": "\f\t\t\t\t\tHan får krige bragt til ro til jordens ende,\f\t\t\tsønderbryder buen\t\t\t\tog hugger spyddet itu,\f\t\t\tafbrænder vogne med ild.",
+      "text": "\f\n\t\t\t\t\tHan får krige bragt til ro til jordens ende,\f\n\t\t\tsønderbryder buen\n\t\t\t\tog hugger spyddet itu,\f\n\t\t\tafbrænder vogne med ild.",
       "footnotes": [
         {
           "text": "Der er utvivlsomt tænkt på »stridsvogne«.",
           "type": "T",
-          "position": 116
+          "position": 120
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 11,
-      "text": "\f\t\t»Hold inde,\t\t\tog du skal vide\t\t\t\tat jeg er Gud,\f\t\t\t\t\tophøjet blandt folkene,\t\t\t\t\tophøjet på jorden!«",
+      "text": "\f\n\t\t»Hold inde,\n\t\t\tog du skal vide\n\t\t\t\tat jeg er Gud,\f\n\t\t\t\t\tophøjet blandt folkene,\n\t\t\t\t\tophøjet på jorden!«",
       "version": 1666562400000
     },
     {
       "number": 12,
-      "text": "\f\tHærskarers JHVHv er med os,\f\t\tJakobs Gud er en borg for os.\t\t\tSela",
+      "text": "\f\n\tHærskarers HERRE er med os,\f\n\t\tJakobs Gud er en borg for os.\n\t\t\tSela",
       "footnotes": [
         {
           "text": "I ældre tid uoversat: »Zebaoth«.",
           "type": "T",
-          "position": 12
+          "position": 13
         }
       ],
       "version": 1666562400000

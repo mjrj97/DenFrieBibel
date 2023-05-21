@@ -1,18 +1,15 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useId } from 'react';
 import Select from 'react-select';
 
-function BookDropdown({books, changed}) {
+function BookDropdown({book, chapter, books, changed}) {
     const [currentBooks, setBooks] = useState([]);
     const [chapters, setChapters] = useState([]);
 
-    const [currentBook, setCurrentBook] = useState({ 
-        value: "1Mos", 
-        label: "Første Mosebog" 
-    });
-    const [currentChapter, setCurrentChapter] = useState({ 
-        value: 3, 
-        label: "Kapitel 3" 
-    });
+    const [currentBook, setCurrentBook] = useState(book);
+    const [currentChapter, setCurrentChapter] = useState(chapter);
+
+    const [next, setNext] = useState();
+    const [previous, setPrevious] = useState();
 
     useEffect(()=>{
         let buffer = [];
@@ -76,37 +73,51 @@ function BookDropdown({books, changed}) {
         setChapters(buffer);
 
         let first;
-        for (let i = 0; currentBook.chapters && i < currentBook.chapters.length && !first; i++) {
-            if (currentBook.chapters[i] != 0) {
-                first = {
-                    value: (i+1),
-                    label: "Kapitel " + (i+1)
+        if (currentBook.chapters) {
+            for (let i = 0; i < currentBook.chapters.length && !first; i++) {
+                if (currentBook.chapters[i] != 0) {
+                    first = {
+                        value: (i+1),
+                        label: "Kapitel " + (i+1)
+                    }
+                }
+            }
+
+            setCurrentChapter(first);
+        }
+    }, [currentBook]);
+
+    // ON LOAD, CURRENTCHAPTER IS SOMETIMES SET TO 1
+    useEffect(() => {
+        changed(currentBook, currentChapter);
+
+        let nextChapter;
+        if (currentBook.chapters) {
+            for (let i = currentChapter.value; i < currentBook.chapters.length && !nextChapter; i++) {
+                if (currentBook.chapters[i] != 0) {
+                    nextChapter = {
+                        value: (i+1),
+                        label: "Kapitel " + (i+1)
+                    }
                 }
             }
         }
-        if (!first) {
-            first = { 
-                value: 1, 
-                label: "Kapitel 1" 
+
+        let previousChapter;
+        if (currentBook.chapters) {
+            for (let i = currentChapter.value - 2; i >= 0 && !previousChapter; i--) {
+                if (currentBook.chapters[i] != 0) {
+                    previousChapter = {
+                        value: (i+1),
+                        label: "Kapitel " + (i+1)
+                    }
+                }
             }
         }
-        setCurrentChapter(first);
 
-    }, [currentBook]);
-
-    useEffect(() => {
-        changed(currentBook, currentChapter);
+        setNext(nextChapter);
+        setPrevious(previousChapter);
     }, [currentChapter]);
-
-    function addChapter() {
-        if (currentChapter.value < currentBook.chapters.length)
-            setCurrentChapter(chapters[currentChapter.value]);
-    }
-
-    function subtractChapter() {
-        if (currentChapter.value > 1)
-            setCurrentChapter(chapters[currentChapter.value - 2]);
-    }
 
     const colourStyles = {
         control: base => ({
@@ -114,7 +125,7 @@ function BookDropdown({books, changed}) {
             height: 50,
             minHeight: 50,
             fontSize: 20,
-            fontFamily: "Verdana"
+            fontWeight: 900
         }),
         option: (styles, { data, isDisabled, isFocused, isSelected }) => {
           return {
@@ -144,21 +155,22 @@ function BookDropdown({books, changed}) {
     };
 
     return (
-        // Sticky top: https://stackoverflow.com/questions/28340054/bootstrap-keep-div-fixed-after-scrolling-to-it
         <div className="sticky-top sticky-dropdown">
             <div className="px-0 mx-0 mb-2">
-                <div className='arrow-container d-none d-sm-block'>
+                <div className='arrow-container'>
                     <div className='d-flex justify-content-between'>
-                        <button className={'btn btn-light arrow arrow-left ignore' + (currentChapter.value == 1 ? ' disabled' : '')} onClick={subtractChapter} type="button">←</button>
-                        <button className={'btn btn-light arrow arrow-right ignore' + (currentBook.chapters && currentChapter.value == currentBook.chapters.length ? ' disabled' : '')} onClick={addChapter} type="button">→</button>
+                        <button className={'btn btn-light arrow arrow-left ignore d-none d-md-block' + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
+                        <button className={'btn btn-light arrow arrow-right ignore d-none d-md-block' + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
                     </div>
+                    <button className={'btn btn-light arrow arrow-lowerLeft ignore d-block d-md-none' + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
+                    <button className={'btn btn-light arrow arrow-lowerRight ignore d-block d-md-none' + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
                 </div>
                 <div className="row select-container">
                     <div className='col-8'>
-                        <Select value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={colourStyles}/>
+                        <Select instanceId={useId()} className='test' value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={colourStyles}/>
                     </div>
                     <div className='col-4'>
-                        <Select value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={colourStyles}/>
+                        <Select instanceId={useId()} className='test' value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={colourStyles}/>
                     </div>
                 </div>
                 <div className='transparent-transition'/>

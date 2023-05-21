@@ -20,15 +20,6 @@ const Index = () => {
   const [text, setText] = useState("");
   
   const [selected, setSelected] = useState([]);
-
-  useEffect(() => {
-    setSelected([]);
-    fetch("/api/bible?book=" + currentBook.value + "&chapter=" + currentChapter.value).then(
-      response => response.json()
-    ).then(
-      data => {setText(data);}
-    );
-  }, [currentChapter]);
   
   useEffect(() => {
     fetch("/api/bible?book=all").then(
@@ -39,8 +30,16 @@ const Index = () => {
       }
     );
   }, []);
+
+  useEffect(() => {
+    setSelected([]);
+    fetch("/api/bible?book=" + currentBook.value + "&chapter=" + currentChapter.value).then(
+      response => response.json()
+    ).then(
+      data => {setText(data);}
+    );
+  }, [currentChapter]);
   
-  // CHAPTER DOESN'T CHANGE WHEN CHANGING BOOKS WITH CHAPTER 1's
   const setBookAndChapter = (book, chapter) => {
     setCurrentBook(book);
     setCurrentChapter(chapter);
@@ -66,7 +65,7 @@ const Index = () => {
         <title>Den Frie Bibel</title>
       </Head>
       <CommentContainer selected={selected} chapter={currentChapter.value}/>
-      <BookDropdown changed={setBookAndChapter} books={books}/>
+      <BookDropdown book={currentBook} chapter={currentChapter} books={books} changed={setBookAndChapter}/>
       <div className='my-4'/>
       <BibleText text={text} onSelectionChange={onSelectedVerse}/>
     </>

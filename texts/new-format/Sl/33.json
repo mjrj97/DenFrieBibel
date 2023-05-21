@@ -24,7 +24,7 @@
       "title": "Opfordring til lovsang",
       "footnotes": [
         {
-          "text": "Kan evt. også oversættes: »Bryd ud i jubel for JHVH, I retfærdige«",
+          "text": "Kan evt. også oversættes: »Bryd ud i jubel for HERREN, I retfærdige«",
           "type": "T",
           "position": 39
         }
@@ -33,7 +33,7 @@
     },
     {
       "number": 2,
-      "text": "Pris JHVH med citer,\fspil for ham på tistrenget harpe.",
+      "text": "Pris HERREN med citer,\fspil for ham på tistrenget harpe.",
       "version": 1457218800000
     },
     {
@@ -43,23 +43,23 @@
     },
     {
       "number": 4,
-      "text": "\fFor JHVHs ord er retskaffent,\fog al hans gerning er trofast.",
-      "title": "Lovprisning af JHVHs ords skabende og frelsende magt",
+      "text": "\fFor HERRENS ord er retskaffent,\fog al hans gerning er trofast.",
+      "title": "Lovprisning af HERRENS ords skabende og frelsende magt",
       "version": 1457218800000
     },
     {
       "number": 5,
-      "text": "\fHan elsker retfærdighed og ret,\fJHVHs nåde opfylder jorden.",
+      "text": "\fHan elsker retfærdighed og ret,\fHERRENS nåde opfylder jorden.",
       "version": 1457218800000
     },
     {
       "number": 6,
-      "text": "\fVed JHVHs ord blev himlen skabt,\fog ved hans munds ånde hele dens hær.",
+      "text": "\fVed HERRENS ord blev himlen skabt,\fog ved hans munds ånde hele dens hær.",
       "footnotes": [
         {
           "text": "*šāmayim* (»himmel«) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også »deres hær« i næste linje)",
           "type": "E",
-          "position": 26
+          "position": 28
         }
       ],
       "version": 1457218800000
@@ -78,7 +78,7 @@
     },
     {
       "number": 8,
-      "text": "\fHele jorden skal frygte JHVH,\falle verdens indbyggere skal skælve for ham!",
+      "text": "\fHele jorden skal frygte HERREN,\falle verdens indbyggere skal skælve for ham!",
       "version": 1457218800000
     },
     {
@@ -88,31 +88,31 @@
     },
     {
       "number": 10,
-      "text": "\fJHVH gjorde folkenes råd til intet,\fhan hindrede folkeslagenes tanker.",
-      "title": "Lovprisning af JHVHs råd",
+      "text": "\fHERREN gjorde folkenes råd til intet,\fhan hindrede folkeslagenes tanker.",
+      "title": "Lovprisning af HERRENS råd",
       "footnotes": [
         {
           "text": "Kan også oversættes »hedningernes«",
           "type": "T",
-          "position": 21
+          "position": 23
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 11,
-      "text": "\fJHVHs råd består til evig tid,\fhans hjertes tanker i generation efter generation.",
+      "text": "\fHERRENS råd består til evig tid,\fhans hjertes tanker i generation efter generation.",
       "version": 1457218800000
     },
     {
       "number": 12,
-      "text": "\fSaligt er det folk, hvis Gud JHVH er,\ffolket som han udvalgte sig til ejendom.",
+      "text": "\fSaligt er det folk, hvis Gud HERREN er,\ffolket som han udvalgte sig til ejendom.",
       "version": 1457218800000
     },
     {
       "number": 13,
-      "text": "\fFra himlen skuede JHVH ned,\fhan betragtede alle menneskenes børn.",
-      "title": "Lovprisning af JHVHs alvidenhed",
+      "text": "\fFra himlen skuede HERREN ned,\fhan betragtede alle menneskenes børn.",
+      "title": "Lovprisning af HERRENS alvidenhed",
       "version": 1457218800000
     },
     {
@@ -142,7 +142,7 @@
     {
       "number": 16,
       "text": "\fIngen konge frelses ved en stor hær,\fen helt reddes ikke ved stor kraft.",
-      "title": "Lovprisning af JHVHs omsorgsfulde magt",
+      "title": "Lovprisning af HERRENS omsorgsfulde magt",
       "version": 1457218800000
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "number": 18,
-      "text": "\fSe, JHVHs øje er vendt til dem som frygter ham,\ftil dem som tålmodigt venter på hans nåde,",
+      "text": "\fSe, HERRENS øje er vendt til dem som frygter ham,\ftil dem som tålmodigt venter på hans nåde,",
       "version": 1457218800000
     },
     {
@@ -169,8 +169,8 @@
     },
     {
       "number": 20,
-      "text": "\fVor sjæl ventede på JHVH,\fhan er vor hjælp og vort skjold.",
-      "title": "Afsluttende bekendelse til JHVH som skaber og frelser",
+      "text": "\fVor sjæl ventede på HERREN,\fhan er vor hjælp og vort skjold.",
+      "title": "Afsluttende bekendelse til HERREN som skaber og frelser",
       "version": 1457218800000
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "number": 22,
-      "text": "\fLad din nåde, JHVHv, være over os,\fsådan som vi har ventet på dig!",
+      "text": "\fLad din nåde, HERRE, være over os,\fsådan som vi har ventet på dig!",
       "version": 1457218800000
     }
   ]

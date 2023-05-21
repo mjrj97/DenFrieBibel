@@ -33,7 +33,7 @@
     },
     {
       "number": 2,
-      "text": "\fHos dig, JHVHv, har jeg søgt tilflugt,\flad mig aldrig i evighed blive til skamme,\fudfri mig i din retfærdighed.",
+      "text": "\fHos dig, HERRE, har jeg søgt tilflugt,\flad mig aldrig i evighed blive til skamme,\fudfri mig i din retfærdighed.",
       "title": "Klage og bøn om hjælp",
       "version": 1457218800000
     },
@@ -54,7 +54,7 @@
     },
     {
       "number": 6,
-      "text": "\fI din hånd betror jeg min ånd,\fdu forløser mig, JHVHv, du trofaste Gud!",
+      "text": "\fI din hånd betror jeg min ånd,\fdu forløser mig, HERRE, du trofaste Gud!",
       "footnotes": [
         {
           "text": "Perfektum må her forstås som det, der er digterens erfaring og derfor også hans tillid. Sætningen kan dog også oversættes: »du har forløst mig«",
@@ -71,7 +71,7 @@
     },
     {
       "number": 7,
-      "text": "\fJeg har hadet dem som dyrker falske guder,\fmen jeg har stolet på JHVH.",
+      "text": "\fJeg har hadet dem som dyrker falske guder,\fmen jeg har stolet på HERREN.",
       "title": "Tillid til Gud",
       "footnotes": [
         {
@@ -101,7 +101,7 @@
     },
     {
       "number": 10,
-      "text": "\fVær mig nådig, JHVHv, for jeg er i nød,\fhentæret af sorg er mit øje,\fmin sjæl og min krop.",
+      "text": "\fVær mig nådig, HERRE, for jeg er i nød,\fhentæret af sorg er mit øje,\fmin sjæl og min krop.",
       "title": "Klage",
       "version": 1457218800000
     },
@@ -134,7 +134,7 @@
     },
     {
       "number": 15,
-      "text": "\fMen jeg har stolet på dig, JHVHv!\fJeg sagde: Du er min Gud.",
+      "text": "\fMen jeg har stolet på dig, HERRE!\fJeg sagde: Du er min Gud.",
       "title": "Ny tillidserklæring og bøn",
       "version": 1457218800000
     },
@@ -164,7 +164,7 @@
     },
     {
       "number": 18,
-      "text": "\fJHVHv, lad mig ikke blive til skamme,\ffor jeg har kaldt på dig.\fLad de ugudelige blive til skamme,\flad dem tie i dødsriget.",
+      "text": "\fHERRE, lad mig ikke blive til skamme,\ffor jeg har kaldt på dig.\fLad de ugudelige blive til skamme,\flad dem tie i dødsriget.",
       "footnotes": [
         {
           "text": "Ordret: »tie til dødsriget«. Meningen er enten som i oversættelsen her, eller at de skal fare stumme ned i dødriget",
@@ -204,12 +204,12 @@
     },
     {
       "number": 22,
-      "text": "Lovet være JHVH!\fFor han har på underfuld vis vist sin nåde imod mig\fi en belejret by.",
+      "text": "Lovet være HERREN!\fFor han har på underfuld vis vist sin nåde imod mig\fi en belejret by.",
       "footnotes": [
         {
           "text": "Det er omdiskuteret om *māṣôr* betyder »belejret« eller »befæstet«",
           "type": "T",
-          "position": 82
+          "position": 84
         }
       ],
       "version": 1457218800000
@@ -221,19 +221,19 @@
     },
     {
       "number": 24,
-      "text": "\fElsk JHVH, alle hans fromme!\fHerren beskytter trofaste,\fmen gengælder til overmål den som er hovmodig.",
+      "text": "\fElsk HERREN, alle hans fromme!\fHerren beskytter trofaste,\fmen gengælder til overmål den som er hovmodig.",
       "footnotes": [
         {
           "text": "Ordret »udøver hovmod«",
           "type": "T",
-          "position": 103
+          "position": 105
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 25,
-      "text": "\fVær stærke, og styrk jeres hjerte,\falle I som venter på JHVH!",
+      "text": "\fVær stærke, og styrk jeres hjerte,\falle I som venter på HERREN!",
       "version": 1457218800000
     }
   ]

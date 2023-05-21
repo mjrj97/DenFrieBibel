@@ -1,5 +1,5 @@
 {
-  "book": "Johannes’ Åbenbaring",
+  "book": "Johannes' Åbenbaring",
   "abbreviation": "Åb",
   "chapter": 2,
   "translation": 75,
@@ -129,12 +129,12 @@
     },
     {
       "number": 22,
-      "text": "Se, jeg kaster hende på sygelejet, og dem som begår ægteskabsbrud med hende,  i stor trængsel hvis ikke de omvender sig fra hendes gerninger,",
+      "text": "Se, jeg kaster hende på sygelejet, og dem som begår ægteskabsbrud med hende, i stor trængsel hvis ikke de omvender sig fra hendes gerninger,",
       "footnotes": [
         {
           "text": "Underforstået »kaster jeg«.",
           "type": "T",
-          "position": 77
+          "position": 76
         }
       ],
       "version": 1648076400000

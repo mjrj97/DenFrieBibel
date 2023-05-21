@@ -1,5 +1,5 @@
 {
-  "book": "Paulus' Første Brev til Korintherne",
+  "book": "Første Korintherbrev",
   "abbreviation": "1Kor",
   "chapter": 13,
   "translation": 50,
@@ -76,12 +76,12 @@
     },
     {
       "number": 12,
-      "text": "Nu ser vi jo i et spejl , i en gåde, men da skal vi se ansigt til ansigt; nu kender jeg stykkevis, men da skal jeg erkende, ligesom jeg jo blev erkendt.",
+      "text": "Nu ser vi jo i et spejl, i en gåde, men da skal vi se ansigt til ansigt; nu kender jeg stykkevis, men da skal jeg erkende, ligesom jeg jo blev erkendt.",
       "footnotes": [
         {
           "text": "dvs. en poleret, ret uskarp metalplade",
           "type": "T",
-          "position": 24
+          "position": 23
         }
       ],
       "version": 1539036000000

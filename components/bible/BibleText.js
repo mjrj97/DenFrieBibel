@@ -73,7 +73,7 @@ function BibleText ({ text, onSelectionChange }) {
             if (text.content.contributors && text.content.contributors.length > 0) {
                 for (let i = 0; i < text.content.contributors.length; i++) {
                     let contributor = text.content.contributors[i];
-                    contributors.push(<div key={"contributor" + i}><small><strong>{contributor.type}:</strong> <a href="#">{contributor.name}</a></small><br/></div>);
+                    contributors.push(<div key={"contributor" + i}><small><strong>{contributor.type}:</strong> {contributor.name != "Endnu ikke sket" ? <a href="#">{contributor.name}</a> : <span>{contributor.name}</span>}</small><br/></div>);
                 }
             }
     
@@ -100,6 +100,7 @@ function BibleText ({ text, onSelectionChange }) {
                 bibleText = verses.map((verse, i) => {
                     return (<Verse onSelected={onSelectionChange} 
                                 key={"v" + verse.number + "c" + text.content.chapter}
+                                chapterUID={text.content.abbreviation + text.content.chapter}
                                 verse={verse}
                                 index={i}
                                 settings={settings}/>);
@@ -123,17 +124,17 @@ function BibleText ({ text, onSelectionChange }) {
             ) : (
                 <div>
                     {bibleText}
-                    {(settings.showFootnotesAtBottom || settings.showContributors) && verses.length > 0 ? <>
+                    {((settings.showFootnotesAtBottom && (generalFootnoteElements.length > 0 || academicFootnoteElements.length > 0)) || settings.showContributors) && verses.length > 0 ? <>
                         <hr className='mt-5'/>
                     </> : <></>}
-                    {settings.showFootnotesAtBottom && verses.length > 0 && (settings.showGeneralFootnotes || settings.showAcademicFootnotes) ? <>
+                    {settings.showFootnotesAtBottom && ((generalFootnoteElements.length > 0 && settings.showGeneralFootnotes) || (academicFootnoteElements.length > 0 && settings.showAcademicFootnotes)) && verses.length > 0 ? <>
                         <div className='mt-4'>
                             <h4>Fodnoter</h4>
                             <div className='mb-3'>
-                                {settings.showGeneralFootnotes ? generalFootnoteElements : <></>}
+                                {settings.showGeneralFootnotes && generalFootnoteElements.length > 0 ? generalFootnoteElements : <></>}
                             </div>
                             <div className='mb-3'>
-                                {settings.showAcademicFootnotes ? academicFootnoteElements : <></>}
+                                {settings.showAcademicFootnotes && academicFootnoteElements.length > 0 ? academicFootnoteElements : <></>}
                             </div>
                         </div>
                     </> : <></>}

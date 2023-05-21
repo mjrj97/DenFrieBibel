@@ -20,8 +20,8 @@
   "verses": [
     {
       "number": 1,
-      "text": "Halleluja!\fSalig den mand som frygter JHVH,\fsom glæder sig meget ved hans bud.",
-      "title": "Den, der frygter JHVH, velsignes",
+      "text": "Halleluja!\fSalig den mand som frygter HERREN,\fsom glæder sig meget ved hans bud.",
+      "title": "Den, der frygter HERREN, velsignes",
       "footnotes": [
         {
           "text": "Oversættes nu ofte: »lykkelig«.",
@@ -78,7 +78,7 @@
     },
     {
       "number": 7,
-      "text": "\fHan skal ikke frygte ondt budskab,\fhans hjerte er fast, han har tillid til JHVH.",
+      "text": "\fHan skal ikke frygte ondt budskab,\fhans hjerte er fast, han har tillid til HERREN.",
       "version": 1499983200000
     },
     {

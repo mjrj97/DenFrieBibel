@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Af David.\fSkaf mig ret, JHVHv,\ffor jeg har vandret i min uskyld,\fog på JHVH har jeg stolet, \fjeg skal ikke vakle.",
+      "text": "Af David.\fSkaf mig ret, HERRE,\ffor jeg har vandret i min uskyld,\fog på HERREN har jeg stolet,\fjeg skal ikke vakle.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -31,14 +31,14 @@
         {
           "text": "Kan også oversættes: »uden at vakle«.",
           "type": "T",
-          "position": 113
+          "position": 114
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 2,
-      "text": "\fPrøv mig, JHVHv, og test mig,\fransag mine nyrer og mit hjerte.",
+      "text": "\fPrøv mig, HERRE, og test mig,\fransag mine nyrer og mit hjerte.",
       "title": "Bøn om hjælp",
       "footnotes": [
         {
@@ -74,7 +74,7 @@
     },
     {
       "number": 6,
-      "text": "\fJeg vil vaske mine hænder i uskyld,\fog jeg vil gå omkring dit alter, JHVHv,",
+      "text": "\fJeg vil vaske mine hænder i uskyld,\fog jeg vil gå omkring dit alter, HERRE,",
       "title": "David længes kun efter at være Gud nær",
       "version": 1457218800000
     },
@@ -92,7 +92,7 @@
     },
     {
       "number": 8,
-      "text": "\fJHVHv, jeg elsker dit hus’ bo\fog stedet for din herligheds bolig.",
+      "text": "\fHERRE, jeg elsker dit hus’ bo\fog stedet for din herligheds bolig.",
       "version": 1457218800000
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "number": 12,
-      "text": "\fMin fod har stået på fast grund,\fi forsamlinger vil jeg prise JHVH.",
+      "text": "\fMin fod har stået på fast grund,\fi forsamlinger vil jeg prise HERREN.",
       "title": "Vished om Guds hjælp",
       "version": 1457218800000
     }

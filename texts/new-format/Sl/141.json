@@ -16,7 +16,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Salme af David.\fJHVHv, jeg råber til dig, skynd dig til mig,\flyt til min røst når jeg kalder på dig.",
+      "text": "Salme af David.\fHERRE, jeg råber til dig, skynd dig til mig,\flyt til min røst når jeg kalder på dig.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -47,7 +47,7 @@
     },
     {
       "number": 3,
-      "text": "\fJHVHv, sæt vagt ved min mund,\fvogt mine læbers dør.",
+      "text": "\fHERRE, sæt vagt ved min mund,\fvogt mine læbers dør.",
       "title": "Bøn om styrke mod fristelsen",
       "version": 1493330400000
     },
@@ -110,11 +110,11 @@
     },
     {
       "number": 8,
-      "text": "\fJa, til dig, JHVHv, Herre, er mine øjne rettet,\fhos dig har jeg søgt tilflugt, giv mig ikke hen i døden!",
+      "text": "\fJa, til dig, HERRE, Herre, er mine øjne rettet,\fhos dig har jeg søgt tilflugt, giv mig ikke hen i døden!",
       "title": "Sammenfattende bøn",
       "footnotes": [
         {
-          "text": "Masoreterne har her ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
+          "text": "Masoreterne har her ikke – som oftest – vokaliseret HERREN som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
           "type": "E",
           "position": 20
         },

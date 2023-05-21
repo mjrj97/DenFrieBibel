@@ -1,5 +1,5 @@
 {
-  "book": "Esajas’ Bog",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 3,
   "translation": 100,
@@ -30,122 +30,122 @@
     },
     {
       "number": 2,
-      "text": "\f\t\t\thelt og kriger,\fdommer og profet,\fspåmand og ældste,",
+      "text": "\f\n\t\t\thelt og kriger,\fdommer og profet,\fspåmand og ældste,",
       "version": 1668034800000
     },
     {
       "number": 3,
-      "text": "\f\t\t\tbefalingsmand over halvtreds og højt agtet,\frådsherre, trolddomskyndig og slangetæmmer.",
+      "text": "\f\n\t\t\tbefalingsmand over halvtreds og højt agtet,\frådsherre, trolddomskyndig og slangetæmmer.",
       "version": 1668034800000
     },
     {
       "number": 4,
-      "text": "\f\t\tOg jeg vil give dem drenge til fyrster,\f\t\t\t\tbarnagtige skal regere over dem.",
+      "text": "\f\n\t\tOg jeg vil give dem drenge til fyrster,\f\n\t\t\t\tbarnagtige skal regere over dem.",
       "version": 1668034800000
     },
     {
       "number": 5,
-      "text": "\f\t\t\tFolket skal undertrykke hinanden,\f\t\t\t\t\t\tenhver imod sin næste;\f\t\t\t\t\t\t\tde skal være overmodige,\f\t\t\t\t\tden unge imod den gamle\f\t\t\t\t\t\tog den ringeagtede imod den ærede.",
+      "text": "\f\n\t\t\tFolket skal undertrykke hinanden,\f\n\t\t\t\t\t\tenhver imod sin næste;\f\n\t\t\t\t\t\t\tde skal være overmodige,\f\n\t\t\t\t\tden unge imod den gamle\f\n\t\t\t\t\t\tog den ringeagtede imod den ærede.",
       "version": 1668034800000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\tOg når én tager fat i sin bror i sin fars hus og siger:\f\t\t\t\t\t\t»Du har en kappe,\t\t\t\t\t\t\tdu skal være vores hersker;\f\t\t\t\t\t\t\t\tlad denne bunke ruiner være i din magt!«",
+      "text": "\f\n\t\t\t\tOg når én tager fat i sin bror i sin fars hus og siger:\f\n\t\t\t\t\t\t»Du har en kappe,\n\t\t\t\t\t\t\tdu skal være vores hersker;\f\n\t\t\t\t\t\t\t\tlad denne bunke ruiner være i din magt!«",
       "footnotes": [
         {
           "text": "Ordret: »i din hånd«.",
           "type": "T",
-          "position": 167
+          "position": 171
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 7,
-      "text": "\f\t\t\t\t\tså skal han på den dag tage til orde\t\t\t\t\t\tog sige:\f\t\t\t\t\t\t\t»Jeg vil ikke være læge for jeres sår,\f\t\t\t\t\t\t\t\t\tog der er hverken brød\t\t\t\t\t\t\t\t\t\teller tøj i mit hus;\f\t\t\t\t\t\t\t\tsæt ikke mig til fyrste over folket!«",
+      "text": "\f\n\t\t\t\t\tså skal han på den dag tage til orde\n\t\t\t\t\t\tog sige:\f\n\t\t\t\t\t\t\t»Jeg vil ikke være læge for jeres sår,\f\n\t\t\t\t\t\t\t\t\tog der er hverken brød\n\t\t\t\t\t\t\t\t\t\teller tøj i mit hus;\f\n\t\t\t\t\t\t\t\tsæt ikke mig til fyrste over folket!«",
       "footnotes": [
         {
           "text": "»Jeg vil ikke være forbinder [af sår]«.",
           "type": "T",
-          "position": 102
+          "position": 105
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 8,
-      "text": "\f\tFor Jerusalem snubler,\t\t\t\tog Juda falder,\f\t\t\tfordi deres tunge og deres gerninger er vendt mod JHVH\f\t\t\t\t\t\tfor at trodse hans herligheds øjne.",
+      "text": "\f\n\tFor Jerusalem snubler,\n\t\t\t\tog Juda falder,\f\n\t\t\tfordi deres tunge og deres gerninger er vendt mod HERREN\f\n\t\t\t\t\t\tfor at trodse hans herligheds øjne.",
       "version": 1668034800000
     },
     {
       "number": 9,
-      "text": "\f\t\t\t\t\tEt blik på deres ansigter vidner imod dem,\f\t\t\t\t\t\tde sætter deres synd til skue som Sodoma,\f\t\t\t\t\t\t\tde skjuler den ikke.\f\t\t\t\tVe deres sjæl!\f\t\t\t\t\t\t\tFor de har påført sig selv ulykke.",
+      "text": "\f\n\t\t\t\t\tEt blik på deres ansigter vidner imod dem,\f\n\t\t\t\t\t\tde sætter deres synd til skue som Sodoma,\f\n\t\t\t\t\t\t\tde skjuler den ikke.\f\n\t\t\t\tVe deres sjæl!\f\n\t\t\t\t\t\t\tFor de har påført sig selv ulykke.",
       "title": "Sorgen over folkets synd",
       "version": 1668034800000
     },
     {
       "number": 10,
-      "text": "\f\t\t\t\t\t\tSig om de retfærdige,\t\t\t\t\t\t\tat det skal gå dem godt;\f\t\t\t\t\t\t\t\tfor de skal nyde frugten af deres gerninger.",
+      "text": "\f\n\t\t\t\t\t\tSig om de retfærdige,\n\t\t\t\t\t\t\tat det skal gå dem godt;\f\n\t\t\t\t\t\t\t\tfor de skal nyde frugten af deres gerninger.",
       "version": 1668034800000
     },
     {
       "number": 11,
-      "text": "\f\t\t\t\t\tVe den ugudelige!\f\t\t\t\t\t\tDet skal gå ham skidt,\f\t\t\t\t\t\t\tfor det hans hænder har gjort, skal blive gengældt ham.",
+      "text": "\f\n\t\t\t\t\tVe den ugudelige!\f\n\t\t\t\t\t\tDet skal gå ham skidt,\f\n\t\t\t\t\t\t\tfor det hans hænder har gjort, skal blive gengældt ham.",
       "version": 1668034800000
     },
     {
       "number": 12,
-      "text": "\f\t\tMit folk! Din\t\t\t\t\thersker opfører sig som et barn,\f\t\t\t\tkvinder hersker over det.\f\t\t\tMit folk!\t\t\t\tDine vejledere vildleder dig,\f\t\t\t\t\tog vejen du vandrer på, har de slugt.",
+      "text": "\f\n\t\tMit folk! Din\n\t\t\t\t\thersker opfører sig som et barn,\f\n\t\t\t\tkvinder hersker over det.\f\n\t\t\tMit folk!\n\t\t\t\tDine vejledere vildleder dig,\f\n\t\t\t\t\tog vejen du vandrer på, har de slugt.",
       "footnotes": [
         {
           "text": "»Dets«.",
           "type": "T",
-          "position": 16
+          "position": 17
         },
         {
           "text": "Eller »dine stiers vej har de forvirret«.",
           "type": "T",
-          "position": 172
+          "position": 178
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 13,
-      "text": "\f\t\t\tJHVHer trådt frem\t\t\t\tfor at gå i rette,\f\t\tog han stiller sig op\t\t\tfor at dømme folkene.",
+      "text": "\f\n\t\t\tHERRENer trådt frem\n\t\t\t\tfor at gå i rette,\f\n\t\tog han stiller sig op\n\t\t\tfor at dømme folkene.",
       "version": 1668034800000
     },
     {
       "number": 14,
-      "text": "\f\tJHVH kommer med dom over sit folks ældste og over dets fyrster:\f\t\t\t\t»I har afgræsset vingården,\f\t\t\t\t\t\tder er tyvegods fra den fattige i jeres huse.",
+      "text": "\f\n\tHERREN kommer med dom over sit folks ældste og over dets fyrster:\f\n\t\t\t\t»I har afgræsset vingården,\f\n\t\t\t\t\t\tder er tyvegods fra den fattige i jeres huse.",
       "footnotes": [
         {
           "text": "Ordret: »den fattiges rov er i jeres huse«.",
           "type": "T",
-          "position": 149
+          "position": 154
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 15,
-      "text": "\f\t\t\t\t\tHvorfor\t\t\t\t\t\ttramper I mit folk ned\t\t\t\t\t\t\tog knuser fattiges ansigter?«\t\t\t\t\t\t\t\tsiger Herren, Hærskarers HERRE.",
+      "text": "\f\n\t\t\t\t\tHvorfor\n\t\t\t\t\t\ttramper I mit folk ned\n\t\t\t\t\t\t\tog knuser fattiges ansigter?«\n\t\t\t\t\t\t\t\tsiger Herren, Hærskarers HERRE.",
       "version": 1668034800000
     },
     {
       "number": 16,
-      "text": "\f\t\t\tOg JHVH sagde:\f\t\t\t\t»Fordi Zions døtre ophøjer sig\f\t\t\t\t\t\tog går med knejsende nakke,\f\t\t\t\t\t\t\tblinker forførende med øjnene,\fgår trippende\f\t\t\t\t\t\t\t\tog rasler med ankelringene,",
+      "text": "\f\n\t\t\tOg HERREN sagde:\f\n\t\t\t\t»Fordi Zions døtre ophøjer sig\f\n\t\t\t\t\t\tog går med knejsende nakke,\f\n\t\t\t\t\t\t\tblinker forførende med øjnene,\fgår trippende\f\n\t\t\t\t\t\t\t\tog rasler med ankelringene,",
       "title": "Straffen over de fornemme",
       "version": 1668034800000
     },
     {
       "number": 17,
-      "text": "\f\t\t\t\t\tså skal Herren gøre Zions døtres isse til en skorpe,\f\t\t\t\t\t\tog JHVH skal blotte deres nøgne skød.",
+      "text": "\f\n\t\t\t\t\tså skal Herren gøre Zions døtres isse til en skorpe,\f\n\t\t\t\t\t\tog HERREN skal blotte deres nøgne skød.",
       "version": 1668034800000
     },
     {
       "number": 18,
-      "text": "\f\t\tPå den dag skal Herren fjerne pynten: \fAnkelringene, hovedbåndene og månetegnene,",
+      "text": "\f\n\t\tPå den dag skal Herren fjerne pynten:\fAnkelringene, hovedbåndene og månetegnene,",
       "footnotes": [
         {
           "text": "Der kan være tale om et dekorativt bånd, der går fra øre til øre. Det er også foreslået at ordet relaterer til det hebraiske *šemeš*, »sol«, og altså er en solamulet.",
@@ -157,61 +157,61 @@
     },
     {
       "number": 19,
-      "text": "\f\t\t\t\t\tøreringene, armspænderne og slørene,",
+      "text": "\f\n\t\t\t\t\tøreringene, armspænderne og slørene,",
       "version": 1668034800000
     },
     {
       "number": 20,
-      "text": "\f\t\t\t\t\thovedprydelsen, armbåndene,\fbrystbåndene, parfumedåserne og amuletterne,",
+      "text": "\f\n\t\t\t\t\thovedprydelsen, armbåndene,\fbrystbåndene, parfumedåserne og amuletterne,",
       "footnotes": [
         {
           "text": "Kan også være ankelkæder.",
           "type": "T",
-          "position": 33
+          "position": 34
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 21,
-      "text": "\f\t\t\t\t\tfingerringene og næseringene,",
+      "text": "\f\n\t\t\t\t\tfingerringene og næseringene,",
       "version": 1668034800000
     },
     {
       "number": 22,
-      "text": "\f\t\t\t\t\tfesttøjet, kåberne, kapperne og taskerne,",
+      "text": "\f\n\t\t\t\t\tfesttøjet, kåberne, kapperne og taskerne,",
       "version": 1668034800000
     },
     {
       "number": 23,
-      "text": "\f\t\t\t\t\t\tspejlene, det fine undertøj, turbanerne og sjalerne.",
+      "text": "\f\n\t\t\t\t\t\tspejlene, det fine undertøj, turbanerne og sjalerne.",
       "footnotes": [
         {
           "text": "Der er uenighed om hvad *gillāyôn* betyder. Nogle forstår det som små metalobjekter, der kan have været brugt som spejle. Andre forstår det som et stykke gennemsigtigt stof, eventuelt silke. Ordet bruges dog også i Es 8,1, hvor det klart bruges om en tavle, man kan skrive på.",
           "type": "E",
-          "position": 16
+          "position": 17
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 24,
-      "text": "\f\t\t\t\tOg der skal være\t\t\t\t\tstank i stedet for vellugt,\f\t\t\t\t\t\t\treb i stedet for bælte,\f\t\t\t\t\t\t\t\tskaldet hoved i stedet for hårfletninger,\f\t\t\t\t\t\t\t\t\tsæk i stedet for kåbe – \f\t\t\t\t\t\tja, i stedet for skønhed.",
+      "text": "\f\n\t\t\t\tOg der skal være\n\t\t\t\t\tstank i stedet for vellugt,\f\n\t\t\t\t\t\t\treb i stedet for bælte,\f\n\t\t\t\t\t\t\t\tskaldet hoved i stedet for hårfletninger,\f\n\t\t\t\t\t\t\t\t\tsæk i stedet for kåbe –\f\n\t\t\t\t\t\tja, i stedet for skønhed.",
       "version": 1668034800000
     },
     {
       "number": 25,
-      "text": "\f\t\t\tDine mænd skal falde for sværdet\f\t\t\t\t\tog din hærstyrke i krigen.",
+      "text": "\f\n\t\t\tDine mænd skal falde for sværdet\f\n\t\t\t\t\tog din hærstyrke i krigen.",
       "version": 1668034800000
     },
     {
       "number": 26,
-      "text": "\f\t\t\t\t\t\tI hendes porte skal der være sorg\t\t\t\tog klage,\f\t\t\t\t\t\tog hun selv skal sidde\t\t\t\t\ttomhændet\t\t\t\t\t\tpå jorden.",
+      "text": "\f\n\t\t\t\t\t\tI hendes porte skal der være sorg\n\t\t\t\tog klage,\f\n\t\t\t\t\t\tog hun selv skal sidde\n\t\t\t\t\ttomhændet\n\t\t\t\t\t\tpå jorden.",
       "footnotes": [
         {
           "text": "Dvs. Jerusalems.",
           "type": "T",
-          "position": 15
+          "position": 16
         }
       ],
       "version": 1668034800000

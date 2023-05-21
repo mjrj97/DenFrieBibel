@@ -24,77 +24,77 @@
   "verses": [
     {
       "number": 1,
-      "text": "En salme.\fSyng for JHVH en ny sang,\f\t\tfor han har gjort undere;\f\t\t\thans højre hånd og hans hellige arm\fudøvede frelsen for ham.",
+      "text": "En salme.\fSyng for HERREN en ny sang,\f\n\t\tfor han har gjort undere;\f\n\t\t\thans højre hånd og hans hellige arm\fudøvede frelsen for ham.",
       "title": "Overskrift",
       "footnotes": [
         {
           "text": "Ordret: »hans helligheds arm«.",
           "type": "T",
-          "position": 102
+          "position": 106
         },
         {
           "text": "Kan også oversættes: »skaffede ham sejr«. For forståelsens skyld er der her byttet om på linjerne. Egentlig: »hans højre hånd udøvede frelsen for ham / og hans hellige arm«.",
           "type": "T",
-          "position": 127
+          "position": 131
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 2,
-      "text": "\f\tJHVH har kundgjort sin frelse,\f\t\t\tfor folkenes øjne\fhar han åbenbaret sin retfærdighed.",
-      "title": "Syng for JHVH!",
+      "text": "\f\n\tHERREN har kundgjort sin frelse,\f\n\t\t\tfor folkenes øjne\fhar han åbenbaret sin retfærdighed.",
+      "title": "Syng for HERREN!",
       "version": 1666562400000
     },
     {
       "number": 3,
-      "text": "\f\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\t\tAlle jordens ender\fhar set vor Guds frelse.",
+      "text": "\f\n\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\n\t\tAlle jordens ender\fhar set vor Guds frelse.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »sandhed«",
           "type": "T",
-          "position": 46
+          "position": 47
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 4,
-      "text": "\fBryd ud i fryderåd for JHVH,\thele jorden!\fBryd ud i jubel,\tfryd jer,\tsyng!",
-      "title": "Bryd ud i jubel for JHVH!",
+      "text": "\fBryd ud i fryderåd for HERREN,\n\thele jorden!\fBryd ud i jubel,\n\tfryd jer,\n\tsyng!",
+      "title": "Bryd ud i jubel for HERREN!",
       "version": 1666562400000
     },
     {
       "number": 5,
-      "text": "\fLovsyng JHVH til citer,\f\t\ttil citer og høj sang,",
+      "text": "\fLovsyng HERREN til citer,\f\n\t\ttil citer og høj sang,",
       "version": 1666562400000
     },
     {
       "number": 6,
-      "text": "\f\ttil trompeter og hornklang;\fbryd ud i fryderåb for kongens, JHVHs, ansigt!",
+      "text": "\f\n\ttil trompeter og hornklang;\fbryd ud i fryderåb for kongens, HERRENS, ansigt!",
       "version": 1666562400000
     },
     {
       "number": 7,
-      "text": "\f\tHavet og dets fylde skal larme,\f\t\t\t\tverden og de som bor i den!",
-      "title": "JHVH kommer!",
+      "text": "\f\n\tHavet og dets fylde skal larme,\f\n\t\t\t\tverden og de som bor i den!",
+      "title": "HERREN kommer!",
       "version": 1666562400000
     },
     {
       "number": 8,
-      "text": "\f\t\t\tStrømme skal klappe i hænderne,\f\t\t\t\t\tbjerge skal sammen juble",
+      "text": "\f\n\t\t\tStrømme skal klappe i hænderne,\f\n\t\t\t\t\tbjerge skal sammen juble",
       "footnotes": [
         {
           "text": "Ordret: »skal klappe hånd«.",
           "type": "T",
-          "position": 35
+          "position": 36
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 9,
-      "text": "\f\t\t\t\tfor JHVHs ansigt;\t\tfor han kommer\f\t\t\t\tfor at dømme jorden.\f\t\t\tHan skal dømme verden med retfærdighed\f\t\t\t\tog folkeslagene med retskaffenhed.",
+      "text": "\f\n\t\t\t\tfor HERRENS ansigt;\n\t\tfor han kommer\f\n\t\t\t\tfor at dømme jorden.\f\n\t\t\tHan skal dømme verden med retfærdighed\f\n\t\t\t\tog folkeslagene med retskaffenhed.",
       "version": 1666562400000
     }
   ]

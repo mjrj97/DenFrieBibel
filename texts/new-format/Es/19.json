@@ -1,5 +1,5 @@
 {
-  "book": "Esajas",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 19,
   "translation": 100,
@@ -20,52 +20,52 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fUdsagn om Egypten. \fSe, JHVH rider på en let sky \fog kommer til Egypten, \fog Egyptens afguder bæver for ham, \fog Egyptens hjerte bliver modløst i dets indre.",
+      "text": "\fUdsagn om Egypten.\fSe, HERREN rider på en let sky\fog kommer til Egypten,\fog Egyptens afguder bæver for ham,\fog Egyptens hjerte bliver modløst i dets indre.",
       "title": "Ord mod Egypten",
       "footnotes": [
         {
           "text": "Kan også oversættes: »for hans ansigt«.",
           "type": "T",
-          "position": 109
+          "position": 108
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 2,
-      "text": "\fFor jeg vil væbne Egypten imod Egypten, \fså de kæmper hver mod sin bror \fog hver mod sin næste, \fby mod by, \fkongerige mod kongerige.",
+      "text": "\fFor jeg vil væbne Egypten imod Egypten,\fså de kæmper hver mod sin bror\fog hver mod sin næste,\fby mod by,\fkongerige mod kongerige.",
       "version": 1681336800000
     },
     {
       "number": 3,
-      "text": "\fOg Egyptens ånd skal gå til grunde i dets indre, \fog dets planer vil jeg forvirre, \fså de vender sig til afguderne og til genfærd\ftil dødemanerne og til sandsigerne.",
+      "text": "\fOg Egyptens ånd skal gå til grunde i dets indre,\fog dets planer vil jeg forvirre,\fså de vender sig til afguderne og til genfærd\ftil dødemanerne og til sandsigerne.",
       "version": 1681336800000
     },
     {
       "number": 4,
-      "text": "\fOg jeg vil overgive Egypten \ftil hårde herrers hånd, \fog en streng konge skal herske over dem, \fdet er Herrens, Hærskarers HERRES, udsagn.\f\n",
+      "text": "\fOg jeg vil overgive Egypten\ftil hårde herrers hånd,\fog en streng konge skal herske over dem,\fdet er Herrens, Hærskarers HERRES, udsagn.\f\u000b",
       "footnotes": [
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 131
+          "position": 128
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 5,
-      "text": "\fVand skal svinde bort fra havet, \fog flod skal udtørres og blive tør,",
+      "text": "\fVand skal svinde bort fra havet,\fog flod skal udtørres og blive tør,",
       "version": 1681336800000
     },
     {
       "number": 6,
-      "text": "\fog floder skal stinke, \flavvandede og tørre skal Egyptens strømme blive, \frør og siv skal visne.",
+      "text": "\fog floder skal stinke,\flavvandede og tørre skal Egyptens strømme blive,\frør og siv skal visne.",
       "version": 1681336800000
     },
     {
       "number": 7,
-      "text": "\fEngene ved Nilen, ved bredden af Nilen, og alle Nilens tilsåede marker \fskal tørre ud, blæses væk så de ikke findes mere.",
+      "text": "\fEngene ved Nilen, ved bredden af Nilen, og alle Nilens tilsåede marker\fskal tørre ud, blæses væk så de ikke findes mere.",
       "footnotes": [
         {
           "text": "Ordet *ʕārāʰ* findes i Bibelen kun her, og oversættelsen er usikker. Fortolkerne vakler mellem: »enge/åbne pladser« og »sivplanter«.",
@@ -87,7 +87,7 @@
     },
     {
       "number": 8,
-      "text": "\fOg fiskerne skal klage og sørge, \falle der kaster krog i Nilen, \fbreder garn ud over vandet, \fskal sygne hen.",
+      "text": "\fOg fiskerne skal klage og sørge,\falle der kaster krog i Nilen,\fbreder garn ud over vandet,\fskal sygne hen.",
       "version": 1681336800000
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "number": 10,
-      "text": "\fOg dets søjler skal være knust, \falle de der arbejder for løn, skal være bedrøvede i hjertet.",
+      "text": "\fOg dets søjler skal være knust,\falle de der arbejder for løn, skal være bedrøvede i hjertet.",
       "footnotes": [
         {
           "text": "Der er tænkt på Egyptens ledere. Men ofte følger man Septuatinta, der forudsætter sletning af et *t*: *šātōteʸhā* til: *šōteʸhā*: »vævere«.",
@@ -116,41 +116,41 @@
     },
     {
       "number": 11,
-      "text": "\fSoans ledere er helt igennem tåber, \fFaraos vise rådgiveres råd er tåbeligt; \fhvordan kan I sige til Farao: \f»Jeg er søn af vismænd, \ffortids kongers søn«?",
+      "text": "\fSoans ledere er helt igennem tåber,\fFaraos vise rådgiveres råd er tåbeligt;\fhvordan kan I sige til Farao:\f»Jeg er søn af vismænd,\ffortids kongers søn«?",
       "version": 1681336800000
     },
     {
       "number": 12,
-      "text": "\fHvor er da dine vismænd? \fLad dem da fortælle dig, \fog lad dem vide, \fhvad Hærskarers HERRE har besluttet om Egypten!",
+      "text": "\fHvor er da dine vismænd?\fLad dem da fortælle dig,\fog lad dem vide,\fhvad Hærskarers HERRE har besluttet om Egypten!",
       "footnotes": [
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 92
+          "position": 89
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 13,
-      "text": "\fSoans ledere er blevet tåber, \fNofs ledere er blevet bedraget, \fog Egypten har vildledt sine stammers hjørnesten.",
+      "text": "\fSoans ledere er blevet tåber,\fNofs ledere er blevet bedraget,\fog Egypten har vildledt sine stammers hjørnesten.",
       "version": 1681336800000
     },
     {
       "number": 14,
-      "text": "\fJHVH har i dets indre blandet\fen forvirringens ånd, \fog den har vildledt Egypten \fi al dets gerning, \fsom en beruset tumler omkring i sit opkast.",
+      "text": "\fHERREN har i dets indre blandet\fen forvirringens ånd,\fog den har vildledt Egypten\fi al dets gerning,\fsom en beruset tumler omkring i sit opkast.",
       "footnotes": [
         {
           "text": "Egyptens.",
           "type": "T",
-          "position": 16
+          "position": 18
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 15,
-      "text": "\fOg der skal ikke være nogen gerning for Egypten, \fsom hoved eller hale, \fpalmegren eller siv kan udføre.",
+      "text": "\fOg der skal ikke være nogen gerning for Egypten,\fsom hoved eller hale,\fpalmegren eller siv kan udføre.",
       "version": 1681336800000
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "number": 19,
-      "text": "\fPå den dag skal der være et alter for JHVH midt i Egyptens land og en stenstøtte for JHVH ved dets grænse.",
+      "text": "\fPå den dag skal der være et alter for HERREN midt i Egyptens land og en stenstøtte for HERREN ved dets grænse.",
       "version": 1681336800000
     },
     {
       "number": 20,
-      "text": "Og det skal være tegn og vidne for Hærskarers HERRE i Egyptens land på at når de råber til JHVH på grund af undertrykkere, så sender han en befrier og en forsvarer og redder dem.",
+      "text": "Og det skal være tegn og vidne for Hærskarers HERRE i Egyptens land på at når de råber til HERREN på grund af undertrykkere, så sender han en befrier og en forsvarer og redder dem.",
       "footnotes": [
         {
           "text": "Hærskarers",
@@ -213,19 +213,19 @@
     },
     {
       "number": 21,
-      "text": "Og JHVH skal give sig til kende for Egypten, og egypterne skal kende JHVH på den dag, og de skal tjene ham med slagtoffer og afgrødeoffer og de skal aflægge løfte til JHVH og indfri dem.",
+      "text": "Og HERREN skal give sig til kende for Egypten, og egypterne skal kende HERREN på den dag, og de skal tjene ham med slagtoffer og afgrødeoffer og de skal aflægge løfte til HERREN og indfri dem.",
       "footnotes": [
         {
           "text": "Her har det hebraiske ord bibetydning af tilbede og ære. I hebraiske ører klinger det med.",
           "type": "T",
-          "position": 102
+          "position": 106
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 22,
-      "text": "Og JHVH skal slå Egypten, slå og helbrede; og de skal vende om til JHVH, og han skal bønhøre dem og helbrede dem.",
+      "text": "Og HERREN skal slå Egypten, slå og helbrede; og de skal vende om til HERREN, og han skal bønhøre dem og helbrede dem.",
       "version": 1681336800000
     },
     {

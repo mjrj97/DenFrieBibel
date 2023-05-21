@@ -1,5 +1,5 @@
 {
-  "book": "Esajas",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 17,
   "translation": 100,
@@ -20,40 +20,40 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fUdsagn om Damaskus. \fSe, Damaskus fjernes fra at være en by, \fog den skal blive en ruinhob.",
+      "text": "\fUdsagn om Damaskus.\fSe, Damaskus fjernes fra at være en by,\fog den skal blive en ruinhob.",
       "title": "Guds dom over Aram og Nordriget",
       "version": 1681336800000
     },
     {
       "number": 2,
-      "text": "\fAro’ers byer bliver forladt; \fde skal være til fårehjorde, \fog de skal lejre sig der, \fog ingen skræmmer dem.",
+      "text": "\fAro’ers byer bliver forladt;\fde skal være til fårehjorde,\fog de skal lejre sig der,\fog ingen skræmmer dem.",
       "version": 1681336800000
     },
     {
       "number": 3,
-      "text": "\fOg fæstning forsvinder fra Efraim \fog kongedømme fra Damaskus \fog fra resten af Aram; \fde skal blive som Israels børns herlighed, \fsiger Hærskarers HERRE.",
+      "text": "\fOg fæstning forsvinder fra Efraim\fog kongedømme fra Damaskus\fog fra resten af Aram;\fde skal blive som Israels børns herlighed,\fsiger Hærskarers HERRE.",
       "footnotes": [
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 155
+          "position": 151
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 4,
-      "text": "\fOg det skal ske på den dag: \fDa skal Jakobs herlighed svinde, \fog hans køds fedme skal svinde ind.",
+      "text": "\fOg det skal ske på den dag:\fDa skal Jakobs herlighed svinde,\fog hans køds fedme skal svinde ind.",
       "version": 1681336800000
     },
     {
       "number": 5,
-      "text": "\fOg det skal gå som når en der høster, samler korn, \fog hans arm skærer aksene af; \fog det skal gå som når man samler aks \fi Refaims Dal.",
+      "text": "\fOg det skal gå som når en der høster, samler korn,\fog hans arm skærer aksene af;\fog det skal gå som når man samler aks\fi Refaims Dal.",
       "version": 1681336800000
     },
     {
       "number": 6,
-      "text": "\fMen der skal blive en efterslæt tilbage dér, \fsom når man slår oliven ned: \fTo-tre bær i trætoppen, \ffire–fem på dets frugtbare kviste, \fsådan er JHVHs, Israels Guds, udsagn.",
+      "text": "\fMen der skal blive en efterslæt tilbage dér,\fsom når man slår oliven ned:\fTo-tre bær i trætoppen,\ffire–fem på dets frugtbare kviste,\fsådan er HERRENS, Israels Guds, udsagn.",
       "version": 1681336800000
     },
     {
@@ -87,37 +87,37 @@
     },
     {
       "number": 10,
-      "text": "\fFor du har glemt din frelses Gud \fog ikke husket på din styrkes klippe; \fderfor planter du skønheders planter \fog sætter en fremmeds vinranker.",
+      "text": "\fFor du har glemt din frelses Gud\fog ikke husket på din styrkes klippe;\fderfor planter du skønheders planter\fog sætter en fremmeds vinranker.",
       "footnotes": [
         {
           "text": "I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.",
           "type": "E",
-          "position": 102
+          "position": 100
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 11,
-      "text": "\fDen dag du planter, sætter du hegn omkring, \fog om morgenen får du din plantning til at blomstre; \fmen flygtet er høsten på en dag med sygdom\fog ulægelig smerte.",
+      "text": "\fDen dag du planter, sætter du hegn omkring,\fog om morgenen får du din plantning til at blomstre;\fmen flygtet er høsten på en dag med sygdom\fog ulægelig smerte.",
       "footnotes": [
         {
           "text": "Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: »dæmning«. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: »er flygtet«.",
           "type": "E",
-          "position": 111
+          "position": 109
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 12,
-      "text": "\fVe! Der er larm af mange folkeslag! \fDe larmer, som havenes larmen; \fet bulder af folkefærd! \fDe buldrer som mægtige vandes buldren.",
+      "text": "\fVe! Der er larm af mange folkeslag!\fDe larmer, som havenes larmen;\fet bulder af folkefærd!\fDe buldrer som mægtige vandes buldren.",
       "title": "Ord mod Assur",
       "version": 1681336800000
     },
     {
       "number": 13,
-      "text": "\fFolkeslag buldrer som mange vandes buldren, \fmen han truer det \fså det flygter langt bort; \fdet jages som avner på bjergene af vind \fog som en kugletidsel af hvirvelvind.",
+      "text": "\fFolkeslag buldrer som mange vandes buldren,\fmen han truer det\fså det flygter langt bort;\fdet jages som avner på bjergene af vind\fog som en kugletidsel af hvirvelvind.",
       "footnotes": [
         {
           "text": "Denne sætning mangler i mange håndskrifter.",
@@ -127,19 +127,19 @@
         {
           "text": "Teksten her og i det følgende står i singularis, så det må henvise til Assur.",
           "type": "T",
-          "position": 63
+          "position": 62
         },
         {
           "text": "Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: »hjul«, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.",
           "type": "T",
-          "position": 155
+          "position": 151
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 14,
-      "text": "\fVed aftenstid – se, der er rædsel! \fFørend morgen – de er ikke mere! \fDette er hvad de der plyndrer os, får, \fog deres lod, der røver fra os.",
+      "text": "\fVed aftenstid – se, der er rædsel!\fFørend morgen – de er ikke mere!\fDette er hvad de der plyndrer os, får,\fog deres lod, der røver fra os.",
       "version": 1681336800000
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "book": "Esajas’ Bog",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 4,
   "translation": 100,
@@ -24,40 +24,40 @@
   "verses": [
     {
       "number": 1,
-      "text": "Og syv kvinder skal gribe fat i én mand på den dag\t\tog sige:\f\t\t\t»Vi vil spise vores eget brød\f\t\t\t\t\tog klæde os i vores eget tøj,\f\t\t\t\tbare man må kalde os med dit navn;\f\t\t\t\t\tfjern vores vanære!«",
+      "text": "Og syv kvinder skal gribe fat i én mand på den dag\n\t\tog sige:\f\n\t\t\t»Vi vil spise vores eget brød\f\n\t\t\t\t\tog klæde os i vores eget tøj,\f\n\t\t\t\tbare man må kalde os med dit navn;\f\n\t\t\t\t\tfjern vores vanære!«",
       "version": 1668034800000
     },
     {
       "number": 2,
-      "text": "\f\tPå den dag skal JHVHs spire være til pragt og herlighed\t\t\t\tog landets frugt til stolthed og pryd for Israels undslupne.",
+      "text": "\f\n\tPå den dag skal HERRENS spire være til pragt og herlighed\n\t\t\t\tog landets frugt til stolthed og pryd for Israels undslupne.",
       "title": "Jerusalem renses og bliver hellig",
       "version": 1668034800000
     },
     {
       "number": 3,
-      "text": "\t\t\tDen\t\t\t\tder er blevet tilbage i Zion,\t\t\t\t\t\tog den der er blevet efterladt i Jerusalem,\t\t\t\t\t\tskal kaldes hellig,\t\t\t\t\tenhver i Jerusalem\t\t\t\t\t\tsom er indskrevet til livet,",
+      "text": "\n\t\t\tDen\n\t\t\t\tder er blevet tilbage i Zion,\n\t\t\t\t\t\tog den der er blevet efterladt i Jerusalem,\n\t\t\t\t\t\tskal kaldes hellig,\n\t\t\t\t\tenhver i Jerusalem\n\t\t\t\t\t\tsom er indskrevet til livet,",
       "version": 1668034800000
     },
     {
       "number": 4,
-      "text": "\t\tnår Herren har vasket Zions døtres urenhed af\t\t\t\tog skyllet Jerusalems blodskyld væk fra dens midte ved en Ånd der dømmer, og ved en Ånd\t\t\t\t\tder renser ud.",
+      "text": "\n\t\tnår Herren har vasket Zions døtres urenhed af\n\t\t\t\tog skyllet Jerusalems blodskyld væk fra dens midte ved en Ånd der dømmer, og ved en Ånd\n\t\t\t\t\tder renser ud.",
       "footnotes": [
         {
           "text": "Der er forskellige bud på, hvordan v. 3-5 hænger sammen. Nogle oversættelser vælger at knytte v. 3-4 sammen og sætter punktum efter v. 4, mens andre sætter punktum efter v. 3 og dermed knytter v. 4-5 sammen.",
           "type": "E",
-          "position": 5
+          "position": 6
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 5,
-      "text": "\t\t\tOg over hele Zions bjerg og over dets forsamling vil JHVH skabe en sky om dagen\t\t\t\t\tog røg og skinnende, flammende ild om natten;\t\t\t\tfor over alt herligt skal der være et dække.",
+      "text": "\n\t\t\tOg over hele Zions bjerg og over dets forsamling vil HERREN skabe en sky om dagen\n\t\t\t\t\tog røg og skinnende, flammende ild om natten;\n\t\t\t\tfor over alt herligt skal der være et dække.",
       "version": 1668034800000
     },
     {
       "number": 6,
-      "text": "\t\t\t\t\tDer skal være en hytte til skygge mod hede om dagen\t\t\t\t\t\tog til ly og skjul mod skybrud og regn.",
+      "text": "\n\t\t\t\t\tDer skal være en hytte til skygge mod hede om dagen\n\t\t\t\t\t\tog til ly og skjul mod skybrud og regn.",
       "version": 1668034800000
     }
   ]

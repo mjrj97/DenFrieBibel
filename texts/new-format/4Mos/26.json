@@ -16,7 +16,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fEfter plagen talte JHVH til Moses og til Eleazar, præsten Arons søn:",
+      "text": "\fEfter plagen talte HERREN til Moses og til Eleazar, præsten Arons søn:",
       "title": "Moses og Eleazar skal atter mønstre folket.",
       "version": 1500328800000
     },
@@ -32,7 +32,7 @@
     },
     {
       "number": 4,
-      "text": "»Tæl dem der er tyve år gamle og derover, sådan som JHVH har befalet Moses og israelitterne, dem som var draget ud af Egypten.«",
+      "text": "»Tæl dem der er tyve år gamle og derover, sådan som HERREN har befalet Moses og israelitterne, dem som var draget ud af Egypten.«",
       "version": 1500328800000
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "number": 9,
-      "text": "Eliabs børn var Nemuel, Datan og Abiram. Det var den Datan og Abiram, der var blandt de udnævnte af forsamlingen, og som havde skændtes med Moses og Aron sammen med Kora da de skændtes med JHVH.",
+      "text": "Eliabs børn var Nemuel, Datan og Abiram. Det var den Datan og Abiram, der var blandt de udnævnte af forsamlingen, og som havde skændtes med Moses og Aron sammen med Kora da de skændtes med HERREN.",
       "version": 1500328800000
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "number": 48,
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNaftalis efterkommere efter deres slægter var: Af Jakse’el, jakse’elitternes slægt; af Guni, gunitternes slægt;",
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNaftalis efterkommere efter deres slægter var: Af Jakse’el, jakse’elitternes slægt; af Guni, gunitternes slægt;",
       "version": 1500328800000
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "number": 52,
-      "text": "\fJHVH sagde til Moses:",
+      "text": "\fHERREN sagde til Moses:",
       "title": "Moses skal fortælle folket hvordan landet skal deles mellem dem ved lodkastning.",
       "version": 1500328800000
     },
@@ -320,7 +320,7 @@
     },
     {
       "number": 61,
-      "text": "Nadab og Abihu døde da de førte fremmed ild ind for JHVHs ansigt.",
+      "text": "Nadab og Abihu døde da de førte fremmed ild ind for HERRENS ansigt.",
       "version": 1500328800000
     },
     {
@@ -341,7 +341,7 @@
     },
     {
       "number": 65,
-      "text": "For JHVH havde sagt til dem at de så sandelig skulle dø i ørkenen, og der var ingen tilbage af dem, undtagen Kaleb, Jefunnes søn, og Josva, Nuns søn.",
+      "text": "For HERREN havde sagt til dem at de så sandelig skulle dø i ørkenen, og der var ingen tilbage af dem, undtagen Kaleb, Jefunnes søn, og Josva, Nuns søn.",
       "version": 1500328800000
     }
   ]

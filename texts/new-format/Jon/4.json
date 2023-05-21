@@ -1,5 +1,5 @@
 {
-  "book": "Jonas’ Bog",
+  "book": "Jonas' Bog",
   "abbreviation": "Jon",
   "chapter": 4,
   "translation": 75,
@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Men det harmedes Jonas vældigt over,\t\tog han var rasende. ",
+      "text": "Men det harmedes Jonas vældigt over,\n\t\tog han var rasende.",
       "title": "Jonas’ klage og Guds irettesættelse af ham ",
       "footnotes": [
         {
@@ -38,60 +38,60 @@
     },
     {
       "number": 2,
-      "text": "\t\tHan bad til HERREN\t\tog sagde:\t\t\t»Åh, HERRE,\t\t\t\t\tvar dette ikke min begrundelse \t\t\t\t\t\t\tså længe jeg var på min egen jord?\t\t\t\t\t\tDerfor tog jeg af sted\t\t\t\t\t\t\t\tfor at flygte til Tarshish,\t\t\t\t\t\t\tfor jeg ved\t\t\t\t\t\t\t\tat du er en nådig og barmhjertig Gud,\t\t\t\t\t\t\t\t\tsen til vrede\t\t\t\t\t\t\t\t\t\tog mægtig i trofast kærlighed,\t\t\t\t\t\t\t\t\t\t\tog du angrer det onde.",
+      "text": "\n\t\tHan bad til HERREN\n\t\tog sagde:\n\t\t\t»Åh, HERRE,\n\t\t\t\t\tvar dette ikke min begrundelse\n\t\t\t\t\t\t\tså længe jeg var på min egen jord?\n\t\t\t\t\t\tDerfor tog jeg af sted\n\t\t\t\t\t\t\t\tfor at flygte til Tarshish,\n\t\t\t\t\t\t\tfor jeg ved\n\t\t\t\t\t\t\t\tat du er en nådig og barmhjertig Gud,\n\t\t\t\t\t\t\t\t\tsen til vrede\n\t\t\t\t\t\t\t\t\t\tog mægtig i trofast kærlighed,\n\t\t\t\t\t\t\t\t\t\t\tog du angrer det onde.",
       "footnotes": [
         {
           "text": "*dāvār* har kernebetydningen »ord, begivenhed« og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.",
           "type": "E",
-          "position": 81
+          "position": 84
         },
         {
           "text": "Nåde",
           "type": "N",
-          "position": 310
+          "position": 320
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 3,
-      "text": "\t\t\t\tOg nu, HERRE,\t\t\t\t\ttag mit liv  fra mig,\t\t\t\t\t\tfor min død er langt bedre end mit liv«",
+      "text": "\n\t\t\t\tOg nu, HERRE,\n\t\t\t\t\ttag mit liv fra mig,\n\t\t\t\t\t\tfor min død er langt bedre end mit liv«",
       "footnotes": [
         {
           "text": "Ordret: »sjæl«. Her er der dog ikke kun tale om sindet, men om hele personen. I den følgende sætning er der tale om kontrasten mellem livet og døden.",
           "type": "T",
-          "position": 34
+          "position": 35
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 4,
-      "text": "\tHERREN sagde:\t\t»Er det med rette\t\t\tat du er rasende?«",
+      "text": "\n\tHERREN sagde:\n\t\t»Er det med rette\n\t\t\tat du er rasende?«",
       "footnotes": [
         {
           "text": "Ordret: »Mon [det er] godt at [den] brænder for dig?« (jf. v. 1).",
           "type": "T",
-          "position": 52
+          "position": 55
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 5,
-      "text": "\fJonas gik ud af byen\tog slog sig ned øst for byen.\tHan lavede sig en hytte der\tog satte sig i skyggen ved siden af den\t\tindtil han kunne se\t\t\thvad der ville ske i byen.",
+      "text": "\fJonas gik ud af byen\n\tog slog sig ned øst for byen.\n\tHan lavede sig en hytte der\n\tog satte sig i skyggen ved siden af den\n\t\tindtil han kunne se\n\t\t\thvad der ville ske i byen.",
       "footnotes": [
         {
           "text": "Ordret: »under den.«",
           "type": "T",
-          "position": 115
+          "position": 118
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 6,
-      "text": "Da sørgede Gud HERREN for en olieplante,\t\tog den voksede op over Jonas\t\t\tså den kunne kaste skygge over hans hoved\t\t\t\tfor at befri ham fra hans mismod,\tog Jonas glædede sig meget over denne olieplante. ",
+      "text": "Da sørgede Gud HERREN for en olieplante,\n\t\tog den voksede op over Jonas\n\t\t\tså den kunne kaste skygge over hans hoved\n\t\t\t\tfor at befri ham fra hans mismod,\n\tog Jonas glædede sig meget over denne olieplante.",
       "footnotes": [
         {
           "text": "Samme verbalform i 4,6-8 som i 2,1",
@@ -101,51 +101,51 @@
         {
           "text": "Ordret »hans ondskab.« Det refererer til et ondt sind, tungsind, dårlige tanker eller lignende.",
           "type": "T",
-          "position": 151
+          "position": 154
         },
         {
           "text": "Planten *qîqāyôn* identificeres ofte med olieplanten, lat. *ricinus communis*. Andre forslag omfatter en agurk.",
           "type": "T",
-          "position": 202
+          "position": 205
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 7,
-      "text": "Men så sørgede Gud for at en orm\t\t\tved daggry næste dag\t\tstak olieplanten\t\t\tså den visnede.",
+      "text": "Men så sørgede Gud for at en orm\n\t\t\tved daggry næste dag\n\t\tstak olieplanten\n\t\t\tså den visnede.",
       "version": 1645570800000
     },
     {
       "number": 8,
-      "text": "\tDerpå,\t\tnetop da solen gik op,\tsørgede Gud for en glohed østenvind,\t\tog solen stak Jonas’ hoved\t\t\tså han blev dårlig.\t\t\tDa ønskede han for sig selv\t\t\t\tat han måtte dø,\t\t\tog han sagde:\t\t\t\t»Jeg vil heller dø end leve.«",
+      "text": "\n\tDerpå,\n\t\tnetop da solen gik op,\n\tsørgede Gud for en glohed østenvind,\n\t\tog solen stak Jonas’ hoved\n\t\t\tså han blev dårlig.\n\t\t\tDa ønskede han for sig selv\n\t\t\t\tat han måtte dø,\n\t\t\tog han sagde:\n\t\t\t\t»Jeg vil heller dø end leve.«",
       "footnotes": [
         {
           "text": "Ordret »spurgte for sin sjæl«. I hebraisk tankegang opereres ikke med en udødelig sjæl, der så her alligevel skulle kunne dø. Her er det ham selv og hele hans person, der er tale",
           "type": "T",
-          "position": 148
+          "position": 154
         },
         {
           "text": "Ordret: »Min død er bedre end mit liv.«",
           "type": "T",
-          "position": 217
+          "position": 226
         }
       ],
       "version": 1645570800000
     },
     {
       "number": 9,
-      "text": "\tMen Gud sagde til Jonas:\t\t\t»Er det med rette\t\t\t\tat du er rasende på grund af olieplanten?«\t\tHan sagde:\t\t\t»Ja, det er med rette\t\t\t\tat jeg er dødsens rasende.«",
+      "text": "\n\tMen Gud sagde til Jonas:\n\t\t\t»Er det med rette\n\t\t\t\tat du er rasende på grund af olieplanten?«\n\t\tHan sagde:\n\t\t\t»Ja, det er med rette\n\t\t\t\tat jeg er dødsens rasende.«",
       "version": 1645570800000
     },
     {
       "number": 10,
-      "text": "\tHERREN sagde:\t\t»Du ynkes over olieplanten,\t\t\t\t\tsom du ikke har arbejdet med\t\t\t\t\t\tog heller ikke fået til at vokse.\t\t\t\tDen blev til på én nat,\t\t\t\t\tog den forsvandt på én nat.",
+      "text": "\n\tHERREN sagde:\n\t\t»Du ynkes over olieplanten,\n\t\t\t\t\tsom du ikke har arbejdet med\n\t\t\t\t\t\tog heller ikke fået til at vokse.\n\t\t\t\tDen blev til på én nat,\n\t\t\t\t\tog den forsvandt på én nat.",
       "version": 1645570800000
     },
     {
       "number": 11,
-      "text": "\t\t\tOg jeg,\t\t\t\tskulle jeg så ikke ynkes over den store by Nineve,\t\t\t\t\thvori der\t\t\t\t\t\ter mere end 12 gange 10.000 mennesker\t\t\t\t\t\t\t\tsom ikke kender forskel på højre og venstre,\t\t\t\t\t\t\tog mange dyr?«",
+      "text": "\n\t\t\tOg jeg,\n\t\t\t\tskulle jeg så ikke ynkes over den store by Nineve,\n\t\t\t\t\thvori der\n\t\t\t\t\t\ter mere end 12 gange 10.000 mennesker\n\t\t\t\t\t\t\t\tsom ikke kender forskel på højre og venstre,\n\t\t\t\t\t\t\tog mange dyr?«",
       "version": 1645570800000
     }
   ]

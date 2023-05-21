@@ -16,7 +16,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fEn bøn af profeten Habakkuk. Al-shigjonot.\f\n",
+      "text": "\fEn bøn af profeten Habakkuk. Al-shigjonot.\f\u000b",
       "title": " Habakkuks sang",
       "footnotes": [
         {
@@ -29,7 +29,7 @@
     },
     {
       "number": 2,
-      "text": "\fJHVHv! Jeg har hørt budskaber om dig.\fJeg frygter, JHVHv, din gerning.\fKald den til live midt i årene;\fkundgør du den midt i årene;\fhusk at være barmhjertig i tumulten!",
+      "text": "\fHERRE! Jeg har hørt budskaber om dig.\fJeg frygter, HERRE, din gerning.\fKald den til live midt i årene;\fkundgør du den midt i årene;\fhusk at være barmhjertig i tumulten!",
       "footnotes": [
         {
           "text": "Eller »vrede«.",
@@ -92,7 +92,7 @@
     },
     {
       "number": 8,
-      "text": "\fEr din vrede blusset op mod floderne, JHVHv?\fEr du vred på floderne og rasende på havet,\fsiden du farer frem på dine heste, på dine sejrrige vogne?",
+      "text": "\fEr din vrede blusset op mod floderne, HERRE?\fEr du vred på floderne og rasende på havet,\fsiden du farer frem på dine heste, på dine sejrrige vogne?",
       "version": 1511218800000
     },
     {
@@ -174,12 +174,12 @@
     },
     {
       "number": 18,
-      "text": "\fMen jeg vil juble over JHVH,\fjeg vil fryde mig over min frelses Gud.",
+      "text": "\fMen jeg vil juble over HERREN,\fjeg vil fryde mig over min frelses Gud.",
       "version": 1511218800000
     },
     {
       "number": 19,
-      "text": "\fDen herre JHVH er min styrke,\fog han giver mig fødder som hjortenes\fog lader mig skride frem over mine høje.\f\n\fTil korlederen. Til strengespil.",
+      "text": "\fDen herre HERREN er min styrke,\fog han giver mig fødder som hjortenes\fog lader mig skride frem over mine høje.\f\u000b\fTil korlederen. Til strengespil.",
       "version": 1511218800000
     }
   ]

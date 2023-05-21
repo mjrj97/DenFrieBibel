@@ -16,13 +16,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fProfetien som profeten Habakkuk så.\f\n",
+      "text": "\fProfetien som profeten Habakkuk så.\f\u000b",
       "title": "Habakkuks klage",
       "version": 1585004400000
     },
     {
       "number": 2,
-      "text": "\fHvor længe, JHVHv, har jeg dog råbt, men du hører ikke!\fJeg råber til dig om vold, men du frelser ikke.",
+      "text": "\fHvor længe, HERRE, har jeg dog råbt, men du hører ikke!\fJeg råber til dig om vold, men du frelser ikke.",
       "version": 1585004400000
     },
     {
@@ -113,11 +113,11 @@
     },
     {
       "number": 12,
-      "text": "\fEr du ikke fra gammel tid, JHVHv, min Gud, min hellige?\fDu er udødelig!\fJHVHv, har du ikke bestemt ham til dom?\fO klippe, har du ikke grundfæstet ham til straf?",
+      "text": "\fEr du ikke fra gammel tid, HERRE, min Gud, min hellige?\fDu er udødelig!\fHERRE, har du ikke bestemt ham til dom?\fO klippe, har du ikke grundfæstet ham til straf?",
       "title": "Habakkuks bøn",
       "footnotes": [
         {
-          "text": "Den hebraiske grundtekst lyder egentlig »lad os ikke dø, JHVHv«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
+          "text": "Den hebraiske grundtekst lyder egentlig »lad os ikke dø, HERRE«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
           "type": "E",
           "position": 72
         },

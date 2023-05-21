@@ -16,25 +16,25 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fProfeti imod Nineve. Bogen med elkoshitten Nahums syn.\f\n",
-      "title": "JHVHs vrede mod syndere og trofasthed mod de troende",
+      "text": "\fProfeti imod Nineve. Bogen med elkoshitten Nahums syn.\f\u000b",
+      "title": "HERRENS vrede mod syndere og trofasthed mod de troende",
       "version": 1511218800000
     },
     {
       "number": 2,
-      "text": "\fJHVH er en lidenskabelig og hævnende Gud,\fJHVH er en hævner og fuld af vrede.\fJHVH er en hævner mod sine modstandere,\fog han bliver ved med at være vred på sine fjender.",
+      "text": "\fHERREN er en lidenskabelig og hævnende Gud,\fHERREN er en hævner og fuld af vrede.\fHERREN er en hævner mod sine modstandere,\fog han bliver ved med at være vred på sine fjender.",
       "footnotes": [
         {
           "text": "Ordret »vredens herre«.",
           "type": "T",
-          "position": 78
+          "position": 82
         }
       ],
       "version": 1511218800000
     },
     {
       "number": 3,
-      "text": "\fJHVH er sen til vrede, men stor i kraft,\fog JHVH lader ikke skyld forblive ustraffet.\fI hvirvelvind og storm er hans vej;\fskyer er hans fødders støv.",
+      "text": "\fHERREN er sen til vrede, men stor i kraft,\fog HERREN lader ikke skyld forblive ustraffet.\fI hvirvelvind og storm er hans vej;\fskyer er hans fødders støv.",
       "version": 1511218800000
     },
     {
@@ -75,12 +75,12 @@
     },
     {
       "number": 7,
-      "text": "\fJHVH er god, et tilflugtssted på nødens dag,\fog han kender dem som søger tilflugt hos ham.",
+      "text": "\fHERREN er god, et tilflugtssted på nødens dag,\fog han kender dem som søger tilflugt hos ham.",
       "footnotes": [
         {
           "text": "Det hebraiske ord *yadaʕ* udtrykker et intimt forhold mellem Gud og dem som søger tilflugt hos ham. Oversættelsen kunne derfor også lyde »han tager sig af«.",
           "type": "E",
-          "position": 59
+          "position": 61
         }
       ],
       "version": 1511218800000
@@ -99,8 +99,8 @@
     },
     {
       "number": 9,
-      "text": "\fHvad udtænker I mod JHVH?\fHan bringer tilintetgørelse;\fnøden skal ikke komme to gange.",
-      "title": " JHVHs dom over Nineve",
+      "text": "\fHvad udtænker I mod HERREN?\fHan bringer tilintetgørelse;\fnøden skal ikke komme to gange.",
+      "title": " HERRENS dom over Nineve",
       "version": 1511218800000
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "number": 11,
-      "text": "\fFra dig udgik han som udtænkte ondt imod JHVH\fog lagde ondskabsfulde planer.",
+      "text": "\fFra dig udgik han som udtænkte ondt imod HERREN\fog lagde ondskabsfulde planer.",
       "footnotes": [
         {
           "text": "Dvs. fra Nineve.",
@@ -127,17 +127,17 @@
     },
     {
       "number": 12,
-      "text": "\fSåledes siger JHVH:\fSelvom de er usvækkede og mange, skal de dog mejes ned og forsvinde.\fSelvom jeg har plaget dig, vil jeg ikke plage dig længere.",
+      "text": "\fSåledes siger HERREN:\fSelvom de er usvækkede og mange, skal de dog mejes ned og forsvinde.\fSelvom jeg har plaget dig, vil jeg ikke plage dig længere.",
       "footnotes": [
         {
           "text": "Grundteksten er vanskeligt at tyde i dette vers.",
           "type": "E",
-          "position": 89
+          "position": 91
         },
         {
           "text": "Nemlig Jerusalem. 2 Kong 19,35ff.",
           "type": "T",
-          "position": 116
+          "position": 118
         }
       ],
       "version": 1511218800000
@@ -149,17 +149,17 @@
     },
     {
       "number": 14,
-      "text": "\fJHVH har bebudet om dig at der ikke længere skal være afkom af dit navn.\fJeg vil udrydde det udskårne og støbte billede fra dine guders hus;\fjeg vil berede din grav, for du er fundet for let.",
+      "text": "\fHERREN har bebudet om dig at der ikke længere skal være afkom af dit navn.\fJeg vil udrydde det udskårne og støbte billede fra dine guders hus;\fjeg vil berede din grav, for du er fundet for let.",
       "footnotes": [
         {
           "text": "Dvs. Nineves Konge. 2 Kong 19,37.",
           "type": "T",
-          "position": 24
+          "position": 26
         },
         {
           "text": "Dvs. fra Nineves konges tempel.",
           "type": "T",
-          "position": 141
+          "position": 143
         }
       ],
       "version": 1511218800000

@@ -29,7 +29,7 @@
     },
     {
       "number": 2,
-      "text": "\fEn der spreder, drager op imod dig.\fBevogt fæstningen! \fSpejd ud over vejen!\fBind op om lænderne!\fSaml al din kraft!",
+      "text": "\fEn der spreder, drager op imod dig.\fBevogt fæstningen!\fSpejd ud over vejen!\fBind op om lænderne!\fSaml al din kraft!",
       "title": " Nineves ødelæggelse",
       "footnotes": [
         {
@@ -40,19 +40,19 @@
         {
           "text": "Ordret »Styrk lænderne«. I denne sammenhæng er der dog tale om at binde kjortlen op om lænderne, så man bedre kan løbe og være klar til kamp.",
           "type": "E",
-          "position": 98
+          "position": 97
         }
       ],
       "version": 1511218800000
     },
     {
       "number": 3,
-      "text": "\fFor JHVH genopretter Jakobs herlighed, ja, Israels herlighed,\ffor vandaler har vandaliseret dem og ødelagt deres vinstokke.",
+      "text": "\fFor HERREN genopretter Jakobs herlighed, ja, Israels herlighed,\ffor vandaler har vandaliseret dem og ødelagt deres vinstokke.",
       "footnotes": [
         {
           "text": "Andre oversættelser har »Jakobs herlighed ligesom Israels herlighed«, sådan at Jakob står for Juda og Israel for Nordriget. Men det ville i så fald være en mærkelig sammenligning, fordi Nordriget ikke eksisterede længere på Nahums tid. Det hebraiske *ki* forstås derfor her emfatisk.",
           "type": "E",
-          "position": 62
+          "position": 64
         }
       ],
       "version": 1511218800000
@@ -132,7 +132,7 @@
     },
     {
       "number": 11,
-      "text": "\fØde og ørken og ødelæggelse;\fet bange hjerte og rysten i knæene;\falle lænder vrider sig!\fAlles ansigter har skiftet farve.\f\n",
+      "text": "\fØde og ørken og ødelæggelse;\fet bange hjerte og rysten i knæene;\falle lænder vrider sig!\fAlles ansigter har skiftet farve.\f\u000b",
       "footnotes": [
         {
           "text": "Ordret »hjertet smelter«, som er en typisk formulering i GT til at udtrykke angst.",

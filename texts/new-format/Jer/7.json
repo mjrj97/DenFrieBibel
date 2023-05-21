@@ -16,18 +16,18 @@
   "verses": [
     {
       "number": 1,
-      "text": "Det ord som kom fra JHVH til Jeremias:",
+      "text": "Det ord som kom fra HERREN til Jeremias:",
       "title": "Jeremias råder jøderne til at de skal omvende sig og ikke stole på deres hykleriske gudstjeneste, og forkynder at Jerusalem og templet skal ødelægges ligesom Shilo.",
       "version": 1494453600000
     },
     {
       "number": 2,
-      "text": "Stil dig i porten til JHVHs hus. Der skal du udråbe dette ord og sige: Hør JHVHs ord, hele Juda! I som går ind ad disse porte for at tilbede JHVH!",
+      "text": "Stil dig i porten til HERRENS hus. Der skal du udråbe dette ord og sige: Hør HERRENS ord, hele Juda! I som går ind ad disse porte for at tilbede HERREN!",
       "version": 1494453600000
     },
     {
       "number": 3,
-      "text": "Således taler Hærskarers JHVHv, Israels Gud: Ret op på jeres veje og jeres gerninger, så vil jeg lade jer bo på dette sted.",
+      "text": "Således taler Hærskarers HERRE, Israels Gud: Ret op på jeres veje og jeres gerninger, så vil jeg lade jer bo på dette sted.",
       "footnotes": [
         {
           "text": "Ordret »gør jeres veje og jeres gerninger gode«.",
@@ -39,12 +39,12 @@
     },
     {
       "number": 4,
-      "text": "I må ikke stole på løgnagtige ord, når de siger: »JHVHs tempel, JHVHs tempel, JHVHs tempel er her!«",
+      "text": "I må ikke stole på løgnagtige ord, når de siger: »HERRENS tempel, HERRENS tempel, HERRENS tempel er her!«",
       "footnotes": [
         {
-          "text": "*hemmah* »er her« er vanskeligt at oversætte. Ordret betyder det »de«, og KJV oversætter det med »JHVHs tempel er disse«. DO92 udelader helt at oversætte det.",
+          "text": "*hemmah* »er her« er vanskeligt at oversætte. Ordret betyder det »de«, og KJV oversætter det med »HERRENS tempel er disse«. DO92 udelader helt at oversætte det.",
           "type": "E",
-          "position": 97
+          "position": 103
         }
       ],
       "version": 1494453600000
@@ -88,7 +88,7 @@
     },
     {
       "number": 11,
-      "text": "Er dette hus som bærer mit navn, blevet en røverhule i jeres øjne? Ja, jeg har selv set det, siger JHVH.",
+      "text": "Er dette hus som bærer mit navn, blevet en røverhule i jeres øjne? Ja, jeg har selv set det, siger HERREN.",
       "version": 1494453600000
     },
     {
@@ -136,18 +136,18 @@
     },
     {
       "number": 19,
-      "text": "Er det mig, de fornærmer? siger JHVH. Er det ikke sig selv, så de må skamme sig ved det?",
+      "text": "Er det mig, de fornærmer? siger HERREN. Er det ikke sig selv, så de må skamme sig ved det?",
       "version": 1494453600000
     },
     {
       "number": 20,
-      "text": "Derfor siger den herre JHVH således: Se min vrede og min harme udøses over dette sted, over mennesker og over dyr og over markens træer og landets frugt, og den skal brænde og ikke gå ud.",
+      "text": "Derfor siger den herre HERREN således: Se min vrede og min harme udøses over dette sted, over mennesker og over dyr og over markens træer og landets frugt, og den skal brænde og ikke gå ud.",
       "version": 1494453600000
     },
     {
       "number": 21,
-      "text": "\fSåledes siger Hærskarers JHVHv, Israels Gud: Føj jeres brændofre til jeres slagtofre og spis kødet!",
-      "title": "JHVH forkaster deres hykleriske offer og klager over deres store ulydighed mod alle profeternes taler.",
+      "text": "\fSåledes siger Hærskarers HERRE, Israels Gud: Føj jeres brændofre til jeres slagtofre og spis kødet!",
+      "title": "HERREN forkaster deres hykleriske offer og klager over deres store ulydighed mod alle profeternes taler.",
       "version": 1494453600000
     },
     {
@@ -189,25 +189,25 @@
     },
     {
       "number": 28,
-      "text": "Og du skal sige til dem: »Dette er det folk som ikke hører på JHVHs deres Guds røst og ikke tager imod opdragelse. Troskaben er gået til grunde og tilintetgjort fra deres mund.«",
+      "text": "Og du skal sige til dem: »Dette er det folk som ikke hører på HERRENS deres Guds røst og ikke tager imod opdragelse. Troskaben er gået til grunde og tilintetgjort fra deres mund.«",
       "version": 1494453600000
     },
     {
       "number": 29,
-      "text": "Klip dit hår af og kast det bort. Opløft en dødsklage på de nøgne høje, for JHVH har forkastet og forladt den slægt som hans vrede er vendt imod.",
-      "title": "JHVH byder dem at hyle og græde, for deres glæde skal vendes til sorg.",
+      "text": "Klip dit hår af og kast det bort. Opløft en dødsklage på de nøgne høje, for HERREN har forkastet og forladt den slægt som hans vrede er vendt imod.",
+      "title": "HERREN byder dem at hyle og græde, for deres glæde skal vendes til sorg.",
       "footnotes": [
         {
           "text": "Ordret »sin vredes slægt«.",
           "type": "T",
-          "position": 144
+          "position": 146
         }
       ],
       "version": 1494453600000
     },
     {
       "number": 30,
-      "text": "For Judas børn har handlet ondt i mine øjne, siger JHVH. De har sat deres afskyelige ting i det hus som bærer mit navn, så de har besmittet det.",
+      "text": "For Judas børn har handlet ondt i mine øjne, siger HERREN. De har sat deres afskyelige ting i det hus som bærer mit navn, så de har besmittet det.",
       "version": 1494453600000
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "number": 32,
-      "text": "Derfor, se, de dage kommer, siger JHVH, hvor man ikke mere skal kalde det Tofet og Ben-Hinnoms dal, men Morderdalen. Og af mangel på plads skal de begrave i Tofet.",
+      "text": "Derfor, se, de dage kommer, siger HERREN, hvor man ikke mere skal kalde det Tofet og Ben-Hinnoms dal, men Morderdalen. Og af mangel på plads skal de begrave i Tofet.",
       "version": 1494453600000
     },
     {

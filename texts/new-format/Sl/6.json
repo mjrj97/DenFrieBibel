@@ -24,7 +24,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Til korlederen.\t\tTil strengespil.\t\t\tAl-ha-sheminit.\taf David.",
+      "text": "Til korlederen.\n\t\tTil strengespil.\n\t\t\tAl-ha-sheminit.\n\tSalme af David.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -35,87 +35,87 @@
         {
           "text": "Ordret: »på den ottende«. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).",
           "type": "E",
-          "position": 50
+          "position": 52
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 2,
-      "text": "\fJHVHv!\t\t\tmig ikke i din vrede,\f\t\t\t\tog tugt mig ikke i din harme!",
+      "text": "\fHERRE!\n\t\t\tstraf mig ikke i din vrede,\f\n\t\t\t\tog tugt mig ikke i din harme!",
       "title": "Klage og bøn",
       "version": 1666562400000
     },
     {
       "number": 3,
-      "text": "\f\t\tVær mig nådig,\t\t\t\tJHVHv,\t\t\tfor jeg er svag,\f\t\thelbred mig,\t\t\t\t\t\tJHVHv,\t\t\t\t\tfor jeg skælver i mine knogler,",
+      "text": "\f\n\t\tVær mig nådig,\n\t\t\t\tHERRE,\n\t\t\tfor jeg er svag,\f\n\t\thelbred mig,\n\t\t\t\t\t\tHERRE,\n\t\t\t\t\tfor jeg skælver i mine knogler,",
       "footnotes": [
         {
           "text": "Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: »sygner hen«. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.",
           "type": "E",
-          "position": 93
+          "position": 99
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\t\t\tog min sjæl er meget forfærdet.\f\t\t\t\tMen du,\t\t\t\t\t\tJHVHv!\t\t\t\t\t- hvor længe?",
+      "text": "\f\n\t\t\t\t\t\tog min sjæl er meget forfærdet.\f\n\t\t\t\tMen du,\n\t\t\t\t\t\tHERRE!\n\t\t\t\t\t- hvor længe?",
       "version": 1666562400000
     },
     {
       "number": 5,
-      "text": "\f\t\t\tVend tilbage,\t\t\t\tJHVHv!\t\t\tred min sjæl,\f\t\t\t\tfrels mig på grund af din nåde!",
+      "text": "\f\n\t\t\tVend tilbage,\n\t\t\t\tHERRE!\n\t\t\tred min sjæl,\f\n\t\t\t\tfrels mig på grund af din nåde!",
       "footnotes": [
         {
-          "text": "*šûvāʰ* (»vend tilbage«) kunne også opfattes adverbielt så v.5a skal oversættes: »red atter, JHVHv, min sjæl«",
+          "text": "*šûvāʰ* (»vend tilbage«) kunne også opfattes adverbielt så v.5a skal oversættes: »red atter, HERRE, min sjæl«",
           "type": "E",
-          "position": 16
+          "position": 17
         },
         {
           "text": "nåde",
           "type": "N",
-          "position": 78
+          "position": 82
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\t\t\tFor i døden er der ingen der husker dig,\f\t\t\t\t\t\t\t\thvem vil takke dig\t\t\t\t\t\t\ti dødsriget?",
+      "text": "\f\n\t\t\t\t\t\tFor i døden er der ingen der husker dig,\f\n\t\t\t\t\t\t\t\thvem vil takke dig\n\t\t\t\t\t\t\ti dødsriget?",
       "version": 1666562400000
     },
     {
       "number": 7,
-      "text": "\f\t\t\t\t\tJeg er udmattet af mit suk,\f\t\t\t\t\t\t\tjeg væder hver nat min seng,\f\t\t\t\t\t\t\t\tmed mine tårer gennembløder jeg mit leje.",
+      "text": "\f\n\t\t\t\t\tJeg er udmattet af mit suk,\f\n\t\t\t\t\t\t\tjeg væder hver nat min seng,\f\n\t\t\t\t\t\t\t\tmed mine tårer gennembløder jeg mit leje.",
       "version": 1666562400000
     },
     {
       "number": 8,
-      "text": "\f\t\t\t\t\t\tMit øje er sløvet af sorg,\f\t\t\t\t\t\t\tdet er blevet svækket på grund alle mine fjender.",
+      "text": "\f\n\t\t\t\t\t\tMit øje er sløvet af sorg,\f\n\t\t\t\t\t\t\tdet er blevet svækket på grund alle mine fjender.",
       "version": 1666562400000
     },
     {
       "number": 9,
-      "text": "\f\tVig fra mig,\t\t\t\talle I som udøver ondt!\f\t\t\tFor JHVH har hørt min gråd.",
+      "text": "\f\n\tVig fra mig,\n\t\t\t\talle I som udøver ondt!\f\n\t\t\tFor HERREN har hørt min gråd.",
       "title": "David glæder sig over, at Gud har hørt hans bøn",
       "footnotes": [
         {
           "text": "Ordret »min gråds røst«.",
           "type": "T",
-          "position": 71
+          "position": 76
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 10,
-      "text": "\f\t\t\t\tJHVH har hørt min indtrængende bøn,\f\t\t\t\t\tJHVH vil tage imod min bøn.",
+      "text": "\f\n\t\t\t\tHERREN har hørt min indtrængende bøn,\f\n\t\t\t\t\tHERREN vil tage imod min bøn.",
       "version": 1666562400000
     },
     {
       "number": 11,
-      "text": "\f\t\tAlle mine fjender skal blive til skamme\t\t\tog forfærdes,\f\t\ti et nu skal de vige tilbage\t\tog blive til skamme.",
+      "text": "\f\n\t\tAlle mine fjender skal blive til skamme\n\t\t\tog forfærdes,\f\n\t\ti et nu skal de vige tilbage\n\t\tog blive til skamme.",
       "version": 1666562400000
     }
   ]

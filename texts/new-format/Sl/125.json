@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Valfartssang.\fDe som stoler på JHVH,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
+      "text": "Valfartssang.\fDe som stoler på HERREN,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -33,8 +33,8 @@
     },
     {
       "number": 2,
-      "text": "\fJerusalem – der er bjerge omkring den,\fog JHVH er omkring sit folk\ffra nu af og til evig tid.",
-      "title": "Tillid til JHVHs omsorg",
+      "text": "\fJerusalem – der er bjerge omkring den,\fog HERREN er omkring sit folk\ffra nu af og til evig tid.",
+      "title": "Tillid til HERRENS omsorg",
       "footnotes": [
         {
           "text": "Ordret: »omkring hende«.",
@@ -58,13 +58,13 @@
     },
     {
       "number": 4,
-      "text": "\fGør vel, JHVHv, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
+      "text": "\fGør vel, HERRE, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
       "title": "Bøn",
       "version": 1504476000000
     },
     {
       "number": 5,
-      "text": "\fMen dem som slår ind på deres krogede veje,\fskal JHVH lade fare bort med dem som begår synd.\fFred over Israel!",
+      "text": "\fMen dem som slår ind på deres krogede veje,\fskal HERREN lade fare bort med dem som begår synd.\fFred over Israel!",
       "version": 1504476000000
     }
   ]

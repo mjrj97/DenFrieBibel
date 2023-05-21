@@ -33,7 +33,7 @@
     },
     {
       "number": 2,
-      "text": "\fOm JHVHs nåde vil jeg evigt synge,\fi slægt efter slægt vil jeg prisende forkynde din sandhed med min mund.",
+      "text": "\fOm HERRENS nåde vil jeg evigt synge,\fi slægt efter slægt vil jeg prisende forkynde din sandhed med min mund.",
       "title": "Lovprisning af Guds skabermagt og trofasthed",
       "version": 1500242400000
     },
@@ -73,7 +73,7 @@
     },
     {
       "number": 6,
-      "text": "\fOg himlen skal prise dit under, JHVHv,\fja, din sandhed i de helliges forsamling.",
+      "text": "\fOg himlen skal prise dit under, HERRE,\fja, din sandhed i de helliges forsamling.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »menighed«. Her er der dog tænkt på Guds tjenende engle og åndemagter.",
@@ -85,17 +85,17 @@
     },
     {
       "number": 7,
-      "text": "\fFor hvem i skyerne kan være lige med JHVH?\fHvem ligner JHVH blandt gudssønnerne?",
+      "text": "\fFor hvem i skyerne kan være lige med HERREN?\fHvem ligner HERREN blandt gudssønnerne?",
       "footnotes": [
         {
           "text": "Spørgepartiklen »hvem« er underforstået fra foregående linje.",
           "type": "T",
-          "position": 48
+          "position": 50
         },
         {
           "text": "Det er de himmelske magter.",
           "type": "T",
-          "position": 81
+          "position": 85
         }
       ],
       "version": 1500242400000
@@ -107,7 +107,7 @@
     },
     {
       "number": 9,
-      "text": "\fJHVHv, Hærskarers Gud,\fhvem er som du, mægtige JHVH?\fOg din trofasthed omgiver dig.",
+      "text": "\fHERRE, Hærskarers Gud,\fhvem er som du, mægtige HERREN?\fOg din trofasthed omgiver dig.",
       "footnotes": [
         {
           "text": "I ældre tid uoversat: »Zebaoth«",
@@ -117,7 +117,7 @@
         {
           "text": "Grundteksten har kortformen *yāh* (»Jah«) der findes en del steder i poetiske tekster.",
           "type": "E",
-          "position": 53
+          "position": 55
         }
       ],
       "version": 1500242400000
@@ -168,7 +168,7 @@
     },
     {
       "number": 16,
-      "text": "\fSaligt er det folk som kender til jublende hyldest,\fJHVHv, i dit ansigts lys kan de vandre.",
+      "text": "\fSaligt er det folk som kender til jublende hyldest,\fHERRE, i dit ansigts lys kan de vandre.",
       "version": 1500242400000
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "number": 19,
-      "text": "\fFor vort skjold tilhører JHVH,\fja, vor konge tilhører Israels Hellige.",
+      "text": "\fFor vort skjold tilhører HERREN,\fja, vor konge tilhører Israels Hellige.",
       "version": 1500242400000
     },
     {
@@ -417,7 +417,7 @@
     },
     {
       "number": 47,
-      "text": "\fHvor længe, JHVHv, vil du evigt skjule dig?\fhvor længe skal din harme brænde som ild?",
+      "text": "\fHvor længe, HERRE, vil du evigt skjule dig?\fhvor længe skal din harme brænde som ild?",
       "footnotes": [
         {
           "text": "Ordene »hvor længe« er underforstået fra forrige linje.",
@@ -490,7 +490,7 @@
     },
     {
       "number": 52,
-      "text": "\fhusk, at dine fjender har spottet, JHVHv,\fat de har spottet din salvedes fodspor.",
+      "text": "\fhusk, at dine fjender har spottet, HERRE,\fat de har spottet din salvedes fodspor.",
       "footnotes": [
         {
           "text": "Ordet »husk« er stadig underforstået fra det foregående vers.",
@@ -502,7 +502,7 @@
     },
     {
       "number": 53,
-      "text": "\fLovet være JHVH til evig tid!\fAmen, amen.",
+      "text": "\fLovet være HERREN til evig tid!\fAmen, amen.",
       "title": "Liturgisk lovprisning",
       "version": 1500242400000
     }

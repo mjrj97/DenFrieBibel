@@ -1,5 +1,5 @@
 {
-  "book": "Obadias’ Bog",
+  "book": "Obadias' Bog",
   "abbreviation": "Obad",
   "chapter": 1,
   "translation": 75,
@@ -16,19 +16,19 @@
   "verses": [
     {
       "number": 1,
-      "text": "Obadias’ syn.\f\fSåledes siger den herre JHVH om Edom.\fVi har hørt et budskab fra JHVH;\fen budbringer er blevet sendt ud blandt folkeslagene:\f»Rejs jer! Lad os rejse os for at gå i krig mod hende.«",
+      "text": "Obadias’ syn.\f\fSåledes siger den herre HERREN om Edom.\fVi har hørt et budskab fra HERREN;\fen budbringer er blevet sendt ud blandt folkeslagene:\f»Rejs jer! Lad os rejse os for at gå i krig mod hende.«",
       "footnotes": [
         {
           "text": "Dvs. Edom.",
           "type": "T",
-          "position": 195
+          "position": 199
         }
       ],
       "version": 1504648800000
     },
     {
       "number": 2,
-      "text": "\fSe, jeg har gjort dig ubetydelig blandt folkeslagene;\fdu foragtes dybt.\f\n",
+      "text": "\fSe, jeg har gjort dig ubetydelig blandt folkeslagene;\fdu foragtes dybt.\f\u000b",
       "title": "Domsprofeti om Edom",
       "version": 1504648800000
     },
@@ -51,7 +51,7 @@
     },
     {
       "number": 4,
-      "text": "\fSelv hvis du kunne hæve dig så højt som ørnen,\fog selv hvis du kunne sætte din rede mellem stjernerne,\fvil jeg bringe dig ned derfra, siger JHVH.\f\n",
+      "text": "\fSelv hvis du kunne hæve dig så højt som ørnen,\fog selv hvis du kunne sætte din rede mellem stjernerne,\fvil jeg bringe dig ned derfra, siger HERREN.\f\u000b",
       "version": 1504648800000
     },
     {
@@ -110,12 +110,12 @@
     },
     {
       "number": 8,
-      "text": "\fEr det ikke på den dag, siger JHVH, at jeg vil udrydde de vise fra Edom\fog forstandighed fra Esaus bjerg?",
+      "text": "\fEr det ikke på den dag, siger HERREN, at jeg vil udrydde de vise fra Edom\fog forstandighed fra Esaus bjerg?",
       "version": 1504648800000
     },
     {
       "number": 9,
-      "text": "\fDine krigere, Teman, skal blive rædselsslagne, \fså at alle fra Esaus bjerg vil blive tilintetgjort ved slagtning.",
+      "text": "\fDine krigere, Teman, skal blive rædselsslagne,\fså at alle fra Esaus bjerg vil blive tilintetgjort ved slagtning.",
       "footnotes": [
         {
           "text": "Ved fysiske ting oversættes *ḥatat* med »knust« eller »spredt«, men ved mennesker er der tale om en psykologisk tilstand af angst og lammelse.",
@@ -132,7 +132,7 @@
     },
     {
       "number": 11,
-      "text": "\fPå den dag, hvor du stod overfor;\fpå den dag, hvor fjender førte hans rigdom bort,\fog fremmede gik ind ad hans porte og kastede lod om Jerusalem,\fda var også du som en af dem.\f\n",
+      "text": "\fPå den dag, hvor du stod overfor;\fpå den dag, hvor fjender førte hans rigdom bort,\fog fremmede gik ind ad hans porte og kastede lod om Jerusalem,\fda var også du som en af dem.\f\u000b",
       "version": 1504648800000
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "number": 15,
-      "text": "\fFor JHVHs dag over alle folkeslagene er nær.\fSom du har gjort, sådan skal der gøres mod dig.\fDin gerning skal komme over dit eget hoved.",
+      "text": "\fFor HERRENS dag over alle folkeslagene er nær.\fSom du har gjort, sådan skal der gøres mod dig.\fDin gerning skal komme over dit eget hoved.",
       "version": 1504648800000
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "number": 18,
-      "text": "\fJakobs hus skal blive en ild,\fJosefs hus til en flamme,\fog Esaus hus til stubbe.\fDe skal brænde dem og fortære dem;\fog Esaus hus skal ikke have nogen overlevende.\fFor JHVH har talt.",
+      "text": "\fJakobs hus skal blive en ild,\fJosefs hus til en flamme,\fog Esaus hus til stubbe.\fDe skal brænde dem og fortære dem;\fog Esaus hus skal ikke have nogen overlevende.\fFor HERREN har talt.",
       "version": 1504648800000
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "number": 21,
-      "text": "\fBefrierne skal drage op på Zions bjerg for at dømme Esaus bjerg.\fKongedømmet skal tilhøre JHVH.",
+      "text": "\fBefrierne skal drage op på Zions bjerg for at dømme Esaus bjerg.\fKongedømmet skal tilhøre HERREN.",
       "footnotes": [
         {
           "text": "Kan også oversættes med »herske over«.",

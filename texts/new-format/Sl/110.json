@@ -20,20 +20,20 @@
   "verses": [
     {
       "number": 1,
-      "text": "Af David. Salme.\fJHVHs udsagn til min herre:\f»Sæt dig ved min højre hånd,\findtil jeg lægger dine fjender\fsom en skammel for dine fødder!«",
+      "text": "Af David. Salme.\fHERRENS udsagn til min herre:\f»Sæt dig ved min højre hånd,\findtil jeg lægger dine fjender\fsom en skammel for dine fødder!«",
       "title": "Overskrift",
       "footnotes": [
         {
           "text": "Det hebraiske *nᵊʔum* betegner i GT åbenbaringsord fra Gud (undtagen Sl 36,2). Det oversættes lidt forskelligt, f.eks.: »orakel« eller »kendelse«.",
           "type": "E",
-          "position": 29
+          "position": 31
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 2,
-      "text": "\fDin magts scepter skal JHVH række ud fra Zion,\fhersk midt blandt dine fjender!",
+      "text": "\fDin magts scepter skal HERREN række ud fra Zion,\fhersk midt blandt dine fjender!",
       "title": "Guds salvedes kongelige og præstelige værdighed",
       "version": 1499983200000
     },
@@ -66,7 +66,7 @@
     },
     {
       "number": 4,
-      "text": "\fJHVH har svoret, og han angrer ikke:\f»Du er præst for evigt\fpå Melkisedeks vis.«",
+      "text": "\fHERREN har svoret, og han angrer ikke:\f»Du er præst for evigt\fpå Melkisedeks vis.«",
       "version": 1499983200000
     },
     {

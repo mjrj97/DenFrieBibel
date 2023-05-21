@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Valfartssang.\fHusk, JHVHv, på David\ffor al hans møje",
+      "text": "Valfartssang.\fHusk, HERRE, på David\ffor al hans møje",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -33,7 +33,7 @@
     },
     {
       "number": 2,
-      "text": "\fda han aflagde den ed til JHVH,\fgav Jakobs Mægtige det løfte:",
+      "text": "\fda han aflagde den ed til HERREN,\fgav Jakobs Mægtige det løfte:",
       "title": "Bøn om Guds trofaste nærvær i templet",
       "version": 1492725600000
     },
@@ -49,12 +49,12 @@
     },
     {
       "number": 5,
-      "text": "\ffør jeg har fundet et sted til JHVH,\fen bolig til Jakobs Mægtige.«",
+      "text": "\ffør jeg har fundet et sted til HERREN,\fen bolig til Jakobs Mægtige.«",
       "footnotes": [
         {
           "text": "Grundtekstens ord er i pluralis der skal understrege storheden og skønheden",
           "type": "T",
-          "position": 46
+          "position": 48
         }
       ],
       "version": 1492725600000
@@ -83,7 +83,7 @@
     },
     {
       "number": 8,
-      "text": "\fRejs dig, JHVHv, til dit hvilested,\fdu og din magtfulde ark!",
+      "text": "\fRejs dig, HERRE, til dit hvilested,\fdu og din magtfulde ark!",
       "footnotes": [
         {
           "text": "Ordret: »din magts/majestæts ark«.",
@@ -105,13 +105,13 @@
     },
     {
       "number": 11,
-      "text": "\fJHVH svor David\fen troværdig ed, som han ikke går fra:\f»Af dit livs frugt\fvil jeg sætte en på din trone.",
+      "text": "\fHERREN svor David\fen troværdig ed, som han ikke går fra:\f»Af dit livs frugt\fvil jeg sætte en på din trone.",
       "title": "Guds løfte til David",
       "footnotes": [
         {
           "text": "Ordret: »en sandhed/troværdighed«",
           "type": "T",
-          "position": 33
+          "position": 35
         }
       ],
       "version": 1492725600000
@@ -123,7 +123,7 @@
     },
     {
       "number": 13,
-      "text": "\fFor JHVH har udvalgt Zion,\fhan har ønsket det som sin bopæl:",
+      "text": "\fFor HERREN har udvalgt Zion,\fhan har ønsket det som sin bopæl:",
       "title": "Guds løfter over Zion",
       "version": 1492725600000
     },

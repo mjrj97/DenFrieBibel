@@ -1,5 +1,5 @@
 {
-  "book": "Paulus' Første Brev til Thessalonikerne",
+  "book": "Første Thessalonikerbrev",
   "abbreviation": "1Thess",
   "chapter": 5,
   "translation": 50,
@@ -100,7 +100,7 @@
     },
     {
       "number": 15,
-      "text": "Se til, at ingen gengælder nogen ondt med ondt, men stræb altid efter at gøre det gode, både mod hinanden og mod alle.\f\n",
+      "text": "Se til, at ingen gengælder nogen ondt med ondt, men stræb altid efter at gøre det gode, både mod hinanden og mod alle.\f\u000b",
       "version": 1494540000000
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "number": 18,
-      "text": "\fsig tak under alle forhold, for det er Guds gode vilje for jer i Kristus Jesus.\f\n",
+      "text": "\fsig tak under alle forhold, for det er Guds gode vilje for jer i Kristus Jesus.\f\u000b",
       "version": 1494540000000
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "number": 22,
-      "text": "\fhold jer væk fra enhver form for ondskab.\f\n",
+      "text": "\fhold jer væk fra enhver form for ondskab.\f\u000b",
       "version": 1494540000000
     },
     {

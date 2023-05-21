@@ -20,18 +20,18 @@
   "verses": [
     {
       "number": 1,
-      "text": "Syng for JHVH en ny sang,\fsyng for JHVH hele jorden!",
+      "text": "Syng for HERREN en ny sang,\fsyng for HERREN hele jorden!",
       "title": "Opfordring til lovsang",
       "version": 1500242400000
     },
     {
       "number": 2,
-      "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
+      "text": "\fSyng for HERREN, pris hans navn,\fforkynd fra dag til dag hans frelse!",
       "footnotes": [
         {
           "text": "Kan også oversættes: »velsign«.",
           "type": "T",
-          "position": 20
+          "position": 22
         }
       ],
       "version": 1500242400000
@@ -43,13 +43,13 @@
     },
     {
       "number": 4,
-      "text": "\fFor JHVH er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
+      "text": "\fFor HERREN er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
       "title": "For Gud er stor",
       "version": 1500242400000
     },
     {
       "number": 5,
-      "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
+      "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen HERREN har skabt himlen.",
       "footnotes": [
         {
           "text": "Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
@@ -66,30 +66,30 @@
     },
     {
       "number": 7,
-      "text": "\fGiv JHVH, I folkeslagenes slægter,\fgiv JHVH ære og magt!",
+      "text": "\fGiv HERREN, I folkeslagenes slægter,\fgiv HERREN ære og magt!",
       "title": "Opfordring til tilbedelse",
       "version": 1500242400000
     },
     {
       "number": 8,
-      "text": "\fGiv JHVH hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
+      "text": "\fGiv HERREN hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
       "version": 1500242400000
     },
     {
       "number": 9,
-      "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
+      "text": "\fKast jer ned for HERREN i hellig klædning,\fskælv for hans ansigt hele jorden!",
       "footnotes": [
         {
           "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
           "type": "E",
-          "position": 41
+          "position": 43
         }
       ],
       "version": 1500242400000
     },
     {
       "number": 10,
-      "text": "\fSig blandt folkene: »JHVH er konge!«\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
+      "text": "\fSig blandt folkene: »HERREN er konge!«\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
       "version": 1500242400000
     },
     {
@@ -100,17 +100,17 @@
     },
     {
       "number": 12,
-      "text": "\fmark og alt hvad der er derpå, skal fryde sig, \fda skal alle skovens træer juble",
+      "text": "\fmark og alt hvad der er derpå, skal fryde sig,\fda skal alle skovens træer juble",
       "version": 1500242400000
     },
     {
       "number": 13,
-      "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
+      "text": "\ffor HERRENS ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »trofasthed«.",
           "type": "T",
-          "position": 142
+          "position": 144
         }
       ],
       "version": 1500242400000

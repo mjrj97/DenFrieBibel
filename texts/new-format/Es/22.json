@@ -1,5 +1,5 @@
 {
-  "book": "Esajas",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 22,
   "translation": 100,
@@ -33,29 +33,29 @@
     },
     {
       "number": 2,
-      "text": "\fSå fuld af råb, \fdu støjende by, \fdu jublende stad! \fDine dræbte er ikke dræbt med sværd \fog ikke døde i krig.",
+      "text": "\fSå fuld af råb,\fdu støjende by,\fdu jublende stad!\fDine dræbte er ikke dræbt med sværd\fog ikke døde i krig.",
       "version": 1681336800000
     },
     {
       "number": 3,
-      "text": "\fAlle dine ledere er flygtet sammen, \fuden bue er de fanget; \falle der befandt sig hos dig, \fer fanget sammen, \fde var flygtet langt bort.",
+      "text": "\fAlle dine ledere er flygtet sammen,\fuden bue er de fanget;\falle der befandt sig hos dig,\fer fanget sammen,\fde var flygtet langt bort.",
       "version": 1681336800000
     },
     {
       "number": 4,
-      "text": "\fDerfor sagde jeg: »Vend blikket fra mig, \fjeg må græde bittert; \ftræng ikke ind på mig for at trøste mig \fover ødelæggelsen af mit folks datter.«",
+      "text": "\fDerfor sagde jeg: »Vend blikket fra mig,\fjeg må græde bittert;\ftræng ikke ind på mig for at trøste mig\fover ødelæggelsen af mit folks datter.«",
       "footnotes": [
         {
           "text": "Ordret: »jeg må være bitter i min gråd«.",
           "type": "T",
-          "position": 64
+          "position": 63
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 5,
-      "text": "\fFor en dag med bestyrtelse og nedtrampning og forvirring\fer det for Herren, Hærskarers HERRE i Synernes Dal, \fman bryder mur ned, og der er skrig rettet hen mod bjerget.",
+      "text": "\fFor en dag med bestyrtelse og nedtrampning og forvirring\fer det for Herren, Hærskarers HERRE i Synernes Dal,\fman bryder mur ned, og der er skrig rettet hen mod bjerget.",
       "footnotes": [
         {
           "text": "Hærskarers",
@@ -65,36 +65,36 @@
         {
           "text": "Oversættelsen af *mᵊqarqar* (»bryder ned«) er usikker og omdiskuteret. Andre oversætter: »laver spektakel«, atter andre: »udgraver en brønd«.",
           "type": "E",
-          "position": 121
+          "position": 120
         },
         {
           "text": "Oversættelsen af det hebraiske *qir* er usikker og omdiskuteret. Andre oversætter: »larm«.",
           "type": "T",
-          "position": 125
+          "position": 124
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 6,
-      "text": "\fOg Elam tog kogger op, \fmed bemandet vogn, ryttere, \fog Kir tog dækket af sit skjold.",
+      "text": "\fOg Elam tog kogger op,\fmed bemandet vogn, ryttere,\fog Kir tog dækket af sit skjold.",
       "footnotes": [
         {
           "text": "Oversættelsen er usikker og omdiskuteret. Man vælger ofte at rette *ʔādām* til: *ʔᵃrām* : »Aram«. Oversættelsen af denne linje bliver da: »Aram med vogn, ryttere«.",
           "type": "E",
-          "position": 37
+          "position": 36
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 7,
-      "text": "\fOg det skete at dine udvalgte dale blev fulde af vogne, \fog rytterne tog opstilling mod porten.",
+      "text": "\fOg det skete at dine udvalgte dale blev fulde af vogne,\fog rytterne tog opstilling mod porten.",
       "version": 1681336800000
     },
     {
       "number": 8,
-      "text": "\fHan afdækkede Judas værn, \fog på den dag så du hen \ftil Skovhusets våben.",
+      "text": "\fHan afdækkede Judas værn,\fog på den dag så du hen\ftil Skovhusets våben.",
       "version": 1681336800000
     },
     {
@@ -104,17 +104,17 @@
     },
     {
       "number": 10,
-      "text": "\fI talte Jerusalems huse \fog nedbrød husene for at befæste muren.",
+      "text": "\fI talte Jerusalems huse\fog nedbrød husene for at befæste muren.",
       "version": 1681336800000
     },
     {
       "number": 11,
-      "text": "\fI anlagde et reservoir mellem de to mure \ftil vandet fra den gamle dam, \fmen I så ikke op til ham der havde gjort det; \fham der havde planlagt det for lang tid siden, så I ikke efter.\f\n",
+      "text": "\fI anlagde et reservoir mellem de to mure\ftil vandet fra den gamle dam,\fmen I så ikke op til ham der havde gjort det;\fham der havde planlagt det for lang tid siden, så I ikke efter.\f\u000b",
       "version": 1681336800000
     },
     {
       "number": 12,
-      "text": "\fHerren, Hærskarers HERRE, kaldte den dag \ftil gråd og til klage \fog til at klippe sig skaldet og til at binde sæk om sig.",
+      "text": "\fHerren, Hærskarers HERRE, kaldte den dag\ftil gråd og til klage\fog til at klippe sig skaldet og til at binde sæk om sig.",
       "footnotes": [
         {
           "text": "Hærskarers",
@@ -126,19 +126,19 @@
     },
     {
       "number": 13,
-      "text": "\fMen se, der er fryd og glæde, \fman dræber okse og slagter får, \fman spiser kød og drikker vin: \f»Lad os spise og drikke, for i morgen skal vi dø!«",
+      "text": "\fMen se, der er fryd og glæde,\fman dræber okse og slagter får,\fman spiser kød og drikker vin:\f»Lad os spise og drikke, for i morgen skal vi dø!«",
       "footnotes": [
         {
           "text": "Ordret blot: »at spise og at drikke«. Men i sammenhængen opfattes det oftest som opfordring.",
           "type": "T",
-          "position": 121
+          "position": 118
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 14,
-      "text": "\fMen Hærskarers HERRE åbenbarede sig for mine ører: \f»Denne synd kan ikke sones for jer, før I dør!« \fsiger Herren Hærskarers HERRE.",
+      "text": "\fMen Hærskarers HERRE åbenbarede sig for mine ører:\f»Denne synd kan ikke sones for jer, før I dør!«\fsiger Herren Hærskarers HERRE.",
       "footnotes": [
         {
           "text": "Hærskarers",
@@ -148,14 +148,14 @@
         {
           "text": "Hærskarers",
           "type": "N",
-          "position": 132
+          "position": 130
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 15,
-      "text": "\fSå sagde Herren, Hærskarers HERRE: \f»Gå hen til denne forvalter, til Shebna, der er sat over huset, og sig til ham:",
+      "text": "\fSå sagde Herren, Hærskarers HERRE:\f»Gå hen til denne forvalter, til Shebna, der er sat over huset, og sig til ham:",
       "title": "Ord mod forvalteren Shebna",
       "footnotes": [
         {
@@ -166,34 +166,34 @@
         {
           "text": "Ordene »og sig til ham« står ikke i den hebraiske tekst, men er underforstået.",
           "type": "E",
-          "position": 116
+          "position": 115
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 16,
-      "text": "\fHvad har du her, og hvem har du her, \fsiden du har hugget en grav ud til dig her? \fSom en der får hugget sin grav ud højt oppe, \fsom en der får en bolig udhulet til sig i klippen!",
+      "text": "\fHvad har du her, og hvem har du her,\fsiden du har hugget en grav ud til dig her?\fSom en der får hugget sin grav ud højt oppe,\fsom en der får en bolig udhulet til sig i klippen!",
       "version": 1681336800000
     },
     {
       "number": 17,
-      "text": "\fSe, JHVH vil slynge dig væk, \fet langt kast, du mand, \fog tager et fast greb i dig!",
+      "text": "\fSe, HERREN vil slynge dig væk,\fet langt kast, du mand,\fog tager et fast greb i dig!",
       "version": 1681336800000
     },
     {
       "number": 18,
-      "text": "\fHan skal fuldstændig krølle dig sammen til en sammenfiltret bylt, \fen bold hen til et vidtstrakt land; \fdér skal du dø, \fog dér skal din æres vogne \fvære en skændsel for din herres hus!",
+      "text": "\fHan skal fuldstændig krølle dig sammen til en sammenfiltret bylt,\fen bold hen til et vidtstrakt land;\fdér skal du dø,\fog dér skal din æres vogne\fvære en skændsel for din herres hus!",
       "version": 1681336800000
     },
     {
       "number": 19,
-      "text": "\fOg jeg støder dig ned fra din stilling, \fog han  vil styrte dig ned fra dit embede,",
+      "text": "\fOg jeg støder dig ned fra din stilling,\fog han vil styrte dig ned fra dit embede,",
       "footnotes": [
         {
           "text": "Sandsynligvis kong Hizkija",
           "type": "T",
-          "position": 49
+          "position": 47
         }
       ],
       "version": 1681336800000
@@ -210,12 +210,12 @@
     },
     {
       "number": 22,
-      "text": "Og jeg vil lægge nøglen til Davids hus på hans skulder, \fog hvad han lukker op, kan ingen lukke i, \fog hvad han lukker i, kan ingen lukke op.",
+      "text": "Og jeg vil lægge nøglen til Davids hus på hans skulder,\fog hvad han lukker op, kan ingen lukke i,\fog hvad han lukker i, kan ingen lukke op.",
       "version": 1681336800000
     },
     {
       "number": 23,
-      "text": "\fOg jeg vil slå ham i som en nagle på et fast sted, \fså han bliver en ærestrone for sin fars hus.",
+      "text": "\fOg jeg vil slå ham i som en nagle på et fast sted,\fså han bliver en ærestrone for sin fars hus.",
       "version": 1681336800000
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "number": 25,
-      "text": "\f»På den dag,« lyder Hærskarers HERRES udsagn, »skal den nagle der sad på et fast sted, vige, og den skal brækkes af og falde ned, og det der hang på den, skal udslettes, for JHVH har talt.«",
+      "text": "\f»På den dag,« lyder Hærskarers HERRES udsagn, »skal den nagle der sad på et fast sted, vige, og den skal brækkes af og falde ned, og det der hang på den, skal udslettes, for HERREN har talt.«",
       "footnotes": [
         {
           "text": "Hærskarers",

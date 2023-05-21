@@ -3,7 +3,7 @@ import { Tooltip } from 'react-tooltip'
 import VerseNumber from './VerseNumber';
 import SectionTitle from './SectionTitle';
 
-function Verse({ verse, index, onSelected, settings}) {
+function Verse({ verse, index, chapterUID, onSelected, settings}) {
     const parts = [];
     
     const addVerseNumber = (verseNumber) => {
@@ -25,12 +25,12 @@ function Verse({ verse, index, onSelected, settings}) {
                     beginning = beginning.replace(/ /g, "");
                 if (index == 0 || (settings.showTitles && verse.title))
                     beginning = beginning.replace(/\n/g, "");
-                parts.push(<span key={verse.footnotes.length + "pA" + verse.number}>{beginning}</span>);
+                parts.push(<span key={chapterUID + verse.footnotes.length + "pA" + verse.number}>{beginning}</span>);
             }
 
             if (i == 0)
                 addVerseNumber(verse.number);
-            parts.push(<span key={i + "p" + verse.number}>{trimmed}</span>);
+            parts.push(<span key={chapterUID + i + "p" + verse.number}>{trimmed}</span>);
 
             const tooltipID = verse.number + verse.footnotes[i].type + verse.footnotes[i].designation;
             const tooltipText = FormatText(verse.footnotes[i].text);
@@ -48,7 +48,7 @@ function Verse({ verse, index, onSelected, settings}) {
         }
 
         let slice = FormatText(verse.text.slice(verse.footnotes[verse.footnotes.length - 1].position, verse.text.length), settings);
-        parts.push(<span key={verse.footnotes.length + "p" + verse.number}>{slice}</span>);
+        parts.push(<span key={chapterUID + verse.footnotes.length + "p" + verse.number}>{slice}</span>);
     }
     else {
         const text = FormatText(verse.text, settings);
@@ -58,56 +58,66 @@ function Verse({ verse, index, onSelected, settings}) {
             let beginning = text.substring(0, diff).replace(/ /g, "");
             if (index == 0 || (settings.showTitles && verse.title))
                 beginning = beginning.replace(/\n/g, "");
-            parts.push(<span key={0 + "pA" + verse.number}>{beginning}</span>);
+            parts.push(<span key={chapterUID + 0 + "pA" + verse.number}>{beginning}</span>);
         }
         addVerseNumber(verse.number);
-        parts.push(<span key={0 + "pB" + verse.number}>{trimmed}</span>);
+        parts.push(<span key={chapterUID + 0 + "pB" + verse.number}>{trimmed}</span>);
     }
 
     return (
         <>
             {verse.title && settings.showTitles ? <SectionTitle>{FormatText(verse.title, settings)}</SectionTitle> : <></>}
             <span className='verseLine'>
-                {parts}&nbsp;
+                {parts}&nbsp;{settings.oneVersePerLine ? <br/> : <></>}
             </span>
         </>
     )
 }
 
+// DOESN'T HADNLE CURSIVE/ITALIC (*this is in italics*) - ONLY APPLICABLE IN FOOTNOTES
+// IS MISSING \n from EXEGETICAL LAYOUT
 function FormatText(text, settings) {
     let result = text;
 
-    if (settings && settings.godsName == "HERREN") {
-        result = result.replace(/JHVHvs/g, "HERRES");
-        result = result.replace(/JHVHs/g, "HERRENS");
-        result = result.replace(/JHVHv/g, "HERRE");
-        result = result.replace(/JHVH/g, "HERREN");
+    if (settings && settings.godsName == "JHVH") {
+        result = result.replace(/HERRENS/g, "JHVHs");
+        result = result.replace(/HERREN/g, "JHVH");
+        result = result.replace(/HERRES/g, "JHVHs");
+        result = result.replace(/HERRE/g, "JHVH");
     }
     else if (settings && settings.godsName == "Herren") {
-        result = result.replace(/JHVHvs/g, "Herres");
-        result = result.replace(/JHVHs/g, "Herrens");
-        result = result.replace(/JHVHv/g, "Herre");
-        result = result.replace(/JHVH/g, "Herren");
+        result = result.replace(/HERRENS/g, "Herrens");
+        result = result.replace(/HERREN/g, "Herren");
+        result = result.replace(/HERRES/g, "Herres");
+        result = result.replace(/HERRE/g, "Herre");
     }
     else if (settings && settings.godsName == "Jahve") {
-        result = result.replace(/JHVHvs/g, "Jahves");
-        result = result.replace(/JHVHs/g, "Jahves");
-        result = result.replace(/JHVHv/g, "Jahve");
-        result = result.replace(/JHVH/g, "Jahve");
+        result = result.replace(/HERRENS/g, "Jahves");
+        result = result.replace(/HERREN/g, "Jahve");
+        result = result.replace(/HERRES/g, "Jahves");
+        result = result.replace(/HERRE/g, "Jahve");
     }
-    else { // godsName == "JHVH"
-        result = result.replace(/JHVHvs/g, "JHVHs");
-        result = result.replace(/JHVHs/g, "JHVHs");
-        result = result.replace(/JHVHv/g, "JHVH");
-        result = result.replace(/JHVH/g, "JHVH");
+    else { // godsName == "HERREN"
+        result = result.replace(/HERRENS/g, "HERRENS");
+        result = result.replace(/HERREN/g, "HERREN");
+        result = result.replace(/HERRES/g, "HERRES");
+        result = result.replace(/HERRE/g, "HERRE");
     }
 
-    if (settings && !settings.exegeticLayout) {
-        // Remove exergetic layout
-        result = result.replace(/\t/g, " ").replace(/ +(?= )/g,'');;
+    if (settings) {
+        if (settings.exegeticLayout) {
+            
+        }
+        else {
+            // Remove exergetic layout
+            result = result.replace(/\t/g, " ").replace(/\n/g, "").replace(/ +(?= )/g,'');
 
-        // Add poetic indentation
-        result = result.replace(/\f /g, "\n\t").replace(/\f/g, "\n\t");
+            // Add new lines
+            result = result.replace(/\v/g, "\n");
+
+            // Add poetic indentation
+            result = result.replace(/\f /g, "\n\t").replace(/\f/g, "\n\t");
+        }
     }
 
     return result;

@@ -1,5 +1,5 @@
 {
-  "book": "Esajas’ Bog",
+  "book": "Esajas' Bog",
   "abbreviation": "Es",
   "chapter": 2,
   "translation": 100,
@@ -24,147 +24,147 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fDet ord\t\t\tsom Esajas, Amos' søn, så om Juda og Jerusalem:",
+      "text": "\fDet ord\n\t\t\tsom Esajas, Amos' søn, så om Juda og Jerusalem:",
       "title": "Folkeslagenes omvendelse",
       "version": 1668034800000
     },
     {
       "number": 2,
-      "text": "\f\t\tOg det skal ske i de sidste dage,\f\t\t\tat JHVHs tempelbjerg skal være grundfæstet på toppen af bjergene\f\t\t\t\t\tog være ophøjet over højene;\f\t\t\t\tog alle folkeslag skal strømme til det.",
+      "text": "\f\n\t\tOg det skal ske i de sidste dage,\f\n\t\t\tat HERRENS tempelbjerg skal være grundfæstet på toppen af bjergene\f\n\t\t\t\t\tog være ophøjet over højene;\f\n\t\t\t\tog alle folkeslag skal strømme til det.",
       "footnotes": [
         {
           "text": "Ordret: »hus’ bjerg«.",
           "type": "T",
-          "position": 60
+          "position": 64
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 3,
-      "text": "\f\t\t\t\t\t\tMange folk skal komme\t\t\t\t\tog sige:\f\t\t\t\t\t\t»Kom,\t\t\t\t\t\t\t\t\tlad os drage op til JHVHs bjerg,\ftil Jakobs Guds hus.\f\t\t\t\t\t\t\t\tHan skal lære os sine veje,\f\t\t\t\t\t\t\t\t\tog vi vil vandre på hans stier;«\f\t\t\t\t\t\t\tfor fra Zion skal der udgå lov\t\t\t\t\t\t\t\t\tog fra Jerusalem JHVHs ord.",
+      "text": "\f\n\t\t\t\t\t\tMange folk skal komme\n\t\t\t\t\tog sige:\f\n\t\t\t\t\t\t»Kom,\n\t\t\t\t\t\t\t\t\tlad os drage op til HERRENS bjerg,\ftil Jakobs Guds hus.\f\n\t\t\t\t\t\t\t\tHan skal lære os sine veje,\f\n\t\t\t\t\t\t\t\t\tog vi vil vandre på hans stier;«\f\n\t\t\t\t\t\t\tfor fra Zion skal der udgå lov\n\t\t\t\t\t\t\t\t\tog fra Jerusalem HERRENS ord.",
       "version": 1668034800000
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\t\t\t\t\tHan skal dømme imellem folkeslagene\f\t\t\t\t\t\t\t\t\t\t\tog holde rettergang over mange folk.\f\t\t\t\t\t\t\t\t\t\tOg de skal smede deres sværd om til hakker\f\t\t\t\t\t\t\t\t\t\t\tog deres spyd til vingårdsknive;\f\t\t\t\t\t\t\t\t\tfolkeslag skal ikke løfte sværd mod hinanden,\f\t\t\t\t\t\t\t\t\t\tog de skal ikke længere øve sig i krig.",
+      "text": "\f\n\t\t\t\t\t\t\t\tHan skal dømme imellem folkeslagene\f\n\t\t\t\t\t\t\t\t\t\t\tog holde rettergang over mange folk.\f\n\t\t\t\t\t\t\t\t\t\tOg de skal smede deres sværd om til hakker\f\n\t\t\t\t\t\t\t\t\t\t\tog deres spyd til vingårdsknive;\f\n\t\t\t\t\t\t\t\t\tfolkeslag skal ikke løfte sværd mod hinanden,\f\n\t\t\t\t\t\t\t\t\t\tog de skal ikke længere øve sig i krig.",
       "footnotes": [
         {
           "text": "Ordret: »Et folk skal ikke løfte sværd mod et folk.«",
           "type": "T",
-          "position": 244
+          "position": 249
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 5,
-      "text": "\f\tJakobs hus,\t\t\tkom,\t\t\t\tog lad os vandre i JHVHs lys!",
+      "text": "\f\n\tJakobs hus,\n\t\t\tkom,\n\t\t\t\tog lad os vandre i HERRENS lys!",
       "version": 1668034800000
     },
     {
       "number": 6,
-      "text": "\f\t\tDu har forkastet dit folk, Jakobs hus;\f\t\t\t\tfor de er fulde af Østens væsen,\f\t\t\t\t\ter spåmænd som filistrene,\f\t\t\t\t\t\tog de klapper hænder med fremmedes børn.",
+      "text": "\f\n\t\tDu har forkastet dit folk, Jakobs hus;\f\n\t\t\t\tfor de er fulde af Østens væsen,\f\n\t\t\t\t\ter spåmænd som filistrene,\f\n\t\t\t\t\t\tog de klapper hænder med fremmedes børn.",
       "title": "Straffen over de hovmodige",
       "footnotes": [
         {
           "text": "Verset indledes af det hebraiske *kî*, der oftest oversættes med »for«, dvs. som indledning til en begrundelse. En anden mulighed er at oversætte det emfatisk, »sandelig…«",
           "type": "E",
-          "position": 41
+          "position": 42
         },
         {
           "text": "Betydningen må være, at de ukritisk indoptager fremmed kultur i strid med Guds love.",
           "type": "T",
-          "position": 157
+          "position": 161
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 7,
-      "text": "\f\t\t\tDeres land er fyldt med sølv og guld,\f\t\t\t\tog der er ingen ende på deres skatte.\f\t\t\tDeres land er fyldt af heste,\f\t\t\t\tog der er ingen ende på deres stridsvogne.",
+      "text": "\f\n\t\t\tDeres land er fyldt med sølv og guld,\f\n\t\t\t\tog der er ingen ende på deres skatte.\f\n\t\t\tDeres land er fyldt af heste,\f\n\t\t\t\tog der er ingen ende på deres stridsvogne.",
       "version": 1668034800000
     },
     {
       "number": 8,
-      "text": "\f\t\t\tDeres land er fyldt med afguder;\f\t\t\t\tde kaster sig ned for deres hænders værk,\f\t\t\t\t\t\t\tdet, deres fingre har lavet.",
+      "text": "\f\n\t\t\tDeres land er fyldt med afguder;\f\n\t\t\t\tde kaster sig ned for deres hænders værk,\f\n\t\t\t\t\t\t\tdet, deres fingre har lavet.",
       "version": 1668034800000
     },
     {
       "number": 9,
-      "text": "\f\t\t\t\t\t\tMennesket skal fornedres,\t\t\t\t\t\tog manden ydmyges -\f\t\t\t\t\tdu må ikke tilgive dem!",
+      "text": "\f\n\t\t\t\t\t\tMennesket skal fornedres,\n\t\t\t\t\t\tog manden ydmyges -\f\n\t\t\t\t\tdu må ikke tilgive dem!",
       "version": 1668034800000
     },
     {
       "number": 10,
-      "text": "\f\tGå ind i klippen,\t\t\t\tog gem dig i støvet\fi rædsel for JHVH og for hans majestæts herlighed.",
+      "text": "\f\n\tGå ind i klippen,\n\t\t\t\tog gem dig i støvet\fi rædsel for HERREN og for hans majestæts herlighed.",
       "footnotes": [
         {
-          "text": "Ordret: »foran JHVHs rædsel«. Udtrykket handler ikke bare om den reaktion, JHVH vækker hos mennesker, men om en kvalitet hos JHVH selv. Se også v. 19 og 21.",
+          "text": "Ordret: »foran HERRENS rædsel«. Udtrykket handler ikke bare om den reaktion, HERREN vækker hos mennesker, men om en kvalitet hos HERREN selv. Se også v. 19 og 21.",
           "type": "E",
-          "position": 60
+          "position": 64
         }
       ],
       "version": 1668034800000
     },
     {
       "number": 11,
-      "text": "\f\t\t\tEt menneskes stolte øjne skal ydmyges,\f\t\t\t\t\t\tog mændenes hovmod vanæres;\f\t\t\t\t\tJHVH alene skal være ophøjet på den dag.",
+      "text": "\f\n\t\t\tEt menneskes stolte øjne skal ydmyges,\f\n\t\t\t\t\t\tog mændenes hovmod vanæres;\f\n\t\t\t\t\tHERREN alene skal være ophøjet på den dag.",
       "version": 1668034800000
     },
     {
       "number": 12,
-      "text": "\f\t\t\t\tFor Hærskarers HERRE har en dag mod enhver stolt og hovmodig\f\t\t\t\t\t\t\tog mod enhver knejsende så han vanæres,",
+      "text": "\f\n\t\t\t\tFor Hærskarers HERRE har en dag mod enhver stolt og hovmodig\f\n\t\t\t\t\t\t\tog mod enhver knejsende så han vanæres,",
       "version": 1668034800000
     },
     {
       "number": 13,
-      "text": "\f\t\t\t\t\t\t\tmod alle Libanons cedre,\fde høje og knejsende,\f\t\t\t\t\t\t\tog mod alle Bashans ege;",
+      "text": "\f\n\t\t\t\t\t\t\tmod alle Libanons cedre,\fde høje og knejsende,\f\n\t\t\t\t\t\t\tog mod alle Bashans ege;",
       "version": 1668034800000
     },
     {
       "number": 14,
-      "text": "\f\t\t\t\t\t\t\tmod alle høje bjerge\f\t\t\t\t\t\t\tog mod alle knejsende høje,",
+      "text": "\f\n\t\t\t\t\t\t\tmod alle høje bjerge\f\n\t\t\t\t\t\t\tog mod alle knejsende høje,",
       "version": 1668034800000
     },
     {
       "number": 15,
-      "text": "\f\t\t\t\t\t\t\tmod hvert højt tårn\f\t\t\t\t\t\t\tog mod hver befæstet mur,",
+      "text": "\f\n\t\t\t\t\t\t\tmod hvert højt tårn\f\n\t\t\t\t\t\t\tog mod hver befæstet mur,",
       "version": 1668034800000
     },
     {
       "number": 16,
-      "text": "\f\t\t\t\t\t\t\tmod alle Tarshish-skibe\f\t\t\t\t\t\t\tog mod alle kostbare fartøjer.",
+      "text": "\f\n\t\t\t\t\t\t\tmod alle Tarshish-skibe\f\n\t\t\t\t\t\t\tog mod alle kostbare fartøjer.",
       "version": 1668034800000
     },
     {
       "number": 17,
-      "text": "\f\t\t\t\t\t\tMenneskets stolthed skal nedbøjes,\f\t\t\t\t\t\t\t\t\tog mændenes hovmod vanæres;\f\t\t\t\t\t\t\t\tJHVH alene skal være ophøjet på den dag.",
+      "text": "\f\n\t\t\t\t\t\tMenneskets stolthed skal nedbøjes,\f\n\t\t\t\t\t\t\t\t\tog mændenes hovmod vanæres;\f\n\t\t\t\t\t\t\t\tHERREN alene skal være ophøjet på den dag.",
       "version": 1668034800000
     },
     {
       "number": 18,
-      "text": "\f\t\t\t\t\t\t\t\t\tAfguderne skal helt forsvinde.",
+      "text": "\f\n\t\t\t\t\t\t\t\t\tAfguderne skal helt forsvinde.",
       "version": 1668034800000
     },
     {
       "number": 19,
-      "text": "\f\t\t\t\t\t\t\tOg de skal gå ind i klippesprækker og i jordhuler\fi rædsel for JHVH og for hans majestæts herlighed,\f\t\t\t\t\t\t\t\tnår han rejser sig\t\t\t\t\t\t\t\t\tfor at forfærde jorden.",
+      "text": "\f\n\t\t\t\t\t\t\tOg de skal gå ind i klippesprækker og i jordhuler\fi rædsel for HERREN og for hans majestæts herlighed,\f\n\t\t\t\t\t\t\t\tnår han rejser sig\n\t\t\t\t\t\t\t\t\tfor at forfærde jorden.",
       "version": 1668034800000
     },
     {
       "number": 20,
-      "text": "\f\t\t\t\t\tPå den dag skal menneskene kaste deres afguder af sølv og guld,\f\t\t\t\t\t\t\t\tsom de har lavet\t\t\t\t\t\t\t\t\tfor at kaste sig ned for,\f\t\t\t\t\t\t\tbort til muldvarpe\t\t\t\t\t\t\t\tog flagermus",
+      "text": "\f\n\t\t\t\t\tPå den dag skal menneskene kaste deres afguder af sølv og guld,\f\n\t\t\t\t\t\t\t\tsom de har lavet\n\t\t\t\t\t\t\t\t\tfor at kaste sig ned for,\f\n\t\t\t\t\t\t\tbort til muldvarpe\n\t\t\t\t\t\t\t\tog flagermus",
       "version": 1668034800000
     },
     {
       "number": 21,
-      "text": "\f\t\t\t\t\t\tfor at søge ind i klippekløfter og i klipperevner \fi rædsel for JHVH og for hans majestæts herlighed\f\t\t\t\t\t\t\tnår han rejser sig\t\t\t\t\t\t\t\tfor at forfærde jorden.",
+      "text": "\f\n\t\t\t\t\t\tfor at søge ind i klippekløfter og i klipperevner\fi rædsel for HERREN og for hans majestæts herlighed\f\n\t\t\t\t\t\t\tnår han rejser sig\n\t\t\t\t\t\t\t\tfor at forfærde jorden.",
       "version": 1668034800000
     },
     {
       "number": 22,
-      "text": "\f\t\tStop med at stole på mennesket,\f\t\t\t\tsom kun har ånde i sin næse;\f\t\t\tfor hvad kan han vel regnes for?",
+      "text": "\f\n\t\tStop med at stole på mennesket,\f\n\t\t\t\tsom kun har ånde i sin næse;\f\n\t\t\tfor hvad kan han vel regnes for?",
       "version": 1668034800000
     }
   ]

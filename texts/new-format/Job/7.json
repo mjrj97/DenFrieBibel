@@ -1,5 +1,5 @@
 {
-  "book": "Jobs bog",
+  "book": "Jobs Bog",
   "abbreviation": "Job",
   "chapter": 7,
   "translation": 75,
@@ -20,18 +20,18 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fEr et menneskes liv  på jorden ikke en krigstjeneste\f\t\t\t\tog hans dage som en lejesoldats dage?",
+      "text": "\fEr et menneskes liv på jorden ikke en krigstjeneste\f\n\t\t\t\tog hans dage som en lejesoldats dage?",
       "title": " Job klager over sit livs elendighed",
       "footnotes": [
         {
           "text": "»liv« er tilføjet.",
           "type": "T",
-          "position": 21
+          "position": 20
         },
         {
           "text": "Ordret: »hærskare«.",
           "type": "T",
-          "position": 53
+          "position": 52
         },
         {
           "text": "Ordret: »lejet, hyret«.",
@@ -43,151 +43,151 @@
     },
     {
       "number": 2,
-      "text": "\f\t\t\tSom en arbejder\t\t\t\t\t\tder længes efter skygge,\f\t\t\t\t\tog som en daglejer\t\t\t\t\t\tder venter på sin løn,",
+      "text": "\f\n\t\t\tSom en arbejder\n\t\t\t\t\t\tder længes efter skygge,\f\n\t\t\t\t\tog som en daglejer\n\t\t\t\t\t\tder venter på sin løn,",
       "version": 1681336800000
     },
     {
       "number": 3,
-      "text": "\f\t\t\t\tsådan har jeg arvet måneder af tomhed,\f\t\t\t\t\tog nætter i lidelse er blevet tildelt mig.",
+      "text": "\f\n\t\t\t\tsådan har jeg arvet måneder af tomhed,\f\n\t\t\t\t\tog nætter i lidelse er blevet tildelt mig.",
       "version": 1681336800000
     },
     {
       "number": 4,
-      "text": "\f\t\tNår jeg lægger mig,\t\t\t\t\tsiger jeg:\f\t\t\t\t\t\t»Hvornår skal jeg stå op?«\t\t\t\tNatten bliver lang\f\t\t\t\t\tog jeg er så træt af at vende og dreje mig til daggry.",
+      "text": "\f\n\t\tNår jeg lægger mig,\n\t\t\t\t\tsiger jeg:\f\n\t\t\t\t\t\t»Hvornår skal jeg stå op?«\n\t\t\t\tNatten bliver lang\f\n\t\t\t\t\tog jeg er så træt af at vende og dreje mig til daggry.",
       "version": 1681336800000
     },
     {
       "number": 5,
-      "text": "\f\t\t\tMin krop er dækket af maddiker og tørre skorper, \f\t\t\t\tmin hud sprækker\t\t\t\t\t\tog væsker.",
+      "text": "\f\n\t\t\tMin krop er dækket af maddiker og tørre skorper,\f\n\t\t\t\tmin hud sprækker\n\t\t\t\t\t\tog væsker.",
       "footnotes": [
         {
           "text": "Ordret: »mit kød«",
           "type": "T",
-          "position": 12
+          "position": 13
         },
         {
           "text": "Ordret: »tør jord, støv«.",
           "type": "T",
-          "position": 43
+          "position": 44
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\t\tMine dage løber hurtigere end en væveskyttel, \f\t\t\t\t\t\tog de svinder hen uden håb.",
+      "text": "\f\n\t\t\t\t\tMine dage løber hurtigere end en væveskyttel,\f\n\t\t\t\t\t\tog de svinder hen uden håb.",
       "version": 1681336800000
     },
     {
       "number": 7,
-      "text": "\f\tHusk på\t\t\t\t\tat mit liv er som et åndepust,\f\t\t\t\tmit øje får ikke det der er godt, at se mere.",
+      "text": "\f\n\tHusk på\n\t\t\t\t\tat mit liv er som et åndepust,\f\n\t\t\t\tmit øje får ikke det der er godt, at se mere.",
       "title": "Job klager til Gud",
       "footnotes": [
         {
           "text": "Det betyder her glæden, lykken.",
           "type": "T",
-          "position": 82
+          "position": 85
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 8,
-      "text": "\t\t\t\t\t\t\f\t\t\t\t\tØjet der ser mig, ser mig ikke igen.\t\t\t\t\t\t\f\t\t\tSøger dine øjne efter mig,\t\t\t\t\ter jeg der ikke.",
+      "text": "\n\t\t\t\t\t\t\f\n\t\t\t\t\tØjet der ser mig, ser mig ikke igen.\n\t\t\t\t\t\t\f\n\t\t\tSøger dine øjne efter mig,\n\t\t\t\t\ter jeg der ikke.",
       "version": 1681336800000
     },
     {
       "number": 9,
-      "text": "\f\t\t\t\tSkyer opløses\t\t\t\t\t\tog forsvinder, \f\t\t\t\t\tsådan er det også\t\t\t\t\t\t\t\tfor den der går ned i dødsriget,\t\t\t\t\t\t\than kommer ikke op igen.",
+      "text": "\f\n\t\t\t\tSkyer opløses\n\t\t\t\t\t\tog forsvinder,\f\n\t\t\t\t\tsådan er det også\n\t\t\t\t\t\t\t\tfor den der går ned i dødsriget,\n\t\t\t\t\t\t\than kommer ikke op igen.",
       "version": 1681336800000
     },
     {
       "number": 10,
-      "text": "\f\t\t\t\t\t\tHan vender ikke mere tilbage til sit hus,\f\t\t\t\t\t\t\tog hans sted genkender ham ikke længere.",
+      "text": "\f\n\t\t\t\t\t\tHan vender ikke mere tilbage til sit hus,\f\n\t\t\t\t\t\t\tog hans sted genkender ham ikke længere.",
       "version": 1681336800000
     },
     {
       "number": 11,
-      "text": "\f\t\tJeg vil heller ikke lægge bånd på min mund,\f\t\t\t\t\t\tlad mig tale ud af min ånds lidelse,\f\t\t\t\t\t\tlad mig klage i min sjæls bitterhed!",
+      "text": "\f\n\t\tJeg vil heller ikke lægge bånd på min mund,\f\n\t\t\t\t\t\tlad mig tale ud af min ånds lidelse,\f\n\t\t\t\t\t\tlad mig klage i min sjæls bitterhed!",
       "footnotes": [
         {
           "text": "Kan her også oversættes med »tale«.",
           "type": "T",
-          "position": 109
+          "position": 112
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 12,
-      "text": "\f\t\t\t\t\tEr jeg et hav\t\t\t\t\t\t\teller et havuhyre, \f\t\t\t\t\t\tsiden du har anbragt en vagt over mig?",
+      "text": "\f\n\t\t\t\t\tEr jeg et hav\n\t\t\t\t\t\t\teller et havuhyre,\f\n\t\t\t\t\t\tsiden du har anbragt en vagt over mig?",
       "title": "Livet er uudholdeligt og Job ønsker at dø",
       "version": 1681336800000
     },
     {
       "number": 13,
-      "text": "\f\t\t\t\tNår jeg siger:\t\t\t\t\t\t\t»Min seng skal trøste mig,\f\t\t\t\t\t\t\t\tmit leje hjælpe med at bære min sorg,«",
+      "text": "\f\n\t\t\t\tNår jeg siger:\n\t\t\t\t\t\t\t»Min seng skal trøste mig,\f\n\t\t\t\t\t\t\t\tmit leje hjælpe med at bære min sorg,«",
       "version": 1681336800000
     },
     {
       "number": 14,
-      "text": "\f\t\t\t\t\t\tså forfærdes jeg af drømme,\f\t\t\t\t\t\t\tog syner skræmmer mig.",
+      "text": "\f\n\t\t\t\t\t\tså forfærdes jeg af drømme,\f\n\t\t\t\t\t\t\tog syner skræmmer mig.",
       "version": 1681336800000
     },
     {
       "number": 15,
-      "text": "\f\t\t\t\t\tMin sjæl foretrækker kvælning,\f\t\t\t\t\t\thellere døden end mine pinsler.",
+      "text": "\f\n\t\t\t\t\tMin sjæl foretrækker kvælning,\f\n\t\t\t\t\t\thellere døden end mine pinsler.",
       "version": 1681336800000
     },
     {
       "number": 16,
-      "text": "\f\t\t\tJeg foragter mig selv,\t\t\t\tjeg vil ikke leve evigt.\f\t»Lad mig være,\t\t\t\t\tfor mine dage er tomhed!«",
+      "text": "\f\n\t\t\tJeg foragter mig selv,\n\t\t\t\tjeg vil ikke leve evigt.\f\n\t»Lad mig være,\n\t\t\t\t\tfor mine dage er tomhed!«",
       "footnotes": [
         {
           "text": "Kan også oversættes »forkaster«, samme verbum anvendt i Am 5.21, Es 33.8.",
           "type": "T",
-          "position": 16
+          "position": 17
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 17,
-      "text": "\f\t\t\t\tHvad er et menneske\t\t\t\t\tat du agter ham højt\f\t\t\t\t\t\t\tnår du retter din opmærksomhed mod ham?",
+      "text": "\f\n\t\t\t\tHvad er et menneske\n\t\t\t\t\tat du agter ham højt\f\n\t\t\t\t\t\t\tnår du retter din opmærksomhed mod ham?",
       "version": 1681336800000
     },
     {
       "number": 18,
-      "text": "\f\t\t\t\t\t\tDu hjemsøger ham hver morgen,\f\t\t\t\t\t\t\tdu prøver ham hvert et øjeblik.",
+      "text": "\f\n\t\t\t\t\t\tDu hjemsøger ham hver morgen,\f\n\t\t\t\t\t\t\tdu prøver ham hvert et øjeblik.",
       "footnotes": [
         {
           "text": "I betydningen »undersøge, granske«, Sl 139.23.",
           "type": "T",
-          "position": 53
+          "position": 55
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 19,
-      "text": "\f\t\t\tHvor længe vil du ikke vende dit blik fra mig,\f\t\t\t\t\t\tikke lade mig alene\t\t\t\t\tindtil jeg har slugt mit spyt?",
+      "text": "\f\n\t\t\tHvor længe vil du ikke vende dit blik fra mig,\f\n\t\t\t\t\t\tikke lade mig alene\n\t\t\t\t\tindtil jeg har slugt mit spyt?",
       "footnotes": [
         {
           "text": "Meningen er »for en meget kort tid«.",
           "type": "T",
-          "position": 111
+          "position": 114
         }
       ],
       "version": 1681336800000
     },
     {
       "number": 20,
-      "text": "\f\t\t\t\tHar jeg syndet,\t\t\t\t\thvad kan det gøre dig,\f\t\t\t\t\t\t\t\tdu, menneskets vogter?\f\t\t\t\t\t\t\tHvorfor har du gjort mig til skydeskive for dig?\f\t\t\t\t\t\t\t\tJeg er blevet en byrde for mig selv.",
+      "text": "\f\n\t\t\t\tHar jeg syndet,\n\t\t\t\t\thvad kan det gøre dig,\f\n\t\t\t\t\t\t\t\tdu, menneskets vogter?\f\n\t\t\t\t\t\t\tHvorfor har du gjort mig til skydeskive for dig?\f\n\t\t\t\t\t\t\t\tJeg er blevet en byrde for mig selv.",
       "version": 1681336800000
     },
     {
       "number": 21,
-      "text": "\f\t\t\t\t\t\tHvorfor tilgiver du mig ikke min synd\f\t\t\t\t\t\t\tog fjerner min skyld? \f\t\tFor nu vil jeg lægge mig i støvet,\f\t\t\tog søger du mig,\t\t\t\ter jeg ikke mere.«",
+      "text": "\f\n\t\t\t\t\t\tHvorfor tilgiver du mig ikke min synd\f\n\t\t\t\t\t\t\tog fjerner min skyld?\f\n\t\tFor nu vil jeg lægge mig i støvet,\f\n\t\t\tog søger du mig,\n\t\t\t\ter jeg ikke mere.«",
       "version": 1681336800000
     }
   ]

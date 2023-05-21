@@ -20,13 +20,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "Tak JHVH, udråb hans navn,\fkundgør hans gerninger blandt folkene!",
+      "text": "Tak HERREN, udråb hans navn,\fkundgør hans gerninger blandt folkene!",
       "title": "Opfordring til lovsang",
       "footnotes": [
         {
           "text": "Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.",
           "type": "E",
-          "position": 15
+          "position": 17
         }
       ],
       "version": 1499983200000
@@ -50,7 +50,7 @@
     },
     {
       "number": 3,
-      "text": "\fRos jer af hans hellige navn,\fderes hjerte som søger JHVH, skal glæde sig!",
+      "text": "\fRos jer af hans hellige navn,\fderes hjerte som søger HERREN, skal glæde sig!",
       "footnotes": [
         {
           "text": "Ordret: »hans helligheds navn«.",
@@ -62,7 +62,7 @@
     },
     {
       "number": 4,
-      "text": "\fSpørg efter JHVH og hans magt,\fsøg altid hans ansigt!",
+      "text": "\fSpørg efter HERREN og hans magt,\fsøg altid hans ansigt!",
       "version": 1499983200000
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "number": 7,
-      "text": "\fHan er JHVH, vor Gud,\fhans domme gælder over hele jorden.",
+      "text": "\fHan er HERREN, vor Gud,\fhans domme gælder over hele jorden.",
       "title": "Guds pagt og løfte",
       "version": 1499983200000
     },
@@ -191,7 +191,7 @@
     },
     {
       "number": 19,
-      "text": "\findtil den tid da hans ord indtraf,\fJHVHs tale havde lutret ham.",
+      "text": "\findtil den tid da hans ord indtraf,\fHERRENS tale havde lutret ham.",
       "version": 1499983200000
     },
     {
@@ -411,7 +411,7 @@
     },
     {
       "number": 45,
-      "text": "\fmed det formål at de skulle holde hans bestemmelser\fog overholde hans love.\fHalleluja! ",
+      "text": "\fmed det formål at de skulle holde hans bestemmelser\fog overholde hans love.\fHalleluja!",
       "footnotes": [
         {
           "text": "lov",
@@ -421,7 +421,7 @@
         {
           "text": "Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette »halleluja«.",
           "type": "T",
-          "position": 88
+          "position": 87
         }
       ],
       "version": 1499983200000

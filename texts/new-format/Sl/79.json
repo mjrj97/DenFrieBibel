@@ -20,13 +20,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "Salme af Asaf. \fGud, hedninger er trængt ind i din arvelod,\fde har vanhelliget dit hellige tempel,\fde har lagt Jerusalem i ruiner.",
+      "text": "Salme af Asaf.\fGud, hedninger er trængt ind i din arvelod,\fde har vanhelliget dit hellige tempel,\fde har lagt Jerusalem i ruiner.",
       "title": "Overskrift",
       "footnotes": [
         {
           "text": "Kan også oversættes »folkeslag«, men her ligger vægten på modsætningen til Guds folk.",
           "type": "T",
-          "position": 30
+          "position": 29
         }
       ],
       "version": 1500242400000
@@ -56,7 +56,7 @@
     },
     {
       "number": 5,
-      "text": "\fHvor længe, JHVHv? Vil du være vred for evigt? \fSkal din nidkærhed stadig brænde som en ild?",
+      "text": "\fHvor længe, HERRE? Vil du være vred for evigt?\fSkal din nidkærhed stadig brænde som en ild?",
       "title": "Bøn om hjælp",
       "version": 1500242400000
     },

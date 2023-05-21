@@ -20,13 +20,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "Halleluja!\fTak JHVH, for han er god,\ffor hans nåde varer til evig tid.",
+      "text": "Halleluja!\fTak HERREN, for han er god,\ffor hans nåde varer til evig tid.",
       "title": "Lovprisning og bøn",
       "version": 1499983200000
     },
     {
       "number": 2,
-      "text": "\fHvem kan fremsige JHVHs vældige gerninger,\fforkynde al hans pris?",
+      "text": "\fHvem kan fremsige HERRENS vældige gerninger,\fforkynde al hans pris?",
       "version": 1499983200000
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "number": 4,
-      "text": "\fHusk mig, JHVHv, med velviljen til dit folk,\ftag dig af mig med din frelse",
+      "text": "\fHusk mig, HERRE, med velviljen til dit folk,\ftag dig af mig med din frelse",
       "version": 1499983200000
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "number": 16,
-      "text": "\fDe blev skinsyge på Moses i lejren,\fpå Aron, JHVHs hellige.",
+      "text": "\fDe blev skinsyge på Moses i lejren,\fpå Aron, HERRENS hellige.",
       "version": 1499983200000
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "number": 25,
-      "text": "\fDe murrede i deres telte,\fde hørte ikke på JHVHs røst.",
+      "text": "\fDe murrede i deres telte,\fde hørte ikke på HERRENS røst.",
       "version": 1499983200000
     },
     {
@@ -255,7 +255,7 @@
     },
     {
       "number": 34,
-      "text": "\fDe udryddede ikke folkene,\fsom JHVH havde sagt det til dem.",
+      "text": "\fDe udryddede ikke folkene,\fsom HERREN havde sagt det til dem.",
       "version": 1499983200000
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "number": 40,
-      "text": "\fDa blussede JHVHs vrede op mod hans folk,\fog han fik afsky for sin arv.",
+      "text": "\fDa blussede HERRENS vrede op mod hans folk,\fog han fik afsky for sin arv.",
       "version": 1499983200000
     },
     {
@@ -341,7 +341,7 @@
     },
     {
       "number": 47,
-      "text": "\fFrels os, JHVHv, vor Gud,\fog saml os fra folkene\fså vi kan takke dit hellige navn,\frose os af at lovprise dig.",
+      "text": "\fFrels os, HERRE, vor Gud,\fog saml os fra folkene\fså vi kan takke dit hellige navn,\frose os af at lovprise dig.",
       "title": "Bøn",
       "footnotes": [
         {
@@ -359,7 +359,7 @@
     },
     {
       "number": 48,
-      "text": "\fLovet være JHVH, Israels Gud,\ffra evighed og til evighed,\fog hele folket skal sige: Amen!\fHalleluja!",
+      "text": "\fLovet være HERREN, Israels Gud,\ffra evighed og til evighed,\fog hele folket skal sige: Amen!\fHalleluja!",
       "title": "Lovprisning",
       "footnotes": [
         {
@@ -370,7 +370,7 @@
         {
           "text": "Mange oversættere lader (med støtte i Septuaginta) »halleluja« være indledning til Sl 107",
           "type": "T",
-          "position": 101
+          "position": 103
         }
       ],
       "version": 1499983200000

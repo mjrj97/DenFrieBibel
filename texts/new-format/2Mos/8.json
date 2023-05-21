@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "JHVH sagde til Moses: »Sig til Aron: ›Ræk din hånd med staven ud over floderne, over kanalerne og over dammene, og lad frøerne komme op over Egyptens land.‹«",
+      "text": "HERREN sagde til Moses: »Sig til Aron: ›Ræk din hånd med staven ud over floderne, over kanalerne og over dammene, og lad frøerne komme op over Egyptens land.‹«",
       "version": 1563228000000
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "number": 4,
-      "text": "Da kaldte Farao på Moses og på Aron og sagde: »Bed til JHVH om at han fjerner frøerne fra mig og fra mit folk, så vil jeg lade folket gå så de kan ofre til JHVH.«",
+      "text": "Da kaldte Farao på Moses og på Aron og sagde: »Bed til HERREN om at han fjerner frøerne fra mig og fra mit folk, så vil jeg lade folket gå så de kan ofre til HERREN.«",
       "version": 1563228000000
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "number": 6,
-      "text": "Han sagde: »I morgen.« Og han sagde: »Efter dit ord! For at du skal forstå at der ikke er nogen som JHVH, vores Gud,",
+      "text": "Han sagde: »I morgen.« Og han sagde: »Efter dit ord! For at du skal forstå at der ikke er nogen som HERREN, vores Gud,",
       "footnotes": [
         {
           "text": "Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: »lære at kende / indse / vide«.",
@@ -69,12 +69,12 @@
     },
     {
       "number": 8,
-      "text": "Så gik Moses og Aron ud fra Farao; og Mose råbte til JHVH angående sagen med frøerne som han havde påført Farao.",
+      "text": "Så gik Moses og Aron ud fra Farao; og Mose råbte til HERREN angående sagen med frøerne som han havde påført Farao.",
       "version": 1563228000000
     },
     {
       "number": 9,
-      "text": "JHVH gjorde efter Moses’ ord; frøerne døde ud i husene, på gårdspladserne og på markerne.",
+      "text": "HERREN gjorde efter Moses’ ord; frøerne døde ud i husene, på gårdspladserne og på markerne.",
       "version": 1563228000000
     },
     {
@@ -84,23 +84,23 @@
     },
     {
       "number": 11,
-      "text": "Men da Farao så at han havde fået lindring, forhærdede han sit hjerte, og han hørte ikke på dem, sådan som JHVH havde sagt.",
+      "text": "Men da Farao så at han havde fået lindring, forhærdede han sit hjerte, og han hørte ikke på dem, sådan som HERREN havde sagt.",
       "version": 1563228000000
     },
     {
       "number": 12,
-      "text": "\fJHVH sagde til Moses: »Sig til Aron: ›Ræk din stav ud, og slå jordens støv; det skal blive til myg i hele Egyptens land.‹«",
+      "text": "\fHERREN sagde til Moses: »Sig til Aron: ›Ræk din stav ud, og slå jordens støv; det skal blive til myg i hele Egyptens land.‹«",
       "title": "Tredje plage: Myg",
       "footnotes": [
         {
           "text": "Hebraisk har tre ord for »støv«. *ʕᵃfar*, der er brugt her, er det frugtbare, værdifulde støv på jordens overflade. Egyptens frugtbare jord skal blive til myg.",
           "type": "E",
-          "position": 76
+          "position": 78
         },
         {
           "text": "Det er omdiskuteret hvad der menes med: *kinnim*. På moderne hebraisk er det betegnelse for »lus«, men her er der tydeligvis tale om flyvende insekter, og »myg« er en rimelig antagelse.",
           "type": "T",
-          "position": 99
+          "position": 101
         }
       ],
       "version": 1563228000000
@@ -131,18 +131,18 @@
     },
     {
       "number": 15,
-      "text": "Da sagde mirakelmagerne til Farao: »Det er Guds finger!« Men Faraos hjerte blev hårdt så han ikke hørte på dem, sådan som JHVH havde sagt.",
+      "text": "Da sagde mirakelmagerne til Farao: »Det er Guds finger!« Men Faraos hjerte blev hårdt så han ikke hørte på dem, sådan som HERREN havde sagt.",
       "version": 1563228000000
     },
     {
       "number": 16,
-      "text": "\fJHVH sagde til Moses: »Stå tidligt op om morgenen og stil dig foran Farao; se, idet han går ud til vandet, skal du sige til ham: ›Sådan har JHVH sagt: ›Lad mit folk gå så de kan dyrke mig‹.",
+      "text": "\fHERREN sagde til Moses: »Stå tidligt op om morgenen og stil dig foran Farao; se, idet han går ud til vandet, skal du sige til ham: ›Sådan har HERREN sagt: ›Lad mit folk gå så de kan dyrke mig‹.",
       "title": "Fjerde plage: Fluer",
       "footnotes": [
         {
           "text": "Ordret: »ved Faraos ansigt«.",
           "type": "T",
-          "position": 75
+          "position": 77
         }
       ],
       "version": 1563228000000
@@ -161,7 +161,7 @@
     },
     {
       "number": 18,
-      "text": "Og på samme dag vil jeg udskille Goshens land, som mit folk opholder sig i, så der ikke skal være fluer dér, for du skal forstå at jeg, JHVH, er midt i landet.",
+      "text": "Og på samme dag vil jeg udskille Goshens land, som mit folk opholder sig i, så der ikke skal være fluer dér, for du skal forstå at jeg, HERREN, er midt i landet.",
       "footnotes": [
         {
           "text": "Se note til vers 6.",
@@ -169,9 +169,9 @@
           "position": 127
         },
         {
-          "text": "Meningen er formodentlig at JHVH ikke blot har magt i Israels land, men også i Egypten. En anden mulig oversættelse er: »er midt på jorden«. Meningen er da at Israels Gud er Herre over hele jorden.",
+          "text": "Meningen er formodentlig at HERREN ikke blot har magt i Israels land, men også i Egypten. En anden mulig oversættelse er: »er midt på jorden«. Meningen er da at Israels Gud er Herre over hele jorden.",
           "type": "T",
-          "position": 159
+          "position": 161
         }
       ],
       "version": 1563228000000
@@ -190,12 +190,12 @@
     },
     {
       "number": 20,
-      "text": "JHVH gjorde sådan; der kom en mængde fluer ind i Faraos hus og i hans tjeneres hus, og i hele Egyptens land blev landet fordærvet af fluerne.",
+      "text": "HERREN gjorde sådan; der kom en mængde fluer ind i Faraos hus og i hans tjeneres hus, og i hele Egyptens land blev landet fordærvet af fluerne.",
       "footnotes": [
         {
           "text": "Ordret: »tung flue(sværm)«.",
           "type": "T",
-          "position": 42
+          "position": 44
         }
       ],
       "version": 1563228000000
@@ -207,39 +207,39 @@
     },
     {
       "number": 22,
-      "text": "Men Moses sagde: »Det er ikke i orden at gøre sådan, for det vi ofrer til JHVH, vores Gud, er afskyeligt for Egypten. Så hvis vi ofrer det der er afskyeligt for Egypten, for øjnene af dem, vil de så ikke stene os?",
+      "text": "Men Moses sagde: »Det er ikke i orden at gøre sådan, for det vi ofrer til HERREN, vores Gud, er afskyeligt for Egypten. Så hvis vi ofrer det der er afskyeligt for Egypten, for øjnene af dem, vil de så ikke stene os?",
       "version": 1563228000000
     },
     {
       "number": 23,
-      "text": "Vi vil gå tre dages rejse ud i ørkenen, og vi vil ofre til JHVH, vores Gud, sådan som han siger til os.«",
+      "text": "Vi vil gå tre dages rejse ud i ørkenen, og vi vil ofre til HERREN, vores Gud, sådan som han siger til os.«",
       "version": 1563228000000
     },
     {
       "number": 24,
-      "text": "Da sagde Farao: »Jeg vil lade jer gå, så I kan ofre til JHVH, jeres Gud, i ørkenen, men I må bestemt ikke gå langt væk. Bed for mig!«",
+      "text": "Da sagde Farao: »Jeg vil lade jer gå, så I kan ofre til HERREN, jeres Gud, i ørkenen, men I må bestemt ikke gå langt væk. Bed for mig!«",
       "footnotes": [
         {
           "text": "Den hebraiske tekst har verbet *rḥq* (»fjerne / tage langt væk«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
           "type": "T",
-          "position": 100
+          "position": 102
         }
       ],
       "version": 1563228000000
     },
     {
       "number": 25,
-      "text": "Moses sagde: »Se, jeg går bort fra dig, og jeg vil bede til JHVH, og fluerne vil forsvinde fra Farao og fra hans tjenere og fra hans folk i morgen. Kun må Farao ikke fortsætte med at bedrage så han ikke lader folket gå ud for at ofre til JHVH.«",
+      "text": "Moses sagde: »Se, jeg går bort fra dig, og jeg vil bede til HERREN, og fluerne vil forsvinde fra Farao og fra hans tjenere og fra hans folk i morgen. Kun må Farao ikke fortsætte med at bedrage så han ikke lader folket gå ud for at ofre til HERREN.«",
       "version": 1563228000000
     },
     {
       "number": 26,
-      "text": "Så gik Moses ud fra Farao og bad til JHVH.",
+      "text": "Så gik Moses ud fra Farao og bad til HERREN.",
       "version": 1563228000000
     },
     {
       "number": 27,
-      "text": "Og JHVH gjorde efter Moses’ ord, og fluerne forsvandt fra Farao, fra hans tjenere og fra hans folk; der blev ikke én tilbage.",
+      "text": "Og HERREN gjorde efter Moses’ ord, og fluerne forsvandt fra Farao, fra hans tjenere og fra hans folk; der blev ikke én tilbage.",
       "version": 1563228000000
     },
     {

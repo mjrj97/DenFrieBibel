@@ -20,7 +20,7 @@
   "verses": [
     {
       "number": 1,
-      "text": "Til korlederen. Af David.\fHos JHVH har jeg søgt tilflugt,\fhvordan kan I sige til min sjæl:\f»Flygt til bjergene som en fugl«?",
+      "text": "Til korlederen. Af David.\fHos HERREN har jeg søgt tilflugt,\fhvordan kan I sige til min sjæl:\f»Flygt til bjergene som en fugl«?",
       "title": "Overskrift",
       "footnotes": [
         {
@@ -31,7 +31,7 @@
         {
           "text": "Ordret: »Flygt til jeres bjerg (som en) fugl«. Der må tænkes på David og hans venner (»flygt« er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (»jeres bjerg«) til *harîm kᵊ-* (»til bjergene som«).",
           "type": "E",
-          "position": 110
+          "position": 112
         }
       ],
       "version": 1475704800000
@@ -39,7 +39,7 @@
     {
       "number": 2,
       "text": "\fFor se, de ugudelige spænder buen,\fde har lagt deres pil på strengen\ffor at skyde i ly af mørket mod de oprigtige af hjertet.",
-      "title": "Hos JHVH har jeg søgt tilflugt",
+      "title": "Hos HERREN har jeg søgt tilflugt",
       "version": 1475704800000
     },
     {
@@ -49,20 +49,20 @@
     },
     {
       "number": 4,
-      "text": "\fJHVH er i sit hellige tempel,\fJHVH - i himlen er hans trone - \fhans øjne iagttager,\fhans øjenlåg prøver menneskets børn.",
-      "title": "JHVH er retfærdig og bevarer den retfærdige",
+      "text": "\fHERREN er i sit hellige tempel,\fHERREN - i himlen er hans trone -\fhans øjne iagttager,\fhans øjenlåg prøver menneskets børn.",
+      "title": "HERREN er retfærdig og bevarer den retfærdige",
       "footnotes": [
         {
           "text": "Meningen formodentlig: »hans blik«.",
           "type": "T",
-          "position": 97
+          "position": 100
         }
       ],
       "version": 1475704800000
     },
     {
       "number": 5,
-      "text": "\fJHVH prøver retfærdig og ugudelig,\fmen hans sjæl hader den der elsker vold.",
+      "text": "\fHERREN prøver retfærdig og ugudelig,\fmen hans sjæl hader den der elsker vold.",
       "version": 1475704800000
     },
     {
@@ -79,12 +79,12 @@
     },
     {
       "number": 7,
-      "text": "\fFor JHVH er retfærdig, han elsker retfærdighedshandlinger,\fde retskafne skal se JHVHs ansigt.",
+      "text": "\fFor HERREN er retfærdig, han elsker retfærdighedshandlinger,\fde retskafne skal se HERRENS ansigt.",
       "footnotes": [
         {
           "text": "*yāšār* (»retskaffen«) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: »hans ansigt skal iagttage de retskafne«, men sammenhængen taler for den første mulighed.",
           "type": "E",
-          "position": 94
+          "position": 98
         }
       ],
       "version": 1475704800000

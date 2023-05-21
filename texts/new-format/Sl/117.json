@@ -20,20 +20,20 @@
   "verses": [
     {
       "number": 1,
-      "text": "Lovpris JHVH, alle folk!\fPris ham, alle folkeslag!",
-      "title": "Lovpris JHVH",
+      "text": "Lovpris HERREN, alle folk!\fPris ham, alle folkeslag!",
+      "title": "Lovpris HERREN",
       "footnotes": [
         {
           "text": "Kan også oversættes: »hedninger«, men det er næppe meningen her.",
           "type": "T",
-          "position": 24
+          "position": 26
         }
       ],
       "version": 1499983200000
     },
     {
       "number": 2,
-      "text": "\fFor hans nåde mod os har været mægtig,\fog JHVHs troskab varer til evig tid.\fHalleluja! ",
+      "text": "\fFor hans nåde mod os har været mægtig,\fog HERRENS troskab varer til evig tid.\fHalleluja!",
       "footnotes": [
         {
           "text": "nåde",
@@ -43,12 +43,12 @@
         {
           "text": "Kan også oversættes: »sandhed«.",
           "type": "T",
-          "position": 56
+          "position": 58
         },
         {
           "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 118.",
           "type": "T",
-          "position": 88
+          "position": 89
         }
       ],
       "version": 1499983200000

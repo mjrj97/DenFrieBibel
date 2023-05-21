@@ -33,7 +33,7 @@
     },
     {
       "number": 2,
-      "text": "\fSaligt er det menneske som JHVH ikke tilregner skyld,\fog i hvis ånd der ikke er svig.",
+      "text": "\fSaligt er det menneske som HERREN ikke tilregner skyld,\fog i hvis ånd der ikke er svig.",
       "title": "Lykken i tilgivelsen",
       "version": 1457218800000
     },
@@ -62,7 +62,7 @@
     },
     {
       "number": 5,
-      "text": "\fJeg bekendte min synd for dig\fog skjulte ikke min skyld,\fjeg sagde: »Jeg vil aflægge tilståelse for mine overtrædelser for JHVH«,\fog du forlod mig min syndeskyld. Sela",
+      "text": "\fJeg bekendte min synd for dig\fog skjulte ikke min skyld,\fjeg sagde: »Jeg vil aflægge tilståelse for mine overtrædelser for HERREN«,\fog du forlod mig min syndeskyld. Sela",
       "title": "Syndsbekendelse",
       "version": 1457218800000
     },
@@ -87,13 +87,13 @@
     {
       "number": 8,
       "text": "\f»Jeg vil undervise dig og lære dig den vej som du skal gå,\fjeg vil råde dig, idet mit øje er rettet mod dig.«",
-      "title": "Guds nådesord{E: Andre opfatter verset som salmistens belærende ord til menigheden}",
+      "title": "Guds nådesord",
       "version": 1457218800000
     },
     {
       "number": 9,
       "text": "\fVær ikke som hest, som muldyr, uden indsigt,\fhvis prydelse er tømme og bidsel, hvormed man kan tvinge dem\fnår de ikke vil komme nær til dig.",
-      "title": "Formaning og opmuntring til at stole på JHVH",
+      "title": "Formaning og opmuntring til at stole på HERREN",
       "footnotes": [
         {
           "text": "Verbet er plur., så verset kan ikke være umiddelbar forlængelse af det foregående vers",
@@ -105,19 +105,19 @@
     },
     {
       "number": 10,
-      "text": "\fMange smerter er der til den ugudelige,\fmen den, som stoler på JHVH,\fomgiver han med nåde.",
+      "text": "\fMange smerter er der til den ugudelige,\fmen den, som stoler på HERREN,\fomgiver han med nåde.",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 90
+          "position": 92
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 11,
-      "text": "\fGlæd jer i JHVH, og fryd jer, I retfærdige!\fog I skal juble, alle I som er oprigtige af hjertet!",
+      "text": "\fGlæd jer i HERREN, og fryd jer, I retfærdige!\fog I skal juble, alle I som er oprigtige af hjertet!",
       "title": "Afsluttende lovprisning",
       "version": 1457218800000
     }

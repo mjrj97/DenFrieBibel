@@ -20,19 +20,19 @@
   "verses": [
     {
       "number": 1,
-      "text": "Halleluja!\fJeg vil takke JHVH af hele mit hjerte\fi oprigtiges kreds og menighed.",
-      "title": "Jeg vil takke JHVH",
+      "text": "Halleluja!\fJeg vil takke HERREN af hele mit hjerte\fi oprigtiges kreds og menighed.",
+      "title": "Jeg vil takke HERREN",
       "version": 1499983200000
     },
     {
       "number": 2,
-      "text": "\fJHVHs gerninger er store,\fværd at udforske for alle som glæder sig over dem.",
+      "text": "\fHERRENS gerninger er store,\fværd at udforske for alle som glæder sig over dem.",
       "title": "Begrundelse for lovsangen",
       "footnotes": [
         {
           "text": "*dᵊrûšîm* er participium passiv der må opfattes gerundivisk (»værd at udforske/som bør udforskes«). Andre oversætter dog: »søgt/erfaret«.",
           "type": "E",
-          "position": 43
+          "position": 45
         }
       ],
       "version": 1499983200000
@@ -44,7 +44,7 @@
     },
     {
       "number": 4,
-      "text": "\fHan har frembragt et minde for sine undere,\fnådig og barmhjertig er JHVH.",
+      "text": "\fHan har frembragt et minde for sine undere,\fnådig og barmhjertig er HERREN.",
       "footnotes": [
         {
           "text": "Ordret: »gjort«.",
@@ -117,13 +117,13 @@
     },
     {
       "number": 10,
-      "text": "\fFrygt for JHVH er visdoms begyndelse,\fgod indsigt har alle som handler efter dem;\fhans pris består for altid.",
+      "text": "\fFrygt for HERREN er visdoms begyndelse,\fgod indsigt har alle som handler efter dem;\fhans pris består for altid.",
       "title": "Sand visdom",
       "footnotes": [
         {
           "text": "Det er en henvisning til »forordninger« i v.7.",
           "type": "T",
-          "position": 82
+          "position": 84
         }
       ],
       "version": 1499983200000

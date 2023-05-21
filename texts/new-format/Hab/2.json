@@ -34,7 +34,7 @@
     },
     {
       "number": 2,
-      "text": "\fJHVH svarede mig:\f»Skriv synet ned, og gør det tydeligt på tavlerne\ffor at den som læser det, hurtigt kan læse det.«",
+      "text": "\fHERREN svarede mig:\f»Skriv synet ned, og gør det tydeligt på tavlerne\ffor at den som læser det, hurtigt kan læse det.«",
       "version": 1511218800000
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "number": 8,
-      "text": "\fFor du har udplyndret mange folkefærd.\fAlle de resterende af folkene skal plyndre dig på grund af dine blodsudgydelser mod menneskeheden\fog din vold mod landet, mod byen og alle som bor i den.\f\n",
+      "text": "\fFor du har udplyndret mange folkefærd.\fAlle de resterende af folkene skal plyndre dig på grund af dine blodsudgydelser mod menneskeheden\fog din vold mod landet, mod byen og alle som bor i den.\f\u000b",
       "footnotes": [
         {
           "text": "Eller »jorden«.",
@@ -106,7 +106,7 @@
     },
     {
       "number": 11,
-      "text": "For stenen fra væggen skal råbe,\fog bjælken fra træværket skal svare den.\f\n",
+      "text": "For stenen fra væggen skal råbe,\fog bjælken fra træværket skal svare den.\f\u000b",
       "version": 1511218800000
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "number": 13,
-      "text": "\fEr dette ikke fra Hærskarers JHVHv?\fFolkene arbejder sig trætte for ting der går til i ild,\fog folkefærd udmatter sig for ingenting.",
+      "text": "\fEr dette ikke fra Hærskarers HERRE?\fFolkene arbejder sig trætte for ting der går til i ild,\fog folkefærd udmatter sig for ingenting.",
       "footnotes": [
         {
           "text": "Nogle oversættelser oversætter *hnh* med »se!«, men det kan også oversættes som her med »dette«, 3. person pluralis femininum.",
@@ -133,7 +133,7 @@
     },
     {
       "number": 14,
-      "text": "\fFor jorden skal fyldes med erkendelse af JHVHs herlighed,\fsom vandene dækker havet.",
+      "text": "\fFor jorden skal fyldes med erkendelse af HERRENS herlighed,\fsom vandene dækker havet.",
       "version": 1511218800000
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "number": 16,
-      "text": "\fDu har mættet dig med skam i stedet for herlighed.\fSå drik da også du, og vis dig uomskåret!\fBægeret i JHVHs højre hånd skal vende sig mod dig,\fog skændsel skal være over din herlighed.",
+      "text": "\fDu har mættet dig med skam i stedet for herlighed.\fSå drik da også du, og vis dig uomskåret!\fBægeret i HERRENS højre hånd skal vende sig mod dig,\fog skændsel skal være over din herlighed.",
       "version": 1511218800000
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "number": 18,
-      "text": "\fHvad gavn gør et afgudsbillede,\fnår dets håndværker har dannet det\f- en metalstøbning, og en der lærer løgn?\fFor han som former dets billede, stoler på det,\fnår han laver stumme afguder.\f\n",
+      "text": "\fHvad gavn gør et afgudsbillede,\fnår dets håndværker har dannet det\f- en metalstøbning, og en der lærer løgn?\fFor han som former dets billede, stoler på det,\fnår han laver stumme afguder.\f\u000b",
       "footnotes": [
         {
           "text": "På hebraisk »kî« der ofte oversættes med »for« (kausalt).",
@@ -206,12 +206,12 @@
     },
     {
       "number": 20,
-      "text": "\fMen JHVH er i sit hellige tempel.\fStille for ham, hele jorden!",
+      "text": "\fMen HERREN er i sit hellige tempel.\fStille for ham, hele jorden!",
       "footnotes": [
         {
           "text": "Ordret »hans ansigt«.",
           "type": "E",
-          "position": 50
+          "position": 52
         }
       ],
       "version": 1511218800000

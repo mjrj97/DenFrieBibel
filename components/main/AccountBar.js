@@ -21,7 +21,7 @@ const AccountBar = () => {
     }
 
     return (
-        <div className='account-container'>
+        <div className='account-container d-none d-md-block'>
             {user ? 
             (<>
                 <button className='account-button' onClick={logout}>Log ud</button>

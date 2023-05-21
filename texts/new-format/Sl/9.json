@@ -38,7 +38,7 @@
     },
     {
       "number": 2,
-      "text": "\fJeg vil takke JHVH af hele mit hjerte,\fjeg vil fortælle om alle dine underfulde gerninger.",
+      "text": "\fJeg vil takke HERREN af hele mit hjerte,\fjeg vil fortælle om alle dine underfulde gerninger.",
       "title": "Tak for frelse fra fjenderne",
       "version": 1486335600000
     },
@@ -69,8 +69,8 @@
     },
     {
       "number": 8,
-      "text": "\fMen JHVH skal trone for evigt,\fhan har rejst sin trone til dom.",
-      "title": "JHVH er en retfærdig og nådig dommer",
+      "text": "\fMen HERREN skal trone for evigt,\fhan har rejst sin trone til dom.",
+      "title": "HERREN er en retfærdig og nådig dommer",
       "version": 1486335600000
     },
     {
@@ -80,17 +80,17 @@
     },
     {
       "number": 10,
-      "text": "\fOg må JHVH være en borg for den undertrykte, \fen borg i trængselstider!",
+      "text": "\fOg må HERREN være en borg for den undertrykte,\fen borg i trængselstider!",
       "version": 1486335600000
     },
     {
       "number": 11,
-      "text": "\fDe skal stole på dig, de der kender dit navn,\ffor du har ikke svigtet dem der søger dig, JHVHv!",
+      "text": "\fDe skal stole på dig, de der kender dit navn,\ffor du har ikke svigtet dem der søger dig, HERRE!",
       "version": 1486335600000
     },
     {
       "number": 12,
-      "text": "\fLovsyng JHVH, der bor på Zion,\fforkynd blandt folkene om hans gerninger!",
+      "text": "\fLovsyng HERREN, der bor på Zion,\fforkynd blandt folkene om hans gerninger!",
       "title": "Lovprisning",
       "version": 1486335600000
     },
@@ -101,7 +101,7 @@
     },
     {
       "number": 14,
-      "text": "\fVær mig nådig, JHVHv, se min plage fra dem der hader mig,\fdu som løfter mig op fra dødens porte,",
+      "text": "\fVær mig nådig, HERRE, se min plage fra dem der hader mig,\fdu som løfter mig op fra dødens porte,",
       "title": "Bøn",
       "version": 1486335600000
     },
@@ -118,22 +118,22 @@
     },
     {
       "number": 17,
-      "text": "\fJHVH har givet sig til kende, han har holdt dom,\fved sine hænders gerning fanger han den ugudelige. Higgajon . Sela",
+      "text": "\fHERREN har givet sig til kende, han har holdt dom,\fved sine hænders gerning fanger han den ugudelige. Higgajon. Sela",
       "footnotes": [
         {
           "text": "Man ændrer ofte vokaliseringen af *nôqēš* (»fanger«) til *nôqaš* (»fanges«) så oversættelsen bliver: »den ugudelige fanges ved sine hænders gerning«.",
           "type": "E",
-          "position": 99
+          "position": 101
         },
         {
           "text": "Musikudtryk med ukendt betydning, måske dog strengespil, jf. Sl 92,4.",
           "type": "T",
-          "position": 110
+          "position": 111
         },
         {
           "text": "Sela",
           "type": "N",
-          "position": 116
+          "position": 117
         }
       ],
       "version": 1486335600000
@@ -158,12 +158,12 @@
     },
     {
       "number": 20,
-      "text": "Rejs dig, JHVHv, lad ikke et menneske blive mægtigt,\flad folkene dømmes for dit ansigt!",
+      "text": "Rejs dig, HERRE, lad ikke et menneske blive mægtigt,\flad folkene dømmes for dit ansigt!",
       "version": 1486335600000
     },
     {
       "number": 21,
-      "text": "\fSæt, JHVHv! skræk i dem,\flad folkene kende at de er mennesker. Sela",
+      "text": "\fSæt, HERRE! skræk i dem,\flad folkene kende at de er mennesker. Sela",
       "version": 1486335600000
     }
   ]

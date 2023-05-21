@@ -26,7 +26,7 @@
     },
     {
       "number": 2,
-      "text": "\fDet er godt at takke JHVH\fog at lovsynge dit navn, du Højeste,",
+      "text": "\fDet er godt at takke HERREN\fog at lovsynge dit navn, du Højeste,",
       "title": "Hymnisk indledning",
       "version": 1500242400000
     },
@@ -56,13 +56,13 @@
     },
     {
       "number": 5,
-      "text": "\fFor du har glædet mig, JHVHv, ved dit værk,\fjeg vil jublende prise dine hænders gerninger.",
+      "text": "\fFor du har glædet mig, HERRE, ved dit værk,\fjeg vil jublende prise dine hænders gerninger.",
       "title": "Lovprisning for frelse",
       "version": 1500242400000
     },
     {
       "number": 6,
-      "text": "\fHvor store er dine gerninger, JHVHv,\fdine tanker er meget dybe!",
+      "text": "\fHvor store er dine gerninger, HERRE,\fdine tanker er meget dybe!",
       "version": 1500242400000
     },
     {
@@ -84,12 +84,12 @@
     },
     {
       "number": 9,
-      "text": "\fMen du er i det høje for evigt, JHVHv.",
+      "text": "\fMen du er i det høje for evigt, HERRE.",
       "version": 1500242400000
     },
     {
       "number": 10,
-      "text": "\fFor se, dine fjender, JHVHv,\fja se, dine fjender skal gå til grunde,\falle som udøver synd, skal spredes.",
+      "text": "\fFor se, dine fjender, HERRE,\fja se, dine fjender skal gå til grunde,\falle som udøver synd, skal spredes.",
       "version": 1500242400000
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "number": 14,
-      "text": "\fDe som er plantet i JHVHs hus,\fskal skyde op i vor Guds forgårde.",
+      "text": "\fDe som er plantet i HERRENS hus,\fskal skyde op i vor Guds forgårde.",
       "footnotes": [
         {
           "text": "Det er en ofte brugt betegnelse i GT for templet.",
           "type": "T",
-          "position": 31
+          "position": 33
         }
       ],
       "version": 1500242400000
@@ -140,7 +140,7 @@
     },
     {
       "number": 16,
-      "text": "\fså de kan forkynde at JHVH er retskaffen,\fmin klippe, og der er ingen uret hos ham.",
+      "text": "\fså de kan forkynde at HERREN er retskaffen,\fmin klippe, og der er ingen uret hos ham.",
       "version": 1500242400000
     }
   ]

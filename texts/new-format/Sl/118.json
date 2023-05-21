@@ -20,13 +20,13 @@
   "verses": [
     {
       "number": 1,
-      "text": "Tak JHVH, for han er god,\fja, hans nåde varer til evig tid.",
-      "title": "Tak JHVH, for han er god",
+      "text": "Tak HERREN, for han er god,\fja, hans nåde varer til evig tid.",
+      "title": "Tak HERREN, for han er god",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 39
+          "position": 41
         }
       ],
       "version": 1525384800000
@@ -43,57 +43,57 @@
     },
     {
       "number": 4,
-      "text": "\fDe som frygter JHVH, skal sige: »Ja, hans nåde varer til evig tid.«",
+      "text": "\fDe som frygter HERREN, skal sige: »Ja, hans nåde varer til evig tid.«",
       "version": 1525384800000
     },
     {
       "number": 5,
-      "text": "\fFra trængslen råbte jeg til JHVH,\fJHVH svarede mig ved at føre mig ud i åbent land.",
+      "text": "\fFra trængslen råbte jeg til HERREN,\fHERREN svarede mig ved at føre mig ud i åbent land.",
       "title": "Personlig takkesalme",
       "footnotes": [
         {
           "text": "Guds navn står her og i næste linje i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
           "type": "T",
-          "position": 34
+          "position": 36
         },
         {
-          "text": "Ordret blot: »JHVH svarede mig ved åbent land«.",
+          "text": "Ordret blot: »HERREN svarede mig ved åbent land«.",
           "type": "T",
-          "position": 84
+          "position": 88
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 6,
-      "text": "\fJHVH er for mig, jeg vil ikke frygte,\fhvad kan et menneske gøre mig?",
+      "text": "\fHERREN er for mig, jeg vil ikke frygte,\fhvad kan et menneske gøre mig?",
       "version": 1525384800000
     },
     {
       "number": 7,
-      "text": "\fJHVH er for mig som min hjælper,\fog jeg skal se med fryd på dem som hader mig.",
+      "text": "\fHERREN er for mig som min hjælper,\fog jeg skal se med fryd på dem som hader mig.",
       "footnotes": [
         {
-          "text": "Grundtekstens ord er pluralis, der understreger styrken i hjælpen. En anden mulighed er dog at oversætte: »JHVH er for mig blandt mine hjælpere«.",
+          "text": "Grundtekstens ord er pluralis, der understreger styrken i hjælpen. En anden mulighed er dog at oversætte: »HERREN er for mig blandt mine hjælpere«.",
           "type": "T",
-          "position": 33
+          "position": 35
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 8,
-      "text": "\fDet er bedre at søge tilflugt hos JHVH\fend at stole på mennesket.",
+      "text": "\fDet er bedre at søge tilflugt hos HERREN\fend at stole på mennesket.",
       "version": 1525384800000
     },
     {
       "number": 9,
-      "text": "\fDet er bedre at søge tilflugt hos JHVH\fend at stole på fyrster.",
+      "text": "\fDet er bedre at søge tilflugt hos HERREN\fend at stole på fyrster.",
       "version": 1525384800000
     },
     {
       "number": 10,
-      "text": "\fAlle folk omringede mig,\fi JHVHs navn slog jeg dem ned.",
+      "text": "\fAlle folk omringede mig,\fi HERRENS navn slog jeg dem ned.",
       "footnotes": [
         {
           "text": "Kan også oversættes: »hedninger«; det kan give god mening her.",
@@ -101,21 +101,21 @@
           "position": 10
         },
         {
-          "text": "Den præcise betydning af verbet her (og i de næste to vers) er usikker. Grundbetydningen er egentlig: »jeg lod dem omskære«. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning. En anden mulig oversættelse er: »i JHVHs navn værgede jeg mig imod dem«.",
+          "text": "Den præcise betydning af verbet her (og i de næste to vers) er usikker. Grundbetydningen er egentlig: »jeg lod dem omskære«. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning. En anden mulig oversættelse er: »i HERRENS navn værgede jeg mig imod dem«.",
           "type": "E",
-          "position": 56
+          "position": 58
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 11,
-      "text": "\fDe omringede mig, ja, de omringede mig,\fi JHVHs navn værgede jeg mig imod dem.",
+      "text": "\fDe omringede mig, ja, de omringede mig,\fi HERRENS navn værgede jeg mig imod dem.",
       "version": 1525384800000
     },
     {
       "number": 12,
-      "text": "\fDe omringede mig som bier, de døde hen som ild i tjørnekrat,\fi JHVHs navn værgede jeg mig imod dem.",
+      "text": "\fDe omringede mig som bier, de døde hen som ild i tjørnekrat,\fi HERRENS navn værgede jeg mig imod dem.",
       "footnotes": [
         {
           "text": "Der er forsøgt forskellige rettelser til denne linje. Mange oversættere følger Septuaginta: »de sværmede om mig som bier om voks, de brændte som ild i tjørnekrat«. I så fald må: *dōʕᵃxû* (»de døde hen/de blev slukket«) rettes til: *dōnāg bāʕᵃrû*: »voks, de brændte«.",
@@ -127,7 +127,7 @@
     },
     {
       "number": 13,
-      "text": "\fDu stødte hårdt til mig for at jeg skulle falde,\fmen JHVH hjalp mig.",
+      "text": "\fDu stødte hårdt til mig for at jeg skulle falde,\fmen HERREN hjalp mig.",
       "footnotes": [
         {
           "text": "I stedet for qal: *dᵊḥîtanî* (»du stødte til mig«) forudsætter Septuaginta og den syriske oversættelse nif’al: *nidḥêtî*: »Jeg blev stødt«. Denne læsemåde følges af de fleste oversættere. Meningen i den masoretiske tekst må være at Gud tugtede salmisten – andre foreslår dog at salmisten taler til sin modstander.",
@@ -139,24 +139,24 @@
     },
     {
       "number": 14,
-      "text": "\fJHVH er min styrke og min lovsang,\fog han blev mig til frelse.",
+      "text": "\fHERREN er min styrke og min lovsang,\fog han blev mig til frelse.",
       "footnotes": [
         {
           "text": "Guds navn står her i kortformen: *yāh*. Jævnfør fodnote til v. 5.",
           "type": "T",
-          "position": 5
+          "position": 7
         },
         {
           "text": "Formen på ordet: *zimrāt* (»min lovsang«) er speciel idet det mangler suffixet, bogstavet »jod«: *-î* (»min«). Det er også tilfældet i 2 Mos 15,2 og Es 12,2, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: »jod«. Man har formodentlig villet undgå de to gange »jod« op ad hinanden.",
           "type": "E",
-          "position": 35
+          "position": 37
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 15,
-      "text": "\fDer er råb af jubel og frelse\fi de retfærdiges telte:\f»JHVHs højre hånd handler med kraft,",
+      "text": "\fDer er råb af jubel og frelse\fi de retfærdiges telte:\f»HERRENS højre hånd handler med kraft,",
       "footnotes": [
         {
           "text": "Der er ikke noget verbum i grundteksten i denne og næste linje. Oftest er der dermed forudsat: »er«, men andre oversættere foreslår: »lyder« eller: »hør«.",
@@ -168,47 +168,47 @@
     },
     {
       "number": 16,
-      "text": "\fJHVHs højre hånd ophøjer,\fJHVHs højre hånd handler med kraft.«",
+      "text": "\fHERRENS højre hånd ophøjer,\fHERRENS højre hånd handler med kraft.«",
       "footnotes": [
         {
           "text": "*rômēmāʰ* (»ophøjer«) opfattes normalt som participium pilel af verbet *rwm* («være høj«). Andre opfatter det dog som participium qal af et verbum: *rmm* med samme betydning, så der oversættes: »er løftet«.",
           "type": "E",
-          "position": 26
+          "position": 28
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 17,
-      "text": "\fJeg skal ikke dø, men jeg skal leve,\fog jeg skal fortælle om JHVHs gerninger.",
+      "text": "\fJeg skal ikke dø, men jeg skal leve,\fog jeg skal fortælle om HERRENS gerninger.",
       "footnotes": [
         {
           "text": "Guds navn står her og i de næste to vers i kortformen: *yāh*. Jævnfør fodnote til v.5.",
           "type": "T",
-          "position": 67
+          "position": 69
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 18,
-      "text": "\fJHVH tugtede mig hårdt,\fmen overgav mig ikke til døden.",
+      "text": "\fHERREN tugtede mig hårdt,\fmen overgav mig ikke til døden.",
       "version": 1525384800000
     },
     {
       "number": 19,
-      "text": "\fÅben retfærdigheds porte for mig,\fjeg vil gå ind ad dem, jeg vil takke JHVH!",
+      "text": "\fÅben retfærdigheds porte for mig,\fjeg vil gå ind ad dem, jeg vil takke HERREN!",
       "title": "Ved templets port",
       "version": 1525384800000
     },
     {
       "number": 20,
-      "text": "\fDenne er porten til JHVH,\fretfærdige kan gå ind ad den.",
+      "text": "\fDenne er porten til HERREN,\fretfærdige kan gå ind ad den.",
       "footnotes": [
         {
           "text": "Kan også oversættes (og er traditionelt oversat): »Dette er Herrens port«.",
           "type": "T",
-          "position": 26
+          "position": 28
         }
       ],
       "version": 1525384800000
@@ -233,17 +233,17 @@
     },
     {
       "number": 23,
-      "text": "\fFra JHVH er dette sket,\fdet er underfuldt for vore øjne.",
+      "text": "\fFra HERREN er dette sket,\fdet er underfuldt for vore øjne.",
       "version": 1525384800000
     },
     {
       "number": 24,
-      "text": "\fDenne er dagen som JHVH har skabt,\flad os juble og glæde os på den!",
+      "text": "\fDenne er dagen som HERREN har skabt,\flad os juble og glæde os på den!",
       "version": 1525384800000
     },
     {
       "number": 25,
-      "text": "\fOh, JHVHv, frels dog!\fOh, JHVHv, lad det dog lykkes!",
+      "text": "\fOh, HERRE, frels dog!\fOh, HERRE, lad det dog lykkes!",
       "footnotes": [
         {
           "text": "»Frels dog!« hedder på hebraisk: *hôšîʕāʰ nnāˀ*.",
@@ -255,34 +255,34 @@
     },
     {
       "number": 26,
-      "text": "\fVelsignet være han som kommer, i JHVHs navn!\fVi velsigner jer fra JHVHs hus.",
+      "text": "\fVelsignet være han som kommer, i HERRENS navn!\fVi velsigner jer fra HERRENS hus.",
       "footnotes": [
         {
-          "text": "Sprogligt kunne ordene: »i JHVHs navn« i stedet forbindes med verbet: »han som kommer«, så velsignelsen tilsiges den der kommer i tillid til »JHVHs navn« eller i JHVHs ærinde. I så fald må man dog ændre accenterne i den masoretiske tekst, der på linje med 5 Mos 21,5; 2 Sam 6,18 knytter »JHVHs navn« til velsignelsen.",
+          "text": "Sprogligt kunne ordene: »i HERRENS navn« i stedet forbindes med verbet: »han som kommer«, så velsignelsen tilsiges den der kommer i tillid til »HERRENS navn« eller i HERRENS ærinde. I så fald må man dog ændre accenterne i den masoretiske tekst, der på linje med 5 Mos 21,5; 2 Sam 6,18 knytter »HERRENS navn« til velsignelsen.",
           "type": "E",
-          "position": 45
+          "position": 47
         },
         {
           "text": "Qatal, der oftest skal oversættes ved fortid, er her brugt deklarativt.",
           "type": "E",
-          "position": 58
+          "position": 60
         }
       ],
       "version": 1525384800000
     },
     {
       "number": 27,
-      "text": "\fJHVH er Gud, og han lod det lysne for os.\fBind festofferet med reb\fop til alterets horn.",
+      "text": "\fHERREN er Gud, og han lod det lysne for os.\fBind festofferet med reb\fop til alterets horn.",
       "footnotes": [
         {
           "text": "Nogle oversættere retter – med et enkelt håndskrift - *wayyāʔer* (»og han lod det lysne«) til: *yāʔēr*: »Lad det lysne!«",
           "type": "E",
-          "position": 42
+          "position": 44
         },
         {
           "text": "Oversættelsen er meget usikker. På hebraisk består linjen af tre ord der alle forekommer en del andre steder i GT, hvor der ikke er tvivl om hvad de betyder. Men sammenstillingen her er ualmindelig. Ordret umiddelbart blot: »Bind fest med reb«. *ḥag* betyder egentlig blot: »fest«. Det må formodentlig forstås som enten »festoffer« eller: »festprocession«. Den sidste betydning er dog ikke påvist andre steder i GT. Verbet: *ʔsr* betyder normalt: »at binde«. Undertiden foreslås: »danne kæde«. Denne betydning er dog ikke påvist andre steder i GT. Hvis der er tale om »festprocession«, kan man måske tillægge verbet en klang af forpligtelse, idet processionen binder sig til alterets horn. *ʕᵃvôt* oversættes oftest: »reb/tov«, men kan også betegne en »løvrig gren«.",
           "type": "E",
-          "position": 67
+          "position": 69
         }
       ],
       "version": 1525384800000
@@ -294,12 +294,12 @@
     },
     {
       "number": 29,
-      "text": "\fTak JHVH, for han er god,\fja, hans nåde varer til evig tid.",
+      "text": "\fTak HERREN, for han er god,\fja, hans nåde varer til evig tid.",
       "footnotes": [
         {
           "text": "nåde",
           "type": "N",
-          "position": 40
+          "position": 42
         }
       ],
       "version": 1525384800000

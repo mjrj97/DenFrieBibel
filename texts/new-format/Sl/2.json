@@ -24,8 +24,8 @@
   "verses": [
     {
       "number": 1,
-      "text": "\fHvorfor er folkeslagene i oprør,\f\t\t\t\t\t\tog hvorfor udtænker folkene tomhed?",
-      "title": "David profeterer om Messias' rige. Mennesker gør oprør imod JHVH og hans salvede, men det er forgæves og til deres egen ulykke",
+      "text": "\fHvorfor er folkeslagene i oprør,\f\n\t\t\t\t\t\tog hvorfor udtænker folkene tomhed?",
+      "title": "David profeterer om Messias' rige. Mennesker gør oprør imod HERREN og hans salvede, men det er forgæves og til deres egen ulykke",
       "footnotes": [
         {
           "text": "*gôyim* oversættes ofte »hedninger« (også 1871), men parallellen viser at det her må opfattes bredere.",
@@ -35,71 +35,71 @@
         {
           "text": "*lāmmāʰ* (»hvorfor«) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.",
           "type": "T",
-          "position": 50
+          "position": 51
         }
       ],
       "version": 1666562400000
     },
     {
       "number": 2,
-      "text": "\f\t\t\t\t\tJordens konger rejser sig;\f\t\t\t\t\t\tfyrsterne rådslår sammen\fimod JHVH og imod hans salvede:",
+      "text": "\f\n\t\t\t\t\tJordens konger rejser sig;\f\n\t\t\t\t\t\tfyrsterne rådslår sammen\fimod HERREN og imod hans salvede:",
       "version": 1666562400000
     },
     {
       "number": 3,
-      "text": "\f\t\t\t\t\t\t\t»Lad os sønderrive deres lænker\f\t\t\t\t\t\t\t\tog kaste deres reb af os!«",
+      "text": "\f\n\t\t\t\t\t\t\t»Lad os sønderrive deres lænker\f\n\t\t\t\t\t\t\t\tog kaste deres reb af os!«",
       "version": 1666562400000
     },
     {
       "number": 4,
-      "text": "\f\t\t\t\t\tHan som troner i Himlen,\t\t\t\tler;\f\t\t\t\t\t\tJHVH spotter dem.",
+      "text": "\f\n\t\t\t\t\tHan som troner i Himlen,\n\t\t\t\tler;\f\n\t\t\t\t\t\tHERREN spotter dem.",
       "version": 1666562400000
     },
     {
       "number": 5,
-      "text": "\f\t\t\t\t\tSå vil han tale til dem i sin vrede;\f\t\t\t\t\t\t\tforfærde dem ved sin harme:",
+      "text": "\f\n\t\t\t\t\tSå vil han tale til dem i sin vrede;\f\n\t\t\t\t\t\t\tforfærde dem ved sin harme:",
       "version": 1666562400000
     },
     {
       "number": 6,
-      "text": "\f\t\t\t\t\t\t»Jeg har dog indsat min konge\fover Zion, mit hellige bjerg.«",
+      "text": "\f\n\t\t\t\t\t\t»Jeg har dog indsat min konge\fover Zion, mit hellige bjerg.«",
       "version": 1666562400000
     },
     {
       "number": 7,
-      "text": "\f\t\t\tJeg vil forkynde JHVHs dekret.\f\t\t\t\tHan sagde til mig:\f\t\t\t\t\t»Du er min søn;\f\t\t\t\t\t\t\tjeg har født dig i dag.",
+      "text": "\f\n\t\t\tJeg vil forkynde HERRENS dekret.\f\n\t\t\t\tHan sagde til mig:\f\n\t\t\t\t\t»Du er min søn;\f\n\t\t\t\t\t\t\tjeg har født dig i dag.",
       "title": "Guds salvede konge skal regere",
       "version": 1666562400000
     },
     {
       "number": 8,
-      "text": "\f\t\t\t\t\t\tBed mig om det,\f\t\t\t\t\t\t\tså vil jeg give dig folkene som din arv;\f\t\t\t\t\t\t\t\t\tjordens yderste ender som din ejendom.",
+      "text": "\f\n\t\t\t\t\t\tBed mig om det,\f\n\t\t\t\t\t\t\tså vil jeg give dig folkene som din arv;\f\n\t\t\t\t\t\t\t\t\tjordens yderste ender som din ejendom.",
       "version": 1666562400000
     },
     {
       "number": 9,
-      "text": "\f\t\t\t\t\t\t\t\tDu skal knuse dem med et jernscepter;\f\t\t\t\t\t\t\t\t\tsom en pottemagers lertøj skal du smadre dem.«",
+      "text": "\f\n\t\t\t\t\t\t\t\tDu skal knuse dem med et jernscepter;\f\n\t\t\t\t\t\t\t\t\tsom en pottemagers lertøj skal du smadre dem.«",
       "version": 1666562400000
     },
     {
       "number": 10,
-      "text": "\f\t\tOg nu,\t\t\t\tI konger,\t\t\tvær kloge!\f\t\t\tLad jer belære,\t\t\t\tI jordens dommere!",
+      "text": "\f\n\t\tOg nu,\n\t\t\t\tI konger,\n\t\t\tvær kloge!\f\n\t\t\tLad jer belære,\n\t\t\t\tI jordens dommere!",
       "title": "Derfor formaner David til omvendelse og lydighed",
       "version": 1666562400000
     },
     {
       "number": 11,
-      "text": "\f\t\t\tTjen JHVH med frygt;\f\t\t\t\tfryd jer med bæven!",
+      "text": "\f\n\t\t\tTjen HERREN med frygt;\f\n\t\t\t\tfryd jer med bæven!",
       "version": 1666562400000
     },
     {
       "number": 12,
-      "text": "\f\t\t\tKys sønnen\t\t\t\tså han ikke bliver vred\f\t\t\t\t\t\tog I omkommer på vejen;\f\t\t\t\t\tfor hans vrede optændes hastigt.\f\tSalig enhver\t\tsom søger tilflugt hos ham!",
+      "text": "\f\n\t\t\tKys sønnen\n\t\t\t\tså han ikke bliver vred\f\n\t\t\t\t\t\tog I omkommer på vejen;\f\n\t\t\t\t\tfor hans vrede optændes hastigt.\f\n\tSalig enhver\n\t\tsom søger tilflugt hos ham!",
       "footnotes": [
         {
           "text": "Oftest flyttes nu ordene *naššᵊqû-var* (»kys sønnen«) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.",
           "type": "E",
-          "position": 14
+          "position": 15
         }
       ],
       "version": 1666562400000

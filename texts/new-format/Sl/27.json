@@ -20,14 +20,14 @@
   "verses": [
     {
       "number": 1,
-      "text": "Af David.\fJHVH er mit lys og min frelse,\fhvem skal jeg frygte?\fJHVH er mit livs værn,\fhvem skal jeg frygte for?",
+      "text": "Af David.\fHERREN er mit lys og min frelse,\fhvem skal jeg frygte?\fHERREN er mit livs værn,\fhvem skal jeg frygte for?",
       "title": "Overskrift",
       "version": 1457218800000
     },
     {
       "number": 2,
       "text": "\fDa de onde nærmede sig mig\ffor at fortære mit kød,\fmine modstandere og mine fjender,\fda snublede de og faldt.",
-      "title": "Tillid til JHVH",
+      "title": "Tillid til HERREN",
       "version": 1457218800000
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "number": 4,
-      "text": "\fKun ét har jeg bedt om af JHVH,\fdet vil jeg tragte efter:\fnemlig at jeg må bo i JHVHs hus\falle mit livs dage,\ffor at skue med fryd JHVHs herlighed\fog for at grunde i hans tempel.",
+      "text": "\fKun ét har jeg bedt om af HERREN,\fdet vil jeg tragte efter:\fnemlig at jeg må bo i HERRENS hus\falle mit livs dage,\ffor at skue med fryd HERRENS herlighed\fog for at grunde i hans tempel.",
       "footnotes": [
         {
           "text": "Betydningen af verbet er omdiskuteret. Grundbetydningen er »undersøge nøje«. Meningen er muligvis at søge guddommeligt svar.",
           "type": "E",
-          "position": 164
+          "position": 170
         }
       ],
       "version": 1457218800000
@@ -54,18 +54,18 @@
     },
     {
       "number": 6,
-      "text": "\fOg nu skal mit hoved knejse\fover mine fjender som omringer mig,\fog i hans telt jeg vil bringe ofre med jubel,\fjeg vil synge og spille for JHVH.",
+      "text": "\fOg nu skal mit hoved knejse\fover mine fjender som omringer mig,\fog i hans telt jeg vil bringe ofre med jubel,\fjeg vil synge og spille for HERREN.",
       "version": 1457218800000
     },
     {
       "number": 7,
-      "text": "\fHør, JHVHv, min røst, når jeg råber,\fog vær mig nådig og svar mig!",
+      "text": "\fHør, HERRE, min røst, når jeg råber,\fog vær mig nådig og svar mig!",
       "title": "Klage og bøn i helligdommen",
       "version": 1457218800000
     },
     {
       "number": 8,
-      "text": "\fTil dig sagde mit hjerte: »I skal søge mit ansigt«,\fjeg søger, JHVHv, dit ansigt!",
+      "text": "\fTil dig sagde mit hjerte: »I skal søge mit ansigt«,\fjeg søger, HERRE, dit ansigt!",
       "footnotes": [
         {
           "text": "Teksten er vanskelig, men meningen er formodentlig at salmisten i sit hjerte husker det citerede ord fra Gud (2 Mos 23,17; 34,23; 5 Mos 4,29).",
@@ -82,10 +82,10 @@
     },
     {
       "number": 10,
-      "text": "\fFor min far og min mor har forladt mig,\fmen JHVH tager mig op til sig.",
+      "text": "\fFor min far og min mor har forladt mig,\fmen HERREN tager mig op til sig.",
       "footnotes": [
         {
-          "text": "Ordet *kî-* (»for«) har flere betydninger. Det kan betyde »selv om« der kan give god mening her: »Selv om min far og min mor har forladt mig, vil JHVH tage mig op til sig«.",
+          "text": "Ordet *kî-* (»for«) har flere betydninger. Det kan betyde »selv om« der kan give god mening her: »Selv om min far og min mor har forladt mig, vil HERREN tage mig op til sig«.",
           "type": "E",
           "position": 4
         }
@@ -94,7 +94,7 @@
     },
     {
       "number": 11,
-      "text": "\fLær mig, JHVHv, din vej\fog led mig ad den jævne sti,\ffor mine fjenders skyld.",
+      "text": "\fLær mig, HERRE, din vej\fog led mig ad den jævne sti,\ffor mine fjenders skyld.",
       "version": 1457218800000
     },
     {
@@ -111,19 +111,19 @@
     },
     {
       "number": 13,
-      "text": "\fHvis jeg ikke havde stolet på at jeg skulle se JHVHs godhed i de levendes land – !",
+      "text": "\fHvis jeg ikke havde stolet på at jeg skulle se HERRENS godhed i de levendes land – !",
       "footnotes": [
         {
-          "text": "Enten er der underforstået en eftersætning: »så havde det været ude med mig«, eller også skal vers 12b-c være den logiske eftersætning: »for falske vidner havde rejst sig … hvis jeg ikke havde stolet på JHVH«.",
+          "text": "Enten er der underforstået en eftersætning: »så havde det været ude med mig«, eller også skal vers 12b-c være den logiske eftersætning: »for falske vidner havde rejst sig … hvis jeg ikke havde stolet på HERREN«.",
           "type": "E",
-          "position": 83
+          "position": 85
         }
       ],
       "version": 1457218800000
     },
     {
       "number": 14,
-      "text": "\fVent på JHVH, vær stærk,\fog gør dit hjerte stærkt,\fja, vent på JHVH!",
+      "text": "\fVent på HERREN, vær stærk,\fog gør dit hjerte stærkt,\fja, vent på HERREN!",
       "title": "Nådes- eller opmuntringsord",
       "version": 1457218800000
     }
