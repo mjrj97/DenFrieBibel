@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { useEffect, useState } from 'react';
+import styles from './AccountBar.module.css';
 
 const AccountBar = () => {
     const [user, setUser] = useState();
@@ -21,17 +22,19 @@ const AccountBar = () => {
     }
 
     return (
-        <div className='account-container d-none d-md-block'>
-            {user ? 
-            (<>
-                <button className='account-button' onClick={logout}>Log ud</button>
-                <Link className='account-button' href="/account">{user.name}</Link>
-                <img src='/user.png' className='account-image'/>
-            </>) : 
-            (<>
-                <Link className='account-button' href="/login">Log ind</Link>
-                <Link className='account-button' href="/register">Opret bruger</Link>
-            </>)}
+        <div className='d-none d-md-block'>
+            <div className={`${styles.accountContainer}`}>
+                {user ? 
+                (<>
+                    <button type="button" className={styles.accountButton} onClick={logout}>Log ud</button>
+                    <Link className={styles.accountButton} href="/account">{user.name}</Link>
+                    <img src='/user.png' className={styles.accountImage} alt='profile picture'/>
+                </>) : 
+                (<>
+                    <Link className={styles.accountButton} href="/login">Log ind</Link>
+                    <Link className={styles.accountButton} href="/register">Opret bruger</Link>
+                </>)}
+            </div>
         </div>
     )
 }

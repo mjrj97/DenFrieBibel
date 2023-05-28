@@ -1,30 +1,33 @@
 import { useState, useEffect } from 'react'
-
+import styles from './CommentContainer.module.css';
 import Comment from "./Comment"
+import Loading from "../main/Loading"
 
 const CommentContainer = ({ selected }) => {  
     const [comments, setComments] = useState([]);
-    
-    // MISSING
-    // - X button to close the window
 
     useEffect(() => {
-        fetch("/api/comments").then(
+        let query = "[" + selected[0];
+        for (let i = 1; i < selected.length; i++) {
+            query += "," + selected[i];
+        }
+        query += "]";
+
+        fetch("/api/comments?verses=" + query).then(
           response => response.json()
         ).then(
           data => {
             setComments(data.content.comments);
           }
         );
-      }, []);
+    }, [selected]);
 
     return (
-        selected.length > 0 ? 
-        <div className='sticky-top sticky-comment'>
-            <div className="comment-container thirty p-4">
+        <div className={`sticky-top ${styles.stickyComment}`}>
+            <div className={`thirty p-4 ${styles.commentContainer}`}>
                 {
-                    (Array.isArray(comments)) ? (comments.map((comment, i) => 
-                        <div  key={"comment" + i}>
+                    comments.length > 0 ? (comments.map((comment, i) => 
+                        <div key={"comment" + i}>
                             <Comment id={comment.uuid} author={comment.user.name} 
                                 date={comment.date}
                                 favorites={comment.favorites}
@@ -33,7 +36,7 @@ const CommentContainer = ({ selected }) => {
                             </Comment>
                             <hr className="solid"></hr>
                         </div>
-                    )) : ""
+                    )) : <Loading/>
                 }
                 <form className="form-group row mt-1">
                     <div className="col-9">
@@ -43,8 +46,6 @@ const CommentContainer = ({ selected }) => {
                 </form>
             </div>
         </div>
-        :
-        <></>
     )
 }
 

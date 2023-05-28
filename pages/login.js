@@ -29,7 +29,7 @@ const Login = () => {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ email, password })
             };
-            fetch('http://localhost:3000/api/auth/login', requestOptions)
+            fetch('http://127.0.0.1:' + (process.env.PORT ? process.env.PORT : 30000) + '/api/auth/login', requestOptions)
             .then(response => { 
                 if (response.status === 200) {
                     router.push('/');

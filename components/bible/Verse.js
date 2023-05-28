@@ -1,15 +1,14 @@
-import 'react-tooltip/dist/react-tooltip.css'
-import { Tooltip } from 'react-tooltip'
 import VerseNumber from './VerseNumber';
 import SectionTitle from './SectionTitle';
+import styles from './Verse.module.css';
 
 function Verse({ verse, index, chapterUID, onSelected, settings}) {
     const parts = [];
     
-    const addVerseNumber = (verseNumber) => {
-        parts.push(settings.showVerseNumber ? <VerseNumber key={"vn" + verseNumber} onClick={(e) => onSelected(verseNumber, e)} number={verseNumber}/> : <></>);
+    const addVerseNumber = () => {
+        parts.push(settings.showVerseNumber ? <VerseNumber key={"vn" + verse.number} onClick={(e) => onSelected(verse.verseID, e)} number={verse.number}/> : <></>);
     }
-
+    
     if (verse.footnotes && verse.footnotes.length > 0) {
         for (let i = 0; i < verse.footnotes.length; i++) {
             let start = i == 0 ? 0 : verse.footnotes[i-1].position;
@@ -29,14 +28,13 @@ function Verse({ verse, index, chapterUID, onSelected, settings}) {
             }
 
             if (i == 0)
-                addVerseNumber(verse.number);
+                addVerseNumber();
             parts.push(<span key={chapterUID + i + "p" + verse.number}>{trimmed}</span>);
 
             const tooltipID = verse.number + verse.footnotes[i].type + verse.footnotes[i].designation;
             const tooltipText = FormatText(verse.footnotes[i].text);
             const footnote = (
-                <span id={tooltipID} key={tooltipID} className='fakeOffset'>
-                    <Tooltip id={tooltipID} className='footnote'/>
+                <span id={tooltipID} key={tooltipID} className={styles.fakeOffset}>
                     <sup className='ignore'>
                         [<a href={"#b" + tooltipID} data-tooltip-id={tooltipID} data-tooltip-content={tooltipText}>{verse.footnotes[i].designation}</a>]
                     </sup>
@@ -60,14 +58,15 @@ function Verse({ verse, index, chapterUID, onSelected, settings}) {
                 beginning = beginning.replace(/\n/g, "");
             parts.push(<span key={chapterUID + 0 + "pA" + verse.number}>{beginning}</span>);
         }
-        addVerseNumber(verse.number);
+        addVerseNumber();
         parts.push(<span key={chapterUID + 0 + "pB" + verse.number}>{trimmed}</span>);
     }
+    
 
     return (
         <>
             {verse.title && settings.showTitles ? <SectionTitle>{FormatText(verse.title, settings)}</SectionTitle> : <></>}
-            <span className='verseLine'>
+            <span className={styles.verseLine}>
                 {parts}&nbsp;{settings.oneVersePerLine ? <br/> : <></>}
             </span>
         </>
@@ -75,7 +74,6 @@ function Verse({ verse, index, chapterUID, onSelected, settings}) {
 }
 
 // DOESN'T HADNLE CURSIVE/ITALIC (*this is in italics*) - ONLY APPLICABLE IN FOOTNOTES
-// IS MISSING \n from EXEGETICAL LAYOUT
 function FormatText(text, settings) {
     let result = text;
 

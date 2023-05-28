@@ -1,0 +1,15 @@
+.verseLine {
+    line-height: 2rem;
+    font-size: 1rem;
+    white-space: pre-wrap;
+}
+
+.footnote {
+    background-color: black !important;
+    opacity: 100% !important;
+}
+
+.fakeOffset {
+    padding-top: 8em;
+    margin-top: -8em;
+}

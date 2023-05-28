@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import styles from './VerseNumber.module.css';
 
 function VerseNumber({ number, onClick }) {
     const [active, setActive] = useState(false);
@@ -12,7 +13,7 @@ function VerseNumber({ number, onClick }) {
         <button 
             id={number}
             onClick={handleClick}
-            className={ active ? "verseNumber verseNumber-dark" : "verseNumber verseNumber-light" }>v{number}
+            className={`${styles.verseNumber} ${active ? styles.verseNumberDark : styles.verseNumberLight}`}>v{number}
         </button>
     </span>
 }

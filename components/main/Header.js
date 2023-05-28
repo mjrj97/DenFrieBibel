@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header(props) {
     return (
-        <div className='header p-4'>
+        <div className='text-center p-4 d-print-none'>
             {props.children}
         </div>
     )

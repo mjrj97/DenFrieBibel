@@ -1,10 +1,11 @@
 import React from 'react'
+import styles from './Error.module.css';
 
 function Error(props) {
     return (
-        <div className='error my-4'>
+        <p className={`${styles.error}`}>
             {props.children}
-        </div>
+        </p>
     )
 }
 

@@ -1,0 +1,40 @@
+.accountContainer {
+    display: table !important;
+    position: absolute;
+    padding-top: auto;
+    padding-bottom: auto;
+    right: 2rem;
+    top: 2rem;
+    height: 3rem;
+}
+  
+.accountButton {
+    height: 100%;
+    padding-right: 1.5rem;
+  
+    display: table-cell !important;
+    vertical-align: middle;
+    border-width: 0;
+  
+    background-color: inherit;
+    color: var(--ten);
+  
+    text-decoration: none;
+    font-weight: bold;
+}
+  
+.accountButton:hover {
+    color: var(--link);
+}
+
+.accountImage {
+    display: inline-block;
+    border-radius: 100%;
+    width: 3rem;
+    height: 3rem;
+    background-color: #aaaaaa;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    object-fit: cover;
+}

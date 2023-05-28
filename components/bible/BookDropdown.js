@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useId } from 'react';
 import Select from 'react-select';
+import styles from './BookDropdown.module.css';
 
 function BookDropdown({book, chapter, books, changed}) {
     const [currentBooks, setBooks] = useState([]);
@@ -155,27 +156,30 @@ function BookDropdown({book, chapter, books, changed}) {
     };
 
     return (
-        <div className="sticky-top sticky-dropdown">
-            <div className="px-0 mx-0 mb-2">
-                <div className='arrow-container'>
-                    <div className='d-flex justify-content-between'>
-                        <button className={'btn btn-light arrow arrow-left ignore d-none d-md-block' + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
-                        <button className={'btn btn-light arrow arrow-right ignore d-none d-md-block' + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
+        <>
+            <div className={`sticky-top ${styles.stickyDropdown} d-print-none`}>
+                <div className="px-0 mx-0">
+                    <div className={styles.arrowContainer}>
+                        <div className='d-flex justify-content-between'>
+                            <button className={`btn btn-light ${styles.arrow} ${styles.arrowLeft} ignore d-none d-md-block` + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
+                            <button className={`btn btn-light ${styles.arrow} ${styles.arrowRight} ignore d-none d-md-block` + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
+                        </div>
+                        <button className={`btn btn-light ${styles.arrow} ${styles.arrowLowerLeft} ignore d-block d-md-none` + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
+                        <button className={`btn btn-light ${styles.arrow} ${styles.arrowLowerRight} ignore d-block d-md-none` + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
                     </div>
-                    <button className={'btn btn-light arrow arrow-lowerLeft ignore d-block d-md-none' + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
-                    <button className={'btn btn-light arrow arrow-lowerRight ignore d-block d-md-none' + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
+                    <div className={`row ${styles.selectContainer}`}>
+                        <div className='col-8'>
+                            <Select instanceId={useId()} className='soft-shadow' value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={colourStyles}/>
+                        </div>
+                        <div className='col-4'>
+                            <Select instanceId={useId()} className='soft-shadow' value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={colourStyles}/>
+                        </div>
+                    </div>
+                    <div className={styles.transparentTransition}/>
                 </div>
-                <div className="row select-container">
-                    <div className='col-8'>
-                        <Select instanceId={useId()} className='test' value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={colourStyles}/>
-                    </div>
-                    <div className='col-4'>
-                        <Select instanceId={useId()} className='test' value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={colourStyles}/>
-                    </div>
-                </div>
-                <div className='transparent-transition'/>
             </div>
-        </div>
+            {currentBook ? <h1 className='d-none d-print-block'>{currentBook.label}, {currentChapter.label.toLowerCase()}</h1> : <></>}
+        </>
     )
 }
 

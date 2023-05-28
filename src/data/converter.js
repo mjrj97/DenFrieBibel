@@ -519,7 +519,7 @@ function convertFile(file) {
   }
 }
 
-// I Job bliver "HERREN" fremfor "JHVH" brugt...
+// Doesn't handle //0 properly. Should still be a newline (or a space atleast).
 function retrieveVerses(data) {
   let text = data.trim();
   let raw = text.split(/(?=v[0-9]|V[0-9])/g);

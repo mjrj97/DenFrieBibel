@@ -1,0 +1,20 @@
+.navigtaionTitle {
+    font-family: "Carter One";
+    font-size: 4rem;
+    text-decoration: none;
+    color: var(--ten);
+  }
+  
+  .navigtaionTitle:hover {
+    color: var(--ten);
+  }
+  
+  .navigationButton {
+    font-family: "Carter One";
+    color: var(--ten);
+    text-decoration: none;
+  }
+  
+  .navigationButton:hover {
+    color: var(--ten);
+  }

@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react';
 
 import Loading from '../main/Loading';
+import Error from '../main/Error';
 import Verse from './Verse';
+import ErrorBoundary from '@/components/ErrorBoundary';
 
 function BibleText ({ text, onSelectionChange }) {
     const [settings, setSettings] = useState({
@@ -110,20 +112,22 @@ function BibleText ({ text, onSelectionChange }) {
         
         if (text.errors) {
             for (let i = 0; i < text.errors.length; i++) {
-                bibleText.push(<p key={"error" + i} className='error'>{text.errors[i]}</p>);
+                bibleText.push(<Error key={"error" + i}>{text.errors[i]}</Error>);
             }
         }
     }
 
     return (
-        <div className='py-0'>
+        <div className='py-1'>
             {bibleText.length == 0 ? (
-                <div className='d-flex justify-content-center'>
-                    <Loading/>
-                </div>
+                <Loading/>
             ) : (
                 <div>
-                    {bibleText}
+                    <div className='mt-4'>
+                        <ErrorBoundary>
+                            {bibleText}
+                        </ErrorBoundary>
+                    </div>
                     {((settings.showFootnotesAtBottom && (generalFootnoteElements.length > 0 || academicFootnoteElements.length > 0)) || settings.showContributors) && verses.length > 0 ? <>
                         <hr className='mt-5'/>
                     </> : <></>}

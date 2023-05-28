@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import styles from './Comment.module.css';
 
 function Comment({ author, children, favorites, date, replies, uuid }) {
     const [showComments, setShowComments] = useState(false);
@@ -9,11 +10,11 @@ function Comment({ author, children, favorites, date, replies, uuid }) {
     // - Edit button
 
     return (
-        <div id={uuid} className="comment">
+        <div id={uuid} className={styles.comment}>
             <div className="container">
                 <div className="row">
                     <div className="col-2 p-2">
-                        <img src='/user.png' className='account-image'/>
+                        <img src='/user.png' className={styles.commentProfileImage}/>
                     </div>
                     <div className="col-10">
                         <div className='pb-1'>

@@ -1,11 +1,11 @@
 // Libraries
-import React, { useEffect, useState } from 'react'
-import Head from 'next/head'
+import React, { useEffect, useState } from 'react';
+import Head from 'next/head';
 
 // Internal components
-import BibleText from '@/components/bible/BibleText'
-import BookDropdown from '@/components/bible/BookDropdown'
-import CommentContainer from '@/components/bible/CommentContainer'
+import BibleText from '@/components/bible/BibleText';
+import BookDropdown from '@/components/bible/BookDropdown';
+import CommentContainer from '@/components/bible/CommentContainer';
 
 const Index = () => {
   const [currentBook, setCurrentBook] = useState({ 
@@ -33,6 +33,7 @@ const Index = () => {
 
   useEffect(() => {
     setSelected([]);
+    setText("");
     fetch("/api/bible?book=" + currentBook.value + "&chapter=" + currentChapter.value).then(
       response => response.json()
     ).then(
@@ -50,6 +51,7 @@ const Index = () => {
         let array = [...selected];
         array.push(number);
         setSelected(array);
+        console.log(array);
     }
     else 
     {
@@ -64,9 +66,8 @@ const Index = () => {
       <Head>
         <title>Den Frie Bibel</title>
       </Head>
-      <CommentContainer selected={selected} chapter={currentChapter.value}/>
+      {selected && selected.length > 0 ? <CommentContainer selected={selected} chapter={currentChapter.value}/> : <></>}
       <BookDropdown book={currentBook} chapter={currentChapter} books={books} changed={setBookAndChapter}/>
-      <div className='my-4'/>
       <BibleText text={text} onSelectionChange={onSelectedVerse}/>
     </>
   )

@@ -1,26 +1,85 @@
 // Libraries
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Head from 'next/head'
 
 const About = () => {
-    const [status, setStatus] = useState([
-        {
-            Name: "GT",
-            Incomplete: 29,
-            Raw: 56,
-            Partial: 108,
-            Complete: 192,
-            Total: 929
-        },
-        {
-            Name: "NT",
-            Incomplete: 56,
-            Raw: 29,
-            Partial: 82,
-            Complete: 0,
-            Total: 260
-        }
-    ]);
+    const [status, setStatus] = useState([]);
+
+    useEffect(() => {
+        fetch("/api/bible?book=all").then(
+          response => response.json()
+        ).then(
+          data => {
+            let books = data.content;
+
+            if (books) {
+                let GT = {
+                    Name: "GT",
+                    Incomplete: 0,
+                    Raw: 0,
+                    Partial: 0,
+                    Complete: 0,
+                    Total: 0
+                }
+                let NT = {
+                    Name: "GT",
+                    Incomplete: 0,
+                    Raw: 0,
+                    Partial: 0,
+                    Complete: 0,
+                    Total: 0
+                }
+    
+                for (let i = 0; i < books.length; i++) {
+                    let book = books[i];
+
+                    for (let j = 0; j < book.chapters.length; j++) {
+                        if (book.bookID < 40) { // GT
+                            GT.Total++;
+
+                            if (book.chapters[j] < 25) {
+
+                            }
+                            else if (book.chapters[j] < 50) {
+                                GT.Incomplete++;
+                            }
+                            else if (book.chapters[j] < 75) {
+                                GT.Raw++;
+                            }
+                            else if (book.chapters[j] < 100) {
+                                GT.Partial++;
+                            }
+                            else if (book.chapters[j] == 100) {
+                                GT.Complete++;
+                            }
+                        }
+                        else { // NT
+                            NT.Total++;
+
+                            if (book.chapters[j] < 25) {
+                                
+                            }
+                            else if (book.chapters[j] < 50) {
+                                NT.Incomplete++;
+                            }
+                            else if (book.chapters[j] < 75) {
+                                NT.Raw++;
+                            }
+                            else if (book.chapters[j] < 100) {
+                                NT.Partial++;
+                            }
+                            else if (book.chapters[j] == 100) {
+                                NT.Complete++;
+                            }
+                        }
+                    }
+                }
+    
+                setStatus([GT, NT]);
+            }
+          }
+        );
+      }, []);
 
     return (
         <>

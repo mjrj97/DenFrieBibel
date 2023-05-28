@@ -20,17 +20,17 @@ const App = ({ Component, pageProps: { session, ...pageProps } }) => {
       <Head>
           <link rel="icon" href="/icon.png" />
       </Head>
-      <div className='primary p-md-4'>
-        <AccountBar/>
-        <div className='col-xl-5 col-lg-8 col-md-8 col-xs-10 mx-auto'>
-          <Header>
-            <Navbar/>
-          </Header>
-          <Body>
-            <Component {...pageProps} />
-          </Body>
+        <div className='p-md-4'>
+          <AccountBar/>
+          <div className='col-xl-5 col-lg-8 col-md-8 col-xs-10 mx-auto'>
+            <Header>
+              <Navbar/>
+            </Header>
+            <Body>
+              <Component {...pageProps} />
+            </Body>
+          </div>
         </div>
-      </div>
     </>
   );
 }

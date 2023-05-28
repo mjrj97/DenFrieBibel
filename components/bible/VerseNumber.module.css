@@ -1,0 +1,33 @@
+.verseNumber {
+    font-weight: bold;
+    color: var(--ten);
+  
+    line-height: 1rem;
+    border-width: 0px;
+    border-radius: 5px;
+  
+    padding: 5px 7px;
+    margin: 0rem 0.33rem 0rem 0rem;
+  }
+  
+  .verseNumber:active{
+    background-color: var(--link);
+  }
+  
+  .verseNumberDark {
+    background-color: var(--hard-accent);
+  }
+
+  .verseNumberDark:active{
+    background-color: var(--link);
+  }
+  
+  .verseNumberLight {
+    transition: 0.3s;
+    background-color: var(--accent);
+  }
+  
+  .verseNumberLight:hover {
+    background-color: var(--hard-accent);
+  }
+  

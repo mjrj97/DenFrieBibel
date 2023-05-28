@@ -27,6 +27,13 @@ async function setup() {
             if (fs.existsSync(path))
                 chapter = JSON.parse(fs.readFileSync(path));
 
+            if (chapter) {
+                let contributors = chapter.contributors;
+                for (let k = 0; k < contributors.length; k++) {
+                    await connection.query('INSERT INTO Contributor (ChapterID, Type, Name) VALUES (?, ?, ?);', [chapterIndex + j, contributors[k].type, contributors[k].name]);
+                }
+            }
+
             for (let k = 1; k <= verseCount; k++) {
                 await connection.query('INSERT INTO Verse (VerseID, ChapterID, Number) VALUES (?, ?, ?);', [verseIndex + k, chapterIndex + j, k]);
 
@@ -88,6 +95,10 @@ async function setupTables() {
                             Text VARCHAR(2048) NOT NULL,
                             Type CHAR(1) NOT NULL,  
                             Position SMALLINT(6) NOT NULL`);
+
+    await setupTable('Contributor', `ChapterID SMALLINT(6) NOT NULL, 
+                            Type VARCHAR(2048) NOT NULL,
+                            Name VARCHAR(2048) NOT NULL`);
 }
 
 async function setupTable(name, values) {
