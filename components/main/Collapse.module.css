@@ -1,0 +1,8 @@
+.collapsible {
+    overflow: hidden;
+    transition: 0.4s max-height;
+}
+  
+.collapsible > div {
+    overflow: auto;
+}

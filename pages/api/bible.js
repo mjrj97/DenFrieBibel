@@ -12,7 +12,7 @@ const isValidInput = (text) => {
         allowed = false;
     else if (!onlyLettersOrNumberRegex.test(simple))
         allowed = false;
-    else if (simple.length > 4)
+    else if (simple.length > 5)
         allowed = false;
     else if (simple.includes("drop"))
         allowed = false;
@@ -41,6 +41,7 @@ const handler = async (req, res) => {
                 for (let i = 0; i < books.length; i++) {
                     books[i].chapters = [];
                 }
+
                 const chapters = arrayResult(await connection.query('SELECT BookID, Translation FROM Chapter'));
                 for (let i = 0; i < chapters.length; i++) {
                     let bookID = chapters[i].BookID;
@@ -54,6 +55,7 @@ const handler = async (req, res) => {
                     else {
                         //Check whether the queryed book exists to prevent injection of unwanted content
                         const found = arrayResult(await connection.query('SELECT BookID, Chapters, Name, Abbreviation FROM Book WHERE Abbreviation = ?', [book]))[0];
+
                         if (found) {
                             if (chapter) {
                                 if (chapter <= found.Chapters && chapter > 0) {

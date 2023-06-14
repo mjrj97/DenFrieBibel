@@ -32,7 +32,7 @@ const Register = () => {
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ name, email, password, confirmPassword })
             };
-            fetch('http://localhost:3000/api/auth/register', requestOptions)
+            fetch('/api/auth/register', requestOptions)
             .then(response => { 
                 if (response.status === 201) {
                     router.push("/");

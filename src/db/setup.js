@@ -99,6 +99,11 @@ async function setupTables() {
     await setupTable('Contributor', `ChapterID SMALLINT(6) NOT NULL, 
                             Type VARCHAR(2048) NOT NULL,
                             Name VARCHAR(2048) NOT NULL`);
+
+    await setupTable('Session', `SessionID TINYTEXT(255) NOT NULL, 
+                            UserID INT(11) NOT NULL,
+                            LastRefresh BIGINT(20) NOT NULL, 
+                            PRIMARY KEY (SessionID)`);
 }
 
 async function setupTable(name, values) {

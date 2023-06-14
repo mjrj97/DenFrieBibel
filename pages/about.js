@@ -22,7 +22,7 @@ const About = () => {
                     Total: 0
                 }
                 let NT = {
-                    Name: "GT",
+                    Name: "NT",
                     Incomplete: 0,
                     Raw: 0,
                     Partial: 0,

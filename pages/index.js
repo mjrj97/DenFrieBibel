@@ -51,7 +51,6 @@ const Index = () => {
         let array = [...selected];
         array.push(number);
         setSelected(array);
-        console.log(array);
     }
     else 
     {

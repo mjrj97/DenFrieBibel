@@ -2,7 +2,7 @@
   --sixty: #DDD0C8;
   --thirty: #ffffff;
   --ten: #000000;
-  --accent: #cbc6af;
+  --accent: #e0e0e0;
   --hard-accent: #9d977b;
   --link: #3f73d9;
   --hard-link: #3620a4;
@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: "Quicksand";
-  src: url('Quicksand.ttf');
+  src: url('Mate.ttf');
   font-weight: 500;
   font-style: normal;
 }
@@ -23,11 +23,26 @@
   font-style: normal;
 }
 
+@page  
+{ 
+    size: auto; /* auto is the initial value */ 
+    margin: 15mm; /* this affects the margin in the printer settings */ 
+}
+
+html,
 body {
-  background-color: var(--sixty);
-  overflow-y: scroll;
   font-family: "Quicksand";
-  min-height: 100vh;
+  font-size: 0.9rem;
+  background-color: var(--thirty);
+
+  overscroll-behavior-y: none;
+  touch-action: pan-y;
+  scrollbar-gutter: stable;
+
+  @media (min-width: 768px) { 
+    background-color: var(--sixty) !important;
+    font-size: 1rem;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,9 +65,13 @@ a:hover {
 
 .disabled {
   pointer-events: none;
-  opacity: 100% !important;
-  background-color: lightgray !important;
+  opacity: 90% !important;
+  background-color: #eeeeee !important;
   color: grey !important;
+}
+
+.sixty {
+  background-color: var(--sixty);
 }
 
 .thirty {
@@ -76,10 +95,9 @@ a:hover {
   z-index: 1000000 !important;
 }
 
-
-
-
-
+.navbar {
+  background-color: var(--accent) !important;
+}
 
 .accountpage-image {
   display: inline-block;

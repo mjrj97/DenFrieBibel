@@ -1,5 +1,6 @@
 // Libraries
 import Head from 'next/head'
+import Image from 'next/image';
 
 const Account = () => {
   return (
@@ -9,7 +10,7 @@ const Account = () => {
       </Head>
       <div>
         <div className='mb-5'>
-          <img src='/user.png' className='accountpage-image' alt="Account image"/>
+          <Image src='/user.png' className='accountImage' alt="Account image" width={100} height={100}/>
           <div className='accountpage-container mx-4'>
             <h2 className='accountpage-name'>Martin J. R. Jensen</h2><br/>
             <span><strong>E-mail:</strong> martin.jensen.1997@hotmail.com</span><br/>

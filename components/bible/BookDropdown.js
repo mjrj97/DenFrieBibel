@@ -120,7 +120,7 @@ function BookDropdown({book, chapter, books, changed}) {
         setPrevious(previousChapter);
     }, [currentChapter]);
 
-    const colourStyles = {
+    const desktopStyles = {
         control: base => ({
             ...base,
             height: 50,
@@ -154,25 +154,52 @@ function BookDropdown({book, chapter, books, changed}) {
           };
         }
     };
+    
+    const phoneStyles = {
+        ...desktopStyles,
+        control: base => ({
+            ...base,
+            height: 40,
+            minHeight: 40,
+            fontSize: 16,
+            fontWeight: 900
+        })
+    }
 
     return (
         <>
-            <div className={`sticky-top ${styles.stickyDropdown} d-print-none`}>
+            <div className={`sticky-top ${styles.stickyDropdown} ignore d-print-none`}>
                 <div className="px-0 mx-0">
                     <div className={styles.arrowContainer}>
-                        <div className='d-flex justify-content-between'>
-                            <button className={`btn btn-light ${styles.arrow} ${styles.arrowLeft} ignore d-none d-md-block` + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
-                            <button className={`btn btn-light ${styles.arrow} ${styles.arrowRight} ignore d-none d-md-block` + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
+                        <div className='d-none d-md-block w-100'>
+                            {previous ? <button className={`btn btn-light ${styles.arrow} ${styles.arrowLeft}`} onClick={() => {setCurrentChapter(previous)}} type="button">←</button> : <></> }
+                            {next ? <button className={`btn btn-light ${styles.arrow} ${styles.arrowRight}`} onClick={() => {setCurrentChapter(next)}} type="button">→</button> : <></> }
                         </div>
-                        <button className={`btn btn-light ${styles.arrow} ${styles.arrowLowerLeft} ignore d-block d-md-none` + (previous ? '' : ' disabled')} onClick={() => {setCurrentChapter(previous)}} type="button">←</button>
-                        <button className={`btn btn-light ${styles.arrow} ${styles.arrowLowerRight} ignore d-block d-md-none` + (next ? '' : ' disabled')} onClick={() => {setCurrentChapter(next)}} type="button">→</button>
+                        <div className='d-block d-md-none'>
+                            {previous ? <button className={`btn btn-light ${styles.arrow} ${styles.arrowLowerLeft}`} onClick={() => {setCurrentChapter(previous)}} type="button">←</button> : <></> }
+                            {next ? <button className={`btn btn-light ${styles.arrow} ${styles.arrowLowerRight}`} onClick={() => {setCurrentChapter(next)}} type="button">→</button> : <></> }
+                        </div>
                     </div>
                     <div className={`row ${styles.selectContainer}`}>
-                        <div className='col-8'>
-                            <Select instanceId={useId()} className='soft-shadow' value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={colourStyles}/>
+                        <div className='d-none d-md-block'>
+                            <div className='row'>
+                                <div className='col-8'>
+                                    <Select instanceId={useId()} className='soft-shadow' value={currentBook} options={currentBooks} onChange={(e) => setCurrentBook(e)} styles={desktopStyles}/>
+                                </div>
+                                <div className='col-4'>
+                                    <Select instanceId={useId()} className='soft-shadow' value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={desktopStyles}/>
+                                </div>
+                            </div>
                         </div>
-                        <div className='col-4'>
-                            <Select instanceId={useId()} className='soft-shadow' value={currentChapter} options={chapters} onChange={(e) => setCurrentChapter(e)} styles={colourStyles}/>
+                        <div className='d-block d-md-none'>
+                            <div className='row'>
+                                <div className='col-7'>
+                                    <Select instanceId={useId()} className='soft-shadow' value={currentBook} options={currentBooks} isSearchable={false} onChange={(e) => setCurrentBook(e)} styles={phoneStyles}/>
+                                </div>
+                                <div className='col-5'>
+                                    <Select instanceId={useId()} className='soft-shadow' value={currentChapter} options={chapters} isSearchable={false} onChange={(e) => setCurrentChapter(e)} styles={phoneStyles}/>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div className={styles.transparentTransition}/>

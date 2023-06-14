@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { useEffect, useState } from 'react';
 import styles from './AccountBar.module.css';
+import Image from 'next/image';
 
 const AccountBar = () => {
     const [user, setUser] = useState();
@@ -28,7 +29,7 @@ const AccountBar = () => {
                 (<>
                     <button type="button" className={styles.accountButton} onClick={logout}>Log ud</button>
                     <Link className={styles.accountButton} href="/account">{user.name}</Link>
-                    <img src='/user.png' className={styles.accountImage} alt='profile picture'/>
+                    <Image src='/user.png' className={styles.accountImage} alt='profile picture' width='100' height='100'/>
                 </>) : 
                 (<>
                     <Link className={styles.accountButton} href="/login">Log ind</Link>

@@ -20,7 +20,7 @@ const App = ({ Component, pageProps: { session, ...pageProps } }) => {
       <Head>
           <link rel="icon" href="/icon.png" />
       </Head>
-        <div className='p-md-4'>
+        <div className='p-md-4 d-none d-md-block'>
           <AccountBar/>
           <div className='col-xl-5 col-lg-8 col-md-8 col-xs-10 mx-auto'>
             <Header>
@@ -29,6 +29,12 @@ const App = ({ Component, pageProps: { session, ...pageProps } }) => {
             <Body>
               <Component {...pageProps} />
             </Body>
+          </div>
+        </div>
+        <div className='d-block d-md-none'>
+          <Navbar/>
+          <div className='p-4'>
+            <Component {...pageProps} />
           </div>
         </div>
     </>

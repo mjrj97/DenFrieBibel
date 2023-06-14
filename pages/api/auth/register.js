@@ -56,7 +56,7 @@ const handler = async (req, res) => {
                     lastRefresh: Date.now()
                 }
 
-                await connection.query('INSERT INTO Session (SessionID, UserID, LastRefresh) VALUES (?, ?, ?);', [session.id, session.userID, session.lastRefresh])
+                await connection.query('INSERT INTO Session (SessionID, UserID, LastRefresh) VALUES (?, ?, ?);', [session.id, session.userID, session.lastRefresh]);
 
                 const cookie = serialize("session-token", session.id, {
                     httpOnly: true,
